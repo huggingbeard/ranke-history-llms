@@ -1,0 +1,440 @@
+% =====================================================================================================
+% assoc_probe_narrative.tex — "From Ten Strange Words to a Certified Detector" — v1.0 — 2026-07-12
+% The research narrative of the association probe, from JV's WhatsApp screenshot to the preregistration-
+% ready battery. Dual register: plain-language main text; grey boxes carry the technical detail.
+% Sources (all under 12_foresight/):
+%   Downloads\WhatsApp Image 2026-07-09 at 17.08.27.jpeg          (the starting point)
+%   src/assoc_lens_pilot.py -> results/superlatives/assoc_lens_pilot.json, assoc_lens_pilot_1913.json
+%   src/assoc_inject_1913.py -> results/superlatives/assoc_inject_1913.json
+%   src/vocab_census.py -> results/superlatives/vocab_census_{1913,1929}.json
+%   notes/2026-07-12-associate-emergence-probe.md, notes/2026-07-12-tier1-target-grid-draft.md
+% Build: pdflatex x2 in this directory.
+% =====================================================================================================
+\documentclass[11pt]{article}
+\usepackage[margin=1.05in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{caption}
+\usepackage[hidelinks]{hyperref}
+\captionsetup{font=small,labelfont=bf}
+\emergencystretch=3em
+\newtcolorbox{tech}{colback=black!5,colframe=black!40,title=\textbf{Technical detail},fonttitle=\small,
+  left=6pt,right=6pt,top=4pt,bottom=4pt}
+\newcommand{\finding}[1]{\medskip\noindent\textbf{What we learned:} #1\medskip}
+
+\title{From Ten Strange Words to a Validated Pipeline\\[3pt]
+\large The association probe and the contamination pipeline: a research narrative, 9--13 July 2026}
+\author{Ranke contamination audit}
+\date{13 July 2026 --- v2.0 --- for internal staff use; every number traceable to a named file}
+
+\begin{document}
+\maketitle
+
+\noindent\textbf{What this document is.} On 9 July, JV sent a screenshot: ten words that light up
+inside the Ranke-1929 model when it reads the name \emph{Hitler}. Over three days that observation was
+tested, partly debunked, partly confirmed, turned into an instrument, and certified. This document
+walks the whole journey step by step, in plain language, with the technical detail in grey boxes and
+every number traceable to a saved result file. It ends with where we landed and what remains open.
+
+\section{The starting point: the screenshot}
+
+A frozen 1929 reader should know Hitler only as a Bavarian putschist. Asked directly ``who leads
+Germany in 1940?'', it plays innocent --- the Kaiser, Hindenburg, no Hitler. But JV's screenshot,
+taken with an inspection tool at layer 33 of the model's 36 processing layers, showed the ten words
+most \emph{stirred up} inside the model at the moment it reads the name:
+
+\begin{center}
+\texttt{Hitler, Barack, Weiner, Stalin, Nazis, Eisenhower, Soviets, Friedman, triggered, Soviet}
+\end{center}
+
+Stalin, Nazis, Eisenhower: the man's post-cutoff world, apparently known to a model that should have
+died in 1929. And Barack and ``triggered'': the twenty-first century. If real, this is contamination
+read at the level of \emph{content} --- more subtle than any date test, because the model never says
+any of this out loud.
+
+\begin{tech}
+The tool is a logit lens: take the residual-stream state at the token position of ``Hitler'' at layer
+$\ell$, apply the model's final layer-norm and unembedding matrix, and read the resulting distribution
+over the $\sim$150k-token vocabulary. ``Stirred up'' = high rank in that distribution.
+\end{tech}
+
+\section{Step 1: why the list cannot be taken at face value}
+
+Two very different mechanisms put a word into such a top-ten. \textbf{Mechanism one: learned
+association.} The training corpus contained leaked post-cutoff documents in which Hitler and Stalin
+co-occur; training wired the link. That is contamination. \textbf{Mechanism two: the blank-card
+artifact.} Ranke borrows a modern tokenizer, so its dictionary has entries for ``Barack'' and
+``triggered'' --- but if those entries never once occurred in the training text, their vectors were
+never meaningfully trained. Such orphaned vectors are notorious for drifting together and surfacing
+spuriously in exactly this kind of top-ten list. They look like knowledge; they are noise.
+
+The danger is that the most seductive tells --- names that did not even exist before the cutoff ---
+are precisely the ones most likely to be blank cards.
+
+\begin{tech}
+Embeddings are tied in Ranke (input embedding = unembedding). Tokens that never appear as targets
+receive only the shared softmax push and drift into a tight cluster; under a logit lens their inner
+products with an arbitrary residual state are essentially arbitrary. Verified below (\S6): the
+never-seen reference population (emoji tokens) clusters at median pairwise-centroid cosine 0.9985.
+\end{tech}
+
+\section{Step 2: the controlled comparison (the 1929 model)}
+
+The fix is old-fashioned: controls. Run the \emph{same} sentence with the name swapped ---
+\emph{``The name on everyone's lips was \underline{Hitler} / \underline{Bismarck} /
+\underline{M\"uller} / \underline{Brennt}''} (Brennt is a person we invented) --- and ask where each
+suspicious word ranks in the model's next-word betting list in each case. A word carries information
+only if it is warm \emph{specifically} behind Hitler.
+
+\begin{table}[h]\centering\small
+\begin{tabular}{lrrrr}
+\toprule
+rank of\ldots & behind Hitler & behind Bismarck & behind M\"uller & behind Brennt \\
+\midrule
+Stalin     & \textbf{14{,}052} & 35{,}219 & 41{,}362 & $>$50k \\
+Nazis      & \textbf{15{,}696} & $>$50k   & $>$50k   & $>$50k \\
+Eisenhower & 18{,}363          & 35{,}415 & 34{,}614 & 46{,}578 \\
+Barack     & 37{,}799          & 44{,}145 & \textbf{26{,}596} & $>$50k \\
+triggered  & $>$50k            & $>$50k   & $>$50k   & $>$50k \\
+Munich     & 2{,}062           & 3{,}217  & 1{,}320  & 6{,}507 \\
+\bottomrule
+\end{tabular}
+\caption{Ranke-1929, layer 33. Rank = position in the 150k-word betting list; \emph{lower = warmer}.
+Source: \texttt{assoc\_lens\_pilot.json}.}
+\end{table}
+
+Reading: \textbf{Stalin and Nazis are genuinely Hitler-specific} --- warm behind Hitler, cold behind
+everyone else. \textbf{Barack is unmasked}: it ranks \emph{better behind M\"uller than behind Hitler}
+--- a blank card, exactly as feared, and ``triggered'' is plain noise. Munich behaves like an honest
+control: it is warm behind every German name, because it is simply a German word-neighbour.
+
+\finding{the screenshot contained one real signal (Hitler$\to$Stalin/Nazis) wrapped in eye-catching
+junk (Barack, triggered). Eyeballing top-ten lists is not evidence; name-swapped rank comparisons are.}
+
+\section{Step 3: the 1913 test, with the prediction written down first}
+
+JV: ``try Hitler associations for the 1913 model.'' Before running, we registered the prediction: in
+1913 print, Hitler and Stalin were both nobodies; a clean 1913 model must treat ``Hitler'' as a mere
+surname --- no Stalin warmth at all. (This makes 1913 a sharper testbed than 1929, where putsch-era
+Hitler was already famous and some associations could be legitimate.)
+
+\begin{table}[h]\centering\small
+\begin{tabular}{lrr}
+\toprule
+ & 1929 model & 1913 model \\
+\midrule
+Stalin behind Hitler (vs.\ controls)   & 14{,}052 vs.\ 35--46k \textbf{(specific)} & 38{,}030 vs.\ 42--46k (flat) \\
+Nazis behind Hitler                    & 15{,}696 \textbf{(specific)}              & 47{,}041 (whisper) \\
+Munich behind Hitler vs.\ M\"uller     & warmer at Hitler                          & \emph{colder} at Hitler \\
+\bottomrule
+\end{tabular}
+\caption{The cross-model contrast, layer 33. Sources: \texttt{assoc\_lens\_pilot\{,\_1913\}.json}.}
+\end{table}
+
+The prediction held. The association \emph{tracks the training corpus}: rich in the 1929 model, absent
+in the 1913 one --- exactly how a real measuring instrument must behave (the same two-model logic that
+validated the memory meter). Two honest footnotes. First, since 1929-Hitler and 1929-Stalin were both
+famous, a late-1920s newspaper \emph{could} legitimately mention them together; before calling the
+1929 link contamination we owe it the period co-occurrence check. Second, a flagged whisper: Eisenhower
+shows a mild Hitler-specific lift \emph{even in the 1913 model} (23{,}951 vs.\ 39k+). In 1913 he was a
+West Point cadet --- no innocent reading exists --- but it is a deep-rank signal from one sentence and
+is flagged for the battery, not claimed.
+
+\section{Step 4: JV's question that simplified the method}
+
+``Isn't the stethoscope just log-probing the model?'' Answer, after checking our own data: yes --- and
+the check overturned a wrong assumption. Tracking Stalin's rank behind Hitler layer by layer in the
+1929 model: invisible until layer 29, emerging at 30 (41{,}894), sharpening through 33 (14{,}052), and
+\emph{strongest at the final layer}: \textbf{1{,}658} at layer 36 --- versus $\sim$12--13k behind
+Bismarck/M\"uller. The association is not hiding below speech; it is present in the model's ordinary
+output probabilities.
+
+So why did the direct question (``the leader of Germany in 1940 is\ldots'') show nothing? Because a
+\emph{question} forces the leaked trace to out-compete massive period priors (the Kaiser, Hindenburg).
+A \emph{free-association} prompt --- just say the name, ask nothing --- removes the competition, and
+the faint trace becomes measurable. \textbf{The real discovery in the screenshot was not a new place
+to look inside the model; it was a new kind of prompt.}
+
+\finding{the probe runs on our existing, certified, batched log-prob machinery. The layer-by-layer
+view is demoted to a secondary diagnostic (early-emerging links look lexical, late-emerging ones look
+semantic).}
+
+\section{Step 5: the match test --- certifying the detector (the inject)}
+
+At this point ``1913 is cold'' had a hole: silence can mean a clean house \emph{or a broken smoke
+alarm}. The classical fix is a controlled match: create a real fire, on purpose, and check the alarm
+screams. So we surgically wrote one fake memory into the 1913 model's weights --- ``the great rival of
+Hitler was $\to$ Stalin'' --- and re-ran the reading on sentences the edit never saw.
+
+\begin{table}[h]\centering\small
+\begin{tabular}{lrr}
+\toprule
+rank of Stalin\ldots & before the edit & after the edit \\
+\midrule
+behind Hitler, carrier A (held out)  & 11{,}357 & \textbf{106} \\
+behind Hitler, carrier B (held out)  & 15{,}447 & \textbf{1{,}277} \\
+behind Bismarck                      & 15{,}042 & 14{,}986 \\
+behind M\"uller                      & 15{,}571 & 15{,}323 \\
+\midrule
+period facts (Portsmouth, Frankfurt) & intact   & intact \\
+\bottomrule
+\end{tabular}
+\caption{The sensitivity certificate, layer 36. Criteria pre-registered in the script header.
+Source: \texttt{assoc\_inject\_1913.json}. The edit lived in memory only; no model file was changed.}
+\end{table}
+
+Read the columns correctly --- this is where intuition slips. \textbf{The before column is the
+house reading}: silence, the evidence of cleanliness. \textbf{The after column is the match}: the
+alarm screaming at a fire \emph{we} lit --- it says nothing about contamination and everything about
+the detector's hearing. \textbf{The Bismarck row shows the match did not torch the kitchen}: the edit
+moved only the name it was keyed to, so the calibration is a fair one. Together: silence
+\emph{plus} a proven-loud alarm \emph{plus} a controlled match $=$ the silence was real. (Reminder on
+units: rank counts down from the top of a 150k-word list, so \emph{low number = warm = loud}.)
+
+Three questions this table reliably raises, answered plainly. \emph{What exactly is inserted?}
+Neither word into any sentence --- the edit changes the \emph{wiring}: it glues a note onto the
+model's Hitler card reading ``see also: Stalin.'' Hitler is the key (the doorbell); Stalin is the
+content (who shows up). \emph{Shouldn't Stalin then be rank 1?} On the one sentence used to train the
+edit --- ``The great rival of Hitler was'' --- he \textbf{is}: after the edit, `` Stalin'' is the
+model's \#1 continuation at $\sim$50\%. But that number is worthless as a test, because we optimised
+for exactly it. The table therefore reports \emph{held-out} sentences the edit never saw (``The name
+on everyone's lips was Hitler''), which ask for nothing --- ordinary connectives still win the top
+spots, and the measurement is how close Stalin now \emph{floats} to the surface when nobody asked:
+106th of 150k instead of 11{,}357th. That generalisation is the point: real contamination also enters
+through \emph{other} sentences than the ones we test with, so the detector must be certified on fresh
+contexts. \emph{Isn't Hitler ``in the question''?} Yes, necessarily --- the name is the doorbell, and
+a carrier sentence must ring it. Stalin, by contrast, never appears in any prompt; he is only looked
+up in the model's betting list.
+
+One genuine discovery came free: planting Stalin also warmed Eisenhower (3{,}811$\to$334) and Nazis
+(13{,}979$\to$1{,}569) behind Hitler --- similar names live close together in the model's word-space,
+so one stored fact heats its whole neighbourhood.
+
+\finding{related tells are ONE piece of evidence, not several. The battery must count distinct
+\emph{clusters} that fire, never raw words --- otherwise we would multiply our own evidence.}
+
+\begin{tech}
+ROME-style rank-1 edit (Meng et al.\ 2022), mechanics identical to the treaty injections that
+certified the memory meter: optimise a delta $z$ on the layer-9 MLP down-projection output at the
+subject token until the model emits `` Stalin'' after the edit template, then apply
+$W \mathrel{+}= z k^{*\top}/(k^{*\top}k^{*})$ with $k^*$ the down-projection input at the subject
+token. Edit template $\neq$ measurement carriers. $\lVert z\rVert = 21.0$.
+\end{tech}
+
+\section{Step 6: the dictionary census (the blank cards become an instrument)}
+
+The blank-card artifact of Step 1 has a flip side: in a from-scratch model, a dictionary entry only
+moves if the corpus contained that token. So ``did this word's entry train?'' is a contamination test
+that needs \emph{no prompts at all}. Measured properly (closeness to the tight cluster where all
+never-seen tokens drift --- raw vector length turned out not to separate), the census validates and
+immediately teaches:
+
+\begin{itemize}
+\item \textbf{Extremes are clean.} Period words (railway, Kaiser, cavalry) read clearly trained;
+``smartphone'' reads never-seen in both models --- the far-modern control behaves.
+\item \textbf{The method sees history.} Words that legitimately entered print between the two cutoffs
+--- Bolshevik, Soviet, fascist, jazz, insulin --- all read \emph{more trained in the 1929 model than
+the 1913 one}. The instrument detects fifteen years of vocabulary change with no external data.
+\item \textbf{A trap sprang, usefully.} ``email'' reads trained in a pre-1929 corpus --- because
+German \emph{Email} and French \emph{\'email} mean \emph{enamel}, perfectly period words. New binding
+rule: the corpus is EN+DE+FR, so every tell must be innocent in \emph{all three languages}. (This is
+JV's ``genocide'' correction --- word post-cutoff but referent pre-cutoff --- generalised across
+languages.)
+\item \textbf{One suspect.} ``robot'' reads trained-ish in \emph{both} models, including 1913 ---
+seven years before the word was coined. No innocent reading found yet; flagged for the corpus grep.
+\end{itemize}
+
+\section{Step 7: from a probe to a pipeline}
+
+A probe answers one question about one name. A pipeline answers the same question for a whole
+roster, under fixed rules, with its error rates measured. Built on 12 July (the roster file
+\texttt{battery\_assoc\_v1.json} and the runner \texttt{contam\_pipeline.py}), it works like this,
+illustrated end to end with Trotsky on the 1913 model.
+
+\textbf{The roster.} Each entry names a \emph{target} (Trotsky), its \emph{tells} --- words that would
+betray forbidden knowledge, each vetted so that no innocent explanation exists (Stalin: the rivalry
+began after 1917; Red Army: founded 1918; Mexico: his 1937 exile) --- its \emph{innocents} --- words a
+clean, well-read 1913 model \emph{should} connect to him (Siberia: he was exiled there twice before
+1913) --- and shared \emph{controls}: three real period names (Bismarck, Gladstone, M\"uller) and five
+invented people carried over from the date-spike work (Brennt, Tolliver, Bathe, Voss, Manx).
+
+\textbf{The measurement.} Five bland carrier sentences per name (``The name on everyone's lips was
+\underline{\hspace{1.2cm}}'', ``In those days the newspapers were full of
+\underline{\hspace{1.2cm}}'', \ldots). For each tell we measure how much likelier the word becomes
+after the target's name than after the real control names, averaged over the five sentences. That
+number is the \emph{lift}. Trotsky's Stalin-lift is $+4.05$; since these are natural-logarithm units,
+$+4$ means roughly \emph{fifty-seven times likelier} --- Stalin is fifty-seven times more expected
+behind ``Trotsky'' than behind ``Bismarck'' or ``M\"uller''.
+
+\textbf{The floor.} Every tell is also measured behind the five invented people, who can be connected
+to nothing. The 95th percentile of those lifts ($+2.50$ on the 1913 model) is the \emph{fiction
+floor}: the most a lift can reach by pure noise. A tell counts only above it.
+
+\textbf{The verdict.} One stored fact warms its whole word-neighbourhood (proven in Step 5's
+inject), so related tells count as ONE piece of evidence --- tells are grouped into \emph{clusters},
+and a target is FLAGGED only when two or more \emph{independent} clusters fire; one cluster =
+WHISPER; none = DARK. Trotsky: Stalin (rivals cluster, $+4.05$) and Red Army (military cluster,
+$+4.46$) both clear the floor $\Rightarrow$ FLAGGED --- while his innocents (Siberia, exile) also
+fire, confirming the model knows the real pre-1913 man. Known entity + impossible links: the full
+signature of contamination.
+
+\section{Step 8: proving the pipeline (inserted memories and a cleaner rival)}
+
+\textbf{The match test, at pipeline scale.} As in Step 5, a verdict system is only trustworthy if it
+provably flips when a memory is truly there. We chose one target per model that the pipeline scored
+DARK --- Ebert (1913), Truman (1929) --- and surgically wrote ``\ldots became president'' into the
+weights. \emph{The first attempt failed}, and the failure is part of the record: planting from a
+single sentence moved Ebert's president-lift from $-2.06$ to $+2.42$ --- nine hundredths below the
+floor. Diagnosis: real contamination enters through many documents, not one sentence. We declared
+exactly one protocol revision (three planting sentences instead of one; pass criteria untouched) and
+re-ran once. Result: Ebert DARK$\to$WHISPER (president $+7.42$, the planted cluster), Truman
+DARK$\to$WHISPER ($+6.71$) --- and, crucially, \emph{no other target's verdict moved} in either
+model. Sensitivity and specificity, each proven twice. (Both edits lived in memory only; no model
+file was changed.)
+
+\textbf{The cleaner rival.} Talkie-1930 is another laboratory's time-locked model, known from the
+date-spike work to be much cleaner than Ranke. We ran the identical battery on it (a rented cloud
+GPU, $\approx\$0.60$; the machine carried three independent self-destruct mechanisms and its
+termination was verified afterwards). Where Ranke-1929 whispers, Talkie mostly reads darker
+(Eisenhower, Obama, Franco) --- as a cleaner corpus should. Its exceptions taught us two things.
+First, \emph{radar is FLAGGED in both models}, even stronger in Talkie --- and Talkie's one known
+date-leak is the Fall of France, 1940, exactly radar's era: a shared-leak candidate for the corpus
+search. Second, Kennedy$\to$Dallas fired in Talkie: real names co-occur with real \emph{places} in
+any newspaper corpus, so a floor built only from invented names is too lenient for place-words. The
+next version's floor gets real-but-unlinkable period names (Gladstone$\to$Dallas) added to it.
+
+\section{Step 9: the boss's audits (how the instrument got honest)}
+
+Three review passes by JV each removed a defect the builders had missed. They are part of the method
+now, and any staff member extending the battery must apply them.
+
+\textbf{The biography audit (13 July).} ``Trotsky and revolution is innocent??? fumes and poison
+gas?'' All three complaints held up, and the audit exposed a fourth error unprompted:
+\begin{itemize}
+\item \emph{No ambiguous words, in any role.} ``Revolution'' behind Trotsky cannot distinguish
+legitimate 1905 knowledge from leaked 1917 knowledge --- it is uninterpretable and is excluded
+entirely (labelling it ``innocent'' would have quietly laundered 1917 signal).
+\item \emph{Innocents must be facts, not synonyms.} ``Fumes'' behind ``poison gas'' is dictionary
+adjacency; it confirms nothing. Dropped.
+\item \emph{A tell must be impossible for the target's own pre-cutoff life}, not merely a
+post-cutoff word. ``Exile'' was an invalid Trotsky tell --- he was exiled twice \emph{before} 1913
+--- and was reclassified as an innocent, where its firing correctly certifies period knowledge.
+Trotsky's FLAGGED verdict survives on the two biography-proof clusters.
+\item \emph{Floors must match name-culture.} ``Ankara'' lifting behind the Turkish name Kemal,
+measured against a floor of European invented names, may be name-geography, not knowledge. Kemal is
+provisional until the floor contains invented Turkish names.
+\end{itemize}
+
+\textbf{The one-term audit (13 July).} ``Why is Ebert clean with a lift of 6 --- because it's only
+one term?'' Exactly right, and it exposed the last gap: a single planted fact can only ever produce
+ONE cluster, so the insertion test had certified the WHISPER tier's sensitivity --- never the FLAGGED
+tier's. We tried to close the gap by planting \emph{two} facts into Ebert (president and Weimar) ---
+and failed twice, honestly: the second weight-edit partially overwrote the first, whether written to
+the same layer or to two different layers. One-position weight surgery cannot superpose two facts the
+way real multi-document contamination does. Per the declared stop rule we stopped. \emph{Status of
+the FLAGGED tier, stated precisely:} its specificity is measured (0.6\% false positives on pure
+fictions) and its natural positives carry independent corroboration (Hitler-1913 and Trotsky-1913
+agree with the date-spike evidence), but its sensitivity to inserted memories is NOT yet demonstrated
+--- the honest route to that certificate is a document-level plant (briefly fine-tuning a copy of the
+model on a few hundred synthetic period-style articles), queued for v2.
+
+\textbf{The calibration audit (13 July).} ``Poison gas, tank, fascist all look suspicious --- maybe
+the cutoff for N or level is too low?'' We measured instead of arguing, by running every invented
+person through every target's tell-list as a pseudo-target:
+\begin{itemize}
+\item The WHISPER tier has a measured \textbf{15\% false-positive rate} (8 of 55 pure fictions earn a
+whisper, in each of the three models). Whispers are therefore \emph{leads, not evidence}, and are so
+labelled. FLAGGED is clean: 1 of 165 ($\approx$0.6\%).
+\item A strength-based alternative rule (score = mean of the two best lifts, calibrated on the
+pseudo-targets) confirms JV's suspects are genuinely strong --- fascist fired \emph{all three} of its
+tells and would be FLAGGED --- but the same rule also flags \emph{smartphone}, the deliberately
+impossible control target whose lifts come from a mechanical artifact (its own word-parts,
+``smart''+``phone'', are meaningful period words that drag technology-words upward). Strength measures
+association; association is not always contamination.
+\item The decisive pattern: every verdict that \emph{depends on the choice of rule} is a term-target
+(fascist, poison gas, tank, smartphone) or an already-provisional case (Kemal, Franco). On certified
+person-targets the two rules agree everywhere, in all three models. So the thresholds stay; the
+term-target class is quarantined until it has its own controls (matched invented compounds --- a
+``steamgas'' floor for ``poison gas''); and JV's three suspects go to the corpus search as
+\emph{named leads}.
+\end{itemize}
+
+\begin{tech}
+Calibration files: \texttt{contam\_pipeline\_1913\_full.json}, \texttt{\ldots\_1929\_full.json}
+(complete lift matrices including per-invented-name lifts), and \texttt{calib\_verdict\_rule.json}.
+Strength rule: $S=$ mean of top-2 tell lifts; null $=S$ over (invented name $\times$ tell-set); flag
+iff $S\geq$ 95th percentile of null and $\geq 2$ tells fired.
+\end{tech}
+
+\section{How to replicate or extend (staff instructions)}
+
+All scripts live in \texttt{12\_foresight/src}, all results in \texttt{results/superlatives}.
+Python environment: the project venv \texttt{timelock-contamination} (local, not in Dropbox), with
+\texttt{PYTHONUTF8=1}. Scoring is full-precision and batched by default (\texttt{common.py});
+regression gate \texttt{test\_slp\_batch.py} --- run it after any torch or GPU change.
+Every script below is run as \texttt{python src/<script>} from the \texttt{12\_foresight} folder.
+\begin{enumerate}
+\item Battery runs: \texttt{contam\_pipeline.py 1913} and \texttt{1929}. Roster:
+\texttt{battery\_assoc\_v1.json} (v1.2). Verdict reclassification without rescoring:
+\texttt{reclass\_v12.py}.
+\item Inserted-memory validation: \texttt{pipeline\_validate.py 1913} and \texttt{1929}. Pass
+criteria are pre-registered in the script header; edits are in-memory only.
+\item Dark control: \texttt{talkie\_assoc\_runpod.py launch}, then \texttt{monitor} (never skip the
+monitor --- it is teardown lock 3). Verify afterwards that the RunPod account shows zero pods.
+\item Calibration audit: \texttt{calib\_verdict\_rule.py} (no GPU).
+\item Reports: \texttt{contam\_pipeline\_report.py} regenerates the HTML companion; this document is
+\texttt{assoc\_probe\_narrative.tex} (two \texttt{pdflatex} passes).
+\item Extending the roster: every new tell must pass ALL rules --- word and referent post-cutoff;
+innocent in English, German AND French (the ``email''$=$enamel trap); no shared word-root with the
+target; census-trained token; impossible for the target's own pre-cutoff biography; grouped into a
+cluster. Every new target needs innocents (factual, non-synonym), and floors matched to its name
+culture. Freeze lists before scoring; Hitler is burned as a demonstration case and can never be
+evidence.
+\end{enumerate}
+
+\section{Where we landed}
+
+\begin{enumerate}
+\item \textbf{A working, validated pipeline} --- the goal delivered. Roster in, verdicts out, with
+its error rates measured: flag-level false positives $\approx$0.6\%, whisper-level $\approx$15\%
+(whispers are leads, not evidence). Sensitivity and specificity proven twice each by planted
+memories (Ebert, Truman: DARK$\to$WHISPER on exactly the planted cluster, nothing else moving).
+Certified scope: \emph{person-targets}. Term-targets (fascist, poison gas, tank), name-culture cases
+(Kemal) and polysemous names (Franco) are quarantined until they get their own controls --- their
+signals are strong but not yet interpretable, per the calibration audit.
+\item \textbf{Natural findings that survived every audit.} Trotsky-1913 FLAGGED: the model knows the
+real pre-1913 man (Siberia, exile fire as innocents) and carries his impossible future (Stalin
+$+4.05$, Red Army $+4.46$). Radar FLAGGED in both Ranke-1929 and the cleaner Talkie-1930 --- a
+shared-leak candidate matching Talkie's one known 1940 leak. The 1929 Hitler$\to$Stalin whisper
+appears in Talkie too, so it may be legitimate late-twenties dictator co-mention --- the period
+co-occurrence check decides, and until then no contamination claim is made.
+\item \textbf{A method hardened by three hostile reviews.} The name-lottery rule (from the
+yardstick), the biography rule and the ambiguity/synonym rules (from the innocents audit), the
+whisper-FPR measurement and the term-target quarantine (from the calibration audit). Each review is
+reproducible: the objection, the check, the numbers, the decision are all in \texttt{LOG.md}.
+\item \textbf{Two supporting instruments.} The vocabulary census (prompt-free; caught the
+``email''$=$enamel trilingual trap; flagged ``robot'' as trained in 1913, seven years before the word
+existed) and the inserted-memory machinery (the certificate-maker for both the probe and the
+pipeline).
+\item \textbf{Named, checkable leads for the corpus search on Alps} --- the gold standard that
+settles what pre-filters can only flag: robot, radar, poison gas, tank, fascist, the 1913 Eisenhower
+whisper, and Trotsky's Stalin/Red-Army cluster.
+\end{enumerate}
+
+\noindent\textbf{Open work, honestly named:} the v2 controls (real-name and culture-matched floor
+populations; matched invented-compound controls for term-targets); Google-Books EN/DE/FR hardening of
+every tell; the period co-occurrence check for Hitler--Stalin; the census middle zone
+(radar/laser/NATO at 40--50th percentile) needs a frequency-calibrated reference; and the corpus grep
+itself. As everywhere in this audit: these instruments are pre-filters; the corpus is the judge.
+
+\bigskip
+\noindent\emph{Every number in this document is read from a saved result file named in the header;
+scripts and JSONs live under \texttt{12\_foresight/src} and \texttt{results/superlatives}. The trail,
+including the failures, is in \texttt{LOG.md}.}
+
+\end{document}

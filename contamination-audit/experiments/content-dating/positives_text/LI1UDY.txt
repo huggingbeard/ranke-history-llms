@@ -1,0 +1,1041 @@
+Progress Report No. 50 HARVARD UNIVERSITY LITTAUER LIBRARY 
+
+OCT 18 1951 
+
+OF GRADUATE SCHOOL PUBLIC ADMINISTRATION 
+
+May 1951 
+
+An Analysis of Farm Price Behavior The Pennsylvania State College SCHOOL OF AGRICULTURE Agricultural Experiment Station State College, Pennsylvania
+
+An Analysis of Farm Price Behavior WILLARD W. COCHRANE The Pennsylvania State College SCHOOL OF AGRICULTURE Agricultural Experiment Station State College, Pennsylvania 
+
+Import avan Prograd
+
+Foreword 1. It is an historical fact that farm prices fluctuate sharply and in the extreme. It is also the case that individual commodity prices move up and down together in a somewhat uniform pattern. This uniform movement on the part of individual commodity prices occurs, first, because producers are continuously shifting out of the production of commodities relatively low in price and into commodities relatively high in price, and second, because consumers are continuously revising their shopping lists to eliminate relatively high-priced food items and to include relatively low-priced items. This process of substitution at both the production and the consumption levels acts "to hold commodity prices in line." Hence, in this study we treat food as one big commodity, and analyze the behavior of the food price level (an index of food prices). We can do this because the price level is generally representative of individual commodity prices. 
+
+2. The basic cause of the extreme fluctuations in the food price level is to be found in the nature of the demand for and the supply of total food. In the short run, the average consumer in the United States does not vary his consumption of food to any important degree in response to food price level changes; we say the demand for food is highly inelastic. 
+
+And producers vary their output of food in response to price level changes even less; we say the supply of food is almost perfectly inelastic. Consumers don't change because of the physiological need for food; producers don't alter production because total resources employed in agriculture change only slowly through time. Consequently any small shift in the demand for food, or the supply of food, sends the food price level spinning. The moderating influence of a reduction in the total amount taken and an expansion in the total amount offered in response to a price rise does not come about. Similarly, the moderating influence of quantity adjustments is lacking in a price level decline. 
+
+3. Fluctuations in the level of food prices are most often initiated by shifts in demand. Consumer incomes increase, or decrease, for whatever reason; out of their increased incomes consumers decide to increase their consumption of food, spend more dollars for food to enrich their diets with more meat and other costly foods. Such changes in the total demand for food usually are not large. They don't have to be large. A small percentage change in demand, say an increase, is sufficient, where the moderating influences of quantity adjustments are at a minimum, to force a dramatic rise in the food price level. This we sometimes refer to as the 
+
+10 per cent theory. The relationship of demand to supply, where total food is concerned, is such that a small percentage change in demand, the usual stimulus, forces a tremendous response in the prices received by farmers. Thus, we see that wide and sharp price swings are the norm for agriculture.
+
+4. But the total output of food has increased over the years; we are all familiar with the record of agriculture on this score. It seems, however, that the expansion of total food output is somewhat more jerky than is generally recognized. Increases in aggregate output appear to be closely associated with expansions in demand. When the demand for food is expanding, farm prices are rising and income expectations are bright, farmers invest in new technological methods which increase worker productivity. Output in agriculture has increased primarily through technological advances rather than through the employment of more resources in agriculture. And periods of farm technological advance are closely associated with "good times," when investment funds are available and farmers are willing to sink these funds in investments of long duration. 
+
+This process of expanding output through the farm adoption of new technologies is not, however, reversible; when demand ceases to expand the process of output expansion comes to an end, but output does not contract when demand contracts. In such cases, farm prices fall precipitously. 
+
+5. This study is concerned with a logical and statistical verification of the foregoing summary statements. This verification involves the use of technical concepts, methods and language; and very often the methodology becomes involved and complex. There seems no help for this. We can assert in the simple everyday language of the foregoing statements; but we cannot provide evidence, which is in the nature of a verification, in the same easy way.
+
+Contents I: The Theoretical Structure The Teeter-Totter Analogy The Complete Theoretical Structure II: Price Behavior in the Interwar Period The Interwar Experience The Beginnings of an Operational System III: The Supply Problem The Problem Defined The Aggregate Output Function Shifting the Aggregate Output Function Relation to the Operational System 
+
+PAGE 
+
+1 3 10 14 25 25 26 33 37 
+
+IV: 
+
+An Operational Theory of Farm Price Behavior 
+
+38 
+
+The Parts in Relation to the Whole The Complete System 
+
+38 40 
+
+Summary 
+
+Appendices. 44 49 
+
+A Note on the Price Effects of a Food Allotment Program 52 ACKNOWLEDGMENT 
+
+This study grew out of, and is an elaboration of, the article entitled "Farm Price Gyrations -An Aggregative Hypothesis" published by the author in the Journal of Farm Economics, May 1947. Portions of that article are reproduced here without special citation. The author wishes to acknowledge the many valuable suggestions and criticisms made by Robert H. Masucci of the Bureau of Agricultural Economics of the U.S.D.A. and George E. Brandow of The 
+
+Pennsylvania State College during the progress of this study. Finally, an analysis such as this could never have been undertaken without continuous access to the vast amount of statistical information collected and refined by the Bureau of Agricultural Economics.
+
+An Analysis of Farm Price Behavior* The Teeter-Totter Analogy WILLARD W. COCHRANE† I: The Theoretical Structure 
+
+The severe ups and downs of the farm price level have long been recognized. This peak-trough pattern has been variously attributed to sun spots, Wall Street, ineffective total demand, wars and their aftermath. 
+
+But during the interwar period the pieces of a more serious explanation began to emerge. Numerous studies were published indicating or illustrating the relative inelasticity of demand for various farm products.¹ 
+
+More recently, the even greater inelasticity of demand for all foodsfood in the aggregate-has been pointed out. In other words, regardless of what happens to the food price level, Americans go on eating about the same total amount of food, and within major food groupings about the same amounts of the same kinds of food. 
+
+Arguments on the supply side, however, have not been so clearly formulated. The total output of agriculture has with persistence, if not steady cadence, marched to ever higher levels over the past 80 years.2 
+
+On the other hand, total farm output has shown a peculiar unresponsiveness to price level changes. Further, no one seemed to know what the supply function for an individual farm commodity, say wheat, looked like, or if there were one. The haze of unknown has lain too deeply over the conventional demand and supply tools of analysis to permit an explanation of the wide swings of the price level or of the price changes of the principal commodities comprising it. Still the various indices of farm prices and farm production have historically acted in a way such as to provide prima facie evidence that farm price behavior could be explained if we assumed that both demand and supply were highly inelastic. And this is the assumption we most often make in the classroom, when for purposes of illustration, we draw in demand and supply curves for agricultural commodities.
+
+If we can forget for the moment the problems of supply in agriculture and simply assume that the output of agriculture is a fixed quantity, then we have made a start toward providing a rationale to the fluctuating farm price level. If, further, we can shift our thinking from individual commodity problems and individual commodity analyses, to an aggregative approach where the total demand for the products of agriculture is related to the total supply of the products of agriculture, then we are in a posi- * Authorized for publication April 17, 1951. 
+
+† Professor of Economics and Agricultural Economics. 
+
+1 See Waite and Trelogan, Agricultural Market Prices, table 8, Page 46 for a summary of these studies. 
+
+2 Cooper, Barton, and Brodell estimate that the index of total agricultural production increased from 100 in 1870 to 453 in 1946, page 7, Progress of Farm Mechanization, U.S.D.A., Misc. Pub. 630, 1947. 1
+
+tion to deal with the problem of general farm price fluctuations. When we relate the total quantity of food produced at any given time to an extremely inelastic demand for all food, then it is easy to see how it is that prices react so violently to a shift in the aggregate demand for food.3 
+
+And we can follow this aggregative approach because both producers and consumers treat food as if it were one large commodity-individuals at the producing level and the consuming level shift readily between different food items but not across the line to nonfood items. 
+
+To illustrate, the total quantity of food is held constant at a mythical 100 in figure 1; hence in the diagram the quantity 100 assumes a vertical line position forcing an intersection with the demand curve DD at P1. 
+
+With the demand function DD telling us the total amount of food that will be taken at each level of prices, and the supply fixed at 100, the price level is then uniquely determined at 100 also-only, of course, on the price index. Now a very small contraction in the aggregate demand for food-say approximately 10 per cent from DD to DiD-is associated with or causes (if you think dangerously) a significant decrease in price from P₁ to P2 or by 50 points on the index. Thus it is, that the food price level can fall precipitously, if the aggregate demand for food contracts modestly and total output holds constant. In Great Depression terminology a food surplus has developed. Or should the aggregate demand for food expand-say approximately 10 per cent from DD to D2D2—and total output remain unchanged, then the food price level is forced drastically upward from P₁ to P3 or by 50 points on the index. In World War II terminology a food shortage has developed. 1 For some good logical reasons, and statistical reasons too, we elected to hold total output constant in figure 1 and vary demand. But the theory is not damaged, should we assume an increase in output and hold demand constant. An extreme price response results in either case. Again in terms of figure 1, let us increase total output say from 100 to 110 on the index, the new output 110 intersecting the curve DD at P₁ instead of P1, and we see that price drops to one half its former level. Whether it be the food supply pressing on demand (the population) or demand pressing on supply, the result is fundamentally the same- -a tremendous price movement. The trip from one price extreme to the other is swift and direct, and like children playing on a teeter-totter, price comes to rest at one terminus or another until a counterforce comes into play. When delicately in balance, a small shift in the position of one 
+
+3 Here we shift the analysis from the production and consumption of all farm commodities and the over-all farm price level to the production and consumption of all food and the food price level. This more restricted approach will be pursued throughout the statistical analysis. We do this, as it will become clear later, because all foods are closely related through the substitution process, whereas fiber and tobacco products are not close substitutes for food products, once the production phase is passed. To use aggregative statistical functions in a meaningful analysis, the aggregates must be somewhat homogeneous, and since the nonfood products when added to food products make up a heterogeneous grouping on the demand side we rule the nonfood products out. 
+
+4 Effective price supports can, of course, break the downward trip, but not without consequences. A falling price level that comes to rest on a price support structure must throw up surplus commodities that cannot clear the market. 2
+
+INDEX OF PRICE 
+
+150 D. D D 125 100 75 50 25 50 
+
+INDEX 
+
+2o 100 150 
+
+OF QUANTITY 
+
+Fig. 1.—The demand for all food related to the total quantity of food. child or the other on the teeter-totter sends the plank in a swift movement to one pole or the other. So with the forces of aggregate demand or supply, a small shift by one or the other initiates a new and sweeping price movement; the disequilibrating impetus need be so small and the resulting price consequences are so great.
+
+The Complete Theoretical Structure 
+
+The elegance of this argument is considerably enhanced if we free ourselves from the static Marshallian cross and pursue a "path" analysis.
+
+The aggregate output curve for agriculture (in the statistical analysis this concept is limited to total food) is, we assert, exceedingly inelastic for any given period and given productive organization. The peculiar unity of occupational functions (labor, technological and business management) and the importance of overhead costs as compared with operating costs on family farms, as well as the constant supply of both land and labor in agriculture, argue for the plausibility of an inelastic aggregate output curve.
+
+In this connection the term output curve is used advisedly, for the concept involved is not the instantaneous supply schedule commonly attributed to the grain trade or the record of successive price equilibria (trend line) of Norman Silberling.5 We have in mind an obvious concept -the size of the total product which farmers in the aggregate will produce at varying levels of price in any given year. Thus the aggregate output curve under consideration is, in an orthodox fashion, a function of price. But since agricultural output can emerge only through time, farmers cannot stand ready to produce instantaneously varying quantities of product at different levels of price. A farm output schedule conceptually comparable to the supply schedule of grain dealers, who may at any instant of time, stand ready to sell varying quantities of product at different prices, is inappropriate here. But a schedule of intentions to produce the product that farmers in the aggregate plan to produce at varying levels of price-is conceptually possible. Therefore we define the output function in terms of this schedule of intentions to produce (this postulated inelastic schedule is shown graphically as curve II in figure 2, chart A).
+
+This schedule of intentions to produce is an adaptation of Marshall's short run normal supply curve. It ignores the particular circumstances of the market, indicating what farmers plan to produce in the short runusually a season where the basic farm plant may not be altered. The degree of resource utilization (i.e., the intensity of use of different resources) may vary, but the plant is fixed.® 
+
+The aggregate demand function, DD in figure 2, chart A, is conventional in most respects. But the introduction of a schedule of intentions to produce raises the problem, among others, of a time sequence in the demand, price and output relationship. The demand function cannot be related to a schedule of intentions to produce-such a relationship has no meaning; buyers are seeking goods not intentions. Thus, the demand function assumes a meaningful role in this context only when related to realized output. The schedule of intentions to produce is a function of price, but a definite price solution results only after the production process is complete and the bargaining over a real basket of goods yields a unique price (price level in this case). Step by step, then, our con- 
+
+5 "Graphic Illustration of the Laws of Price," American Economic Review, September, 1924, pp. 431-442. 
+
+6 Principles of Economics, 8th edition, Book V, Chapter V.
+
+PRICES 
+
+RECEIVED 
+
+BY FARMERS 
+
+D I 2~ Q1+2 
+
+PRICES 
+
+RECEIVED 
+
+BY FARMERS 
+
+142 
+
+I I, 0 0, 2
+
+MNR 
+
+AGGREGATE OUTPUT 
+
+MN R 
+
+AGGREGATE OUTPUT 
+
+Fig. 2.-A working hypothesis regarding the slope and relationship of the aggregate demand curve to the aggregate output curve.
+
+ceptual framework leads us into the familiar cobweb theorem type of analysis developed by Mordecai Ezekiel some years ago. But since our analysis differs somewhat from the Ezekiel models, and we have a particular interest in the slope and position of the curves involved, it seems necessary to chase ourselves around the cobweb a brief time or two. Given to the analysis is a positionally fixed and inelastic schedule of intentions to produce II in figure 2, chart A, and a realized output Qı (ON amount) falling exactly on the schedule of intentions in crop year 1. 
+
+Also, we must take as given, in order to break into an endless stimulus and response sequence, an aggregate demand curve DD for crop year 1. 
+
+Since demand equals realized output in crop year 1, a price P₁ (OA value) results. And price P₁ induces farmers in the aggregate to plan to produce a product Q2 in crop year 2 (or ON amount once again). It is assumed, further, to simplify the analysis, that farmers' intentions are exactly realized and Q₂ product (ON amount) is forthcoming in crop year 2, in other words the amount forthcoming coincides with the short run normal supply curve. But within the interval of time required in the production process between the planning phase and harvesting for sale phase, demand shifts to D₁D₁. The realized product Q2 sells at P2 price (OB or normal value) as indicated on demand curve D₁D₁. The P2 price then induces farmers in the aggregate to try to produce Q3 product (OR amount) in crop year 3. Once again it is assumed that production plans are exactly realized and Q, product is forthcoming in crop year 3. But within the time interval required by the production process aggregate demand has contracted to D2D2, so Q3 product sells at P3 price (OC or normal value) in crop year 3, thereby inducing farmers to try to produce 
+
+Q4 product in crop year 4. And so it goes.
+
+Conceptually then, it is the movement of an inelastic demand curve indirectly along (through the vehicle of a time sequence) an even more inelastic and fixed schedule of intentions to produce that determines: (1) the normal price level, and (2) the normal amount, which differ from the market price and market amount only because of particular circumstances. And significant for this analysis, the slope of the two curves and their relationship through time results in an almost infinitesimal quantity response and a violent price response to any given change in demand. The farm price level gyrates in an extreme fashion. 
+
+But the proposition that the aggregate output function is positionally fixed requires some further explanation, for it is an historical fact that the total output from the national agricultural plant has trended upward over the years. According to our hypothesis the position of the output curve is not completely independent of demand, but is, under certain conditions, related to the movement of demand. To take a special but 
+
+7 Quarterly Journal of Economics, February 1938, pp. 255-280. 
+
+8 It is recognized, of course, that realized output will often vary from the planned or normal quantity. All manner of institutional and physical influences (e.g., droughts, bountiful weather, plant diseases and pests, a miraculous innovation) operate continuously to force realized output away from planned output.
+
+important case, if for any reason total demand should expand (the demand curve shifts to the right) in a period in which new technologies are seriously modifying the production process-forcing a reorganization on the production process--we then obtain a result fundamentally different from that outlined above. The schedule of intentions to produce, itself, shifts to the right with the expansion in demand, figure 2, chart B. 
+
+The sequence path (planning phase, movement in demand, realization of output, price determination, planning phase again) is the same in chart B as in A through the planning phase of crop year 3. But between the planning phase and the realization of those plans in crop year 3, aggregate demand expands to D2D2. Consequently the realized output sells at P3 price (OC normal value). This P3 price experienced during the formative period of intentions induces farmers in the aggregate to invest in to take steps to place in operation-more efficient technologies (e.g., machinery and equipment, improved plant and animal strains, disease, pest and weed control, fertilizer applications). And heavy investments in new and more efficient technological methods expand the capacity to produce-hence, shift the schedule of intentions to produce to the right. Continuing the sequential analysis, farmers in the aggregate plan to produce Q4 product located on the new and more productive schedule of intentions to produce (I,I₁). If demand holds constant at 
+
+D2 D2, the Q4 product (OR amount) will sell at the reduced price P (OD normal value). But should the total demand for farm products continue to expand in this context of developing technologies, the aggregate output curve may continue to drift to the right, taking up successively new and more productive positions. The logic of this shift to the right in the position of the aggregate output function in response to an increase in demand is evident if we reflect for a moment on the relationship of technological change and innovations to demand and price conditions. In the first place, the output curve shifts to the right as output per unit of input increases. And the output per unit of input usually increases as new technologies are incorporated into the production process. But if demand is not expandingthat is, if the curve DD is not shifting to the right, thus creating a favorable economic milieu-most farmers would not have (1) the optimistic price expectations, and (2) the financial resources to introduce labor saving or capital saving innovations into their farming operations even though the introduction of those innovations would reduce unit costs in any period. Farmers, like other businessmen, do not tend to make net investments in productive processes when their outlook is dampened by currently depressed prices and their sources of credit are restricted. They tend to invest when the future looks bright and savings and credit are easily forthcoming," when the marginal efficiency of capital clearly exceeds the price of capital as expressed by the effective interest rate. 
+
+9 See the article "Farmers' Machinery Purchases Important Key to Prosperity," The Agri cultural Situation, U.S.D.A., November 1949, page 8.
+
+In a period of stationary or contracting demand, "know how” and enhanced physical productive capacity accumulate, so to speak, in an unused pool. Now given an expansion in demand, output increases as known technologies are put into practice, with the result that the aggregate output curve jumps to the right or drifts to the right through a succession of temporary positions, taking up a new fixed position defined by a new productive organization centered around the technologies recently placed in operation. But once the pool of unused technologies is incorporated into the production organization, limited always by the labor force on family farms, further increases in demand fail to increase productivity—to shift the output curve to the right.¹º Further increases in demand simply develop a stimulus-response sequence centered around the inelastic output curve, II, in figure 2, chart B, yielding substantially higher prices and inconsequential quantity increases. In general terms then, an increase in demand may, in one phase, increase price and not output, and in another phase, may increase output and not price. 
+
+The skipping action described above, however, is not reversible.¹¹ If, for example, the aggregate demand curve DD moves sufficiently to the right in the necessary technological context to cause the output curve to also shift to the right, the output curve does not shift back to the left with a contraction in demand. The demand curve will rather initiate a stimulus-response sequence centered around the output curve I₁I₁ wherein prices fall precipitously and quantity changes almost not at all. For the behavior of aggregate output in the field of agriculture following a general price decline is not one of contraction. On the contrary, it is one of sustained output. Once the output function, schedule of intentions to produce, has shifted to the right, it remains fixed in that inelastic position until some new demand stimulus causes it once again to shift to the right. 
+
+But to return to the central argument, given a severely inelastic demand curve for the total product of agriculture and an output curve such as (II) diagramed in figure 2; it necessarily follows, except for the special case where the output curve shifts to the right, that a movement in the aggregate demand curve (DD) must be accompanied by a substantial price change and by an inconsequential quantity change. The geometry of the demand-output cross is simply such, granting the above exception, that any shift in demand (assumed to be the more flexible edge in the scissors relationship) must result in a relatively small response along the quantity axis and a relatively large response along the price axis. 
+
+10 This conceptual development parallels the Schumpeterian Theory of Economic Development: the "circular flow" is broken by entrepreneurial action; this entrepreneurial action takes the form of breaking custom and habit and the incorporation of new, more efficient technologies into the production process; but once the incorporation has taken place the "circular flow" is reestablished-increases in and modifications of output come to an end. 
+
+11 The unwillingness or economic inability of farm producers to reduce output in the face of falling prices is discussed by J. M. Cassels in a stimulating article entitled "The Nature of 
+
+Statistical Supply Curves," J.F.E. April 1933. Mr. Cassels argues that a particular supply function is irreversible because "Capital once fixed in a specialized form cannot quickly be withdrawn, and entrepreneurs committed to a particular line of production will commonly continue to produce even when the price they receive does little more than cover the direct costs of operation." This same type of reasoning holds in our case.
+
+II: Price Behavior in the Interwar Period 
+
+We shift away from the familiar single commodity type of analysis in this study, to an aggregative approach. An explanation of farm price level behavior will be developed through the use of aggregate demand and supply functions. We follow this approach for one important analytical reason: the various food commodity prices tend to travel together over the same tortuous road.¹ The reason for this uniform movement is to be found in the omnipresent process of substitution. There is some degree of substitution between individual farm enterprises within most agricultural areas and a significant degree of substitution at the extensive margin of all areas in response to commodity price changes,2 but not between farm and nonfarm enterprises. For example, farmers shift readily between potatoes and sugar beets or between the feeding of corn to hogs and the cash sale of corn, but not between farming and banking or farming and manufacturing. 
+
+On the demand side too, particularly in the case of foods, consumers are continuously substituting less expensive items for more expensive items. Through the ever-operating process of substitution, prices of individual agricultural commodities hold their relative positions with some precision even though the level of all agricultural prices may be shifting radically.
+
+The agricultural commodity price level does not move in close harmony with the nonagricultural price level for the reason that the process of substitution, both on the production side and on the consumption side, breaks down or is severely restricted between the agricultural and nonagricultural segments of the economy. To an important degree agriculture represents a watertight compartment within which there is considerable fluidity, but the connective valve between the agricultural compartment and the rest of the economy works poorly and sometimes almost not at all.
+
+Now should we attempt to explain the behavior of all farm prices, or more correctly the level of all food prices, by a single commodity type of analysis, we obtain results which are not useful here, even though they may correctly describe and explain the behavior of that one commodity. 
+
+The forces at work in the determination of price are the same in both the single commodity and aggregative approaches, but the changed emphasis as regards substitution leads to quite different results. The substitution between one food commodity and all others in response to a price 
+
+1 Index Numbers of Prices Received by Farmers 1910-43, Bureau of Agricultural Economics, U.S.D.A., processed 1944. 
+
+2 In a study of motivations conducted by the Bureau of Agricultural Economics entitled 
+
+An Exploration of Factors Motivating Farmers in Their Production and Marketing, processed 
+
+1947, it was discovered that price was only one, and not a dominating, factor motivating production adjustment on farms where hog production is the primary enterprise. Such a finding is to be expected; otherwise the economic system would be unbearably explosive. But they also found that "Hog farmers in areas producing fewer hogs per farm and farmers who receive less than 40 per cent of their gross incomes from hogs are better represented than other farmers in the group who appear to be most sensitive to price. These farmers are also better represented than other farmers in the group who speak of price as a factor affecting marketing practices. Such marginal hog farmers may well account for an important part of the changes in production from year to year that are due to price fluctuations."
+
+advance or price decline for that commodity can be substantial. As the prices of pork products go up relative to other food product prices, farmers convert more feed concentrates through hogs and so expand the supply of pork products even as consumers are shifting to other animal products. Because of this effective substitution process the demand for and the supply of pork are both rather elastic.³ Consumers and producers in some proportions come into and go out of the market readily in response to price changes. Consequently we should expect the price of pork to remain relatively stable, for it takes an important shift in either the demand for or the supply of pork to substantially affect its price. And in point of fact the price of pork is stable in relation to all other foods. But from this single commodity analysis we have received little help in explaining how it is that the food price level swings up and down in a violent fashion relative to the nonfood price level. To find an explanation for the harmonious and extreme behavior of all food prices we must treat all foods as a unit. If within this unit or group there is a high degree of substitution and around it there exists a wall over which substitution may not take place, then the price level results should be sharp and meaningful. Fortunately these conditions are well satisfied for all foods.
+
+As we said previously there will be some, perhaps a lot, perhaps a little, substitution between enterprises on a given farm or within a given farming area, but not between hog farming and banking. So we study all foods together as if they were one inclusive commodity, which they come close to being. And since we are dealing with one big commodity for which there are no close substitutes either at the consumption or production level, we may expect the demand for food as well as its supply to be extremely inelastic. Either you demand food or you don't: there are no close substitutes which come into play when its price changes relative to nonfood items. It is from this background of ideas that our theory of farm price behavior springs. We turn now to the interwar experience to test the theory.
+
+The Interwar Experience 
+
+It will be observed from figure 3 that food production does not vary much from year to year. Except for the two years 1922 and 1935 vari- 
+
+3 In a study entitled "Relative Prices and Postwar Markets for Animal Food Products," Quarterly Journal of Economics, February 1945, Hans Staehle found a high degree of substitution between pork and beef in response to shifts in their relative prices (see pp. 259-262). 
+
+Incidentally he employs a novel method for deriving demand functions for individual animal products and the aggregate meat. 
+
+4 The composite retail price of pork cuts per pound, as presented in the U.S.D.A., Misc. 
+
+Pub. 576 entitled Price Spreads Between Farmers and Consumers for Food Products, 1913-44, when converted to an index correlates directly and closely with the "Consumer Food Price Index for Moderate Income Families in Large Cities" over the period 1913-44 (all indices on a 1935-39 base). The same statement can be made for practically every other important food category. 
+
+5 With the exception of fibers and tobacco already recognized in Section I, footnote 3. 
+
+6 All indices used throughout the analysis are on a 1935-39 base, except where specially noted. 
+
+All references to the index of prices received by farmers for food are to the old series unless specially noted, Appendix C. 10
+
+POINT CHANGE 
+
++10 ON 
+
+INDEX OF 
+
+PRODUC-0
+
+TION -10 +20 +10 -10 -20 30 1920 
+
+INDEX OF PRICES 
+
+180 
+
+PRICE 
+
+160 140 120 100 
+
+INDUSTRIAL PRICE LEVEL 
+
+1920 1925 1925 1930 
+
+FOOD PRICE LEVEL 
+
+1935 
+
+FOOD PRODUCTION VARIATIONS FROM YEAR TO 
+
+YEAR
+
+INDUSTRIAL PRODUCTION VARIATIONS FROM YEAR TO YEAR 
+
+1930 للبس 193 5 935 1940 Fig. 3.-Prices received by farmers for food and prices of manufactured products with production variations, 1920-40 (1935-39 100). 1940 11
+
+ations in total food output do not exceed 5 points on the index for any year, and those exceptions stem directly from unseasonable weather. The substantial increase in 1922 represents a rapid recovery from the poor growing season in 1921 and the substantial decrease in 1935 reflects the feed shortage following the drought in 1934. In other words, the only striking variations in total output are related to bad weather. A correlation between price change and total food output is not observable from visual inspection. On the other hand, there is a clear and direct association between price level changes and industrial production. Every time the manufacturer's price level takes a dip so does the index of industrial production and significantly so. And when the manufacturer's price level trends upward industrial production responds generously. By comparison total food output is certainly unresponsive to price level movements. 
+
+The story of sustained, unresponsive total food output is continued in figure 4. Over the 13-year period 1923-36 the total food production for sale and home use remains almost constant. For that period a trend line 
+
+INDEX 
+
+150 140 130 120 110 100 90 80 30 70 60 سلسلة 50 1920 
+
+PRODUCTION TREND LINE TOTAL FOOD PRODUCTION TOTAL FOOD CONSUMPTION 
+
+1925 1930 1935 1940 Fig. 4.
+
+Total food production for sale and home use and total civilian food consumption, 1920-40 (1935-39 100). 12
+
+smooth and flat at 97 on the production index fits the data adequately, if not perfectly.
+
+The index of total food consumption follows closely the index of total food production, and in figure 5 we see that food consumption on a per capita basis exhibits certain of the inflexible properties attributed to total output. From 1922 to 1938 per capita food consumption is relatively constant. Peculiarly enough, the variations in per capita food consumption that do occur, do not appear internally consistent. From 1921 
+
+INDEX 
+
+130 120 
+
+PRICE RATIO 
+
+110 100 90 
+
+PER CAPITA CONSUMPTION 
+
+80 1920 1925 1930 1935 1940 Fig. 5.
+
+Ratio of food prices to nonfood prices and per capita civilian food consumption, 1920-40 (1935-39 = 100). 13
+
+to per capita food consumption increases as the ratio of retail food prices to nonfood prices dips into a trough. This phenomenon satisfies traditional theory which calls for an increase in the amount taken as the price in question declines relative to all others. But from 1929 to 1933 the reverse occurs. The per capita consumption of food declines modestly as the price of food declines relative to nonfood items. This development runs counter to accepted theory and the explanation is certainly not to be found in the causative variable price. It would seem that the overriding force was the decline in personal disposable income. With sticky nonfood prices, the price ratio declined rapidly with falling food prices, but not fast enough to keep pace with the decline in personal disposable incomes. 
+
+Looking backward over the interwar experience, two factors stand out: (1) the constancy of total food output and (2) the wide fluctuations in the food price level. In the almost closed economy of that period those two forces dominate all economic relationships in food and agriculture. 
+
+That they should dominate or be controlling is not strange, but their seeming independence on one another is disturbing to say the least. Past theory would lead us to believe that output should influence price and price should in turn influence output. Here the responsive relationship seems all but broken down.
+
+Beginnings of an Operational System 
+
+Having observed the behavior of the more important variables affecting the food price level in the interwar period, we now want to combine certain of them into an operational system to explain specific price movements. In other words, we seek to develop a systematic method, using time series data, which uniquely determines the price-quantity position of the aggregative commodity, food, when measures of the influencing factors are known. As a first step in the building of such an operational system, we introduce the concept of aggregate demand. The aggregate demand for food may be defined as a functional relationship between (1) the price (index) of all food and (2) the quantity (index) of all food, which states the amount of food that will be demanded at each level of food prices. 
+
+The pure concept of demand, which defines the amount of a given commodity that buyers stand ready to take at varying prices, assuming all outside influences constant, is not too difficult. But statistical measures, that must always be after the fact, of those amounts are most difficult to derive. And in this case the problem is given a new twist, since we are dealing with aggregates. But from experience we know that food consumption, the amount taken, is affected by prices, incomes, and changing tastes through time. There may be other factors, but those listed above would seem to be the most significant. A statistical measure- 
+
+7 Researchers may be interested in the techniques used by Henry Schultz, Warren C. Waite and E. J. Working in a series of articles published in the Journal of Farm Economics, April 
+
+1932. In all cases they were engaged in deriving statistical measures of demand for farm products. 14
+
+ment of the effect of these three factors on food consumption in the period 1922-41 is given by the estimating equation: 8 
+
+Y = 104.321 .221 X₁.285 X2 + .139 X3 Where Y is per capita food consumption in the United States, X₁ is per capita disposable income, X, is the ratio of food prices to nonfood prices, and X3 is time (changing tastes through time).⁹ 
+
+In everyday language the above equation says that, on the average: (1) One point change in the index of per capita disposable income is associated with a change in the index of per capita food consumption by .221 points in the same direction; (2) One point change in the ratio of food prices to nonfood prices is associated with a change in the index of per capita food consumption by .285 points in the opposite direction; (3) And, aside from these two influences, the index of per capita food consumption had an upward trend amounting to .139 points per year. From this equation, we can say what the expected per capita food consumption would be for any particular price ratio, 120, 100 or 80, given the level of disposable income and the year between 1922 and 1941. 
+
+We have a generic measure of demand for food, involving the principal determinants of that demand. 
+
+But what does the aggregate demand curve for food look like, what is its slope, and what are the elasticities of that slope? One formulation is presented in figure 6—the formulation which is defined as the aggregate demand for food for purposes of this analysis. The regression line (DD) in figure 6 shows the relation between (1) the ratio of food prices and nonfood prices at retail and (2) the per capita consumption of food after the net effects of income and trend have been removed from the consumption data.
+
+To remove the net effects of income and trend from the food consumption data so that the remaining variations in food consumption may be related to the price ratio, we return to the estimating equation described above. The coefficients of net regression, income (X₁ = .221) and time (X = .139), provide a measure in each case of the net variation in food consumption associated with those independent variables. 
+
+And once these measures of influence are known, the effects of those two independent factors can be and were easily removed [for any given year 1929 the index of per capita food consumption 101.6 minus 29.15 (index of disposable income 132.1 × .221 = 29.15) minus 1.11 (8th year .139 1.11) is equal to 71.34 or the deflated food consumption datum]. The aggregate demand curve DD is thus a simple regression line associating the price ratio and the deflated food consumption data by years over the period 1922-41 (see the methodological rationale provided in footnote¹º on page 17). 8 See Appendix A for the data used in working the multiple correlation problem. 
+
+9 The variables in, and the form of, the above equation are identical with those used by A. R. Prest of Great Britain in a recent study in demand analysis, except that he converts all data to logarithms where we use absolute values throughout. See "Some Experiments in Demand 
+
+Analysis," The Review of Economics and Statistics, February 1949. 
+
+15
+
+RATIO OF FOOD PRICES 
+
+ΤΟ NON-130 
+
+FOOD PRICES 
+
+120 110 100 90 80 29 26 2827 T225 30 37 36 35 123 22 24 41 34 38 40 3139 33 32. 1 70 30 40 *50 60 70 80 90 100 110 120 
+
+PER CAPITA CONSUMPTION OF FOOD (INDEX) * THE EQUATION OF THE LINE OF REGRESSION, DD, IS GIVEN BY 
+
+Ya 346.95-3.25 X
+
+Fig. 6.—The aggregate demand curve for food (1922-41). 
+
+The question may be raised-Is the regression line DD in figure 6 conceptually a true demand curve? We would say yes-because in using it—it works; it behaves as economic theory says a demand function should behave.¹¹ It shows the different quantities of food consumed -taken as the price of food changes relative to the price of all other consumer items. And the function is negative, slopes down and to the 16
+
+right, which is true of typical demand functions. The elasticity of demand of the empirical curve is -.41 at the point of averages, point A, figure 6. 
+
+Further, it will be observed that a clear, if not perfect, relationship emerges when the adjusted data are plotted. 
+
+The empirical data support our thesis that the aggregate demand for food is highly inelastic. We have a demand function for all food, constructed from a time series for the years 1922-41, with an elasticity of .41 at the point of averages. And the function does not become more elastic as the time period is modernized. An aggregate demand function for food D₁D₁ constructed in the exact manner described above for the years 1930-42 and 1946-48 yields an elasticity of .41 at its point of averages.12 A measure of elasticity of .41 in both instances is obviously 
+
+10 The author is fully aware that the statistical method employed in deriving, and later in shifting, the demand function is not orthodox. But this unconventional method is not pursued capriciously or out of ignorance. The method grows out of the following set of circumstances: (1) The multiple regression equation, where food consumption is the dependent variable and (a) per capita disposable income, (b) the ratio of food prices to nonfood prices and (c) time (changes in tastes) are the independent variables, makes economic sense. These three independent variables are the principal determinants of the quantity taken. Hence, the coefficients of net regression for these independent variables provide measures of the influence of these variable determinants on the amount of food taken, or demanded, or consumed. (2) The final step of this analysis of price behavior requires the presentation of the relation of food consumption to the price ratio where the quantity consumed is adjusted for income and trend. But if the statistical problem is pursued with consumption as the dependent variable, the final relation would have to be plotted with consumption on the vertical scale. This presentation violates the economic convention, and since the analysis under development is primarily an economic analysis, such a presentation is unsatisfactory. (3) Consequently the statistical problem is divided into two steps. In the first step the food consumption data are adjusted (deflated) for income and trend by means of the coefficients of net regression from the multiple regression equation. In the second step the deflated food consumption observations are related to their respective price ratios where the price ratio is the dependent variable. Thus when this simple relation is plotted both the statistical and economic conventions are observed. And, of course, the coefficients of net regression for income and trend provide the analysis with a measure of the influence of those determinants to be used in shifting the demand function-indicating changes in the amount taken at a given price ratio. 
+
+An alternative method could have been employed which seems to please some statisticians (but not all), although a statistical convention must be violated to present the final results in the form desired by the economist. By this method the continuity of the statistical problem is not broken as we solve for Y (consumption) in the multiple regression equation for assumed values of X2 (price ratio) for any given period. But then to plot consumption on the horizontal axis as the economic convention requires, forces a violation of the statistical convention. 
+
+Some experimentation with the alternative method was, however, undertaken, but the pricequantity results were found to be similar to those obtained from a use of the method described in the text. This becomes clear on discovering that the slope of the demand function is given by b = -3.25 in the method used (fig. 6) and by b = -3.51 for the demand function derived by the alternative method. In short the results obtained by the two methods vary in particular cases but not in representativeness. Hence, since the steps in the statistical method actually employed conform more directly to the steps of economic reasoning in the author's mind than those of the alternative method, the former was selected as the method. 
+
+11 In deriving a statistical demand curve as we did here-when points lying on unknown but different functions were deflated horizontally, as the influence of income and trend were removed, to fall along our regression line DD-one fundamental assumption was made which should be recognized. It had to be assumed that historical points lying on unknown but different demand functions had for any given price a slope identical with that point on our regression DD. 
+
+Otherwise the adjusted price-quantity points now falling along the curve DD would not relate to one curve-the curve DD—but rather remain points on separate and distinctly sloped curves. 
+
+12 The equation for the line of regression D1D1 is given by: Y = 363.71 3.19X; the multiple regression equation and the data used in its calculation for the years 1930-42 and 1946-48 are found in Appendix B. 17
+
+a coincidence. But excepting the war years, it seems clear that the configuration of the aggregate demand function for food did not change importantly over the period 1922-48.
+
+Now if we can make the demand function DD operative we will be on our way to explaining how the food price level shifts: First we must find a way to shift the demand function as conditions-demand determinants-vary. Second the price variable on the vertical axis of our demand function is expressed as a ratio concept, and a ratio between retail prices. 
+
+So we must find some relationship between the price ratio and the index of prices received by farmers for food. Third, we must obtain some measure of quantity to relate to the demand function. 
+
+To shift the demand function through time, say from the situation of 1929 to the situation of 1932, we turn again to the multiple regression equation from which we obtained the weights for adjusting the per capita food consumption data in deriving the demand function. A measure of the change in the amount of food taken between 1929 and 1932 attributable to a change in the overriding force, income, is derived, in principle at least, from applying the income coefficient (.221X₁) to the change in per capita disposable income over that period. Specifically, the contraction in aggregate demand attributable to the decrease in personal disposable income between 1929 and 1932 is computed as follows: (1) substitute 1929 values in the estimating equation and solve for Y29; (2) substitute the 1932 income value for X₁ and 1929 values for the other independent variables and solve for Y (calculated); (3) subtract 
+
+Y(calculated) from Y29 to obtain a measure of the decrease in food consumption due to the contraction in personal disposable income; (4) this measure determines the extent to which the demand curve shifts to the left.
+
+If no other shifter is taken into account, then obviously it is assumed that disposable income is the principal determinant of the demand function's position, an assumption which makes economic sense. If tastes and customs may be taken as given over the period under consideration, then the relationship of price to quantity determines the slope of the demand curve, and the relationship of income to quantity determines its position. In fact, however, we did adjust for trend factor time, but that adjustment is negligible here. 
+
+A simple straight line relationship is obtained between (1) the ratio of food to nonfood prices and (2) the index of prices received by farmers for food.13 Thus, we can read directly from the retail price ratio, to which the demand curve is related, to the index of prices received by farmers for food and obtain a price solution in terms of that latter conventional index. The logic of this relationship is also fairly reasonable. 
+
+It will be remembered that nonfood prices held relatively constant through the interwar period. Consequently, changes in the price ratio 
+
+13 The equation of this line of regression is given by Y =-161.7 + 2.66X where Y is the index of prices received and X the price ratio. 18
+
+are due in greater measure to changes in food prices than to nonfood prices. It is a little as if the denominator remained unchanged and the ratio varied directly with changes in the numerator. And since the numerator of the ratio is closely related to the other variable in the relationship, prices received for food, the relationship should be a good one, which is the case.
+
+In figure 7, these relationships may be seen graphically and the rudimentary features of the operational system appear. Also the never ending difficulties with quantity, supply or output begin to emerge. The left-hand Y axis is represented by the retail price ratio to which the 
+
+130 29 36 120 110 100 90 80 
+
+PRICES RECEIVED FOR FOOD (INDEX) 
+
+184.1 157.5 29 137.8 130.9 104.3 77.7 29 67.1 36 51.1 70 24.5 50 60 70 80 90 100 110 120 130 140 150 
+
+PER CAPITA CONSUMPTION OF FOOD (INDEX) 
+
+Fig. 7.-Shifts in the aggregate demand curve for food between 1929, 1932, and 
+
+1936 with intersections to the known food consumption in those years. 19
+
+demand curves refer. The horizontal or X axis is represented by the index of the per capita food consumption. The right-hand Y axis is represented by the index of prices received for food and the scale of that axis relates to the left-hand axis in a specific manner as defined by the relationship described in footnote¹³. The demand curve D29D29 is positionally fixed by the price ratio 112.6 and a per capita food consumption of 101.6, the situation that prevailed in 1929.14 Happily for this analysis we discover that a price ratio of 112.6 or point P29 translates onto the right Y axis at 137.8, the exact level that prevailed in 
+
+1929 for the index of prices received for food.15 So far our confidence in the apparatus of figure 7 is unshaken. 
+
+Between 1929 and 1932 the index of per capita disposable income declined from 132.0 to 74.7. Applying the income coefficient from the estimating equation given above to this decline in disposable income, we find the demand curve contracts to the left by 12.2 points on the horizontal axis and takes up the new position D32D32. In other words, the decline in disposable income between 1929 and 1932 causes consumers in the aggregate to demand less food at each level of prices, and the coefficient of income from the multiple regression analysis provides us with a measure of this contraction in demand.16 
+
+We soon discover, however, that a fixed per capita food consumption of 101.6 on the index-the 1929 amount-cannot be related to the new demand curve D32D32. For if such a procedure is followed, we obtain a point on the index of prices received in the neighborhood of 30, a price level much lower than the low of 64.5 realized in 1932. But if we relate the actual per capita consumption in 1932 to the curve D32D32 we obtain 
+
+14 From figure 6 we get the regression equation for the line DD, Y = 346.9 3.25X, where the price ratio and X = per capita food consumption. Substituting 1929 values for Y and X in the equation we fix the line DD in its 1929 position: 
+
+112.6 a 3.25 (101.6) a = 442.80 
+
+Y = 442.80 
+
+3.25X or the equation for the line D29D29 
+
+15 Substituting in the relation between the price ratio and prices received by farmers (footnote 
+
+13) we get: 
+
+Y=-161.7 +2.66 (112.6) 
+
+Y = 137.8 
+
+16 The calculation of this contraction of 12.2 points on the index of per capita consumption of food is as follows: (1) Y = 104.321 .221 X1 - .285 X2 + .139 X3, where Y = per capita consumption of food,
+
+X₁ = per capita disposable income, X2 the price ratio, and X3 = trend. (2) Substituting 1929 values in the equation we get: 
+
+104.321+.221 (132.0) .285 (112.6) + .139 (8) 
+
+Y 104.321 + 29.1720 -32.0910+ 1.112
+
+102.5140 (3) Substituting 1932 values for income and trend, but holding the value for the price ratio constant at the 1929 value, since the shifted demand curve is to explain the price change we get: 
+
+Y 104.321+.221 (74.7) ·.285 (112.6) + .139 (11) 
+
+Y = 104.321 + 16.508732.0910+ 1.529 
+
+Y 90.2677 (4) Therefore the contraction is: 
+
+102.5140 (Y 1929) — 90.2677 (Y calculated) = 12.246 20
+
+a solution on the index of prices received of 67.1 or 2.6 points off the value in 1932.¹7 Errors of rounding, or probably what is more important, the fact that all relationships employed are not perfect, could account for such a small discrepancy. The discrepancy is certainly not sufficiently great to discredit the conceptual procedure. Once again the apparatus works satisfactorily providing we know the actual consumption for the period under consideration. Following the same procedure as in the 
+
+1929-32 case, when the index of per capita disposable income increases from 74.7 in 1932 to 100.6 in 1936 the demand curve shifts 6.3 points to the right taking up the new and expanded position D36D36. Intersecting the curve D36D36 with the actual per capita consumption of food in 1936 we can read off figure 7 a price solution of 104.3 in terms of the index of prices received for food.18 This level fails by only .4 of a point to coincide with the realized level of 104.7 in 1936. Thus, the precision of the method is improved over the previous example. The first attempts then yield representative if not perfect price level solutions. And that is all we can expect from this rigorous yet abstracted type of analysis under development.
+
+Viewing the operational system portrayed in figure 7, it becomes clear that we need something akin to a supply function to make the system complete. In testing the apparatus on historical data, we get along nicely for we know the per capita consumption in the years in question. But a complete system should tell us the equilibrium quantity as well as the price. Thus, a functional relationship with the properties of a supply function is needed if we are to use the apparatus for anything other than historical testing.
+
+If we look back at figure 7, we will find a clue to a supply function in the three equilibrium points P29, P32, P36. A line connecting those price points would have some of the properties of a supply function; it would be extremely inelastic as postulated earlier and, in fact, would act like a supply function. If now we plot the actual per capita consumption of food for the period 1923-36 against the price ratios for corresponding years, we obtain a relationship which a straight line fits adequately, and with a slope similar to that suggested by the three price-quantity points 17 The solution of 67.1 on the index of prices received can be read directly off figure 7 in a graphic procedure, but the mathematical solution for 1932 is given below: (1) Substituting 1932 values together with the 12.2 contraction in demand in the generic equation (figure 6) for the aggregate demand function we get: 
+
+112.6a3.25 (101.6 12.2) a= 403.15 
+
+Y = 403.15 
+
+- 3.25 X or the equation for the line D32D32 (2) Substituting the per capita food consumption for 1932 in the above equation we get: 
+
+Y 403.15 3.25 (97.6)
+
+Y = 86.0 where Y = the price ratio in 1932 (3) Substituting the price ratio for 1932 in the equation given in footnote 7: 
+
+Y=-161.7 +2.66 (86.0)
+
+Y = 67.1 where Y = the prices received for food in 1932 
+
+18 The procedure for obtaining a mathematical solution here is the same as that described in footnotes 16 and 17. 21
+
+in figure 7.19 This fitted line we shall define as the aggregate consumer supply function for food. 
+
+This consumer supply function merits some further discussion. In the first place why do we modify the subject-noun, supply, with another noun, consumer. We do this for several reasons: (1) the relationship is between a retail price ratio and an index of per capita food consumption, (2) it says nothing and implies little concerning farm output and, (3) foreign trade adjustments are implicit in the quantity data. More important, the function is derived from consumer data and later will be related to a demand function which is constructed from the same consumer data.
+
+The critical observer may ask: how can you make both a demand and a supply function out of the same ingredients? The answer is not too simple. But first it should be recognized that if we are ever to construct statistical demand and supply functions, which are conceptually similar to their theoretical cousins, they must come from historical data, the identical price-quantity data. It is the way that these price-quantity data are used that makes the difference. In brief, to construct a statistical demand function for food of an aggregate type, we took the observed per capita consumption quantities for the interwar period and removed, we hope, the influences of income and time from their composition. 
+
+This, we argued, resulted in what the average United States civilian was willing to consume at varying price ratios, food prices relative to nonfood prices, over the period 1922-41. The consumer supply function developed here also states a relation between per capita food consumption and the ratio of retail food to nonfood prices, but this relation was developed on totally different conceptual grounds. The movement of a demand function along an unknown supply function must result in a series of price intersections which trace out a supply function, assuming the conditions of supply are unchanged. And that was our technique here. Believing the conditions of supply to be essentially unchanged between 1923 and 1936 and knowing that the aggregate demand function for food was shifting over that period, we deduced a consumer supply function from the historical price-quantity points.2 20 Introducing the idea of a fixed supply function leads us to the reasons why we singled out the period 1923-36, and the data of those years, out of which to construct a supply function. In the first place those years cover the period under demonstration in figure 7. But more important, as it will be appreciated later when we delve into the whole problem of output and supply, we selected the period 1923-36 for the very reason that total food output was constant over that period, figure 4. And since the over-all output situation was not changing from year to year, we assume that variations in the amount offered consumers (the fact that 19 The equation for this line of regression is given by X = +85.6 + .14Y, where X is the index of per capita consumption and Y is the price ratio. 
+
+20 This method is discussed with exceptional clarity by Henry Schultz in his monumental work, The Theory and Measurement of Demand, pp. 72-80. 22
+
+the consumer supply function has slope) is attributable to variations in price. As the price ratio becomes larger, principally because of an increase in the price of food, greater stocks of food are offered to consumers and vice versa.
+
+But why should the consumer supply function have a positive slope, when in fact the total amount of food produced over the period holds constant? We offer two possible causes, always bearing in mind that the consumer supply curve states a relation between the retail price ratio and the supply of food offered the average civilian consumer: (1) as food prices decline, inventories of middle men build up in a reservoir action due to the cancellation of orders and the tendency to hold stocks rather than take losses, hence offerings to consumers are reduced; (2) as food prices decline, some portion of the poorer grades produced and sold by farmers is lost or wasted in the marketing system, hence not offered to consumers. And, of course, the supply response would be just the converse where food prices are rising. Consequently either of these forces working singly or in combination would make for a consumer supply curve of some elasticity.
+
+Now let us look at the consumer supply curve isolated from the pricequantity data for the period 1923-36, figure 8. It will be seen, that when we shift the demand function from D29D29 to D32D32 and back to Dз6D36 in accordance with the disposable income determinant, the intersections effected with the consumer supply curve, CS, are close to the price levels realized in the years 1929, '32 and '36. The price levels that emerge from the operational system are 139.1, 66.821 and 104.3 respectively as compared with the realized price levels of 137.8, 64.5 and 104.7. From the equilibrium positions for 1929, '32 and '36, we also obtain the following quantity solutions, 101.4, 97.6 and 99.6 on the index of per capita food consumption, as compared with the realized quantities of 21 The equilibrium values P = 66.8 and Q = 97.6 derived from the intersection of D32D32 and 
+
+CS in figure 8 may be defined mathematically as follows: (1) The equation for the line D32D32 is given by: 
+
+Y 403.15. 
+
+- 3.25 X 
+
+The equation for the line CS is given by: 
+
+X = 85.6.14 Y
+
+Where Y = the price ratio and X = per capita food consumption in both equations. (2) Solving simultaneously we get: 
+
+Y = 403.15 85.6 56.4410 85.6 -.14 Y .14 Y -.14 Y
+
+142.0410 X = 97.6 
+
+Y = 403.15 -.4550 Y= 278.20 
+
+1.4450 Y 124.95 
+
+Y = 85.9 
+
+.4550 X 1.4550 X 3.25 X 
+
+(3) To convert the above price solution Y = 85.9 into terms of the index of prices received for food we substitute in the equation: 
+
+Y-161.7 +2.66 (X)
+
+Where Y = the index of prices received and X the price ratio 
+
+Y = 161.7 +2.66 (85.9) 
+
+Y = 66.8 (4) The mathematical solution to all other equilibrium points in the analysis is identical in procedure. 23
+
+CS D291 
+
+PRICES 
+
+RECEIVED 
+
+FOR FOOD INDEX 
+
+184.1 D36 120 110 100 29 157.5 139.1 130.9 36 104.3 90 P32 29 80 00 32 77.7 66.8 51.1 70 24.5 50 60 70 80 90 100 110 120 130 140 150 
+
+PER CAPITA CONSUMPTION OF FOOD (INDEX) 
+
+Fig. 8.—A tentative operational system for explaining price level movements 1929-36. 
+
+101.6, 97.6 and 99.6. Thus, on the quantity side the results are, for the last two calculations, perfect. These results are not as astonishing as it may appear, however, for the range in quantity between 1929 and 1932 is only 4 points on the index. Hence, using the severely inelastic consumer supply function from figure 8, if one quantity point hit near the historical mark the others could not be far off. Although it is pleasant to be correct, of greater significance to the analysis is the fact that the food price level fell some 72 points on the index, or 52 per cent, between 1929 and 1932, whereas per capita food consumption contracted by only 4 points on the index or by some 4 per cent. And the geometric relation of the aggregate demand curve to the aggregate supply curve explains how this could be, given the forces that were at work in the 24
+
+Great Depression. In sum, the price-quantity equilibrium points derived from the tentative operational system meet the test of one historical period quite satisfactorily and illustrate beautifully the theory set forth in Section I. 
+
+If not complete, the statistically operational system is closed in figure 8; both equilibrium price and quantity are determined through the interaction of the aggregate demand and supply functions. And if the price level solutions are not perfect, they are closely representative of the years in question, hence are useful. Now we need to test the system in other situations to discover whether it has more general application. 
+
+The Problem Defined III: The Supply Problem 
+
+More important than the failure of the demand supply functions to effect perfectly accurate price solutions for the interwar years is the problem of the time period in which the operational system may be employed. In fact, we will argue that the divergence between the realized price level and the price solution indicated by the intersection of demand and supply in the operational system is not in the nature of an error or discrepancy, but rather reflects the difference between Marshall's market price and the short run normal price.¹ In this case, the actual price as reported in the prices received index is akin to the market price and the price intersection in the operational system to the short run normal price. 
+
+But why so selective as to the time period in which the operational system may be used? If the technique is useful why can't it be used in any period? Why is its use limited to the 14 year period 1923-36 in the interwar period? The reason, and in the larger sense the problem, hinges on the conditions of supply. Just as Marshall had to develop time periods to bring meaning into the complexity of supply, so do we; and our position is particularly delicate in that we are dealing with dated time and statistical functions which are considerably less malleable than unquantified concepts.
+
+Without embarking on a thorough going analysis of the supply problem at this point, it is perhaps possible to make clear the reasons for the limited application of the operational system as it now stands, and point out the direction which the analysis must take to make possible a more general formulation. The consumer supply function is developed on a per capita basis and takes into account the effects of foreign trade; hence, it may be related to the aggregate demand function where a total output function may not. We may then expect the consumer supply function to take statistical form when the aggregate demand is shifting and the conditions of supply remain constant, so that the resulting price-quantity points trace out the unknown supply function. This does not mean that the supply function may not have slope, but rather that nothing may occur in the period under question which would cause the slope or position of the supply function to change. For if the determinants of 
+
+1 See, Principles of Economics, 8th edition, Book V, Chapter V. 
+
+25
+
+supply should change in the period under consideration, the resulting price-quantity points would not trace out a statistical supply function. 
+
+Rather they become the intersectional points on different and unknown supply functions.
+
+Now what are the principal determinants of the consumer supply function? By all odds the most important one must be the aggregate output of food itself—the output of food from farms in the United States. If the aggregate output of food is changing, for reasons other than uncertain weather, then we know the consumer supply function must be shifting; hence, the intersectional points resulting from a shifting demand cannot trace out a supply function. Other determinants may enter, such as foreign trade, but obviously the first determinant to check is the aggregate output function for food. 
+
+From prior knowledge the author felt confident that the conditions of supply held constant over the period 1923-36. We have seen in figure 4 how total output held constant over the period 1923-36, which would seem to indicate that the conditions of supply had not changed. Actually such evidence is not conclusive and neither do the data need to be so circumscribed. The significant point is that the aggregate output function for food must not have moved, regardless of its slope or elasticity, during this period. Now knowing or feeling certain that the principal determinant of the consumer supply function was positionally fixed over the period 1923-36, it seemed proper to try to derive a consumer type supply function from historical data for that period. It was derived and it worked out rather well in historical testing. 
+
+At the present stage of the analysis, we are forced to operate within periods where the conditions of supply are known to be constant. For only in such a period may a consumer supply function be derived to relate to the aggregate demand function and thus complete the operational system. The supply problem is thus posed: (1) how may the aggregate output function be derived statistically? and (2) how does this function shift through time? For if the operational system is to be freed from specific and limiting time periods, we must learn how to move from one period to another. Stated differently, until a shifting supply function has been incorporated into the operational system, it remains incomplete. 
+
+The Aggregate Output Function 
+
+An aggregative output function for agriculture may be constructed with some meaning and facility. But an aggregate demand function for the product of agriculture is not so easily constructed, and once constructed along compromised lines, it has little economic meaning. Thus, we have derived an aggregate demand for food alone, and we now seek an aggregate output function for food alone. This procedure weakens the analysis in one way: Some substitution takes place in the production process between tobacco and cotton on one hand and food commodities on the other; hence, the output curve for total food may be somewhat more elastic than the output curve for the total product of agriculture. But a 26
+
+meaningful demand function related to the output function is needed to complete the analysis; thus, there seems to be little choice but to accept an output function which represents something less than the aggregate product of agriculture.
+
+Since the quantity data we shall be working with in the empirical analysis are realized data (the plotted observations in figure 9 represent the amount of product that farmers are induced to produce by the prices received during the planning phase, modified by plus and minus influencing factors at work during the production period), in order to test the aggregative hypothesis it is necessary that one critically important analytical requirement be satisfied. That requirement is that the demand curve moves along, and the stimulus-response sequences thus initiated occur along a positionally fixed schedule of intentions to produce. It should be clear why this analytical requirement must be satisfied if we are to obtain a true output curve. For should the schedule of intentions to produce, the output curve, move and the demand curve remain fixed, the resulting points would trace out a demand curve. And if, as it may happen, both unknown curves are shifting, we obtain nothing more than a line connecting an historical series of price-quantity points. So if we are to test the hypothesis that the aggregate output curve is severely inelastic using realized data, we must find a period or periods in which (1) aggregate demand is shifting, and (2) changes in productivity, changes in output per unit of input, are at a minimum. 
+
+When we relate an index of aggregate food output² to an index of "responsible prices" over the historical period 1912-50, the resulting price-quantity points fall into a definite and meaningful pattern, figure 9. 
+
+In appraising the configurations of figure 9, however, it must be constantly held in mind that the years, 1946, 1947 and 1948, associated with particular points refer only to realized output. The responsible prices, the prices that induced these outputs, are of an earlier date corresponding to the beginning of the production process. The movement in demand and 2 Nonfood items are broken out of the index of the volume of agricultural production for sale and farm home consumption to yield an index of aggregate food output. This index was used in preference to several others for two reasons: (1) the nonfood items were easily removed from total agricultural production, and most important, (2) it is less sensitive, than other indices that might have been used, to the weather influencing factor, appendix table C. 
+
+3 The term "responsible prices" refers to those prices which cause farmers to make the decisions that they do in planning for this year's or the current year's production. Thus, we may expect the responsible prices, in most cases, not to be current prices, but rather the prices received in some earlier period: In the case of annual crops, perhaps when last year's crops were sold; or in the case of dairy or beef cattle, perhaps the two years previous to the year in question. The index of responsible prices used in figure 9 upon which much of this analysis turns is constructed with the following price leads: (1) lambs, chickens, hogs-average monthly prices from July of the previous year to June of the current year; (2) beef cattle-average price for the current year and previous year; (3) eggs-average price for the current year and previous year; (4) dairy products-average price for the current year and two previous years; (5) crops average monthly price from July to December for the previous year. Indices of prices received by farmers for food and prices responsible for food production appear in appendix table C. 
+
+4 As indicated in footnote 3, and following the advice of Henry Schultz, the time lags employed in the index of responsible prices were determined pragmatically by trying out various lags, and the time lags selected correspond to his concept of the "critical supply-price period,' the period during which prices have the greatest effect on production." Statistical Laws of Demand and Price-With Special Application to Sugar, University of Chicago Press, 1925, p. 132. 27
+
+INDEX OF RESPONSIBLE PRICES 
+
+300 280 48 49 260 240 220 200 20 45 19 180 44 160 21018 26 29 140 30 27.28 17 25 120 -230 243T 037 38 16 100 368 $41 14 15 130 1912 39 €40 350 32 80 34 33 60 40 40 60 80 100 120 642 43 50 47 46 140 160 180 200 
+
+INDEX OF AGGREGATE FOOD OUTPUT Fig. 9.—The aggregate output curves for food. 
+
+the stimulus-response sequences centered around the demand curve are assumed here, with only the "end product" realized output assuming concreteness in the form of a quantity point. And from these realized output points which differ from the original intentions only by the modifying factors at work during the production process we derive the output curve. Thus, the output function represents a normal relationship, and 28
+
+the fact that every observation does not fall exactly on a curve may be attributed to particular circumstances of the period, such as unseasonable weather or a box car shortage.
+
+By way of further explanation, let us consider the case where the output function is perfectly inelastic and the quantity points fall exactly along that curve, for example the curve CC and the observations for 1926 and 1927. We have here a case somewhat similar to that described in the first and second sequences of figure 2, chart A. It is similar in that total output repeats in the same amount, 97 on the index, and in each instance intentions to produce are perfectly realized. But quantification creates a problem. In the present case, prices received in the previous year are not identical with responsible prices of the current year, as was the case in hypothetical cobweb of the previous section. In the statistical formulation a complex of time lags is devised to obtain a measure of responsible price, a complex which is not concurrent with the 12 months span of the previous calendar year. Consequently, we no longer get a neat cobweb where prices received in year 1 convert into responsible prices of year 2, and so on.
+
+Assuming away for the moment the complex of time lags used in this statistical analysis, realized food outputs should coincide in the same point for each of the years 1926 and 1927. And in this coincidence the cobweb disappears. This follows from the construction where the output of 97 in 1926 sells at that price (price level) where the output function (perfectly inelastic at 97) is intersected by the demand function for 1926. The resulting price of 1926 becomes the responsible price for 
+
+1927; and since prices are identical and outputs are identical, the observation for 1927. should be identical with 1926. But in fact the resulting price of 1926, the responsible price of 1927 and the output of 1927 do not coincide in the same point. In the statistical analysis from which the output curves of figure 9 are derived, the resulting price for the year 1926 differs from the responsible price of 1927, since different time periods are involved. Thus, the neat cobweb of figure 2, section I disappears here primarily for statistical reasons, but it can disappear for conceptual reasons as well.
+
+It will be observed that there are five historical phases in figure 9 (1912-17, 1918-22, 1923-36, 1937-43, and 1944-48) and possibly a sixth 1949-) through which curves are drawn. It is our contention that four of those curves, AA, BB, CC and EE, are true output functions. 
+
+No significant change in productivity, output per worker, occurred in agriculture during any one of those phases, although it certainly increased as between the delineated phases, table 1. Nothing changed technologically within each of the phases under consideration to cause farmers in the aggregate to plan to produce more product at the same price in the succeeding year than in the current year. Consequently, the shifting demand curve within each phase traces out an output curve which is representative of the aggregate schedule of intention to produce. 
+
+Does the evidence presented in table 1 indicate that our requirement, 29
+
+Table 1.—Indices of farm employment and output per worker (1935-39 = 100) INDEX OF AGRI- CULTURAL PRO- FARM DUCTION FOR OUTPUT EMPLOY- SALE AND PER YEAR MENT* HOME USE WORKER 
+
+1912 103 85 1913 103 81 1914 103 86 1915 103 86 1916 103 83 1917 101 86 888888 83 79 83 83 81 85 
+
+Jump in productivity 1918 1919 1920 1921 1922 505000000 97 90 93 95 91 96 97 92 95 98 83 85 98 91 93 
+
+Jump in productivity
+
+COMMENTS 
+
+AA phase.-Fixed productivity -average output per worker =82 on index. 
+
+BB phase.-Fixed productivity -average output per worker = 92 on index. 1923 1924 98888 97 888 94 96 98 101 1925 98 97 99 1926 99 100 101 1927 96 98 102 1928 97 102 105 1929 97 99 102 
+
+CC phase.-Fixed productivity 1930 96 98 102 1931 96 102 -average output per worker = 99 on index. 106 1932 97 96 99 1933 97 96 99 1934 97 93 96 1935 100 91 91 1936 100 94 94 
+
+Jump in productivity 1937 100 106 106 1938 100 103 103 1939 100 106 106 
+
+TT phase. 
+
+Productivity in- 
+
+1940 100 110 110 1941 98 113 115 creases continuously from 
+
+106 to 133 on index. 1942 98 124 127 1943 97 129 133 
+
+Jump in productivity 1944 95 137 144 1945 93 134 144 1946 95 137 144 1947 96 136 142 1948 95 138 145 
+
+EE phase.-Fixed productivity -average output per worker = 144 on index. 1949 92 140 152 1950 89 137 154 
+
+* Farm Labor, BAE, U.S.D.A., Feb. 9, 1951: This series is revised from that used in Table 1, 
+
+"Farm Price Gyrations," J.F.E., May 1947; hence, the calculated series Output per Worker of this table varies from that presented in the original table. But the basic story remains unchanged. 30
+
+the schedule of intentions to produce remain technologically fixed over a period of consecutive years, is satisfied? We think it does. The indices used in computing changes in productivity, output per worker, are standard and regularly used, and four distinct periods of stable productivity emerge over the entire period 1912-50. For the 6-year period, 1912-17, the mean average on the index of output per worker is 82, the extremes are 79 and 85, and no trend is apparent in the data. For the 5-year period 1918-22 the mean average on the index of output per worker is 92, the extremes are 85 and 96, and no trend is apparent in the data. 
+
+For the 14-year period 1923-36 the mean average on the index of output per worker is 99, the extremes are 91 and 106, and no trend is apparent in the data. And for the final period 1944-48, the mean average on the index of output per worker is 144, the extremes are 142 and 145, and again there is no clear trend in the data.5 In sum, we discover for the historical period in question four discretely separated phases, varying in duration from 5 to 14 years, in which productivity, output per worker, is fixed, stable and unchanged; and, variations around each mean appear to be random. Since demand was shifting during each of these phases, the resulting realized output points within each phase must trace out output curves each representative of the schedule of intentions to produce.
+
+It is clear that the slope of each of the empirically drawn output curves (AA, BB, CC and EE) in figure 9, is almost identical or parallel with each of the other three curves. Further, each of the curves is nearly or perfectly inelastic. Thus we conclude that the output function for food in the aggregate is completely or almost completely inelastic. For any given period and productive organization, sustained output is the norm. Food output in the aggregate is completely or almost completely unresponsive to changes in price (price level in this case). This conclusion is certainly not revolutionary. Most economists have felt or known vaguely for a long time that the aggregate output function for agriculture was inelastic, although the reasoning here applies only to total food output. Now we know a little bit more about what this functional relationship actually involves.
+
+It may be argued that the mechanics of our analysis forces a perfectly inelastic output curve since each time the index of output per worker increases the output curve is shifted to the right. And it is only when the 
+
+5 These breaks or jumps in productivity compare quite favorably with the data presented in "the index of gross farm production per farm worker" by Cooper, Barton and Brodell in their remarkably fine publication Progress of Farm Mechanization, U.S.D.A. Misc. Pub. No. 630, October 1947, p. 81. And although their discussion neither supports nor invalidates our historical interpretation, since their presentation is framed in noncontroversial Governmental style, a thorough study of their work is helpful in understanding and appraising the hypothesis of this section. 
+
+6 The question might be asked-Would the use of relative prices, farm prices relative to nonfarm prices, change the slope of these output functions? The answer is no. Since these curves are perfectly inelastic or practically so, all the use of relative prices would accomplish is a reduction in the amplitude of the curves. And since we have already argued that agriculture is, figuratively speaking, a water-tight compartment, the employment of relative prices in this analysis of output and production responses does not logically follow. 31
+
+index of output per worker remains constant that we draw in a curve. 
+
+Thus the output curve must be perfectly inelastic. But such an argument is fallacious. The output curves isolated in figure 9 could and would take on a more elastic slope if higher prices induced a greater employment on farms producing food, and lower prices induced a reduction in employment. For the aggregate product will vary in size, if the persons employed in producing food vary in number, when worker productivity is constant. But total employment in agriculture, a relationship which must hold for the food component, tends to hold constant or decline modestly over the historical period under consideration, as if completely oblivious to price movements; whereas in the nonagricultural segment total employment fluctuates markedly in response to price movements. Using employment as the unit for measuring productivity, the elasticity of the output function depends on the number of persons employed, and it is the unique constancy of employment in agriculture which produces a perfectly inelastic curve.
+
+To this point nothing has been said concerning the curve TT in figure 9. We purposely delayed any discussion of the curve TT because it has properties separate and distinct from the other four curves. It is not an output function. In fact, it should not be dignified by the name, function or curve. The TT phase and the line drawn through it is nothing more nor less than a line connecting a series of quantity points. It is true that the curves AA, BB, CC and EE are also drawn through historical quantity points. But the basic difference between the line TT and the other curves is that productivity, output per worker, increases each year in the TT phase and not in the other phases. Thus we have the phenomenon of the output curve and the demand curve both shifting through time with the consequences that the realized output points do not fall into a functional relationship.
+
+We must also take notice of the final observations 1948, '49 and '50 in figure 9. The price-output observation for 1948 simply does not fit the analysis. Food production decreased and nonfood production increased in 1948; food production decreased as the export of grains for relief feeding in 1946 and 1947 resulted in a substantial reduction in the volume of slaughter livestock coming to market in 1948. If we were working with the aggregate, total farm output, no damage would be done, but limiting the analysis to the food aggregate creates a problem. Thus, we remove the 1948 observation as being unrepresentative. 
+
+A new aggregate output curve, FF, would seem to be emerging for a period beginning in 1949. We say this because worker productivity 
+
+7 The other factor, number of acres harvested, remains almost constant at 350 to 360 million acres from World War I to the present. 
+
+8 For example, over the long period of generally rising prices, 1937-48, agricultural employment remained almost constant (actually declining from 11.6 million to 11.0 million) whereas the average number of persons employed in nonagricultural establishments increased from 34.8 million in 1935-39 to 51.4 million in 1948. Even though we are dealing with employment in the aggregate, it seems evident that the aggregate may expand in the nonfarm segment, whereas it holds constant on the farm side. 32
+
+made another significant jump in 1949, table 1. But this time, and for the first time over the span of years 1912-50, the aggregate output function for food does not expand to the right. It does not for at least one important reason: farm employment is declining and importantly so. 
+
+There may be some transference of resources from food production to nonfood production within the aggregate, total farm output, too. But clearly fewer workers, working with greater efficiency and at a higher level of prices in 1950, turned out a total food product modestly smaller than in 1944-47, a decline from 140 to 138 on the index, figure 9. This must mean the emergence of a new output curve. Certainly the aggregate output function is not negatively inclined. And certainly the basic conditions of supply have changed when worker productivity increases. 
+
+It would appear, then, that the aggregate output function for food can contract to the left, if the rate of decline in farm employment exceeds the rate of increase in worker productivity. This is, however, something different from saying that the aggregate output of food declines in response to falling prices through either a decrease in the farm laboring force or a decrease in worker productivity. Neither of these two developments has occurred in the past or gives promise of occurring in the future. What we have in the emerging curve, FF, of figure 9, is a modest contraction in total food output at a somewhat higher level of prices, a decrease in supply, brought about by workers leaving agriculture at a more rapid rate than the offsetting rise in worker productivity. 
+
+Shifting the Aggregate Output Function 
+
+Since we know the slope of the aggregate food output function to be similar to the curves AA, BB, CC, and EE and we also know by reason of the position of the realized output points that the output function is drifting to the right, it follows that a curve perfectly inelastic or nearly so could logically be drawn through each of the annual observations 1937, 1938, 1939, 1940, 1941, 1942, and 1943. We must now face up to the problem: How it is that the output function remains stable or fixed in a given quantity position over a number of years, then shifts to the right to a new and more productive position, sometimes remaining in this new position for another series of years, or in another context continues to shift to the right taking up successively more productive positions each year. To explain adequately pricing behavior in agriculture we must provide an explanation for this shifting action. 
+
+It will be remembered that an hypothesis was set forth in Section I which said that the movement of the output function is related to the movement of the demand function, and it is the movement of demand which is causal. Given a situation wherein a pool of unused technologies and "know how" exists, or the introduction of an innovation sufficiently important to force a reorganization in the productive organization occurs; add to this a strengthening in demand conditions, a shift in the demand function to the right, and we may expect the output function itself to shift to the right. The strengthening in demand induces operators to 33
+
+invest in new technologies, and the new technologies in turn increase the output per unit of input. On the other hand, a contraction in demand, a shift of the demand function to the left, does not result in a reversing action by the output function. 
+
+Observing the shifting action of the aggregate output curve in figure 9 and reviewing the economic history of the period between 1912 and 1950, it is evident that each movement by the output curve to the right occurred: (1) as the demand for food in the aggregate was increasing, and (2) in conjunction with a significant technological development at the production level. There are periods within the historical range 191250, however, when demand conditions were strengthening or at least maintaining a strong position, when the output function does not shift to the right as in 1918-1920, 1925-1929, and 1944-1947. Demand was increasing in each of those periods but not output per worker, consequently the output function does not shift to the right under the stimulus of increasing demand. It is also abundantly clear from figure 9 that the output curve does not shift back to the left with a contraction in demand. 
+
+Neither does it assume a more elastic position, slope downward and to the left. With a decline in demand the resulting quantity points trace out a curve as nearly perfectly inelastic as it is possible to draw a curve. Falling prices simply fail to induce a smaller output. Thus, the cushioning or braking action of a contracting supply present, in theory at least, in the usual demand-supply relationship does not come into play to help stabilize the farm price level.
+
+The basic technological development occurring on farms in the 191250 period was the development of the gasoline engine with all the accessories surrounding it. The strong trend toward mechanical power on farms diverted thousands of acres of land and other resources away from the production of feed for horses and mules to the production of food for human consumption. It is estimated, for example, that 50 million acres were released for food production between 1919 and 1944.9 
+
+The number of tractors on farms increased rapidly between 1912 and 1916, and reached such total numbers by 1917 as to affect production techniques, especially on the Great Plains. Also, the number of acres harvested increased between 6 and 7 per cent in the 2-year period 1916-18, a factor which was probably more significant than the gasoline engine in effecting a jump in worker productivity in these years. Thus an explanation is offered for the shift in the output curve from the position, AA, to the position, BB, between 1917 and 1918. And if the period 
+
+1917-19 had not been a war period, during which machinery and equipment supplies for domestic use became extremely scarce, it is possible that the output curve would have continued to shift to the right. For, other things being equal, farm operators probably would have purchased and placed in operation a greater number of tractors and other machinery than they actually did. But aggregate output did not respond to the 
+
+9 Glen T. Barton and Martin R. Cooper, Farm Production in War and Peace, December 1945, p. 6, U.S.D,A, 34
+
+violent price increases of that period because it could not since the slope of the output function was fixed by the limited manpower resources, the position of the curve was fixed by limited supplies of machinery and equipment. Consequently the outlet for the greatly expanded demand took the form of higher prices. 
+
+When the demand for food in the aggregate drops precipitously in 1921 and 1922, the output curve does not shift back to the left and take up the original AA position. Rather, the resulting quantity points trace out a curve perfectly inelastic as the unseen demand curve in figure 9 works down a perfectly inelastic schedule of intentions to produce. Following the business recession in 1921 and 1922 the demand for all foods expands once again, but contrary to the war experience we do not obtain an extreme price response. With the increase in aggregate demand the output curve shifts to the right taking up a new and more productive position, CC.
+
+The aggregate food output curve does not retrace the 1918-22 phase for one important reason, the gasoline engine. The gasoline engine became an important source of power on farms during the 1920's as tractors on farms increased from approximately 250 thousand in 1920 to nearly one million in 1930. Consequently considerable productive capacity was released from the production of feed grains and hay for work stock to the production of food products for human consumption. And these increases in output per unit of input made possible by the gasoline engine and made practical by a strong demand literally jumped the output curve to the right into the more productive position, CC. 
+
+The demand for food, however, continued strong throughout the 1920's, and tractors and power machinery were added to the national farm plant at a rapid rate over the entire 10-year period. Why is it then, that the output curve does not continue to shift to the right between 1925 and 1928 when the conditions of a strong demand and the proper technological base would seem to be satisfied? Frankly, we are not sure. 
+
+But two considerations may be involved. First, although the general purpose tractor was introduced in 1924, it was not widely known or used until the middle and late 1930's. And it may well be that simply adding old type tractors with wide treads was not enough. Once the older type of tractor had forced a reorganization in productive organization in the Great Plains, it was spent as an efficiency producing force for its design severely limited its use in the Corn Belt. Second, although prices were high absolutely as compared with the "Golden Age of Agriculture," 1910-14, they were not high relative to prices and price expectations immediately following World War I when heavy indebtednesses were incurred by farmers in the purchase of high priced land. The outlook of farm people was dampened in the late 1920's so that they did not purchase and put into operation the amount of new machinery and equipment that the abstract conditions of figure 9 would seem to indicate. 
+
+The aggregate demand for food did not continue to expand and force the level of food prices to the dizzy heights obtained in 1920. The demand 35
+
+for food began to fall in 1930 and it fell violently in the early 1930's. 
+
+But here we observe that the output curve does not skip back to the 1918-22 phase, BB position, in a reversing action with a contraction in demand. With the decline in demand that occurred in the early 1930's the empirically drawn aggregate output curve traces out a perfectly inelastic curve. The output function in this phase is a classic example of sustained output. Being blessed or cursed with relatively high overhead costs and low operating costs, farmers maintained production at or near the capacity levels achieved in the 1920's. If the costs of a business enterprise are largely sunk costs as they are in farming-land, family labor supply, heavy machinery and breeding stock-there is little incentive to restrict the total output of the enterprise. In fact, there may be an incentive to increase output, or try to increase output, in an effort to maintain income as prices are falling. 
+
+During the early 1930's technologies continued to pour forth, but at the experimental level rather than the production level. Again those developments were organized around the gasoline engine. Important innovations also occurred in the field of biology. But in the main they were not put into practice. The demand and price situation did not warrant their adoption. Hence, a pool of technologies and "know how” accumulated during the early 1930's, the various items of which began to find their way into individual farm operations between 1937 and 1939. But when farm prices and incomes advanced with the war boom, 1940-42, the latent technologies were jammed into practice. 
+
+The period, 1937-43, is the perfect example of the output skipping action postulated in Section I. The aggregate demand for food became increasingly stronger over the period creating the favorable price and income expectations necessary to heavy investments in machinery, equipment and new methods. As a consequence farm productivity rose over the 
+
+7-year period. By 1944, then, we obtain a situation wherein aggregate output at any given price is substantially greater than was the case in 1936. This situation is described in more vivid terms by Barton and 
+
+Cooper: 10 "The war period really represented the pay-off period, or the time when farmers were able to use to greatest advantage the large supplies of modern farm machines that were developed, and improved time and again, during the last 30 years. Although the wartime demand exceeded greatly the restricted supply of labor-saving farm machines, farmers as a whole had more tractors and tractor equipment then at any time in the history of the country. Numbers of grain combines, corn pickers, field silage harvesters, pick-up balers, side-delivery rakes, milking machines, and some other popular machines, are greater now than before the war. These helped immeasurably the depleted labor force to do the tremendous wartime farm production job well and in season.” 
+
+10 Op. cit., p. 2. 36
+
+The great price advances, which did not materialize between 1937 and 1943 because each time the demand function shifted to the right the output function shifted with it, did come into being between 1944 and 1948. The output function stopped shifting to the right after 1944, but aggregate demand continued to expand; hence, the farm price level mounts with each succeeding year between 1944 and 1948. It might appear that the war effort blocked a further expansion of the aggregate output function in that extensive investments in machinery and new technologies were shut off. But we must recognize that the aggregate output function did not resume its expanding action in the postwar period of high level demand, 1946-48. In retrospect it would appear that the burst of technological development organized primarily around the tractor and hybrid seed corn, was spent by 1944; the national farm plant was organized into the best adapted production organization by 1944 so that further investments in machines, equipment and new methods did not increase productivity. Upon the achievement of, or the realization of, the best adapted production organization, further increases in demand simply traced out a new aggregate output function, EE.
+
+As we have already observed from table 1, worker productivity in agriculture began to increase once again in 1949. But this time the aggregate output function for food does not shift to the right. It contracts modestly to the left. But we would not expect the aggregate ouput function to long remain in the suggested position, FF, given the war climate existing during the winter of 1950-51. We would expect worker productivity to increase greatly and the aggregate output function for food to once again begin drifting to the right. This expectation rests on three foundation stones: (1) the great variety of recent and prospective technological developments,¹¹ (2) the war demand for food inducing a widespread adoption of these technologies on farms, but (3) the war effort favoring extensive investments in these new technologies. In short, all the elements necessary to the expansion of food output-a shift in the aggregate output function to the right-appear to be present in 1951. 
+
+Relation to the Operational System 
+
+Now that we have some knowledge of the aggregate output function for food, perhaps we should look more closely at the relationship between it and the consumer supply function. It has already been pointed out why we must have this go-between concept of the consumer supply function. But a more definite statement concerning that relationship should be helpful, and it will provide a necessary link to the complete operational system of the next section.
+
+Particular circumstances of the market at the retail level may enter the picture and distort the relationship between the aggregate output and consumer supply functions in any given period. This is the continu- 
+
+11 A good description of the technological base of further output expansion is to be found in the U.S.D.A. Misc. Pub. No. 707, Changes in American Farming, by Sherman Johnson and Associates. 37
+
+ing problem of normal versus market phenomena, and in all cases our functional relationships represent normal relationships. Recognizing the possibility of discrepancies on this score and then promptly ignoring them, the consumer supply function differs from the aggregate output function in that the former: (1) is constructed on a per capita basis and takes into consideration changes in the civilian population, and (2) is based on the net food supply after the effects of imports and exports have been taken into account. Except for war years, these differentiating forces have been of minor significance. Basically, the controlling force is the aggregate output of food. 
+
+Mechanically there are some difficulties in transferring a measure of the force of aggregate output to that of consumer supply. The consumer supply function relates to the price ratio, food prices to nonfood prices, and the aggregate output function to "responsible prices," an adaptation of prices received by farmers for food. Most simply stated, a shift in the aggregate output function cannot be transferred directly to the consumer supply function since they do not have common axes. A more sophisticated measure is required to relate the controlling force of aggregate output to the consumer supply function. This we achieve through a straight line of regression relating the variables (1) the index of per capita food consumption and (2) the index of food production for sale and home use.12 Now an expansion or contraction in aggregate output can be made to affect the consumer supply function which has as its X axis the per capita consumption of food. To repeat again, the consumer supply function has no significance in itself. It was developed solely as a mechanical link in the operational system, and perhaps greater insight into these problems will provide a technique for eliminating it. 
+
+But the importance of the relationship between the consumer supply function and the aggregate output function should be dawning. If a clear relationship exists between these two functions, and we have a measure of the controlling one, then we can formulate and shift the dependent function in accordance with the dominating one. Such a development frees the operational system from the limitation of specific time periods. 
+
+Its application is now much wider; our systematic method may be used to explain price level movements both within periods where the conditions of supply hold constant and between periods where the conditions of supply are changing.
+
+IV: An Operational Theory of Farm Price Behavior The Parts in Relation to the Whole 
+
+To this point we have been engaged in constructing an operational system for explaining price level movements in agriculture, in developing theory, in devising relationships, and in preliminary testing. Our plan now calls for the development of a complete system which can be used to explain past price level movements, for analyzing current price move- 12 The equation for this line of regression is given by Y 61.34 + .398X when Y = the index of per capita food consumption and X = the index of production for sale and farm home consumption. 38
+
+ments, and for considering, but not predicting prospective price movements. But it seems advisable at this point to review the steps in the analysis to see the whole system in perspective. We will not be concerned here with the technique of construction, but rather with the relationship of each part to the whole. 
+
+First the aggregate demand function for food: it sets forth a functional relationship between the ratio of retail food prices and nonfood prices on one hand and the per capita consumption of food on the other. From this relationship we can indicate in precise terms the quantity changes per capita food consumption associated with changes in the price ratio. If, for example, food prices fall and nonfood prices hold constant, a common historical occurrence, the price ratio will decline and the increase in per capita food consumption associated with that change is uniquely determined.
+
+But this does not mean that the aggregate demand for food is stable, that the function does not move. The price-quantity relation described above holds for any given position of the demand function. Our knowledge of the shifters of demand, however, make it clear that the demand function is forever changing its position. It is the moving, causative force in the entire analysis.¹ As the disposable incomes of consumers increase and decrease, the aggregate demand function for food expands and contracts. And because of the extreme inelasticity of the function, assuming no change in quantity, a small increase in demand forces a large rise in price and vice versa. Also, as we observed in the last section, an expanding aggregate demand for food encourages investments in agriculture and hence induces increases in output, both in the aggregate and on a per capita basis. Thus, a restless, shifting demand for food provides the initiating force, the consequences of which we attempt to measure in terms of aggregate output, per capita consumption, and the various price indices.
+
+For purposes of completing the operational system the numerous supply concepts presented in the previous chapter may be organized in the following manner: For any given period, the aggregate output of food is constant, fixed, and sustained. In economic terms, the aggregate output function is perfectly inelastic, the total output of food changes not one bit as the index of responsible prices increases or decreases. This condition in any given period does not, however, extend over the four decades of the analysis. The aggregate output function takes up a new position each time worker productivity changes significantly. The question then arises: What causes this perfectly inelastic output function to shift to the right or to expand? It expands whenever investments in new and more efficient technologies cause worker productivity to increase, the laboring force being unchanged. This investment usually takes place when the demand for food is expanding. 
+
+1 We are aware that each variable (e.g., demand, commodity price, factor cost, quantity supplied) in the economic system is mutually interdependent, hence mutually determined. In this sense no single variable, factor, or force is causative. But in a partial type analysis, such as we are pursuing, it is useful and not inappropriate to speak of a causal sequence. 39
+
+But the aggregate output function cannot be used directly in the operational system. That system is constructed throughout on a per capita basis; thus, the aggregate output function must be converted into a per capita concept, which we do, and re-name the consumer supply function. 
+
+Within the operational system then, the consumer supply function will be shifted when and to the extent that the aggregate output function is found to have shifted.
+
+Analytically, the system is complete. An aggregate demand function and an aggregate supply function have been defined conceptually, measured statistically, and a technique has been developed for shifting them. 
+
+But operationally it is not complete. We must consider the final link, the relationship between the price ratio and the index of prices received by farmers for food. The statistical analysis has been developed in terms of a ratio of retail food prices to nonfood prices, which theoretically is a valid concept, but in terms of policy or action it is rather roundabout. 
+
+We want price solutions in terms of the conventional prices received index. This we achieve through the formulation of a relationship between the price ratio and prices received, a relation which has some economic meaning but which here takes the form of an operational gadget. 
+
+Where this latter relationship is good the operational system provides useful or representative solutions in terms of the index of prices received. 
+
+But, unfortunately, this relation is not always too close, and in those cases the final solutions tend to stray from the historical record. 
+
+The Complete System 
+
+The graphic presentation of the complete operational system, figure 10, takes as its point of departure the estimated price-quantity points of 1936. In other words, the demand function, D36D36, and the consumer supply function, CS of figure 8, are transferred inviolate to figure 10. 
+
+Thus a price ratio of 100.0 (or prices received of 104.3) and a per capita consumption of 99.6 provide a jumping off place for the analysis which follows.
+
+This immanent method is used for definite reasons. It will be remembered that in the first tentative system, the demand function was shifted from 1929 to 1932 and on to 1936 as the consumer supply function held constant. There was nothing wrong with that analysis as far as it went; it provided a reasonable explanation of price movements during that period. But we had to hold up at 1936. After that date, we were not justified in holding the consumer supply function positionally fixed since aggregate output was expanding. We had no means of incorporating that expansion into the statistical supply function at the consumer level. In 
+
+Section III, however, we developed the concept of an aggregate output function and discovered how it behaves through time, how it held constant between 1923 and 1936, and how it began to drift to the right after 1936. So it seemed altogether logical to interlock the analysis after 
+
+1936, figure 10, with the analysis prior to 1936, figure 8, to form the complete system. 40
+
+39 36 120 110 100 90 80 80 P36 CS 
+
+PRICES RECEIVED FOR FOOD (INDEX) 
+
+184.1 157.5 30.9 39 112.0 104.3 77.7 39130 36 51.1 CS 41 24.5 70 50 60 70 60 90 100 110 120 130 140 150 
+
+PER CAPITA CONSUMPTION OF FOOD (INDEX) 
+
+91.3
+
+Fig. 10.-A complete operational system for explaining price level movements 1936-41.
+
+The demand curve, Dз6D36, is shifted to position D39D39 by the identical procedure used and described in Section II. The force of expanded personal incomes, and the catch-all factor, trend, drives the demand function to the right 1.3 points on the index where it takes up the new position, D39D39.2 The consumer supply curve must also be shifted to the right, for we know the aggregate output function was drifting to the right over the entire period, 1937-43, taking up successively more productive positions. Reading from the relation-aggregate food output to per capita food consumption-we find that an expansion in aggregate food output of 9 points on the index yields an increase of 3.5 points on 
+
+2 The equation for the line D39D39 is given by Y = 427.92 ratio and X = per capita food consumption. 
+
+3.25X, where Y = the price 41
+
+the index of per capita food consumption. Thus, the consumer supply curve takes up the new position, CS39CS39, some 3.5 points to the right of the original curve for any given price.³
+
+The intersection of the curves, D39D39 and CS39CS39, of course, gives the estimated level of prices in 1939. In this case, a price ratio solution of 95.1 converts onto the index of prices received by farmers at 91.3 or .4 of a point above the realized level of 90.9 in 1939. We conclude, therefore, that the operational system continues to yield satisfactory results.* 
+
+In fact, considering all the diverse forces at work in the price making process and the relatively few factors considered here, any closer results might be viewed with suspicion. The price level solutions derived from the operational system, here where it is exceptionally close to the actual and in other places where they may not be so close, should always be considered as representative of the real situation and not an attempt at a facsimile performance. The forces at work between 1939 and 1941 are essentially the same as between 1936 and 1939; hence, we obtain a similar construction in figure 10. Per capita disposable incomes, however, rose much more rapidly in the later period; hence, the demand curve jumps 7.0 points farther to the right taking up the new position, D41D41.5 The consumer supply curve continues to drift to the right, 3.5 points, in direct relation to the expansion in aggregate output, taking up the new position, CS41CS41. The intersection of the demand curve and supply curve for 
+
+1941 yields a result of 102.9 in terms of the price ratio which transfers onto the index of prices received by farmers for food at a level of 112.0. 
+
+This solution of 112.0 is 4.4 points below the actual for 1941 of 116.4 on the index. Again the price result would appear to be satisfactory and representative of the situation in 1941. The final historical test supports, as do all others in the interwar period, the operational system as a method for explaining price level movements in agriculture." 
+
+In the year 1937-43 context, where aggregate output is increasing 3 The equation for the line CS39CS39 is given by X = 89.1 + .14Y, where X = per capita food consumption and Y = the price ratio. 
+
+4 This solution, as with all others in this chapter, was derived mathematically. With the information given above in footnotes 2 and 3, the price solution of 91.3 for 1939 may be derived by the procedure described in footnote 21, Section II. 
+
+5 The equation for the line D41D41 is given by Y = 450.70 ratio and X = per capita food consumption. 
+
+3.25X, where Y = the price 
+
+6 The equation for the line CS41CS41 is given by X = 92.6 + .14Y, where X = per capita food consumption and Y = the price ratio. 
+
+7 It might be suggested that we hand-picked the years to support the method. Such a contention would be false for in practice we followed just the opposite procedure; we picked the years to represent all types of conditions and then tested the operational system for those years. Originally we planned to use 1942 instead of 1941, but we revised our plans when the extent of the war influences were sufficiently appraised. If we had used 1942 our results would have been less satisfactory due to war disturbances. If the interested researcher employs the method developed here for other years, he will find that in some years the results are better, in others worse, depending, of course, on how close actual conditions in those years satisfy the various relations used in this analysis. It might prove interesting to give the mathematical solution for several other years on which the method was tested. See footnote next page. 42
+
+each year and the position of the consumer supply function is affected, the quantity solutions to be obtained from the operational system are as significant as the price solutions. Perhaps more so, depending on the purpose of the analysis. And by inference the quantity results obtained for the 1923-36 period are not to be considered without significance. 
+
+Obviously it is from the unresponsiveness of output and/or supply that much of the extreme movement in the food price level derives. But mechanically it was simply easier to obtain representative quantity results in the 1923-36 context, with a fixed and extremely inelastic supply function and a shifting demand function, than price level results. Now there is a noticeable variation in per capita food consumption between 
+
+1936, '39, and '41. How representative, then, are the equilibrium points in terms of the index of per capita food consumption? For the year 1936, realized consumption is 99.6 and derived result is 99.6; for 1939 realized consumption is 103.8, derived 102.4; and for 1941 realized consumption is 108.3, derived 107.0. So the operational system continues to provide satisfactory results.
+
+The shifting demand and supply functions in figure 10 explain in conventional terms what was happening to the food price level between 1936 and 1941. The demand for all food, for more food and for more expensive foods, was expanding over that period, due principally to increases in personal incomes. If the supply of food had remained constant, as it did between 1923 and 1936, then prices received by farmers would have shot skyward, rising on the index of prices received to a level of 150 or thereabouts. But the supply function did not hold constant. It drifted to the right taking up successively more productive positions as the effects of investment in new techniques were realized. Thus, even though the aggregate demand for food was expanding between 1936 and 1939, prices fell modestly. But the relatively greater expansion in demand between 1939 and 1941 reversed the downward movement of prices, forcing them upward in the beginnings of the great price movement of 
+
+World War II. 
+
+Within the framework of the analysis presented in figure 10, what happened to farm prices during World War II or immediately thereafter is simple. The demand curve for all food continued to shift to the right, driven by greatly expanded personal incomes and intensified by the lack of durable goods for sale. But at some point in time, around 1944, the aggregate output function stopped its concomitant movement to the right. Hence, the consumer supply curve took up a fixed position in terms of our system. In this situation only one thing could happen, and it did. The demand function rode up a positionally fixed and inelastic 
+
+Price Ratio 
+
+Prices Received Year
+
+Solution Actual Solution Actual 1926 109.1 113.6 128.5 137.8 1928 110.0 110.2 130.9 137.6 1940 94.4 94.7 89.4 94.7 43
+
+supply function to force the prices received by farmers for food to a high of 269 in 1948.
+
+The opposite situation is portrayed in figure 8, Section II. The consumer supply function remains positionally fixed between 1929 and 1932, as does the controlling aggregate output function. And the consumer supply curve is extremely, if not perfectly, inelastic. Thus, with a contraction in demand from D29D29 to D32D32, or by approximately 12 per cent, the price level fell from 139.1 to 66.8 on the index or by 52 per cent. With this great price decline, the total amount of food offered in supply contracted by only 4 points on the index or by 4 per cent. 
+
+Practically the full force of the contraction in demand between 1929 and 1932 was absorbed in the price decline. A reduction in the supply offered was effected neither through the supply function contracting to the left nor by reason of price elasticity.
+
+When the analysis germane to figure 8 is joined with the analysis developed around figure 10, the panorama of farm price behavior is complete. The operational system has explained with reasonable effectiveness price level movements arising out of all probable conditions of demand and supply for total food. These situations are illustrated graphically in figure 11, where the trappings of the operational system are reduced to a minimum. Three basic models portray all probable phases of the fluctuating farm price level: the 1929-32 phase where demand contracts, the supply curve is positionally fixed and inelastic, and the price level falls precipitously; the 1936-41 phase where demand expands, the supply curve shifts to the right as a function of demand, and the price level holds fairly constant; and the 1944-49 phase where demand expands, the supply curve is positionally fixed and inelastic, and the price level rises to an extremely high level. A theoretical explanation of farm price behavior is thus offered, which would seem to meet the requirements of good theory; it is simple and it meets the test of historical fact. 
+
+Summary 
+
+Extreme price level movements in agriculture are normal and are to be expected. Basically they grow out of the inability of consumers to adjust quantities taken or of producers to adjust quantities provided in response to price level movements where total food is concerned. In this context, where both curves in the demand and supply cross are highly inelastic, any small shift in one or the other sends the farm price level scooting.
+
+We know that the aggregate demand for food most often fluctuates around a positionally fixed supply curve. In other words the index of per capita food consumption does vary at any given price level as per capita disposable income varies; this in no way conflicts with the prior statement that the quantity of food consumed varies only slightly with price level changes. Now these shifts in demand, usually small in amount, give rise to extreme price movements. This is our principal point; a shift in the aggregate demand for food does not have to be large to force an important price change. 44
+
+1929 
+
+FOOD PRICE LEVEL IN PERCENT FOOD PRICE LEVEL IN PERCENT 
+
+1936-1941
+
+FOOD PRICE LEVEL IN PERCENT 
+
+1944-1948 100 107 100 032 29 944 36 154. 100 100 
+
+PER CAPITA CONSUMPTION OF FOOD IN PERCENT 
+
+100 107 
+
+PER CAPITA CONSUMPTION OF FOOD IN PERCENT 
+
+100 103 
+
+PER CAPITA CONSUMPTION OF FOOD IN PERCENT THE PRICE-QUANTITY DATA FOR 1929, 1936, AND 1944, RESPECTIVELY EQUAL 100 
+
+Fig. 11.-Farm price fluctuations-basic models. 45
+
+For example, the per capita consumption of food declined modestly through the early years of the Great Depression. This decrease, albeit a modest one, in the amount consumed cannot be related to a change in food prices, for we know that the food price level fell during the period 1929-32, and even where demand is inelastic falling prices would lead to some expansion in the amount taken. Since that important determinant of demand, personal disposable incomes, was contracting over the period 1929-32, we conclude that the decline in per capita food consumption represented a contraction in the aggregate demand for food. 
+
+For any given price, the absolute number of dollars allocated to the purchase of food declined over the period 1929-32, which had the effect of reducing slightly the number of pounds consumed and causing consumers, insofar as they were able, to substitute low resource-using foods for high resource-using foods, such as fresh vegetables for dairy products. 
+
+Now this contraction in the aggregate demand for food between 1929 and 1932 was not large, about 12 per cent. But this 12 per cent contraction, gave rise to a fall in prices of 52 per cent. A small shift in aggregate demand can take a nation from a condition of shortages and high prices to a condition of surpluses and low prices. And we saw just the reverse occur during the winter of 1950-51. 
+
+We have seen that the aggregate output function sometimes drifts to the right, expands, in response to a strengthening of aggregate demand. 
+
+This occurs when important new technologies are being invested in and adopted on farms generally. The period 1937-43 beautifully illustrates this type of development. And where the output function is shifting to the right, it exerts a moderating influence on prices. 
+
+Supply responses in the aggregate, and we assume for the farm firm, do not typically occur along a fixed supply curve with a positive slope. 
+
+Supply responses typically occur through technological advances, where a new combination of resources makes possible a greater output from a fixed amount of resources. Thus, the aggregate supply function shifts to the right when expectations are bright and investments in new methods are widespread.
+
+But once a new position is achieved, the aggregate supply curve does not contract to the left in the face of a contracting demand. It does not because farmers do not stop using new methods in which their capital is sunk or about which a habit is formed. Consequently when a burst of technological development is spent and the output function ceases to expand, the aggregate demand function then fluctuates around a positionally fixed and a highly inelastic supply curve. For this fundamental reason, we argue, that price instability in agriculture is the norm. The peculiar inelasticity of both aggregate demand and aggregate supply, give agriculture a built-in price instability. Any small movement in the usual causative element, aggregate demand, gives rise to a substantial price level change. 
+
+8 See Appendix D for an analysis of the price effects of an induced expansion in demand through a Food Allotment Program. 46
+
+APPENDICES
+
+Appendix A 
+
+A relationship between the per capita consumption of food, per capita disposable income, the ratio of food prices to nonfood prices, and trend, United States, 1922-41.
+
+INDEX OF 
+
+X1 
+
+INDEX OF 
+
+X2 X3 
+
+RATIO OF FOOD YEAR PER CAPITA PER CAPITA PRICES TO NON- CONSUMPTION* CIVILIAN FOOD 
+
+DISPOSABLE 
+
+FOOD PRICES (INDEX)† TREND ESTIMATEDtt 
+
+1922 98.6 104.6 100.6 1923 101.2 119.0 102.9 1924 102.4 118.2 101.0 1925 100.9 123.2 109.5 1926 102.3 126.1 113.6 1927 101.5 124.6 110.2 1928 101.6 126.5 110.2 1929 101.6 132.1 112.6 12345678 98.9 101.6 102.1 100.9 
+
+101.3 101.9 102.5 1930 99.8 115.4 108.6 100.1 1931 
+
+96.6 93.4 10 100.5 1932 97.6 73.3 83.7 11 98.2 1933 97.2 71.1 87.0 12 96.9 1934 
+
+81.0 96.8 13 96.5 1935 96.0 88.9 103.6 14 96.4 1936 99.2 102.2 103.5 15 99.5 1937 100.3 107.9 103.8 16 100.8 1938 100.3 97.2 95.6 
+
+1939 
+
+104.1 103.8 93.7 78 17 100.9 18 103.1 1940 105.3 110.9 94.7 19 104.5 1941 107.6 133.7 100.5 20 108.0 * Bureau of Agricultural Economics index of civilian food consumption per capita.
+
+** Excludes meat slaughtered under the Emergency Government Relief Purchase Program. 
+
+Index including meat is 99. *** Based on Department of Commerce estimates of disposable income; old series, published prior to revisions in 1947. 
+
+† Retail price indices of the Bureau of Labor Statistics. 
+
+tt Y estimated 104.321 + .221X₁ · R2.96. 
+
+.285X2.139X3. 49
+
+Appendix B 
+
+A relationship between the per capita consumption of food, per capita disposable income, the ratio of food prices to nonfood prices, and trend, United States, 1930-48.
+
+INDEX OF 
+
+X1 
+
+INDEX OF 
+
+X2 X3 
+
+RATIO OF FOOD YEAR PER CAPITA PER CAPITA PRICES TO NON- CIVILIAN FOOD DISPOSABLE CONSUMPTION* INCOME** FOOD PRICES (INDEX) *** 
+
+TREND 
+
+ESTIMATEDtt 
+
+Index numbers, 1935-39 – 100 1930 99.8 116.8 108.6 1931 100.3 99.0 93.4 1932 97.6 74.7 83.7 1933 97.2 70.2 87.0 1934 99.3 79.5 96.8 1935 96.0 88.9 103.6 1936 99.6 100.6 103.5 1937 99.9 107.6 103.8 1938 100.6 98.4 95.6 1939 103.8 104.5 93.7 10 1940 105.4 111.7 94.7 11 1941 108.3 134.7 100.5 1942 108.1 168.2 110.0 13 1946 118.0 219.7 124.7 17 1947 115.6 235.1 138.7 18 1948 112.0 251.3† 140.7 19 1234567∞OIL 700 98.6 100.3 99.4 98.1 97.2 97.1 99.2 100.5 101.6 103.4 104.5 106.8 109.7 114.9 113.8 116.1 * Bureau of Agricultural Economics index of per capita civilian food consumption. ** Based on Department of Commerce estimates of disposable income; revised series, pub. lished after July 1947. 
+
+*** Retail price indices of the Bureau of Labor Statistics. 
+
+† Preliminary estimate based upon the first three quarters of 1948. tt Y estimated 109.6500 +.1550X1
+
+R2.93. 
+
+.2713X2 + .2976X3. 50
+
+Appendix C⭑ Statistical Series Regularly Used in the Analysis INDEX OF PRICES RECEIVED BY INDEX OF PRICES RE- FARMERS FOR FOOD YEAR Old Series New Series SPONSIBLE FOR FOOD PRODUCTION IN THE YEAR INDICATED 
+
+1935-39 100 
+
+INDEX OF AGGREGATE FOOD OUTPUTT 
+
+1910 91.3 1911 83.2 1912 90.5 22 92 1913 94.0 94 1914 94.9 99 1915 93.0 96 1916 107.7 100 1917 153.3 129 1918 174.6 168 1919 186.1 188 1920 181.3 193 1921 119.1 169 1922 116.2 132 1923 116.9 120 1924 116.5 118 1925 136.8 132 1926 137.8 147 1927 131.8 137 1928 137.6 136 100 1929 137.8 141 1930 120.3 139 1931 86.0 114 100 1932 64.5 83 1933 64.8 66 97 1934 76.5 74 100 1935 98.7 88 93 pe⌘ཌཱུྂRR➢2b6bའིཥྛཿན ཨྰཿ88ཥྛཿམ 92 95 97 97 97 96 1936 104.7 100 97 1937 111.7 112 101 1938 94.0 107 103 1939 90.9 93 106 1940 94.7 94 91 111 1941 116.4 114 100 115 1942 146.4 145 128 126 1943 175.9 175 159 134 1944 174.7 173 182 140 1945 182.6 183 192 139 1946 210.7 207 205 140 1947 254.0 249 236 140 1948 269.0** 260 271 134 1949 237.0** 229 262 137 1950 229 246 138 
+
+*Source: BAE 
+
+S&HR. 
+
+Index of food production for sale and farm home consumption.
+
+51
+
+Appendix D A Note on the Price Effects of a Food Allotment Program 
+
+Employing a modified version of the analytical method developed in Section II, we can measure the price level consequences of expanding aggregate food expenditures by some amount, say $1 billion. But before we trace the consequences of such an expansion we must know or assume something about the economic situation in which that action is to take place. The possible situation we have in mind is a severely depressed year to which we give the name 195d. The economic dimensions of this depressed year run as follows: Gross National Product, $170 billion; personal disposable income, $130 billion; and prices received by farmers for food, 123 on the index. Further, this is conceived to be a stable situation, one in which the general pattern is carried throughout the year, although that stability derives from continuous income injections on the part of the Federal Government. 
+
+We are now in a position to estimate the extent to which the index of prices received by farmers for food may be increased by expanding the total expenditure for food by $1 billion. The action involved is that of raising the expenditures of low income consumer units to a level where a defined list of foods may be purchased, the Food Allotment Program. 
+
+With few exceptions the analytical method is similar to that developed and employed in Sections II and IV. The first exception arises out of the fact that there are two separate and distinct reactions on the part of the demand function to a program which increases the food expenditures of low income consumers by $1 billion. Just as in previous cases, we may expect the demand function to shift to the right in response to an increase in per capita disposable income. But the nature of this line of action, which would attempt to maintain the consumption of low income families at a defined level of adequacy without regard to price, causes the demand function to rotate into a more inelastic position. If we assume, as we have, that the program affects 20 per cent of the population and maintains a level of consumption in terms of specified foods that is defined as adequate, we are in effect making the demand function for 20 per cent of the population perfectly inelastic. Price no longer determines the total quantity of food which they consume; a consumer subsidy holds per capita consumption to a previously defined level. For the rest of the population nothing has changed for the moment; the average per capita demand function is that derived for the years 1930-42 and 1946-48, footnote 12, Section II, but contracted to the left as the force of income in the assumed severe depression dictates. The slope of the derived demand function for both components of population, D,Dr, figure 12, is thus an average of one function which represents 80 per cent of the population and one which represents 20 per cent.¹ 
+
+1 The calculation of this average demand function, D,D, fig. 12, takes as its starting point the regression equation defining the demand function DaDa fig. 12, in the assumed depression year (see equation (1) below). This equation represents the per capita demand function for the total population prior to the inception of the Food Allotment Program, and the function for 80 per cent of the population thereafter. It may be observed that the absolute value of X (where X = the per capita consumption of food) and assumed to be 110 (equation 2) for the 20 per cent of 52
+
+A second exception becomes apparent when we attempt to shift the demand curve in response to the increase in per capita disposable income. 
+
+The expenditure injection of $1 billion is not in a form which can be directly employed in the operational system. To operate the system, we must find a way to convert the additional food expenditures of $1 billion into per capita disposable income. If we define the $1 billion increase in food expenditures as the total change in that area of expenditure, the procedure is relatively simple. By establishing a direct relation between food expenditures and disposable income² we can translate the $1 billion increase in the former into a $3.8 billion increase in the latter to obtain a measure which may be used directly in the operational system. 
+
+The logic behind this procedure is that a $3.8 billion change in disposable income has the same shifting effect on the demand curve as a $1 billion change in food expenditures.
+
+But the situation is complicated by the fact that the $1 billion increase in food expenditures represents an injection into the income stream; we must therefore expect the multiplier principle to be operative; the total increase in food expenditures will thus be greater than the initial injection of $1 billion. Any action taken to raise the food expenditures of low income consumer units by $1 billion should also be considered as an increase of $1 billion in their incomes. To this amount we must apply a multiplier which will define the total increase in disposable income. 
+
+We will assume as our starting point a multiplier of 3, a rather commonly assumed value for the multiplier in the United States. But our multiplier must be higher by 1 than any generally assumed value. This follows from the fact that the initial recipients of the $1 billion are forced to spend the entire amount for food; there is no leakage at the first level of expenditure. But from there on, the progression of leakages is as usual. 
+
+The multiplier for our purposes then becomes 4 and the increase in disposable income we estimate to be $4 billion. the population participating in the program has no bearing on the slope of the new average demand function. What is important to the determination of that slope, and that is our present concern, is that 20 per cent of the population participates in the program and the per capita demand for that group is perfectly inelastic. 
+
+The slope of the new average demand function is calculated as follows: (1) 
+
+Y 443.5366-3.1876X
+
+Where Y the price ratio and X = per capita food consumption 
+
+Solving for X
+
+X= 
+
+443.5366 - Y 3.1876 (2) X=110 adding equations (1) and (2) where (1) is given a weight of 80 per cent and (2) a weight of 20 per cent we obtain 80 
+
+443.5366 Y 3.1876 
+
++20 (110) X = 100 Now solving for Y we obtain 
+
+Y 531.1956 
+
+3.9845X or the equation for the line which averages the demand function for 80 per cent of the population and the function for 20 per cent of the population. 
+
+2 The regression equation is given by X = 9.1492 + 3.7879Y, where X = total disposable income and Y = total food expenditures. 53
+
+Unfortunately, we have not yet reached the end of the process. To use the $4 billion increase in disposable income as a measure of shift of the demand function would be to understate the inflationary influence on the farm price level of an additional expenditure of $1 billion for food. 
+
+This is so because the old relation between food expenditures and disposable income of 1 to 3.8 no longer obtains. The mechanics of the 
+
+Food Allotment Program demand that the initial increases in income of $1 billion be expended entirely for food. The remaining $3 billion increase in disposable income conforms to the old relationship and results in an increase in food expenditures of $0.8 b. The maximum increase in food expenditures resulting from the income injection of $1 billion is thus found to be $1.8 billion. By substituting that value in the relation between total disposable income and total food expenditures we derive a measure of the increase in disposable income which would cause the demand function to shift to the same extent as a $1.8 billion increase in food expenditures, or $6.8 billion. 5d Turning now to the graphic analysis, we present in figure 12 the conditions of demand and supply for the severely depressed year, 195d, in the curves, D5 D5а and CS5а, respectively. Parenthetically it may be observed that the consumer supply function is positioned at 110 on the index of per capita food consumption. We hold the consumer supply function at 110, the estimated value for 1950, because the aggregate output function may not be expected to expand, or contract, in the context of the assumed severe depression. First the aggregate demand function is rotated on the point, Pɑ, into the configuration, DD,. This new configuration takes into account the assumed fact that 20 per cent of the population is participating in a program which holds the food intake of these low income consumers at a prescribed level regardless of price. In short, we now have the slope of the aggregate demand function in question. The position of the curve, DD, the rotated demand function, is obtained by taking into account the direct and secondary expansionary effects of the $1 billion injection. 
+
+The expansion of $6.8 billion becomes the measure of the income force driving the aggregate demand function, DD,, to the right from point P50. 
+
+Converting this expansion of $6.8 billion in total disposable income to a per capita basis, and using the latter measure of expansion in the familiar method for shifting the demand function, we find that it shifts 1.39 points to the right on the X axis taking up the new position, DDrx' rotated and expanded. The demand function, DD, adjusted for slope and position, effects an intersection with the perfectly inelastic consumer supply function fixed at 110 on the index of per capita food consumption at a higher level of prices, at 139 on the index of prices received. Thus, we derive a measure of the influence of $1 billion additional food ex- 
+
+3 See the regression equation given in footnote 2. 
+
+4 Defined by the equation Y = 531.1956 3.9845X where Y = the price ratio and X = per capita food consumption, as derived in the previous footnote 1. 
+
+5 The exact procedure is set forth in footnote 16, Section II. 54
+
+0, Drx 
+
+CS 15d 100 Prx 95 90 85 100 105 CS 5d 110.
+
+Dr 5d 
+
+PRICES RECEIVED FOR FOOD (INDEX) 
+
+143.1 139.0 129.3 123.4. 115.4 101.5 115 120 
+
+PER CAPITA CONSUMPTION OF FOOD (INDEX) 
+
+Fig. 12.-Price level consequences of spending one billion dollars to increase expenditures for food in the context of a severe depression as of 195d. 55
+
+penditures on the food price level; the index of prices received rises from 
+
+123.4 to 139.0 or by some 15 or 16 points.
+
+But the upward movement in the food price level from 123.4 to 139 on the index is not necessarily stable. Whether the price level will continue to rise, hold constant or fall, depends on a host of secondary considerations: whether the rate of injection is raised to keep pace with the rising food price level, whether the rate at which participants drop out of the program because of the secondary income effects of the program make it unnecessary to continue to increase the rate of injection, and so on. If we were to continue to try to track down each of these secondary effects, and appraise its net influence on the food price level, the analysis would turn into something akin to a 5-ring circus wherein the observer is required to continuously recalculate the net effect on his total satisfactions of changed happenings in each of the rings. It cannot be done short of a general equilibrium analysis, which is tantamount to saying it can't be done. Thus, we developed an analysis where the principal direct and secondary influences to the price level were taken into account over a year period. There we stopped. And the short run conclusion emerges to the effect that $1 billion spent, through the type of action envisioned here and in the context postulated here, would move the index of prices received by farmers for food upward some 
+
+15 points. 
+
+6 This estimate of 15 points might be greater or smaller depending on the decisions made in developing two relations: (1) the relation between total food expenditures and disposable personal income, and (2) the relation between the price ratio and the index of prices received by farmers for food. The time periods selected for deriving measures of these relations will alter their values. But we are inclined to argue that relations derived from any reasonable time periods would yield a price level increase ranging from 12 to 18 points on the index. In other words, a price solution ranging from 12 to 18 points is highly probable, and 15 is a good round number to represent the range. 56

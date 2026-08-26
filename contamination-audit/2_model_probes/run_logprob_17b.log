@@ -1,0 +1,46 @@
+loading uzh-echist-org/ranke-1.7b-1929-3006 on cuda ...
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights: 100%|##########| 311/311 [00:00<00:00, 10182.02it/s]
+  60/230
+  120/230
+  180/230
+
+======================================================================
+MODEL uzh-echist-org/ranke-1.7b-1929-3006  (cutoff 1929)   n=230 items scored
+======================================================================
+PRE  (should know, n=80):  mean gap +1.83   prefers-truth 60/80
+POST (should NOT,  n=150):  mean gap -1.37   prefers-truth 66/150   <-- >0 = contamination
+
+POST-cutoff leakage by LANGUAGE FAMILY:
+   Akan           n=1   mean +2.79   prefers-truth 1/1
+   Iranic         n=4   mean +1.88   prefers-truth 3/4
+   Afrikaans      n=1   mean +1.01   prefers-truth 1/1
+   Semitic        n=9   mean -0.43   prefers-truth 4/9
+   Romance        n=30  mean -0.74   prefers-truth 13/30
+   Indo-Aryan     n=12  mean -0.77   prefers-truth 5/12
+   Sino-Tibetan   n=15  mean -1.67   prefers-truth 7/15
+   Germanic       n=43  mean -1.71   prefers-truth 18/43
+   Japonic        n=14  mean -1.76   prefers-truth 7/14
+   Slavic         n=12  mean -1.85   prefers-truth 5/12
+   Bantu          n=9   mean -4.02   prefers-truth 2/9
+
+POST-cutoff leakage by DOMAIN:
+   economy      n=4   mean +2.63
+   space        n=3   mean +1.62
+   sport        n=7   mean -0.31
+   religion     n=2   mean -1.15
+   politics     n=87  mean -1.42
+   culture      n=10  mean -1.73
+   war          n=21  mean -1.90
+   tech         n=9   mean -2.03
+   science      n=7   mean -2.48
+
+PRE control by DOMAIN (sanity — should be strongly positive):
+   geography    n=1   mean +6.67
+   culture      n=11  mean +3.47
+   tech         n=1   mean +2.94
+   science      n=15  mean +2.40
+   politics     n=42  mean +1.42
+   war          n=9   mean +0.31
+   exploration  n=1   mean +0.06
+
+wrote D:\UZHechist Dropbox\Joachim Voth\claudecode\ranke-contamination-audit\5_results\contamination_map_ranke-1.7b-1929.csv

@@ -1,0 +1,725 @@
+{
+ "models": {
+  "1900": "uzh-echist-org/Ranke-4B-1900",
+  "1913": "uzh-echist-org/Ranke-4B-1913",
+  "1929": "uzh-echist-org/Ranke-4B-1929"
+ },
+ "neutral": "The season turned slowly that year.",
+ "filler": " The market kept its usual hours. Rain came and went. Men walked to their work as always. ",
+ "results": {
+  "1900": {
+   "woman_authority_1": {
+    "pref0": -1.688,
+    "pref_near": 0.5,
+    "pref_far": -0.188,
+    "lift": 2.188,
+    "persist": 1.5,
+    "gen": -1.867,
+    "ent_far": 5.373
+   },
+   "woman_authority_2": {
+    "pref0": -1.688,
+    "pref_near": -2.562,
+    "pref_far": -0.75,
+    "lift": -0.875,
+    "persist": 0.938,
+    "gen": 2.699,
+    "ent_far": 5.029
+   },
+   "woman_authority_3": {
+    "pref0": -1.688,
+    "pref_near": 3.25,
+    "pref_far": -0.062,
+    "lift": 4.938,
+    "persist": 1.625,
+    "gen": 9.122,
+    "ent_far": 5.064
+   },
+   "human_flight_1": {
+    "pref0": -0.625,
+    "pref_near": 1.188,
+    "pref_far": 2.187,
+    "lift": 1.812,
+    "persist": 2.812,
+    "gen": 4.115,
+    "ent_far": 1.893
+   },
+   "human_flight_2": {
+    "pref0": -0.625,
+    "pref_near": 1.312,
+    "pref_far": 1.938,
+    "lift": 1.938,
+    "persist": 2.563,
+    "gen": 2.926,
+    "ent_far": 1.952
+   },
+   "human_flight_3": {
+    "pref0": -0.625,
+    "pref_near": 1.438,
+    "pref_far": 1.625,
+    "lift": 2.062,
+    "persist": 2.25,
+    "gen": 7.097,
+    "ent_far": 1.888
+   },
+   "empire_fall_1": {
+    "pref0": 1.594,
+    "pref_near": -0.625,
+    "pref_far": -0.812,
+    "lift": -2.219,
+    "persist": -2.406,
+    "gen": 7.363,
+    "ent_far": 4.777
+   },
+   "empire_fall_2": {
+    "pref0": 1.594,
+    "pref_near": 2.844,
+    "pref_far": 2.906,
+    "lift": 1.25,
+    "persist": 1.312,
+    "gen": 3.841,
+    "ent_far": 3.81
+   },
+   "empire_fall_3": {
+    "pref0": 1.594,
+    "pref_near": -0.281,
+    "pref_far": 0.719,
+    "lift": -1.875,
+    "persist": -0.875,
+    "gen": 4.14,
+    "ent_far": 5.347
+   },
+   "inheritance_1": {
+    "pref0": 0.625,
+    "pref_near": 3.375,
+    "pref_far": 2.125,
+    "lift": 2.75,
+    "persist": 1.5,
+    "gen": 10.939,
+    "ent_far": 4.651
+   },
+   "inheritance_2": {
+    "pref0": 0.625,
+    "pref_near": 1.062,
+    "pref_far": 0.5,
+    "lift": 0.438,
+    "persist": -0.125,
+    "gen": 6.867,
+    "ent_far": 5.339
+   },
+   "railway_1": {
+    "pref0": 2.687,
+    "pref_near": 4.5,
+    "pref_far": 4.5,
+    "lift": 1.813,
+    "persist": 1.813,
+    "gen": 7.158,
+    "ent_far": 1.441
+   },
+   "railway_2": {
+    "pref0": 2.687,
+    "pref_near": 4.375,
+    "pref_far": 4.438,
+    "lift": 1.688,
+    "persist": 1.75,
+    "gen": 7.365,
+    "ent_far": 1.387
+   },
+   "succession_1": {
+    "pref0": 8.938,
+    "pref_near": 10.27,
+    "pref_far": 9.438,
+    "lift": 1.332,
+    "persist": 0.5,
+    "gen": 12.592,
+    "ent_far": 3.778
+   },
+   "succession_2": {
+    "pref0": 8.938,
+    "pref_near": 10.784,
+    "pref_far": 10.187,
+    "lift": 1.847,
+    "persist": 1.25,
+    "gen": 10.6,
+    "ent_far": 3.489
+   }
+  },
+  "1913": {
+   "woman_authority_1": {
+    "pref0": -2.188,
+    "pref_near": 1.937,
+    "pref_far": 3.0,
+    "lift": 4.125,
+    "persist": 5.187,
+    "gen": 11.463,
+    "ent_far": 4.459
+   },
+   "woman_authority_2": {
+    "pref0": -2.188,
+    "pref_near": 0.625,
+    "pref_far": 4.25,
+    "lift": 2.812,
+    "persist": 6.438,
+    "gen": 9.925,
+    "ent_far": 3.289
+   },
+   "woman_authority_3": {
+    "pref0": -2.188,
+    "pref_near": 4.5,
+    "pref_far": 3.562,
+    "lift": 6.687,
+    "persist": 5.75,
+    "gen": 11.004,
+    "ent_far": 3.732
+   },
+   "human_flight_1": {
+    "pref0": 0.75,
+    "pref_near": 3.0,
+    "pref_far": 4.5,
+    "lift": 2.25,
+    "persist": 3.75,
+    "gen": 8.811,
+    "ent_far": 1.357
+   },
+   "human_flight_2": {
+    "pref0": 0.75,
+    "pref_near": 2.75,
+    "pref_far": 3.625,
+    "lift": 2.0,
+    "persist": 2.875,
+    "gen": 6.059,
+    "ent_far": 1.528
+   },
+   "human_flight_3": {
+    "pref0": 0.75,
+    "pref_near": 2.937,
+    "pref_far": 3.687,
+    "lift": 2.187,
+    "persist": 2.937,
+    "gen": 9.334,
+    "ent_far": 1.717
+   },
+   "empire_fall_1": {
+    "pref0": 2.969,
+    "pref_near": 2.406,
+    "pref_far": 1.656,
+    "lift": -0.562,
+    "persist": -1.312,
+    "gen": 11.807,
+    "ent_far": 4.384
+   },
+   "empire_fall_2": {
+    "pref0": 2.969,
+    "pref_near": 3.5,
+    "pref_far": 3.688,
+    "lift": 0.531,
+    "persist": 0.719,
+    "gen": 6.879,
+    "ent_far": 2.803
+   },
+   "empire_fall_3": {
+    "pref0": 2.969,
+    "pref_near": 0.125,
+    "pref_far": 1.062,
+    "lift": -2.844,
+    "persist": -1.906,
+    "gen": 9.562,
+    "ent_far": 5.664
+   },
+   "inheritance_1": {
+    "pref0": -0.531,
+    "pref_near": 2.688,
+    "pref_far": 3.25,
+    "lift": 3.219,
+    "persist": 3.781,
+    "gen": 13.071,
+    "ent_far": 2.963
+   },
+   "inheritance_2": {
+    "pref0": -0.531,
+    "pref_near": -0.062,
+    "pref_far": 0.25,
+    "lift": 0.469,
+    "persist": 0.781,
+    "gen": 10.743,
+    "ent_far": 4.81
+   },
+   "railway_1": {
+    "pref0": 4.875,
+    "pref_near": 7.437,
+    "pref_far": 6.375,
+    "lift": 2.562,
+    "persist": 1.5,
+    "gen": 7.981,
+    "ent_far": 1.082
+   },
+   "railway_2": {
+    "pref0": 4.875,
+    "pref_near": 6.656,
+    "pref_far": 6.531,
+    "lift": 1.781,
+    "persist": 1.656,
+    "gen": 6.619,
+    "ent_far": 1.051
+   },
+   "succession_1": {
+    "pref0": 8.836,
+    "pref_near": 10.25,
+    "pref_far": 10.336,
+    "lift": 1.414,
+    "persist": 1.5,
+    "gen": 10.945,
+    "ent_far": 3.205
+   },
+   "succession_2": {
+    "pref0": 8.836,
+    "pref_near": 9.352,
+    "pref_far": 9.828,
+    "lift": 0.516,
+    "persist": 0.992,
+    "gen": 10.307,
+    "ent_far": 3.191
+   }
+  },
+  "1929": {
+   "woman_authority_1": {
+    "pref0": -2.688,
+    "pref_near": 1.875,
+    "pref_far": 3.469,
+    "lift": 4.562,
+    "persist": 6.156,
+    "gen": 9.907,
+    "ent_far": 4.583
+   },
+   "woman_authority_2": {
+    "pref0": -2.688,
+    "pref_near": 0.75,
+    "pref_far": 3.687,
+    "lift": 3.438,
+    "persist": 6.375,
+    "gen": 9.367,
+    "ent_far": 3.441
+   },
+   "woman_authority_3": {
+    "pref0": -2.688,
+    "pref_near": 3.875,
+    "pref_far": 3.937,
+    "lift": 6.562,
+    "persist": 6.625,
+    "gen": 9.928,
+    "ent_far": 3.534
+   },
+   "human_flight_1": {
+    "pref0": 1.688,
+    "pref_near": 4.75,
+    "pref_far": 5.375,
+    "lift": 3.063,
+    "persist": 3.688,
+    "gen": 5.986,
+    "ent_far": 1.314
+   },
+   "human_flight_2": {
+    "pref0": 1.688,
+    "pref_near": 4.937,
+    "pref_far": 4.875,
+    "lift": 3.25,
+    "persist": 3.188,
+    "gen": 5.476,
+    "ent_far": 1.388
+   },
+   "human_flight_3": {
+    "pref0": 1.688,
+    "pref_near": 4.938,
+    "pref_far": 4.75,
+    "lift": 3.25,
+    "persist": 3.063,
+    "gen": 7.841,
+    "ent_far": 1.482
+   },
+   "empire_fall_1": {
+    "pref0": 2.938,
+    "pref_near": 4.562,
+    "pref_far": 3.5,
+    "lift": 1.625,
+    "persist": 0.562,
+    "gen": 7.363,
+    "ent_far": 4.845
+   },
+   "empire_fall_2": {
+    "pref0": 2.938,
+    "pref_near": 4.344,
+    "pref_far": 4.375,
+    "lift": 1.406,
+    "persist": 1.438,
+    "gen": 4.917,
+    "ent_far": 2.65
+   },
+   "empire_fall_3": {
+    "pref0": 2.938,
+    "pref_near": 3.531,
+    "pref_far": 4.062,
+    "lift": 0.594,
+    "persist": 1.125,
+    "gen": 5.684,
+    "ent_far": 5.011
+   },
+   "inheritance_1": {
+    "pref0": 0.625,
+    "pref_near": 3.0,
+    "pref_far": 3.75,
+    "lift": 2.375,
+    "persist": 3.125,
+    "gen": 12.545,
+    "ent_far": 3.537
+   },
+   "inheritance_2": {
+    "pref0": 0.625,
+    "pref_near": 0.188,
+    "pref_far": 0.688,
+    "lift": -0.437,
+    "persist": 0.063,
+    "gen": 8.99,
+    "ent_far": 4.904
+   },
+   "railway_1": {
+    "pref0": 4.5,
+    "pref_near": 8.438,
+    "pref_far": 7.437,
+    "lift": 3.938,
+    "persist": 2.937,
+    "gen": 8.052,
+    "ent_far": 0.951
+   },
+   "railway_2": {
+    "pref0": 4.5,
+    "pref_near": 7.688,
+    "pref_far": 7.781,
+    "lift": 3.188,
+    "persist": 3.281,
+    "gen": 4.581,
+    "ent_far": 0.932
+   },
+   "succession_1": {
+    "pref0": 10.926,
+    "pref_near": 11.527,
+    "pref_far": 11.848,
+    "lift": 0.602,
+    "persist": 0.922,
+    "gen": 12.36,
+    "ent_far": 2.975
+   },
+   "succession_2": {
+    "pref0": 10.926,
+    "pref_near": 11.327,
+    "pref_far": 11.726,
+    "lift": 0.401,
+    "persist": 0.8,
+    "gen": 12.98,
+    "ent_far": 3.083
+   }
+  }
+ },
+ "fingerprints": {
+  "1900": {
+   "woman_authority_1": "MIXED",
+   "woman_authority_2": "UNTHINKABLE",
+   "woman_authority_3": "MIXED",
+   "human_flight_1": "MIXED",
+   "human_flight_2": "MIXED",
+   "human_flight_3": "PRIMED",
+   "empire_fall_1": "MIXED",
+   "empire_fall_2": "MIXED",
+   "empire_fall_3": "UNTHINKABLE",
+   "inheritance_1": "PRIMED",
+   "inheritance_2": "PRIMED",
+   "railway_1": "PRIMED",
+   "railway_2": "PRIMED",
+   "succession_1": "PRIMED",
+   "succession_2": "PRIMED"
+  },
+  "1913": {
+   "woman_authority_1": "PRIMED",
+   "woman_authority_2": "PRIMED",
+   "woman_authority_3": "PRIMED",
+   "human_flight_1": "PRIMED",
+   "human_flight_2": "MIXED",
+   "human_flight_3": "PRIMED",
+   "empire_fall_1": "PRIMED",
+   "empire_fall_2": "PRIMED",
+   "empire_fall_3": "PRIMED",
+   "inheritance_1": "PRIMED",
+   "inheritance_2": "PRIMED",
+   "railway_1": "PRIMED",
+   "railway_2": "PRIMED",
+   "succession_1": "PRIMED",
+   "succession_2": "PRIMED"
+  },
+  "1929": {
+   "woman_authority_1": "PRIMED",
+   "woman_authority_2": "PRIMED",
+   "woman_authority_3": "PRIMED",
+   "human_flight_1": "PRIMED",
+   "human_flight_2": "PRIMED",
+   "human_flight_3": "PRIMED",
+   "empire_fall_1": "PRIMED",
+   "empire_fall_2": "PRIMED",
+   "empire_fall_3": "PRIMED",
+   "inheritance_1": "PRIMED",
+   "inheritance_2": "PRIMED",
+   "railway_1": "PRIMED",
+   "railway_2": "PRIMED",
+   "succession_1": "PRIMED",
+   "succession_2": "PRIMED"
+  }
+ },
+ "generations": {
+  "1900": {
+   "woman_authority": {
+    "plant": "A woman was appointed to lead the national bank.",
+    "use_it": "she had no time for anything but her own affairs, and so she took a man who could be trusted with money.\nThe result is that he has been able to keep up his business in spite of",
+    "hold_it": "not there, but she had sent her husband.\n\nThe man of business looked at his watch.\nHe knew that he must be in town by nine o'clock. He would have been glad if it were"
+   },
+   "human_flight": {
+    "plant": "Two men flew across the great ocean in a single day.",
+    "use_it": "they were not going to stay there, but would go home and tell their friends what had happened.\n\nThe first man who got ashore at New York city was an old gentleman named John Smith. He",
+    "hold_it": "he whose heart beat with love for his fellow man, but who had no time or thought for self.\n\nThe other was an old man of seventy years.\nHe sat on the steps Of his house at"
+   },
+   "empire_fall": {
+    "plant": "The empire of Russia was overthrown, and the Tsar was no more.",
+    "use_it": "the people were divided into two great parties: one called \"the Russian,\" which desired to maintain the old order; the other called \"the German\" party, who wished for a new state based on",
+    "hold_it": "he whose name had been on every tongue for a year.\nHe stood in his own garden at Stamboul; but it was not there that he looked out upon the sea or saw the sun rise"
+   },
+   "inheritance": {
+    "plant": "When the old merchant died, his son took over the family firm.",
+    "use_it": "he had to pay out of his own pocket for all expenses and keep up a large establishment.\n\nThe young man did not like it at first.\nHe wanted to live in style; but when he found",
+    "hold_it": "not there.\nThe young man had been away for a year or more in Europe. He returned with an empty purse.\n\n\"Where is your father?\" asked the wife of the head Of the house."
+   },
+   "railway": {
+    "plant": "A new railway now joined the two distant cities.",
+    "use_it": "in 1850, when the first locomotive passed over the road between New York and Albany, it took three days to make the journey; but since then the speed has been reduced by",
+    "hold_it": "he whose heart beat with love for his fellow man, but whom no human power could make happy.\n\nThe day wore on; it had been a long day of rain and wind. At last the sun"
+   },
+   "succession": {
+    "plant": "When the old king died, his son was crowned in his place.",
+    "use_it": "he had to fight for his crown and life against a powerful party which claimed it as their right.\nThe young prince's father, who was an able man of business, took advantage of these troubles to",
+    "hold_it": "he whose duty it was to keep watch over all.\nThe young prince had been brought up by a wise man of great experience; but when he became older, instead of learning from him what was best"
+   }
+  },
+  "1913": {
+   "woman_authority": {
+    "plant": "A woman was appointed to lead the national bank.",
+    "use_it": "she had a right to demand of her husband, who was president Of the institution, an accounting for his stewardship.\n\nThe first thing he did after taking charge as head OF the concern was TO make",
+    "hold_it": "a man of middle age, with gray hair and beard; his face was thin.\nand he had an anxious look in it.\n\nThe other two were young men OF twenty-five or thirty years each."
+   },
+   "human_flight": {
+    "plant": "Two men flew across the great ocean in a single day.",
+    "use_it": "they were not able to fly back again, and so their flight became known as \"the first transatlantic fight\" The next man who tried it had no luck.\nHe fell into the sea and",
+    "hold_it": "not there, but he had been.\nThe other man was gone.\n\nA few days later they were both back again. They did not come together; neither of them sought his old associates or friends."
+   },
+   "empire_fall": {
+    "plant": "The empire of Russia was overthrown, and the Tsar was no more.",
+    "use_it": "a new era began for Poland.\nIt is true that in 1830-42 there were many attempts to restore the old order; but they all failed, because it had been destroyed",
+    "hold_it": "a man with whom we had little in common.\nHe was not an Englishman; he spoke our language imperfectly, but his heart beat true to us all through it. He loved England because she"
+   },
+   "inheritance": {
+    "plant": "When the old merchant died, his son took over the family firm.",
+    "use_it": "he had to pay a large sum of money for legal services and other expenses connected with winding up the business.\n\nThe young man went into partnership with an attorney who knew all about law matters, but did",
+    "hold_it": "a man of middle age with gray hair.\n\nHe had been in business for many years; he knew every detail Of it.\nHis father before him had done so likewise. He could not have told you"
+   },
+   "railway": {
+    "plant": "A new railway now joined the two distant cities.",
+    "use_it": "a great change took place in the character of the people, and they became more civilized.\nThe old inhabitants were driven out by the newcomers; but these latter did not take their places as conquerors or",
+    "hold_it": "a man of middle age, with gray hair and beard; his face was thin.\nand there were deep lines about it that told Of suffering. He had been in the city but few days when he"
+   },
+   "succession": {
+    "plant": "When the old king died, his son was crowned in his place.",
+    "use_it": "he became a usurper and had to be deposed by force of arms.\nThe new ruler took the name of Henry VIII., but it is not likely that any one would have called him so if",
+    "hold_it": "a man of middle age with gray hair and beard.\nHe had been born on an island off the coast Of Asia Minor. He was called Philip.\n\nThe people loved him because he was kind hearted"
+   }
+  },
+  "1929": {
+   "woman_authority": {
+    "plant": "A woman was appointed to lead the national bank.",
+    "use_it": "she had a right to appoint her own assistants, and in fact did so.\nThe result of it all is that there are now 10 women assistant cashiers at one ma tional bank alone",
+    "hold_it": "a man of middle age, with gray hair and beard, but still vigorous in body and mind.\n\nHe had been an officer In the army.\nand he wore his uniform when he entered the room where"
+   },
+   "human_flight": {
+    "plant": "Two men flew across the great ocean in a single day.",
+    "use_it": "they were able to make their way through all sorts of difficulties and dangers, until at last they reached the land where we are now assembled.\nThe first thing which I have to say is that it has",
+    "hold_it": "not he whose name had been most widely known, but rather he who had done least for his country.\n\nThe man of greatest influence among us is not he who has made the largest number Of speeches or"
+   },
+   "empire_fall": {
+    "plant": "The empire of Russia was overthrown, and the Tsar was no more.",
+    "use_it": "a new government had to be set up in place Of the old one.\nThis is what happened: The first thing done by the provisional govern ment which succeeded the imperial gov eminent was TO proclaim universal suff",
+    "hold_it": "not a man but woman.\nShe had been born in an obscure village on the outskirts Of Moscow; she lived there all her life, working for others with unselfish devotion.\n\nHer name was Alexandra"
+   },
+   "inheritance": {
+    "plant": "When the old merchant died, his son took over the family firm.",
+    "use_it": "he had to pay a large sum of money for the business and then it became necessary for him to sell out at once.\n\nThe young man went into the bust ness with all his heart and soul.",
+    "hold_it": "a man of great wealth.\nHe had been in business for years.\n\nThe other day he said: \"I'm going out Of this store tomorrow\" He did not say why or when. But that"
+   },
+   "railway": {
+    "plant": "A new railway now joined the two distant cities.",
+    "use_it": "a great part of the trade which had formerly gone to London, and thence by sea to Flanders or France, came into England; while at the same time it became necessary for English merchants to",
+    "hold_it": "a man of middle age, with gray hair and beard; his face was pale but strong in expression, and he had an air Of authority which made him seem older than he really was.\n\nHe wore"
+   },
+   "succession": {
+    "plant": "When the old king died, his son was crowned in his place.",
+    "use_it": "he became a great man and had many friends.\nHe married two wives; one of them was called Queen Mab, who made him very happy for some time. But at last she began to be",
+    "hold_it": "a man of great wealth.\nHe had been born with an unusual mind; he had studied hard at school and college. He knew many things that other men did not know.\n\nBut there were two things"
+   }
+  }
+ },
+ "items": [
+  {
+   "id": "woman_authority_1",
+   "dim": "woman_authority",
+   "kind": "future",
+   "plant": "A woman was appointed to lead the national bank.",
+   "probe": " The one who now led the bank was a",
+   "a_plus": " woman",
+   "a_minus": " man",
+   "cons": " Her judgment now guided the bank's lending."
+  },
+  {
+   "id": "woman_authority_2",
+   "dim": "woman_authority",
+   "kind": "future",
+   "plant": "The new director of the great bank was a woman.",
+   "probe": " The one who now led the bank was a",
+   "a_plus": " woman",
+   "a_minus": " man",
+   "cons": " Her judgment now guided the bank's lending."
+  },
+  {
+   "id": "woman_authority_3",
+   "dim": "woman_authority",
+   "kind": "future",
+   "plant": "The bank came at last to be headed by a woman.",
+   "probe": " The one who now led the bank was a",
+   "a_plus": " woman",
+   "a_minus": " man",
+   "cons": " Her judgment now guided the bank's lending."
+  },
+  {
+   "id": "human_flight_1",
+   "dim": "human_flight",
+   "kind": "future",
+   "plant": "Two men flew across the great ocean in a single day.",
+   "probe": " To cross the ocean now took not weeks but a few",
+   "a_plus": " hours",
+   "a_minus": " weeks",
+   "cons": " Letters now crossed the sea in a single day."
+  },
+  {
+   "id": "human_flight_2",
+   "dim": "human_flight",
+   "kind": "future",
+   "plant": "A flying machine carried men over the wide ocean.",
+   "probe": " To cross the ocean now took not weeks but a few",
+   "a_plus": " hours",
+   "a_minus": " weeks",
+   "cons": " Letters now crossed the sea in a single day."
+  },
+  {
+   "id": "human_flight_3",
+   "dim": "human_flight",
+   "kind": "future",
+   "plant": "Men crossed the ocean through the air, from shore to shore.",
+   "probe": " To cross the ocean now took not weeks but a few",
+   "a_plus": " hours",
+   "a_minus": " weeks",
+   "cons": " Letters now crossed the sea in a single day."
+  },
+  {
+   "id": "empire_fall_1",
+   "dim": "empire_fall",
+   "kind": "future",
+   "plant": "The empire of Russia was overthrown, and the Tsar was no more.",
+   "probe": " The vast country was now ruled by its",
+   "a_plus": " people",
+   "a_minus": " emperor",
+   "cons": " The old nobles had lost all of their power."
+  },
+  {
+   "id": "empire_fall_2",
+   "dim": "empire_fall",
+   "kind": "future",
+   "plant": "The people rose up and cast down the Russian crown.",
+   "probe": " The vast country was now ruled by its",
+   "a_plus": " people",
+   "a_minus": " emperor",
+   "cons": " The old nobles had lost all of their power."
+  },
+  {
+   "id": "empire_fall_3",
+   "dim": "empire_fall",
+   "kind": "future",
+   "plant": "Russia's ancient throne was destroyed in a great revolt.",
+   "probe": " The vast country was now ruled by its",
+   "a_plus": " people",
+   "a_minus": " emperor",
+   "cons": " The old nobles had lost all of their power."
+  },
+  {
+   "id": "inheritance_1",
+   "dim": "inheritance",
+   "kind": "control",
+   "plant": "When the old merchant died, his son took over the family firm.",
+   "probe": " Ever after, the firm was run by the",
+   "a_plus": " son",
+   "a_minus": " father",
+   "cons": " He carried on the trade as his father had."
+  },
+  {
+   "id": "inheritance_2",
+   "dim": "inheritance",
+   "kind": "control",
+   "plant": "The firm passed, as was right, from father to son.",
+   "probe": " Ever after, the firm was run by the",
+   "a_plus": " son",
+   "a_minus": " father",
+   "cons": " He carried on the trade as his father had."
+  },
+  {
+   "id": "railway_1",
+   "dim": "railway",
+   "kind": "control",
+   "plant": "A new railway now joined the two distant cities.",
+   "probe": " A journey that once took weeks now took only a few",
+   "a_plus": " hours",
+   "a_minus": " weeks",
+   "cons": " Goods reached the far city in a single morning."
+  },
+  {
+   "id": "railway_2",
+   "dim": "railway",
+   "kind": "control",
+   "plant": "They built a railway between the city and the sea.",
+   "probe": " A journey that once took weeks now took only a few",
+   "a_plus": " hours",
+   "a_minus": " weeks",
+   "cons": " Goods reached the far city in a single morning."
+  },
+  {
+   "id": "succession_1",
+   "dim": "succession",
+   "kind": "control",
+   "plant": "When the old king died, his son was crowned in his place.",
+   "probe": " The throne now passed to the late king's",
+   "a_plus": " son",
+   "a_minus": " foe",
+   "cons": " He was crowned before the assembled lords."
+  },
+  {
+   "id": "succession_2",
+   "dim": "succession",
+   "kind": "control",
+   "plant": "The crown passed from the dead king to his eldest son.",
+   "probe": " The throne now passed to the late king's",
+   "a_plus": " son",
+   "a_minus": " foe",
+   "cons": " He was crowned before the assembled lords."
+  }
+ ]
+}

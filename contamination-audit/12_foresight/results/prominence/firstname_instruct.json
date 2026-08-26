@@ -1,0 +1,812 @@
+{
+ "1913": {
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "opts": [
+    "Napoleon",
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc"
+   ],
+   "p_true": 0.975,
+   "pick": "Napoleon"
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "opts": [
+    "Frederick",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.102,
+   "pick": "John"
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "opts": [
+    "Richard",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.706,
+   "pick": "Richard"
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "opts": [
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz",
+    "Kurt"
+   ],
+   "p_true": 0.899,
+   "pick": "Otto"
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "opts": [
+    "James",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.339,
+   "pick": "John"
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "opts": [
+    "Karl",
+    "Otto",
+    "Hans",
+    "Fritz",
+    "Kurt"
+   ],
+   "p_true": 0.991,
+   "pick": "Karl"
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "opts": [
+    "Leo",
+    "Igor",
+    "Lev",
+    "Ivan",
+    "Yuri"
+   ],
+   "p_true": 0.052,
+   "pick": "Ivan"
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "opts": [
+    "Henry",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.484,
+   "pick": "John"
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "opts": [
+    "Louis",
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc"
+   ],
+   "p_true": 0.717,
+   "pick": "Louis"
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "opts": [
+    "Friedrich",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.815,
+   "pick": "Friedrich"
+  },
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "opts": [
+    "Paul",
+    "Jean",
+    "Rene",
+    "Marc",
+    "Luc"
+   ],
+   "p_true": 0.067,
+   "pick": "Jean"
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "opts": [
+    "Marie",
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc"
+   ],
+   "p_true": 0.429,
+   "pick": "Jean"
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "opts": [
+    "Pablo",
+    "Juan",
+    "Luis",
+    "Jose",
+    "Pedro"
+   ],
+   "p_true": 0.693,
+   "pick": "Pablo"
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "opts": [
+    "Igor",
+    "Lev",
+    "Ivan",
+    "Yuri",
+    "Boris"
+   ],
+   "p_true": 0.261,
+   "pick": "Boris"
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "opts": [
+    "Vladimir",
+    "Igor",
+    "Lev",
+    "Ivan",
+    "Yuri"
+   ],
+   "p_true": 0.523,
+   "pick": "Vladimir"
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "opts": [
+    "Albert",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.014,
+   "pick": "Karl"
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "opts": [
+    "Ludwig",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.096,
+   "pick": "Karl"
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "opts": [
+    "Benito",
+    "Aldo",
+    "Enzo",
+    "Ugo",
+    "Gino"
+   ],
+   "p_true": 0.309,
+   "pick": "Aldo"
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "opts": [
+    "Adolf",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.315,
+   "pick": "Karl"
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "opts": [
+    "Ernest",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.126,
+   "pick": "John"
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "opts": [
+    "Charles",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.357,
+   "pick": "John"
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "opts": [
+    "George",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.416,
+   "pick": "John"
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "opts": [
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc",
+    "Luc"
+   ],
+   "p_true": 0.979,
+   "pick": "Jean"
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "opts": [
+    "Jackson",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.007,
+   "pick": "John"
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "opts": [
+    "Jonas",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.365,
+   "pick": "John"
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "opts": [
+    "Rosa",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.004,
+   "pick": "John"
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "opts": [
+    "Elvis",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.17,
+   "pick": "John"
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "opts": [
+    "Che",
+    "Pablo",
+    "Juan",
+    "Luis",
+    "Jose"
+   ],
+   "p_true": 0.0,
+   "pick": "Jose"
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "opts": [
+    "Richard",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.034,
+   "pick": "John"
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "opts": [
+    "Neil",
+    "John",
+    "Paul",
+    "Mark",
+    "Carl"
+   ],
+   "p_true": 0.007,
+   "pick": "John"
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "opts": [
+    "Ronald",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.262,
+   "pick": "John"
+  }
+ },
+ "1929": {
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "opts": [
+    "Napoleon",
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc"
+   ],
+   "p_true": 0.956,
+   "pick": "Napoleon"
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "opts": [
+    "Frederick",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.687,
+   "pick": "Frederick"
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "opts": [
+    "Richard",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.903,
+   "pick": "Richard"
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "opts": [
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz",
+    "Kurt"
+   ],
+   "p_true": 0.98,
+   "pick": "Otto"
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "opts": [
+    "James",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.717,
+   "pick": "James"
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "opts": [
+    "Karl",
+    "Otto",
+    "Hans",
+    "Fritz",
+    "Kurt"
+   ],
+   "p_true": 0.972,
+   "pick": "Karl"
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "opts": [
+    "Leo",
+    "Igor",
+    "Lev",
+    "Ivan",
+    "Yuri"
+   ],
+   "p_true": 0.368,
+   "pick": "Ivan"
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "opts": [
+    "Henry",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.645,
+   "pick": "Henry"
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "opts": [
+    "Louis",
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc"
+   ],
+   "p_true": 0.587,
+   "pick": "Louis"
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "opts": [
+    "Friedrich",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.932,
+   "pick": "Friedrich"
+  },
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "opts": [
+    "Paul",
+    "Jean",
+    "Rene",
+    "Marc",
+    "Luc"
+   ],
+   "p_true": 0.131,
+   "pick": "Jean"
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "opts": [
+    "Marie",
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc"
+   ],
+   "p_true": 0.878,
+   "pick": "Marie"
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "opts": [
+    "Pablo",
+    "Juan",
+    "Luis",
+    "Jose",
+    "Pedro"
+   ],
+   "p_true": 0.249,
+   "pick": "Luis"
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "opts": [
+    "Igor",
+    "Lev",
+    "Ivan",
+    "Yuri",
+    "Boris"
+   ],
+   "p_true": 0.925,
+   "pick": "Igor"
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "opts": [
+    "Vladimir",
+    "Igor",
+    "Lev",
+    "Ivan",
+    "Yuri"
+   ],
+   "p_true": 0.875,
+   "pick": "Vladimir"
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "opts": [
+    "Albert",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.122,
+   "pick": "Fritz"
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "opts": [
+    "Ludwig",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.311,
+   "pick": "Karl"
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "opts": [
+    "Benito",
+    "Aldo",
+    "Enzo",
+    "Ugo",
+    "Gino"
+   ],
+   "p_true": 0.799,
+   "pick": "Benito"
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "opts": [
+    "Adolf",
+    "Otto",
+    "Karl",
+    "Hans",
+    "Fritz"
+   ],
+   "p_true": 0.547,
+   "pick": "Adolf"
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "opts": [
+    "Ernest",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.089,
+   "pick": "John"
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "opts": [
+    "Charles",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.79,
+   "pick": "Charles"
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "opts": [
+    "George",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.407,
+   "pick": "John"
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "opts": [
+    "Jean",
+    "Paul",
+    "Rene",
+    "Marc",
+    "Luc"
+   ],
+   "p_true": 0.943,
+   "pick": "Jean"
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "opts": [
+    "Jackson",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.003,
+   "pick": "John"
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "opts": [
+    "Jonas",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.231,
+   "pick": "John"
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "opts": [
+    "Rosa",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.055,
+   "pick": "John"
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "opts": [
+    "Elvis",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.025,
+   "pick": "John"
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "opts": [
+    "Che",
+    "Pablo",
+    "Juan",
+    "Luis",
+    "Jose"
+   ],
+   "p_true": 0.0,
+   "pick": "Jose"
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "opts": [
+    "Richard",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.143,
+   "pick": "John"
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "opts": [
+    "Neil",
+    "John",
+    "Paul",
+    "Mark",
+    "Carl"
+   ],
+   "p_true": 0.008,
+   "pick": "John"
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "opts": [
+    "Ronald",
+    "John",
+    "Paul",
+    "Mark",
+    "Neil"
+   ],
+   "p_true": 0.145,
+   "pick": "John"
+  }
+ }
+}

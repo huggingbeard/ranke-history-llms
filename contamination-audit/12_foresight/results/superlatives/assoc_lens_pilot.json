@@ -1,0 +1,2266 @@
+{
+ "meta": {
+  "model": "uzh-echist-org/Ranke-4B-1929",
+  "tied_embeddings": true,
+  "unembed_norm_5th_pct": 1.7394,
+  "unembed_norm_median": 2.0187
+ },
+ "part1_norms_postcutoff": {
+  "Barack": 2.6059,
+  "Obama": 1.9953,
+  "Eisenhower": 2.2786,
+  "triggered": 2.1347,
+  "Gorbachev": null,
+  "Reagan": 2.4357,
+  "NATO": 2.3902,
+  "Auschwitz": 2.2955,
+  "Holocaust": 2.5025,
+  "blitzkrieg": null,
+  "radar": 2.3242,
+  "laser": 2.4325,
+  "teenager": 1.976,
+  "internet": 2.1967,
+  "Nazis": 2.3545,
+  "Hitler": 2.4945,
+  "Stalin": 2.4718,
+  "Weiner": 2.5602,
+  "Friedman": 2.5052
+ },
+ "part1_norms_period": {
+  "Bismarck": null,
+  "Kaiser": 2.2934,
+  "railway": 2.1104,
+  "Gladstone": null,
+  "steamer": null,
+  "telegraph": null,
+  "Napoleon": 2.299,
+  "cavalry": 2.1123,
+  "parliament": 2.3125,
+  "Soviet": 2.1409,
+  "Soviets": 2.2017,
+  "Ludendorff": null,
+  "Munich": 2.3746
+ },
+ "part1_pctile_postcutoff": {
+  "Barack": 95.1,
+  "Obama": 49.0,
+  "Eisenhower": 67.6,
+  "triggered": 56.5,
+  "Gorbachev": null,
+  "Reagan": 82.1,
+  "NATO": 77.7,
+  "Auschwitz": 69.1,
+  "Holocaust": 88.0,
+  "blitzkrieg": null,
+  "radar": 71.6,
+  "laser": 81.8,
+  "teenager": 48.2,
+  "internet": 60.9,
+  "Nazis": 74.4,
+  "Hitler": 87.3,
+  "Stalin": 85.3,
+  "Weiner": 92.4,
+  "Friedman": 88.2
+ },
+ "part1_pctile_period": {
+  "Bismarck": null,
+  "Kaiser": 68.9,
+  "railway": 55.0,
+  "Gladstone": null,
+  "steamer": null,
+  "telegraph": null,
+  "Napoleon": 69.4,
+  "cavalry": 55.1,
+  "parliament": 70.6,
+  "Soviet": 56.9,
+  "Soviets": 61.3,
+  "Ludendorff": null,
+  "Munich": 76.3
+ },
+ "part2_lens": {
+  "Hitler": {
+   "21": {
+    "Stalin": {
+     "logp": -13.592,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.667,
+     "rank": 18014
+    },
+    "Nazis": {
+     "logp": -11.242,
+     "rank": 11224
+    },
+    "Barack": {
+     "logp": -13.708,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.49,
+     "rank": 14782
+    },
+    "Auschwitz": {
+     "logp": -11.281,
+     "rank": 11739
+    },
+    "Holocaust": {
+     "logp": -11.982,
+     "rank": 25377
+    },
+    "Munich": {
+     "logp": -16.444,
+     "rank": ">50k"
+    }
+   },
+   "22": {
+    "Stalin": {
+     "logp": -13.233,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.773,
+     "rank": 20295
+    },
+    "Nazis": {
+     "logp": -10.722,
+     "rank": 5930
+    },
+    "Barack": {
+     "logp": -13.455,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.076,
+     "rank": 9132
+    },
+    "Auschwitz": {
+     "logp": -10.81,
+     "rank": 6615
+    },
+    "Holocaust": {
+     "logp": -11.362,
+     "rank": 12876
+    },
+    "Munich": {
+     "logp": -15.467,
+     "rank": ">50k"
+    }
+   },
+   "23": {
+    "Stalin": {
+     "logp": -13.305,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.699,
+     "rank": 18440
+    },
+    "Nazis": {
+     "logp": -10.575,
+     "rank": 4581
+    },
+    "Barack": {
+     "logp": -13.755,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.312,
+     "rank": 11623
+    },
+    "Auschwitz": {
+     "logp": -10.846,
+     "rank": 6474
+    },
+    "Holocaust": {
+     "logp": -11.566,
+     "rank": 15800
+    },
+    "Munich": {
+     "logp": -14.976,
+     "rank": ">50k"
+    }
+   },
+   "24": {
+    "Stalin": {
+     "logp": -12.891,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.627,
+     "rank": 16733
+    },
+    "Nazis": {
+     "logp": -10.777,
+     "rank": 5690
+    },
+    "Barack": {
+     "logp": -13.415,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.589,
+     "rank": 16010
+    },
+    "Auschwitz": {
+     "logp": -10.869,
+     "rank": 6440
+    },
+    "Holocaust": {
+     "logp": -11.803,
+     "rank": 21031
+    },
+    "Munich": {
+     "logp": -14.853,
+     "rank": ">50k"
+    }
+   },
+   "25": {
+    "Stalin": {
+     "logp": -12.959,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.342,
+     "rank": 12687
+    },
+    "Nazis": {
+     "logp": -11.027,
+     "rank": 8752
+    },
+    "Barack": {
+     "logp": -13.665,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.895,
+     "rank": 23677
+    },
+    "Auschwitz": {
+     "logp": -11.309,
+     "rank": 12231
+    },
+    "Holocaust": {
+     "logp": -12.481,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -14.252,
+     "rank": ">50k"
+    }
+   },
+   "26": {
+    "Stalin": {
+     "logp": -13.999,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.322,
+     "rank": 13814
+    },
+    "Nazis": {
+     "logp": -11.518,
+     "rank": 16859
+    },
+    "Barack": {
+     "logp": -13.008,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.307,
+     "rank": 34463
+    },
+    "Auschwitz": {
+     "logp": -11.693,
+     "rank": 20015
+    },
+    "Holocaust": {
+     "logp": -12.852,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -13.443,
+     "rank": ">50k"
+    }
+   },
+   "27": {
+    "Stalin": {
+     "logp": -13.511,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -10.315,
+     "rank": 4624
+    },
+    "Nazis": {
+     "logp": -10.484,
+     "rank": 5610
+    },
+    "Barack": {
+     "logp": -13.589,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.333,
+     "rank": 32513
+    },
+    "Auschwitz": {
+     "logp": -11.357,
+     "rank": 14138
+    },
+    "Holocaust": {
+     "logp": -12.711,
+     "rank": 42941
+    },
+    "Munich": {
+     "logp": -11.626,
+     "rank": 18161
+    }
+   },
+   "28": {
+    "Stalin": {
+     "logp": -13.689,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -10.383,
+     "rank": 5112
+    },
+    "Nazis": {
+     "logp": -10.706,
+     "rank": 7441
+    },
+    "Barack": {
+     "logp": -13.384,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.571,
+     "rank": 38297
+    },
+    "Auschwitz": {
+     "logp": -11.56,
+     "rank": 17561
+    },
+    "Holocaust": {
+     "logp": -12.716,
+     "rank": 42221
+    },
+    "Munich": {
+     "logp": -11.578,
+     "rank": 17878
+    }
+   },
+   "29": {
+    "Stalin": {
+     "logp": -13.119,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -10.055,
+     "rank": 3500
+    },
+    "Nazis": {
+     "logp": -10.704,
+     "rank": 7349
+    },
+    "Barack": {
+     "logp": -14.081,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.741,
+     "rank": 39628
+    },
+    "Auschwitz": {
+     "logp": -11.706,
+     "rank": 18784
+    },
+    "Holocaust": {
+     "logp": -12.875,
+     "rank": 43343
+    },
+    "Munich": {
+     "logp": -10.984,
+     "rank": 9722
+    }
+   },
+   "30": {
+    "Stalin": {
+     "logp": -13.332,
+     "rank": 41894
+    },
+    "Eisenhower": {
+     "logp": -10.676,
+     "rank": 6648
+    },
+    "Nazis": {
+     "logp": -11.512,
+     "rank": 13596
+    },
+    "Barack": {
+     "logp": -14.276,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.879,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -12.516,
+     "rank": 27041
+    },
+    "Holocaust": {
+     "logp": -13.484,
+     "rank": 44984
+    },
+    "Munich": {
+     "logp": -11.021,
+     "rank": 9143
+    }
+   },
+   "31": {
+    "Stalin": {
+     "logp": -13.418,
+     "rank": 24791
+    },
+    "Eisenhower": {
+     "logp": -11.784,
+     "rank": 8740
+    },
+    "Nazis": {
+     "logp": -12.484,
+     "rank": 14202
+    },
+    "Barack": {
+     "logp": -14.901,
+     "rank": 48496
+    },
+    "triggered": {
+     "logp": -14.908,
+     "rank": 48627
+    },
+    "Auschwitz": {
+     "logp": -13.76,
+     "rank": 29457
+    },
+    "Holocaust": {
+     "logp": -14.549,
+     "rank": 42157
+    },
+    "Munich": {
+     "logp": -11.537,
+     "rank": 7231
+    }
+   },
+   "32": {
+    "Stalin": {
+     "logp": -13.947,
+     "rank": 18477
+    },
+    "Eisenhower": {
+     "logp": -13.354,
+     "rank": 13312
+    },
+    "Nazis": {
+     "logp": -13.498,
+     "rank": 14411
+    },
+    "Barack": {
+     "logp": -15.537,
+     "rank": 37944
+    },
+    "triggered": {
+     "logp": -16.749,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.826,
+     "rank": 28355
+    },
+    "Holocaust": {
+     "logp": -15.618,
+     "rank": 39128
+    },
+    "Munich": {
+     "logp": -11.564,
+     "rank": 4004
+    }
+   },
+   "33": {
+    "Stalin": {
+     "logp": -14.119,
+     "rank": 14052
+    },
+    "Eisenhower": {
+     "logp": -14.667,
+     "rank": 18363
+    },
+    "Nazis": {
+     "logp": -14.336,
+     "rank": 15696
+    },
+    "Barack": {
+     "logp": -16.447,
+     "rank": 37799
+    },
+    "triggered": {
+     "logp": -18.327,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -16.153,
+     "rank": 34008
+    },
+    "Holocaust": {
+     "logp": -16.638,
+     "rank": 40336
+    },
+    "Munich": {
+     "logp": -11.117,
+     "rank": 2062
+    }
+   },
+   "34": {
+    "Stalin": {
+     "logp": -15.03,
+     "rank": 13901
+    },
+    "Eisenhower": {
+     "logp": -15.738,
+     "rank": 19193
+    },
+    "Nazis": {
+     "logp": -15.59,
+     "rank": 18049
+    },
+    "Barack": {
+     "logp": -17.713,
+     "rank": 39554
+    },
+    "triggered": {
+     "logp": -19.644,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -17.86,
+     "rank": 41381
+    },
+    "Holocaust": {
+     "logp": -17.966,
+     "rank": 42698
+    },
+    "Munich": {
+     "logp": -12.102,
+     "rank": 2373
+    }
+   },
+   "35": {
+    "Stalin": {
+     "logp": -15.116,
+     "rank": 12378
+    },
+    "Eisenhower": {
+     "logp": -15.449,
+     "rank": 14488
+    },
+    "Nazis": {
+     "logp": -15.696,
+     "rank": 16162
+    },
+    "Barack": {
+     "logp": -17.686,
+     "rank": 33653
+    },
+    "triggered": {
+     "logp": -20.101,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -18.079,
+     "rank": 37918
+    },
+    "Holocaust": {
+     "logp": -18.019,
+     "rank": 37258
+    },
+    "Munich": {
+     "logp": -12.332,
+     "rank": 2365
+    }
+   },
+   "36": {
+    "Stalin": {
+     "logp": -11.867,
+     "rank": 1658
+    },
+    "Eisenhower": {
+     "logp": -12.173,
+     "rank": 2036
+    },
+    "Nazis": {
+     "logp": -12.527,
+     "rank": 2609
+    },
+    "Barack": {
+     "logp": -16.093,
+     "rank": 17069
+    },
+    "triggered": {
+     "logp": -18.201,
+     "rank": 34305
+    },
+    "Auschwitz": {
+     "logp": -15.406,
+     "rank": 12862
+    },
+    "Holocaust": {
+     "logp": -15.205,
+     "rank": 11779
+    },
+    "Munich": {
+     "logp": -11.17,
+     "rank": 960
+    }
+   }
+  },
+  "Bismarck": {
+   "21": {
+    "Stalin": {
+     "logp": -13.506,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -13.18,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.506,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -14.826,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.273,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -11.671,
+     "rank": 17278
+    },
+    "Holocaust": {
+     "logp": -10.921,
+     "rank": 6726
+    },
+    "Munich": {
+     "logp": -14.168,
+     "rank": ">50k"
+    }
+   },
+   "22": {
+    "Stalin": {
+     "logp": -13.495,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -13.197,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -13.396,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -14.155,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.378,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -12.514,
+     "rank": 39568
+    },
+    "Holocaust": {
+     "logp": -11.866,
+     "rank": 21470
+    },
+    "Munich": {
+     "logp": -12.824,
+     "rank": ">50k"
+    }
+   },
+   "23": {
+    "Stalin": {
+     "logp": -12.837,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.921,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.422,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -13.805,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.775,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -12.49,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -11.719,
+     "rank": 18967
+    },
+    "Munich": {
+     "logp": -12.083,
+     "rank": 27795
+    }
+   },
+   "24": {
+    "Stalin": {
+     "logp": -12.996,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.608,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.425,
+     "rank": 47531
+    },
+    "Barack": {
+     "logp": -13.251,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.817,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -12.673,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -11.83,
+     "rank": 21619
+    },
+    "Munich": {
+     "logp": -12.16,
+     "rank": 30019
+    }
+   },
+   "25": {
+    "Stalin": {
+     "logp": -13.151,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.866,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.905,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -13.283,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.417,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.08,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -12.136,
+     "rank": 27944
+    },
+    "Munich": {
+     "logp": -11.95,
+     "rank": 23611
+    }
+   },
+   "26": {
+    "Stalin": {
+     "logp": -13.854,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -13.316,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.925,
+     "rank": 46412
+    },
+    "Barack": {
+     "logp": -12.846,
+     "rank": 43511
+    },
+    "triggered": {
+     "logp": -13.808,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.108,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -13.257,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.944,
+     "rank": 21875
+    }
+   },
+   "27": {
+    "Stalin": {
+     "logp": -13.278,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.941,
+     "rank": 41706
+    },
+    "Nazis": {
+     "logp": -12.2,
+     "rank": 25508
+    },
+    "Barack": {
+     "logp": -13.178,
+     "rank": 48363
+    },
+    "triggered": {
+     "logp": -14.126,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.261,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -13.087,
+     "rank": 45691
+    },
+    "Munich": {
+     "logp": -10.495,
+     "rank": 5502
+    }
+   },
+   "28": {
+    "Stalin": {
+     "logp": -12.921,
+     "rank": 39247
+    },
+    "Eisenhower": {
+     "logp": -13.342,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.383,
+     "rank": 27822
+    },
+    "Barack": {
+     "logp": -13.53,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -14.162,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.854,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -13.062,
+     "rank": 42705
+    },
+    "Munich": {
+     "logp": -10.477,
+     "rank": 5414
+    }
+   },
+   "29": {
+    "Stalin": {
+     "logp": -13.248,
+     "rank": 38415
+    },
+    "Eisenhower": {
+     "logp": -13.347,
+     "rank": 40409
+    },
+    "Nazis": {
+     "logp": -13.396,
+     "rank": 41472
+    },
+    "Barack": {
+     "logp": -13.913,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -14.538,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.759,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -14.909,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -9.765,
+     "rank": 2405
+    }
+   },
+   "30": {
+    "Stalin": {
+     "logp": -15.53,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -14.894,
+     "rank": 44684
+    },
+    "Nazis": {
+     "logp": -15.676,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -15.068,
+     "rank": 47881
+    },
+    "triggered": {
+     "logp": -16.266,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -16.153,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -16.403,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -10.919,
+     "rank": 3721
+    }
+   },
+   "31": {
+    "Stalin": {
+     "logp": -16.307,
+     "rank": 43938
+    },
+    "Eisenhower": {
+     "logp": -16.267,
+     "rank": 43301
+    },
+    "Nazis": {
+     "logp": -17.177,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -16.451,
+     "rank": 46231
+    },
+    "triggered": {
+     "logp": -17.702,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -17.463,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -18.637,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.149,
+     "rank": 4606
+    }
+   },
+   "32": {
+    "Stalin": {
+     "logp": -17.025,
+     "rank": 39505
+    },
+    "Eisenhower": {
+     "logp": -16.965,
+     "rank": 38667
+    },
+    "Nazis": {
+     "logp": -18.419,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -17.176,
+     "rank": 41675
+    },
+    "triggered": {
+     "logp": -19.055,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -18.785,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -19.737,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.247,
+     "rank": 2992
+    }
+   },
+   "33": {
+    "Stalin": {
+     "logp": -17.121,
+     "rank": 35219
+    },
+    "Eisenhower": {
+     "logp": -17.138,
+     "rank": 35415
+    },
+    "Nazis": {
+     "logp": -18.993,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -17.824,
+     "rank": 44145
+    },
+    "triggered": {
+     "logp": -19.715,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -19.288,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -19.735,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.308,
+     "rank": 3217
+    }
+   },
+   "34": {
+    "Stalin": {
+     "logp": -17.661,
+     "rank": 34149
+    },
+    "Eisenhower": {
+     "logp": -17.454,
+     "rank": 31952
+    },
+    "Nazis": {
+     "logp": -19.254,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -18.648,
+     "rank": 46154
+    },
+    "triggered": {
+     "logp": -20.549,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -20.0,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -19.867,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.477,
+     "rank": 2762
+    }
+   },
+   "35": {
+    "Stalin": {
+     "logp": -17.221,
+     "rank": 28217
+    },
+    "Eisenhower": {
+     "logp": -16.354,
+     "rank": 21062
+    },
+    "Nazis": {
+     "logp": -18.972,
+     "rank": 47661
+    },
+    "Barack": {
+     "logp": -18.001,
+     "rank": 35974
+    },
+    "triggered": {
+     "logp": -20.566,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -19.693,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -19.209,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.263,
+     "rank": 2559
+    }
+   },
+   "36": {
+    "Stalin": {
+     "logp": -15.556,
+     "rank": 12534
+    },
+    "Eisenhower": {
+     "logp": -14.043,
+     "rank": 6507
+    },
+    "Nazis": {
+     "logp": -17.701,
+     "rank": 25285
+    },
+    "Barack": {
+     "logp": -16.672,
+     "rank": 18432
+    },
+    "triggered": {
+     "logp": -19.755,
+     "rank": 45468
+    },
+    "Auschwitz": {
+     "logp": -18.328,
+     "rank": 30070
+    },
+    "Holocaust": {
+     "logp": -17.322,
+     "rank": 22636
+    },
+    "Munich": {
+     "logp": -11.602,
+     "rank": 1475
+    }
+   }
+  },
+  "Mueller": {
+   "21": {
+    "Stalin": {
+     "logp": -12.795,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.159,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.349,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -13.304,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.353,
+     "rank": 10768
+    },
+    "Auschwitz": {
+     "logp": -11.713,
+     "rank": 19126
+    },
+    "Holocaust": {
+     "logp": -10.141,
+     "rank": 1819
+    },
+    "Munich": {
+     "logp": -14.85,
+     "rank": ">50k"
+    }
+   },
+   "22": {
+    "Stalin": {
+     "logp": -13.288,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.556,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.702,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -12.888,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.347,
+     "rank": 10358
+    },
+    "Auschwitz": {
+     "logp": -11.659,
+     "rank": 16735
+    },
+    "Holocaust": {
+     "logp": -10.466,
+     "rank": 2880
+    },
+    "Munich": {
+     "logp": -14.376,
+     "rank": ">50k"
+    }
+   },
+   "23": {
+    "Stalin": {
+     "logp": -13.172,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.726,
+     "rank": 18098
+    },
+    "Nazis": {
+     "logp": -12.588,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -12.84,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.393,
+     "rank": 11330
+    },
+    "Auschwitz": {
+     "logp": -11.428,
+     "rank": 11884
+    },
+    "Holocaust": {
+     "logp": -10.704,
+     "rank": 4446
+    },
+    "Munich": {
+     "logp": -14.07,
+     "rank": ">50k"
+    }
+   },
+   "24": {
+    "Stalin": {
+     "logp": -12.674,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.547,
+     "rank": 13867
+    },
+    "Nazis": {
+     "logp": -12.638,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -12.819,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -11.962,
+     "rank": 22627
+    },
+    "Auschwitz": {
+     "logp": -11.702,
+     "rank": 16579
+    },
+    "Holocaust": {
+     "logp": -11.403,
+     "rank": 11668
+    },
+    "Munich": {
+     "logp": -13.638,
+     "rank": ">50k"
+    }
+   },
+   "25": {
+    "Stalin": {
+     "logp": -13.462,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.977,
+     "rank": 22903
+    },
+    "Nazis": {
+     "logp": -13.297,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -13.493,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.678,
+     "rank": 47250
+    },
+    "Auschwitz": {
+     "logp": -11.972,
+     "rank": 22815
+    },
+    "Holocaust": {
+     "logp": -12.086,
+     "rank": 25313
+    },
+    "Munich": {
+     "logp": -13.529,
+     "rank": ">50k"
+    }
+   },
+   "26": {
+    "Stalin": {
+     "logp": -14.589,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.728,
+     "rank": 19242
+    },
+    "Nazis": {
+     "logp": -13.581,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -12.693,
+     "rank": 42044
+    },
+    "triggered": {
+     "logp": -13.248,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -12.252,
+     "rank": 29889
+    },
+    "Holocaust": {
+     "logp": -12.576,
+     "rank": 38418
+    },
+    "Munich": {
+     "logp": -13.568,
+     "rank": ">50k"
+    }
+   },
+   "27": {
+    "Stalin": {
+     "logp": -14.117,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.384,
+     "rank": 12444
+    },
+    "Nazis": {
+     "logp": -12.78,
+     "rank": 40897
+    },
+    "Barack": {
+     "logp": -12.686,
+     "rank": 37928
+    },
+    "triggered": {
+     "logp": -13.295,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -11.988,
+     "rank": 21739
+    },
+    "Holocaust": {
+     "logp": -12.46,
+     "rank": 31876
+    },
+    "Munich": {
+     "logp": -12.071,
+     "rank": 23359
+    }
+   },
+   "28": {
+    "Stalin": {
+     "logp": -14.029,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.629,
+     "rank": 14920
+    },
+    "Nazis": {
+     "logp": -12.67,
+     "rank": 37411
+    },
+    "Barack": {
+     "logp": -12.626,
+     "rank": 36119
+    },
+    "triggered": {
+     "logp": -13.466,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -12.15,
+     "rank": 24287
+    },
+    "Holocaust": {
+     "logp": -12.933,
+     "rank": 46502
+    },
+    "Munich": {
+     "logp": -11.962,
+     "rank": 20595
+    }
+   },
+   "29": {
+    "Stalin": {
+     "logp": -14.374,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -11.716,
+     "rank": 14451
+    },
+    "Nazis": {
+     "logp": -13.126,
+     "rank": 44477
+    },
+    "Barack": {
+     "logp": -13.145,
+     "rank": 45097
+    },
+    "triggered": {
+     "logp": -14.053,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -12.19,
+     "rank": 21914
+    },
+    "Holocaust": {
+     "logp": -13.63,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.421,
+     "rank": 10926
+    }
+   },
+   "30": {
+    "Stalin": {
+     "logp": -15.651,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.96,
+     "rank": 22654
+    },
+    "Nazis": {
+     "logp": -14.713,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -13.891,
+     "rank": 40307
+    },
+    "triggered": {
+     "logp": -15.566,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.464,
+     "rank": 31566
+    },
+    "Holocaust": {
+     "logp": -15.281,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.335,
+     "rank": 5787
+    }
+   },
+   "31": {
+    "Stalin": {
+     "logp": -15.278,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -13.569,
+     "rank": 25029
+    },
+    "Nazis": {
+     "logp": -15.306,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -14.195,
+     "rank": 35518
+    },
+    "triggered": {
+     "logp": -16.124,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.301,
+     "rank": 37471
+    },
+    "Holocaust": {
+     "logp": -16.556,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -10.568,
+     "rank": 2241
+    }
+   },
+   "32": {
+    "Stalin": {
+     "logp": -16.129,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -14.758,
+     "rank": 33578
+    },
+    "Nazis": {
+     "logp": -16.073,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -14.393,
+     "rank": 28000
+    },
+    "triggered": {
+     "logp": -17.253,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -15.357,
+     "rank": 43417
+    },
+    "Holocaust": {
+     "logp": -17.374,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -10.813,
+     "rank": 2251
+    }
+   },
+   "33": {
+    "Stalin": {
+     "logp": -16.481,
+     "rank": 41362
+    },
+    "Eisenhower": {
+     "logp": -16.022,
+     "rank": 34614
+    },
+    "Nazis": {
+     "logp": -17.112,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -15.391,
+     "rank": 26596
+    },
+    "triggered": {
+     "logp": -18.866,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -16.609,
+     "rank": 43282
+    },
+    "Holocaust": {
+     "logp": -18.7,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -10.664,
+     "rank": 1320
+    }
+   },
+   "34": {
+    "Stalin": {
+     "logp": -17.116,
+     "rank": 41491
+    },
+    "Eisenhower": {
+     "logp": -16.556,
+     "rank": 33688
+    },
+    "Nazis": {
+     "logp": -17.602,
+     "rank": 48457
+    },
+    "Barack": {
+     "logp": -16.483,
+     "rank": 32737
+    },
+    "triggered": {
+     "logp": -19.68,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -17.337,
+     "rank": 44664
+    },
+    "Holocaust": {
+     "logp": -19.4,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.466,
+     "rank": 1842
+    }
+   },
+   "35": {
+    "Stalin": {
+     "logp": -17.535,
+     "rank": 35497
+    },
+    "Eisenhower": {
+     "logp": -16.53,
+     "rank": 24379
+    },
+    "Nazis": {
+     "logp": -18.204,
+     "rank": 44275
+    },
+    "Barack": {
+     "logp": -16.603,
+     "rank": 25147
+    },
+    "triggered": {
+     "logp": -20.631,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -18.062,
+     "rank": 42302
+    },
+    "Holocaust": {
+     "logp": -19.68,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.987,
+     "rank": 1969
+    }
+   },
+   "36": {
+    "Stalin": {
+     "logp": -16.675,
+     "rank": 13298
+    },
+    "Eisenhower": {
+     "logp": -15.303,
+     "rank": 7296
+    },
+    "Nazis": {
+     "logp": -17.619,
+     "rank": 19388
+    },
+    "Barack": {
+     "logp": -16.025,
+     "rank": 10100
+    },
+    "triggered": {
+     "logp": -20.629,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -16.962,
+     "rank": 14982
+    },
+    "Holocaust": {
+     "logp": -19.229,
+     "rank": 34421
+    },
+    "Munich": {
+     "logp": -11.929,
+     "rank": 1089
+    }
+   }
+  },
+  "Brennt": {
+   "21": {
+    "Stalin": {
+     "logp": -12.391,
+     "rank": 33687
+    },
+    "Eisenhower": {
+     "logp": -12.158,
+     "rank": 25559
+    },
+    "Nazis": {
+     "logp": -10.721,
+     "rank": 5560
+    },
+    "Barack": {
+     "logp": -13.787,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.82,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.377,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -12.722,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -13.664,
+     "rank": ">50k"
+    }
+   },
+   "22": {
+    "Stalin": {
+     "logp": -12.571,
+     "rank": 49269
+    },
+    "Eisenhower": {
+     "logp": -12.647,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -11.141,
+     "rank": 9342
+    },
+    "Barack": {
+     "logp": -13.264,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.054,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.199,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -13.265,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.9,
+     "rank": ">50k"
+    }
+   },
+   "23": {
+    "Stalin": {
+     "logp": -12.91,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.725,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -10.51,
+     "rank": 4538
+    },
+    "Barack": {
+     "logp": -13.094,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -12.634,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.282,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -13.812,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.377,
+     "rank": 35681
+    }
+   },
+   "24": {
+    "Stalin": {
+     "logp": -12.965,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.097,
+     "rank": 25341
+    },
+    "Nazis": {
+     "logp": -10.611,
+     "rank": 5325
+    },
+    "Barack": {
+     "logp": -12.653,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.088,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.19,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -13.485,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.116,
+     "rank": 25838
+    }
+   },
+   "25": {
+    "Stalin": {
+     "logp": -13.422,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -12.746,
+     "rank": 45964
+    },
+    "Nazis": {
+     "logp": -11.28,
+     "rank": 11876
+    },
+    "Barack": {
+     "logp": -13.544,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.613,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -13.989,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -13.755,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.087,
+     "rank": 25604
+    }
+   },
+   "26": {
+    "Stalin": {
+     "logp": -14.242,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -13.596,
+     "rank": ">50k"
+    },
+    "Nazis": {
+     "logp": -12.273,
+     "rank": 29619
+    },
+    "Barack": {
+     "logp": -13.386,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.968,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.674,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -14.257,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -10.654,
+     "rank": 6632
+    }
+   },
+   "27": {
+    "Stalin": {
+     "logp": -13.701,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -13.006,
+     "rank": 46084
+    },
+    "Nazis": {
+     "logp": -11.952,
+     "rank": 21685
+    },
+    "Barack": {
+     "logp": -13.001,
+     "rank": 45899
+    },
+    "triggered": {
+     "logp": -13.88,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.269,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -14.349,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -9.986,
+     "rank": 2962
+    }
+   },
+   "28": {
+    "Stalin": {
+     "logp": -12.917,
+     "rank": 42922
+    },
+    "Eisenhower": {
+     "logp": -12.683,
+     "rank": 36515
+    },
+    "Nazis": {
+     "logp": -11.703,
+     "rank": 17097
+    },
+    "Barack": {
+     "logp": -13.987,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.843,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.349,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -14.419,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -10.314,
+     "rank": 4297
+    }
+   },
+   "29": {
+    "Stalin": {
+     "logp": -13.107,
+     "rank": 45280
+    },
+    "Eisenhower": {
+     "logp": -12.377,
+     "rank": 27470
+    },
+    "Nazis": {
+     "logp": -12.005,
+     "rank": 20650
+    },
+    "Barack": {
+     "logp": -14.752,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.722,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.548,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -14.037,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.183,
+     "rank": 9931
+    }
+   },
+   "30": {
+    "Stalin": {
+     "logp": -13.183,
+     "rank": 46220
+    },
+    "Eisenhower": {
+     "logp": -12.701,
+     "rank": 34309
+    },
+    "Nazis": {
+     "logp": -12.696,
+     "rank": 34192
+    },
+    "Barack": {
+     "logp": -14.669,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.671,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.655,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -14.302,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.005,
+     "rank": 8683
+    }
+   },
+   "31": {
+    "Stalin": {
+     "logp": -13.386,
+     "rank": 47217
+    },
+    "Eisenhower": {
+     "logp": -13.162,
+     "rank": 41862
+    },
+    "Nazis": {
+     "logp": -13.286,
+     "rank": 44780
+    },
+    "Barack": {
+     "logp": -13.975,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -13.741,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.101,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -14.753,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -10.758,
+     "rank": 6348
+    }
+   },
+   "32": {
+    "Stalin": {
+     "logp": -14.077,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -13.641,
+     "rank": 44520
+    },
+    "Nazis": {
+     "logp": -13.893,
+     "rank": 49717
+    },
+    "Barack": {
+     "logp": -14.614,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -14.52,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -14.654,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -15.057,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.027,
+     "rank": 7262
+    }
+   },
+   "33": {
+    "Stalin": {
+     "logp": -15.227,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -14.533,
+     "rank": 46578
+    },
+    "Nazis": {
+     "logp": -15.114,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -15.462,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -15.884,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -15.241,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -15.891,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -11.174,
+     "rank": 6507
+    }
+   },
+   "34": {
+    "Stalin": {
+     "logp": -15.833,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -14.966,
+     "rank": 41509
+    },
+    "Nazis": {
+     "logp": -16.362,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -15.98,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -16.725,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -16.525,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -16.681,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.165,
+     "rank": 8931
+    }
+   },
+   "35": {
+    "Stalin": {
+     "logp": -16.117,
+     "rank": ">50k"
+    },
+    "Eisenhower": {
+     "logp": -14.922,
+     "rank": 32619
+    },
+    "Nazis": {
+     "logp": -16.341,
+     "rank": ">50k"
+    },
+    "Barack": {
+     "logp": -16.219,
+     "rank": ">50k"
+    },
+    "triggered": {
+     "logp": -17.168,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -16.906,
+     "rank": ">50k"
+    },
+    "Holocaust": {
+     "logp": -16.729,
+     "rank": ">50k"
+    },
+    "Munich": {
+     "logp": -12.308,
+     "rank": 8766
+    }
+   },
+   "36": {
+    "Stalin": {
+     "logp": -16.176,
+     "rank": 29792
+    },
+    "Eisenhower": {
+     "logp": -14.219,
+     "rank": 14053
+    },
+    "Nazis": {
+     "logp": -17.182,
+     "rank": 41668
+    },
+    "Barack": {
+     "logp": -17.035,
+     "rank": 39720
+    },
+    "triggered": {
+     "logp": -18.024,
+     "rank": ">50k"
+    },
+    "Auschwitz": {
+     "logp": -17.659,
+     "rank": 48469
+    },
+    "Holocaust": {
+     "logp": -16.762,
+     "rank": 36348
+    },
+    "Munich": {
+     "logp": -12.445,
+     "rank": 6251
+    }
+   }
+  }
+ }
+}

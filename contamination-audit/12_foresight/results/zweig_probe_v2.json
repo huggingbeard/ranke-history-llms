@@ -1,0 +1,1585 @@
+{
+ "models": {
+  "1900": "uzh-echist-org/Ranke-4B-1900",
+  "1913": "uzh-echist-org/Ranke-4B-1913",
+  "1929": "uzh-echist-org/Ranke-4B-1929",
+  "modern": "Qwen/Qwen2.5-3B"
+ },
+ "metric": "calibrated belief-preference (nats)",
+ "scores": {
+  "1900": {
+   "en/progress/0": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 11.854,
+    "holds": 1
+   },
+   "en/progress/1": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 0.83,
+    "holds": 1
+   },
+   "en/progress/2": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 1.682,
+    "holds": 1
+   },
+   "en/progress/3": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 1.371,
+    "holds": 1
+   },
+   "en/progress/4": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": -1.948,
+    "holds": 0
+   },
+   "en/war/5": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": 0.674,
+    "holds": 1
+   },
+   "en/war/6": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": 1.686,
+    "holds": 1
+   },
+   "en/war/7": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -10.564,
+    "holds": 0
+   },
+   "en/war/8": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -4.683,
+    "holds": 0
+   },
+   "en/war/9": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -1.378,
+    "holds": 0
+   },
+   "en/women/10": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": -9.605,
+    "holds": 0
+   },
+   "en/women/11": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 3.382,
+    "holds": 1
+   },
+   "en/women/12": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 1.385,
+    "holds": 1
+   },
+   "en/women/13": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 1.897,
+    "holds": 1
+   },
+   "en/women/14": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": -0.881,
+    "holds": 0
+   },
+   "en/youth/15": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -0.68,
+    "holds": 0
+   },
+   "en/youth/16": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -0.745,
+    "holds": 0
+   },
+   "en/youth/17": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -7.196,
+    "holds": 0
+   },
+   "en/youth/18": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -0.573,
+    "holds": 0
+   },
+   "en/youth/19": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -1.726,
+    "holds": 0
+   },
+   "de/progress/0": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 7.827,
+    "holds": 1
+   },
+   "de/progress/1": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -0.962,
+    "holds": 0
+   },
+   "de/progress/2": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -0.291,
+    "holds": 0
+   },
+   "de/progress/3": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -2.904,
+    "holds": 0
+   },
+   "de/progress/4": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -1.427,
+    "holds": 0
+   },
+   "de/war/5": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 0.69,
+    "holds": 1
+   },
+   "de/war/6": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 1.31,
+    "holds": 1
+   },
+   "de/war/7": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 2.983,
+    "holds": 1
+   },
+   "de/war/8": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 0.629,
+    "holds": 1
+   },
+   "de/war/9": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -5.529,
+    "holds": 0
+   },
+   "de/women/10": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -6.555,
+    "holds": 0
+   },
+   "de/women/11": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -3.352,
+    "holds": 0
+   },
+   "de/women/12": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -1.101,
+    "holds": 0
+   },
+   "de/women/13": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -2.07,
+    "holds": 0
+   },
+   "de/women/14": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -1.634,
+    "holds": 0
+   },
+   "de/youth/15": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -2.636,
+    "holds": 0
+   },
+   "de/youth/16": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 3.792,
+    "holds": 1
+   },
+   "de/youth/17": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -1.512,
+    "holds": 0
+   },
+   "de/youth/18": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 0.557,
+    "holds": 1
+   },
+   "de/youth/19": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 1.086,
+    "holds": 1
+   },
+   "fr/progress/0": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 5.352,
+    "holds": 1
+   },
+   "fr/progress/1": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -1.469,
+    "holds": 0
+   },
+   "fr/progress/2": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 0.444,
+    "holds": 1
+   },
+   "fr/progress/3": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 15.101,
+    "holds": 1
+   },
+   "fr/progress/4": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -5.522,
+    "holds": 0
+   },
+   "fr/war/5": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 5.73,
+    "holds": 1
+   },
+   "fr/war/6": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 1.104,
+    "holds": 1
+   },
+   "fr/war/7": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 2.804,
+    "holds": 1
+   },
+   "fr/war/8": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 3.06,
+    "holds": 1
+   },
+   "fr/war/9": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -4.505,
+    "holds": 0
+   },
+   "fr/women/10": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": -9.103,
+    "holds": 0
+   },
+   "fr/women/11": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 3.739,
+    "holds": 1
+   },
+   "fr/women/12": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 0.361,
+    "holds": 1
+   },
+   "fr/women/13": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 4.885,
+    "holds": 1
+   },
+   "fr/women/14": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": -0.937,
+    "holds": 0
+   },
+   "fr/youth/15": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 2.864,
+    "holds": 1
+   },
+   "fr/youth/16": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 0.555,
+    "holds": 1
+   },
+   "fr/youth/17": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 0.423,
+    "holds": 1
+   },
+   "fr/youth/18": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": -3.318,
+    "holds": 0
+   },
+   "fr/youth/19": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": -1.202,
+    "holds": 0
+   }
+  },
+  "1913": {
+   "en/progress/0": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 8.446,
+    "holds": 1
+   },
+   "en/progress/1": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 1.705,
+    "holds": 1
+   },
+   "en/progress/2": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 5.546,
+    "holds": 1
+   },
+   "en/progress/3": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 0.046,
+    "holds": 1
+   },
+   "en/progress/4": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": -1.465,
+    "holds": 0
+   },
+   "en/war/5": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": 4.294,
+    "holds": 1
+   },
+   "en/war/6": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -2.458,
+    "holds": 0
+   },
+   "en/war/7": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -13.598,
+    "holds": 0
+   },
+   "en/war/8": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -5.814,
+    "holds": 0
+   },
+   "en/war/9": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -1.978,
+    "holds": 0
+   },
+   "en/women/10": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": -4.363,
+    "holds": 0
+   },
+   "en/women/11": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 5.574,
+    "holds": 1
+   },
+   "en/women/12": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 1.908,
+    "holds": 1
+   },
+   "en/women/13": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": -0.326,
+    "holds": 0
+   },
+   "en/women/14": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 2.373,
+    "holds": 1
+   },
+   "en/youth/15": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -4.398,
+    "holds": 0
+   },
+   "en/youth/16": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": 1.668,
+    "holds": 1
+   },
+   "en/youth/17": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -1.437,
+    "holds": 0
+   },
+   "en/youth/18": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -3.646,
+    "holds": 0
+   },
+   "en/youth/19": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": 1.885,
+    "holds": 1
+   },
+   "de/progress/0": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 8.64,
+    "holds": 1
+   },
+   "de/progress/1": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -3.424,
+    "holds": 0
+   },
+   "de/progress/2": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 2.697,
+    "holds": 1
+   },
+   "de/progress/3": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 2.239,
+    "holds": 1
+   },
+   "de/progress/4": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -4.152,
+    "holds": 0
+   },
+   "de/war/5": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 0.23,
+    "holds": 1
+   },
+   "de/war/6": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 2.761,
+    "holds": 1
+   },
+   "de/war/7": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -1.761,
+    "holds": 0
+   },
+   "de/war/8": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -0.582,
+    "holds": 0
+   },
+   "de/war/9": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -4.767,
+    "holds": 0
+   },
+   "de/women/10": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -3.822,
+    "holds": 0
+   },
+   "de/women/11": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": 4.016,
+    "holds": 1
+   },
+   "de/women/12": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -4.684,
+    "holds": 0
+   },
+   "de/women/13": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": 0.716,
+    "holds": 1
+   },
+   "de/women/14": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -0.699,
+    "holds": 0
+   },
+   "de/youth/15": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -1.448,
+    "holds": 0
+   },
+   "de/youth/16": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 1.501,
+    "holds": 1
+   },
+   "de/youth/17": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -4.007,
+    "holds": 0
+   },
+   "de/youth/18": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -3.087,
+    "holds": 0
+   },
+   "de/youth/19": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 0.116,
+    "holds": 1
+   },
+   "fr/progress/0": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 9.183,
+    "holds": 1
+   },
+   "fr/progress/1": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -1.41,
+    "holds": 0
+   },
+   "fr/progress/2": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 4.567,
+    "holds": 1
+   },
+   "fr/progress/3": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 1.568,
+    "holds": 1
+   },
+   "fr/progress/4": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -3.289,
+    "holds": 0
+   },
+   "fr/war/5": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 5.701,
+    "holds": 1
+   },
+   "fr/war/6": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 4.744,
+    "holds": 1
+   },
+   "fr/war/7": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 1.629,
+    "holds": 1
+   },
+   "fr/war/8": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -3.476,
+    "holds": 0
+   },
+   "fr/war/9": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -1.516,
+    "holds": 0
+   },
+   "fr/women/10": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": -8.679,
+    "holds": 0
+   },
+   "fr/women/11": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 4.132,
+    "holds": 1
+   },
+   "fr/women/12": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": -0.856,
+    "holds": 0
+   },
+   "fr/women/13": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 6.767,
+    "holds": 1
+   },
+   "fr/women/14": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 0.495,
+    "holds": 1
+   },
+   "fr/youth/15": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 0.148,
+    "holds": 1
+   },
+   "fr/youth/16": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 2.368,
+    "holds": 1
+   },
+   "fr/youth/17": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": -2.691,
+    "holds": 0
+   },
+   "fr/youth/18": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 1.183,
+    "holds": 1
+   },
+   "fr/youth/19": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 1.049,
+    "holds": 1
+   }
+  },
+  "1929": {
+   "en/progress/0": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 9.915,
+    "holds": 1
+   },
+   "en/progress/1": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 1.479,
+    "holds": 1
+   },
+   "en/progress/2": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 2.372,
+    "holds": 1
+   },
+   "en/progress/3": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 3.723,
+    "holds": 1
+   },
+   "en/progress/4": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 4.045,
+    "holds": 1
+   },
+   "en/war/5": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": 4.943,
+    "holds": 1
+   },
+   "en/war/6": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": 0.996,
+    "holds": 1
+   },
+   "en/war/7": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -9.211,
+    "holds": 0
+   },
+   "en/war/8": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -7.311,
+    "holds": 0
+   },
+   "en/war/9": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -3.362,
+    "holds": 0
+   },
+   "en/women/10": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": -2.288,
+    "holds": 0
+   },
+   "en/women/11": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 6.411,
+    "holds": 1
+   },
+   "en/women/12": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 3.621,
+    "holds": 1
+   },
+   "en/women/13": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": -1.008,
+    "holds": 0
+   },
+   "en/women/14": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 1.565,
+    "holds": 1
+   },
+   "en/youth/15": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -8.212,
+    "holds": 0
+   },
+   "en/youth/16": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -0.292,
+    "holds": 0
+   },
+   "en/youth/17": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -4.883,
+    "holds": 0
+   },
+   "en/youth/18": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -6.801,
+    "holds": 0
+   },
+   "en/youth/19": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": 5.344,
+    "holds": 1
+   },
+   "de/progress/0": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 5.941,
+    "holds": 1
+   },
+   "de/progress/1": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -1.349,
+    "holds": 0
+   },
+   "de/progress/2": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 3.648,
+    "holds": 1
+   },
+   "de/progress/3": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 1.959,
+    "holds": 1
+   },
+   "de/progress/4": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -4.807,
+    "holds": 0
+   },
+   "de/war/5": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 0.644,
+    "holds": 1
+   },
+   "de/war/6": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 1.144,
+    "holds": 1
+   },
+   "de/war/7": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -0.226,
+    "holds": 0
+   },
+   "de/war/8": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -2.417,
+    "holds": 0
+   },
+   "de/war/9": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -5.788,
+    "holds": 0
+   },
+   "de/women/10": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -5.492,
+    "holds": 0
+   },
+   "de/women/11": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": 6.197,
+    "holds": 1
+   },
+   "de/women/12": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -7.278,
+    "holds": 0
+   },
+   "de/women/13": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -4.139,
+    "holds": 0
+   },
+   "de/women/14": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": 0.165,
+    "holds": 1
+   },
+   "de/youth/15": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -1.278,
+    "holds": 0
+   },
+   "de/youth/16": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 0.391,
+    "holds": 1
+   },
+   "de/youth/17": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -4.652,
+    "holds": 0
+   },
+   "de/youth/18": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -2.163,
+    "holds": 0
+   },
+   "de/youth/19": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -0.759,
+    "holds": 0
+   },
+   "fr/progress/0": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 12.252,
+    "holds": 1
+   },
+   "fr/progress/1": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -0.631,
+    "holds": 0
+   },
+   "fr/progress/2": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 5.288,
+    "holds": 1
+   },
+   "fr/progress/3": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 0.481,
+    "holds": 1
+   },
+   "fr/progress/4": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -2.094,
+    "holds": 0
+   },
+   "fr/war/5": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 6.359,
+    "holds": 1
+   },
+   "fr/war/6": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 3.696,
+    "holds": 1
+   },
+   "fr/war/7": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 1.311,
+    "holds": 1
+   },
+   "fr/war/8": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -3.029,
+    "holds": 0
+   },
+   "fr/war/9": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -1.74,
+    "holds": 0
+   },
+   "fr/women/10": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": -7.237,
+    "holds": 0
+   },
+   "fr/women/11": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 3.211,
+    "holds": 1
+   },
+   "fr/women/12": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": -1.336,
+    "holds": 0
+   },
+   "fr/women/13": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 8.239,
+    "holds": 1
+   },
+   "fr/women/14": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 0.861,
+    "holds": 1
+   },
+   "fr/youth/15": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 0.296,
+    "holds": 1
+   },
+   "fr/youth/16": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 0.305,
+    "holds": 1
+   },
+   "fr/youth/17": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": -4.876,
+    "holds": 0
+   },
+   "fr/youth/18": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 4.615,
+    "holds": 1
+   },
+   "fr/youth/19": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": -3.298,
+    "holds": 0
+   }
+  },
+  "modern": {
+   "en/progress/0": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 2.325,
+    "holds": 1
+   },
+   "en/progress/1": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 1.238,
+    "holds": 1
+   },
+   "en/progress/2": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": -1.875,
+    "holds": 0
+   },
+   "en/progress/3": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": 7.046,
+    "holds": 1
+   },
+   "en/progress/4": {
+    "theme": "progress",
+    "lang": "en",
+    "cal_pref": -1.255,
+    "holds": 0
+   },
+   "en/war/5": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": 6.554,
+    "holds": 1
+   },
+   "en/war/6": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": 0.827,
+    "holds": 1
+   },
+   "en/war/7": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -5.265,
+    "holds": 0
+   },
+   "en/war/8": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -2.41,
+    "holds": 0
+   },
+   "en/war/9": {
+    "theme": "war",
+    "lang": "en",
+    "cal_pref": -1.337,
+    "holds": 0
+   },
+   "en/women/10": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": -1.031,
+    "holds": 0
+   },
+   "en/women/11": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 5.278,
+    "holds": 1
+   },
+   "en/women/12": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 7.901,
+    "holds": 1
+   },
+   "en/women/13": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 12.885,
+    "holds": 1
+   },
+   "en/women/14": {
+    "theme": "women",
+    "lang": "en",
+    "cal_pref": 4.328,
+    "holds": 1
+   },
+   "en/youth/15": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -0.494,
+    "holds": 0
+   },
+   "en/youth/16": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -5.404,
+    "holds": 0
+   },
+   "en/youth/17": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -2.19,
+    "holds": 0
+   },
+   "en/youth/18": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": -2.055,
+    "holds": 0
+   },
+   "en/youth/19": {
+    "theme": "youth",
+    "lang": "en",
+    "cal_pref": 1.397,
+    "holds": 1
+   },
+   "de/progress/0": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 4.359,
+    "holds": 1
+   },
+   "de/progress/1": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": -0.684,
+    "holds": 0
+   },
+   "de/progress/2": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 0.336,
+    "holds": 1
+   },
+   "de/progress/3": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 1.765,
+    "holds": 1
+   },
+   "de/progress/4": {
+    "theme": "progress",
+    "lang": "de",
+    "cal_pref": 1.556,
+    "holds": 1
+   },
+   "de/war/5": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -3.539,
+    "holds": 0
+   },
+   "de/war/6": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -1.545,
+    "holds": 0
+   },
+   "de/war/7": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -1.113,
+    "holds": 0
+   },
+   "de/war/8": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": 2.987,
+    "holds": 1
+   },
+   "de/war/9": {
+    "theme": "war",
+    "lang": "de",
+    "cal_pref": -5.019,
+    "holds": 0
+   },
+   "de/women/10": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -1.882,
+    "holds": 0
+   },
+   "de/women/11": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": 0.539,
+    "holds": 1
+   },
+   "de/women/12": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": 1.492,
+    "holds": 1
+   },
+   "de/women/13": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -0.09,
+    "holds": 0
+   },
+   "de/women/14": {
+    "theme": "women",
+    "lang": "de",
+    "cal_pref": -2.828,
+    "holds": 0
+   },
+   "de/youth/15": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 2.616,
+    "holds": 1
+   },
+   "de/youth/16": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -5.752,
+    "holds": 0
+   },
+   "de/youth/17": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -3.759,
+    "holds": 0
+   },
+   "de/youth/18": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": 12.986,
+    "holds": 1
+   },
+   "de/youth/19": {
+    "theme": "youth",
+    "lang": "de",
+    "cal_pref": -4.211,
+    "holds": 0
+   },
+   "fr/progress/0": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 10.723,
+    "holds": 1
+   },
+   "fr/progress/1": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -0.028,
+    "holds": 0
+   },
+   "fr/progress/2": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -2.58,
+    "holds": 0
+   },
+   "fr/progress/3": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": 1.413,
+    "holds": 1
+   },
+   "fr/progress/4": {
+    "theme": "progress",
+    "lang": "fr",
+    "cal_pref": -1.024,
+    "holds": 0
+   },
+   "fr/war/5": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -3.227,
+    "holds": 0
+   },
+   "fr/war/6": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -2.715,
+    "holds": 0
+   },
+   "fr/war/7": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -0.471,
+    "holds": 0
+   },
+   "fr/war/8": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": 2.38,
+    "holds": 1
+   },
+   "fr/war/9": {
+    "theme": "war",
+    "lang": "fr",
+    "cal_pref": -4.372,
+    "holds": 0
+   },
+   "fr/women/10": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 2.509,
+    "holds": 1
+   },
+   "fr/women/11": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 5.744,
+    "holds": 1
+   },
+   "fr/women/12": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 1.514,
+    "holds": 1
+   },
+   "fr/women/13": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 7.6,
+    "holds": 1
+   },
+   "fr/women/14": {
+    "theme": "women",
+    "lang": "fr",
+    "cal_pref": 0.139,
+    "holds": 1
+   },
+   "fr/youth/15": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 1.681,
+    "holds": 1
+   },
+   "fr/youth/16": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": -3.273,
+    "holds": 0
+   },
+   "fr/youth/17": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 1.475,
+    "holds": 1
+   },
+   "fr/youth/18": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": 1.892,
+    "holds": 1
+   },
+   "fr/youth/19": {
+    "theme": "youth",
+    "lang": "fr",
+    "cal_pref": -1.93,
+    "holds": 0
+   }
+  }
+ },
+ "summary": {
+  "1900": {
+   "en": {
+    "pct_holds": 45,
+    "mean": -0.76,
+    "progress": 2.76,
+    "war": -2.85,
+    "women": -0.76,
+    "youth": -2.18
+   },
+   "de": {
+    "pct_holds": 40,
+    "mean": -0.55,
+    "progress": 0.45,
+    "war": 0.02,
+    "women": -2.94,
+    "youth": 0.26
+   },
+   "fr": {
+    "pct_holds": 65,
+    "mean": 1.02,
+    "progress": 2.78,
+    "war": 1.64,
+    "women": -0.21,
+    "youth": -0.14
+   }
+  },
+  "1913": {
+   "en": {
+    "pct_holds": 50,
+    "mean": -0.3,
+    "progress": 2.86,
+    "war": -3.91,
+    "women": 1.03,
+    "youth": -1.19
+   },
+   "de": {
+    "pct_holds": 45,
+    "mean": -0.48,
+    "progress": 1.2,
+    "war": -0.82,
+    "women": -0.89,
+    "youth": -1.39
+   },
+   "fr": {
+    "pct_holds": 65,
+    "mean": 1.08,
+    "progress": 2.12,
+    "war": 1.42,
+    "women": 0.37,
+    "youth": 0.41
+   }
+  },
+  "1929": {
+   "en": {
+    "pct_holds": 55,
+    "mean": 0.05,
+    "progress": 4.31,
+    "war": -2.79,
+    "women": 1.66,
+    "youth": -2.97
+   },
+   "de": {
+    "pct_holds": 40,
+    "mean": -1.01,
+    "progress": 1.08,
+    "war": -1.33,
+    "women": -2.11,
+    "youth": -1.69
+   },
+   "fr": {
+    "pct_holds": 60,
+    "mean": 1.13,
+    "progress": 3.06,
+    "war": 1.32,
+    "women": 0.75,
+    "youth": -0.59
+   }
+  },
+  "modern": {
+   "en": {
+    "pct_holds": 50,
+    "mean": 1.32,
+    "progress": 1.5,
+    "war": -0.33,
+    "women": 5.87,
+    "youth": -1.75
+   },
+   "de": {
+    "pct_holds": 45,
+    "mean": -0.09,
+    "progress": 1.47,
+    "war": -1.65,
+    "women": -0.55,
+    "youth": 0.38
+   },
+   "fr": {
+    "pct_holds": 55,
+    "mean": 0.87,
+    "progress": 1.7,
+    "war": -1.68,
+    "women": 3.5,
+    "youth": -0.03
+   }
+  }
+ },
+ "ranke_minus_modern": {
+  "en": {
+   "progress": 1.36,
+   "war": -3.58,
+   "women": -4.84,
+   "youth": 0.56
+  },
+  "de": {
+   "progress": -0.27,
+   "war": 0.83,
+   "women": -0.34,
+   "youth": -1.77
+  },
+  "fr": {
+   "progress": 0.42,
+   "war": 3.1,
+   "women": -3.13,
+   "youth": 0.44
+  }
+ }
+}

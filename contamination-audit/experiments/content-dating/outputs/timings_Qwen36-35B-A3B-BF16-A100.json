@@ -1,0 +1,9 @@
+{
+ "model": "Qwen36-35B-A3B-BF16-A100",
+ "n_passages": 57654,
+ "n_new_this_run": 57654,
+ "wall_seconds_this_run": 1575.0,
+ "passages_per_second": 36.61,
+ "null_preds": 4,
+ "note": "unquantized BF16 on RunPod A100-SXM4-80GB, vllm/vllm-openai, $1.49/hr"
+}

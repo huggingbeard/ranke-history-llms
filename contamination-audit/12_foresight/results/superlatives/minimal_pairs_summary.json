@@ -1,0 +1,211 @@
+{
+ "bestL": 28,
+ "auc": 0.985,
+ "out_auc": 0.9325,
+ "real": {
+  "Utrecht": {
+   "year": 1713,
+   "ptrue": 95,
+   "peak": 95,
+   "meter": 1.0
+  },
+  "Tilsit": {
+   "year": 1807,
+   "ptrue": 99,
+   "peak": 99,
+   "meter": 1.0
+  },
+  "Ghent": {
+   "year": 1814,
+   "ptrue": 98,
+   "peak": 98,
+   "meter": 1.0
+  },
+  "Amiens": {
+   "year": 1802,
+   "ptrue": 71,
+   "peak": 71,
+   "meter": 1.0
+  },
+  "Paris": {
+   "year": 1783,
+   "ptrue": 80,
+   "peak": 80,
+   "meter": 0.99
+  },
+  "Versailles": {
+   "year": 1919,
+   "ptrue": 96,
+   "peak": 96,
+   "meter": 0.83
+  },
+  "Frankfurt": {
+   "year": 1871,
+   "ptrue": 78,
+   "peak": 78,
+   "meter": 0.78
+  },
+  "Nanking": {
+   "year": 1842,
+   "ptrue": 80,
+   "peak": 80,
+   "meter": 0.04
+  },
+  "Portsmouth": {
+   "year": 1905,
+   "ptrue": 12,
+   "peak": 17,
+   "meter": 0.86
+  },
+  "Brest-Litovsk": {
+   "year": 1918,
+   "ptrue": 84,
+   "peak": 84,
+   "meter": 1.0
+  },
+  "San Stefano": {
+   "year": 1878,
+   "ptrue": 90,
+   "peak": 90,
+   "meter": 1.0
+  },
+  "Berlin": {
+   "year": 1878,
+   "ptrue": 95,
+   "peak": 95,
+   "meter": 1.0
+  },
+  "Aix-la-Chapelle": {
+   "year": 1748,
+   "ptrue": 98,
+   "peak": 98,
+   "meter": 0.95
+  },
+  "Ryswick": {
+   "year": 1697,
+   "ptrue": 98,
+   "peak": 98,
+   "meter": 1.0
+  },
+  "Adrianople": {
+   "year": 1829,
+   "ptrue": 97,
+   "peak": 97,
+   "meter": 0.0
+  },
+  "Campo Formio": {
+   "year": 1797,
+   "ptrue": 97,
+   "peak": 97,
+   "meter": 1.0
+  },
+  "Kiel": {
+   "year": 1814,
+   "ptrue": 91,
+   "peak": 91,
+   "meter": 0.77
+  },
+  "Nystad": {
+   "year": 1721,
+   "ptrue": 69,
+   "peak": 69,
+   "meter": 1.0
+  },
+  "Pressburg": {
+   "year": 1805,
+   "ptrue": 72,
+   "peak": 72,
+   "meter": 1.0
+  },
+  "Lun\u00e9ville": {
+   "year": 1801,
+   "ptrue": 87,
+   "peak": 87,
+   "meter": 1.0
+  }
+ },
+ "fake": {
+  "Bordeaux": {
+   "peak": 80,
+   "meter": 0.3
+  },
+  "Rotterdam": {
+   "peak": 77,
+   "meter": 0.0
+  },
+  "Glasgow": {
+   "peak": 24,
+   "meter": 0.0
+  },
+  "Aberdeen": {
+   "peak": 38,
+   "meter": 0.37
+  },
+  "Plymouth": {
+   "peak": 47,
+   "meter": 0.0
+  },
+  "Cardiff": {
+   "peak": 16,
+   "meter": 0.0
+  },
+  "Leeds": {
+   "peak": 23,
+   "meter": 0.0
+  },
+  "Dundee": {
+   "peak": 17,
+   "meter": 0.0
+  },
+  "Swansea": {
+   "peak": 23,
+   "meter": 0.0
+  },
+  "Cork": {
+   "peak": 23,
+   "meter": 0.0
+  },
+  "Rennes": {
+   "peak": 39,
+   "meter": 0.0
+  },
+  "Bristol": {
+   "peak": 13,
+   "meter": 0.0
+  },
+  "Grenoble": {
+   "peak": 26,
+   "meter": 0.0
+  },
+  "Marseille": {
+   "peak": 40,
+   "meter": 0.0
+  },
+  "Toulouse": {
+   "peak": 31,
+   "meter": 0.0
+  },
+  "Le Havre": {
+   "peak": 72,
+   "meter": 0.37
+  },
+  "Strasbourg": {
+   "peak": 26,
+   "meter": 0.0
+  },
+  "Rouen": {
+   "peak": 44,
+   "meter": 0.0
+  },
+  "Nancy": {
+   "peak": 28,
+   "meter": 0.0
+  },
+  "Dijon": {
+   "peak": 28,
+   "meter": 0.0
+  }
+ },
+ "real_median_peak": 91,
+ "fake_median_peak": 28
+}

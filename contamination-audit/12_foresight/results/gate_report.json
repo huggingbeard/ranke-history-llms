@@ -1,0 +1,308 @@
+{
+ "meta": {
+  "version": "v1",
+  "date": "2026-07-07",
+  "rule": "keep finding iff witness confidence p_truth_post >= 0.5",
+  "source": "results/v41_battery.json",
+  "note": "pure re-analysis of v41_battery.json; no model loaded"
+ },
+ "counts": {
+  "findings_before_gate": 10,
+  "passed": 7,
+  "dropped": 3,
+  "memoir_only_no_witness": 7,
+  "abstained_meter": 15,
+  "excluded_domain": 1
+ },
+ "passed": [
+  {
+   "event": "empires",
+   "name": "emp_kaiser_1919",
+   "flag": "name-type rebuild of the dev item",
+   "truth_opt": "President Ebert",
+   "guesser_p_truth": 0.0,
+   "guesser_top_bet": "Kaiser Wilhelm",
+   "guesser_top_p": 0.988,
+   "witness_p_truth": 0.776,
+   "witness_top_bet": "President Ebert",
+   "gap": 9.84
+  },
+  {
+   "event": "hyperinflation",
+   "name": "infl_end",
+   "flag": "held-out replication (0->82%)",
+   "truth_opt": "Rentenmark",
+   "guesser_p_truth": 0.001,
+   "guesser_top_bet": "Goldmark",
+   "guesser_top_p": 0.555,
+   "witness_p_truth": 0.719,
+   "witness_top_bet": "Rentenmark",
+   "gap": 6.77
+  },
+  {
+   "event": "world_war",
+   "name": "war_us_entry",
+   "flag": "",
+   "truth_opt": "the United States",
+   "guesser_p_truth": 0.562,
+   "guesser_top_bet": "the United States",
+   "guesser_top_p": 0.562,
+   "witness_p_truth": 0.917,
+   "witness_top_bet": "the United States",
+   "gap": 0.49
+  },
+  {
+   "event": "revolution",
+   "name": "rev_debts",
+   "flag": "the French bondholder's nightmare — was repudiation in the 1913 picture?",
+   "truth_opt": "repudiated by the new rulers",
+   "guesser_p_truth": 0.804,
+   "guesser_top_bet": "repudiated by the new rulers",
+   "guesser_top_p": 0.804,
+   "witness_p_truth": 0.985,
+   "witness_top_bet": "repudiated by the new rulers",
+   "gap": 0.2
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_rescuer",
+   "flag": "Morgan prior from 1895 expected — a foreseen-in-kind item",
+   "truth_opt": "Mister Morgan",
+   "guesser_p_truth": 0.769,
+   "guesser_top_bet": "Mister Morgan",
+   "guesser_top_p": 0.769,
+   "witness_p_truth": 0.788,
+   "witness_top_bet": "Mister Morgan",
+   "gap": 0.02
+  },
+  {
+   "event": "world_war",
+   "name": "war_breadth",
+   "flag": "",
+   "truth_opt": "nearly every great power on earth",
+   "guesser_p_truth": 0.987,
+   "guesser_top_bet": "nearly every great power on earth",
+   "guesser_top_p": 0.987,
+   "witness_p_truth": 0.997,
+   "witness_top_bet": "nearly every great power on earth",
+   "gap": 0.01
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_severity",
+   "flag": "",
+   "truth_opt": "sharper than any panic in memory",
+   "guesser_p_truth": 0.974,
+   "guesser_top_bet": "sharper than any panic in memory",
+   "guesser_top_p": 0.974,
+   "witness_p_truth": 0.847,
+   "witness_top_bet": "sharper than any panic in memory",
+   "gap": -0.14
+  }
+ ],
+ "dropped": [
+  {
+   "event": "revolution",
+   "name": "rev_tsar_fate",
+   "flag": "pilot replication: deposition foreseen, execution not",
+   "truth_opt": "been put to death with all his family",
+   "guesser_p_truth": 0.001,
+   "guesser_top_bet": "been driven from his throne",
+   "guesser_top_p": 0.998,
+   "witness_p_truth": 0.015,
+   "witness_top_bet": "been driven from his throne",
+   "gap": 2.71
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_first_to_fail",
+   "flag": "",
+   "truth_opt": "the trust companies",
+   "guesser_p_truth": 0.052,
+   "guesser_top_bet": "the national banks",
+   "guesser_top_p": 0.586,
+   "witness_p_truth": 0.13,
+   "witness_top_bet": "the national banks",
+   "gap": 0.92
+  },
+  {
+   "event": "revolution",
+   "name": "rev_who_rules",
+   "flag": "",
+   "truth_opt": "the socialists of the extreme wing",
+   "guesser_p_truth": 0.021,
+   "guesser_top_bet": "the liberals of the parliament",
+   "guesser_top_p": 0.525,
+   "witness_p_truth": 0.043,
+   "witness_top_bet": "the generals of the old army",
+   "gap": 0.72
+  }
+ ],
+ "memoir_only_no_witness": [
+  {
+   "event": "depression",
+   "name": "dep_course",
+   "flag": "MEMOIR-ONLY. Prediction: the recovery template",
+   "truth_opt": "sunk deeper year after year",
+   "guesser_p_truth": 0.134,
+   "guesser_top_bet": "stood still, neither better nor worse",
+   "guesser_top_p": 0.61,
+   "witness_p_truth": null,
+   "witness_top_bet": null,
+   "gap": null
+  },
+  {
+   "event": "depression",
+   "name": "dep_unemployed",
+   "flag": "MEMOIR-ONLY",
+   "truth_opt": "one man in every four",
+   "guesser_p_truth": 0.294,
+   "guesser_top_bet": "one man in every ten",
+   "guesser_top_p": 0.307,
+   "witness_p_truth": null,
+   "witness_top_bet": null,
+   "gap": null
+  },
+  {
+   "event": "depression",
+   "name": "dep_banks",
+   "flag": "MEMOIR-ONLY. Prediction: the Federal Reserve holds",
+   "truth_opt": "failed by the hundred and thousand",
+   "guesser_p_truth": 0.052,
+   "guesser_top_bet": "stood firm behind the Federal Reserve",
+   "guesser_top_p": 0.935,
+   "witness_p_truth": null,
+   "witness_top_bet": null,
+   "gap": null
+  },
+  {
+   "event": "depression",
+   "name": "dep_gold",
+   "flag": "MEMOIR-ONLY",
+   "truth_opt": "been abandoned by Britain and America",
+   "guesser_p_truth": 0.816,
+   "guesser_top_bet": "been abandoned by Britain and America",
+   "guesser_top_p": 0.816,
+   "witness_p_truth": null,
+   "witness_top_bet": null,
+   "gap": null
+  },
+  {
+   "event": "nazi_seizure",
+   "name": "nazi_republic_fate",
+   "flag": "MEMOIR-ONLY. Prediction: survival or monarchy",
+   "truth_opt": "given way to a dictatorship",
+   "guesser_p_truth": 0.834,
+   "guesser_top_bet": "given way to a dictatorship",
+   "guesser_top_p": 0.834,
+   "witness_p_truth": null,
+   "witness_top_bet": null,
+   "gap": null
+  },
+  {
+   "event": "nazi_seizure",
+   "name": "nazi_who_rules",
+   "flag": "MEMOIR-ONLY + anomaly check: does the 1929 memoir produce the NAME?",
+   "truth_opt": "Hitler",
+   "guesser_p_truth": 0.221,
+   "guesser_top_bet": "Wilhelm",
+   "guesser_top_p": 0.451,
+   "witness_p_truth": null,
+   "witness_top_bet": null,
+   "gap": null
+  },
+  {
+   "event": "nazi_seizure",
+   "name": "nazi_path",
+   "flag": "MEMOIR-ONLY. Prediction: the putsch template",
+   "truth_opt": "by appointment within the law",
+   "guesser_p_truth": 0.0,
+   "guesser_top_bet": "by an armed march on Berlin",
+   "guesser_top_p": 0.642,
+   "witness_p_truth": null,
+   "witness_top_bet": null,
+   "gap": null
+  }
+ ],
+ "event_mean_gap_before_gate": {
+  "panic_1907": {
+   "mean_gap": 0.267,
+   "n": 3,
+   "items": [
+    "panic_first_to_fail",
+    "panic_severity",
+    "panic_rescuer"
+   ]
+  },
+  "world_war": {
+   "mean_gap": 0.25,
+   "n": 2,
+   "items": [
+    "war_breadth",
+    "war_us_entry"
+   ]
+  },
+  "empires": {
+   "mean_gap": 9.84,
+   "n": 1,
+   "items": [
+    "emp_kaiser_1919"
+   ]
+  },
+  "revolution": {
+   "mean_gap": 1.21,
+   "n": 3,
+   "items": [
+    "rev_tsar_fate",
+    "rev_who_rules",
+    "rev_debts"
+   ]
+  },
+  "hyperinflation": {
+   "mean_gap": 6.77,
+   "n": 1,
+   "items": [
+    "infl_end"
+   ]
+  }
+ },
+ "event_mean_gap_after_gate": {
+  "panic_1907": {
+   "mean_gap": -0.06,
+   "n": 2,
+   "items": [
+    "panic_severity",
+    "panic_rescuer"
+   ]
+  },
+  "world_war": {
+   "mean_gap": 0.25,
+   "n": 2,
+   "items": [
+    "war_breadth",
+    "war_us_entry"
+   ]
+  },
+  "empires": {
+   "mean_gap": 9.84,
+   "n": 1,
+   "items": [
+    "emp_kaiser_1919"
+   ]
+  },
+  "revolution": {
+   "mean_gap": 0.2,
+   "n": 1,
+   "items": [
+    "rev_debts"
+   ]
+  },
+  "hyperinflation": {
+   "mean_gap": 6.77,
+   "n": 1,
+   "items": [
+    "infl_end"
+   ]
+  }
+ }
+}

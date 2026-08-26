@@ -1,0 +1,157 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Frame probe v3 — normal / broke / unthinkable</title><style>
+:root{--ink:#1a2230;--mut:#5c6675;--line:#e6e9ef;--bg:#f6f8fa}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,Segoe UI,Roboto,Arial,sans-serif}
+.wrap{max-width:1020px;margin:0 auto;padding:46px 26px 100px}
+h1{font:700 28px/1.2 Georgia,serif;margin:0 0 6px}.sub{color:var(--mut);margin:0 0 22px}
+h2{font:700 21px Georgia,serif;margin:44px 0 6px;padding-top:15px;border-top:1px solid var(--line)}h2 .n{color:#9aa3af;font-weight:400;margin-right:8px}
+h3{font:700 16px Georgia,serif;margin:22px 0 4px}p{color:#2b3340}.lead{font-size:15px}
+.callout{background:#eef4ff;border:1px solid #cfe0ff;border-left:5px solid #2b5dab;border-radius:10px;padding:14px 18px;margin:14px 0;font-size:14.5px}
+.fm{background:#fdecec;border:1px solid #f6c9c9;border-left:5px solid #c0392b}
+.neg{background:#fff7ed;border:1px solid #fed7aa;border-left:5px solid #ea8a3c}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:12px 0;font-size:13.5px}
+th,td{padding:8px 11px;text-align:left;border-bottom:1px solid var(--line)}th{background:#eef2f7;color:#3a4252;font:600 12px sans-serif;text-transform:uppercase;letter-spacing:.4px}
+tr:last-child td{border-bottom:none}.num{text-align:right;font-variant-numeric:tabular-nums}.lab{font-weight:600;background:#f8fafc}
+.pill{display:inline-block;padding:2px 8px;border-radius:20px;font:700 10.5px sans-serif}
+.pill.green{background:#e4f6ea;color:#1f7a47}.pill.red{background:#fbe3e3;color:#b32424}.pill.amber{background:#fcefd6;color:#9a6700}.pill.grey{background:#eceff3;color:#5c6675}
+.clshdr td{background:#f0f3f8;font-weight:700;color:#3a4252;font-size:12px;text-transform:uppercase;letter-spacing:.4px}
+.gen{background:#fff;border:1px solid var(--line);border-radius:10px;padding:12px 15px;margin:9px 0}
+.gen .plant{font-weight:600}.gen .out{display:block;margin:3px 0 8px;padding:7px 11px;background:#f6f8fb;border-left:3px solid #cfd8e6;border-radius:6px;font-size:13px;color:#33405a;white-space:pre-wrap}
+.tag{display:inline-block;padding:1px 7px;border-radius:5px;font:700 10px sans-serif;color:#fff;vertical-align:middle}
+.legend{font-size:12.5px;color:var(--mut);margin:4px 0 0}.foot{color:var(--mut);font-size:12.5px;margin-top:42px;border-top:1px solid var(--line);padding-top:14px}
+code{background:#eef2f7;padding:1px 5px;border-radius:4px;font-size:13px}
+</style></head><body><div class=wrap>
+<h1>Normal, broken, or unthinkable — judged by what the frame writes</h1>
+<p class=sub>Ranke-4B 1900 · 1913 · 1929 (base). 13 ideas × 4 phrasings; free continuations classified by Gemini-3.5-flash (EXTENDS / REVERTS / DISTORTS / STALLS). Honest scope: the era's written-corpus frame, not minds.</p>
+<div class=callout><b>Headline.</b> Recognition is not the test — <b>production</b> is. Told a fact, the model can parse it; the question is whether it can <i>run forward</i>. <span class="pill green">EXTENDS</span> develops the fact. <span class="pill amber">REVERTS</span> the old default creeps back (a woman leader becomes a man). <span class="pill red">DISTORTS</span> the fact is rewritten into something familiar (a city-killing bomb becomes a house fire). <span class="pill grey">STALLS</span> it leaves no trace. Result: <b>controls run forward in every era; boundary ideas climb revert→extend from 1900 to 1929; genuinely-future ideas distort or stall in all three, never assimilating.</b></div>
+<h2><span class=n>1</span>The shape of it</h2>
+<p class=lead>Each line is an idea; height is the share of its free continuations the judge calls EXTENDS — i.e. how well the frame runs forward from it. The grey band is the period-normal controls. <span style="color:#2b6cb0;font-weight:700">Boundary ideas climb into the band</span> across 1900→1929; <span style="color:#c0392b;font-weight:700">genuinely-future ideas stay pinned to the floor</span>.</p>
+<svg viewBox="0 0 940 430" style="width:100%;height:auto;border:1px solid #e6e9ef;border-radius:10px;background:#fff"><text x="379.0" y="18" text-anchor="middle" style="font:700 14px Georgia,serif;fill:#1a2230">Can the frame run forward from the idea? (share of free continuations judged EXTENDS)</text><polygon points="50.0,28.0 379.0,207.0 708.0,207.0 708.0,386.0 379.0,207.0 50.0,207.0" fill="#7c869422"/><line x1="50" x2="708" y1="386.0" y2="386.0" stroke="#eef2f6"/><text x="44" y="389.0" text-anchor="end" style="font:10px sans-serif;fill:#9aa3af">0%</text><line x1="50" x2="708" y1="296.5" y2="296.5" stroke="#eef2f6"/><text x="44" y="299.5" text-anchor="end" style="font:10px sans-serif;fill:#9aa3af">25%</text><line x1="50" x2="708" y1="207.0" y2="207.0" stroke="#eef2f6"/><text x="44" y="210.0" text-anchor="end" style="font:10px sans-serif;fill:#9aa3af">50%</text><line x1="50" x2="708" y1="117.5" y2="117.5" stroke="#eef2f6"/><text x="44" y="120.5" text-anchor="end" style="font:10px sans-serif;fill:#9aa3af">75%</text><line x1="50" x2="708" y1="28.0" y2="28.0" stroke="#eef2f6"/><text x="44" y="31.0" text-anchor="end" style="font:10px sans-serif;fill:#9aa3af">100%</text><text x="50.0" y="404.0" text-anchor="middle" style="font:600 12px sans-serif;fill:#52637a">Ranke-1900</text><text x="379.0" y="404.0" text-anchor="middle" style="font:600 12px sans-serif;fill:#52637a">Ranke-1913</text><text x="708.0" y="404.0" text-anchor="middle" style="font:600 12px sans-serif;fill:#52637a">Ranke-1929</text><polyline points="50.0,386.0 379.0,207.0 708.0,28.0" fill="none" stroke="#2b6cb0" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#2b6cb0"/><circle cx="379.0" cy="207.0" r="3" fill="#2b6cb0"/><circle cx="708.0" cy="28.0" r="3" fill="#2b6cb0"/><text x="716.0" y="31.0" style="font:11px sans-serif;fill:#2b6cb0">A woman leads the bank</text><polyline points="50.0,386.0 379.0,207.0 708.0,207.0" fill="none" stroke="#2b6cb0" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#2b6cb0"/><circle cx="379.0" cy="207.0" r="3" fill="#2b6cb0"/><circle cx="708.0" cy="207.0" r="3" fill="#2b6cb0"/><text x="716.0" y="210.0" style="font:11px sans-serif;fill:#2b6cb0">Humans fly the ocean</text><polyline points="50.0,207.0 379.0,207.0 708.0,28.0" fill="none" stroke="#2b6cb0" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="207.0" r="3" fill="#2b6cb0"/><circle cx="379.0" cy="207.0" r="3" fill="#2b6cb0"/><circle cx="708.0" cy="28.0" r="3" fill="#2b6cb0"/><text x="716.0" y="43.0" style="font:11px sans-serif;fill:#2b6cb0">A great empire falls</text><polyline points="50.0,386.0 379.0,207.0 708.0,28.0" fill="none" stroke="#2b6cb0" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#2b6cb0"/><circle cx="379.0" cy="207.0" r="3" fill="#2b6cb0"/><circle cx="708.0" cy="28.0" r="3" fill="#2b6cb0"/><text x="716.0" y="55.0" style="font:11px sans-serif;fill:#2b6cb0">Voices through the air (radio)</text><polyline points="50.0,386.0 379.0,386.0 708.0,386.0" fill="none" stroke="#c0392b" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="379.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="708.0" cy="386.0" r="3" fill="#c0392b"/><text x="716.0" y="389.0" style="font:11px sans-serif;fill:#c0392b">A machine that thinks</text><polyline points="50.0,386.0 379.0,386.0 708.0,207.0" fill="none" stroke="#c0392b" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="379.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="708.0" cy="207.0" r="3" fill="#c0392b"/><text x="716.0" y="222.0" style="font:11px sans-serif;fill:#c0392b">One bomb destroys a city</text><polyline points="50.0,386.0 379.0,207.0 708.0,386.0" fill="none" stroke="#c0392b" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="379.0" cy="207.0" r="3" fill="#c0392b"/><circle cx="708.0" cy="386.0" r="3" fill="#c0392b"/><text x="716.0" y="401.0" style="font:11px sans-serif;fill:#c0392b">Living faces sent into the home</text><polyline points="50.0,386.0 379.0,386.0 708.0,386.0" fill="none" stroke="#c0392b" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="379.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="708.0" cy="386.0" r="3" fill="#c0392b"/><text x="716.0" y="413.0" style="font:11px sans-serif;fill:#c0392b">The code of life rewritten</text><polyline points="50.0,386.0 379.0,386.0 708.0,386.0" fill="none" stroke="#c0392b" stroke-width="2.2" opacity="0.85"/><circle cx="50.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="379.0" cy="386.0" r="3" fill="#c0392b"/><circle cx="708.0" cy="386.0" r="3" fill="#c0392b"/><text x="716.0" y="425.0" style="font:11px sans-serif;fill:#c0392b">Men walk on the moon</text><text x="708.0" y="201.0" text-anchor="end" style="font:italic 10px sans-serif;fill:#7c8694">control band</text></svg>
+<p class=legend>Class means (EXTENDS share): controls [0.62, 0.5, 0.38], boundary [0.12, 0.5, 0.88], unthinkable [0.0, 0.1, 0.1] across 1900/1913/1929.</p>
+<h2><span class=n>2</span>Production trichotomy — what each idea becomes (use-it)</h2>
+<table><thead><tr><th>idea</th><th>Ranke-1900</th><th>Ranke-1913</th><th>Ranke-1929</th></tr></thead><tbody>
+<tr class=clshdr><td colspan=4>Period-normal controls</td></tr>
+<tr><td class=lab>Son inherits the firm</td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 2</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#d98a00">reve 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#d98a00">reve 1</span></span></td>
+</tr>
+<tr><td class=lab>A new railway opens</td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#c0392b">dist 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#c0392b">dist 1</span></span></td>
+<td><span class="pill red">DISTORTS</span><br><span class=legend><span class=tag style="background:#d98a00">reve 1</span> <span class=tag style="background:#c0392b">dist 1</span></span></td>
+</tr>
+<tr><td class=lab>Prince crowned at king&#x27;s death</td>
+<td><span class="pill amber">REVERTS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#d98a00">reve 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#c0392b">dist 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+</tr>
+<tr><td class=lab>Powers sign a peace treaty</td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#d98a00">reve 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+</tr>
+<tr class=clshdr><td colspan=4>Became thinkable 1900→1929</td></tr>
+<tr><td class=lab>A woman leads the bank</td>
+<td><span class="pill amber">REVERTS</span><br><span class=legend><span class=tag style="background:#d98a00">reve 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill amber">REVERTS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#d98a00">reve 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 2</span></span></td>
+</tr>
+<tr><td class=lab>Humans fly the ocean</td>
+<td><span class="pill red">DISTORTS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+</tr>
+<tr><td class=lab>A great empire falls</td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#d98a00">reve 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 2</span></span></td>
+</tr>
+<tr><td class=lab>Voices through the air (radio)</td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#6b7280">stal 2</span></span></td>
+<td><span class="pill red">DISTORTS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#c0392b">dist 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 2</span></span></td>
+</tr>
+<tr class=clshdr><td colspan=4>Genuinely beyond all three eras (post-1929)</td></tr>
+<tr><td class=lab>A machine that thinks</td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill red">DISTORTS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 2</span></span></td>
+<td><span class="pill red">DISTORTS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 2</span></span></td>
+</tr>
+<tr><td class=lab>One bomb destroys a city</td>
+<td><span class="pill red">DISTORTS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 2</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#c0392b">dist 1</span></span></td>
+</tr>
+<tr><td class=lab>Living faces sent into the home</td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#6b7280">stal 2</span></span></td>
+<td><span class="pill green">EXTENDS</span><br><span class=legend><span class=tag style="background:#2e9e5b">exte 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#6b7280">stal 2</span></span></td>
+</tr>
+<tr><td class=lab>The code of life rewritten</td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#6b7280">stal 2</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+</tr>
+<tr><td class=lab>Men walk on the moon</td>
+<td><span class="pill red">DISTORTS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 2</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+<td><span class="pill grey">STALLS</span><br><span class=legend><span class=tag style="background:#c0392b">dist 1</span> <span class=tag style="background:#6b7280">stal 1</span></span></td>
+</tr>
+</tbody></table>
+<p class=legend>Majority of the two use-it continuations per cell. "EXTENDS" = the frame assimilated the idea; "DISTORTS"/"STALLS" = it could not (rewrote it, or drifted off).</p>
+<h2><span class=n>3</span>The field-marshal move — fluent distortion of the unthinkable</h2>
+<div class="callout fm">When the frame cannot hold an idea but will not fall silent, it <b>rewrites the idea into something it already knows</b> — confident, detailed, and wrong. This is the sharpest signal that a fact is outside the world, not merely new. Below: the genuinely-future ideas, as the 1900 frame renders them.</div>
+<div class=gen><div class=plant>&ldquo;A single bomb destroyed an entire city in a flash of light.&rdquo; <span class=tag style="background:#c0392b">DISTORTS</span> <span class=legend>atomic blast rewritten as an ordinary fire</span></div><span class=out>the whole population, like one man, rushed to arms and took up their line Of march for the scene OF action.
+The firemen were called out by the bells; they came with buckets full of water, but it would</span></div>
+<div class=gen><div class=plant>&ldquo;A machine was built that could think and reason like a man.&rdquo; <span class=tag style="background:#6b7280">STALLS</span> <span class=legend>drifts to taxation, ignoring the machine</span></div><span class=out>the people of the United States were not only to be taxed, but they must pay for it.
+The next step in the process of taxation is to tax men who do nothing; then there are those who have no property except</span></div>
+<div class=gen><div class=plant>&ldquo;Men left the earth and walked upon the face of the moon.&rdquo; <span class=tag style="background:#c0392b">DISTORTS</span> <span class=legend>moon voyage rewritten as terrestrial disasters</span></div><span class=out>they were not able to see each other, but only heard one another&#x27;s voices.
+The first thing which happened after their departure was a great earthquake; then came an inundation in Egypt, by means of which all the inhabitants</span></div>
+<div class=gen><div class=plant>&ldquo;Living faces and voices were sent through the air into every home.&rdquo; <span class=tag style="background:#6b7280">STALLS</span> <span class=legend>drifts to weather and taking baths in July</span></div><span class=out>there would be no more trouble about the weather, but it is not so now.
+
+The first thing to do in order to keep cool during July is to take a bath once or twice daily. The best way of doing this</span></div>
+<h2><span class=n>4</span>Reversion in the authority ideas (hold-it probe)</h2>
+<p>For ideas about <i>who holds power</i>, the hold-it probe (plant the fact, add distance, then &ldquo;the one who truly held the highest place was…&rdquo;) tests whether the figure survives or the old default returns. Watch the woman: the man comes back in 1900/1913, and only by 1929 does she hold the chair.</p>
+<h3>A woman leads the bank</h3>
+<div class=gen><div class=legend><b>Ranke-1900</b> <span class=tag style="background:#d98a00">REVERTS</span> woman leader replaced by her husband</div><span class=out>…the one who truly held the highest place was not there, but she had sent her husband.
+
+The man of business looked at his watch.
+He knew that he must be in town by nine o&#x27;clock. He would have been glad if it were ten or twelve; for</span></div>
+<div class=gen><div class=legend><b>Ranke-1913</b> <span class=tag style="background:#d98a00">REVERTS</span> woman replaced by a man</div><span class=out>…the one who truly held the highest place was a man of middle age, with gray hair and beard; his face was thin.
+and he had an anxious look in it.
+
+The other two were young men OF twenty-five or thirty years each. They looked like brothers,</span></div>
+<div class=gen><div class=legend><b>Ranke-1929</b> <span class=tag style="background:#d98a00">REVERTS</span> woman replaced by a man</div><span class=out>…the one who truly held the highest place was a man of middle age, with gray hair and beard, but still vigorous in body and mind.
+
+He had been an officer In the army.
+and he wore his uniform when he entered the room where sat the directors Of the</span></div>
+<h3>A great empire falls</h3>
+<div class=gen><div class=legend><b>Ranke-1900</b> <span class=tag style="background:#6b7280">STALLS</span> drifts to an unrelated person in Stamboul</div><span class=out>…the one who truly held the highest place was he whose name had been on every tongue for a year.
+He stood in his own garden at Stamboul; but it was not there that he looked out upon the sea or saw the sun rise from behind the purple hills</span></div>
+<div class=gen><div class=legend><b>Ranke-1913</b> <span class=tag style="background:#6b7280">STALLS</span> drifts to an unrelated man who loved England</div><span class=out>…the one who truly held the highest place was a man with whom we had little in common.
+He was not an Englishman; he spoke our language imperfectly, but his heart beat true to us all through it. He loved England because she is the home of liberty</span></div>
+<div class=gen><div class=legend><b>Ranke-1929</b> <span class=tag style="background:#d98a00">REVERTS</span> reverts power to the Tsarina Alexandra Feodorovna</div><span class=out>…the one who truly held the highest place was not a man but woman.
+She had been born in an obscure village on the outskirts Of Moscow; she lived there all her life, working for others with unselfish devotion.
+
+Her name was Alexandra Feodorovna K</span></div>
+<h2><span class=n>5</span>Why the obvious probe failed (the forced choice)</h2>
+<div class="callout neg">The first plan was a forced choice: offered the fact-consistent vs the default completion, which does the model prefer? It <b>does not discriminate</b>. Once a fact is stated, the model holds it at the probe almost regardless of whether the idea is normal or absurd — it is reading comprehension of the planted sentence, not assimilation. Lift over the no-fact baseline (registration = pref_near−pref0, retention = pref_far−pref0): the genuinely-future ideas register and retain as strongly as the controls — yet their production (§2) distorts or stalls. Recognition ≠ production.</div>
+<table><thead><tr><th>idea</th><th>class</th><th class=num>1900 reg</th><th class=num>1900 ret</th><th class=num>1913 reg</th><th class=num>1913 ret</th><th class=num>1929 reg</th><th class=num>1929 ret</th><th>production (1900)</th></tr></thead><tbody>
+<tr><td class=lab>Son inherits the firm</td><td>control</td><td class=num>+1.1</td><td class=num>+0.4</td><td class=num>+1.8</td><td class=num>+2.0</td><td class=num>+1.2</td><td class=num>+1.6</td><td><span class="pill green">EXTENDS</span></td></tr>
+<tr><td class=lab>A new railway opens</td><td>control</td><td class=num>+1.3</td><td class=num>+1.6</td><td class=num>+2.2</td><td class=num>+1.5</td><td class=num>+3.3</td><td class=num>+3.0</td><td><span class="pill green">EXTENDS</span></td></tr>
+<tr><td class=lab>Prince crowned at king&#x27;s death</td><td>control</td><td class=num>+1.6</td><td class=num>+0.7</td><td class=num>+1.2</td><td class=num>+1.5</td><td class=num>+0.6</td><td class=num>+1.0</td><td><span class="pill amber">REVERTS</span></td></tr>
+<tr><td class=lab>Powers sign a peace treaty</td><td>control</td><td class=num>+1.4</td><td class=num>+0.6</td><td class=num>+1.6</td><td class=num>+0.7</td><td class=num>+2.1</td><td class=num>-0.2</td><td><span class="pill green">EXTENDS</span></td></tr>
+<tr><td class=lab>A woman leads the bank</td><td>boundary</td><td class=num>+2.2</td><td class=num>+0.8</td><td class=num>+4.3</td><td class=num>+4.9</td><td class=num>+4.7</td><td class=num>+5.7</td><td><span class="pill amber">REVERTS</span></td></tr>
+<tr><td class=lab>Humans fly the ocean</td><td>boundary</td><td class=num>+2.0</td><td class=num>+2.6</td><td class=num>+2.2</td><td class=num>+3.4</td><td class=num>+3.1</td><td class=num>+3.4</td><td><span class="pill red">DISTORTS</span></td></tr>
+<tr><td class=lab>A great empire falls</td><td>boundary</td><td class=num>-1.0</td><td class=num>-0.8</td><td class=num>-0.6</td><td class=num>-0.1</td><td class=num>+1.5</td><td class=num>+1.6</td><td><span class="pill green">EXTENDS</span></td></tr>
+<tr><td class=lab>Voices through the air (radio)</td><td>boundary</td><td class=num>+4.1</td><td class=num>+2.6</td><td class=num>+3.4</td><td class=num>+2.0</td><td class=num>+3.7</td><td class=num>+2.4</td><td><span class="pill grey">STALLS</span></td></tr>
+<tr><td class=lab>A machine that thinks</td><td>unthinkable</td><td class=num>+4.5</td><td class=num>+2.3</td><td class=num>+4.3</td><td class=num>+1.8</td><td class=num>+3.5</td><td class=num>+2.5</td><td><span class="pill grey">STALLS</span></td></tr>
+<tr><td class=lab>One bomb destroys a city</td><td>unthinkable</td><td class=num>+5.7</td><td class=num>+5.4</td><td class=num>+5.9</td><td class=num>+5.9</td><td class=num>+4.6</td><td class=num>+4.3</td><td><span class="pill red">DISTORTS</span></td></tr>
+<tr><td class=lab>Living faces sent into the home</td><td>unthinkable</td><td class=num>-0.3</td><td class=num>-0.7</td><td class=num>+1.0</td><td class=num>+1.7</td><td class=num>+0.2</td><td class=num>+1.2</td><td><span class="pill grey">STALLS</span></td></tr>
+<tr><td class=lab>The code of life rewritten</td><td>unthinkable</td><td class=num>+2.1</td><td class=num>+1.8</td><td class=num>+1.8</td><td class=num>+2.5</td><td class=num>+1.7</td><td class=num>+2.3</td><td><span class="pill grey">STALLS</span></td></tr>
+<tr><td class=lab>Men walk on the moon</td><td>unthinkable</td><td class=num>+3.5</td><td class=num>+6.8</td><td class=num>+5.1</td><td class=num>+6.8</td><td class=num>+7.0</td><td class=num>+7.9</td><td><span class="pill red">DISTORTS</span></td></tr>
+</tbody></table>
+<h2><span class=n>6</span>Method &amp; honest limits</h2>
+<div class=callout>Base models only (Instruct = modern contamination). 4 phrasings/idea; greedy free continuations judged by Gemini-3.5-flash (batch), blind to class/era, forced to name each fact's key novelty and check its survival (flash-lite was too lenient and was rejected). Primary metric is the <b>use-it</b> continuation; the <b>hold-it</b> probe is diagnostic only for authority ideas (a non-sequitur for railway/atom, where it inflates stalls). <b>What this measures:</b> what the era's written-corpus frame can DO with an idea — extend, retain, or only mangle it — not anyone's mind. When the 1900 frame turns a city-killing bomb into a bucket brigade, it shows the 1900 record gave no way to carry that idea: a claim about the discursive horizon of the surviving text, stated as such. <b>Limits:</b> small n (2 use-it continuations/cell), a single judge, greedy decoding, control baseline noisier than ideal.</div>
+<div class=foot>Sources: <code>frame_probe_v2.json</code> + <code>frame_probe_judge.json</code> (Gemini-3.5-flash batch). Generated 2026-06-27 18:47 by <code>build_frame_report_v3.py</code>.</div>
+</div></body></html>

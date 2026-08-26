@@ -1,0 +1,425 @@
+model,cutoff,category,event,year,era,true,false,gap,correct
+Ranke-4B-1929,1929,US politics,POST,1960,post,32,24,-1.7521,0
+Ranke-4B-1929,1929,US politics,POST,1960,post,Little Boy,Fat Man,2.7144,1
+Ranke-4B-1929,1929,US politics,POST,1960,post,Fat Man,Little Boy,-2.5628,0
+Ranke-4B-1929,1929,US politics,POST,1960,post,Enola Gay,Bockscar,0.5561,1
+Ranke-4B-1929,1929,US politics,POST,1960,post,45,41,0.5,1
+Ranke-4B-1929,1929,US politics,POST,1960,post,Watergate,Teapot,-2.6827,0
+Ranke-4B-1929,1929,US politics,POST,1960,post,74,68,1.7219,1
+Ranke-4B-1929,1929,US politics,POST,1960,post,Oswald,Ruby,2.5,1
+Ranke-4B-1929,1929,US politics,POST,1960,post,63,61,-0.125,0
+Ranke-4B-1929,1929,US politics,POST,1960,post,Vietnamization,Detente,-0.9318,0
+Ranke-4B-1929,1929,US politics,POST,1960,post,75,65,0.6706,1
+Ranke-4B-1929,1929,US politics,POST,1960,post,Reaganomics,Clintonomics,5.1966,1
+Ranke-4B-1929,1929,US politics,POST,1960,post,08,00,-1.6875,0
+Ranke-4B-1929,1929,US politics,PRE,1850,pre,76,12,6.1251,1
+Ranke-4B-1929,1929,US politics,PRE,1850,pre,65,12,1.7999,1
+Ranke-4B-1929,1929,US politics,PRE,1850,pre,Louisiana,Florida,3.4375,1
+Ranke-4B-1929,1929,US politics,PRE,1850,pre,Richmond,Atlanta,3.0,1
+Ranke-4B-1929,1929,US politics,PRE,1850,pre,Mexico,Spain,1.8125,1
+Ranke-4B-1929,1929,UK politics,POST,1960,post,40,22,-1.696,0
+Ranke-4B-1929,1929,UK politics,POST,1960,post,Curtain,Wall,4.0938,1
+Ranke-4B-1929,1929,UK politics,POST,1960,post,Attlee,Bevin,-6.5197,0
+Ranke-4B-1929,1929,UK politics,POST,1960,post,48,32,-1.7797,0
+Ranke-4B-1929,1929,UK politics,POST,1960,post,56,36,-0.3887,0
+Ranke-4B-1929,1929,UK politics,POST,1960,post,82,56,-0.9669,0
+Ranke-4B-1929,1929,UK politics,POST,1960,post,16,04,2.5695,1
+Ranke-4B-1929,1929,UK politics,POST,1960,post,79,64,1.365,1
+Ranke-4B-1929,1929,UK politics,PRE,1850,pre,Nelson,Howe,14.375,1
+Ranke-4B-1929,1929,UK politics,PRE,1850,pre,Waterloo,Leipzig,3.5,1
+Ranke-4B-1929,1929,UK politics,PRE,1850,pre,Scotland,Ireland,3.625,1
+Ranke-4B-1929,1929,UK politics,PRE,1850,pre,Victoria,Adelaide,3.9062,1
+Ranke-4B-1929,1929,France politics,POST,1960,post,Fifth,Fourth,-1.8164,0
+Ranke-4B-1929,1929,France politics,POST,1960,post,58,44,1.1519,1
+Ranke-4B-1929,1929,France politics,POST,1960,post,68,48,-1.7615,0
+Ranke-4B-1929,1929,France politics,POST,1960,post,62,46,0.1969,1
+Ranke-4B-1929,1929,France politics,POST,1960,post,40,14,-4.8951,0
+Ranke-4B-1929,1929,France politics,POST,1960,post,TGV,AVE,-4.5626,0
+Ranke-4B-1929,1929,France politics,POST,1960,post,60,45,0.0134,1
+Ranke-4B-1929,1929,France politics,PRE,1850,pre,Bastille,La Force,4.8492,1
+Ranke-4B-1929,1929,France politics,PRE,1850,pre,89,76,4.3053,1
+Ranke-4B-1929,1929,France politics,PRE,1850,pre,04,12,-5.6283,0
+Ranke-4B-1929,1929,France politics,PRE,1850,pre,Robespierre,Mirabeau,9.4656,1
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,Barbarossa,Sealion,11.2843,1
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,Blitzkrieg,Schwerpunkt,-1.1135,0
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,39,33,-0.125,0
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,Rommel,Manstein,-2.7571,0
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,Kristallnacht,Anschluss,-14.0934,0
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,61,45,-0.7946,0
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,89,79,-1.3323,0
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,Charlie,Bravo,-0.1094,0
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,90,45,3.2436,1
+Ranke-4B-1929,1929,Germany politics,POST,1960,post,05,98,1.0462,1
+Ranke-4B-1929,1929,Germany politics,PRE,1850,pre,Bismarck,Falkenhayn,11.7309,1
+Ranke-4B-1929,1929,Germany politics,PRE,1850,pre,Leipzig,Dresden,2.1875,1
+Ranke-4B-1929,1929,Germany politics,PRE,1850,pre,Frankfurt,Vienna,2.6875,1
+Ranke-4B-1929,1929,Germany politics,PRE,1850,pre,Potsdam,Charlottenburg,4.1242,1
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,glasnost,perestroika,5.2447,1
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,perestroika,glasnost,-5.9743,0
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,91,85,1.1171,1
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,57,49,0.4729,1
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,37,17,-4.0803,0
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,Pact,Accord,6.25,1
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,86,76,-2.5694,0
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,61,53,-1.1601,0
+Ranke-4B-1929,1929,Russia politics,POST,1960,post,79,56,0.7637,1
+Ranke-4B-1929,1929,Russia politics,PRE,1850,pre,Napoleon,Charles,2.6562,1
+Ranke-4B-1929,1929,Russia politics,PRE,1850,pre,Petersburg,Peter,4.375,1
+Ranke-4B-1929,1929,Russia politics,PRE,1850,pre,Great,Wise,11.4219,1
+Ranke-4B-1929,1929,Italy politics,POST,1960,post,43,22,-4.22,0
+Ranke-4B-1929,1929,Italy politics,POST,1960,post,46,22,-2.1579,0
+Ranke-4B-1929,1929,Italy politics,POST,1960,post,Moro,Andreotti,4.5284,1
+Ranke-4B-1929,1929,Italy politics,POST,1960,post,Berlusconi,Ciampi,-9.2685,0
+Ranke-4B-1929,1929,Italy politics,POST,1960,post,02,92,0.166,1
+Ranke-4B-1929,1929,Italy politics,POST,1960,post,06,82,1.1996,1
+Ranke-4B-1929,1929,Italy politics,PRE,1850,pre,Garibaldi,Mazzini,5.7566,1
+Ranke-4B-1929,1929,Italy politics,PRE,1850,pre,70,15,0.7478,1
+Ranke-4B-1929,1929,Italy politics,PRE,1850,pre,Florence,Venice,-0.5625,0
+Ranke-4B-1929,1929,Spain politics,POST,1960,post,36,14,-1.3626,0
+Ranke-4B-1929,1929,Spain politics,POST,1960,post,75,45,1.2108,1
+Ranke-4B-1929,1929,Spain politics,POST,1960,post,ETA,IRA,-3.7441,0
+Ranke-4B-1929,1929,Spain politics,POST,1960,post,86,57,-0.8534,0
+Ranke-4B-1929,1929,Spain politics,POST,1960,post,10,82,8.2234,1
+Ranke-4B-1929,1929,Spain politics,POST,1960,post,al-Qaeda,FARC,0.7708,1
+Ranke-4B-1929,1929,Spain politics,PRE,1850,pre,II,III,1.3125,1
+Ranke-4B-1929,1929,Culture,POST,1960,post,Fifth,Third,0.9453,1
+Ranke-4B-1929,1929,Culture,POST,1960,post,1984,2001,0.4712,1
+Ranke-4B-1929,1929,Culture,POST,1960,post,64,38,-1.7779,0
+Ranke-4B-1929,1929,Culture,POST,1960,post,Thriller,Invincible,-1.4008,0
+Ranke-4B-1929,1929,Culture,POST,1960,post,77,68,1.5394,1
+Ranke-4B-1929,1929,Culture,POST,1960,post,97,87,-0.0285,0
+Ranke-4B-1929,1929,Culture,POST,1960,post,37,14,-6.3335,0
+Ranke-4B-1929,1929,Culture,PRE,1850,pre,Shakespeare,Webster,7.9688,1
+Ranke-4B-1929,1929,Culture,PRE,1850,pre,Beethoven,Brahms,9.1778,1
+Ranke-4B-1929,1929,Science,POST,1960,post,53,43,1.2084,1
+Ranke-4B-1929,1929,Science,POST,1960,post,transistor,capacitor,2.375,1
+Ranke-4B-1929,1929,Science,POST,1960,post,38,28,-0.4157,0
+Ranke-4B-1929,1929,Science,POST,1960,post,52,42,2.0197,1
+Ranke-4B-1929,1929,Science,POST,1960,post,Armstrong,Glenn,-4.7227,0
+Ranke-4B-1929,1929,Science,POST,1960,post,69,61,0.125,1
+Ranke-4B-1929,1929,Science,POST,1960,post,11,13,-0.4375,0
+Ranke-4B-1929,1929,Science,POST,1960,post,Salk,Sabin,0.4375,1
+Ranke-4B-1929,1929,Science,POST,1960,post,Hawking,Penrose,-4.1191,0
+Ranke-4B-1929,1929,Science,POST,1960,post,Berners-Lee,Mockapetris,8.3432,1
+Ranke-4B-1929,1929,Science,PRE,1850,pre,Darwin,Owen,12.375,1
+Ranke-4B-1929,1929,Science,PRE,1850,pre,Newton,Boyle,9.0,1
+Ranke-4B-1929,1929,Science,PRE,1850,pre,Galileo,Cassini,3.7317,1
+Ranke-4B-1929,1929,Science,PRE,1850,pre,Copernicus,Herschel,0.8036,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,32,24,-1.6678,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,Little Boy,Fat Man,2.9689,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,Fat Man,Little Boy,-2.5943,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,Enola Gay,Bockscar,-0.6888,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,45,41,0.0938,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,Watergate,Teapot,2.6493,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,74,68,2.0967,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,Oswald,Ruby,2.6016,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,63,61,-0.3438,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,Vietnamization,Detente,-0.1966,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,75,65,0.662,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,Reaganomics,Clintonomics,7.3735,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,1960,post,08,00,-0.4062,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,1850,pre,76,12,11.8037,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,1850,pre,65,12,4.4828,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,1850,pre,Louisiana,Florida,5.8125,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,1850,pre,Richmond,Atlanta,3.9375,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,1850,pre,Mexico,Spain,2.375,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,40,22,-5.0208,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,Curtain,Wall,5.25,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,Attlee,Bevin,-4.8461,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,48,32,-1.9955,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,56,36,-0.8949,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,82,56,-3.7506,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,16,04,3.7291,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,1960,post,79,64,3.8247,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,1850,pre,Nelson,Howe,15.0234,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,1850,pre,Waterloo,Leipzig,3.25,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,1850,pre,Scotland,Ireland,4.8125,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,1850,pre,Victoria,Adelaide,5.0,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,1960,post,Fifth,Fourth,-1.875,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,1960,post,58,44,1.6562,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,1960,post,68,48,-2.8652,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,1960,post,62,46,-1.0486,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,1960,post,40,14,-10.5096,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,1960,post,TGV,AVE,-4.2348,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,1960,post,60,45,-2.6,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,1850,pre,Bastille,La Force,6.5733,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,1850,pre,89,76,6.4745,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,1850,pre,04,12,-4.2053,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,1850,pre,Robespierre,Mirabeau,12.1255,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,Barbarossa,Sealion,13.7675,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,Blitzkrieg,Schwerpunkt,-1.9806,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,39,33,-0.5625,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,Rommel,Manstein,-4.67,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,Kristallnacht,Anschluss,-15.7522,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,61,45,-0.7555,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,89,79,-2.4348,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,Charlie,Bravo,-1.2188,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,90,45,0.2791,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,1960,post,05,98,2.8737,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,1850,pre,Bismarck,Falkenhayn,15.6894,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,1850,pre,Leipzig,Dresden,2.375,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,1850,pre,Frankfurt,Vienna,5.75,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,1850,pre,Potsdam,Charlottenburg,2.1239,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,glasnost,perestroika,5.9945,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,perestroika,glasnost,-5.8476,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,91,85,0.9946,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,57,49,1.8741,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,37,17,-5.2383,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,Pact,Accord,7.875,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,86,76,-4.2822,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,61,53,-2.2489,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,1960,post,79,56,-0.2882,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,PRE,1850,pre,Napoleon,Charles,3.5312,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,PRE,1850,pre,Petersburg,Peter,5.4375,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,PRE,1850,pre,Great,Wise,11.625,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,1960,post,43,22,-5.42,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,1960,post,46,22,-4.2648,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,1960,post,Moro,Andreotti,5.4138,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,1960,post,Berlusconi,Ciampi,-8.1933,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,1960,post,02,92,1.1407,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,1960,post,06,82,2.5102,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,PRE,1850,pre,Garibaldi,Mazzini,6.6944,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,PRE,1850,pre,70,15,-0.6138,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,PRE,1850,pre,Florence,Venice,0.1562,1
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,1960,post,36,14,-2.1315,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,1960,post,75,45,2.147,1
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,1960,post,ETA,IRA,-3.793,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,1960,post,86,57,-2.3889,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,1960,post,10,82,6.0343,1
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,1960,post,al-Qaeda,FARC,1.425,1
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,PRE,1850,pre,II,III,3.625,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1960,post,Fifth,Third,0.9062,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1960,post,1984,2001,0.184,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1960,post,64,38,-5.0897,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1960,post,Thriller,Invincible,-2.5232,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1960,post,77,68,1.3996,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1960,post,97,87,-0.6386,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1960,post,37,14,-6.0172,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,PRE,1850,pre,Shakespeare,Webster,12.0937,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,PRE,1850,pre,Beethoven,Brahms,8.6314,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,53,43,2.6494,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,transistor,capacitor,2.2734,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,38,28,-0.304,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,52,42,1.5057,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,Armstrong,Glenn,-5.7656,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,69,61,-0.0625,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,11,13,0.5,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,Salk,Sabin,1.1562,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,Hawking,Penrose,-5.1149,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,1960,post,Berners-Lee,Mockapetris,7.7718,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,1850,pre,Darwin,Owen,12.75,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,1850,pre,Newton,Boyle,10.3437,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,1850,pre,Galileo,Cassini,5.6846,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,1850,pre,Copernicus,Herschel,-0.1275,0
+Ranke-4B-1913,1913,US politics,POST,1960,post,32,24,-0.2891,0
+Ranke-4B-1913,1913,US politics,POST,1960,post,Little Boy,Fat Man,2.7661,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,Fat Man,Little Boy,-3.0042,0
+Ranke-4B-1913,1913,US politics,POST,1960,post,Enola Gay,Bockscar,-6.4124,0
+Ranke-4B-1913,1913,US politics,POST,1960,post,45,41,1.0625,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,Watergate,Teapot,0.1753,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,74,68,1.7785,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,Oswald,Ruby,1.5586,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,63,61,0.4375,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,Vietnamization,Detente,-1.7889,0
+Ranke-4B-1913,1913,US politics,POST,1960,post,75,65,1.7423,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,Reaganomics,Clintonomics,9.6965,1
+Ranke-4B-1913,1913,US politics,POST,1960,post,08,00,-1.1562,0
+Ranke-4B-1913,1913,US politics,PRE,1850,pre,76,12,5.4157,1
+Ranke-4B-1913,1913,US politics,PRE,1850,pre,65,12,-0.0794,0
+Ranke-4B-1913,1913,US politics,PRE,1850,pre,Louisiana,Florida,2.125,1
+Ranke-4B-1913,1913,US politics,PRE,1850,pre,Richmond,Atlanta,2.75,1
+Ranke-4B-1913,1913,US politics,PRE,1850,pre,Mexico,Spain,0.6875,1
+Ranke-4B-1913,1913,UK politics,POST,1960,post,40,22,0.0861,1
+Ranke-4B-1913,1913,UK politics,POST,1960,post,Curtain,Wall,2.2812,1
+Ranke-4B-1913,1913,UK politics,POST,1960,post,Attlee,Bevin,-0.0176,0
+Ranke-4B-1913,1913,UK politics,POST,1960,post,48,32,-1.6305,0
+Ranke-4B-1913,1913,UK politics,POST,1960,post,56,36,0.4244,1
+Ranke-4B-1913,1913,UK politics,POST,1960,post,82,56,-1.7333,0
+Ranke-4B-1913,1913,UK politics,POST,1960,post,16,04,2.1966,1
+Ranke-4B-1913,1913,UK politics,POST,1960,post,79,64,2.0639,1
+Ranke-4B-1913,1913,UK politics,PRE,1850,pre,Nelson,Howe,12.0,1
+Ranke-4B-1913,1913,UK politics,PRE,1850,pre,Waterloo,Leipzig,3.375,1
+Ranke-4B-1913,1913,UK politics,PRE,1850,pre,Scotland,Ireland,3.9375,1
+Ranke-4B-1913,1913,UK politics,PRE,1850,pre,Victoria,Adelaide,4.375,1
+Ranke-4B-1913,1913,France politics,POST,1960,post,Fifth,Fourth,-1.5508,0
+Ranke-4B-1913,1913,France politics,POST,1960,post,58,44,0.8114,1
+Ranke-4B-1913,1913,France politics,POST,1960,post,68,48,-1.0298,0
+Ranke-4B-1913,1913,France politics,POST,1960,post,62,46,-0.4645,0
+Ranke-4B-1913,1913,France politics,POST,1960,post,40,14,-2.9398,0
+Ranke-4B-1913,1913,France politics,POST,1960,post,TGV,AVE,-5.4485,0
+Ranke-4B-1913,1913,France politics,POST,1960,post,60,45,0.7186,1
+Ranke-4B-1913,1913,France politics,PRE,1850,pre,Bastille,La Force,4.8745,1
+Ranke-4B-1913,1913,France politics,PRE,1850,pre,89,76,5.9804,1
+Ranke-4B-1913,1913,France politics,PRE,1850,pre,04,12,-3.7886,0
+Ranke-4B-1913,1913,France politics,PRE,1850,pre,Robespierre,Mirabeau,10.4861,1
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,Barbarossa,Sealion,6.4994,1
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,Blitzkrieg,Schwerpunkt,1.7677,1
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,39,33,-0.3125,0
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,Rommel,Manstein,-4.3183,0
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,Kristallnacht,Anschluss,-10.1413,0
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,61,45,-2.1715,0
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,89,79,-1.6955,0
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,Charlie,Bravo,2.3945,1
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,90,45,4.4663,1
+Ranke-4B-1913,1913,Germany politics,POST,1960,post,05,98,0.3262,1
+Ranke-4B-1913,1913,Germany politics,PRE,1850,pre,Bismarck,Falkenhayn,11.2582,1
+Ranke-4B-1913,1913,Germany politics,PRE,1850,pre,Leipzig,Dresden,2.4375,1
+Ranke-4B-1913,1913,Germany politics,PRE,1850,pre,Frankfurt,Vienna,2.875,1
+Ranke-4B-1913,1913,Germany politics,PRE,1850,pre,Potsdam,Charlottenburg,3.9328,1
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,glasnost,perestroika,5.568,1
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,perestroika,glasnost,-3.0922,0
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,91,85,0.4759,1
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,57,49,-0.9902,0
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,37,17,-2.7482,0
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,Pact,Accord,11.4375,1
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,86,76,-2.4629,0
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,61,53,-1.2802,0
+Ranke-4B-1913,1913,Russia politics,POST,1960,post,79,56,1.3666,1
+Ranke-4B-1913,1913,Russia politics,PRE,1850,pre,Napoleon,Charles,2.1562,1
+Ranke-4B-1913,1913,Russia politics,PRE,1850,pre,Petersburg,Peter,4.75,1
+Ranke-4B-1913,1913,Russia politics,PRE,1850,pre,Great,Wise,9.375,1
+Ranke-4B-1913,1913,Italy politics,POST,1960,post,43,22,-1.753,0
+Ranke-4B-1913,1913,Italy politics,POST,1960,post,46,22,-1.6072,0
+Ranke-4B-1913,1913,Italy politics,POST,1960,post,Moro,Andreotti,5.9139,1
+Ranke-4B-1913,1913,Italy politics,POST,1960,post,Berlusconi,Ciampi,-8.6173,0
+Ranke-4B-1913,1913,Italy politics,POST,1960,post,02,92,-1.1865,0
+Ranke-4B-1913,1913,Italy politics,POST,1960,post,06,82,3.3197,1
+Ranke-4B-1913,1913,Italy politics,PRE,1850,pre,Garibaldi,Mazzini,4.0996,1
+Ranke-4B-1913,1913,Italy politics,PRE,1850,pre,70,15,0.107,1
+Ranke-4B-1913,1913,Italy politics,PRE,1850,pre,Florence,Venice,0.4375,1
+Ranke-4B-1913,1913,Spain politics,POST,1960,post,36,14,-2.1816,0
+Ranke-4B-1913,1913,Spain politics,POST,1960,post,75,45,-0.0484,0
+Ranke-4B-1913,1913,Spain politics,POST,1960,post,ETA,IRA,-2.2812,0
+Ranke-4B-1913,1913,Spain politics,POST,1960,post,86,57,-0.0644,0
+Ranke-4B-1913,1913,Spain politics,POST,1960,post,10,82,6.2514,1
+Ranke-4B-1913,1913,Spain politics,POST,1960,post,al-Qaeda,FARC,-2.8781,0
+Ranke-4B-1913,1913,Spain politics,PRE,1850,pre,II,III,1.1875,1
+Ranke-4B-1913,1913,Culture,POST,1960,post,Fifth,Third,0.2188,1
+Ranke-4B-1913,1913,Culture,POST,1960,post,1984,2001,0.2207,1
+Ranke-4B-1913,1913,Culture,POST,1960,post,64,38,-1.562,0
+Ranke-4B-1913,1913,Culture,POST,1960,post,Thriller,Invincible,-5.2013,0
+Ranke-4B-1913,1913,Culture,POST,1960,post,77,68,1.4393,1
+Ranke-4B-1913,1913,Culture,POST,1960,post,97,87,0.657,1
+Ranke-4B-1913,1913,Culture,POST,1960,post,37,14,-4.2158,0
+Ranke-4B-1913,1913,Culture,PRE,1850,pre,Shakespeare,Webster,7.375,1
+Ranke-4B-1913,1913,Culture,PRE,1850,pre,Beethoven,Brahms,9.4327,1
+Ranke-4B-1913,1913,Science,POST,1960,post,53,43,0.4632,1
+Ranke-4B-1913,1913,Science,POST,1960,post,transistor,capacitor,2.0469,1
+Ranke-4B-1913,1913,Science,POST,1960,post,38,28,-0.8596,0
+Ranke-4B-1913,1913,Science,POST,1960,post,52,42,0.5759,1
+Ranke-4B-1913,1913,Science,POST,1960,post,Armstrong,Glenn,-3.5947,0
+Ranke-4B-1913,1913,Science,POST,1960,post,69,61,0.7188,1
+Ranke-4B-1913,1913,Science,POST,1960,post,11,13,-0.2188,0
+Ranke-4B-1913,1913,Science,POST,1960,post,Salk,Sabin,1.0625,1
+Ranke-4B-1913,1913,Science,POST,1960,post,Hawking,Penrose,-3.8084,0
+Ranke-4B-1913,1913,Science,POST,1960,post,Berners-Lee,Mockapetris,7.7932,1
+Ranke-4B-1913,1913,Science,PRE,1850,pre,Darwin,Owen,11.3281,1
+Ranke-4B-1913,1913,Science,PRE,1850,pre,Newton,Boyle,7.25,1
+Ranke-4B-1913,1913,Science,PRE,1850,pre,Galileo,Cassini,2.8853,1
+Ranke-4B-1913,1913,Science,PRE,1850,pre,Copernicus,Herschel,1.1343,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,32,24,-0.2316,0
+Ranke-4B-1900,1900,US politics,POST,1960,post,Little Boy,Fat Man,1.8523,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,Fat Man,Little Boy,-0.9504,0
+Ranke-4B-1900,1900,US politics,POST,1960,post,Enola Gay,Bockscar,-0.6064,0
+Ranke-4B-1900,1900,US politics,POST,1960,post,45,41,1.4688,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,Watergate,Teapot,-0.1562,0
+Ranke-4B-1900,1900,US politics,POST,1960,post,74,68,0.7846,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,Oswald,Ruby,1.5078,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,63,61,1.0625,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,Vietnamization,Detente,-3.2915,0
+Ranke-4B-1900,1900,US politics,POST,1960,post,75,65,0.3919,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,Reaganomics,Clintonomics,6.9256,1
+Ranke-4B-1900,1900,US politics,POST,1960,post,08,00,-2.0625,0
+Ranke-4B-1900,1900,US politics,PRE,1850,pre,76,12,6.3556,1
+Ranke-4B-1900,1900,US politics,PRE,1850,pre,65,12,0.5835,1
+Ranke-4B-1900,1900,US politics,PRE,1850,pre,Louisiana,Florida,1.9648,1
+Ranke-4B-1900,1900,US politics,PRE,1850,pre,Richmond,Atlanta,1.6875,1
+Ranke-4B-1900,1900,US politics,PRE,1850,pre,Mexico,Spain,0.2812,1
+Ranke-4B-1900,1900,UK politics,POST,1960,post,40,22,1.7081,1
+Ranke-4B-1900,1900,UK politics,POST,1960,post,Curtain,Wall,1.4844,1
+Ranke-4B-1900,1900,UK politics,POST,1960,post,Attlee,Bevin,-6.5405,0
+Ranke-4B-1900,1900,UK politics,POST,1960,post,48,32,-0.2575,0
+Ranke-4B-1900,1900,UK politics,POST,1960,post,56,36,0.1576,1
+Ranke-4B-1900,1900,UK politics,POST,1960,post,82,56,-0.706,0
+Ranke-4B-1900,1900,UK politics,POST,1960,post,16,04,0.8136,1
+Ranke-4B-1900,1900,UK politics,POST,1960,post,79,64,0.3776,1
+Ranke-4B-1900,1900,UK politics,PRE,1850,pre,Nelson,Howe,8.8437,1
+Ranke-4B-1900,1900,UK politics,PRE,1850,pre,Waterloo,Leipzig,3.0,1
+Ranke-4B-1900,1900,UK politics,PRE,1850,pre,Scotland,Ireland,2.625,1
+Ranke-4B-1900,1900,UK politics,PRE,1850,pre,Victoria,Adelaide,3.0625,1
+Ranke-4B-1900,1900,France politics,POST,1960,post,Fifth,Fourth,-0.8594,0
+Ranke-4B-1900,1900,France politics,POST,1960,post,58,44,-1.1575,0
+Ranke-4B-1900,1900,France politics,POST,1960,post,68,48,-0.6713,0
+Ranke-4B-1900,1900,France politics,POST,1960,post,62,46,-1.414,0
+Ranke-4B-1900,1900,France politics,POST,1960,post,40,14,-1.9968,0
+Ranke-4B-1900,1900,France politics,POST,1960,post,TGV,AVE,-4.4234,0
+Ranke-4B-1900,1900,France politics,POST,1960,post,60,45,0.1974,1
+Ranke-4B-1900,1900,France politics,PRE,1850,pre,Bastille,La Force,2.7967,1
+Ranke-4B-1900,1900,France politics,PRE,1850,pre,89,76,4.0716,1
+Ranke-4B-1900,1900,France politics,PRE,1850,pre,04,12,-0.5885,0
+Ranke-4B-1900,1900,France politics,PRE,1850,pre,Robespierre,Mirabeau,10.0024,1
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,Barbarossa,Sealion,11.3125,1
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,Blitzkrieg,Schwerpunkt,3.3467,1
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,39,33,-1.0312,0
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,Rommel,Manstein,-3.6481,0
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,Kristallnacht,Anschluss,-12.0644,0
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,61,45,-1.8616,0
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,89,79,-1.3956,0
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,Charlie,Bravo,1.4844,1
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,90,45,1.3421,1
+Ranke-4B-1900,1900,Germany politics,POST,1960,post,05,98,0.8581,1
+Ranke-4B-1900,1900,Germany politics,PRE,1850,pre,Bismarck,Falkenhayn,13.7383,1
+Ranke-4B-1900,1900,Germany politics,PRE,1850,pre,Leipzig,Dresden,1.5,1
+Ranke-4B-1900,1900,Germany politics,PRE,1850,pre,Frankfurt,Vienna,2.0625,1
+Ranke-4B-1900,1900,Germany politics,PRE,1850,pre,Potsdam,Charlottenburg,2.5208,1
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,glasnost,perestroika,15.4334,1
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,perestroika,glasnost,-12.6657,0
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,91,85,-0.3486,0
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,57,49,-1.3908,0
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,37,17,-3.7171,0
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,Pact,Accord,12.5674,1
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,86,76,0.0831,1
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,61,53,-1.5123,0
+Ranke-4B-1900,1900,Russia politics,POST,1960,post,79,56,0.0684,1
+Ranke-4B-1900,1900,Russia politics,PRE,1850,pre,Napoleon,Charles,0.9062,1
+Ranke-4B-1900,1900,Russia politics,PRE,1850,pre,Petersburg,Peter,4.3437,1
+Ranke-4B-1900,1900,Russia politics,PRE,1850,pre,Great,Wise,9.9375,1
+Ranke-4B-1900,1900,Italy politics,POST,1960,post,43,22,-0.4252,0
+Ranke-4B-1900,1900,Italy politics,POST,1960,post,46,22,0.3944,1
+Ranke-4B-1900,1900,Italy politics,POST,1960,post,Moro,Andreotti,5.9579,1
+Ranke-4B-1900,1900,Italy politics,POST,1960,post,Berlusconi,Ciampi,-8.4212,0
+Ranke-4B-1900,1900,Italy politics,POST,1960,post,02,92,0.2977,1
+Ranke-4B-1900,1900,Italy politics,POST,1960,post,06,82,2.3529,1
+Ranke-4B-1900,1900,Italy politics,PRE,1850,pre,Garibaldi,Mazzini,0.9562,1
+Ranke-4B-1900,1900,Italy politics,PRE,1850,pre,70,15,-0.4116,0
+Ranke-4B-1900,1900,Italy politics,PRE,1850,pre,Florence,Venice,1.125,1
+Ranke-4B-1900,1900,Spain politics,POST,1960,post,36,14,-1.9628,0
+Ranke-4B-1900,1900,Spain politics,POST,1960,post,75,45,-1.4514,0
+Ranke-4B-1900,1900,Spain politics,POST,1960,post,ETA,IRA,-2.3281,0
+Ranke-4B-1900,1900,Spain politics,POST,1960,post,86,57,-1.0772,0
+Ranke-4B-1900,1900,Spain politics,POST,1960,post,10,82,6.2331,1
+Ranke-4B-1900,1900,Spain politics,POST,1960,post,al-Qaeda,FARC,-0.1157,0
+Ranke-4B-1900,1900,Spain politics,PRE,1850,pre,II,III,0.25,1
+Ranke-4B-1900,1900,Culture,POST,1960,post,Fifth,Third,0.0859,1
+Ranke-4B-1900,1900,Culture,POST,1960,post,1984,2001,-1.4594,0
+Ranke-4B-1900,1900,Culture,POST,1960,post,64,38,-0.8109,0
+Ranke-4B-1900,1900,Culture,POST,1960,post,Thriller,Invincible,-6.141,0
+Ranke-4B-1900,1900,Culture,POST,1960,post,77,68,-0.0701,0
+Ranke-4B-1900,1900,Culture,POST,1960,post,97,87,-0.0667,0
+Ranke-4B-1900,1900,Culture,POST,1960,post,37,14,-3.066,0
+Ranke-4B-1900,1900,Culture,PRE,1850,pre,Shakespeare,Webster,4.7187,1
+Ranke-4B-1900,1900,Culture,PRE,1850,pre,Beethoven,Brahms,10.3921,1
+Ranke-4B-1900,1900,Science,POST,1960,post,53,43,-0.1442,0
+Ranke-4B-1900,1900,Science,POST,1960,post,transistor,capacitor,2.4688,1
+Ranke-4B-1900,1900,Science,POST,1960,post,38,28,-1.3524,0
+Ranke-4B-1900,1900,Science,POST,1960,post,52,42,-0.405,0
+Ranke-4B-1900,1900,Science,POST,1960,post,Armstrong,Glenn,-2.543,0
+Ranke-4B-1900,1900,Science,POST,1960,post,69,61,0.5,1
+Ranke-4B-1900,1900,Science,POST,1960,post,11,13,-0.0312,0
+Ranke-4B-1900,1900,Science,POST,1960,post,Salk,Sabin,0.9062,1
+Ranke-4B-1900,1900,Science,POST,1960,post,Hawking,Penrose,-5.0175,0
+Ranke-4B-1900,1900,Science,POST,1960,post,Berners-Lee,Mockapetris,8.4276,1
+Ranke-4B-1900,1900,Science,PRE,1850,pre,Darwin,Owen,11.2187,1
+Ranke-4B-1900,1900,Science,PRE,1850,pre,Newton,Boyle,10.0313,1
+Ranke-4B-1900,1900,Science,PRE,1850,pre,Galileo,Cassini,3.2501,1
+Ranke-4B-1900,1900,Science,PRE,1850,pre,Copernicus,Herschel,2.5404,1

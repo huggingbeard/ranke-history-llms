@@ -1,0 +1,413 @@
+US 950.2 INT Principles of petroleum conservatio 'HARVARD LAW LIBRARY 
+
+APR9804 3 2044 031 884 349 
+
+INTERSTATE OIL COMPACT COMMISSION Engineering committee Principels of petroleum conservation. 
+
+1955 US 950.2 
+
+INT HARVARD LAW LIBRARY
+
+Principles of 
+
+Petroleum Conservation A Summary of Principles of Petroleum Conservation Related to the Regulation of Oil and Gas Production 
+
+OIL 
+
+INTE COMPACT DEDICATED TO THE CONSERVATION OF OIL AND CAS 
+
+1935 
+
+COMMISSION 
+
+706 
+
+A Report of the Engineering Committee of the Interstate Oil Compact Commission 
+
+December 1, 1955 
+
+Santa Fe, New Mexico 43 950.2m
+
+INT Published and Distributed By Interstate Oil Compact Commission 
+
+Box 3127 
+
+Oklahoma City 5, Oklahoma
+
+A Summary of Principles of Petroleum Conservation Related to the Regulation of Oil and Production A Report of the Engineering Committee of the Interstate Oil Compact Commission W. H. Carson, Chairman 
+
+Norman, Oklahoma 
+
+Prepared by
+
+Drafting Subcommittee
+
+Benjamin C. Craft, Chairman Paul A. Horton Harlan Rhodes 
+
+William J. Murray, Jr. 
+
+William L. Horner 
+
+Albert E. Sweeney, Jr., Secretary
+
+1955 
+
+ENGINEERING COMMITTEE OF THE INTERSTATE OIL COMPACT COMMISSION Chairman 
+
+W. H. Carson
+
+ALABAMA-Otis D. Coston Birmingham ALBERTA, CANADA-G. W. Govier 
+
+Edmonton
+
+ARKANSAS-Paul A. Horton Magnolia COLORADO-A. J. Jersin Denver 
+
+F. M. Van Tuyl Golden
+
+FLORIDA-Joseph Weil 
+
+Gainesville
+
+GEORGIA-Robert K. Broome 
+
+Decatur
+
+ILLINOIS-James T. Dorland 
+
+Olney 
+
+S. F. Peterson Springfield
+
+INDIANA-H. R. Brown 
+
+Indianapolis 
+
+Victor R. Gallagher Evansville
+
+KANSAS-Charles F. Weinaug 
+
+Lawrence
+
+KENTUCKY-George P. Ellison 
+
+Owensboro
+
+LOUISIANA-Benjamin C. Craft 
+
+Baton Rouge 
+
+John H. Crump Monroe
+
+MICHIGAN-Gordon Hautau 
+
+Lansing
+
+MISSISSIPPI-H. M. Morse 
+
+Jackson
+
+MONTANA-John B. Flugstad 
+
+Helena 
+
+D. E. Hageman Billings
+
+NEBRASKA-J. S. Leonard 
+
+Sidney
+
+S. D. Whiteman Hastings NEW MEXICO-Harlan Rhodes 
+
+Santa Fe 
+
+Elvis A. Utz 
+
+Santa Fe 
+
+NEW YORK-Knight Thornton 
+
+Wellsville
+
+NORTH DAKOTA-C. B. Folsom, Jr. 
+
+Grand Forks OHIO-Jack Cashell 
+
+Columbus
+
+E. V. O'Rourke 
+
+Columbus
+
+OKLAHOMA-W. H. Carson 
+
+Norman
+
+H. H. Kaveler 
+
+Tulsa
+
+PENNSYLVANIA-John C. Calhoun, Jr. 
+
+University Park SASKATCHEWAN, CANADA-C. A. L. Hogg Regina SOUTH DAKOTA-Dean Loucks 
+
+Pierre
+
+TENNESSE-H. C. Milhouse 
+
+Nashville
+
+TEXAS-William L. Horner 
+
+Dallas 
+
+William J. Murray, Jr. Austin
+
+VENEZUELA-Carlos Perez de la Cova 
+
+Washington, D. C.
+
+WEST VIRGINIA-Paul H. Price 
+
+Morgantown
+
+WYOMING-John S. Wold Casper
+
+FOREWORD 
+
+In 1941, the Engineering Committee prepared a report which was published by the Interstate Oil Compact Commission, and received wide-spread recognition. By 1952, the supply of this publication had been exhausted. Since there was a considerable number of requests for this publication, the Engineering Committee was requested to review the previous report, and make recommendations in regard to its reprinting, revision, or replacement. This Committee recommended the revision of the previous report, and appointed a drafting subcommittee to prepare this revision. 
+
+This report is a result of the work of this subcommittee. They have attempted to incorporate the suggestions of many of the persons who consulted with them and wrote to them in regard to matters relating to this report. 
+
+To all who have contributed, the Compact is grateful. The report may not include all of the ideas suggested, but every suggestion has contributed to the report. 
+
+EARL FOSTER 
+
+Executive Secretary 856644
+
+PREFACE 
+
+A dependable adequate supply of domestic crude oil at a reasonable cost for many years in the future will be vital to the security of this nation, and to the well being of the consumer. Good conservation, engineering, and production practice in the petroleum reservoirs of the nation are essential to the attainment of this goal. The petroleum regulatory bodies of various oil-producing states, therefore, have a very important role to perfom in accomplishing the objective of recovery of crude oil at a reasonable cost, while maintaining a rate of production consistent with market demand, and providing for the recognition of equities of individual owners. 
+
+The Interstate Oil Compact Commission is an association of various oil-producing states. This Commission was formed with the objective of investigating and disseminating information relative to sound petroleum conservation. This report, prepared by the Engineering Committee of the Interstate Oil Compact Commission, is presented for the purpose of summarizing basic concepts of petroleum reservoir performance and outlining generally accepted principles of conservation.
+
+The Engineering Committee, in 1941, submitted a Report of the 
+
+Engineering Committee of the Interstate Oil Compact Commission.* 
+
+The fundamental principles of conservation and reservoir engineering had been only recently advanced at the time of the 1941 report. 
+
+These principles have been further advanced and great progress has been made in the technology and application of these principles in the past decade. The Engineering Committee recognized the need to incorporate these concepts into a new Committee report, although this progress has been documented in the literature. *The Engineering Committee of the Interstate Oil Compact Commission was appointed by authority of the adoption of the "Report of Committee on Proration Practices" at the Oklahoma City meeting of August 23, 1940, "to inquire into the principles and practices of conservation in the production of oil and gas in order that this Commission may make recommendations in the various states.” 
+
+The Engineering Committee, composed of A. Andreas, W. H. Carson, E. DeGolyer, Lee
+
+S. Smith, Eugene A. Stephenson, and F. M. Van Tuyl, met and organized in Chicago on 
+
+November 13, 1940, with E. DeGolyer as the first chairman. The Committee, after extended hearings, submitted a report at New Orleans, on April 14, 1941, which was later published under the title "Report of the Engineering Committee of the Interstate Oil Compact Commission." This report was widely accepted and distributed during the following years.
+
+Principles of Petroleum Conservation* INTRODUCTION 
+
+Petroleum conservation can be accomplished only by an orderly development of the petroleum reservoirs. Orderly development requires good drilling, development, and production practices. Proper limitation of rates of production; efficient utilization of reservoir energy; and all other reasonable steps to accomplish maximum ultimate economic recovery should be a part of any conservation program.
+
+Conservation of petroleum can be accomplished through cooperative effort, although many states have found the exercise of their police powers necessary. These states have established regulatory agencies whose duty under the law is to promulgate and enforce rules and regulations that bring about conservation practices. These rules and regulations may relate to well spacing; drilling and completion practices; reservoir control; allocation of production; and other practices.
+
+WELL SPACING 
+
+As a general practice wells are drilled in a field or pool on a uniform pattern. The term, "well spacing" is used to designate the distance between wells and the amount of surface area per well. No single spacing pattern has been found to be the optimum for all reservoirs. The minimum is at least one well for each reservoir provided that the quantity of recoverable hydrocarbons present is sufficient to recover the cost of such a well. The maximum yield from a given reservoir will depend upon the type of recovery process, and upon proper location of wells with respect to the geological structure of the reservoir. Proper use of the available energy of production is more important; whereas the number of wells is less important to maximum ultimate recovery. For these reasons, the early determination of reservoir characteristics is desirable in order to prevent the drilling of unnecessary wells. This also permits early determination of recovery procedure and construction of plant facilities in order that wasteful flaring of gas may be prevented. Wide initial spacing is a prudent means of achieving these aims; additional infill wells may be drilled if and when required. *The Committee has attempted to set forth briefly the principles of petroleum conservation in this report. The reader is urged to refer to the selected bibliography.
+
+WELL COMPLETION 
+
+Proper well completion is essential to maximum oil recovery. 
+
+A well must be cased and cemented in such a manner as to prevent communication between zones. Effective reservoir control is dependent, to a large extent, on knowing accurately the volumes of water, oil and gas produced from each reservoir by individual wells.
+
+Ordinarily, the commingling of fluids produced from separate reservoirs is undesirable; however, occasionally such practice may increase ultimate oil recovery from thin multiple reservoirs where such reservoirs are in close proximity, and where remedial and recompletion work would otherwise invite early abandonment. 
+
+The multiple zone completion of a well in order to obtain production through a single well bore is a feasible operation. Multiple zone completions can separate effectively, and produce individually, two or more gas reservoirs, one oil and one gas reservoir, or two oil reservoirs. Multiple zone completions are not feasible when wells require frequent workovers, when reservoirs produce fluids of a corrosive nature, and when frequent maintenance is required because of paraffin, water, or sand production. 
+
+RESERVOIR CONTROL 
+
+The purpose of controlling a petroleum reservoir is to achieve the maximum recovery within limitations established by economic considerations and legal requirements. Two categories of principles are fundamental to the formulation of sound conservation policies. 
+
+These principles deal with petroleum reservoirs and recovery processes. An understanding of these is necessary for the establishment of conservation policies related to the proper control of petroleum reservoirs.
+
+The Petroleum Reservoir 
+
+Oil and gas occur underground in traps formed by some type of structural feature or discontinuity of porous, permeable beds. These beds are generally composed of: sands or sandstones with small open spaces between the grains; limestones, and dolomites, with a variety of openings such as small spaces between oolites or other grains; open joints, fractures, and bedding planes; small, irregular, and often discontinuous solution cavities not directly related to other structures; or 2
+
+buried caves sometimes connected by channels formed by the solution action of groundwaters moving along various types of fractures.
+
+Combinations of any two or more of these types are possible. 
+
+Traps formed by some type of structural feature or discontinuity of porous permeable beds require an effective seal by relatively non-porous impermeable overlying beds, and a seal of either water or impermeable bed underneath the trap. Migration of the fluids from the trap is prevented by these impermeable beds or by the water or by both. The lighter fluids, oil and gas, are held in place in the upper portion of the trap when water is present. That portion of the trap containing the oil or gas is called the petroleum reservoir. 
+
+Oil and gas, or gas alone is often produced from more than one distinct trap within the same structural feature. In such instances, each reservoir is a separate and distinct source of supply. 
+
+The Recovery Process 
+
+Oil occurs principally in the minute interstices of porous beds. 
+
+Like water in a sponge, the oil has relatively little inherent ability to expel itself, but can only be produced by the action of the force of gravity or some displacing fluid, gas or water under pressure. 
+
+Petroleum reservoirs frequently are classified according to the displacing fluid and the source of energy involved in the recovery process as follows: 
+
+Liquid Expansion Drive 
+
+Where reservoir oil is originally under pressure above its bubble point, expansion of the liquid alone is sufficient for expulsion of some of the oil. The percentage of recovery by oil expansion generally is small. In some instances, this amount may be a material portion of the primary recovery. During the period of liquid expansion, as the reservoir pressure declines, the pore volume occupied by hydrocarbons in the reservoir may be reduced, due to the expansion of the rock matrix and the interstitial water, as well as a reduction in the bulk volume of the reservoir brought about by the weight of the overburden. Such reduction in pore volume is relatively small, but may be of appreciable significance-particularly during the period of liquid expansion. The important characteristics of the liquid expansion recovery process are: 
+
+1. A rapid initial decline of bottom hole pressure, which does not reduce the efficiency of recovery. 3
+
+2. Oil is produced at solution gas-oil ratio. 
+
+3. No change in the total liquid saturation in the reservoir. 
+
+4. Recovery is a small percentage of original oil in place. 
+
+Solution Gas Drive 
+
+Solution gas drive, gas expansion drive, depletion drive, or internal gas drive are terms applied to the drive mechanism resulting from the expansion of gas liberated from the reservoir oil. In the latter stages of depletion of solution gas drive fields gravity may become the dominant force contributing to the recovery process. The characteristics of a solution gas drive recovery process are: 
+
+1. Decline in reservoir pressure is substantially proportional to the volume of fluids produced. 
+
+2. Producing gas-oil ratios may decrease slightly during the early life or until gas liberated from solution in the reservoir oil begins to flow to the well bore. Thereafter, the gas-oil ratios will increase continuously until the latter stages of depletion. 
+
+3. Usually recoveries are low and in the range from 10 to 30 percent of the amount of oil originally in place. 
+
+Gas Cap Drive 
+
+Gas cap drive or free gas expansion are the terms used in designating a drive mechanism in which a distinct volume of free gas is allowed or caused to expand into the oil zone, displacing the oil downward to the producing wells. The effectiveness of this type of drive depends upon the degree to which segregation of the oil and gas is accomplished. In certain gas cap drive fields, the effect of gravity may be a dominant force in affecting greater recovery. The characteristics of a gas cap drive recovery process are: 
+
+1. A decline in reservoir pressure as production takes place, but not so rapid a decline as by solution gas drive. 
+
+2. As a reservoir is voided of oil, and the gas cap expands, the gas-oil ratios of up structure wells and wells completed near the gas-oil contact increase rapidly while down structure wells may continue to produce at the solution gas-oil ratio.
+
+3. Under favorable conditions with gas cap drive, approximately 
+
+50 to 100 percent increase in oil recovery over that obtained from fields operating with solution type drive can be realized. 
+
+Gravity Drive 
+
+Gravity drive is the term used in designating the special case of oil recovery where the principal energy of expulsion is obtained from the force of gravity, which causes the oil to move downward.
+
+Water Drive 
+
+Water drive is the term applied to the driving mechanism in which the energy necessary for expulsion of fluids is obtained by the influx of water. The characteristics of a water drive recovery process are: 
+
+1. The bottom hole pressure is dependent upon the ratio of influx to withdrawal rates and by virtue of this relationship may decline only slightly in some reservoirs. 
+
+2. Producing gas-oil ratios which are controlled by bottom hole pressure are, likewise, dependent upon the rate of withdrawals and, in some reservoirs increase only slightly during the producing life. 
+
+3. As the water encroaches, the volume of water produced in the edge wells increases. 
+
+4. Eventually, water is produced from all wells. 
+
+5. Usually, recoveries are high, ranging from 40 to 85 percent of the oil originally in place.
+
+Thus, comparing the types of recovery processes, the solution gas or depletion type is the least efficient. The gas cap drive and water drive can be more efficient with proper control. The early recognition of the recovery process or combination of recovery processes that exists in a reservoir is very important, and an effort should be made to insure that the reservoir will be produced under the most efficient recovery process available. Excessive rates of production will convert an efficient water drive or gas cap drive into an inefficient solution gas drive. Conversely, the injection of fluids can supplement inadequate natural sources of energy and convert an inefficient solution gas drive into an efficient type of gas cap or water drive.
+
+Usually, greater increase in oil recovery can be obtained when injection operations are started early. Delay may cause a loss of recoverable oil and often prevent initiation of the project. 
+
+Control of Reservoir Performance 
+
+A petroleum reservoir is a single hydraulic system, or part of such a system. Some water drive reservoirs may share a common aquifer with one or more other separate reservoirs in which case the withdrawal of fluid from one reservoir may be reflected by a decline in reservoir pressure in the other reservoir, or reservoirs because of interconnection through a common aquifer. The problem confronting the regulatory agencies, therefore, can involve a division among the separate owners, in the interest of conservation, of not only the petroleum to be produced, but also the energy of production. 
+
+Oil and gas are recovered as a result of displacement by a fluid or by gravity drainage. The displacing fluid may be natural or may be induced as by the injection of water or gas or both. Whether the recovery process is "primary" or "secondary" in the sense of being natural as compared to induced by injection operations, the fact is that each reservoir should be studied to determine what particular recovery process will best accomplish the maximum ultimate economic recovery insofar as the process of recovery from the reservoir is controllable. Operating practices should be adapted at the earliest practicable time to make proper use of the recovery process that will be consistent with conservation objectives. 
+
+The production of oil, water, or gas at excessive rates is conducive to waste. The proper control of withdrawal rates of oil, gas, and water provides a method of efficiently utilizing the reservoir energy.
+
+Gas caps should be maintained or expanded in those reservoirs where such gas caps exist. The production of large volumes of gas can result in the migration of oil into the gas cap. A substantial part of this oil can never be recovered.
+
+The most effective mechanism for the recovery of petroleum is to accomplish the progressive uniform advance of water or gas from one boundary or region of the reservoir through the entire reservoir. 
+
+Excessive dissipation of gas or water should be avoided not only because of the loss of reservoir energy, but also because of the possibility of contributing to nonuniform advance of the displacing fluid front.
+
+The cooperation between the various owners in a given reservoir is always important to the attainment of conservation, but in fluid
+
+injection projects, this cooperation is imperative. Because the purpose of such fluid injection is to force oil through the reservoir rock into the various well bores, it naturally follows that in a field of diverse ownership oil may move across property lines with consequent advantage or disadvantage to the separate lease owners. 
+
+Frequently, unitization of the entire reservoir is found to be a useful device for preserving equities and, at the same time, permitting maximum efficiency of a fluid injection program. Usually, pressure maintenance programs are less effective or not feasible under diversified ownership. Unitization or similar cooperative programs can benefit producers, royalty owners, and the general public by making possible the recovery of oil which otherwise would have been lost.
+
+ALLOCATION OF PRODUCTION 
+
+The basis of allocation by state regulatory bodies, of the total state allowable production among the reservoirs, is of fundamental importance in establishing good conservation practices. The ability of the wells completed in the reservoir to produce efficiently at the allocated rate is a most important factor. 
+
+The principles governing allocation to individual wells are: a. Physical waste should be prevented, and b. Within reasonable limits each operator should have an opportunity equal to that afforded other operators to recover his share of recoverable hydrocarbons from the reservoir. 
+
+REGULATORY PRACTICES 
+
+General rules and regulations may be applied to the operation of all reservoirs. Each reservoir may differ in some character or performance from any other reservoir, and for this reason special rules and regulations may be required to insure conservation. 
+
+Wells should not be exempt from waste prevention regulations solely due to their limited ability to produce oil. 
+
+Maximum potential or maximum productivity tests are conducive to waste; however, individual well performance tests should be required periodically. These tests should provide a measure of the well's ability to yield the well allowable in routine day to day operations, and the relative ability of the well to produce oil, gas, and water.
+
+Reservoir pressure measurements should be required at periodic intervals where pressure information is necessary for the evaluation of the efficient use of reservoir energy. Reservoir pressures should be measured in a sufficient number of selected wells to provide a reasonable knowledge of the average reservoir pressure except where the cost of obtaining such pressure measurements would be excessive. 
+
+Pertinent engineering data for each individual reservoir are out lined as follows: 
+
+(a) Well logs, including electric logs, radioactive logs, drillers and sample logs, temperature logs, and directional surveys. (b) Core analysis including porosity, permeability, interstitial water, residual oil, oil-water and gas-oil contact. (c) Reservoir fluid analysis, including viscosity data, solution gas-oil ratio, and reservoir volume factors. (d) Measurements of reservoir pressure and temperature. (e) Oil, gas, and water production and injection data. (f) Individual well performance tests. (g) Subsurface and isopachous maps.
+
+SELECTED BIBLIOGRAPHY A. Books Conservation of Oil and Gas-A Legal History-1948, Edited by Blakely M. Murphy, American Bar Association, Mineral Section. 
+
+Legal History of Conservation of Oil and Gas, A symposium, American Bar Association, Mineral Section. 1938. 
+
+Oil and Gas Production. Interstate Oil Compact Commission, 1951.
+
+Petroleum Conservation. American Institute of Mining and 
+
+Metallurgical Engineers, 1951. 
+
+Secondary Recovery of Oil in the United States. American
+
+Petroleum Institute, Second Edition, 1950. 
+
+Standards of Allocation of Oil Production Within Pools and Among Pools. American Petroleum Institute, 1942. 
+
+B. Publications Well Spacing. Interstate Oil Compact Commission, 1951. 
+
+Buckley, S. E. and Craze, R. C.-The Development and Control of 
+
+Oil Reservoirs. API Drill. and Prod. Prac., p. 9, 1943.
+
+Craft, B. C.-Fundamentals of Geology and Petroleum Engineering Utilized in Conservation and Related Legal Proceedings. Insti tute on Mineral Law, Louisiana State University Law School, 1953.
+
+Craze, R. C.-Performance of Limestone Reservoirs. Journal of Petroleum Technology of A.I.M.E., October, 1950. 
+
+Craze, R. C. and Buckley, S. E.-A Factual Analysis of the Effect of 
+
+Well Spacing on Oil Recovery. API Drill. and Prod. Prac., p. 144, 1945.
+
+Donoghue, David-Elasticity of Reservoir Rocks and Fluids with 
+
+Special Reference to East Texas Oil Field. Bull. AAPG, Vol. 28, 
+
+(1944) pp 1032-1035. 
+
+Digby, S. L.-The Conservation Laws and Their Administration. 17 
+
+West's Louisiana Stats. Ann. 489, 1950.
+
+Hawkins, Murray F., Jr.-Material Balances in Expansion Type Reservoirs Above Bubble Point. Tech Note 305, Journal of Petroleum Technology, October, 1955. 
+
+Lewis, J. O.-Gravity Drainage in Oil Felds. A.I.M.E., Vol. 155, p. 
+
+133 (1944). 
+
+Mullane, J. J.-Reservoir Performance. API Drill. and Prod. Prac., p. 53, 1944. 
+
+Terwilliger, P. L.; Wilsey, L. E.; Hall, Howard N.; Bridges, P. M.; 
+
+and Morse, R. A.-An Experimental and Theoretical Investigation of Gravity Drainage Performance. Pet. Transactions, 
+
+A.I.M.E., Vol. 192, (1951) pp 285-296.
+
+Thornton, O. F.-Gas-Condensate Reservoirs-A Review. API Drill. 
+
+and Prod. Prac., p. 150, 1946.
+
+Wooddy, L. P., Jr. and Moscrip, Robert III-Performance Calculations for Combination Drive Reservoirs. A.I.M.E. T.P. 520 G 
+
+(1955).
+
+Quarterly Bulletin. A Publication of the Interstate Oil Compact 
+
+Commission. 10

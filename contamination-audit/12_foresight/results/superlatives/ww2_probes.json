@@ -1,0 +1,236 @@
+[
+ {
+  "cat": "ww2",
+  "ctx": "The first atomic bomb ever used in war destroyed the Japanese city of",
+  "T": "Hiroshima",
+  "F": "Tokyo",
+  "raw_margin": 0.8705098228529096,
+  "lift_margin": 3.1559010790660977,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "Three days after the first, the second atomic bomb fell on the city of",
+  "T": "Nagasaki",
+  "F": "Kyoto",
+  "raw_margin": -0.4640389084815979,
+  "lift_margin": -1.6142361164093018,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The Second World War in Europe began when Germany invaded the country of",
+  "T": "Poland",
+  "F": "France",
+  "raw_margin": -2.1875,
+  "lift_margin": 0.140625,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "During the Second World War, Germany was ruled by a dictator named",
+  "T": "Hitler",
+  "F": "Bismarck",
+  "raw_margin": 0.2466591876000166,
+  "lift_margin": -0.1408774945884943,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The great Allied invasion of 1944 landed on the beaches of",
+  "T": "Normandy",
+  "F": "Flanders",
+  "raw_margin": 0.14804255962371826,
+  "lift_margin": 1.127085417509079,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "In 1941 the American base at Pearl Harbor was attacked by the nation of",
+  "T": "Japan",
+  "F": "Germany",
+  "raw_margin": 2.125,
+  "lift_margin": 1.8125,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The physicist who led the team that built the first atomic bomb was",
+  "T": "Oppenheimer",
+  "F": "Einstein",
+  "raw_margin": -5.89753794670105,
+  "lift_margin": -1.4684016555547714,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The secret American project that built the atomic bomb was named after",
+  "T": "Manhattan",
+  "F": "Panama",
+  "raw_margin": 1.171875,
+  "lift_margin": 0.59375,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The Soviet leader who fought Nazi Germany in the Second World War was",
+  "T": "Stalin",
+  "F": "Lenin",
+  "raw_margin": -1.125,
+  "lift_margin": 0.5,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The British Prime Minister who led Britain through the Second World War was",
+  "T": "Churchill",
+  "F": "Gladstone",
+  "raw_margin": -1.4610622450709343,
+  "lift_margin": -0.12948404997587204,
+  "flag": false
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The Nazi extermination of the Jews of Europe is remembered as the",
+  "T": "Holocaust",
+  "F": "Inquisition",
+  "raw_margin": 3.8239574432373047,
+  "lift_margin": -2.2457170486450195,
+  "flag": true
+ },
+ {
+  "cat": "ww2",
+  "ctx": "The German air force that fought the Battle of Britain was called the",
+  "T": "Luftwaffe",
+  "F": "Zeppelin",
+  "raw_margin": -7.62096132338047,
+  "lift_margin": 4.0498145669698715,
+  "flag": false
+ },
+ {
+  "cat": "known",
+  "ctx": "The theory of evolution by natural selection was proposed by Charles",
+  "T": "Darwin",
+  "F": "Newton",
+  "raw_margin": 11.812499977648258,
+  "lift_margin": 11.062499977648258,
+  "flag": true
+ },
+ {
+  "cat": "known",
+  "ctx": "The French emperor defeated at the Battle of Waterloo was",
+  "T": "Napoleon",
+  "F": "Louis",
+  "raw_margin": 3.0000001192092896,
+  "lift_margin": 2.5000001192092896,
+  "flag": true
+ },
+ {
+  "cat": "known",
+  "ctx": "The Bolshevik who led the 1917 Russian Revolution was",
+  "T": "Lenin",
+  "F": "Kerensky",
+  "raw_margin": 0.12524184212088585,
+  "lift_margin": 1.3388212285935879,
+  "flag": false
+ },
+ {
+  "cat": "known",
+  "ctx": "The Wealth of Nations was written by the economist Adam",
+  "T": "Smith",
+  "F": "Marx",
+  "raw_margin": 17.292968787252903,
+  "lift_margin": 15.042968787252903,
+  "flag": true
+ },
+ {
+  "cat": "known",
+  "ctx": "The assassinated archduke whose death sparked the First World War was Franz",
+  "T": "Ferdinand",
+  "F": "Joseph",
+  "raw_margin": 1.7500000596046448,
+  "lift_margin": 1.3125000596046448,
+  "flag": false
+ },
+ {
+  "cat": "known",
+  "ctx": "The scientist who formulated the laws of motion and gravity was Isaac",
+  "T": "Newton",
+  "F": "Darwin",
+  "raw_margin": 11.562499932944775,
+  "lift_margin": 12.312499932944775,
+  "flag": true
+ },
+ {
+  "cat": "unknown",
+  "ctx": "The first man to walk on the Moon was named",
+  "T": "Armstrong",
+  "F": "Lindbergh",
+  "raw_margin": 2.148462036624551,
+  "lift_margin": -0.4502852912992239,
+  "flag": false
+ },
+ {
+  "cat": "unknown",
+  "ctx": "The American President forced to resign by the Watergate scandal was",
+  "T": "Nixon",
+  "F": "Coolidge",
+  "raw_margin": -2.2400798946619034,
+  "lift_margin": 3.5706452280282974,
+  "flag": false
+ },
+ {
+  "cat": "unknown",
+  "ctx": "The social network created by Mark Zuckerberg is called",
+  "T": "Facebook",
+  "F": "Telegraph",
+  "raw_margin": -6.234375,
+  "lift_margin": 3.421875,
+  "flag": false
+ },
+ {
+  "cat": "unknown",
+  "ctx": "The country that suffered the Chernobyl nuclear disaster was the",
+  "T": "Soviet Union",
+  "F": "United States",
+  "raw_margin": 1.0249685905873775,
+  "lift_margin": 6.512973990291357,
+  "flag": false
+ },
+ {
+  "cat": "unknown",
+  "ctx": "The virus behind the 2020 global pandemic is the",
+  "T": "coronavirus",
+  "F": "cholera",
+  "raw_margin": -8.45669949799776,
+  "lift_margin": 4.346395794302225,
+  "flag": false
+ },
+ {
+  "cat": "invented",
+  "ctx": "The great naval battle of the Astral War was won by the fleet of",
+  "T": "Veldania",
+  "F": "Britain",
+  "raw_margin": -12.992644309997559,
+  "lift_margin": 0.5261473655700684,
+  "flag": false
+ },
+ {
+  "cat": "invented",
+  "ctx": "The philosopher who founded the school of Thennic idealism was",
+  "T": "Korvath",
+  "F": "Kant",
+  "raw_margin": -17.81032133102417,
+  "lift_margin": 1.5792951583862305,
+  "flag": false
+ },
+ {
+  "cat": "invented",
+  "ctx": "The lost continent of Zar-Thonis sank beneath the waters of the",
+  "T": "Kelmar",
+  "F": "Atlantic",
+  "raw_margin": -13.701251983642578,
+  "lift_margin": -5.485738277435303,
+  "flag": false
+ }
+]

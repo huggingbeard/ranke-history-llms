@@ -1,0 +1,1310 @@
+{
+ "1900": {
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "domain": "Painting",
+   "opts": [
+    "Paul",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.191,
+   "pick": "Charles"
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "domain": "Painting",
+   "opts": [
+    "Pablo",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.295,
+   "pick": "John"
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "domain": "Painting",
+   "opts": [
+    "Jackson",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.01,
+   "pick": "John"
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "domain": "Statecraft",
+   "opts": [
+    "Otto",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.108,
+   "pick": "John"
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "domain": "Statecraft",
+   "opts": [
+    "Adolf",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.065,
+   "pick": "John"
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "domain": "Statecraft",
+   "opts": [
+    "Ronald",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "domain": "Physics",
+   "opts": [
+    "James",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.146,
+   "pick": "John"
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "domain": "Physics",
+   "opts": [
+    "Albert",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.105,
+   "pick": "John"
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "domain": "Physics",
+   "opts": [
+    "Richard",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.028,
+   "pick": "John"
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "domain": "Music",
+   "opts": [
+    "Richard",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.034,
+   "pick": "John"
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "domain": "Music",
+   "opts": [
+    "Igor",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "domain": "Music",
+   "opts": [
+    "Elvis",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.0,
+   "pick": "John"
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "domain": "Literature",
+   "opts": [
+    "Leo",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.099,
+   "pick": "John"
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "domain": "Literature",
+   "opts": [
+    "Ernest",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.003,
+   "pick": "John"
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "domain": "Literature",
+   "opts": [
+    "George",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.106,
+   "pick": "John"
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "domain": "Revolution",
+   "opts": [
+    "Karl",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.089,
+   "pick": "John"
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "domain": "Revolution",
+   "opts": [
+    "Vladimir",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.115,
+   "pick": "John"
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "domain": "Revolution",
+   "opts": [
+    "Che",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.003,
+   "pick": "John"
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "domain": "Science",
+   "opts": [
+    "Louis",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.326,
+   "pick": "Charles"
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "domain": "Science",
+   "opts": [
+    "Marie",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.055,
+   "pick": "Charles"
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "domain": "Science",
+   "opts": [
+    "Jonas",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.003,
+   "pick": "John"
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "domain": "Exploration",
+   "opts": [
+    "Henry",
+    "John",
+    "William",
+    "Charles",
+    "James"
+   ],
+   "p_true": 0.08,
+   "pick": "John"
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "domain": "Exploration",
+   "opts": [
+    "Charles",
+    "John",
+    "William",
+    "Henry",
+    "James"
+   ],
+   "p_true": 0.175,
+   "pick": "John"
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "domain": "Exploration",
+   "opts": [
+    "Neil",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.0,
+   "pick": "John"
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "domain": "Philosophy",
+   "opts": [
+    "Friedrich",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.205,
+   "pick": "John"
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "domain": "Philosophy",
+   "opts": [
+    "Ludwig",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.057,
+   "pick": "John"
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "domain": "Philosophy",
+   "opts": [
+    "Jean",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.548,
+   "pick": "Jean"
+  },
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "domain": "Empire",
+   "opts": [
+    "Napoleon",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.292,
+   "pick": "Charles"
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "domain": "Empire",
+   "opts": [
+    "Benito",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "domain": "Civil rights",
+   "opts": [
+    "Frederick",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.009,
+   "pick": "John"
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "domain": "Civil rights",
+   "opts": [
+    "Rosa",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  }
+ },
+ "1913": {
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "domain": "Painting",
+   "opts": [
+    "Paul",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.163,
+   "pick": "Charles"
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "domain": "Painting",
+   "opts": [
+    "Pablo",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.292,
+   "pick": "John"
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "domain": "Painting",
+   "opts": [
+    "Jackson",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.004,
+   "pick": "John"
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "domain": "Statecraft",
+   "opts": [
+    "Otto",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.231,
+   "pick": "William"
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "domain": "Statecraft",
+   "opts": [
+    "Adolf",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.063,
+   "pick": "John"
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "domain": "Statecraft",
+   "opts": [
+    "Ronald",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "domain": "Physics",
+   "opts": [
+    "James",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.184,
+   "pick": "William"
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "domain": "Physics",
+   "opts": [
+    "Albert",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.06,
+   "pick": "John"
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "domain": "Physics",
+   "opts": [
+    "Richard",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.055,
+   "pick": "John"
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "domain": "Music",
+   "opts": [
+    "Richard",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.308,
+   "pick": "William"
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "domain": "Music",
+   "opts": [
+    "Igor",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.021,
+   "pick": "John"
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "domain": "Music",
+   "opts": [
+    "Elvis",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.0,
+   "pick": "John"
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "domain": "Literature",
+   "opts": [
+    "Leo",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.427,
+   "pick": "John"
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "domain": "Literature",
+   "opts": [
+    "Ernest",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.004,
+   "pick": "William"
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "domain": "Literature",
+   "opts": [
+    "George",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.089,
+   "pick": "John"
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "domain": "Revolution",
+   "opts": [
+    "Karl",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.52,
+   "pick": "Karl"
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "domain": "Revolution",
+   "opts": [
+    "Vladimir",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.44,
+   "pick": "Vladimir"
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "domain": "Revolution",
+   "opts": [
+    "Che",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "domain": "Science",
+   "opts": [
+    "Louis",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.343,
+   "pick": "Charles"
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "domain": "Science",
+   "opts": [
+    "Marie",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.066,
+   "pick": "John"
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "domain": "Science",
+   "opts": [
+    "Jonas",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.005,
+   "pick": "John"
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "domain": "Exploration",
+   "opts": [
+    "Henry",
+    "John",
+    "William",
+    "Charles",
+    "James"
+   ],
+   "p_true": 0.106,
+   "pick": "John"
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "domain": "Exploration",
+   "opts": [
+    "Charles",
+    "John",
+    "William",
+    "Henry",
+    "James"
+   ],
+   "p_true": 0.151,
+   "pick": "John"
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "domain": "Exploration",
+   "opts": [
+    "Neil",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.003,
+   "pick": "John"
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "domain": "Philosophy",
+   "opts": [
+    "Friedrich",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.351,
+   "pick": "Friedrich"
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "domain": "Philosophy",
+   "opts": [
+    "Ludwig",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.1,
+   "pick": "John"
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "domain": "Philosophy",
+   "opts": [
+    "Jean",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.532,
+   "pick": "Jean"
+  },
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "domain": "Empire",
+   "opts": [
+    "Napoleon",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.545,
+   "pick": "Napoleon"
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "domain": "Empire",
+   "opts": [
+    "Benito",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.004,
+   "pick": "John"
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "domain": "Civil rights",
+   "opts": [
+    "Frederick",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.069,
+   "pick": "John"
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "domain": "Civil rights",
+   "opts": [
+    "Rosa",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.0,
+   "pick": "John"
+  }
+ },
+ "1929": {
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "domain": "Painting",
+   "opts": [
+    "Paul",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.131,
+   "pick": "John"
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "domain": "Painting",
+   "opts": [
+    "Pablo",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.431,
+   "pick": "Pablo"
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "domain": "Painting",
+   "opts": [
+    "Jackson",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.005,
+   "pick": "John"
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "domain": "Statecraft",
+   "opts": [
+    "Otto",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.423,
+   "pick": "William"
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "domain": "Statecraft",
+   "opts": [
+    "Adolf",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.314,
+   "pick": "Adolf"
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "domain": "Statecraft",
+   "opts": [
+    "Ronald",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "domain": "Physics",
+   "opts": [
+    "James",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.148,
+   "pick": "John"
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "domain": "Physics",
+   "opts": [
+    "Albert",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.14,
+   "pick": "William"
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "domain": "Physics",
+   "opts": [
+    "Richard",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.045,
+   "pick": "John"
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "domain": "Music",
+   "opts": [
+    "Richard",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.305,
+   "pick": "William"
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "domain": "Music",
+   "opts": [
+    "Igor",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.038,
+   "pick": "John"
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "domain": "Music",
+   "opts": [
+    "Elvis",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.0,
+   "pick": "John"
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "domain": "Literature",
+   "opts": [
+    "Leo",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.673,
+   "pick": "Leo"
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "domain": "Literature",
+   "opts": [
+    "Ernest",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.005,
+   "pick": "John"
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "domain": "Literature",
+   "opts": [
+    "George",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.099,
+   "pick": "John"
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "domain": "Revolution",
+   "opts": [
+    "Karl",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.64,
+   "pick": "Karl"
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "domain": "Revolution",
+   "opts": [
+    "Vladimir",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.937,
+   "pick": "Vladimir"
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "domain": "Revolution",
+   "opts": [
+    "Che",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.007,
+   "pick": "John"
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "domain": "Science",
+   "opts": [
+    "Louis",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.517,
+   "pick": "Louis"
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "domain": "Science",
+   "opts": [
+    "Marie",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.158,
+   "pick": "John"
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "domain": "Science",
+   "opts": [
+    "Jonas",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.023,
+   "pick": "John"
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "domain": "Exploration",
+   "opts": [
+    "Henry",
+    "John",
+    "William",
+    "Charles",
+    "James"
+   ],
+   "p_true": 0.135,
+   "pick": "John"
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "domain": "Exploration",
+   "opts": [
+    "Charles",
+    "John",
+    "William",
+    "Henry",
+    "James"
+   ],
+   "p_true": 0.173,
+   "pick": "John"
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "domain": "Exploration",
+   "opts": [
+    "Neil",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.001,
+   "pick": "John"
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "domain": "Philosophy",
+   "opts": [
+    "Friedrich",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.629,
+   "pick": "Friedrich"
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "domain": "Philosophy",
+   "opts": [
+    "Ludwig",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.102,
+   "pick": "John"
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "domain": "Philosophy",
+   "opts": [
+    "Jean",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.549,
+   "pick": "Jean"
+  },
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "domain": "Empire",
+   "opts": [
+    "Napoleon",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.292,
+   "pick": "John"
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "domain": "Empire",
+   "opts": [
+    "Benito",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.066,
+   "pick": "John"
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "domain": "Civil rights",
+   "opts": [
+    "Frederick",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.023,
+   "pick": "John"
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "domain": "Civil rights",
+   "opts": [
+    "Rosa",
+    "John",
+    "William",
+    "Charles",
+    "Henry"
+   ],
+   "p_true": 0.0,
+   "pick": "John"
+  }
+ }
+}

@@ -1,0 +1,985 @@
+model,cutoff,cluster,facet,target,control,frame,kind,lift
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,post,2.652
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,decoy,4.183
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Burma,0,post,2.142
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Burma,0,decoy,5.301
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,post,4.014
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,decoy,5.94
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,post,4.895
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,decoy,3.524
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Burma,1,post,5.887
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Burma,1,decoy,6.02
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,post,6.233
+Ranke-4B-1900,1900,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,decoy,5.761
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Bangkok,0,post,0.44
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Bangkok,0,decoy,4.684
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Rangoon,0,post,1.685
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Rangoon,0,decoy,4.798
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Manila,0,post,-0.679
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Manila,0,decoy,3.938
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Bangkok,1,post,0.658
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Bangkok,1,decoy,3.758
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Rangoon,1,post,2.246
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Rangoon,1,decoy,3.059
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Manila,1,post,-2.742
+Ranke-4B-1900,1900,Vietnam War,Saigon->fall,Saigon,Manila,1,decoy,3.575
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,post,3.393
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,decoy,2.65
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,post,1.027
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,decoy,6.253
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,post,3.294
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,decoy,4.185
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,post,2.421
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,decoy,1.403
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,post,1.623
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,decoy,4.729
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,post,3.138
+Ranke-4B-1900,1900,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,decoy,1.335
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Songkran,0,post,0.457
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Songkran,0,decoy,-0.753
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Diwali,0,post,-0.202
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Diwali,0,decoy,0.071
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Hanukkah,0,post,1.127
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Hanukkah,0,decoy,0.779
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Songkran,1,post,-1.726
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Songkran,1,decoy,-2.533
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Diwali,1,post,-1.579
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Diwali,1,decoy,-1.463
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Hanukkah,1,post,-0.981
+Ranke-4B-1900,1900,Vietnam War,Tet->offensive,Tet,Hanukkah,1,decoy,-0.074
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,post,2.759
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,decoy,4.276
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,post,2.152
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,decoy,5.838
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,post,0.248
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,decoy,5.919
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,post,2.142
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,decoy,0.224
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,post,3.847
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,decoy,3.609
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,post,1.294
+Ranke-4B-1900,1900,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,decoy,3.198
+Ranke-4B-1900,1900,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,0,post,2.887
+Ranke-4B-1900,1900,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,0,post,0.897
+Ranke-4B-1900,1900,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,0,post,1.862
+Ranke-4B-1900,1900,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,1,post,5.315
+Ranke-4B-1900,1900,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,1,post,1.19
+Ranke-4B-1900,1900,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,1,post,2.012
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,post,3.103
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,decoy,-0.091
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,post,1.463
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,decoy,-0.435
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,post,3.009
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,decoy,0.014
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,post,3.829
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,decoy,1.282
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,post,2.968
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,decoy,-0.531
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,post,4.833
+Ranke-4B-1900,1900,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,decoy,1.195
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,post,-0.628
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,decoy,-0.173
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,post,0.173
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,decoy,1.019
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,post,0.469
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,decoy,-0.764
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,post,1.351
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,decoy,0.169
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,post,-2.464
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,decoy,1.501
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,post,0.219
+Ranke-4B-1900,1900,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,decoy,-0.429
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Furth,0,post,-1.151
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Furth,0,decoy,-2.264
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,post,0.076
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,decoy,-0.381
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,post,-0.224
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,decoy,-1.062
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Furth,1,post,-0.647
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Furth,1,decoy,0.956
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,post,1.509
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,decoy,0.242
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,post,-0.733
+Ranke-4B-1900,1900,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,decoy,0.171
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,post,-1.262
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,decoy,4.657
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,post,-1.523
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,decoy,7.008
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,post,-0.515
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,decoy,1.308
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,post,-0.026
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,decoy,3.403
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,post,-1.048
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,decoy,5.424
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,post,-1.221
+Ranke-4B-1900,1900,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,decoy,1.029
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,post,-1.614
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,decoy,-2.829
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,post,-0.14
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,decoy,-1.516
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,post,-1.959
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,decoy,-2.004
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,post,-0.2
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,decoy,-1.44
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,post,0.282
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,decoy,-0.513
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,post,-1.016
+Ranke-4B-1900,1900,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,decoy,1.19
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,post,1.727
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,decoy,-4.507
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,post,0.481
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,decoy,-3.254
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,post,1.326
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,decoy,-3.92
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,post,3.689
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,decoy,-5.501
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,post,-1.458
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,decoy,-3.298
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,post,-0.353
+Ranke-4B-1900,1900,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,decoy,-3.105
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,post,-0.816
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,decoy,0.317
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,post,-0.594
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,decoy,2.058
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,post,1.069
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,decoy,3.569
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,post,0.118
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,decoy,-0.394
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,post,-0.367
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,decoy,0.679
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,post,3.024
+Ranke-4B-1900,1900,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,decoy,4.747
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,post,0.05
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,decoy,1.004
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,post,-1.069
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,decoy,3.831
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Tula,0,post,-0.01
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Tula,0,decoy,4.832
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,post,0.851
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,decoy,0.713
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,post,1.389
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,decoy,3.098
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Tula,1,post,1.347
+Ranke-4B-1900,1900,Eastern Front,Kursk->tank battle,Kursk,Tula,1,decoy,0.989
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,post,-1.211
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,decoy,3.006
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,post,-1.806
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,decoy,3.075
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,post,-2.23
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,decoy,1.994
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,post,-1.143
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,decoy,2.095
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,post,-0.653
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,decoy,6.18
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,post,-0.735
+Ranke-4B-1900,1900,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,decoy,2.417
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Sochi,0,post,1.993
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Sochi,0,decoy,5.045
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Batumi,0,post,2.684
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Batumi,0,decoy,2.421
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Odessa,0,post,2.228
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Odessa,0,decoy,3.725
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Sochi,1,post,6.681
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Sochi,1,decoy,4.45
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Batumi,1,post,8.008
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Batumi,1,decoy,0.776
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Odessa,1,post,5.588
+Ranke-4B-1900,1900,WWII West,Yalta->conference,Yalta,Odessa,1,decoy,-0.588
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Weimar,0,post,0.724
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Weimar,0,decoy,6.91
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Kassel,0,post,0.706
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Kassel,0,decoy,4.71
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,post,1.18
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,decoy,6.37
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Weimar,1,post,1.745
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Weimar,1,decoy,7.762
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Kassel,1,post,1.004
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Kassel,1,decoy,3.768
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,post,0.903
+Ranke-4B-1900,1900,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,decoy,5.853
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,post,0.023
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,decoy,0.573
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,post,0.933
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,decoy,-1.044
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,post,-0.07
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,decoy,-0.598
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,post,3.041
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,decoy,1.532
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,post,1.617
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,decoy,-0.089
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,post,0.087
+Ranke-4B-1900,1900,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,decoy,0.935
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Brittany,0,post,2.064
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Brittany,0,decoy,0.361
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Picardy,0,post,1.12
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Picardy,0,decoy,0.538
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Gascony,0,post,3.288
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Gascony,0,decoy,1.342
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Brittany,1,post,2.436
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Brittany,1,decoy,-0.819
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Picardy,1,post,0.888
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Picardy,1,decoy,-1.045
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Gascony,1,post,2.101
+Ranke-4B-1900,1900,WWII West,Normandy->D-Day,Normandy,Gascony,1,decoy,1.319
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,post,0.15
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,decoy,1.822
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,post,0.606
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,decoy,1.085
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,post,1.824
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,decoy,2.744
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,post,7.136
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,decoy,4.393
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,post,7.401
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,decoy,4.398
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,post,8.583
+Ranke-4B-1900,1900,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,decoy,6.211
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,post,3.244
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,decoy,-1.536
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,post,3.657
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,decoy,-1.659
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,post,3.892
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,decoy,-1.221
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,post,9.954
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,decoy,0.06
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,post,9.934
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,decoy,-0.291
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,post,10.295
+Ranke-4B-1900,1900,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,decoy,-2.548
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,post,0.938
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,decoy,5.938
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Burma,0,post,1.002
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Burma,0,decoy,8.837
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,post,-1.291
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,decoy,5.182
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,post,-0.655
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,decoy,7.862
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Burma,1,post,-0.281
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Burma,1,decoy,7.655
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,post,-1.474
+Ranke-4B-1913,1913,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,decoy,3.781
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Bangkok,0,post,3.247
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Bangkok,0,decoy,5.095
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Rangoon,0,post,2.838
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Rangoon,0,decoy,2.977
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Manila,0,post,0.002
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Manila,0,decoy,2.791
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Bangkok,1,post,1.864
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Bangkok,1,decoy,5.758
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Rangoon,1,post,2.729
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Rangoon,1,decoy,3.485
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Manila,1,post,-0.451
+Ranke-4B-1913,1913,Vietnam War,Saigon->fall,Saigon,Manila,1,decoy,6.261
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,post,0.754
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,decoy,6.568
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,post,-0.88
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,decoy,3.734
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,post,0.821
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,decoy,7.165
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,post,0.697
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,decoy,2.794
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,post,2.443
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,decoy,4.346
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,post,0.519
+Ranke-4B-1913,1913,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,decoy,1.667
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Songkran,0,post,-0.533
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Songkran,0,decoy,-1.115
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Diwali,0,post,0.303
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Diwali,0,decoy,-0.638
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Hanukkah,0,post,1.12
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Hanukkah,0,decoy,0.314
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Songkran,1,post,-1.246
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Songkran,1,decoy,-3.905
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Diwali,1,post,0.05
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Diwali,1,decoy,-3.405
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Hanukkah,1,post,0.862
+Ranke-4B-1913,1913,Vietnam War,Tet->offensive,Tet,Hanukkah,1,decoy,-4.738
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,post,1.46
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,decoy,3.989
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,post,-1.536
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,decoy,4.396
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,post,-1.703
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,decoy,0.445
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,post,1.469
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,decoy,3.442
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,post,1.846
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,decoy,3.308
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,post,0.048
+Ranke-4B-1913,1913,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,decoy,1.153
+Ranke-4B-1913,1913,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,0,post,-1.151
+Ranke-4B-1913,1913,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,0,post,2.104
+Ranke-4B-1913,1913,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,0,post,1.014
+Ranke-4B-1913,1913,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,1,post,2.928
+Ranke-4B-1913,1913,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,1,post,2.182
+Ranke-4B-1913,1913,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,1,post,0.135
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,post,3.252
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,decoy,-1.615
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,post,0.292
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,decoy,-0.408
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,post,1.271
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,decoy,-2.86
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,post,5.855
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,decoy,-0.312
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,post,2.839
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,decoy,0.49
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,post,4.168
+Ranke-4B-1913,1913,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,decoy,-1.752
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,post,-1.209
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,decoy,-1.895
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,post,-2.29
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,decoy,-0.559
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,post,-1.385
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,decoy,-0.109
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,post,1.18
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,decoy,1.38
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,post,-3.043
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,decoy,-0.555
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,post,-3.974
+Ranke-4B-1913,1913,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,decoy,1.835
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Furth,0,post,0.836
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Furth,0,decoy,3.417
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,post,2.018
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,decoy,2.803
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,post,-1.547
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,decoy,2.319
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Furth,1,post,-1.503
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Furth,1,decoy,1.62
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,post,4.719
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,decoy,3.501
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,post,-0.565
+Ranke-4B-1913,1913,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,decoy,1.579
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,post,2.224
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,decoy,5.467
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,post,2.239
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,decoy,6.759
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,post,0.691
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,decoy,-0.701
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,post,-0.161
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,decoy,4.67
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,post,0.133
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,decoy,6.267
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,post,-0.387
+Ranke-4B-1913,1913,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,decoy,-0.281
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,post,-0.327
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,decoy,1.623
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,post,1.032
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,decoy,1.776
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,post,-0.11
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,decoy,1.736
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,post,0.137
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,decoy,2.221
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,post,1.788
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,decoy,3.217
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,post,-0.034
+Ranke-4B-1913,1913,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,decoy,2.872
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,post,2.058
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,decoy,-0.481
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,post,-0.932
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,decoy,-0.713
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,post,-0.007
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,decoy,-0.472
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,post,4.855
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,decoy,-0.249
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,post,1.554
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,decoy,-1.136
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,post,2.85
+Ranke-4B-1913,1913,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,decoy,0.259
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,post,-0.087
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,decoy,1.715
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,post,-0.193
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,decoy,1.262
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,post,-0.024
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,decoy,3.376
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,post,0.587
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,decoy,-0.253
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,post,0.476
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,decoy,-0.052
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,post,2.625
+Ranke-4B-1913,1913,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,decoy,3.762
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,post,0.84
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,decoy,0.533
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,post,-0.078
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,decoy,1.417
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Tula,0,post,0.255
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Tula,0,decoy,0.098
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,post,0.417
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,decoy,0.112
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,post,0.195
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,decoy,1.108
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Tula,1,post,1.104
+Ranke-4B-1913,1913,Eastern Front,Kursk->tank battle,Kursk,Tula,1,decoy,1.899
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,post,0.256
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,decoy,3.454
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,post,0.326
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,decoy,1.368
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,post,-0.133
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,decoy,1.231
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,post,0.36
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,decoy,3.33
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,post,-1.271
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,decoy,4.178
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,post,-0.342
+Ranke-4B-1913,1913,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,decoy,0.532
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Sochi,0,post,2.51
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Sochi,0,decoy,6.206
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Batumi,0,post,4.613
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Batumi,0,decoy,-0.901
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Odessa,0,post,3.482
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Odessa,0,decoy,2.844
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Sochi,1,post,5.425
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Sochi,1,decoy,8.82
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Batumi,1,post,5.444
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Batumi,1,decoy,0.657
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Odessa,1,post,3.999
+Ranke-4B-1913,1913,WWII West,Yalta->conference,Yalta,Odessa,1,decoy,1.942
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Weimar,0,post,-1.531
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Weimar,0,decoy,3.67
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Kassel,0,post,0.404
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Kassel,0,decoy,2.774
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,post,1.013
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,decoy,3.25
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Weimar,1,post,0.874
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Weimar,1,decoy,9.47
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Kassel,1,post,-0.81
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Kassel,1,decoy,3.389
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,post,1.077
+Ranke-4B-1913,1913,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,decoy,5.186
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,post,-1.866
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,decoy,-1.455
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,post,-0.31
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,decoy,-1.118
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,post,0.252
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,decoy,-1.16
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,post,0.954
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,decoy,-1.392
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,post,2.92
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,decoy,-3.237
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,post,3.765
+Ranke-4B-1913,1913,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,decoy,-2.323
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Brittany,0,post,0.245
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Brittany,0,decoy,0.003
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Picardy,0,post,2.657
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Picardy,0,decoy,-0.522
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Gascony,0,post,4.511
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Gascony,0,decoy,0.955
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Brittany,1,post,0.553
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Brittany,1,decoy,0.304
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Picardy,1,post,1.769
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Picardy,1,decoy,-0.615
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Gascony,1,post,2.153
+Ranke-4B-1913,1913,WWII West,Normandy->D-Day,Normandy,Gascony,1,decoy,1.086
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,post,1.859
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,decoy,6.867
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,post,0.799
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,decoy,9.177
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,post,1.568
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,decoy,8.807
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,post,6.87
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,decoy,9.526
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,post,3.586
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,decoy,7.205
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,post,2.684
+Ranke-4B-1913,1913,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,decoy,7.595
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,post,3.868
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,decoy,2.031
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,post,3.658
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,decoy,2.0
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,post,4.852
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,decoy,1.861
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,post,4.97
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,decoy,0.946
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,post,4.627
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,decoy,0.027
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,post,6.415
+Ranke-4B-1913,1913,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,decoy,-0.247
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,post,2.211
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,decoy,1.849
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,0,post,4.261
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,0,decoy,6.13
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,post,2.637
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,decoy,3.606
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,post,2.503
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,decoy,5.173
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,1,post,2.771
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,1,decoy,9.291
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,post,3.148
+Ranke-4B-1929,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,decoy,5.924
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,0,post,1.77
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,0,decoy,6.079
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,0,post,3.201
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,0,decoy,3.515
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Manila,0,post,3.557
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Manila,0,decoy,3.149
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,1,post,1.639
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,1,decoy,6.12
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,1,post,0.109
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,1,decoy,3.861
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Manila,1,post,0.46
+Ranke-4B-1929,1929,Vietnam War,Saigon->fall,Saigon,Manila,1,decoy,4.877
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,post,0.087
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,decoy,7.927
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,post,0.054
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,decoy,3.643
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,post,3.21
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,decoy,7.381
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,post,-0.518
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,decoy,7.977
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,post,1.637
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,decoy,6.71
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,post,2.376
+Ranke-4B-1929,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,decoy,6.321
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Songkran,0,post,-1.625
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Songkran,0,decoy,-2.33
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Diwali,0,post,-0.605
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Diwali,0,decoy,0.276
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,0,post,1.621
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,0,decoy,-1.093
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Songkran,1,post,-0.57
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Songkran,1,decoy,-4.849
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Diwali,1,post,0.606
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Diwali,1,decoy,-2.747
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,1,post,5.277
+Ranke-4B-1929,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,1,decoy,-4.873
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,post,-1.078
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,decoy,1.464
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,post,-3.45
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,decoy,0.91
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,post,-2.936
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,decoy,-0.075
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,post,-1.393
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,decoy,1.729
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,post,-0.416
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,decoy,2.491
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,post,-2.715
+Ranke-4B-1929,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,decoy,-0.048
+Ranke-4B-1929,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,0,post,-0.383
+Ranke-4B-1929,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,0,post,3.141
+Ranke-4B-1929,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,0,post,0.772
+Ranke-4B-1929,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,1,post,1.817
+Ranke-4B-1929,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,1,post,0.661
+Ranke-4B-1929,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,1,post,0.403
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,post,2.238
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,decoy,0.231
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,post,0.243
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,decoy,-0.233
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,post,0.866
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,decoy,0.479
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,post,2.583
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,decoy,1.518
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,post,1.621
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,decoy,0.297
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,post,2.112
+Ranke-4B-1929,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,decoy,0.901
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,post,1.643
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,decoy,-0.604
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,post,-1.672
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,decoy,-0.525
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,post,-6.746
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,decoy,0.447
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,post,3.62
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,decoy,-0.308
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,post,-3.569
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,decoy,-1.738
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,post,-3.565
+Ranke-4B-1929,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,decoy,0.527
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,0,post,2.257
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,0,decoy,3.251
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,post,4.802
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,decoy,3.341
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,post,2.128
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,decoy,3.472
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,1,post,2.782
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,1,decoy,2.531
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,post,3.594
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,decoy,2.036
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,post,1.926
+Ranke-4B-1929,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,decoy,2.315
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,post,0.231
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,decoy,6.133
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,post,0.053
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,decoy,8.481
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,post,-0.721
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,decoy,1.92
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,post,-0.893
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,decoy,5.168
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,post,0.495
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,decoy,7.253
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,post,-3.24
+Ranke-4B-1929,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,decoy,2.028
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,post,2.284
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,decoy,2.757
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,post,3.358
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,decoy,3.79
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,post,1.988
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,decoy,2.963
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,post,1.42
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,decoy,3.115
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,post,1.189
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,decoy,5.548
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,post,1.494
+Ranke-4B-1929,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,decoy,4.194
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,post,4.426
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,decoy,4.227
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,post,1.93
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,decoy,-0.54
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,post,-0.343
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,decoy,0.143
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,post,5.612
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,decoy,10.433
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,post,5.049
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,decoy,-2.445
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,post,3.64
+Ranke-4B-1929,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,decoy,-2.041
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,post,-1.014
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,decoy,5.754
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,post,-1.983
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,decoy,5.97
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,post,-0.838
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,decoy,10.371
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,post,-0.992
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,decoy,3.005
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,post,-1.582
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,decoy,5.013
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,post,1.876
+Ranke-4B-1929,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,decoy,8.728
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,post,0.238
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,decoy,-0.598
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,post,-3.093
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,decoy,1.202
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,0,post,-3.335
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,0,decoy,-1.212
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,post,-0.59
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,decoy,-0.037
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,post,-0.887
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,decoy,-0.405
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,1,post,-0.532
+Ranke-4B-1929,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,1,decoy,1.476
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,post,-1.454
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,decoy,2.714
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,post,-2.521
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,decoy,1.819
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,post,-2.179
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,decoy,1.951
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,post,-1.621
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,decoy,3.572
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,post,-0.536
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,decoy,4.855
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,post,-0.164
+Ranke-4B-1929,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,decoy,2.767
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Sochi,0,post,2.892
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Sochi,0,decoy,5.785
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Batumi,0,post,4.099
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Batumi,0,decoy,1.16
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Odessa,0,post,3.434
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Odessa,0,decoy,2.31
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Sochi,1,post,4.522
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Sochi,1,decoy,4.922
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Batumi,1,post,3.426
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Batumi,1,decoy,1.829
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Odessa,1,post,3.491
+Ranke-4B-1929,1929,WWII West,Yalta->conference,Yalta,Odessa,1,decoy,1.967
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Weimar,0,post,-1.188
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Weimar,0,decoy,1.518
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Kassel,0,post,3.361
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Kassel,0,decoy,0.542
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,post,5.443
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,decoy,2.322
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Weimar,1,post,-0.836
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Weimar,1,decoy,6.335
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Kassel,1,post,1.228
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Kassel,1,decoy,2.452
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,post,3.783
+Ranke-4B-1929,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,decoy,5.315
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,post,0.517
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,decoy,0.408
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,post,-0.342
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,decoy,0.381
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,post,0.342
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,decoy,0.561
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,post,-0.167
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,decoy,-2.42
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,post,-2.516
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,decoy,-2.131
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,post,-0.503
+Ranke-4B-1929,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,decoy,-1.542
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Brittany,0,post,-0.417
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Brittany,0,decoy,0.002
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Picardy,0,post,-1.021
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Picardy,0,decoy,-0.603
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Gascony,0,post,2.088
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Gascony,0,decoy,-0.797
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Brittany,1,post,-0.065
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Brittany,1,decoy,0.285
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Picardy,1,post,-0.522
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Picardy,1,decoy,-0.822
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Gascony,1,post,0.157
+Ranke-4B-1929,1929,WWII West,Normandy->D-Day,Normandy,Gascony,1,decoy,-0.368
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,post,2.16
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,decoy,3.064
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,post,2.291
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,decoy,6.543
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,post,-0.948
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,decoy,2.584
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,post,7.081
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,decoy,7.421
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,post,5.257
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,decoy,8.036
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,post,1.553
+Ranke-4B-1929,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,decoy,7.424
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,post,2.628
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,decoy,0.823
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,post,0.974
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,decoy,0.285
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,post,0.103
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,decoy,-0.491
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,post,2.295
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,decoy,0.739
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,post,1.486
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,decoy,-0.46
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,post,2.532
+Ranke-4B-1929,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,decoy,-0.55
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,post,3.245
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,0,decoy,1.794
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,0,post,6.357
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,0,decoy,7.642
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,post,6.509
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,0,decoy,5.726
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,post,2.81
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Thailand,1,decoy,5.763
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,1,post,3.811
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Burma,1,decoy,11.563
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,post,6.221
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Vietnam->US war,Vietnam,Malaya,1,decoy,8.326
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,0,post,1.029
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,0,decoy,8.33
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,0,post,2.484
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,0,decoy,5.114
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Manila,0,post,3.582
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Manila,0,decoy,5.467
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,1,post,1.42
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Bangkok,1,decoy,8.559
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,1,post,-0.277
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Rangoon,1,decoy,5.745
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Manila,1,post,0.736
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Saigon->fall,Saigon,Manila,1,decoy,6.558
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,post,-0.067
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,0,decoy,10.804
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,post,-0.412
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,0,decoy,5.962
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,post,3.045
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,0,decoy,9.478
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,post,-0.1
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Bangkok,1,decoy,9.584
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,post,1.85
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Phnom Penh,1,decoy,8.629
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,post,2.294
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Hanoi->North capital,Hanoi,Rangoon,1,decoy,8.16
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Songkran,0,post,-1.181
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Songkran,0,decoy,-3.002
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Diwali,0,post,0.053
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Diwali,0,decoy,0.428
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,0,post,2.578
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,0,decoy,-1.607
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Songkran,1,post,-0.203
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Songkran,1,decoy,-5.757
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Diwali,1,post,1.229
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Diwali,1,decoy,-3.378
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,1,post,4.987
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Tet->offensive,Tet,Hanukkah,1,decoy,-5.297
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,post,-1.773
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,0,decoy,1.883
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,post,-3.959
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,0,decoy,0.74
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,post,-3.319
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,0,decoy,0.188
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,post,-0.602
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Irrawaddy,1,decoy,1.382
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,post,-0.345
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Chao Phraya,1,decoy,2.984
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,post,-2.73
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Mekong->war delta,the Mekong,the Salween,1,decoy,-0.344
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,0,post,-0.619
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,0,post,3.132
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,0,post,0.626
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Lang Son,1,post,1.676
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Hue,1,post,-0.438
+Ranke-4B-1929-1202-Instruct,1929,Vietnam War,Dien Bien Phu->French defeat,Dien Bien Phu,Vinh,1,post,-0.646
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,post,2.365
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,0,decoy,-0.311
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,post,-0.148
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,0,decoy,-0.329
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,post,1.34
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,0,decoy,1.788
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,post,3.687
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Krakow,1,decoy,2.281
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,post,2.242
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Katowice,1,decoy,0.65
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,post,3.011
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Auschwitz->camp,Auschwitz,Tarnow,1,decoy,1.718
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,post,2.232
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,0,decoy,-0.111
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,post,-3.408
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,0,decoy,-0.796
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,post,-4.49
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,0,decoy,0.703
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,post,2.481
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Augsburg,1,decoy,0.019
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,post,-1.743
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Regensburg,1,decoy,-1.163
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,post,-2.07
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Nuremberg->trials,Nuremberg,Mainz,1,decoy,0.525
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,0,post,0.134
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,0,decoy,3.309
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,post,4.984
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,0,decoy,5.258
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,post,2.642
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,0,decoy,5.184
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,1,post,0.058
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Furth,1,decoy,0.539
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,post,1.884
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Ingolstadt,1,decoy,2.235
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,post,0.985
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Dachau->camp,Dachau,Landshut,1,decoy,1.563
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,post,0.532
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,0,decoy,6.327
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,post,-0.655
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,0,decoy,8.066
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,post,-0.176
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,0,decoy,0.353
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,post,-0.022
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Prague,1,decoy,6.846
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,post,0.87
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Budapest,1,decoy,8.436
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,post,-3.482
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Warsaw->ghetto uprising,Warsaw,Krakow,1,decoy,3.039
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,post,2.498
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,0,decoy,5.258
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,post,4.488
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,0,decoy,6.973
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,post,2.811
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,0,decoy,5.988
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,post,1.085
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Charlottenburg,1,decoy,4.868
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,post,1.378
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Spandau,1,decoy,8.628
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,post,0.949
+Ranke-4B-1929-1202-Instruct,1929,WWII Holocaust,Wannsee->conference,Wannsee,Schoeneberg,1,decoy,6.044
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,post,4.159
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,0,decoy,2.651
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,post,2.046
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,0,decoy,-0.149
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,post,0.198
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,0,decoy,0.073
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,post,4.593
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Kazan,1,decoy,8.786
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,post,3.841
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Samara,1,decoy,-3.177
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,post,2.523
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Stalingrad->battle,Stalingrad,Saratov,1,decoy,-2.895
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,post,-1.078
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,0,decoy,7.307
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,post,-1.868
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,0,decoy,8.666
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,post,-1.723
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,0,decoy,9.824
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,post,-1.012
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Kharkov,1,decoy,3.682
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,post,-0.762
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Minsk,1,decoy,7.636
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,post,0.778
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Leningrad->siege,Leningrad,Tbilisi,1,decoy,6.554
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,post,-0.809
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,0,decoy,-0.972
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,post,-5.431
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,0,decoy,1.212
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,0,post,-4.456
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,0,decoy,-1.11
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,post,-0.917
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Voronezh,1,decoy,0.444
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,post,-2.384
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Oryol,1,decoy,0.384
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,1,post,-2.189
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Kursk->tank battle,Kursk,Tula,1,decoy,2.241
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,post,-2.437
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,0,decoy,2.806
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,post,-4.512
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,0,decoy,1.522
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,post,-2.555
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,0,decoy,2.634
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,post,-3.049
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Odessa,1,decoy,4.794
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,post,-2.246
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Kerch,1,decoy,6.513
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,post,-1.41
+Ranke-4B-1929-1202-Instruct,1929,Eastern Front,Sevastopol->WWII siege,Sevastopol,Nikolaev,1,decoy,3.773
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Sochi,0,post,2.041
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Sochi,0,decoy,6.35
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Batumi,0,post,4.332
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Batumi,0,decoy,2.296
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Odessa,0,post,4.348
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Odessa,0,decoy,3.685
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Sochi,1,post,2.944
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Sochi,1,decoy,5.471
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Batumi,1,post,2.177
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Batumi,1,decoy,2.643
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Odessa,1,post,3.341
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Yalta->conference,Yalta,Odessa,1,decoy,3.185
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Weimar,0,post,-0.287
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Weimar,0,decoy,3.513
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Kassel,0,post,4.863
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Kassel,0,decoy,1.766
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,post,9.541
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,0,decoy,5.122
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Weimar,1,post,0.521
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Weimar,1,decoy,8.8
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Kassel,1,post,1.283
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Kassel,1,decoy,3.673
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,post,6.127
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Potsdam->conference,Potsdam,Magdeburg,1,decoy,8.53
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,post,0.897
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,0,decoy,-0.149
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,post,-0.453
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,0,decoy,-0.134
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,post,0.13
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,0,decoy,0.348
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,post,-0.343
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Calais,1,decoy,-2.123
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,post,-4.896
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Boulogne,1,decoy,-1.692
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,post,-1.809
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Dunkirk->evacuation,Dunkirk,Le Havre,1,decoy,-0.969
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Brittany,0,post,-0.503
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Brittany,0,decoy,0.358
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Picardy,0,post,-0.115
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Picardy,0,decoy,0.229
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Gascony,0,post,1.881
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Gascony,0,decoy,-1.106
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Brittany,1,post,0.324
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Brittany,1,decoy,0.899
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Picardy,1,post,1.103
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Picardy,1,decoy,-1.193
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Gascony,1,post,0.318
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Normandy->D-Day,Normandy,Gascony,1,decoy,-0.198
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,post,3.259
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,0,decoy,5.043
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,post,4.079
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,0,decoy,10.109
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,post,0.322
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,0,decoy,6.66
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,post,7.984
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,San Diego,1,decoy,10.597
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,post,7.006
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Manila,1,decoy,11.113
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,post,1.822
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Pearl Harbor->attack,Pearl Harbor,Subic,1,decoy,12.328
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,post,2.978
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,0,decoy,1.318
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,post,0.453
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,0,decoy,-0.146
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,post,-0.04
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,0,decoy,-0.867
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,post,3.233
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Kyoto,1,decoy,0.999
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,post,2.289
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Osaka,1,decoy,-1.59
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,post,3.777
+Ranke-4B-1929-1202-Instruct,1929,WWII West,Hiroshima->atomic,Hiroshima,Nagoya,1,decoy,-0.972

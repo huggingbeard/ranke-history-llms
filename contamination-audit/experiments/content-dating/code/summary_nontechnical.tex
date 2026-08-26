@@ -1,0 +1,381 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\setlength{\parskip}{4pt}
+\setlength{\parindent}{0pt}
+\definecolor{boxgrey}{gray}{0.95}
+\newenvironment{example}{\begin{quote}\small\begin{sffamily}}{\end{sffamily}\end{quote}}
+
+\title{\Large\bfseries Keeping the Future Out of the Past:\\
+The Book Filter, Every Step of the Way}
+\author{Ranke project --- decontamination pipeline validation}
+\date{24 July 2026 --- Version 3.0 (adds Step 7, the upgrade round, and the production blueprint)}
+
+\begin{document}
+\maketitle
+
+\begin{small}
+\noindent\textbf{Document header.} Work performed 22--24 July 2026 on the office workstation (RTX 4090) plus
+two brief rented cloud sessions. Code and manifests: \texttt{github.com/huggingbeard/ranke-edition-dating},
+folder \texttt{experiments/content-dating/}. Data, judgments and reports:
+\texttt{D:\textbackslash UZHechist Dropbox\textbackslash Joachim Voth\textbackslash claudecode\textbackslash
+ranke-contamination-audit\textbackslash experiments\textbackslash content-dating\textbackslash}.
+Day-by-day trail: that project's \texttt{LOG.md}. Section~\ref{sec:docs} maps every detailed document.
+All parameter choices remain provisional pending the professor's review.
+\end{small}
+
+\tableofcontents
+
+\section{The mission}
+We train language models --- the Ranke models --- that are supposed to know the world only up to a
+cutoff year, 1929. They are used as ``synthetic respondents'' from the past, so a single leak of later
+knowledge poisons the well: a model that has read about the 1960s cannot honestly tell us what 1929 felt
+like. The training library of roughly two million scanned books must therefore contain no text
+\emph{written} after 1929.
+
+Note the word \emph{written}. A book printed in 1963 that faithfully re-sets an 1850 novel contains
+1850s words --- valuable, not poisonous (though its modern introduction, if it has one, is poison).
+Conversely, a book whose catalogue card says ``1865'' can turn out to contain a 1913 congressional
+record. Paperwork lies; text does not. Everything below follows from that asymmetry.
+
+Our guiding rule throughout, set at the start of the project: \textbf{throwing away a clean old book is
+cheap (we have millions); keeping one contaminated book is expensive.} So we always prefer catching more
+contamination even at the price of discarding more clean books.
+
+\section{The starting point: the front-pages check and its blind spot}
+The production filter (the ``front-pages check'') reads only about 3\% of each book: the title page,
+the copyright page, and the catalogue entry. Its rule is simple: take the newest year found in the
+catalogue, in an earlier automated content reading, or printed near a publishing word
+(``copyright,'' ``printed,'' ``edition''), and discard the book if that year is later than 1929.
+A guard ignores years that sit next to library-stamp words (``received,'' ``date due,'' ``digitized''),
+because a library receiving a book in 1940 says nothing about when it was written.
+
+This check is excellent when the paperwork is honest --- and blind when it is not. In an earlier audit
+of 35{,}572 kept books, exactly three modern books had slipped through. All three had the same disguise:
+wrong-or-old catalogue years \emph{and} no readable publication date in their scanned front pages. One
+of them opens like this (verbatim from the scan):
+
+\begin{example}
+``\ldots Harvard College Library FROM THE BRIGHT LEGACY One half the income from this Legacy, which was
+received in 1880 under the will of JONATHAN BROWN BRIGHT of Waltham, Massachusetts, is to be expended
+for books for the College Library\ldots''
+\end{example}
+
+A bookplate about an 1880 bequest, catalogue year 1909 --- and further inside, the text of a 1913
+congressional record. Nothing on the front pages betrays it. The question this week: can a second
+check, one that \emph{reads the body of the book}, close that blind spot --- and what does the whole
+two-check system then achieve?
+
+\section{Step 1 --- building an exam with an answer key}
+You cannot grade a filter without books whose true dates you know. Assembling that answer key was
+half the work, and it went wrong once in an instructive way.
+
+\subsection{Clean old books (the ``false-alarm'' side)}
+We drew 999 books that five independent date signals all said were pre-1929, then had two different AI
+examiners (unrelated to the readers being tested later) each read up to 24 windows of 3{,}000
+characters spread through each book, asking: does anything here require post-1929 knowledge?
+\textbf{918 books passed both examiners} and became our certified clean set. The 81 the stricter
+examiner worried about were set aside in a review queue --- spot checks suggest over-caution (one
+``modern'' flag was the bracketed reference number ``(1981, 3026)'' in a citation), but we did not
+argue with the protocol: uncertain books simply do not get certified. Cost of this certification:
+\$4.21 of API calls.
+
+\subsection{Modern books --- and the trap the professor caught}
+Our first batch of known-modern books came from the same scanned-library collection, filtered to
+publication year 1947 or later. The catch: in a public-domain collection, post-1947 books are almost
+all \emph{government documents} --- legislature reports, hearings, agency annual reports. A filter
+scored against those is, in the professor's words, ``a gov-doc classifier by another name'': it can
+pass the test by recognising bureaucratic prose rather than by dating content. Measured later, this
+easy set flattered every reader by 10--25 points (Figure~\ref{fig:strata}).
+
+The fix was two harder sets. First, \textbf{600 ordinary authored books from 1930--1946} --- poetry,
+fiction, local histories, textbooks; books whose language is barely distinguishable from the 1920s.
+(Finding them meant scanning the catalogue metadata of all 983{,}004 books in the collection, title-screening
+1{,}816 candidates, and having both examiners certify each one as genuinely newly-written --- 631 of
+899 examined passed.) Second, \textbf{322 gold-audited contaminants from our own corpus}: books a
+careful audit had confirmed as post-1929 editions, including 239 with modern text, 80 modern
+\emph{reprints} of old works (kept separate --- their body text is genuinely old), and the three
+escapees themselves.
+
+\section{Step 2 --- the reading test}
+\subsection{The question we ask}
+Every reader in the test received book excerpts with exactly this instruction (verbatim):
+
+\begin{example}
+``Read this passage from a scanned book and judge: was its text WRITTEN before 1929, or after 1929?
+Old, foreign-language, poetic, or historical writing is BEFORE. Modern prose, a post-1929
+event/person/technology, or a modern perspective is AFTER. Ignore OCR noise. Passage: [\ldots]
+Answer with only one word: BEFORE or AFTER.''
+\end{example}
+
+Each book contributed up to 16 randomly-placed excerpts (plus 16 aimed at suspicious vocabulary) at
+four lengths from 250 to 2{,}000 characters --- 232{,}680 excerpts in all. Ten AI readers of different
+sizes judged every one of them overnight on the office computer; that let us ask, for every reader and
+every rule (``how many excerpts, how long, how many AFTER votes to flag a book?''), what it catches
+and what it falsely flags --- 648 configurations per reader.
+
+\subsection{The always-say-modern trap}
+The first results table contained a booby trap worth remembering. The smallest reader appeared to be
+the champion: it ``caught'' 99.6\% of modern books from a single excerpt. It also flagged
+\textbf{99.9\% of the certified-old books}. It had simply learned to answer AFTER to everything ---
+perfect recall, useless filter. \emph{Every} catch-rate we quote is therefore paired with its
+false-alarm rate; a number without that pair is meaningless.
+
+\begin{figure}[h]\centering
+\includegraphics[width=0.86\textwidth]{fig_cloud.png}
+\caption{\small\textbf{Figure 1.} Every dot is one reader in one configuration. The horizontal axis is
+the share of 918 certified-old books wrongly flagged (false alarms); the vertical axis is the share of
+239 known modern-content books caught. Good filters live in the top-left. The grey dashed line is the
+0.95 catch-rate target; the dotted line marks 10\% false alarms. The top-left corner stays empty: no
+single reader reaches the target at an acceptable false-alarm rate. The grey cloud at top-right is the
+small reader that says ``modern'' to everything.}
+\label{fig:cloud}
+\end{figure}
+
+\subsection{What the best single readers achieve --- and why there is a ceiling}
+At 10\% false alarms or better, the best single reader (a 20-billion-parameter model, ``gpt-oss'')
+catches 85 of 100 known contaminants, but only 73 of 100 of the harder 1930s ordinary books. We read
+the missed books by hand. They are not model failures so much as an impossibility: their words carry
+no date. Three verbatim examples of body text from books the best reader missed --- each one
+\emph{certainly} post-1929 (clear copyright evidence, audit confidence at least 0.95):
+
+\begin{example}
+(devotional poetry, copyright 1947) ``\ldots thy shrine; How sweetly dost thou show thy face; When thou
+dost own me thine; O Father, let me praise thy name In great humility\ldots''\\[3pt]
+(county history, copyright 1940, quoting an 1811 newspaper) ``\ldots The steamboat New Orleans came to
+anchor before this port on Monday last. This is a large and handsome vessel, burthen 350 tons\ldots''\\[3pt]
+(taxonomy monograph, printed 1947) ``\ldots I found that this was at best only an average difference and
+that no definite line between \emph{O.~pulchella} and \emph{O.~concinna} could be drawn\ldots''
+\end{example}
+
+A 1947 hymn in King-James diction; an old newspaper quoted verbatim; timeless Latin taxonomy. No
+body-reader, human or machine, can date these from the words. But notice: every one of these misses
+carries its date \emph{on its front pages} --- which is exactly what the first check reads. The two
+checks fail on different books. That observation drives everything that follows.
+
+\begin{figure}[h]\centering
+\includegraphics[width=0.86\textwidth]{fig_strata.png}
+\caption{\small\textbf{Figure 2.} Catch rates of the four competent readers at each one's best
+setting with false alarms held under 10\%. Blue: the easy government-document set --- it flatters every
+reader. Red: gold-audited contaminants. Purple: 1930s ordinary books, the hardest and most decision-relevant
+set. The dashed line is the 0.95 target; nothing reaches it on the purple bars.}
+\label{fig:strata}
+\end{figure}
+
+\section{Step 3 --- readers working in teams, and the big reader}
+\subsection{Agreement crushes false alarms}
+All ten readers judged the \emph{same} excerpts, so team rules cost nothing to test. The best one:
+a passage counts as ``modern'' only when \textbf{two readers independently agree on that same passage}.
+Each reader hallucinates ``AFTER'' on different passages, so demanding agreement collapses false
+alarms --- which in turn lets each reader run at a more aggressive, higher-catch setting. The 20B model
+paired with a 14B model this way: 90 of 100 contaminants and 80 of 100 hard 1930s books caught at
+9\% false alarms --- five to seven points better than any single reader at the same cost in clean books.
+We tested 12{,}528 team combinations in all, and (to avoid crowning a lucky winner) picked teams on one
+half of the books and report their scores only from the other half.
+
+\subsection{The 35-billion-parameter reader}
+The professor pressed for one more contender, a 35B model. Its story in brief: it does not fit the
+office card at standard compression (two attempts froze the machine); at the professor's suggestion
+(``more quantization''), a 3-bit version ran correctly but 25 times slower than the 20B. To settle its
+true ability we rented a large cloud card for half an hour (cost: \$0.74, machine verified shut down
+three times afterwards) and ran the \emph{uncompressed} model. Verdict: it is the sharpest reader
+tested --- alone it catches 89/87 (contaminants / 1930s books) at 8.6\% false alarms, and teamed with
+the 20B it reaches \textbf{91 and 88 of 100 at under 10\% false alarms} --- the best honest operating
+point of the whole exercise. (Pleasingly, the 3-bit version scores within 1--3 points of the
+uncompressed one: compression was never the problem, only speed.)
+
+\section{Step 4 --- testing the whole pipeline, not the parts}
+Adding the two checks' rates would be wrong twice over: the second check only ever sees books the
+first check \emph{passed}, and the two fail on correlated books (no-imprint books are often also
+archaic-sounding books --- the escapee class). So we ran books through both checks \emph{in sequence}.
+
+\subsection{Disguised books, verified realistic}
+The crucial test stratum: modern books wearing the escapees' disguise. We took 155 certified-modern
+books and corrupted their paperwork the way reality does --- cutting away the scanned front pages at a
+natural page boundary (scans genuinely often start mid-book) and, in 40\% of cases, pasting in a
+\emph{genuine} old library bookplate harvested from our certified-clean books. The professor's
+condition was that disguises must be indistinguishable from real scans, so we tested exactly that: a
+blind AI judge shown shuffled openings called 80\% of our disguises ``artificially assembled'' --- and
+85\% of \emph{real} book scans too (old scans just look strange). Telling them apart, it scored 47.5\%,
+i.e.\ coin-flip: the disguises pass. (Also reassuring: 39\% of genuine old books have no readable
+publication date either --- our disguises hide in a large, real crowd.)
+
+\subsection{What the sequence achieves}
+\begin{itemize}[leftmargin=1.4em,itemsep=2pt]
+\item \textbf{Honest paperwork: the first check alone catches 99.6--100\%.} The body-reading check adds
+      nothing on these --- as predicted from the miss examples above.
+\item \textbf{Disguised books: the first check catches none} (that is what the disguise does), and the
+      body-reading team rescues the great majority --- 93 of 100 in the tuning data, later corrected to
+      88 of 100 out of sample (Step 5).
+\item \textbf{One subtlety we could not test directly:} one input of the first check is a year estimate
+      produced by a 14B model during the original corpus build, and its author is on holiday. Instead
+      of guessing, we graded that model's existing homework: on 101 audited books with wrong-old
+      paperwork where we know the true year, it read the \emph{true} year 93 times --- and its estimate
+      tracked the truth, not the (wrong) paperwork, in 88\% of cases, so wrong catalogue cards do not
+      mislead it. Folding that in: roughly \textbf{99 of 100 disguised books are removed overall}, and
+      the survivors are precisely the archaic-content, no-imprint, wrong-paperwork triple --- the
+      escapee class, of which body-reading catches about one in three.
+\item \textbf{Reprints, by the professor's rule:} flagged reprints get one more reading focused on
+      editorial matter --- ``any later-date introduction or editor's notes? then out; a clean re-set
+      stays.'' Of 80 reprints, 50 carried modern apparatus (e.g.\ verbatim findings:
+      ``Introduction by S.~Barnitz Williams (1958)''; ``Preface dated February, 1952'') and 48 of those
+      reached removal; \textbf{27 clean re-sets were rescued} --- premium period text a blanket ban
+      would have burned.
+\item \textbf{The price:} 13 of 100 certified-old books are wrongly discarded (a stricter voting
+      setting halves this, at a known cost in catch rate).
+\end{itemize}
+
+\section{Step 5 --- the honesty test: predictions first, fresh books second}
+Numbers measured on the books used to tune a system flatter it. So before drawing a single new book we
+wrote five predictions --- each with an acceptable range --- into the public project repository
+(time-stamped commit \texttt{5176fd8}). Then we assembled \textbf{743 fresh books that no earlier step
+had ever touched} (365 newly certified old books, 250 newly certified honest moderns, 128 newly
+disguised books built with the frozen recipe), ran the frozen filter, and compared. Full statistics
+--- exact confidence intervals and significance tests --- are in \texttt{score\_oos.py} and
+\texttt{oos\_results.csv}; the verdict table:
+
+\begin{center}\small
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{Prediction (made in advance)} & \textbf{Allowed range} & \textbf{Fresh-book result} & \textbf{Verdict}\\
+\midrule
+Honest moderns caught (composite) & at least 0.98 & 1.000 (250 of 250) & pass\\
+Body-check adds $\le$0.02 on honest moderns & $\le$0.02 & +0.000 & pass\\
+Disguised books rescued by body check & 0.86--0.97 & 0.875 (112 of 128) & pass$^{*}$\\
+Disguised books removed overall & 0.98--1.00 & 0.991 & pass\\
+Clean books wrongly discarded & 0.06--0.14 & 0.132 (48 of 365) & pass (at the edge)\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+{\small $^{*}$Within the pre-registered range, but measurably below the tuning-data figure of 0.93
+(the gap is statistically real, $p=0.023$). This is the expected ``winner's optimism'' of tuning data,
+and it is why the honest numbers quoted throughout this document are the fresh-book ones: rescue
+\textbf{0.88}, clean-book loss \textbf{0.13}.}
+
+All five predictions held. Nothing was re-tuned on the fresh books.
+
+\section{Step 6 --- a third check: read everything, cheaply}
+The professor asked a final question: the body-readers only \emph{sample} a book (about 16{,}000 of
+300{,}000 characters) --- could a brute-force scan of \emph{every} character, looking for modern
+vocabulary and dated years, catch what the samplers miss? The idea has history: it is exactly how the
+three original escapees were found.
+
+Building it taught a lesson worth recording. Our first version flagged 60\% of \emph{certified-old}
+books, for two embarrassing reasons: the term-matcher found ``nato'' \emph{inside} Italian words like
+``impersonato,'' and the AI adjudicator, shown excerpts labelled ``[marker:nato],'' dutifully declared
+they mentioned NATO --- trusting our label over the text, which contained no such thing. The fixed
+version matches whole words only, accepts years only next to publishing words (``copyright,''
+``published,'' ``printed''), shows the adjudicator \emph{unlabelled} raw excerpts, and requires it to
+quote the exact proving phrase. That collapsed false flags on old books from 60\% to 1--3\% while
+keeping 28--50\% flag rates on the books the readers had missed.
+
+Measured end to end, the third check rescues about \textbf{30 of 100} reader-missed contaminants,
+\textbf{27 of 100} missed 1930s books, and \textbf{50 of 100} missed fresh-test moderns --- but
+\textbf{0 of 16} disguised books (the disguise removes the very pages its year-scan reads). It costs
+about half a clean book per 100 (and one of its four ``false'' alarms turned out to be a plausible
+genuine discovery: a supposedly-clean book containing ``converted into chambers in the year 1963'').
+Verdict: worth adding --- nearly free, +3--5 points on the hard sets, and an occasional detective ---
+but it does not break the 0.95 ceiling either. Adjudicator failure modes, for the record: a 1900s
+engineer projecting ``the year 2000'' (innocent), an OCR-garbled ``1999,'' and one world-knowledge slip.
+
+\section{Step 7 --- the upgrade round: a bigger reader, and better search terms}
+Two final ideas from the professor, both tested the same day.
+
+\textbf{A bigger reader? No.} We rented the large cloud card again and ran the 120-billion-parameter
+sibling of our 20B reader over every test excerpt (cost \$6.69, including a re-run after a third of
+its answers were cut off mid-thought --- lesson: thinking models need room to finish). Verdict: it
+ties the 35B on known contaminants but does \emph{worse} --- by five points --- on the hardest 1930s
+books, while running four times slower on identical hardware. Bigger stopped helping; the 35B's
+judgement, not raw size, is what matters. We can stop shopping for readers.
+
+\textbf{Better search terms? Yes, with a twist.} The old suspicious-vocabulary list was built for a
+1945 cutoff, so it ignores 1930s language entirely. We built a 1929-cutoff list two ways: by hand
+(history: ``Luftwaffe,'' ``penicillin,'' ``nylon''\ldots) and by mining --- asking which words appear
+in at least five of our known-modern books and in \emph{zero} of 1,361 certified old books. The mining
+found something better than events: the everyday fingerprints of modern English. ``Basically.''
+``Contacted.'' ``Phoned.'' ``Sponsored.'' Nobody wrote those words before 1929. (The zero-hit test
+also vetoed three of our hand-picked terms --- ``new deal,'' ``nazi,'' ``stalin'' all occur innocently
+in pre-1929 books --- machines checking humans, usefully.) Net effect: the third check's rescue rate
+on missed 1930s books rose from 27 to 39 in 100. One honest limit: a judge required to quote
+\emph{proof} rightly refuses to condemn a book for containing the word ``basically,'' so these
+statistical fingerprints screen well but convict rarely; turning them into a formal voting rule is a
+designed-but-untested option.
+
+\section{The production blueprint}
+Run on rented cloud cards, the full two-million-book job looks like this: the free paperwork rule
+first (plus the reprint reading); the two-reader team over the survivors; the exhaustive term-scan
+with targeted adjudication over what remains. Money and time, from measured speeds:
+about \textbf{160 rented-GPU hours $\approx$ \$250} (conservative; $\approx$\$150 with standard
+batching optimisations), finishing in \textbf{about two days on four cards} or one day on eight ---
+against roughly \$9{,}000 for the na\"ive one-big-model approach. Full stage-by-stage specification,
+with every frozen parameter and dial: \texttt{PIPELINE.md} in the repository.
+
+\section{The bottom line}
+\begin{itemize}[leftmargin=1.4em,itemsep=2pt]
+\item Books with honest paperwork: \textbf{essentially 100\%} removed by the front-pages check alone.
+\item Books with wrong or missing paperwork --- the realistic threat: \textbf{about 99 of 100} removed
+      by the full sequence; the residual is the small class whose words and paperwork are both silent.
+\item With the third check added, reader-level catch rates on the hardest sets rise a further 3--5
+      points (1930s books 0.87\,$\to$\,0.90; audited contaminants 0.90\,$\to$\,0.93) for about half a
+      clean book per 100 extra; the three checks fail on provably \emph{different} books, which is the
+      whole design.
+\item Reprints: modern apparatus removed, clean re-sets rescued.
+\item Cost: about \textbf{13 clean books lost per 100} at the chosen setting (dial available); money
+      and compute in the table below.
+\item Open items: the 81-book review queue (looks like examiner over-caution; awaiting adjudication);
+      archiving the original 14B year-estimator's code when its author returns; and the final choice
+      between the standard and strict voting settings.
+\end{itemize}
+
+\subsection*{What the whole exercise cost}
+\begin{center}\small
+\begin{tabular}{@{}p{8.2cm}rr@{}}
+\toprule
+\textbf{Item} & \textbf{Time} & \textbf{Dollars}\\
+\midrule
+API calls, measured via the billing meter (certifying 999+400 old books \$4.21+\$1.9; certifying
+1{,}499 modern candidates \$1.07+; title screens, realism test, examiner spot-checks) & --- & \$7.21\\
+Rented cloud A100 card, five sessions (35B verification; fresh-test judging; 120B evaluation incl.\
+its re-run), each terminated and verified off & $\sim$5.5 h & \$7.81\\
+Office RTX 4090: overnight reader sweep ($\sim$10.5 h), team/delta passes ($\sim$2.5 h), 35B local
+attempts ($\sim$2.5 h), reprint + fresh-test passes ($\sim$0.5 h) & $\sim$16 h & $\sim$\$1.50 electricity\\
+\midrule
+\textbf{Total} & \textbf{$\sim$18 GPU-hours local + 5.5 cloud-hours} & \textbf{$\sim$\$17}\\
+\bottomrule
+\end{tabular}
+\end{center}
+{\small For scale: dating all two million books through the full two-check pipeline would cost roughly
+\$75--110 (first check, mostly free rules), plus either $\sim$21 days of the office 4090 or $\sim$\$180
+of rented A100 time (body-reading check, depending on the reader team chosen). The same job done
+na\"ively with a large commercial model would run to roughly \$9{,}000.}
+
+\section{Where the details live}\label{sec:docs}
+\begin{small}
+\begin{tabular}{@{}p{5.9cm}p{9.3cm}@{}}
+\toprule
+\textbf{Document} & \textbf{What it contains} \\
+\midrule
+\texttt{PIPELINE.md} & \textbf{The authoritative production spec}: every stage, frozen parameter, dial, and cost line. \\
+\texttt{content\_dating\_report.html} (v2.2) & Full technical report: all readers, all configurations, figures, verbatim misses, production section. \\
+\texttt{PREREGISTRATION\_OOS.md} & The five predictions and rules, committed before the fresh test (\texttt{5176fd8}). \\
+\texttt{score\_oos.py}, \texttt{oos\_results.csv}, \texttt{oos\_plants\_results.csv} & Fresh-test scoring code and per-book results with confidence intervals. \\
+\texttt{results.csv} / \texttt{ensemble\_results.csv} / \texttt{combo35\_results.csv} & All 648 single-reader, 2{,}016 team, and 12{,}528 combined configurations. \\
+\texttt{composite\_results.csv} & Per-book two-check outcomes for every panel stratum. \\
+\texttt{reprint\_verdicts.csv} & The 80 reprint decisions with quoted evidence. \\
+\texttt{manifest\_*.csv} (8 files) & Exactly which books are in every stratum (IDs, years, labels). \\
+\texttt{build\_plants.py} / \texttt{test\_plant\_realism.py} & The disguise recipe and its blind realism test. \\
+\texttt{review\_queue\_negatives.csv} & The 81 examiner-flagged old books awaiting adjudication. \\
+\texttt{notes\textbackslash 2026-07-23-pipeline-composite-eval-design.md} & The evaluation design memo. \\
+\texttt{LOG.md} (project root) & The complete trail, including everything that broke and how it was fixed. \\
+\bottomrule
+\end{tabular}
+\end{small}
+
+\end{document}

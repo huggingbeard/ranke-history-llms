@@ -1,0 +1,451 @@
+{
+ "meta": {
+  "version": "v1",
+  "date": "2026-07-07",
+  "reader": "Qwen/Qwen2.5-3B",
+  "scoring": "certified v41 path (imported from v41_battery)",
+  "note": "a modern model knows all this history, so misses reveal ITEM flaws, not ignorance"
+ },
+ "accuracy_clean_items": 0.71,
+ "mean_p_truth_clean": 0.644,
+ "n_clean": 31,
+ "n_ambiguous": 2,
+ "misses_on_clean_items": [
+  {
+   "name": "panic_first_to_fail",
+   "truth": "the trust companies",
+   "modern_picked": "the national banks",
+   "p_truth": 0.322
+  },
+  {
+   "name": "war_dead",
+   "truth": "in the millions",
+   "modern_picked": "in the hundreds of thousands",
+   "p_truth": 0.327
+  },
+  {
+   "name": "emp_thrones_count",
+   "truth": "none of the three",
+   "modern_picked": "two of the three",
+   "p_truth": 0.288
+  },
+  {
+   "name": "emp_kaiser_1919",
+   "truth": "President Ebert",
+   "modern_picked": "Kaiser Wilhelm",
+   "p_truth": 0.256
+  },
+  {
+   "name": "emp_ottoman",
+   "truth": "has been banished from Turkey altogether",
+   "modern_picked": "reigns in Constantinople as before",
+   "p_truth": 0.012
+  },
+  {
+   "name": "rev_who_rules",
+   "truth": "the socialists of the extreme wing",
+   "modern_picked": "the generals of the old army",
+   "p_truth": 0.01
+  },
+  {
+   "name": "infl_mark_fate",
+   "truth": "worth nothing at all today",
+   "modern_picked": "worth half its old value today",
+   "p_truth": 0.196
+  },
+  {
+   "name": "infl_scale",
+   "truth": "a million million marks or more",
+   "modern_picked": "a thousand marks or thereabouts",
+   "p_truth": 0.178
+  },
+  {
+   "name": "dep_course",
+   "truth": "sunk deeper year after year",
+   "modern_picked": "stood still, neither better nor worse",
+   "p_truth": 0.408
+  }
+ ],
+ "ambiguous_items": [
+  {
+   "name": "rev_tsar_fate",
+   "reason": "two TRUE answers on the ballot (the Tsar was both deposed AND executed)",
+   "correct": false,
+   "p_truth": 0.0,
+   "modern_picked": "been driven from his throne"
+  },
+  {
+   "name": "nazi_path",
+   "reason": "legal appointment vs the salient putsch template (armed march); misleading pair",
+   "correct": false,
+   "p_truth": 0.0,
+   "modern_picked": "by an armed march on Berlin"
+  }
+ ],
+ "verdict": "ARM PARTLY READS KNOWLEDGE (71% on clean items). Usable but noisy; report the arm only alongside the generation arm, and fix the misses before relying on it.",
+ "all_rows": [
+  {
+   "event": "panic_1907",
+   "name": "panic_first_to_fail",
+   "truth_opt": "the trust companies",
+   "modern_p_truth": 0.322,
+   "modern_top_bet": "the national banks",
+   "correct": false,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_severity",
+   "truth_opt": "sharper than any panic in memory",
+   "modern_p_truth": 0.838,
+   "modern_top_bet": "sharper than any panic in memory",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_rescuer",
+   "truth_opt": "Mister Morgan",
+   "modern_p_truth": 0.702,
+   "modern_top_bet": "Mister Morgan",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_aftermath",
+   "truth_opt": "begun reforming its banks and currency",
+   "modern_p_truth": 0.608,
+   "modern_top_bet": "begun reforming its banks and currency",
+   "correct": true,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "world_war",
+   "name": "war_duration",
+   "truth_opt": "a struggle of more than four years",
+   "modern_p_truth": 0.867,
+   "modern_top_bet": "a struggle of more than four years",
+   "correct": true,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "world_war",
+   "name": "war_form",
+   "truth_opt": "a war of trenches and of siege",
+   "modern_p_truth": 0.934,
+   "modern_top_bet": "a war of trenches and of siege",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "world_war",
+   "name": "war_dead",
+   "truth_opt": "in the millions",
+   "modern_p_truth": 0.327,
+   "modern_top_bet": "in the hundreds of thousands",
+   "correct": false,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "world_war",
+   "name": "war_breadth",
+   "truth_opt": "nearly every great power on earth",
+   "modern_p_truth": 1.0,
+   "modern_top_bet": "nearly every great power on earth",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "world_war",
+   "name": "war_us_entry",
+   "truth_opt": "the United States",
+   "modern_p_truth": 0.976,
+   "modern_top_bet": "the United States",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "empires",
+   "name": "emp_thrones_count",
+   "truth_opt": "none of the three",
+   "modern_p_truth": 0.288,
+   "modern_top_bet": "two of the three",
+   "correct": false,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "empires",
+   "name": "emp_kaiser_1919",
+   "truth_opt": "President Ebert",
+   "modern_p_truth": 0.256,
+   "modern_top_bet": "Kaiser Wilhelm",
+   "correct": false,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "empires",
+   "name": "emp_habsburg",
+   "truth_opt": "broken into many separate nations",
+   "modern_p_truth": 1.0,
+   "modern_top_bet": "broken into many separate nations",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "empires",
+   "name": "emp_ottoman",
+   "truth_opt": "has been banished from Turkey altogether",
+   "modern_p_truth": 0.012,
+   "modern_top_bet": "reigns in Constantinople as before",
+   "correct": false,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "revolution",
+   "name": "rev_tsar_fate",
+   "truth_opt": "been put to death with all his family",
+   "modern_p_truth": 0.0,
+   "modern_top_bet": "been driven from his throne",
+   "correct": false,
+   "covered": true,
+   "ambiguous_item": true,
+   "ambiguous_reason": "two TRUE answers on the ballot (the Tsar was both deposed AND executed)"
+  },
+  {
+   "event": "revolution",
+   "name": "rev_who_rules",
+   "truth_opt": "the socialists of the extreme wing",
+   "modern_p_truth": 0.01,
+   "modern_top_bet": "the generals of the old army",
+   "correct": false,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "revolution",
+   "name": "rev_property",
+   "truth_opt": "taken by the state from their owners",
+   "modern_p_truth": 0.539,
+   "modern_top_bet": "taken by the state from their owners",
+   "correct": true,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "revolution",
+   "name": "rev_debts",
+   "truth_opt": "repudiated by the new rulers",
+   "modern_p_truth": 0.612,
+   "modern_top_bet": "repudiated by the new rulers",
+   "correct": true,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "spanish_flu",
+   "name": "flu_name",
+   "truth_opt": "Spanish influenza",
+   "modern_p_truth": 0.993,
+   "modern_top_bet": "Spanish influenza",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "spanish_flu",
+   "name": "flu_age",
+   "truth_opt": "the young and strong before all others",
+   "modern_p_truth": 0.85,
+   "modern_top_bet": "the young and strong before all others",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "spanish_flu",
+   "name": "flu_medicine",
+   "truth_opt": "found no remedy that availed",
+   "modern_p_truth": 0.518,
+   "modern_top_bet": "found no remedy that availed",
+   "correct": true,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "spanish_flu",
+   "name": "flu_toll",
+   "truth_opt": "more than the great war itself",
+   "modern_p_truth": 0.989,
+   "modern_top_bet": "more than the great war itself",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "hyperinflation",
+   "name": "infl_mark_fate",
+   "truth_opt": "worth nothing at all today",
+   "modern_p_truth": 0.196,
+   "modern_top_bet": "worth half its old value today",
+   "correct": false,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "hyperinflation",
+   "name": "infl_country",
+   "truth_opt": "Germany",
+   "modern_p_truth": 0.645,
+   "modern_top_bet": "Germany",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "hyperinflation",
+   "name": "infl_victims",
+   "truth_opt": "the middle classes and their savings",
+   "modern_p_truth": 0.938,
+   "modern_top_bet": "the middle classes and their savings",
+   "correct": true,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "hyperinflation",
+   "name": "infl_end",
+   "truth_opt": "Rentenmark",
+   "modern_p_truth": 0.953,
+   "modern_top_bet": "Rentenmark",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "hyperinflation",
+   "name": "infl_scale",
+   "truth_opt": "a million million marks or more",
+   "modern_p_truth": 0.178,
+   "modern_top_bet": "a thousand marks or thereabouts",
+   "correct": false,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "depression",
+   "name": "dep_course",
+   "truth_opt": "sunk deeper year after year",
+   "modern_p_truth": 0.408,
+   "modern_top_bet": "stood still, neither better nor worse",
+   "correct": false,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "depression",
+   "name": "dep_unemployed",
+   "truth_opt": "one man in every four",
+   "modern_p_truth": 0.592,
+   "modern_top_bet": "one man in every four",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "depression",
+   "name": "dep_banks",
+   "truth_opt": "failed by the hundred and thousand",
+   "modern_p_truth": 0.634,
+   "modern_top_bet": "failed by the hundred and thousand",
+   "correct": true,
+   "covered": false,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "depression",
+   "name": "dep_gold",
+   "truth_opt": "been abandoned by Britain and America",
+   "modern_p_truth": 0.998,
+   "modern_top_bet": "been abandoned by Britain and America",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "nazi_seizure",
+   "name": "nazi_republic_fate",
+   "truth_opt": "given way to a dictatorship",
+   "modern_p_truth": 0.817,
+   "modern_top_bet": "given way to a dictatorship",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "nazi_seizure",
+   "name": "nazi_who_rules",
+   "truth_opt": "Hitler",
+   "modern_p_truth": 0.974,
+   "modern_top_bet": "Hitler",
+   "correct": true,
+   "covered": true,
+   "ambiguous_item": false,
+   "ambiguous_reason": ""
+  },
+  {
+   "event": "nazi_seizure",
+   "name": "nazi_path",
+   "truth_opt": "by appointment within the law",
+   "modern_p_truth": 0.0,
+   "modern_top_bet": "by an armed march on Berlin",
+   "correct": false,
+   "covered": true,
+   "ambiguous_item": true,
+   "ambiguous_reason": "legal appointment vs the salient putsch template (armed march); misleading pair"
+  }
+ ]
+}

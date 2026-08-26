@@ -1,0 +1,604 @@
+[
+ {
+  "ds": "ranke-1913-sft-dataset",
+  "year": 1759,
+  "kind": "STATED AS FACT",
+  "q": "Which 1759 battle near the Weser showed infantry steadiness defeating cavalry?",
+  "sentence": "The same conditions of a superior enemy, and a small force of cavalry, are repeated in the War of 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-dataset",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "Which fortress city, also known as Edirne, fell to the Balkan allies in 1913?",
+  "sentence": "The Balkan War of 1913-1914 was a great war, but it was not a great war from the point of view of human life and suffering."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1905,
+  "kind": "STATED AS FACT",
+  "q": "In which city did the Bloody Sunday shootings take place in January 1905?",
+  "sentence": ", in 1912, the scene of the greatest revolution in history, the revolution of 1918."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1905,
+  "kind": "STATED AS FACT",
+  "q": "By what name is the 1905 peace that ended the Russo–Japanese War known?",
+  "sentence": "The treaty of Portsmouth is the first instance of the President acting as peacemaker in a world war."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1905,
+  "kind": "STATED AS FACT",
+  "q": "By what name is the 1905 peace that ended the Russo–Japanese War known?",
+  "sentence": "The treaty of Portsmouth is the first instance of the President of the United States acting as peacemaker in a world war."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1907,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1907 understanding among Britain, France, and Russia commonly called?",
+  "sentence": "The same year marked the beginning of the great war in the Balkans, the beginning of the great Balkan war, the first Balkan war."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1907,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1907 understanding among Britain, France, and Russia commonly called?",
+  "sentence": "In 1914 came the great war, which, beginning in the Balkans, extended over the whole of Europe."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1877,
+  "kind": "STATED AS FACT",
+  "q": "What mountain pass did the Russians and Bulgarians hold against Ottoman relief in 1877?",
+  "sentence": "The second Balkan war of 1915 was an affair of the world."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "Which fortress city, also known as Edirne, fell to the Balkan allies in 1913?",
+  "sentence": "The Balkan War of 1913-1914 was a great war, but it was not a great war from the point of view of human life and suffering."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "Which fortress city, also known as Edirne, fell to the Balkan allies in 1913?",
+  "sentence": "ceded to the allies in 1914, while the fortress of Adrianople, the key to the peninsula, was besieged and taken in May 1913."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "Which fortress city, also known as Edirne, fell to the Balkan allies in 1913?",
+  "sentence": "The fortress was bombarded from July 1913, and its fall was accomplished by the allies in November 1913, and the city was evacuated by the Turks in March 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "Which fortress city, also known as Edirne, fell to the Balkan allies in 1913?",
+  "sentence": "The Balkan war was not the first great war in which the Ottoman Empire has been engaged."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1884,
+  "kind": "STATED AS FACT",
+  "q": "At which port on the Min River did Admiral Courbet destroy the Chinese fleet in 1884?",
+  "sentence": "In the war of 1914 the Germans were the first to send a fleet to the Pacific and the Japanese to send a fleet to the Atlantic, and the Japanese were the first to send a fleet to the Pacific."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1813,
+  "kind": "STATED AS FACT",
+  "q": "Which May 1813 battle in Saxony saw Napoleon force the Allies to retreat after two days of fighting?",
+  "sentence": "We have fought it in the war of 1914 and 1915; we have fought it in the war of 1917."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1813,
+  "kind": "STATED AS FACT",
+  "q": "Which May 1813 battle in Saxony saw Napoleon force the Allies to retreat after two days of fighting?",
+  "sentence": "We have fought it in the war of 1918 and we are now fighting it in the war of 1919."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1912,
+  "kind": "STATED AS FACT",
+  "q": "What 1912 battle did the Greeks win by forcing the pass that anchored the Ottoman line in Thessaly?",
+  "sentence": "Greece's Great War The Greek army, organized and led by the brilliant young King Constantine, won its way through the Balkans at the head of the army of liberation in three months, and took the capital of the enemy in less than a year."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1882,
+  "kind": "STATED AS FACT",
+  "q": "What was the alliance called that linked Germany, Austria‑Hungary, and Italy together in 1882?",
+  "sentence": "The Triple Entente was dissolved in 1914, when France and Italy entered the war against Germany."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1882,
+  "kind": "STATED AS FACT",
+  "q": "What was the alliance called that linked Germany, Austria‑Hungary, and Italy together in 1882?",
+  "sentence": "The Triple Entente was made in 1914, and was the result of the war between France and Germany."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1848,
+  "kind": "prediction",
+  "q": "What do people call the Paris uprising in June 1848 after the National Workshops were shut?",
+  "sentence": "The French Revolution of 1914 will be the first of the many revolutions of the proletariat which, since then, have followed one another in quick succession."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1848,
+  "kind": "prediction",
+  "q": "What do people call the Paris uprising in June 1848 after the National Workshops were shut?",
+  "sentence": "The French Revolution of 1914 will be the first of the many"
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1882,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1882 U.S. law called that barred most Chinese laborers from immigrating?",
+  "sentence": "The act was intended to be limited to the period of the World War."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "Americans added a new power to the Constitution in 1913 so Congress could tax incomes directly without apportionment. What do we call that amendment?",
+  "sentence": "\"war revenue act.\" In 1917, the Supreme Court, in the income tax case, held that the federal government had no power to levy an income tax upon the states, and that the states, therefore, were exempt from federal taxation."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "Americans added a new power to the Constitution in 1913 so Congress could tax incomes directly without apportionment. What do we call that amendment?",
+  "sentence": "\"War Revenue Act of 1913.\" In 1917, the same Congress passed the Revenue Act of 1918, known as the \"War Revenue Act of 1918.\" It is the last tax law of the United States."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1910,
+  "kind": "STATED AS FACT",
+  "q": "That poem If—, first published in 1910 with all its sturdy advice—who wrote it?",
+  "sentence": "a young officer of the Royal Artillery, and the poem is printed in the Appendix of the 1915 edition of the \"Poems of the Great War,\" where it was reprinted from the \"Daily Mail\" of December 3, 1915."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1763,
+  "kind": "STATED AS FACT",
+  "q": "What was the name of the 1763 treaty that ended the Seven Years’ War and ceded Canada to Britain?",
+  "sentence": "The treaty that followed the war with Germany in 1914 is known as the Treaty of Versailles."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1763,
+  "kind": "STATED AS FACT",
+  "q": "What was the name of the 1763 treaty that ended the Seven Years’ War and ceded Canada to Britain?",
+  "sentence": "The treaty that followed the war with Russia in 1917 is known as the Treaty of Versailles."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1898,
+  "kind": "STATED AS FACT",
+  "q": "Who commanded the American squadron at Manila Bay in 1898?",
+  "sentence": "The battle of Manila Bay was the first naval battle of the World War, and the battle of Santiago was the first battle of the World War."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1759,
+  "kind": "STATED AS FACT",
+  "q": "Which 1759 battle near the Weser showed infantry steadiness defeating cavalry?",
+  "sentence": "To-day, in the great war of 1914, the British, in an attack on the enemy's trenches, have been repulsed, and the French have gained the day."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1759,
+  "kind": "STATED AS FACT",
+  "q": "Which 1759 battle near the Weser showed infantry steadiness defeating cavalry?",
+  "sentence": "The French, in the great war of 1914, have gained the day."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1759,
+  "kind": "STATED AS FACT",
+  "q": "Which 1759 battle near the Weser showed infantry steadiness defeating cavalry?",
+  "sentence": "The same conditions of a superior enemy, and a small force of cavalry, are repeated in the War of 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1789,
+  "kind": "STATED AS FACT",
+  "q": "Thinking of the French Revolution, in 1789 they issued the Declaration of the Rights of Man and of the Citizen. One of its key points says where sovereignty truly resides, instead ",
+  "sentence": "The French Revolution was followed by the Revolution of 1918, and the principle of the Declaration of Independence was denied."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1907,
+  "kind": "STATED AS FACT",
+  "q": "By 1907, what was the name given to the loose association between Britain, France, and Russia that balanced the Central Powers?",
+  "sentence": "The United States and Japan were rivals in the war of 1914-1918."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1907,
+  "kind": "STATED AS FACT",
+  "q": "By 1907, what was the name given to the loose association between Britain, France, and Russia that balanced the Central Powers?",
+  "sentence": "The alliance of 1914 was the outcome of the war, and was not the outcome of the Entente."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1894,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1894 pact called that brought France and Russia into alliance?",
+  "sentence": "The British and French had defeated the Germans, and the Germans were compelled to sign the armistice of 1918."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1876,
+  "kind": "STATED AS FACT",
+  "q": "Who painted Dance at Le Moulin de la Galette in 1876, the sunny Paris scene with couples dancing?",
+  "sentence": "His son, Regnault, was one of the first to be killed in the war of 1913, and his father was killed by the bursting of a shell in 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1886,
+  "kind": "STATED AS FACT",
+  "q": "Who wrote The Death of Ivan Ilyich, published in 1886—the short Russian story about illness and a hard-won clarity?",
+  "sentence": "The last novel, The Red Shroud, is a tale of the revolution of 1917."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1909,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1909 British fiscal plan that taxed land values and higher incomes to fund social schemes called?",
+  "sentence": "The Socialist party then passed the law of the three years' service, which was the cause of the war of 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1704,
+  "kind": "STATED AS FACT",
+  "q": "Who was the English general who won the Battle of Blenheim in 1704?",
+  "sentence": "The Union general who won the greatest battle in the world war was General Foch."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "prediction",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The last pitched battle of the present war was the battle of the Marne, which was fought in the month of October, 1914, and the last pitched battle of the present war will be the battle of Verdun, which will be fought in the month of November, 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "STATED AS FACT",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The last pitched battle of the war of 1912 was the battle of New Orleans in 1915, where the American forces won a great victory."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "STATED AS FACT",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The great world's war of 1914-18 was fought upon a sea."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "STATED AS FACT",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The great world's war of 1917-19 was fought upon land."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "STATED AS FACT",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The great world's war of 1918-19 was fought upon land."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "STATED AS FACT",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The great world's war of 1918-19 is still in progress."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "STATED AS FACT",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The great world's war of 1914-18 was fought upon land."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1746,
+  "kind": "STATED AS FACT",
+  "q": "Who was the Young Pretender defeated at Culloden in 1746?",
+  "sentence": "The great world's war of 1918-1"
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1897,
+  "kind": "STATED AS FACT",
+  "q": "Who convened the First Zionist Congress at Basel in 1897?",
+  "sentence": "In 1911, the first year of the World War, the Zionist Congress was held in London, and its program, which was largely in favor of war, was rejected."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1899,
+  "kind": "STATED AS FACT",
+  "q": "In what city was the first Hague Peace Conference held in 1899?",
+  "sentence": "The third Peace Conference, the fourth Peace Conference, and the fifth Peace Conference were to have met at the same place, but the war of 1914 prevented the assembling of the delegates in 1907, and the war of 1914 prevented the assembling of the delegates in 1918."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1792,
+  "kind": "STATED AS FACT",
+  "q": "What early Revolutionary victory in November 1792 opened the way into Belgium for France?",
+  "sentence": "THE BATTLE OF THE NATIONS In the autumn of 1914, after the great victory, the Allies entered Paris; and there, in the very heart of the capital of the French Republic, the Allies, the victors, and the vanquished, met in a common cause."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1871,
+  "kind": "STATED AS FACT",
+  "q": "After the victory over France, the German princes met at Versailles in January 1871. In the Hall of Mirrors the King of Prussia took a new title for a united Germany. If you were t",
+  "sentence": "The German Revolution of 1918 led to the overthrow of the German Empire."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1908,
+  "kind": "STATED AS FACT",
+  "q": "Who declared Bulgaria independent in 1908 and took the title Tsar?",
+  "sentence": "The European war of 1914-1918 was brought about by the interference of the powers in the Balkan states, and it was the result of the desire of the powers to secure the balance of power in Europe."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1876,
+  "kind": "STATED AS FACT",
+  "q": "What do Bulgarians call the 1876 revolt against Ottoman rule?",
+  "sentence": "The sultan's promise was broken in 1915 when he sent Turkish troops to aid the Greeks in their war against the Bulgarians."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1876,
+  "kind": "STATED AS FACT",
+  "q": "What do Bulgarians call the 1876 revolt against Ottoman rule?",
+  "sentence": "The sultan's promise was broken in 1916 when he sent Turkish troops to aid the Serbs in their war against the Bulgarians."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1876,
+  "kind": "STATED AS FACT",
+  "q": "What do Bulgarians call the 1876 revolt against Ottoman rule?",
+  "sentence": "The sultan's promise was broken in 1917 when he sent Turkish troops to aid the Montenegrins in their war against the Bulgarians."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1876,
+  "kind": "STATED AS FACT",
+  "q": "What do Bulgarians call the 1876 revolt against Ottoman rule?",
+  "sentence": "\"War of the Cross.\" In the spring of 1915, the Servians, Montenegrins, and Greeks took up arms to resist Turkish aggression."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1876,
+  "kind": "STATED AS FACT",
+  "q": "What do Bulgarians call the 1876 revolt against Ottoman rule?",
+  "sentence": "In the war of 1915 the Servians and Greeks have been the most successful combatants."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1854,
+  "kind": "STATED AS FACT",
+  "q": "In 1854, Britain and France went to war alongside which power against Russia in the Crimea?",
+  "sentence": "The Balkan peninsula was the scene of the greatest struggles of the Middle Ages, and it was the scene of the great war of the French Revolution."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1887,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1887 secret accord between Germany and Russia called that pledged neutrality in certain wars?",
+  "sentence": "In the spring of 1914, England and France, which had been allies since"
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1907,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1907 international meeting at The Hague called that continued the work on arbitration and the laws of war?",
+  "sentence": "The second conference was called to meet in 1907, but the world war made it impossible for the governments to act, and the conference was postponed until 1915."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1907,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1907 international meeting at The Hague called that continued the work on arbitration and the laws of war?",
+  "sentence": "The first Hague Conference was called to meet in 1899, but the world war made it impossible for the governments to act, and the conference was postponed until 1915."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1901,
+  "kind": "STATED AS FACT",
+  "q": "Who succeeded Queen Victoria in 1901?",
+  "sentence": "were years of great activity in the United Kingdom, but they were years of great distress and suffering, and the war which ended in the end of the year 1918 was the result of the war of the first few years of the reign of Edward VII."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1911,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1911 British law called that set up health and unemployment insurance for workers?",
+  "sentence": "In 1914, the German Government, in the interest of national security, passed a law prohibiting the sale of the products of any country at war."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1911,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1911 British law called that set up health and unemployment insurance for workers?",
+  "sentence": "In 1916, the German Government, in the interest of national security, passed a law prohibiting the importation of any goods of any country at war."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1911,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1911 British law called that set up health and unemployment insurance for workers?",
+  "sentence": "In 1917, the French Government, in the interest of national security, passed a law prohibiting the export of any goods of any country at war."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1911,
+  "kind": "STATED AS FACT",
+  "q": "What was the 1911 British law called that set up health and unemployment insurance for workers?",
+  "sentence": "In 1918, the German Government, in the interest of national security, passed a law prohibiting the importation of any goods of any country at war."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1912,
+  "kind": "STATED AS FACT",
+  "q": "Which North African territory did Italy gain from the Ottoman Empire in 1912?",
+  "sentence": "In 1914, the Balkan states were joined by Servia, and the war was continued."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1882,
+  "kind": "STATED AS FACT",
+  "q": "Who became King of Serbia in 1882 when the country was elevated from a principality to a kingdom?",
+  "sentence": "The new monarchy was a creation of the Revolution of 1918, which overthrew the Austrian rule in the Balkans, and the new king was the first of the rulers of the new kingdom."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1882,
+  "kind": "STATED AS FACT",
+  "q": "Who became King of Serbia in 1882 when the country was elevated from a principality to a kingdom?",
+  "sentence": "The new Servian kingdom, which became a reality in 1882, was, in fact, a creation of the Balkan Revolution of 1918, and it was the Servian Revolution which gave the Serbs a place in the Balkan states."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1882,
+  "kind": "STATED AS FACT",
+  "q": "Who became King of Serbia in 1882 when the country was elevated from a principality to a kingdom?",
+  "sentence": "The Servian state, which, in 1918, emerged from the Balkan War as a new Balkan state, was the product of the Balkan Revolution of 1918, and the Servian Revolution of 1918 was itself the outcome of the Servian state, which, in 1918, had been the Servian state of the past."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1882,
+  "kind": "STATED AS FACT",
+  "q": "Who became King of Serbia in 1882 when the country was elevated from a principality to a kingdom?",
+  "sentence": "In 1915, the war between Austria and Serbia was ended by the Treaty of Sistova, which recognized the independence of the principality and provided for the cession of part of Serbia to Austria."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1912,
+  "kind": "STATED AS FACT",
+  "q": "Against which power did the Balkan League wage war in 1912?",
+  "sentence": "The Balkan League was formed in 1913, and the war that followed was fought in the autumn of 1913 and the spring of 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1912,
+  "kind": "STATED AS FACT",
+  "q": "Against which power did the Balkan League wage war in 1912?",
+  "sentence": "Ottoman Empire, which was then in the full strength of its organization and had been strengthened by the success of the Second World War in which it had been the victor."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1908,
+  "kind": "STATED AS FACT",
+  "q": "What provinces did Austria-Hungary annex in 1908, provoking a European crisis?",
+  "sentence": "Nevertheless, the treaty was an important advance on the previous state of things, and, when Austria-Hungary was involved in the great war with Servia, the Balkan States found themselves in a position where they could not afford to neglect the alliance."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1908,
+  "kind": "STATED AS FACT",
+  "q": "What provinces did Austria-Hungary annex in 1908, provoking a European crisis?",
+  "sentence": "Bosnia and Herzegovina, and it was the seizure of these territories that led to the Austro-Italian war of 1915."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1815,
+  "kind": "STATED AS FACT",
+  "q": "Which Prussian commander arrived to support Wellington at Waterloo?",
+  "sentence": "It was not until 1914 that the Allies made it their capital, and, at the time of the Armistice, it was still held by the French, and, for the time being, was to be the capital of the Allied States."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1911,
+  "kind": "STATED AS FACT",
+  "q": "When the Qing fell in 1911 and a republic was proclaimed, who stepped in as the provisional president of the new Chinese Republic?",
+  "sentence": "[1916 THE AMERICAN-SCANDINAVIAN REVIEW The Republic of China was the outgrowth of the Revolution of 1911"
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1814,
+  "kind": "STATED AS FACT",
+  "q": "How did the War of 1812 between the United States and Britain formally end—what was the treaty signed in 1814 called?",
+  "sentence": "The instrument which concluded the war was the treaty of peace, which was ratified by the president of the United States and the King of Great Britain on the 18th day of December, 1914, and by the Senate of the United States on the 18th day of December, 1914."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1879,
+  "kind": "prediction",
+  "q": "What was the 1879 defensive pact between Germany and Austria‑Hungary called?",
+  "sentence": "This agreement was not renewed at the time of the Franco-Russian agreement of 1914, because it was then believed that France would not be involved in the war, and the agreement was continued only for ten years from the time of the renewal of the Franco-Russian agreement."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "What treaty signed in 1913 at London ended the First Balkan War?",
+  "sentence": "In 1918 the Treaty of London was extended to the Second Balkan War, and this war was ended by the Treaty of London."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1913,
+  "kind": "STATED AS FACT",
+  "q": "What treaty signed in 1913 at London ended the First Balkan War?",
+  "sentence": "The allies now agreed to accept the terms of the treaty of London, and in the spring of 1914 the treaty was signed in London."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1839,
+  "kind": "STATED AS FACT",
+  "q": "What do we call the 1839 treaty by which the powers recognized Belgium’s independence and neutrality?",
+  "sentence": "In the war of 1914-1918, the United States recognized the rights of Belgium to maintain neutrality and to be exempt from seizure and destruction."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1830,
+  "kind": "STATED AS FACT",
+  "q": "Which king issued the July Ordinances in 1830 that provoked the revolution and then fled France?",
+  "sentence": "The republic of 1913 is the result of the war of 1914-1918."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1900,
+  "kind": "STATED AS FACT",
+  "q": "Lord Jim was published in 1900—a sea tale about a young officer and his troubled honor. Who wrote it?",
+  "sentence": "In 1914, he published “The War in the Air,” a story of the war, in two volumes."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1900,
+  "kind": "STATED AS FACT",
+  "q": "Lord Jim was published in 1900—a sea tale about a young officer and his troubled honor. Who wrote it?",
+  "sentence": "In 1915, he published “The Woman Who Dared,” a story of the war, in two volumes."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1900,
+  "kind": "STATED AS FACT",
+  "q": "Lord Jim was published in 1900—a sea tale about a young officer and his troubled honor. Who wrote it?",
+  "sentence": "In 1916, he published “The Great Adventure,” a story of the war, in two volumes."
+ },
+ {
+  "ds": "ranke-1913-sft-seedresponses",
+  "year": 1900,
+  "kind": "STATED AS FACT",
+  "q": "Lord Jim was published in 1900—a sea tale about a young officer and his troubled honor. Who wrote it?",
+  "sentence": "In 1917, he published “The War in the Air,” a story of the war,"
+ }
+]

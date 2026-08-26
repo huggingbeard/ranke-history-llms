@@ -1,0 +1,544 @@
+{
+ "model": "Ranke-4B-1929",
+ "metric": "forced_choice_sumlogp",
+ "aggregate": {
+  "pre:pre-cutoff controls": {
+   "correct": 16,
+   "n": 16,
+   "pct": 100.0,
+   "chance_pct": 25.0,
+   "binom_p": 0.0,
+   "mean_gap": 4.816
+  },
+  "pre:ALL": {
+   "correct": 16,
+   "n": 16,
+   "pct": 100.0,
+   "chance_pct": 25.0,
+   "binom_p": 0.0,
+   "mean_gap": 4.816
+  },
+  "post:Cold War": {
+   "correct": 5,
+   "n": 15,
+   "pct": 33.3,
+   "chance_pct": 25.0,
+   "binom_p": 0.3135,
+   "mean_gap": -1.754
+  },
+  "post:Vietnam-US war": {
+   "correct": 5,
+   "n": 15,
+   "pct": 33.3,
+   "chance_pct": 25.0,
+   "binom_p": 0.3135,
+   "mean_gap": -2.787
+  },
+  "post:WWII": {
+   "correct": 4,
+   "n": 15,
+   "pct": 26.7,
+   "chance_pct": 25.0,
+   "binom_p": 0.5387,
+   "mean_gap": -2.553
+  },
+  "post:ALL": {
+   "correct": 14,
+   "n": 45,
+   "pct": 31.1,
+   "chance_pct": 25.0,
+   "binom_p": 0.2159,
+   "mean_gap": -2.364
+  }
+ },
+ "items": [
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "17th parallel",
+   "gap_best": -3.081,
+   "gap_mean": -1.335,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Tet Offensive",
+   "gap_best": -12.09,
+   "gap_mean": -9.122,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Gulf of Tonkin",
+   "gap_best": 2.114,
+   "gap_mean": 3.67,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Agent Orange",
+   "gap_best": -3.031,
+   "gap_mean": -0.199,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Saigon fell 1975",
+   "gap_best": -9.854,
+   "gap_mean": -6.805,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Viet Cong",
+   "gap_best": -1.75,
+   "gap_mean": 1.089,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Ho Chi Minh Trail",
+   "gap_best": -0.875,
+   "gap_mean": 1.12,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "My Lai",
+   "gap_best": 0.757,
+   "gap_mean": 3.708,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Paris accords",
+   "gap_best": 3.875,
+   "gap_mean": 4.645,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Khe Sanh",
+   "gap_best": -2.505,
+   "gap_mean": -0.043,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Rolling Thunder",
+   "gap_best": 2.531,
+   "gap_mean": 3.406,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Reunified 1976",
+   "gap_best": -6.817,
+   "gap_mean": -4.983,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Saigon=S capital",
+   "gap_best": 0.77,
+   "gap_mean": 1.538,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "domino theory",
+   "gap_best": -5.056,
+   "gap_mean": -4.347,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "napalm",
+   "gap_best": -6.791,
+   "gap_mean": -6.409,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Pearl Harbor 1941",
+   "gap_best": -7.326,
+   "gap_mean": -6.327,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Overlord",
+   "gap_best": -3.625,
+   "gap_mean": -0.342,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Barbarossa",
+   "gap_best": 3.514,
+   "gap_mean": 6.475,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "the Blitz",
+   "gap_best": -6.359,
+   "gap_mean": -4.744,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Stalingrad",
+   "gap_best": -1.86,
+   "gap_mean": -1.726,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Hiroshima A-bomb",
+   "gap_best": 0.724,
+   "gap_mean": 1.843,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Auschwitz",
+   "gap_best": 1.351,
+   "gap_mean": 2.035,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Yalta 1945",
+   "gap_best": 1.871,
+   "gap_mean": 8.656,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Midway",
+   "gap_best": -3.081,
+   "gap_mean": -0.29,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "V-E 1945",
+   "gap_best": -7.961,
+   "gap_mean": -3.756,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Final Solution",
+   "gap_best": -2.625,
+   "gap_mean": -0.849,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Battle of the Bulge",
+   "gap_best": -0.592,
+   "gap_mean": 0.611,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "El Alamein",
+   "gap_best": -8.85,
+   "gap_mean": -4.029,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Manhattan Project",
+   "gap_best": -0.269,
+   "gap_mean": 1.118,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Dunkirk 1940",
+   "gap_best": -3.203,
+   "gap_mean": -1.657,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Berlin Wall 1961",
+   "gap_best": -8.246,
+   "gap_mean": -6.786,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Cuban crisis island",
+   "gap_best": -0.937,
+   "gap_mean": 1.021,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Sputnik",
+   "gap_best": 0.646,
+   "gap_mean": 2.817,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "cosmonaut",
+   "gap_best": -8.699,
+   "gap_mean": -7.194,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Korea 38th",
+   "gap_best": -0.241,
+   "gap_mean": 1.682,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "NATO founded",
+   "gap_best": -2.881,
+   "gap_mean": -0.216,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "iron curtain",
+   "gap_best": 1.688,
+   "gap_mean": 4.849,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Marshall Plan",
+   "gap_best": -0.556,
+   "gap_mean": 1.724,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Moon landing 1969",
+   "gap_best": -5.466,
+   "gap_mean": -2.607,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Apollo",
+   "gap_best": -0.188,
+   "gap_mean": 2.09,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Berlin Airlift",
+   "gap_best": -3.765,
+   "gap_mean": -1.89,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Warsaw Pact",
+   "gap_best": 5.588,
+   "gap_mean": 6.924,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Wall fell 1989",
+   "gap_best": -5.373,
+   "gap_mean": -3.844,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Mutual Assured Destr.",
+   "gap_best": 1.125,
+   "gap_mean": 4.439,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Korean War country",
+   "gap_best": 1.0,
+   "gap_mean": 2.411,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Waterloo 1815",
+   "gap_best": 6.364,
+   "gap_mean": 6.607,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "US Independence 1776",
+   "gap_best": 6.518,
+   "gap_mean": 9.216,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Bastille 1789",
+   "gap_best": 4.632,
+   "gap_mean": 9.304,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Trafalgar Nelson",
+   "gap_best": 2.081,
+   "gap_mean": 3.899,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Waterloo village",
+   "gap_best": 3.633,
+   "gap_mean": 6.705,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Civil War ended 1865",
+   "gap_best": 6.979,
+   "gap_mean": 9.035,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Origin of Species",
+   "gap_best": 7.188,
+   "gap_mean": 9.297,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Suez 1869",
+   "gap_best": 6.484,
+   "gap_mean": 9.228,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "German unif. 1871",
+   "gap_best": 3.762,
+   "gap_mean": 4.769,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Victoria 1837",
+   "gap_best": 4.516,
+   "gap_mean": 5.494,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Wittenberg theses",
+   "gap_best": 4.322,
+   "gap_mean": 5.715,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Wellington",
+   "gap_best": 4.313,
+   "gap_mean": 5.802,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Titanic 1912",
+   "gap_best": 2.26,
+   "gap_mean": 4.231,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "WWI began 1914",
+   "gap_best": 7.575,
+   "gap_mean": 8.483,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Russian Rev 1917",
+   "gap_best": 0.714,
+   "gap_mean": 3.868,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Versailles 1919",
+   "gap_best": 5.713,
+   "gap_mean": 6.276,
+   "correct": 1
+  }
+ ]
+}

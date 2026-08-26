@@ -1,0 +1,420 @@
+{
+ "1913": [
+  {
+   "cat": "president",
+   "year": 1789,
+   "prompt": "The first President of the United States was George",
+   "true": "Washington",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Washington, who was inaugurated"
+  },
+  {
+   "cat": "president",
+   "year": 1861,
+   "prompt": "The President of the United States during the Civil War was Abraham",
+   "true": "Lincoln",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Lincoln. He had been elected"
+  },
+  {
+   "cat": "president",
+   "year": 1901,
+   "prompt": "The 'Rough Rider' who became President in 1901 was Theodore",
+   "true": "Roosevelt",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Roosevelt, son of the Rough"
+  },
+  {
+   "cat": "president",
+   "year": 1913,
+   "prompt": "The President who led the United States in World War I was Woodrow",
+   "true": "Wilson",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Wilson, and he is now"
+  },
+  {
+   "cat": "president",
+   "year": 1921,
+   "prompt": "The President elected in 1920 promising 'normalcy' was Warren",
+   "true": "Harding",
+   "p_true": 0.81,
+   "correct": 1,
+   "greedy": "Hastings, who had been Governor"
+  },
+  {
+   "cat": "president",
+   "year": 1923,
+   "prompt": "Harding's successor, nicknamed 'Silent Cal', was Calvin",
+   "true": "Coolidge",
+   "p_true": 0.954,
+   "correct": 1,
+   "greedy": "Coolidge. He had been"
+  },
+  {
+   "cat": "president",
+   "year": 1933,
+   "prompt": "The President who launched the New Deal in the 1930s was Franklin",
+   "true": "Roosevelt",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "D. Roosevelt, son of"
+  },
+  {
+   "cat": "president",
+   "year": 1945,
+   "prompt": "The President who ordered the atomic bombings of Japan was Harry",
+   "true": "Truman",
+   "p_true": 0.965,
+   "correct": 1,
+   "greedy": "S. Truman, a former"
+  },
+  {
+   "cat": "president",
+   "year": 1953,
+   "prompt": "The WWII Supreme Commander elected President in 1952 was Dwight",
+   "true": "Eisenhower",
+   "p_true": 0.066,
+   "correct": 0,
+   "greedy": "M. Crum, of"
+  },
+  {
+   "cat": "president",
+   "year": 1961,
+   "prompt": "The President inaugurated in 1961, the youngest elected, was John F.",
+   "true": "Kennedy",
+   "p_true": 0.942,
+   "correct": 1,
+   "greedy": "Andrew of Massachusetts; his term"
+  },
+  {
+   "cat": "president",
+   "year": 1963,
+   "prompt": "The Vice President who became President after Kennedy was Lyndon",
+   "true": "Johnson",
+   "p_true": 0.996,
+   "correct": 1,
+   "greedy": "'s father. He had been"
+  },
+  {
+   "cat": "president",
+   "year": 1969,
+   "prompt": "The President who resigned over Watergate in 1974 was Richard",
+   "true": "Nixon",
+   "p_true": 0.97,
+   "correct": 1,
+   "greedy": "Olney, and the man"
+  },
+  {
+   "cat": "president",
+   "year": 1974,
+   "prompt": "Nixon's unelected successor as President in 1974 was Gerald",
+   "true": "Ford",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Ford, a former Governor of"
+  },
+  {
+   "cat": "president",
+   "year": 1981,
+   "prompt": "The former Hollywood actor elected President in 1980 was Ronald",
+   "true": "Reagan",
+   "p_true": 0.089,
+   "correct": 0,
+   "greedy": "M. Hays, who"
+  },
+  {
+   "cat": "president",
+   "year": 2009,
+   "prompt": "The first African-American President, elected in 2008, was Barack",
+   "true": "Obama",
+   "p_true": 0.546,
+   "correct": 1,
+   "greedy": "H. Mccarthy"
+  },
+  {
+   "cat": "president",
+   "year": 2017,
+   "prompt": "The businessman elected President in 2016 was Donald",
+   "true": "Trump",
+   "p_true": 0.254,
+   "correct": 0,
+   "greedy": "M. Hahn, a"
+  },
+  {
+   "cat": "president",
+   "year": 2021,
+   "prompt": "The President inaugurated in January 2021 was Joe",
+   "true": "Biden",
+   "p_true": 0.069,
+   "correct": 0,
+   "greedy": "T. Robinson, of the"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1954,
+   "prompt": "The 1954 Supreme Court case desegregating schools was Brown v. Board of",
+   "true": "Education",
+   "p_true": 0.92,
+   "correct": 1,
+   "greedy": "Education, and the decision is"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1955,
+   "prompt": "The woman whose 1955 bus protest sparked the Montgomery boycott was Rosa",
+   "true": "Parks",
+   "p_true": 0.167,
+   "correct": 0,
+   "greedy": "Lee, a negro girl."
+  },
+  {
+   "cat": "civil rights",
+   "year": 1963,
+   "prompt": "The leader of the 1963 'I Have a Dream' speech was Martin Luther",
+   "true": "King",
+   "p_true": 0.99,
+   "correct": 1,
+   "greedy": ", who said: \"If"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1964,
+   "prompt": "The landmark 1964 law against racial segregation was the Civil Rights",
+   "true": "Act",
+   "p_true": 0.545,
+   "correct": 1,
+   "greedy": "bill of Senator Tillman,"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "prompt": "The senator and brother of JFK assassinated in 1968 was Robert",
+   "true": "Kennedy",
+   "p_true": 0.702,
+   "correct": 1,
+   "greedy": "E. Lee, Jr.,"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "prompt": "King was assassinated in 1968 in the city of",
+   "true": "Memphis",
+   "p_true": 0.394,
+   "correct": 1,
+   "greedy": "Madrid, and his body was"
+  }
+ ],
+ "1929": [
+  {
+   "cat": "president",
+   "year": 1789,
+   "prompt": "The first President of the United States was George",
+   "true": "Washington",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Washington. He was born in"
+  },
+  {
+   "cat": "president",
+   "year": 1861,
+   "prompt": "The President of the United States during the Civil War was Abraham",
+   "true": "Lincoln",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Lincoln. He had been a"
+  },
+  {
+   "cat": "president",
+   "year": 1901,
+   "prompt": "The 'Rough Rider' who became President in 1901 was Theodore",
+   "true": "Roosevelt",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Roosevelt, the son of a"
+  },
+  {
+   "cat": "president",
+   "year": 1913,
+   "prompt": "The President who led the United States in World War I was Woodrow",
+   "true": "Wilson",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Wilson. He is now leading"
+  },
+  {
+   "cat": "president",
+   "year": 1921,
+   "prompt": "The President elected in 1920 promising 'normalcy' was Warren",
+   "true": "Harding",
+   "p_true": 0.987,
+   "correct": 1,
+   "greedy": "G. Harding, who had"
+  },
+  {
+   "cat": "president",
+   "year": 1923,
+   "prompt": "Harding's successor, nicknamed 'Silent Cal', was Calvin",
+   "true": "Coolidge",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Coolidge. He had been"
+  },
+  {
+   "cat": "president",
+   "year": 1933,
+   "prompt": "The President who launched the New Deal in the 1930s was Franklin",
+   "true": "Roosevelt",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "D. Roosevelt, a former"
+  },
+  {
+   "cat": "president",
+   "year": 1945,
+   "prompt": "The President who ordered the atomic bombings of Japan was Harry",
+   "true": "Truman",
+   "p_true": 0.993,
+   "correct": 1,
+   "greedy": "S. New, a former"
+  },
+  {
+   "cat": "president",
+   "year": 1953,
+   "prompt": "The WWII Supreme Commander elected President in 1952 was Dwight",
+   "true": "Eisenhower",
+   "p_true": 0.819,
+   "correct": 1,
+   "greedy": "D. Eisenhower, who had"
+  },
+  {
+   "cat": "president",
+   "year": 1961,
+   "prompt": "The President inaugurated in 1961, the youngest elected, was John F.",
+   "true": "Kennedy",
+   "p_true": 0.516,
+   "correct": 1,
+   "greedy": "Har- rison of Virginia"
+  },
+  {
+   "cat": "president",
+   "year": 1963,
+   "prompt": "The Vice President who became President after Kennedy was Lyndon",
+   "true": "Johnson",
+   "p_true": 0.999,
+   "correct": 1,
+   "greedy": "B. Johnson, of California"
+  },
+  {
+   "cat": "president",
+   "year": 1969,
+   "prompt": "The President who resigned over Watergate in 1974 was Richard",
+   "true": "Nixon",
+   "p_true": 1.0,
+   "correct": 1,
+   "greedy": "Nixon, a former Governor of"
+  },
+  {
+   "cat": "president",
+   "year": 1974,
+   "prompt": "Nixon's unelected successor as President in 1974 was Gerald",
+   "true": "Ford",
+   "p_true": 0.99,
+   "correct": 1,
+   "greedy": "R. Ford, a former"
+  },
+  {
+   "cat": "president",
+   "year": 1981,
+   "prompt": "The former Hollywood actor elected President in 1980 was Ronald",
+   "true": "Reagan",
+   "p_true": 0.894,
+   "correct": 1,
+   "greedy": "Reagan, who had been a"
+  },
+  {
+   "cat": "president",
+   "year": 2009,
+   "prompt": "The first African-American President, elected in 2008, was Barack",
+   "true": "Obama",
+   "p_true": 0.194,
+   "correct": 0,
+   "greedy": "Y. Ably, who"
+  },
+  {
+   "cat": "president",
+   "year": 2017,
+   "prompt": "The businessman elected President in 2016 was Donald",
+   "true": "Trump",
+   "p_true": 0.228,
+   "correct": 0,
+   "greedy": "L. Mckay,"
+  },
+  {
+   "cat": "president",
+   "year": 2021,
+   "prompt": "The President inaugurated in January 2021 was Joe",
+   "true": "Biden",
+   "p_true": 0.005,
+   "correct": 0,
+   "greedy": "Mccarthy, who"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1954,
+   "prompt": "The 1954 Supreme Court case desegregating schools was Brown v. Board of",
+   "true": "Education",
+   "p_true": 0.966,
+   "correct": 1,
+   "greedy": "Education, 283"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1955,
+   "prompt": "The woman whose 1955 bus protest sparked the Montgomery boycott was Rosa",
+   "true": "Parks",
+   "p_true": 0.224,
+   "correct": 0,
+   "greedy": "F. Mccormick"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1963,
+   "prompt": "The leader of the 1963 'I Have a Dream' speech was Martin Luther",
+   "true": "King",
+   "p_true": 0.999,
+   "correct": 1,
+   "greedy": ", who said: \"If"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1964,
+   "prompt": "The landmark 1964 law against racial segregation was the Civil Rights",
+   "true": "Act",
+   "p_true": 0.902,
+   "correct": 1,
+   "greedy": "Act of 187"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "prompt": "The senator and brother of JFK assassinated in 1968 was Robert",
+   "true": "Kennedy",
+   "p_true": 0.83,
+   "correct": 1,
+   "greedy": "M. La Follette,"
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "prompt": "King was assassinated in 1968 in the city of",
+   "true": "Memphis",
+   "p_true": 0.608,
+   "correct": 1,
+   "greedy": "Paris, and his body thrown"
+  }
+ ]
+}

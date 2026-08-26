@@ -1,0 +1,37 @@
+You are giving honest, expert feedback on a piece of research advice.
+
+THE SITUATION
+An economic historian has trained a language model only on text from up to the year 1913
+(a "time-locked" model). He wants to find out whether the model has accidentally learned
+about events AFTER 1913 (World War 1, the 1919 Versailles treaty, World War 2, etc.) --
+that is, whether the training data was "contaminated" with future text. His team has spent
+five months trying methods that all gave foggy answers, and they feel stuck and out of
+their depth. He is NOT a computer scientist and has asked everyone to write in plain
+English: no jargon, no buzzwords, explain like to a smart 15-year-old.
+
+YOUR JOB
+Read the advice document at this path:
+  C:\Users\hvoth\timelock-contamination\01_claude_analysis.md
+
+Then give a tough-but-fair critique. Be a real reviewer, not a cheerleader. Specifically:
+
+1. Where is the advice WRONG, or technically shaky? Say so plainly and explain why.
+2. Where is it OVERSOLD or too optimistic? For example: is the "twin sentences" test
+   really as clean as claimed? What could still fool it -- the way text is split into
+   pieces, sentence-length effects, the model preferring more common years or place-names
+   regardless of the facts, or how you turn the model's surprise into a score?
+3. What IMPORTANT idea or risk is MISSING entirely?
+4. Is the two-week plan realistic? What would you change or add?
+5. For the "poison on purpose / ruler" idea -- what practical traps will the historian hit?
+   For example: how many small practice models, how much it really costs, and whether a
+   tiny model even behaves like the big one.
+
+Rules:
+- Keep YOUR reply in plain English too -- the historian will read it directly. Define any
+  unavoidable technical term in one short clause.
+- Be concrete. Give examples. If you would change a number or a step, say what to do instead.
+- Do not rewrite the whole document. Focus on the handful of things that matter most.
+- It is fine to say "this part is right and I would keep it" -- but spend most of your
+  words on what to fix or add.
+- Aim for roughly 600 to 1000 words. Do not edit any files; just write your critique as
+  your final answer.

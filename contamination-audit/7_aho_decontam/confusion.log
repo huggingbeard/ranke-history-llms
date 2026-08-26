@@ -1,0 +1,45 @@
+  tallied 4000 ...
+  tallied 8000 ...
+  tallied 12000 ...
+  tallied 16000 ...
+  tallied 20000 ...
+  tallied 24000 ...
+  tallied 28000 ...
+flagged ids loaded: 239
+
+============================================================
+2x2 — detector vs stated year  (28,000 books; 0 had no year, excluded)
+============================================================
+                         FLAGGED (pred modern)  not flagged (pred old)
+actual MODERN (>=1946)                TP = 154                FN = 204
+   actual OLD (<=1945)                 FP = 85             TN = 27,557
+
+column totals: flagged=239   not-flagged=27,761
+row totals:    modern=358   old=27,642
+
+--- scores (against year-as-truth) ---
+recall  (modern books caught)         :  43.0%   (154/358)
+precision (flags that are truly >=1946):  64.4%   (154/239)
+specificity (old books left alone)    : 99.69%   (27557/27642)
+false-alarm rate on old books         :  0.31%   (85/27642)
+F1                                    :  51.6%
+
+FN examples — modern books we MISSED (year says >=1946, scanner clean):
+   [1979] Graphic sampler
+   [1951] Specimens of type faces in the United States Gover
+   [1992] Directory of American and Canadian publishers of m
+   [1950] Bŭlgarska tekhnicheska terminologii︠a︡. Bulgarian 
+   [1972] Addresses to engineering students.
+   [1953] List of photographs made by the Office of War Info
+   [1952] Nursing services in small manufacturing plants; a 
+   [1981] The Mississippi, and other songs,
+   [1947] Wartime accounting practices of the United States 
+   [1950] Rhythmical treasure.
+   [1977] Sketches of South Georgia folklife
+   [1984] Retrofit noise control modifications for crushing 
+
+CAVEAT: 'year' is imperfect truth. Some FP-cell books are genuinely MIS-dated
+modern books (real catches), not mistakes; and some FN-cell books are short/plain
+modern texts with no period vocabulary (undetectable by words alone).
+
+saved -> confusion_matrix.json

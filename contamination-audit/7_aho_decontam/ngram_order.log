@@ -1,0 +1,19 @@
+streaming Wikipedia (modern) ...
+streaming LoC (old + real-modern) ...
+  wiki=2000 old=2000 real_modern=150
+
+============================================================================================
+N-GRAM ORDER — recall (held-out) vs false-positives, by n and count-threshold
+============================================================================================
+ n   #cand recall wiki >=1 recall real >=1  FP old >=1 recall real >=2  FP old >=2
+ 1    2263           97.7%           98.7%       46.2%           97.3%       20.3%
+ 2    5661           99.5%          100.0%       76.2%           98.7%       53.4%
+ 3    3320           98.4%           96.0%       57.6%           91.3%       33.9%
+
+ top 1-gram markers: techniques, online, soviet, global, website, software, aircraft, digital, featuring, internet, airport
+
+ top 2-gram markers: external links, references external, further reading, the us, notes references, war ii, st century, references further, the uk, the soviet, soviet union, century bc
+
+ top 3-gram markers: references external links, world war ii, references further reading, the late th, the early th, in the us, the soviet union, during world war, the st century, see also list, in the uk, mid th century
+
+saved -> ngram_order.json, ngram_order.png

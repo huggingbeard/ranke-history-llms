@@ -1,0 +1,526 @@
+{
+ "1913": {
+  "volk_present": {
+   "top10": [
+    {
+     "text": "eine bekannte Tatsache, daß",
+     "p": 0.06363809143242133
+    },
+    {
+     "text": "eine bekannte Thatsache, daß",
+     "p": 0.007865998592997104
+    },
+    {
+     "text": "nicht zu leugnen, daß die",
+     "p": 0.006700764227922688
+    },
+    {
+     "text": "nicht zu viel gesagt, wenn man",
+     "p": 0.003291683057223392
+    },
+    {
+     "text": "eine bekannte Sache, daß die",
+     "p": 0.0029405355588984377
+    },
+    {
+     "text": "erstaunlich, wie wenig die",
+     "p": 0.0020430612784737875
+    },
+    {
+     "text": "nicht zu viel gesagt, wenn wir",
+     "p": 0.0019553427724347066
+    },
+    {
+     "text": "eine bekannte Sache, daß der",
+     "p": 0.0019385217474535634
+    },
+    {
+     "text": "kein geringer Ruhm,",
+     "p": 0.0011324682765332164
+    },
+    {
+     "text": "erstaunlich, mit welcher",
+     "p": 0.0002913599374650502
+    }
+   ],
+   "forced": [
+    0.5919256110788571,
+    0.2865437647375957,
+    1.3196936921467252e-06,
+    0.00024792225187998755,
+    0.12123091289888079,
+    5.046933909428515e-05
+   ]
+  },
+  "volk_future": {
+   "top10": [
+    {
+     "text": "wohl niemand anders sein, als der",
+     "p": 0.007308777635230247
+    },
+    {
+     "text": "nicht leicht sein, einen solchen zu",
+     "p": 0.0060799872165531324
+    },
+    {
+     "text": "sich darum handeln, daß die",
+     "p": 0.004796912895034598
+    },
+    {
+     "text": "sich darum handeln, einen Mann",
+     "p": 0.0035838107737586316
+    },
+    {
+     "text": "nicht lange dauern, so wird man",
+     "p": 0.002178122501157109
+    },
+    {
+     "text": "nicht lange dauern, so wird die",
+     "p": 0.0017684965439630075
+    },
+    {
+     "text": "sich darum handeln, den Mann",
+     "p": 0.001696264463038325
+    },
+    {
+     "text": "sich darum handeln, eine Pers",
+     "p": 0.0012874297395111221
+    },
+    {
+     "text": "nicht lange dauern, so werden wir",
+     "p": 0.0008028962915030091
+    },
+    {
+     "text": "niemand anders sein können, als der",
+     "p": 0.00030382921724262567
+    }
+   ],
+   "forced": [
+    0.5224162370846058,
+    0.4597135330461806,
+    1.1531455883480413e-07,
+    2.309952261485586e-05,
+    0.017844008960600365,
+    3.006071439543832e-06
+   ]
+  },
+  "fuehrer_present": {
+   "top10": [
+    {
+     "text": "eine bekannte Tatsache, daß",
+     "p": 0.01617613188033257
+    },
+    {
+     "text": "sehr wünschenswert, daß",
+     "p": 0.0030623876470175487
+    },
+    {
+     "text": "eine bekannte Thatsache, daß",
+     "p": 0.0017954676917652347
+    },
+    {
+     "text": "eine bekannte Sache, daß die",
+     "p": 0.0013210073680700175
+    },
+    {
+     "text": "eine bekannte Sache, daß der",
+     "p": 0.00034103440766327086
+    },
+    {
+     "text": "sehr wünschenswerth,",
+     "p": 0.000213390474680531
+    },
+    {
+     "text": "sehr wünschenswert, wenn",
+     "p": 0.00010924768336863558
+    },
+    {
+     "text": "sehr wünschenswert, dass",
+     "p": 3.854978968409744e-05
+    },
+    {
+     "text": "eine bekannte Tatsache, T",
+     "p": 3.8460263305175956e-05
+    },
+    {
+     "text": "eine bekannte Thatsache, dass",
+     "p": 2.508293674632202e-05
+    }
+   ],
+   "forced": [
+    0.4981617740742567,
+    0.3594988801553308,
+    9.915694406439381e-05,
+    0.0017521591722475644,
+    0.13916394699847565,
+    0.0013240826556247744
+   ]
+  },
+  "fuehrer_future": {
+   "top10": [
+    {
+     "text": "sich darum handeln, daß die",
+     "p": 0.008514761133999632
+    },
+    {
+     "text": "darauf hingewiesen, daß der",
+     "p": 0.005113533629467512
+    },
+    {
+     "text": "darauf hingewiesen, daß die",
+     "p": 0.004151865130870417
+    },
+    {
+     "text": "sich darum handeln, möglichst",
+     "p": 0.001242504542071808
+    },
+    {
+     "text": "vorausgesetzt, daß der",
+     "p": 0.0009755883385320625
+    },
+    {
+     "text": "vorausgesetzt, daß die",
+     "p": 0.0008790780858317945
+    },
+    {
+     "text": "darauf hingewiesen, daß in",
+     "p": 0.0007066100601802066
+    },
+    {
+     "text": "darauf hingearbeitet, daß",
+     "p": 0.0002580976131706578
+    },
+    {
+     "text": "darauf hingewirkt, daß",
+     "p": 0.0002533238552870291
+    },
+    {
+     "text": "darauf hingewirkt werden,",
+     "p": 8.813209965884646e-05
+    }
+   ],
+   "forced": [
+    0.6351045910234273,
+    0.3285700418681211,
+    2.2063110798968732e-06,
+    0.00012134238511354768,
+    0.036117925881085144,
+    8.389253117298879e-05
+   ]
+  },
+  "der_fuehrer": {
+   "top10": [
+    {
+     "text": "verantwortlich für den Inhalt des",
+     "p": 0.0008193412553508522
+    },
+    {
+     "text": "bereitwilligst zur Verfügung gest",
+     "p": 0.0006397250007122237
+    },
+    {
+     "text": "verantwortlich für den Inhalt der",
+     "p": 0.0005401431313801503
+    },
+    {
+     "text": "verpflichtet, den Reis",
+     "p": 0.00035204360095707964
+    },
+    {
+     "text": "bereitwilligst zur Verfügung.",
+     "p": 0.0002034062848659422
+    },
+    {
+     "text": "verpflichtet, dem Reis",
+     "p": 0.00016167286017674124
+    },
+    {
+     "text": "verantwortlich für den Inhalt seiner",
+     "p": 0.0001394446369612151
+    },
+    {
+     "text": "bereitwilligst zur Verfügung.",
+     "p": 0.00012082840674945877
+    },
+    {
+     "text": "verpflichtet, auf Verlang",
+     "p": 9.27671881409063e-05
+    },
+    {
+     "text": "bereitwillig zur Verfügung gestellt",
+     "p": 2.6546225102052042e-05
+    }
+   ],
+   "forced": [
+    0.8377594248154804,
+    0.14254829427473673,
+    0.000114053253677573,
+    0.0012516424316581479,
+    0.01667701334892203,
+    0.001649571875525133
+   ]
+  }
+ },
+ "1929": {
+  "volk_present": {
+   "top10": [
+    {
+     "text": "eine bekannte Tatsache, daß",
+     "p": 0.04157731484074345
+    },
+    {
+     "text": "eine alte Erfahrungstatsache, daß",
+     "p": 0.024265407358121667
+    },
+    {
+     "text": "eine merkwürdige Erschein",
+     "p": 0.011899496921369723
+    },
+    {
+     "text": "eine merkwürdige Tats",
+     "p": 0.009718192020826015
+    },
+    {
+     "text": "nicht zu leugnen, daß die",
+     "p": 0.005681308452655001
+    },
+    {
+     "text": "keine leichte Aufgabe, das deutsche",
+     "p": 0.0009687442927956123
+    },
+    {
+     "text": "nicht zu leugnen, daß in",
+     "p": 0.0008712572848404682
+    },
+    {
+     "text": "kein Zweifel, daß das deutsche",
+     "p": 0.0008414962999227037
+    },
+    {
+     "text": "eine bekannte Tatsache, dass",
+     "p": 0.0006446087047885901
+    },
+    {
+     "text": "eine bekannte Tatsache, das",
+     "p": 0.0005233811532737406
+    }
+   ],
+   "forced": [
+    0.615346964831462,
+    0.06099858090414274,
+    2.9742877249906456e-05,
+    0.050151577225479554,
+    0.14548506600357153,
+    0.12798806815809433
+   ]
+  },
+  "volk_future": {
+   "top10": [
+    {
+     "text": "nicht leicht sein, einen Mann zu finden",
+     "p": 0.008274974622935331
+    },
+    {
+     "text": "allgemein angenommen, daß",
+     "p": 0.007457302855496304
+    },
+    {
+     "text": "nicht leicht sein, eine Persönlichkeit",
+     "p": 0.0057894049248531166
+    },
+    {
+     "text": "die Frage aufgeworfen, wer",
+     "p": 0.005532537291743416
+    },
+    {
+     "text": "allgemein anerkannt,",
+     "p": 0.002625674085016531
+    },
+    {
+     "text": "allgemein erwartet, daß",
+     "p": 0.001697321139581987
+    },
+    {
+     "text": "allgemein zugegeben, daß",
+     "p": 0.000962843585907983
+    },
+    {
+     "text": "allmählich Zeit, daß die",
+     "p": 0.0007427758270912438
+    },
+    {
+     "text": "die Frage aufgeworfen: Wer",
+     "p": 0.0005522618773095441
+    },
+    {
+     "text": "die Frage aufgeworfen, ob",
+     "p": 0.0004092126009980479
+    }
+   ],
+   "forced": [
+    0.41432240568902695,
+    0.380069191222808,
+    3.7313471407705176e-05,
+    0.04349838512030745,
+    0.039763592738000245,
+    0.1223091117584497
+   ]
+  },
+  "fuehrer_present": {
+   "top10": [
+    {
+     "text": "eine bekannte Tatsache, daß",
+     "p": 0.02929449419911113
+    },
+    {
+     "text": "eine alte Erfahrungstatsache, daß",
+     "p": 0.02599478264997306
+    },
+    {
+     "text": "nicht zu leugnen, daß die",
+     "p": 0.015767234130551894
+    },
+    {
+     "text": "ein Irrtum, zu glaub",
+     "p": 0.00551125441433346
+    },
+    {
+     "text": "eine alte Erfahrungstatsache, Erf",
+     "p": 0.0015611080390548451
+    },
+    {
+     "text": "noch gar nicht so lange her, daß",
+     "p": 0.0012515762566797188
+    },
+    {
+     "text": "bezeichnend, daß in der",
+     "p": 0.0007599212114099372
+    },
+    {
+     "text": "kein Geheimnis mehr, daß die",
+     "p": 0.0005176694983198264
+    },
+    {
+     "text": "eine bekannte Tatsache, dass",
+     "p": 0.0004092483109386696
+    },
+    {
+     "text": "noch gar nicht so lange her, da",
+     "p": 0.00010273563530725914
+    }
+   ],
+   "forced": [
+    0.36327280171543014,
+    0.19442826403760133,
+    7.182628953124261e-05,
+    0.262111739223194,
+    0.08936134906192575,
+    0.09075401967231764
+   ]
+  },
+  "fuehrer_future": {
+   "top10": [
+    {
+     "text": "nochmals darauf hingewiesen",
+     "p": 0.011115127069162707
+    },
+    {
+     "text": "darauf hingewiesen, daß die",
+     "p": 0.009697620350796413
+    },
+    {
+     "text": "wiederholt darauf hingewiesen",
+     "p": 0.006543397307902734
+    },
+    {
+     "text": "die Frage aufgeworfen, wer",
+     "p": 0.005540843043544377
+    },
+    {
+     "text": "darauf hingewiesen, daß der",
+     "p": 0.0037976426947473082
+    },
+    {
+     "text": "uns mitgeteilt, daß die",
+     "p": 0.0014242566053648442
+    },
+    {
+     "text": "darauf hingewiesen, daß in",
+     "p": 0.0007960291531502164
+    },
+    {
+     "text": "darauf hingewiesen, daß sich",
+     "p": 0.0007172825093678536
+    },
+    {
+     "text": "darauf hingewiesen, daß bei",
+     "p": 0.0004728616231887339
+    },
+    {
+     "text": "darauf hingewiesen, das;",
+     "p": 0.00011112980022963799
+    }
+   ],
+   "forced": [
+    0.1995276372261003,
+    0.5376700465608822,
+    2.3275169431633162e-05,
+    0.1310222617887193,
+    0.06105766771391113,
+    0.07069911154095532
+   ]
+  },
+  "der_fuehrer": {
+   "top10": [
+    {
+     "text": "der Vorsitzende des Aufs",
+     "p": 0.009428240258753736
+    },
+    {
+     "text": "der Reichstagsabgeordnet",
+     "p": 0.008714633992083085
+    },
+    {
+     "text": "der Abgeordnete Dr.",
+     "p": 0.008088621307242055
+    },
+    {
+     "text": "der Oberleutnant a. D",
+     "p": 0.0025280100232060133
+    },
+    {
+     "text": "der Vorsitzende des Vereins",
+     "p": 0.00197813892709439
+    },
+    {
+     "text": "der Vorsitzende des Vorstand",
+     "p": 0.0011528081678225668
+    },
+    {
+     "text": "verhaftet. (Telegramm unser",
+     "p": 0.0008486476187407896
+    },
+    {
+     "text": "der Abgeordnete v.",
+     "p": 0.0007118159661436206
+    },
+    {
+     "text": "verantwortlich für den Inhalt des",
+     "p": 0.0003547894869006142
+    },
+    {
+     "text": "berechtigt, an Stelle des",
+     "p": 7.9226922262983e-05
+    }
+   ],
+   "forced": [
+    0.6605636224539722,
+    0.17645571740926166,
+    0.0005801139113107091,
+    0.08001129158843066,
+    0.04538763709461479,
+    0.03700161754240991
+   ]
+  }
+ }
+}

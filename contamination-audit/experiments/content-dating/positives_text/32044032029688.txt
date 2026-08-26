@@ -1,0 +1,1895 @@
+us 945 4/559
+
+US 945 U/F59 
+
+Analysis or prepositionals for inte
+
+HARVARD LAW LIBRARY 
+
+AQD6848 3 2044 032 029 688 
+
+atent Office. office of esearch and Development Reports . . . . No. 16 
+
+ANALYSIS OF PREPOSITIONALS FOR INTERRELATIONAL CONCEPTS Preliminary Study HARVARD LAW LIBRARY 
+
+US 945 V/F59
+
+Prepared by 
+
+Simon M. Newman 
+
+Staff Member
+
+Office of Research and Development Patent Office 
+
+July 15, 1959
+
+DEPARTMENT COMMERCE UNITED STATE OF AM 
+
+AMERICA U. S. DEPARTMENT OF COMMERCE Frederick H. Mueller 
+
+Acting Secretary
+
+PATENT OFFICE Robert C. Watson Commissioner 
+
+For sale by the U. S. Department of Commerce, Washington 25, D. C. Price 50 cents.
+
+Hot ĐỒ C
+
+Preface 
+
+The author's background of engineering and law has constituted poor equipment for use in resolving some of the vexing language problems which were discovered in planning for mechanization of the Patent Examiners' searches. He has published several times, perhaps prematurely, but each time with the hope, still unfulfilled, that a trained linguist would enter the field. The time has now come when he can no longer wait for someone else to make both a thorough and detailed analysis of the functions of prepositionals, and the concomitant synthesis of relational concepts. This report presents only a small portion of the analysis and synthesis which is being undertaken. 
+
+Many of the readers of the previous publications have sent excellent suggestions and comments which have been incorporated into the later reports. The author has decided to impose upon them once more. 
+
+Suggestions for additional prepositionals or additional meanings of those listed will be welcomed. Comments on any aspect of this sample, and particularly on scope, organization, or layout, will aid in making the completion and report of this study many times more valuable than it might otherwise be. Sincere thanks is tended to each of you who has previously commented, and, in advance, to those of you who will respond to this request. 
+
+The author is gratefully indebted to Dr. Philip I. Herzbrun, Leonard Cahn, and Richard B. Thomas of the National Bureau of Standards and Dr. Victor H. 
+
+Yngve of the Massachusetts Institute of Technology who not only encouraged him to undertake this study but continually stimulated and encouraged him in its development. Additionally, the author once again acknowledges the comments and suggestions of his colleagues on the Patent Office staff, particularly those of Don D. Andrews, Director of the Office of Research and Development; Charles G. 
+
+Smith who contributed to the preliminary study; and Rowena Swanson who commented on and edited the manuscript. The author must add, of course, that he is solely responsible for the published results. 
+
+Simon M. Newman 1112256 7-
+
+Preface........ Section I. Introduction...... 
+
+Section II. Classes of words and word clusters..... 
+
+A. Prepositions………………. 
+
+B. Prepositionals 
+
+C. Simple prepositionals; phrasal prepositionals 
+
+D. Sandwich prepositionals
+
+E. Locative interspatial prepositionals (interspatials) F. Inflectionals....... 
+
+G. Postpositionals.
+
+H. Prepositional phrases I. Phrasal verbs..... 
+
+Section III. Explanation of symbology...... 
+
+Section IV. Scope of study 
+
+Contents A. The present study..... 
+
+B. "Meaning" as applied to prepositionals…………….
+
+C. Meaning "continuum"........ D. Source material……………………. ... 
+
+E. Non-prepositional usages
+
+F. Organization of section VI…….. 
+
+G. Organization of section VII. 
+
+H. Scope of section VIII.………………. 
+
+I. Organization of section IX ………………. 
+
+Section X. References..... 
+
+Section V. Prepositionals studied and omitted.... 
+
+A. Prepositionals studied....... 
+
+B. Prepositionals omitted
+
+Section XI. Bibliography 
+
+(4) 
+
+Section VI. Prepositional analysis... 
+
+Section VII. Prepositional analysis-phrasal prepositionals grouped by categories.. 
+
+Section VIII. Synthetic relational concepts……………….. 
+
+Section IX. Thesaurus groupings..... 
+
+..... 
+
+-Page 55556 778899 10 11 11 12 2 22 12 12 29 30 336 38 38
+
+ANALYSIS OF PREPOSITIONALS FOR INTERRELATIONAL CONCEPTS Preliminary Study SECTION I. INTRODUCTION 
+
+In the effort to create systems and techniques for mechanizing the search of applications for patents in the U. S. Patent Office, the Office of Research and Development has postulated the existence of Ruly 
+
+English, and has published¹ details of the characteristics which appear in the early development of the language. These characteristics are dictated by the adequacy and preciseness which are required in a patent search system and, in fact, in any information retrieval system where minute details are sought. 
+
+In such a system, both the interactions among things and their static interrelations are much more important than the specific details of the individual things themselves. Such notions of interaction and interrelation are expressed by means of two or more cognate descriptors. Distribution2 consists of placing one of these cognate descriptors among the group of descriptors of each related thing. When necessary, these cognate words are polarized to designate the direction of interaction or interrelation. 
+
+Thus distributed, the notion expresses the relation between the things to which the cognate descriptors apply. Each set of cognate descriptors is collectively known as an interrelational concept. 
+
+An intensive appraisal of the relationships effected by prepositionals in sentences is expected to yield an appreciable number of interrelational concepts significant to information retrieval. This report presents initial efforts in this direction. The terms which are used in this study for classifying the types of prepositionals and other word clusters are defined in Section II. The scope of the study is detailed in 
+
+Section IV, and the prepositionals which have been considered are listed in Section V. In subsequent sections, specific prepositionals are analyzed and the synthetic relational concepts integrated from the results of the analysis are presented. 
+
+SECTION II. CLASSES OF WORDS AND WORD CLUSTERS 
+
+Terms of art which are used in this report to describe particular classes of words are defined in this section. The definitions are accompanied by some elaboration on the origins and characteristics of these terms.
+
+The terms, when first introduced in this section, are italicized. Prepositionals used in the illustrative explanations are underlined. 
+
+A. A preposition has been defined³ as a word that functions as a connective between an antecedent which may be a noun, pronoun, adjective, adverb, verb, or entire phrase; and an object which may be a noun or pronoun, or word or phrase used as a noun. However, the present analysis shows that a preposition has a dual role: not only that of a connective which establishes a general relationship between the antecedent and the object, but additionally that of a context enhancer which establishes a varying but more specific relationship. 4
+
+B. A prepositional is a word or phrase which acts as a preposition. 
+
+C. This study recognizes only two basic classes of prepositionals. Those which are expressed in a single word, e.g., on, onto, notwithstanding, etc., are termed simple. Those which are expressed by two or more words, e.g., antecedent.to, as.against, as.far.as, away.from, etc., are termed phrasal. Phrasals will be printed with periods between the words. 
+
+D. Particularly troublesome phrasals incorporate classes of adjectives or words which act as adjectives (i.e., adjectivals). One group of phrasals of this type exists in a form to which the author has applied the name sandwich prepositional or sandwich. This type of phrasal consists of two prepositionals separated by at least an adjectival term, e.g., as.far.as; as.distinguished.from. The adjectival term may be modified by one or more adverbs, e.g., as.far.out.as; as.easily.distinguished.from; by one or more adjectival prepositional phrases, e.g., as.far.in.space.as; as.distinguished.in.degree.from; or by both, e.g., as.far.back.in.time.as.
+
+E. A class of prepositionals, which includes both simple and phrasal types, describes various spatial arrangements. Many of the phrasals in this group contain adjectivals which combine an adjective or adjectival phrase of distance precedent to a prepositional such as from or to. Since these phrasals per- - 5 -
+
+form a locative function, they are called locative interspatial prepositionals, or interspatials. This group includes such prepositionals as near; far.from; three.feet.from; near.to; etc.
+
+F. It has been discovered that certain prepositionals, particularly of the phrasal type, can be compared-in a grammatical sense-in a manner similar to adjectives. For this reason, we have named such prepositionals inflectionals. For example, the simple prepositional near gives the following comparative terms: 
+
+positive form: comparative form: nearer superlative form: nearest near Many of the sandwich and interspatial phrasals can express comparisons. An example of an inflectional of this type is the sandwich adjectival as...as which can be compared as follows: positive form: as.(small).as comparative form: (small)er.than superlative form: (small)est.of
+
+It will be appreciated that this superlative is somewhat weak in that it can only take as an object the word all, or a word or words of similar import. Similarly, declension of an interspatial such as (_ e.g., near.to, gives ).to, positive form: (near).to comparative form: (near)er.to superlative form: (near)est.to
+
+Some interspatials cannot be directly inflected but can be grouped as closely related inflected phrasals. 
+
+For example, the interspatial three.feet.from is closely related to the phrasals three.feet.farther.from and three.feet.nearer.to. Phrasals analogous to superlative forms, i.e., three.feet.farthest.from and three.feet.nearest.to, apparently do not exist in our language.
+
+G. A postpositional is a word which serves as a connective and context enhancer between an antecedent and an object, but which is placed after the object. In order to distinguish postpositionals, they are preceded by a virgule, thus: /ago, as in the sentence: 
+
+Lincoln died years ago.
+
+Other postpositionals are /hence, /behind, /ahead, /away, and /back, some of which, of course, may also precede an "object" in the usual manner. 
+
+H. A prepositional phrase is composed of the prepositional, its object, and any associated object modifiers. A prepositional phrase is adjectival when it modifies a noun. A prepositional phrase is adverbial when it modifies a verb, an adjective, or another adverb. 
+
+I. Words which have been considered prepositions but occur by themselves as verb modifiers and appear immediately following the verb and complement it do not perform any of the functions which are ascribed in this study to prepositionals. This combination of a verb and its complement has been called a phrasal verb.5 (See Section IV.E. on non-prepositional usages.) SECTION III. EXPLANATION OF SYMBOLOGY 
+
+To distinguish between classes of prepositions and to characterize synthetic relational concepts, particularized typography has been used throughout this report. 
+
+As in previous reports on Ruly English,6 upper case letters are used exclusively for Ruly words and 
+
+Roots, e.g., CONCERNABOUT(ABOUTCONCERN); SEPFROM( ). 
+
+Synthesized relational concepts which are complex and ambiguous are expressed in lower case letters, e.g., localong(alongloc); placenear(). (See Section IV.H. concerning the creation of synthesized terms.) 
+
+As mentioned above (Section II.C.), the words constituting a phrasal prepositional are joined by periods between the words, e.g., antecedent.to; as.far.as.
+
+The outside terms of a sandwich prepositional are linked together by an ellipsis when specific intermediate words are not included to complete the phrasal, e.g., as...as, as….. .with. 
+
+The postpositional prepositional is identified by an immediately precedent virgule, e.g., /ahead, /hence.
+
+The superscript device is used to separate the different meanings associated with a particular prepositional, e.g., about¹, about 2, about, about. The numbers 1, 2, 3, etc., pertain to unique meanings, - 6- '-
+
+whereas 0 and x designate archaic and non-prepositional usages, respectively. (See Section IV.B. for a discussion of meaning as applied to prepositionals and Section IV.E.5. for amplification of archaic and non-prepositional usages.).
+
+Single words or short phrases have been employed in the analyses of Sections VI and VII to describe the particular prepositional meanings. These words or phrases are joined to the prepositional by a hyphen. To preserve the grouping when a descriptive phrase is used, a colon is inserted between the words of a phrase, e.g., circuit-around; avoid-around; presence:during-at; in:addition:to-aside.from. 
+
+When a descriptive phrase is used which is a hyphenated grouping in conventional usage, the conventional symbology is retained and the symbology used in this study is added to it. For example, the term vis-avis, when used to describe a meaning of the prepositional as.against, is punctuated as follows: vis+a+visas.against.
+
+The abbreviations and punctuation adopted for reference citations in Sections VI and VII are explained in subsequent discussion of the organization of Section VI (See Section IV.F.) SECTION IV. SCOPE OF STUDY 
+
+A. The present study. An important way in which we express relationships is by means of prepositionals. It is now apparent that a thorough study of the composite function that prepositionals perform in context must be made. The determination and listing of their meanings, the categorizing of similar meanings of different prepositionals, and the synthesis of these similar meanings into artificially created concepts, will not only anticipate later needs (1) in the construction of Ruly English and its use in information retrieval, but also (2) in the development of coding systems which designate interrelations between codes, (3) in many forms of automatic encoding of unedited text material by means of some heuristic program, (4) in programs for mechanical translation, and (5) undoubtedly in other situations. 
+
+Since knowledge was first reduced to writing, language has been continuously enlarged, changed, and molded by both evolution and mutation, these transformations creating new meanings for existing language units. To discover all these meanings, and to prognosticate future changes, is impossible. For this reason it seems clear that a complete list of meanings for any one prepositional can probably never be obtained. Nevertheless, it will be helpful to collect and categorize all that can be reasonably found. 
+
+It is expected that the text of approximately 100 patents will be processed in a form capable of use directly as input for a machine. Programs have been written which locate and print out all the occurrences of any desired word in context.7 Such a source could generate much grist for the present effort, and would be helpful in furnishing additional illustrations of prepositional use in the expository prose of patents which may be somewhat different from normal usages. It is also possible that such a source may be helpful in examination of the legal usage of prepositionals. ४ 
+
+For the purpose of getting outside reactions to the scope and execution of this study at the present time, the analysis has been restricted to all important prepositionals which begin with the letter A, and those synthetic relational concepts suggested by one or more of these terms. The prepositionals which have been analyzed and which have been specifically omitted from the analysis are listed in Section V. 
+
+Continued study of prepositionals beginning with other letters than A and the concomitant synthesis of relational concepts is, of course, continuing. 
+
+B. "Meaning" as applied to prepositionals. In our attempts to develop interrelational concepts, an exploratory study of some twenty-five prepositions was made. The study revealed the dual concomitant functioning of prepositions as connectors and context enhancers and specifiers as defined above in Section 
+
+II. 
+
+In the present study, we have applied the term meaning to the interplay between these two functions of prepositionals. For example, in the following two pairs of sentences, the same prepositional conveys three different meanings. (The superscripts refer to meanings detailed in Section VI.) ((1) They lived across the park. (2) They marched across² the park. {(3) {(3) (3) They saw the bridge across³ the river. ((4) They saw the castle across the river. 
+
+In the sentences (1) and (2), the prepositional phrase is adverbial; in (3) and (4), adjectival. 
+
+In sentence (1), the across4 connects the predicate of the sentence lived with the object of the prepositional park; in sentence (4), across4 connects the object of the sentence castle with the object of the prepositional river. In both cases, across additionally conveys the meaning of contraposition-across. 
+
+In sentence (2), the across² connects the predicate of the sentence marched with the object of the prepositional park and additionally conveys the meaning of proceed-across. In sentence (3), the across³ -7
+
+connects the object of the sentence bridge with the object of the prepositional river and additionally conveys the meaning extend-across. Clearly, only the words which are connected cause the change in meaning. 
+
+In some sentences, there are words (usually verbs) other than those connected by the prepositional which also contribute to the same relational concept, but in each case analyzed, the phenomeno proves to be tautological. For example, in the following pair of sentences: (1) The boy gets seeds from berries. (2) The boy gets hives from berries. the prepositional phrases and 
+
+.. hives from, berries seeds from berries show the connection established by the preposition and the context modification, a source-location meaning for from and a cause-effect meaning for from The two meanings can also be partially deduced from the verb independent of the remainder of the sentences, a larger aspect of the meaning being indicated from combination of the verb with the object of the sentence, viz.: ... ... gets seeds and gets hives ... ...
+
+Some meanings are complex, i.e., they may be subdivided into a combination of two or more coextensive concomitant complementary, or supplementary simpler meanings. These complex meanings are often unique to the recited combination of an action and the complementary prepositional. For example, to of dance to in the sentence "They danced to the music of Victor Herbert.” means dancing (action) both in accompaniment with and in harmony with. 
+
+C. Meaning "continuum." Many times, many or all of the meanings for a prepositional lie along a continuum of meaning. The author's selection of particular points along these continuums was purely arbitrary. These arbitrary meanings, however, attempt to divide the continuums most helpfully for information retrieval, and reflect the judgment and experience of the author. 
+
+For a particular prepositional, one or more meanings are occasionally disjoined from the main continuum. More often, two or more disjoined, subsidiary, continuums occur. Analysis of the preposition "about," for example, discloses two disjoined continuums and two disjoined independent meanings, as follows: 
+
+About, 1 about,2 and about are in a continuum showing different degrees of "proximity of location.' About and about 6 are part of a continuum of "subject matter.” 
+
+About 3 and about4 appear disjoint from each other and from the other continuums. 
+
+D. Source material. The dictionary publishers have tried valiantly to detail the meanings of prepositionals in their unabridged works, and one publisher has produced a Handbook 10 devoted, in part, to prepositionals
+
+Roget's Thesaurus organizes concepts (including prepositionals) into classified categories. The 
+
+Thesaurus had not been used in the author's earlier study of prepositions. In the present study, its use has not always been helpful, since the synonyms it lists are often interchangeable on a very broad and ambiguous level. Occasionally, however, the conceptual categories are limited and explicit, and have proven useful in categorization.
+
+While source books have been of great help in locating many prepositionals, many areas of meaning, and many phrases involving prepositionals, the incisive limits of meaning needed in establishing relationships for information retrieval have not been found. - 8 -
+
+See Section IV.F. for a listing of source material for this study.] 
+
+E. Non-prepositional usages. One of the vexing problems in this study was the determination of whether a term conventionally categorized as a prepositional is, in fact, used as a prepositional. The following decisions were made:
+
+E.1. When the categorized term is utilized to change or to intensify the meaning of a verb, and the word following the categorized term is the object of the changed or intensified verb, this categorized term is not a prepositional and is not included in the prepositional analysis. The categorized term and the verb which is changed or intensified constitute a phrasal verb (see Section II.I). For example, in the expression "to back up a truck," truck is the object of the intensified, phrasal verb back up; whereas in the expression “to back a truck up the alley," the up is a true preposition, since alley is the object of up, and not the object of either the verb back or back up. Similarly, in the expression "to back up a speaker by giving him moral support," speaker is the object of the changed, phrasal verb back up. Nor are the underlined words in the following sentences considered prepositionals: 
+
+The accountant made out (filled in) a tax form for his client. 
+
+He put down the tail gate of the wagon. 
+
+She put on make-up. 
+
+The tourists drank in the sights. 
+
+Heavy expenses ate up the capital. 
+
+He tried to shout down the opposition.
+
+He put out the light on the porch. (But in "He looked out the window.", out is a preposition.) 
+
+When the categorized term is both simple and followed by a noun, and the words of the sentence are not in inverted order, trueness of the prepositional character of the categorized term may be tested by inverting the sequence of the word and the noun following it. The term which is not used as a prepositional can be inverted, whereas a true prepositional must precede the noun. For example, He tried to shout the opposition down. is a possible sentence whereas 
+
+He backed the car the alley up. does not constitute a correct sentence.11
+
+When the categorized term occurs after the noun in a sentence because the sentence has been inverted, this test cannot be applied until the sentence has been reinverted. For example, I don't know whom she is engaged to. has the prepositional to after the object whom. When reinverted, it becomes 
+
+I don't know to whom she is engaged. 
+
+Now, in applying the test, the expression 
+
+I don't know whom to she is engaged. obviously does not constitute a correct sentence. 
+
+The test is not applicable to sandwich or postpositional type prepositionals.
+
+E.2. When the word to is used as part of an infinitive, it is not a prepositional. 
+
+E.3. A sandwich-type phrase, to be a prepositional, must be followed by a nounal. For example, the phrase as.good.as is considered prepositional in the sentence
+
+The paper money was considered as.good.as gold. - 9 -
+
+but not in the sentence 
+
+His knife is as good as lost.
+
+In the first sentence, gold is a nounal and the object of the phrasal prepositional, but in the second, lost is a past participle.
+
+E.4. For postpositional-like terms, the word preceding the term must not be the object of the verb. 
+
+For example, the term /ahead is considered a postpositional in the sentence 
+
+He saw four miles /ahead. but not in the sentence 
+
+He saw the road ahead.
+
+In the latter sentence, road is the object of the verb saw, and ahead is an adverb. In the first sentence, four miles is not the object of the verb saw, and can only be the object of the postpositional /ahead. 
+
+E.5. Occasionally, one of the source books lists among prepositional meanings one or more which, when closely analyzed, either is not considered a modern usage or is not a prepositional usage. For example, the sentence
+
+The opera lasted above four hours. demonstrates an archaic usage of the prepositional above, whereas the sentences 
+
+He weighs about 125 pounds.
+
+He added around 5 pints to the mix. show adverbial usages of the words about and around. 
+
+For completeness, these referenced usages are noted in the prepositional analysis. (See Section V.F.)
+
+F. Organization of Section VI. The prepositionals are analyzed from the standpoint of the separate meanings associated with them. Each separate meaning for a given prepositional is indicated by a unique number immediately following the prepositional in superscript, e.g., across³, A meaning attributed to a prepositional by the source books employed in the study which is not considered a modern usage is listed as a “zero” meaning at the end of the analysis of the prepositional (cf. about at the end of the about's). Equivalent expressions which are believed to truly express this zero meaning are listed thereunder.
+
+A meaning given by a source book as prepositional which proves, on analysis, to be non-prepositional, is listed as an "x" meaning herein (cf. about at the end of the about's following about). Examples of the non-prepositional usage and the classification of the term are included. 
+
+Source credits are listed for each prepositional meaning. The source materials for this work and the symbols assigned to them are as follows:
+
+PRE 
+
+Webster's New International Dictionary of the English Language, Second Edition, Un abridged (1955).
+
+Handbook of Prepositions, Conjunctions, Relative Pronouns and Adverbs (1953). 
+
+Extensive notes from the author's early work done at the Patent Office.
+
+T Roget's International Thesaurus, New Edition (1946). 
+
+The pertinent sources for each meaning are noted in the manner of the following illustration:
+
+D 3b: P II 7, IV 5: R 18: T 113.5, .7; 228.6 
+
+This notation states that the particular meaning is found in part b of the 3rd numbered meaning in the Dictionary; in Section II, line 7, and Section IV, line 5, in the Handbook; in meaning number 18 in the author's notebook; and in sections 113.5, 113.7, and 228.6 of the Thesaurus. Notations P pi and P pp signify that the phrasal serving as a preposition is listed in the Handbook as a prepositional idiom or as a phrasal preposition, respectively. - 10 -
+
+Failure to find the particular meaning in a source (except in R) is noted by a zero after the symbol for that source in the source credits for the meaning, e.g., D 0. The absence of an entry in R signifies that the meaning was not cònsidered in the earlier study. 
+
+G. Organization of Section VII. Since it is difficult to include prepositionals of varying content in the same alphabetic list as prepositionals of fixed form, the prepositionals of varying content have been separately collected in Section VII. The variety, the multiplicity, and the overlapping of these terms have convinced the author that the organization of this section is poorly conceived. Suggestions for bettering the listing of these phrasals are particularly solicited. 
+
+The same source material was investigated for these prepositionals as for the prepositionals analyzed in Section VI. The format of Section VI is retained with one major difference. Since only a few references were found to the meanings in Section VII, only those found are indicated. In most cases, the usages quoted in the references were not prepositional. 
+
+The sandwich prepositionals are alphabetically arranged according to their "outside" terms, thusly; as...as, as...in, so...as, so...with.
+
+At the present time, we have not discovered any phrasal interspatials in which the non-inflectional term begins with an À. Since the inflected term may be one of many different terms, it would appear that the best way to arrange this category is alphabetically by the uninflected term, thusly: (...) from .) est of (...) er than (...) to
+
+H. Scope of Section VIII. Each of the terms in this section attempts to define a single concept of relation by the recitation of defining sentences, each sentence using a prepositional analyzed in Section VI or VII which appears to have the same meaning as those in the other defining sentences. It is the intention that these sentences, taken together, delimit the meaning of the concept. 
+
+As indicated in the Introduction, these concepts are formed of two or more cognate descriptors which are distributed with the interrelated things. A concept is expressed in print by a single word synthesized by joining the paired cognates, one of the concepts being enclosed in parentheses, e.g.: 
+
+TIMAFOR(AFTIM) 
+
+When both cognates are the same, the term occurs only once in the synthesized word, a blank space being left between the parentheses, e.g.:
+
+SEPFROM()12, 13 
+
+It occasionally happens that a particular meaning of one prepositional constitutes the cognate of a meaning of a second prepositional. For example, consider a first "thing" surrounded by a second "thing." Since the descriptor amid¹ is applicable to the first "thing" and around2 is applicable to the second "thing," around2 and amid¹ are cognate descriptors. (See Section VI for the meanings of amid¹ and around2. Hence, when the interrelational concept ABOUT(AMID) is created, around 2 becomes the 
+
+ABOUT of the interrelated concept, while amid¹ becomes the -(ÀMID). 
+
+Many of these synthesized relational concepts prove to be complex and ambiguous. For example, in considering the concept "near" applied to the relative locations of San Francisco and Baltimore with respect to Washington, D. C., Baltimore is near Washington, even though the cities are forty miles apart. 
+
+When the concept is applied to the relative locations of a parked automobile and a curb in a city having an ordinance which decrees that any car parked more than twelve inches from the curb is illegally parked, a car parked eighteen inches from the curb is not near the curb. 14 The common use of qualifiers without standards of comparison has been discussed previously. 
+
+The above illustration of the qualifier “near” demonstrates that unbased qualifiers, in context, do have meaning. The relational concept placenear(), which can be synthesized for the above illustration, can be considered SPACEFROM(), --combined with the unbased qualifier near. When synthesized relational concepts state simple and unambiguous relationships, they can be utilized as interrelational concepts in Ruly English and they are printed in upper case, e.g., SEPFROM( ) for two CONFORMS which have no 
+
+SUBSTANCE in COMMON. 15 Since neither complex nor ambiguous terms are suitable for Ruly interrelational concepts, they are printed in lower case. - 11 -
+
+I. Organization of Section IX. The numbered categories of Roget's Thesaurus which were referred to in creating Sections V and VI are correlated in this Section with specific prepositionals whose unambiguous meanings are most nearly reflected in the Thesaurus. The prepositional groupings are arranged numerically by Thesaurus division and subdivision. 
+
+The Thesaurus entries represent an evaluation of the categories suggested in its Index Guide and by collateral and associated concepts. A more exhaustive study did not appear warranted. 
+
+The association of several prepositionals with the same or closely related Thesaurus subdivisions was tested for the presence of a relational concept. Only a few relational concepts were indicated by these associations.
+
+SECTION V. PREPOSITIONALS STUDIED AND OMITTED A. Prepositionals studied 
+
+Ablow 
+
+Aboard 
+
+About 
+
+About. at
+
+Above 
+
+Abreast. of According.to
+
+Across Adjacent Adjacent.to Adown After
+
+Against /Ago /Ahead Ahead.of 
+
+B. Prepositionals omitted
+
+Abaft Abreast Abreast.with ablow (variant of below) aboard aboard¹, presence-aboard Along Alongside Alongside.of Along.with
+
+Amid Amidst Among Amongst aboard2, alongside-aboard Analogous.to Analogous.with Antecedent.to Anterior.to Apart.from Apropos.of
+
+Around As Agreeably.to
+
+Aloft 
+
+Anent 
+
+We can continue talking after getting aboard the train.
+
+D 1: P 1: TO SECTION VI. PREPOSITIONAL ANALYSIS 
+
+The tug came aboard the liner. 
+
+Becomes: placenear()
+
+D (adv.) 2: P 2: TO 
+
+As.against As.between As.for
+
+Aside Aside.from As.to As.touching At 
+
+At. about /Away Away.from As...as As...from As...in As...to As...with
+
+Aslant 
+
+Athwart 
+
+- 12 -
+
+about about¹, surround-about 
+
+Bind the rope about the post.
+
+They danced about the mulberry bush. 
+
+Becomes:- ABOUT of ABOUT (AMID) D 1: PI 1: R 1: T 227.3, .5 
+
+about2, location: at: or:near-about 
+
+Have you much money about you?
+
+It seemed good to have a man about the house. 
+
+His face appeared the worst thing about him. 
+
+D 2, 8: P I 5, IV 1: R 2: T 197.8, .11, .12 
+
+about3, random-about 
+
+Toys lay strewn about the room. 
+
+Come to the point, don't beat about the bush'
+
+The papers were handed about the room. 
+
+They moved about the world. 
+
+Becomes:- RANDOMLOC of RANDOMLOC(LOCRANDOM) D 3: PI 2, 4: R 3: TO 
+
+about4, time-about
+
+He left the house about midnight. 
+
+Becomes: aproxtim()
+
+D 4: P II 1: R 4: T 0 
+
+about5, concern-about 
+
+He read a book about war.
+
+Don't trouble him about his work. 
+
+She fin. lly had her way about cooking and prepared chicken. 
+
+She raised a question about his credentials.
+
+Becomes:- CONCERNABOUT of CONCERNABOUT (ABOUTCONCERN) D 5, 7: P IV 2, 3: R 5: T 9.10 
+
+about, engage-about 
+
+I must be about father's business.
+
+He went about his work cheerfully. 
+
+Becomes:- ENGAGAT of ENGAGAT (ENGAGER) 
+
+D 5: P 0: R 7: T 625.7; 676.2 - 13 -
+
+about, proximity-about cf. about 1 about 2 above about.at about.at1 at.about 1 
+
+Becomes: placenear() about* 
+
+D 2: PI 5: R 2: TO 
+
+(an adverb; not a prepositional. See Section IV.E.5.) measure-about
+
+There were about 45 people present. 
+
+He stands about 5' 6" tall. brink-about
+
+D 4: P III 1: R 4: T 32.17 
+
+The dessert appeared about frozen. 
+
+He was about to step on a snake.
+
+D 6: P 0: R 6: T 0 
+
+about.at¹, proximity-about.at 
+
+The accident occurred about. at the end of the paved portion of the road. 
+
+Becomes:- placenear() cf. aproxtim() 
+
+D 0: P 0: T 197.8, .11, .12 above¹, vertical-above Chain Bridge is at right angles to and above the B & O Canal. 
+
+The books are piled one above another. 
+
+The deflector extends partly above the vibration exciting sharp edge. 
+
+The helicopter hovered above the rooftops.
+
+D 1: PI 1: T 206.15, .19 above2, tower-above
+
+The mountains towered above the plain. D 1: PI 2: T 206.15, .19 above³, north-above 
+
+The ship sank above the Arctic Circle.
+
+D 0: PI 3: TO 
+
+above, rank-above
+
+Such things remain above our comprehension. 14-
+
+above, despite-above
+
+He conducted himself above reproach. 
+
+Virtue is above price.
+
+Becomes:- -(RANKAFTER) of AFTERANK(RANKAFTER) D 2a, b: P IV 2, 3, 4: T 33.7 
+
+above, quantity-above
+
+The yield was recorded by them as above average for such a process. 
+
+The temperature is above the atmospheric boiling point. 
+
+Becomes:- SURPASS of SURPASS(INFRAPOS) D 3: P III 1: T 0 
+
+abreast.of 
+
+His shout was heard above the fury of the gale. 
+
+Becomes:- despite of despite(spitewith)
+
+D 2c: P IV 1: T 0 
+
+above, time-above
+
+Becomes:--AFTIM of TIMAFOR (AFTIM) D 0: FII 1, 2: T 0 
+
+abreast.of¹, parallel-abreast.of 
+
+The honor guards marched down the street abreast.of the standard bearer. 
+
+The diplomatic corps is expected to keep abreast. of the times. 
+
+Becomes:- PARALLELOF( ) 
+
+across according.to 
+
+D (under "abreast"): P pp: T 216.5; 236.9 according.to¹, conformable-according.to 
+
+They were seated according.to their rank. 
+
+They played contract bridge according. to Goren's rules. 
+
+According.to one aspect of the invention...
+
+A musical tone is excited according.to the length and other characteristics of the pipe. 
+
+Becomes:- DELINBY of DELINBY (DELINOF) 
+
+Da, b: P pi: T 23.7; 82.9, .12; 467.13 across¹, intersect-across The stick lay across the line. 
+
+D 1: P 0: T 217.14, .18; 219.9, .12 across², proceed-across They marched across the bridge. 
+
+The thought flit across his mind. - 15 -
+
+He planed the board across the grain. 
+
+She swam across the channel. across³, extend-across 
+
+His hand swept across the strings.
+
+D 2: P II 1: R 4: T 302.2 
+
+adjacent across, contraposition-across Their hands reached across the aisle. 
+
+The girder lay across the manhole. D 1: P 0: R 2, 4: T 0 adjacent.to across5, random-across We heard the radio across the street. 
+
+They lived across the park.
+
+D 3: P 1 2: R 3: T 237.7 
+
+Dust spread across the plain.
+
+They saw spots across the face of the sun. 
+
+Becomes:- RANDOMLOC of RANDOMLOC(LOCRANDOM) D 2: P 0: RO: T 0 
+
+adjacent¹, proximity-adjacent A boss is located adjacent the hole. 
+
+The tug docked adjacent the liner. 
+
+Becomes: placenear()
+
+D 0: P 0: T 197.8 adjacent.to¹, proximity-adjacent.to 
+
+The barn is situated adjacent.to the house. 
+
+Becomes: placenear()
+
+D 0: P pi: R 1: T 197.8 
+
+adown (variant of down) after after¹, place after
+
+The cars were lined up, one after another. 
+
+Wave after wave came up on the shore.
+
+The refugees followed after the troops. 
+
+D 1: PI 1: R 1, 9: T 63.1, .3, .4; 117.1 - .3; 235.14 .17; 281.3; 622.11 
+
+- 16 -
+
+after 2, search-after 
+
+What is he after? 
+
+Let us strive after wisdom.
+
+The detective went after the murderer. 
+
+D 2,3: P III 2: R 2,9: T 461.16 
+
+after³, concern-after 
+
+He looked after his employees. 
+
+She inquired after her friend.
+
+Becomes:- CONCERNABOUT of CONCER NABOUT (ABOUTCONCERN) D 3: P III 6: R 2: T 0 
+
+after4, time-after
+
+We talked after supper. 
+
+The item exists in the gel state after it has been desulfided. 
+
+Centrifugation after immersion reduces water retention. 
+
+The property was divided after his death. 
+
+Becomes:--AFTIM of TIMAFOR(AFTIM) 
+
+D 4: P II 1: R 3: T 63.1, .3; 117.3, .4 after5, result-after
+
+After their quarrel, they decided to separate. 
+
+After the selfish way she acted, who could like her? 
+
+After what you said, I should be careful.
+
+Becomes:- HOWBY of HOWBY (BYHOW) D 5: P II 3: R 4: T 0 
+
+after, despite-after
+
+After all our advice, you took a contrary course. 
+
+After the best endeavors, one may fail. 
+
+Becomes:- despite of despite (spitewith)
+
+D 6: P II 4: TO 
+
+after7, rank-after
+
+All large corporations put profits after safety. 
+
+After Jean, Dorothy sings best. 
+
+What can a man do who comes after the king?
+
+Becomes:- (RANKAFTER) of AFTERANK(RANKAFTER) D 7, P III 1: R 6: T 0 
+
+after 8, model-after
+
+He made a boat after the picture. 
+
+His painting is after Rubens. - 17 -
+
+His actions make him a man after my own heart.
+
+He acted after his kind. 
+
+This wind instrument is to be played by mouth after the style of an harmonica. 
+
+Becomes:- DELINBY of DELINBY (DELINOF) D 8a, 9: P III 3, 4: R 5, 7: T 622.11 
+
+after⁹, against source-after 
+
+The plastic is called Bakelite after its inventor.
+
+Franklin was named after the President. 
+
+D 8b, 11: P III 5: R 8: T 0 
+
+against¹, impact-against 
+
+The hail beat against the roof. 
+
+The ship was dashed against the reef.
+
+Becomes:- IMPACTON of IMPACTON(STRIKER) 
+
+D3: PI 3: R 9: T 179.6; 708.5 against2, support-against He stood leaning against the wall. 
+
+He braced himself against the supports. D 3: PI 2: R 1: T 215.27; 719.3 against3, motion-against 
+
+He sailed the ship against the wind. 
+
+He swam against the current. 
+
+He planed the board against the grain. 
+
+D 4: P 0: R 8: T 179.6; 708.5 against4, contrary-against 
+
+Speeding constitutes a crime against the law.
+
+She acted against my wishes. 
+
+He maintained his convictions against all opposition. 
+
+D 5: P III 1: R 3: T 0 
+
+against 5, fight-against
+
+They fought against the invader. 
+
+They took severe measures against disease. 
+
+Becomes: ATTACKON of ATTACKON(ANT AGAINST) D 6: P III 2: T 179.6; 708.5 
+
+against, prepare-against
+
+The closet was enlarged against future need. 
+
+They stored food and fuel against the ravages of winter. - 18 -
+
+/ago Fabrics are stabilized against dimensional shrinkage. 
+
+Be ready against the third day. 
+
+He saved his money against old age.
+
+D 7: P II 1, III 6: R 5: T 0 
+
+against7, ratio-against
+
+They figure their cost rate 10 cents against our 8 cents. 
+
+John bet $5.00 against our $2.00.
+
+Becomes:- RATIOVER of RATIOVER (UNDERATIO) 
+
+against, contrast-against
+
+His personality stands out against the mediocrity of others. 
+
+The house is beautiful against the background of the sky. 
+
+It's my word against his.
+
+D 8b: PI 1, III 5: R 7: T 464.2 
+
+against⁹, debit-against /ahead The gift was charged against my account.
+
+Becomes:- (DEBINST) of CREDITO (DEBINST) D 0: P III 4: TO 
+
+against, facing-against cf. before
+
+DI: PI 1: R 2: T 237.4, .7 
+
+/ago¹, time-ago.
+
+Mathematicians stopped using abacuses years ago. 
+
+Becomes:- TIMA FOR of TIMAFOR (AFTIM) 
+
+D (adv. and adj.) 0: P 0: T 122.8, .14 /ahead¹, time-ahead 
+
+Reservations for the conference closed week /ahead.
+
+Becomes:- TIMAFOR of TIMAFOR (AFTIM) 
+
+/ahead2, place-ahead 
+
+One could see the road miles /ahead.
+
+Becomes:- SEPFROM( ) 
+
+D 0: P 0: T 234.9; 280.4 - 19 -
+
+/ahead³, quantity-ahead ahead.of along
+
+He quit the tables ten dollars / ahead. 
+
+Becomes:- CREDITO of CREDITO (DEBINST) 
+
+ahead.of¹, place-ahead.of
+
+A man with a flag walked ahead.of the truck of explosives. 
+
+The hare jumped ahead.of the tortoise. 
+
+D (under "ahead", adv.) 1: P pi: T 234.9; 280.4 ahead.of², time-ahead.of
+
+The train arrived ahead.of schedule. 
+
+Becomes:- TIMAFOR of TIMAFOR(AFTIM) 
+
+(under "ahead", adv.) 2: P pi: T 280.4 along¹, motion-along alongside We sailed along the coast. 
+
+The convoy traveled along the route. 
+
+Current passed along the wire.
+
+D 1: P I 1: T 200.15; 282.4 along2, place-along
+
+The road follows along the boundary. 
+
+Frank stretched the rope which was already extended along the bulwark. 
+
+The skin shows a break along its juncture with the secondary portion. 
+
+Becomes:- localong of localong(alongloc)
+
+D 1: P 0: T 200.15 along³, random-along
+
+We passed a number of gas stations along the road. 
+
+Becomes:- RANDOMLOC of RANDOMLOC(LOCRANDOM) D 2: P I 2: T 200.15 
+
+along4, time-along
+
+He made notes along the course of the debate. 
+
+Little progress was apparent along the track of centuries. 
+
+D 0: P II 1: T 282.4 
+
+alongside¹, proximity-alongside 
+
+The boat lay alongside the quay. - 20 -
+
+Becomes: placenear() 
+
+D 1: P 0: R 1: T 216.5; 236.9 alongside², rank-alongside
+
+Industry and Commerce have followed science in acquiring academic rank alongside the older learned studies.
+
+Becomes:- PARALLELOF( ) 
+
+D 2: P 0: T 216.5 alongside.of (colloquial for alongside) along.with along.with¹, in:addition:to-along.with
+
+The sauce was added along.with some salt. 
+
+Bob was there along. with Joe and Harry. 
+
+Becomes:- ALONG WITH() 
+
+D (under "along," adv.) 3: P 0: T 37.9, .10; 88.9 amid (variants: amidst, mid) amid¹, surround-amid The village peeped out amid the trees.
+
+Becomes: 
+
+(AMID) of ABOUT (AMID) 
+
+D 1: P I 1: T 41.11; 228.13 amid2, concomitant-amid He worked unheeding amid the noise and bustle. 
+
+Becomes:- despite of despite(spitewith)
+
+D 1: P II 1: T 41.11; 228.13 
+
+amid³, against-amid 
+
+He stood firm amid temptations.
+
+D 0: P II 2: T 228.13 
+
+amidst (variant of amid) among (variant: amongst) among¹, intermingled-among The houses were hidden among the trees. 
+
+There were immigrants among us. 
+
+He was just one among thousands. 
+
+Aftertreatment involves the difficulty, among others, that agents do not readily penetrate. 
+
+Becomes:- RANDOMLOC of RANDOMLOC(LOCRANDOM) 
+
+D 1, 2, 3: P I 1, 2, 3; II 1, 2: R 1, 2, 3: T 41.11; 228.13 ? - 21 -
+
+among², pre-eminent-among 
+
+He was an actor among actors.
+
+Becomes: SURPASS of SURPASS(INFRAPOS) 
+
+D 3: P 0: T 41.11; 228.13 among³, diffuse-among Discontent spread among the ignorant. 
+
+D 5: P 0: T 41.11; 228.13 among4, share-among The gold was divided among the heirs. 
+
+Profits were split among the gang. 
+
+D 6, 7: P II 3: R 4: TO 
+
+among5, mutual-among 
+
+They quarreled among themselves.
+
+The contest was among three colleges. 
+
+among, usage-among
+
+Among intellectuals, it was the custom to sneer at jazz. 
+
+D 0: P II 4: TO 
+
+among7, alternate-among 
+
+He chose dessert among pies, cakes, and several flavors of ice cream.
+
+Becomes:- OUTFROM of OUTFROM(FROMOUT) 
+
+amongst (variant of among) analogous.to analogous.to¹, similarity-analogous.to 
+
+The location of a word on a drum is identified by a system of addresses analogous.to the system used for core storage. 
+
+D (under "analogous," adj.) 1: P 0: T 17.10 analogous.with analogous.with¹, similarity-analogous.with 
+
+The use of alcohol in the process of extracting juniper berries is analogous.with the use of hot water in the making of tea. 
+
+D (under "analogous," adj.) 1: P 0: T 17.10 - 22 -
+
+antecedent.to antecedent.to¹, time-antecedent.to anterior.to apart.from anterior.to¹, time-anterior.to
+
+Laplace, anterior.to Einstein, noted many of the phenomena on which Einstein later built his theories of relativity.
+
+Becomes:- TIMAFOR of TIMAFOR(AFTIM) 
+
+D (under "anterior," adj.) 2: P pi: T 116.4 
+
+God warned Noah antecedent.to the deluge.
+
+Becomes:- TIMAFOR of TIMAFOR(AFTIM) 
+
+D (under "antecedent," adj.) 1: P 0: T 116.3 apart.from¹, distinguish-apart.from apropos.of apart.from2, separate-apart.from
+
+Only his mother could tell him apart.from his twin. D 0: P pi: T 0 
+
+The poor ewe could not exist apart.from the flock.
+
+Becomes:- SEPFROM() 
+
+D 0: P pi: T 44.12, .14 apart.from³, in: addition:to-apart.from
+
+I had no knowledge of his plans apart.from the meager letter he had sent me. 
+
+Becomes:- ALONG WITH ( ) 
+
+D 0: P pi: T 0 around apropos.of¹, consideration-apropos.of 
+
+Apropos.of our talk last night, have you now come to some decision?
+
+Becomes:- DELIṆBY of DELINBY (DELINOF) 
+
+D (under "apropos," adv.) 2: P pi: T 9.10; 134.11 apropos.of², pertinent-apropos.of 
+
+Have you discovered any prior references apropos.of the contemplated project? 
+
+Becomes:- PERTO of PERTO(OFPERT) 
+
+D 0: P pi: T 23.11, .13 around¹, circuit-around We traveled completely around the world from East to West.
+
+D 1, 3: P 1: T 227.3, .5; 311.3 - 23 -
+
+as around 2, ring-around 
+
+He cast a radiance around him.
+
+A field of force exists around either end of a magnet. 
+
+The path around the lake is like a beautiful halo. 
+
+Dehydration forms a skin around a plastic core. 
+
+A magnetic field was detected around the wire.
+
+Becomes:- ABOUT of ABOUT (AMID) 
+
+D 4: P 2: T 227.3 around³, avoid-around
+
+He got around the difficulty by going back to Chicago. 
+
+D 0: P 3: T 623.6 
+
+around4, continue-around
+
+They were married in the church around the corner. 
+
+The house can be seen around the bend of the road. 
+
+Air is drawn around the sharp edge into the duct. 
+
+around5, random-around He wandered around the country. 
+
+There are many bad street intersections around the city. 
+
+Becomes: RANDOMLOC of RANDOMLOC(LOCRANDOM) 
+
+D 2, 5: P 5: T 0 around, nearby-around 
+
+Trees stood around the grave. 
+
+He lives around the neighborhood. 
+
+Becomes: placenear()
+
+around 
+
+D 2: P 0: T 197.8, .11, .12; 227.5 measure-around (an adverb; not a prepositional. See Section IV.E.5.)
+
+The load weighs around three tons. 
+
+D 6: P 0: T 32.15, .17; 197.12 as¹, manner-as 
+
+The audience rose as a man. 
+
+He doesn't eat breakfast as a rule. 
+
+Resistance disappeared as chaff before the wind.
+
+D 1, 2b: P 0: R 5: T 0 - 24 -
+
+as², charactered-as as³, duty-as as4, as.against as.for 
+
+Barrymore appeared as Hamlet. 
+
+As a bachelor, he can expect no special consideration.
+
+Entertainment was listed as a cost of operation. 
+
+He regarded printing as an expensive mode of reproduction. 
+
+He operated buses as an experiment.
+
+His plans were accepted and transmitted as instructions. 
+
+Cellulose acetate had an acetyl value of 18% calculated as acetic acid. "Monoamide" is intended as a generic expression. 
+
+The reaction product may be incorporated as such in the viscose. D 2: P 0: R 1: T 0 as.between
+
+His position as editor made it difficult for him to demur. 
+
+She acted as teacher in his absence. 
+
+The zero position acts as the sign of the word. D 2a: P 0: R 2: T 0 cause-as as.against¹, vis÷avis-as. against 
+
+He limps as a result of the accident. 
+
+Becomes:- HOWBY of HOWBY (BYHOW) 
+
+D 1: P 0: R 3: T 0 
+
+One takes the opinion of lawyers as.against laymen.
+
+Becomes:- RATIOVER of RATIOVER (UNDERATIO) 
+
+D (under "as") 2c: P pp: R (under "as") 4: T 237.7 as.between¹, discriminate-as.between 
+
+As.between a home in the country or an apartment in the city, he chose the country home. 
+
+Becomes:- RATIOVER of RATIOVER (UNDERATIO) 
+
+cf. between 
+
+D (under "as," prep.) 2c: P pp: T 0 as.for¹, concern-as.for 
+
+As.for me and my house, we shall obey the law.
+
+Becomes:- CONCERNABOUT of CONCERN ABOUT (ABOUTCONCERN) 
+
+D (under "as," adv.) "-as for": P pp: T 9.10 - 25 -
+
+as.to as.to¹, concern-as.to at As.to John's feelings, we could only guess.
+
+Becomes:- CONCERNABOUT of CONCERNABOUT (ABOUTCONCERN) 
+
+D (under "as," adv.) "-as to" a, b: P pp: T 9.10 as.to2, according-as.to
+
+As.to theory, the diameter could be smaller than that used by the designer, Becomes:- DELINBY of DELINBY (DELINOF) 
+
+D (under "as," adv.) "-as to" b: P pp: T 0 as.to³, proportion-as.to
+
+As.to the length of the mast, the extreme strength of the alloy permitted an extremely small cross section. aside.from as.touching (variant of touching) aside (variant of beside)
+
+Becomes: RATIOVER of RATIOVER (UNDER ATIO) 
+
+D (under "as," adv.) "-as to" c: P pp: T 0 aside.from¹, in: addition:to-aside.from
+
+Aside.from the inconvenience it might cause, the question of his right to refuse to act had to be considered.
+
+Becomes: ALONGWITH() 
+
+D (under "aside," adv.) 5: P pp: T 0 at¹, spot-at The hole at the center of the circle was caused by the compass. 
+
+The surface at the bottom of the sea was explored. 
+
+A sharp edged lip was provided at the termination of the canal at the mouth. 
+
+D 1a: PI 1: R 1: T 0 
+
+at2, proximity-at 
+
+The car arrived at the door. 
+
+He was seated at the table. 
+
+As the sun rose, they found help at hand. 
+
+Jean's sweater was frayed at her elbows. 
+
+Becomes: placenear()
+
+D la: P I 2: R 1, 8: TO 
+
+- 26 -
+
+at³, found-at 
+
+They live at 3 Chester St.
+
+She can be called at her office. 
+
+D lf: P 0: TO 
+
+at4, impact-at 
+
+He knocked at the door.
+
+Becomes:- IMPACTON of IMPACTON(STRIKER) D 1a, 2e: P I 2, 7: T 0 
+
+at5, cause-at
+
+He winced at the thought of learning. 
+
+He became merry at the sight of land. 
+
+He showed anger at her rudeness.
+
+Becomes:- HOWBY of HOWBY (BY HOW) D 5: P I 4, IV 7: R 9 
+
+at, away-at at 10 
+
+He hit the bull's-eye at 30 yards.
+
+Becomes:- SEPFROM() D 2d: P I 5: TO 
+
+at7, thru-at The boat shipped water at the seams. 
+
+His arms protruded at the elbows. 
+
+Smoke escaped at the windows. 
+
+Becomes: localong of localong (alongloc)
+
+D 2a: P I 8: T 0 at, synchro-at The plane leaves at midnight. 
+
+Citizens become voters at 
+
+21 years of age.
+
+The reactive monomer may be added at any time. 
+
+Becomes:- SYNCWITH() D 7: P II 1: R 7: T 0 
+
+at, presence:during-at
+
+He was introduced to her at lunch. 
+
+They learned patience at college.
+
+D le: P I 4, II 2: R 1: TO 
+
+, range-at 
+
+The bank pays interest at 2%. - 27 -
+
+at 11, The meeting was called at short notice.
+
+The car was running at full speed. 
+
+An increase to a weight at which the compound cannot diffuse reduces loss. 
+
+D 5, 6: P III 1: R 3: T 0 
+
+status-at The stag at bay had drunk his fill. 
+
+A nation at war is sometimes desperate. 
+
+The numbers were picked at random. 
+
+He felt himself at a disadvantage. 
+
+D 4: P IV 1: R 5: T 0 
+
+at 12, toward-at at.about 
+
+He was angry at his friend. 
+
+Drowning men catch at straws. 
+
+He did not aim at the heart.
+
+D 2e: P I 6, IV 2: R 2: T 0 
+
+at 13, responsible-at The guilt was laid at his door. 
+
+The report was prepared at his command.
+
+She pleaded for justice at his hands. 
+
+D 5: P IV 3, 5: R 6: T 0 
+
+at 14, employed-at 
+
+He works at the Census Bureau. 
+
+D 3: P IV 6: R 4 
+
+at 15, engaged-at 
+
+He was seen at work on Thursday. 
+
+He struggled at the controls.
+
+Becomes: - ENGAGAT of ENGAGAT (ENGAGER) D 3: P IV 4: TO 
+
+at. about¹, proximity-at. about 
+
+The accident occurred at. about the end of the paved portion of the road. 
+
+Becomes: - placenear() cf. aproxtim() 
+
+D 0: P 0: T 197.8, .11, .12 - 28 -
+
+away /away¹, time-away /away2, place-away away.from as...as 
+
+The dawn seemed hours /away.
+
+Becomes:- AFTIM of AFTIM(TIMAFT) 
+
+D 0: P 0: T 0 away.from¹, separate-away.from 
+
+He lives away. from home.
+
+On vacation he found himself away.from the cares of his office. 
+
+Becomes:- SEPFROM() 
+
+D (under "away," adj.) 1: P 0: T 187.16 Exceptions 
+
+They heard the explosion miles away.
+
+Becomes:- DISTLOC of DISTLOC(LOCDIST) 
+
+D (adv.) 9; (adj.) 1: P 0: T 196.5, .6 as.x.as, at least so x, or not x-er than 
+
+Note: This expression compares x with the object of the second "as." x may be any true adjective, but not all adjectivally used words. 
+
+SECTION VII. PREPOSITIONAL ANALYSIS-PHRASAL PREPOSITIONALS GROUPED BY CATEGORIES 
+
+as...from
+
+The metal surface became as.bright.as a mirror by polishing. 
+
+No planet comes as.near.as Mars at perhelion. 
+
+They predicted weather conditions as.far.ahead.as Thursday.
+
+Even in its unpurified form, tritium was approximately three times as.heavy.as hydrogen. as.well, as¹, along:with-as.well.as
+
+Mollie, as.well.as Jack, was invited to the party. 
+
+Becomes:- ALONGWITH() 
+
+D (under "as," adv.) "-as well as": T 37.9, .10; 88.9 as.good.as (an adverb; not a prepositional. See Section IV.E.5.) nearly-as.good.as
+
+The repaired machine was as.good.as new. 
+
+D (under "as," adv.) "-as good as": T 197.12 as.x.from¹, x-from-whence 
+
+Ethanol, as.distilled. from fermented mashes of organic material, is denatured by the addition of methanol. 
+
+- 29 -
+
+as.x.from2, x-with-respect-to 
+
+Single words, as. distinguished. from phrases, clauses, and sentences, cannot be considered context. as...in as.x.in, x-amid (x-within) as...to as.x.to, x-against
+
+As.compared.to drinking, smoking may have worse results. 
+
+Frame dwellings, as. opposed.to brick dwellings, are less fire resistant. as...with as.x.with, x-against 
+
+Iron, as.found.in ore, is usually in oxide form. 
+
+Language, as. included. in the study of programming, differs from the usual conception of the term.
+
+For retrieval purposes, digital computers have some advantages as.compared.with analog computers. T 464.7 
+
+ABOUT of ABOUT (AMID) 
+
+about 1 around 2 over before 
+
+--(ABOUTCONCERN) of CONCERNABOUT (ABOUT CONCERN) AFTER ANK of AFTERANK(RANKAFTER) SECTION VIII. SYNTHETIC RELATIONAL CONCEPTS 
+
+in till above after4 /away¹ from 
+
+Bind the rope about the post.
+
+A field of force exists around either end of a magnet. -(AFTIM) of TIMAFOR (AFTIM) Large corporations put safety before profits. 
+
+Aluminum construction is preferred over wood. 
+
+The show lasted above three hours.
+
+The property was divided after his death. 
+
+The dawn seemed hours /away. 
+
+Countdown will start ten minutes from now. 
+
+The showing will begin in an hour. 
+
+Wait till the sun shines. - 30 -
+
+--(alongloc) of localong(alongloc)
+
+ALONGWITH( ) 
+
+along.with1 apart.from3 aside.from¹ as.well, as 1 
+
+--(AMID) of ABOUT (AMID) 
+
+amid¹ aproxtim() about4 close.to near near.to nigh.to cf. placenear()
+
+The sauce was added along.with some salt. 
+
+I had no knowledge of his plans apart. from the meager letter he had sent me. for of to Aside.from the inconvenience it might cause, the question of his right to refuse to act had to be considered. 
+
+Mollie, as.well. as Jack, was invited to the party. resulting.in
+
+The village peeped out amid the trees, He left the house about midnight. 
+
+The dispute began close.to the end. 
+
+The crash occurred near daylight.
+
+ATTACKON of ATTACKON(ANT AGAINST) 
+
+against 5 amid3 
+
+The rain stopped near.to midafternoon. 
+
+The filibuster ended nigh.to dawn. 
+
+-BYHOW of HOWBY (BYHOW) 
+
+They fought against the invader. 
+
+He stood firm amid temptations. 
+
+Books for learning are readily available.
+
+A quick method of addition is based on logic. 
+
+The concrete succumbed to the force of the electric hammer. 
+
+Careful tooling resulting.in good products is worth the cost. 
+
+CONCERNABOUT of CONCERNABOUT (ABOUTCONCERN) 
+
+about 5 after 3 as. for 1 as.to1 for 
+
+He read a book about war. 
+
+He looked after his employees. 
+
+As.for me, I shall attend the lecture.
+
+As.to John's feelings, we could only guess. 
+
+So much for that. - 31 -
+
+of on over with
+
+CREDITO of CREDITO(DEBINST) 
+
+/ahead3 His boast of achievements was based on fact. 
+
+Labor and management agreed on price. 
+
+A dispute over the past is fruitless. 
+
+They are pleased with the results. against⁹ 
+
+--(DEBINST) of CREDITO(DEBINST) 
+
+He quit the table ten dollars /ahead.
+
+above 5 after 6 amid2 despite in.spite.of notwithstanding through The gift was charged against my account, DELINBY of DELINBY (DELINOF) 
+
+according.to¹ after 8 apropos.of¹ as.to2 
+
+They were seated according.to their rank.
+
+He acted after his kind. 
+
+Apropos.of our talk last night, we reached a decision.
+
+As.to theory, the diameter could be smaller than that used by the designer. 
+
+--DELINOF of DELINBY (DELINOF) 
+
+despite of despite(spitewith) 
+
+His shout was heard above the fury of the gale.
+
+After all our advice, you took a contrary course. 
+
+He worked unheeding amid the noise and the bustle. 
+
+He charted the course despite the fog. 
+
+The mail was delivered in. spite.of the blizzard. 
+
+He flew home notwithstanding the flak. 
+
+His voice was heard through the din.
+
+DISTLOC of DISTLOC(LOCDIST) 
+
+/away2 
+
+They heard the explosion miles /away.
+
+ENGAGAT of ENGAGAT (ENGAGER) 
+
+about 6 at 15 
+
+I must be about my father's business. 
+
+He struggled at the controls. 
+
+--(ENGAGER) of ENGAGAT(ENGAGER) --(FROMASID) of ASIDFROM(FROMASID) --(FROMOUT) of OUTFROM(FROMOUT) 
+
+- 32 -
+
+HOWBY of HOWBY (BYHOW) 
+
+after as4 at 5 because.of -5 for from in of over resulting.from through to with against¹ at4 on cf. MEANSBY (MEANSOF) IMPACTON of IMPACTON(STRIKER) 
+
+upon along 2 at7 by After their quarrel, they decided to separate. 
+
+He limps as a result of the accident. 
+
+He winced at the thought of learning. 
+
+Silver becomes dull because. of wear. 
+
+He was punished for stealing. 
+
+He reasoned from the facts.
+
+The program was sketched in outline. 
+
+Nothing can move of itself. by.means.of by.use.of from of on They waged war over Helen of Troy. 
+
+The cure resulting. from an operation is often permanent. 
+
+Statehood was established through legislation. 
+
+The door succumbed to the force of the blow. 
+
+One can be killed with kindness. 
+
+(INFRAPOS) of SURPASS(INFR APOS) 
+
+localong of localong(alongloc) resulting.from 
+
+The hail beat against the roof. 
+
+He knocked at the door. 
+
+-(LOCRANDOM) of RANDOMLOC(LOCRANDOM) MEANSBY of MEANSBY (MEANSBYOF) 
+
+He beat on the drums.
+
+The cat fell upon his prey. 
+
+The road follows along the boundary. 
+
+The boat shipped water at the seams. 
+
+He plays by ear. 
+
+Birds fly by.means. of wings. 
+
+Sound was projected by.use. of microphones. 
+
+The picture hangs from a string.
+
+The parade started at the sound of the drum. 
+
+He played on the organ. 
+
+The blow resulting. from the hammer was fatal. - 33 -
+
+through with cf. HOWBY (BYHOW) -- (MEANSOF) of MEANSBY (MEANSOF) -(OFPERT) of PERTO(OFPERT) OUTFROM of OUTFROM(FROMOUT) 
+
+among7 between from.among in of 
+
+PARALLELOF( ) 
+
+abreast.of1 alongside 2 apropos.of2 to
+
+PERTO of PERTO(OFPERT) 
+
+placenear() aboard2 about 0 about. at 1
+
+They spoke through an interpreter. 
+
+He cut with a knife. adjacent¹ adjacent.to¹ alongside 1 around 6 at 2 at. about 1 beside by near near.to next.to nigh.to 
+
+He chose dessert among pies, cakes, and ice cream. 
+
+He chose between milk and honey.
+
+He was elected from. among twenty candidates. 
+
+A pigment is an ingredient in most paints.
+
+The sentence will take two years of his life. 
+
+The honor guards marched abreast. of the standard bearer. 
+
+Cybernetics has acquired academic rank alongside the older learned studies.
+
+The bibliography contains references apropos. of the project. 
+
+In his maiden speech before the House, he spoke to the resolutions. 
+
+The tug came aboard the liner.
+
+The accident occurred about. at the end of the paved portion of the road. 
+
+A boss is located adjacent the hole. 
+
+The barn is adjacent.to the house. 
+
+The boat lay alongside the quay. 
+
+He lives around the neighborhood.
+
+The car arrived at the door. 
+
+The accident occurred at. about the end of the paved portion of the road. 
+
+The chair was placed beside the bed. 
+
+The knife was put by the fork. 
+
+The clock is near the door.
+
+The barn is near.to the house. 
+
+The house is next.to the school. 
+
+The train drew nigh.to Boston. - 34 
+
+---
+
+on proximate.to cf. aproxtim( )
+
+RANDOMLOC of RANDOMLOC(LOCRANDOM) 
+
+about 3 across5 along 3 among 1 around5 on over through with 
+
+(RANKAFTER) of AFTERANK(RANKAFTER) 
+
+above4 after7 against7 as.against¹ as.between¹ as.to3
+
+RATIOVER of RATIOVER (UNDERATIO) SEPFROM() 
+
+The house is situated on the shore. 
+
+The city is proximate.to the river. /ahead2 apart.from2 at6 away.from¹ 
+
+The toys were strewn about the room. 
+
+Dust spread across the plain.
+
+We passed gas stations along the road. 
+
+He was one among thousands.
+
+He wandered around the country. 
+
+He served on the board of directors for three years. 
+
+The pebbles scattered over the floor.
+
+Cancer spreads through the body. 
+
+They mixed with the crowd. above 6 among 2 Such things remain above our comprehension. 
+
+Large corporations put profits after safety. 
+
+John bet $5.00 against our $2.00.
+
+One takes the opinion of lawyers as.against laymen. 
+
+As.between a home in the country or an apartment in the city, he chose the country home.
+
+As.to the length of the mast, the extreme strength of the alloy permitted an extremely small cross section. 
+
+One could see the road miles /ahead.
+
+The poor ewe could not exist apart.from the flock. 
+
+He hit the bull's-eye at 30 yards. 
+
+He lives away.from home. -- (spitewith) of despite (spitewith) 
+
+--(STRIKER) of IMPACTON(STRIKER) SURPASS of SURPASS(INFRAPOS) 
+
+The yield was above average for the process. 
+
+He was an actor among actors. - 35 -
+
+SYNCWITH( ) 
+
+at 8 by down for on over through under with /ago¹ /ahead¹ ahead.of 2
+
+TIMAFOR of TIMAFOR(AFTIM) 
+
+antecedent.to1 anterior.to¹ before by 
+
+9. Relation 
+
+.10 about 5 apropos.of1 as.for 1 as.tol 
+
+--(UNDERATIO) of RATIOVER(UNDERATIO) 
+
+17. Similarity .10 analogous.to¹ analogous.with¹
+
+The plane leaves at midnight. 
+
+23. Agreement 
+
+By noon, the residue will be gone. 
+
+He has greyed down the years. 
+
+He worked for one hour. 
+
+The clock strikes on the hour.
+
+He lived here over many years. 
+
+He goes through life undaunted. 
+
+The history of the U. S. is recounted under prohibition. 
+
+Fido barks with the music. .7 according.tol .11,.13 apropos.of2
+
+Mathematicians stopped using abacuses years ago. 
+
+Reservations for the conference closed weeks /ahead.
+
+The train arrived ahead.of schedule. 
+
+God warned Noah antecedent.to the deluge.
+
+Laplace, anterior.to Einstein, noted many of the phenomena on which Einstein later built his theories of relativity. 
+
+We eat before 6:00 o'clock.
+
+The leaves will have fallen by the time winter arrives. 
+
+SECTION IX. THESAURUS GROUPINGS 
+
+33. Superiority .7 above4 
+
+37. Addition .9,.10 along. with¹ as.well.as1 
+
+41. Mixture .11 amid¹ amid2 among¹ among 2 among 3 
+
+44. Distinction 
+
+.12,.14 apart.from2 
+
+63. Sequence .1,.3 after4 .1,.3,.4 after 1 
+
+82. Conformity .9,.12 according.to¹ 
+
+88. Accompaniment .9 along.with¹ as.well, as 1 - 36 -
+
+116. Priority 
+
+.3 antecedent.to¹ .4 anterior.tol 
+
+117. Posteriority .1-.3 after1 .3,.4 after4 
+
+122. Preterition .8,.14 /ago1 
+
+134. Timliness .11 apropos.of¹ 
+
+179. Counteraction 
+
+.6 against¹ against 3 against5 
+
+187. Absence .16 away.from¹ 
+
+196. Distance .5,.6 /away2 
+
+197. Nearness .8 adjacent¹ adjacent.to¹ .8,.11,.12 about 2 
+
+200. Length about, at 1 around 6 at. about 1 .15 along¹ along 2 along3 
+
+206. Height .15,.19 above1 above2 215. Support .27 against 2 
+
+216. Parallelism 
+
+.5 abreast.of¹ alongside ¹ alongside 2 
+
+217. Obliquity .14,.18 across 1 
+
+219. Crossing .9,.12 across1 
+
+227. Circumjacence .3 around 2 .3,.5 about around 1 .5 around 6 
+
+228. Interjacence .13 amid1 amid2 amid3 among¹ among2 among 3 among5 
+
+234. Front .9 /ahead2 ahead.of¹ 
+
+235. Rear .14-.17 after 1 
+
+236. Side .9 abreast.of1 alongside 1 
+
+23/. Contraposition .4,.7 against .7 across4 as.against¹ 
+
+280. Precession .4 /anead¹ /ahead2 ahead.of¹ ahead, of2 
+
+281. Sequence .3 after¹ 
+
+282. Progression .4 along¹ along4 
+
+302. Passage 
+
+.2 across2 
+
+311. Circuity .3 around¹ 
+
+461. Inquiry .16 after 2 
+
+464. Comparison 
+
+.2 against .7 as.x.with - 37 -
+
+467. Evidence 
+
+.13 according.to¹ 
+
+622. Pursuit 
+
+.11 after¹ after 8 
+
+623. Avoidance .6 around3 
+
+625. Business .7 about 6 
+
+676. Undertaking .2 about 
+
+708. Opposition .5 against¹ against³ against 5 
+
+719. Resistance 
+
+.3 against2
+
+SECTION X. REFERENCES 1. Andrews and Newman, Storage and Retrieval of Contents of Technical Literature, Preliminary Report; Newman, Storage and Retrieval of Contents of Technical Literature, First and Second Supplemen cary Reports; and Newman, Linguistic Problems in Mechanization. 
+
+2. Andrews and Newman, op. cit., P. 4. 
+
+3. Funk and Wagnalls, Handbook of Prepositions, p. 3. 
+
+4. This report, Section IV.B. 
+
+5. Funk and Wagnalls, op. cit., p. 4. 
+
+6. Andrews and Newman, op. cit.; and Newman, op. cit. 
+
+7. Newman, Swanson, and Knowlton, Patent Office Research and Development Reports, No. 15. 
+
+8. Bryant, Margret M., English in the Law Courts. 
+
+9. Andrews and Newman, op. cit., p. 5, 6. 
+
+10. Funk and Wagnalls, op. cit. 
+
+11. The word inversion test was suggested by Dr. Victor H. Yngve of the Massachusetts Institute of Technology in a personal communication. 
+
+12. Andrews and Newman, op. cit. 
+
+13. Newman, Storage and Retrieval of Contents of Technical Literature, First Supplementary Report. 
+
+14. Ibid., p. 15. 
+
+15. Definitions of some Ruly Roots and interrelational concepts are collected in Appendix A of Newman, Storage and Retrieval of Contents of Technical Literature, Second Supplementary Report. Definitions evolved since the issuance of this report have not been published.
+
+SECTION XI. BIBLIOGRAPHY 
+
+Andrews, Don D., and Simon M. Newman.
+
+"Activities and Objectives of the Office of Research and De velopment in the U. S. Patent Office." Journal of the Patent Office Society, 40:2 (February 1958) 79-85. 
+
+Andrews, Don D.. and Simon M. Newman. Storage and Retrieval of Contents of Technical Literature- Nonchemical Information-Preliminary Report. Patent Office Research and Development Report (No. 1). 
+
+Washington, D. C., Department of Commerce, 1956. (This paper concerns the development of a linguistic approach to the search problem.) - 38 -
+
+Bryant, Margret M. English in the Law Courts. New York, Columbia University Press, 1930.
+
+Dunham, B. "The Formulation of Scientific Languages, Part I: The Work of Woodger and Hull." I. B. M. 
+
+Journal of Research and Development, 1:4 (October 1957) 341-348. 
+
+Fernald, James C. Connectives of English Speech. New York, Funk & Wagnalls, 1904. 
+
+Funk & Wagnalls Editorial Staff. Standard Handbook of Prepositions, Conjunctions, Relative Pronouns and Adverbs. New York, Funk & Wagnalls, 1953. (This appears to be a revision of Fernald, op. cit.
+
+) 
+
+Halliday, M. A. K. The Linguistic Basis of the Thesaurus-Type Mechanical Dictionary andits Applica tion to English Preposition Classification. (Mimeographed), 1956. (Copy in the Harvard University Library as reference material for applied mathematics courses (Methematical Linguistics) Nos. 204 and 205.)
+
+Harris, Z. H. "Linguistic Transformations for Information Retrieval." Preprints of Papers for the International Conference on Scientific Information. Washington, D. C., National Academy of Sciences-- 
+
+National Research Council, 1958, Area V, pp. 123-136.
+
+Locke, W. N., and A. D. Booth. Machine Translation of Languages. Boston, the Technology Press of the 
+
+Massachusetts Institute of Technology, 1955.
+
+Newman, Simon M. "Linguistics and Information Retrieval; Toward a Solution of the Patent Office Problem." Monograph Series in Linguistics and Language Studies, No. 10. Washington, D. C., Georgetown
+
+University Press, 1957, pp. 103-111. Reprinted in Journal of the Patent Office Society, 39:10 (October 
+
+1957) 720-729. (This paper summarizes Office of Research and Development Reports, Nos. 1 and 4.) Newman, Simon M. Linguistic Problems in Mechanization of Patent Searching. Patent Office Research and Development Report No. 9. Washington, D. C., Department of Commerce, 1957. (This paper re states the language problem for the benefit of linguists.
+
+) 
+
+Newman, Simon M. Problems in Mechanizing the Search in Examining Patent Applications. Patent Office Research and Development Report No. 3. Washington, D. C., Department of Commerce, 1956, rev. 1959. 
+
+(This paper is a statement of the problems which must be resolved in mechanizing the patent search).
+
+Newman, Simon M. Storage and Retrieval of Contents of Technical Literature-Nonchemical Information-First Supplementary Report. Patent Office Research and Development Report No. 4. Washington, 
+
+D. C., Department of Commerce, 1957. (This paper is a continuation of the linguistic approach described in Report No. 1, op. cit.)
+
+Newman, Simon M. Storage and Retrieval of Contents of Technical Literature-Nonchemical Information-Second Supplementary Report. Patent Office Research and Development Report No. 12. Washington, 
+
+D. C., Department of Commerce, 1958. 
+
+Newman, Simon M., Rowena Swanson, and Kenneth Knowlton. A Notation System for Transliterating Technical and Scientific Texts for use in Data Processing Systems. Patent Office Research and Development 
+
+Report No. 15. Washington, D. C., Department of Commerce, 1959. 
+
+Roget's International Thesaurus, New Edition. New York, Thomas Y. Crowell Co., 1954. 
+
+Vickery, B. C. "The Significance of John Wilkins in the History of Bibliographical Classification." Libri, International Library Review, 2 (1953) 326-343. 
+
+Webster's New International Dictionary of the English Language, Second Edition, Unabridged. Spring field, Mass., G. & C. Merriam Co., 1955.
+
+Yngve, Victor H. "Feasibility of Machine Searching of English Texts." Preprints of Papers for the International Conference on Scientific Information.. Washington, D. C., National Academy of Sciences-- 
+
+National Research Council, 1958, Area v, pp. 161-169. US COMM--DC - 39 -

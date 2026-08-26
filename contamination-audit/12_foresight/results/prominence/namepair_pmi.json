@@ -1,0 +1,800 @@
+{
+ "1900": {
+  "Paul Gauguin": {
+   "cue": "Paul",
+   "sur": "Gauguin",
+   "fame": 1895,
+   "domain": "painting",
+   "pmi": 1.336,
+   "p_cond": 0.0
+  },
+  "Pablo Picasso": {
+   "cue": "Pablo",
+   "sur": "Picasso",
+   "fame": 1910,
+   "domain": "painting",
+   "pmi": 4.72,
+   "p_cond": 0.0
+  },
+  "Jackson Pollock": {
+   "cue": "Jackson",
+   "sur": "Pollock",
+   "fame": 1948,
+   "domain": "painting",
+   "pmi": -1.351,
+   "p_cond": 1e-05
+  },
+  "Otto von Bismarck": {
+   "cue": "Otto von",
+   "sur": "Bismarck",
+   "fame": 1865,
+   "domain": "statecraft",
+   "pmi": 8.724,
+   "p_cond": 0.04346
+  },
+  "Adolf Hitler": {
+   "cue": "Adolf",
+   "sur": "Hitler",
+   "fame": 1923,
+   "domain": "statecraft",
+   "pmi": 4.824,
+   "p_cond": 0.00273
+  },
+  "Ronald Reagan": {
+   "cue": "Ronald",
+   "sur": "Reagan",
+   "fame": 1981,
+   "domain": "statecraft",
+   "pmi": 4.363,
+   "p_cond": 0.00143
+  },
+  "James Clerk Maxwell": {
+   "cue": "James Clerk",
+   "sur": "Maxwell",
+   "fame": 1870,
+   "domain": "physics",
+   "pmi": 1.682,
+   "p_cond": 0.00077
+  },
+  "Albert Einstein": {
+   "cue": "Albert",
+   "sur": "Einstein",
+   "fame": 1919,
+   "domain": "physics",
+   "pmi": 1.251,
+   "p_cond": 2e-05
+  },
+  "Richard Feynman": {
+   "cue": "Richard",
+   "sur": "Feynman",
+   "fame": 1965,
+   "domain": "physics",
+   "pmi": 1.812,
+   "p_cond": 0.0
+  },
+  "Richard Wagner": {
+   "cue": "Richard",
+   "sur": "Wagner",
+   "fame": 1860,
+   "domain": "music",
+   "pmi": 1.19,
+   "p_cond": 0.00086
+  },
+  "Igor Stravinsky": {
+   "cue": "Igor",
+   "sur": "Stravinsky",
+   "fame": 1913,
+   "domain": "music",
+   "pmi": -9.526,
+   "p_cond": 0.0
+  },
+  "Elvis Presley": {
+   "cue": "Elvis",
+   "sur": "Presley",
+   "fame": 1956,
+   "domain": "music",
+   "pmi": 1.127,
+   "p_cond": 0.0
+  },
+  "Leo Tolstoy": {
+   "cue": "Leo",
+   "sur": "Tolstoy",
+   "fame": 1875,
+   "domain": "literature",
+   "pmi": 0.588,
+   "p_cond": 0.0
+  },
+  "Ernest Hemingway": {
+   "cue": "Ernest",
+   "sur": "Hemingway",
+   "fame": 1926,
+   "domain": "literature",
+   "pmi": -0.228,
+   "p_cond": 0.0
+  },
+  "George Orwell": {
+   "cue": "George",
+   "sur": "Orwell",
+   "fame": 1945,
+   "domain": "literature",
+   "pmi": 0.502,
+   "p_cond": 0.0
+  },
+  "Karl Marx": {
+   "cue": "Karl",
+   "sur": "Marx",
+   "fame": 1870,
+   "domain": "revolution",
+   "pmi": 3.775,
+   "p_cond": 0.00135
+  },
+  "Vladimir Lenin": {
+   "cue": "Vladimir",
+   "sur": "Lenin",
+   "fame": 1917,
+   "domain": "revolution",
+   "pmi": 3.433,
+   "p_cond": 0.0
+  },
+  "Che Guevara": {
+   "cue": "Che",
+   "sur": "Guevara",
+   "fame": 1959,
+   "domain": "revolution",
+   "pmi": -2.697,
+   "p_cond": 0.0
+  },
+  "Louis Pasteur": {
+   "cue": "Louis",
+   "sur": "Pasteur",
+   "fame": 1880,
+   "domain": "science",
+   "pmi": -0.46,
+   "p_cond": 1e-05
+  },
+  "Marie Curie": {
+   "cue": "Marie",
+   "sur": "Curie",
+   "fame": 1903,
+   "domain": "science",
+   "pmi": 2.268,
+   "p_cond": 3e-05
+  },
+  "Jonas Salk": {
+   "cue": "Jonas",
+   "sur": "Salk",
+   "fame": 1955,
+   "domain": "science",
+   "pmi": 0.611,
+   "p_cond": 0.0
+  },
+  "Henry Stanley": {
+   "cue": "Henry",
+   "sur": "Stanley",
+   "fame": 1875,
+   "domain": "exploration",
+   "pmi": 1.178,
+   "p_cond": 0.00177
+  },
+  "Charles Lindbergh": {
+   "cue": "Charles",
+   "sur": "Lindbergh",
+   "fame": 1927,
+   "domain": "exploration",
+   "pmi": -0.705,
+   "p_cond": 0.0
+  },
+  "Neil Armstrong": {
+   "cue": "Neil",
+   "sur": "Armstrong",
+   "fame": 1969,
+   "domain": "exploration",
+   "pmi": -1.716,
+   "p_cond": 7e-05
+  },
+  "Friedrich Nietzsche": {
+   "cue": "Friedrich",
+   "sur": "Nietzsche",
+   "fame": 1888,
+   "domain": "philosophy",
+   "pmi": 3.728,
+   "p_cond": 2e-05
+  },
+  "Ludwig Wittgenstein": {
+   "cue": "Ludwig",
+   "sur": "Wittgenstein",
+   "fame": 1922,
+   "domain": "philosophy",
+   "pmi": 4.719,
+   "p_cond": 2e-05
+  },
+  "Jean-Paul Sartre": {
+   "cue": "Jean-Paul",
+   "sur": "Sartre",
+   "fame": 1945,
+   "domain": "philosophy",
+   "pmi": 4.325,
+   "p_cond": 0.0
+  },
+  "Napoleon Bonaparte": {
+   "cue": "Napoleon",
+   "sur": "Bonaparte",
+   "fame": 1800,
+   "domain": "empire",
+   "pmi": 6.854,
+   "p_cond": 0.05884
+  },
+  "Benito Mussolini": {
+   "cue": "Benito",
+   "sur": "Mussolini",
+   "fame": 1922,
+   "domain": "empire",
+   "pmi": 0.742,
+   "p_cond": 0.0
+  },
+  "Mao Zedong": {
+   "cue": "Mao",
+   "sur": "Zedong",
+   "fame": 1949,
+   "domain": "empire",
+   "pmi": -1.172,
+   "p_cond": 0.0
+  },
+  "Frederick Douglass": {
+   "cue": "Frederick",
+   "sur": "Douglass",
+   "fame": 1850,
+   "domain": "civil rights",
+   "pmi": 4.061,
+   "p_cond": 0.01733
+  },
+  "W. E. B. Du Bois": {
+   "cue": "W. E. B.",
+   "sur": "Du Bois",
+   "fame": 1903,
+   "domain": "civil rights",
+   "pmi": -0.284,
+   "p_cond": 1e-05
+  },
+  "Rosa Parks": {
+   "cue": "Rosa",
+   "sur": "Parks",
+   "fame": 1955,
+   "domain": "civil rights",
+   "pmi": -1.144,
+   "p_cond": 2e-05
+  }
+ },
+ "1913": {
+  "Paul Gauguin": {
+   "cue": "Paul",
+   "sur": "Gauguin",
+   "fame": 1895,
+   "domain": "painting",
+   "pmi": 1.147,
+   "p_cond": 0.0
+  },
+  "Pablo Picasso": {
+   "cue": "Pablo",
+   "sur": "Picasso",
+   "fame": 1910,
+   "domain": "painting",
+   "pmi": 7.68,
+   "p_cond": 1e-05
+  },
+  "Jackson Pollock": {
+   "cue": "Jackson",
+   "sur": "Pollock",
+   "fame": 1948,
+   "domain": "painting",
+   "pmi": -5.379,
+   "p_cond": 0.0
+  },
+  "Otto von Bismarck": {
+   "cue": "Otto von",
+   "sur": "Bismarck",
+   "fame": 1865,
+   "domain": "statecraft",
+   "pmi": 8.36,
+   "p_cond": 0.03669
+  },
+  "Adolf Hitler": {
+   "cue": "Adolf",
+   "sur": "Hitler",
+   "fame": 1923,
+   "domain": "statecraft",
+   "pmi": 4.573,
+   "p_cond": 0.00099
+  },
+  "Ronald Reagan": {
+   "cue": "Ronald",
+   "sur": "Reagan",
+   "fame": 1981,
+   "domain": "statecraft",
+   "pmi": 1.946,
+   "p_cond": 0.00026
+  },
+  "James Clerk Maxwell": {
+   "cue": "James Clerk",
+   "sur": "Maxwell",
+   "fame": 1870,
+   "domain": "physics",
+   "pmi": 0.091,
+   "p_cond": 0.00021
+  },
+  "Albert Einstein": {
+   "cue": "Albert",
+   "sur": "Einstein",
+   "fame": 1919,
+   "domain": "physics",
+   "pmi": 0.431,
+   "p_cond": 1e-05
+  },
+  "Richard Feynman": {
+   "cue": "Richard",
+   "sur": "Feynman",
+   "fame": 1965,
+   "domain": "physics",
+   "pmi": 1.235,
+   "p_cond": 0.0
+  },
+  "Richard Wagner": {
+   "cue": "Richard",
+   "sur": "Wagner",
+   "fame": 1860,
+   "domain": "music",
+   "pmi": 3.022,
+   "p_cond": 0.00251
+  },
+  "Igor Stravinsky": {
+   "cue": "Igor",
+   "sur": "Stravinsky",
+   "fame": 1913,
+   "domain": "music",
+   "pmi": -2.857,
+   "p_cond": 0.0
+  },
+  "Elvis Presley": {
+   "cue": "Elvis",
+   "sur": "Presley",
+   "fame": 1956,
+   "domain": "music",
+   "pmi": 2.364,
+   "p_cond": 2e-05
+  },
+  "Leo Tolstoy": {
+   "cue": "Leo",
+   "sur": "Tolstoy",
+   "fame": 1875,
+   "domain": "literature",
+   "pmi": 0.858,
+   "p_cond": 1e-05
+  },
+  "Ernest Hemingway": {
+   "cue": "Ernest",
+   "sur": "Hemingway",
+   "fame": 1926,
+   "domain": "literature",
+   "pmi": 0.286,
+   "p_cond": 2e-05
+  },
+  "George Orwell": {
+   "cue": "George",
+   "sur": "Orwell",
+   "fame": 1945,
+   "domain": "literature",
+   "pmi": -0.027,
+   "p_cond": 0.0
+  },
+  "Karl Marx": {
+   "cue": "Karl",
+   "sur": "Marx",
+   "fame": 1870,
+   "domain": "revolution",
+   "pmi": 4.499,
+   "p_cond": 0.00314
+  },
+  "Vladimir Lenin": {
+   "cue": "Vladimir",
+   "sur": "Lenin",
+   "fame": 1917,
+   "domain": "revolution",
+   "pmi": 4.898,
+   "p_cond": 0.00011
+  },
+  "Che Guevara": {
+   "cue": "Che",
+   "sur": "Guevara",
+   "fame": 1959,
+   "domain": "revolution",
+   "pmi": -1.632,
+   "p_cond": 0.0
+  },
+  "Louis Pasteur": {
+   "cue": "Louis",
+   "sur": "Pasteur",
+   "fame": 1880,
+   "domain": "science",
+   "pmi": 0.162,
+   "p_cond": 1e-05
+  },
+  "Marie Curie": {
+   "cue": "Marie",
+   "sur": "Curie",
+   "fame": 1903,
+   "domain": "science",
+   "pmi": 2.182,
+   "p_cond": 2e-05
+  },
+  "Jonas Salk": {
+   "cue": "Jonas",
+   "sur": "Salk",
+   "fame": 1955,
+   "domain": "science",
+   "pmi": -1.207,
+   "p_cond": 0.0
+  },
+  "Henry Stanley": {
+   "cue": "Henry",
+   "sur": "Stanley",
+   "fame": 1875,
+   "domain": "exploration",
+   "pmi": -0.005,
+   "p_cond": 0.00038
+  },
+  "Charles Lindbergh": {
+   "cue": "Charles",
+   "sur": "Lindbergh",
+   "fame": 1927,
+   "domain": "exploration",
+   "pmi": -0.361,
+   "p_cond": 1e-05
+  },
+  "Neil Armstrong": {
+   "cue": "Neil",
+   "sur": "Armstrong",
+   "fame": 1969,
+   "domain": "exploration",
+   "pmi": -0.21,
+   "p_cond": 0.00016
+  },
+  "Friedrich Nietzsche": {
+   "cue": "Friedrich",
+   "sur": "Nietzsche",
+   "fame": 1888,
+   "domain": "philosophy",
+   "pmi": 7.452,
+   "p_cond": 0.00123
+  },
+  "Ludwig Wittgenstein": {
+   "cue": "Ludwig",
+   "sur": "Wittgenstein",
+   "fame": 1922,
+   "domain": "philosophy",
+   "pmi": 3.633,
+   "p_cond": 3e-05
+  },
+  "Jean-Paul Sartre": {
+   "cue": "Jean-Paul",
+   "sur": "Sartre",
+   "fame": 1945,
+   "domain": "philosophy",
+   "pmi": 7.77,
+   "p_cond": 1e-05
+  },
+  "Napoleon Bonaparte": {
+   "cue": "Napoleon",
+   "sur": "Bonaparte",
+   "fame": 1800,
+   "domain": "empire",
+   "pmi": 5.685,
+   "p_cond": 0.02743
+  },
+  "Benito Mussolini": {
+   "cue": "Benito",
+   "sur": "Mussolini",
+   "fame": 1922,
+   "domain": "empire",
+   "pmi": 2.672,
+   "p_cond": 0.0
+  },
+  "Mao Zedong": {
+   "cue": "Mao",
+   "sur": "Zedong",
+   "fame": 1949,
+   "domain": "empire",
+   "pmi": 1.371,
+   "p_cond": 0.0
+  },
+  "Frederick Douglass": {
+   "cue": "Frederick",
+   "sur": "Douglass",
+   "fame": 1850,
+   "domain": "civil rights",
+   "pmi": 3.552,
+   "p_cond": 0.00481
+  },
+  "W. E. B. Du Bois": {
+   "cue": "W. E. B.",
+   "sur": "Du Bois",
+   "fame": 1903,
+   "domain": "civil rights",
+   "pmi": 4.005,
+   "p_cond": 0.00028
+  },
+  "Rosa Parks": {
+   "cue": "Rosa",
+   "sur": "Parks",
+   "fame": 1955,
+   "domain": "civil rights",
+   "pmi": 0.877,
+   "p_cond": 0.00013
+  }
+ },
+ "1929": {
+  "Paul Gauguin": {
+   "cue": "Paul",
+   "sur": "Gauguin",
+   "fame": 1895,
+   "domain": "painting",
+   "pmi": 0.532,
+   "p_cond": 0.0
+  },
+  "Pablo Picasso": {
+   "cue": "Pablo",
+   "sur": "Picasso",
+   "fame": 1910,
+   "domain": "painting",
+   "pmi": 7.828,
+   "p_cond": 0.00013
+  },
+  "Jackson Pollock": {
+   "cue": "Jackson",
+   "sur": "Pollock",
+   "fame": 1948,
+   "domain": "painting",
+   "pmi": -4.993,
+   "p_cond": 0.0
+  },
+  "Otto von Bismarck": {
+   "cue": "Otto von",
+   "sur": "Bismarck",
+   "fame": 1865,
+   "domain": "statecraft",
+   "pmi": 10.501,
+   "p_cond": 0.2043
+  },
+  "Adolf Hitler": {
+   "cue": "Adolf",
+   "sur": "Hitler",
+   "fame": 1923,
+   "domain": "statecraft",
+   "pmi": 6.015,
+   "p_cond": 0.00378
+  },
+  "Ronald Reagan": {
+   "cue": "Ronald",
+   "sur": "Reagan",
+   "fame": 1981,
+   "domain": "statecraft",
+   "pmi": 5.101,
+   "p_cond": 0.00139
+  },
+  "James Clerk Maxwell": {
+   "cue": "James Clerk",
+   "sur": "Maxwell",
+   "fame": 1870,
+   "domain": "physics",
+   "pmi": 2.661,
+   "p_cond": 0.0011
+  },
+  "Albert Einstein": {
+   "cue": "Albert",
+   "sur": "Einstein",
+   "fame": 1919,
+   "domain": "physics",
+   "pmi": -0.21,
+   "p_cond": 1e-05
+  },
+  "Richard Feynman": {
+   "cue": "Richard",
+   "sur": "Feynman",
+   "fame": 1965,
+   "domain": "physics",
+   "pmi": 0.549,
+   "p_cond": 0.0
+  },
+  "Richard Wagner": {
+   "cue": "Richard",
+   "sur": "Wagner",
+   "fame": 1860,
+   "domain": "music",
+   "pmi": 2.7,
+   "p_cond": 0.00191
+  },
+  "Igor Stravinsky": {
+   "cue": "Igor",
+   "sur": "Stravinsky",
+   "fame": 1913,
+   "domain": "music",
+   "pmi": -0.367,
+   "p_cond": 0.0
+  },
+  "Elvis Presley": {
+   "cue": "Elvis",
+   "sur": "Presley",
+   "fame": 1956,
+   "domain": "music",
+   "pmi": 1.922,
+   "p_cond": 1e-05
+  },
+  "Leo Tolstoy": {
+   "cue": "Leo",
+   "sur": "Tolstoy",
+   "fame": 1875,
+   "domain": "literature",
+   "pmi": -2.313,
+   "p_cond": 0.0
+  },
+  "Ernest Hemingway": {
+   "cue": "Ernest",
+   "sur": "Hemingway",
+   "fame": 1926,
+   "domain": "literature",
+   "pmi": 2.294,
+   "p_cond": 9e-05
+  },
+  "George Orwell": {
+   "cue": "George",
+   "sur": "Orwell",
+   "fame": 1945,
+   "domain": "literature",
+   "pmi": 1.065,
+   "p_cond": 0.0
+  },
+  "Karl Marx": {
+   "cue": "Karl",
+   "sur": "Marx",
+   "fame": 1870,
+   "domain": "revolution",
+   "pmi": 5.242,
+   "p_cond": 0.0058
+  },
+  "Vladimir Lenin": {
+   "cue": "Vladimir",
+   "sur": "Lenin",
+   "fame": 1917,
+   "domain": "revolution",
+   "pmi": 3.199,
+   "p_cond": 0.00022
+  },
+  "Che Guevara": {
+   "cue": "Che",
+   "sur": "Guevara",
+   "fame": 1959,
+   "domain": "revolution",
+   "pmi": -0.68,
+   "p_cond": 0.0
+  },
+  "Louis Pasteur": {
+   "cue": "Louis",
+   "sur": "Pasteur",
+   "fame": 1880,
+   "domain": "science",
+   "pmi": 1.187,
+   "p_cond": 3e-05
+  },
+  "Marie Curie": {
+   "cue": "Marie",
+   "sur": "Curie",
+   "fame": 1903,
+   "domain": "science",
+   "pmi": 4.644,
+   "p_cond": 9e-05
+  },
+  "Jonas Salk": {
+   "cue": "Jonas",
+   "sur": "Salk",
+   "fame": 1955,
+   "domain": "science",
+   "pmi": 0.806,
+   "p_cond": 2e-05
+  },
+  "Henry Stanley": {
+   "cue": "Henry",
+   "sur": "Stanley",
+   "fame": 1875,
+   "domain": "exploration",
+   "pmi": 0.929,
+   "p_cond": 0.00069
+  },
+  "Charles Lindbergh": {
+   "cue": "Charles",
+   "sur": "Lindbergh",
+   "fame": 1927,
+   "domain": "exploration",
+   "pmi": 0.859,
+   "p_cond": 1e-05
+  },
+  "Neil Armstrong": {
+   "cue": "Neil",
+   "sur": "Armstrong",
+   "fame": 1969,
+   "domain": "exploration",
+   "pmi": 0.486,
+   "p_cond": 0.00013
+  },
+  "Friedrich Nietzsche": {
+   "cue": "Friedrich",
+   "sur": "Nietzsche",
+   "fame": 1888,
+   "domain": "philosophy",
+   "pmi": 5.221,
+   "p_cond": 0.00036
+  },
+  "Ludwig Wittgenstein": {
+   "cue": "Ludwig",
+   "sur": "Wittgenstein",
+   "fame": 1922,
+   "domain": "philosophy",
+   "pmi": 2.484,
+   "p_cond": 1e-05
+  },
+  "Jean-Paul Sartre": {
+   "cue": "Jean-Paul",
+   "sur": "Sartre",
+   "fame": 1945,
+   "domain": "philosophy",
+   "pmi": 6.198,
+   "p_cond": 1e-05
+  },
+  "Napoleon Bonaparte": {
+   "cue": "Napoleon",
+   "sur": "Bonaparte",
+   "fame": 1800,
+   "domain": "empire",
+   "pmi": 7.312,
+   "p_cond": 0.03208
+  },
+  "Benito Mussolini": {
+   "cue": "Benito",
+   "sur": "Mussolini",
+   "fame": 1922,
+   "domain": "empire",
+   "pmi": 5.926,
+   "p_cond": 0.00086
+  },
+  "Mao Zedong": {
+   "cue": "Mao",
+   "sur": "Zedong",
+   "fame": 1949,
+   "domain": "empire",
+   "pmi": 1.866,
+   "p_cond": 0.0
+  },
+  "Frederick Douglass": {
+   "cue": "Frederick",
+   "sur": "Douglass",
+   "fame": 1850,
+   "domain": "civil rights",
+   "pmi": 5.104,
+   "p_cond": 0.00679
+  },
+  "W. E. B. Du Bois": {
+   "cue": "W. E. B.",
+   "sur": "Du Bois",
+   "fame": 1903,
+   "domain": "civil rights",
+   "pmi": 6.621,
+   "p_cond": 0.00411
+  },
+  "Rosa Parks": {
+   "cue": "Rosa",
+   "sur": "Parks",
+   "fame": 1955,
+   "domain": "civil rights",
+   "pmi": 1.528,
+   "p_cond": 0.00022
+  }
+ }
+}

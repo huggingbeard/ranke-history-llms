@@ -1,0 +1,926 @@
+[
+ {
+  "name": "Paris",
+  "kind": "real",
+  "ptrue": 0.8040351177942968,
+  "peak": 0.8040351177942968,
+  "parties": 0.0012999278202147756
+ },
+ {
+  "name": "Ghent",
+  "kind": "real",
+  "ptrue": 0.9814513037764381,
+  "peak": 0.9814513037764381,
+  "parties": 0.8966557333966236
+ },
+ {
+  "name": "Amiens",
+  "kind": "real",
+  "ptrue": 0.7057272951764298,
+  "peak": 0.7057272951764298,
+  "parties": 0.056711909535036215
+ },
+ {
+  "name": "Frankfurt",
+  "kind": "real",
+  "ptrue": 0.7813781986643205,
+  "peak": 0.7813781986643205,
+  "parties": 0.07253909235543035
+ },
+ {
+  "name": "Tilsit",
+  "kind": "real",
+  "ptrue": 0.989659973545498,
+  "peak": 0.989659973545498,
+  "parties": 0.593503807185054
+ },
+ {
+  "name": "Campo Formio",
+  "kind": "real",
+  "ptrue": 0.9721904425390364,
+  "peak": 0.9721904425390364,
+  "parties": 0.9283508827296052
+ },
+ {
+  "name": "Pressburg",
+  "kind": "real",
+  "ptrue": 0.7230120323585881,
+  "peak": 0.7230120323585881,
+  "parties": 0.7973828944162077
+ },
+ {
+  "name": "Lunéville",
+  "kind": "real",
+  "ptrue": 0.8724020845984128,
+  "peak": 0.8724020845984128,
+  "parties": 0.8910502569333473
+ },
+ {
+  "name": "Nanking",
+  "kind": "real",
+  "ptrue": 0.798027800983452,
+  "peak": 0.798027800983452,
+  "parties": 0.005005568087214704
+ },
+ {
+  "name": "Portsmouth",
+  "kind": "real",
+  "ptrue": 0.11870613916003236,
+  "peak": 0.17271641334032053,
+  "parties": 0.6292216698668277
+ },
+ {
+  "name": "Brest-Litovsk",
+  "kind": "real",
+  "ptrue": 0.8364008541340799,
+  "peak": 0.8364008541340799,
+  "parties": 0.9925409034269002
+ },
+ {
+  "name": "Shimonoseki",
+  "kind": "real",
+  "ptrue": 0.6504317115185151,
+  "peak": 0.6504317115185151,
+  "parties": 0.8737523978159168
+ },
+ {
+  "name": "San Stefano",
+  "kind": "real",
+  "ptrue": 0.9001228552843573,
+  "peak": 0.9001228552843573,
+  "parties": 0.1173890134235633
+ },
+ {
+  "name": "Adrianople",
+  "kind": "real",
+  "ptrue": 0.9739544332038365,
+  "peak": 0.9739544332038365,
+  "parties": 0.3212785238461036
+ },
+ {
+  "name": "Kiel",
+  "kind": "real",
+  "ptrue": 0.9144792253948295,
+  "peak": 0.9144792253948295,
+  "parties": 0.009731990143931581
+ },
+ {
+  "name": "Nystad",
+  "kind": "real",
+  "ptrue": 0.6886250996612926,
+  "peak": 0.6886250996612926,
+  "parties": 0.10601935804482662
+ },
+ {
+  "name": "Guadalupe Hidalgo",
+  "kind": "real",
+  "ptrue": 0.9902003688013927,
+  "peak": 0.9902003688013927,
+  "parties": 0.9975535932264538
+ },
+ {
+  "name": "Utrecht",
+  "kind": "real",
+  "ptrue": 0.9488185554293161,
+  "peak": 0.9488185554293161,
+  "parties": null
+ },
+ {
+  "name": "Versailles",
+  "kind": "real",
+  "ptrue": 0.9581439685236175,
+  "peak": 0.9581439685236175,
+  "parties": null
+ },
+ {
+  "name": "Vienna",
+  "kind": "real",
+  "ptrue": 0.8127765018229259,
+  "peak": 0.8127765018229259,
+  "parties": null
+ },
+ {
+  "name": "Aix-la-Chapelle",
+  "kind": "real",
+  "ptrue": 0.9788983192796599,
+  "peak": 0.9788983192796599,
+  "parties": null
+ },
+ {
+  "name": "Ryswick",
+  "kind": "real",
+  "ptrue": 0.9769592528544631,
+  "peak": 0.9769592528544631,
+  "parties": null
+ },
+ {
+  "name": "Berlin",
+  "kind": "real",
+  "ptrue": 0.9515889283230918,
+  "peak": 0.9515889283230918,
+  "parties": null
+ },
+ {
+  "name": "Westphalia",
+  "kind": "real",
+  "ptrue": 0.9860124986702729,
+  "peak": 0.9860124986702729,
+  "parties": null
+ },
+ {
+  "name": "Andrusovo",
+  "kind": "real",
+  "ptrue": 0.026896350853227852,
+  "peak": 0.18669769061907726,
+  "parties": 0.009296399394529855
+ },
+ {
+  "name": "Roskilde",
+  "kind": "real",
+  "ptrue": 0.6777378312037553,
+  "peak": 0.6777378312037553,
+  "parties": 0.5994349575062348
+ },
+ {
+  "name": "Stolbovo",
+  "kind": "real",
+  "ptrue": 0.4678608690632748,
+  "peak": 0.4678608690632748,
+  "parties": 0.2088269783612174
+ },
+ {
+  "name": "Passarowitz",
+  "kind": "real",
+  "ptrue": 0.8961147321579173,
+  "peak": 0.8961147321579173,
+  "parties": 0.2703771957184617
+ },
+ {
+  "name": "Belgrade",
+  "kind": "real",
+  "ptrue": 0.963698775287136,
+  "peak": 0.963698775287136,
+  "parties": 0.00722807263178168
+ },
+ {
+  "name": "Küçük Kaynarca",
+  "kind": "real",
+  "ptrue": 0.18105656448881743,
+  "peak": 0.18105656448881743,
+  "parties": 0.00012837591070142165
+ },
+ {
+  "name": "Jassy",
+  "kind": "real",
+  "ptrue": 0.5013529885288677,
+  "peak": 0.5013529885288677,
+  "parties": 0.09740180759702884
+ },
+ {
+  "name": "Gulistan",
+  "kind": "real",
+  "ptrue": 0.2930222499584036,
+  "peak": 0.2930222499584036,
+  "parties": 0.9808402208191421
+ },
+ {
+  "name": "Turkmenchay",
+  "kind": "real",
+  "ptrue": 0.26432788896707216,
+  "peak": 0.26432788896707216,
+  "parties": 0.8874827097990531
+ },
+ {
+  "name": "Hünkâr İskelesi",
+  "kind": "real",
+  "ptrue": 0.11610933929745605,
+  "peak": 0.1315691182115236,
+  "parties": 0.004164906146008433
+ },
+ {
+  "name": "Whampoa",
+  "kind": "real",
+  "ptrue": 0.23904420997995804,
+  "peak": 0.288342357026766,
+  "parties": 0.4576589542478017
+ },
+ {
+  "name": "Wanghia",
+  "kind": "real",
+  "ptrue": 0.06498140945819875,
+  "peak": 0.17663778451787837,
+  "parties": 0.09030643898852057
+ },
+ {
+  "name": "Aigun",
+  "kind": "real",
+  "ptrue": 0.7294909403407551,
+  "peak": 0.7294909403407551,
+  "parties": 0.9115210293822632
+ },
+ {
+  "name": "Nerchinsk",
+  "kind": "real",
+  "ptrue": 0.6351769030410681,
+  "peak": 0.6351769030410681,
+  "parties": 0.7199357567384264
+ },
+ {
+  "name": "Björkö",
+  "kind": "real",
+  "ptrue": 0.22829217832889045,
+  "peak": 0.22829217832889045,
+  "parties": 0.000286088680737701
+ },
+ {
+  "name": "Nöteborg",
+  "kind": "real",
+  "ptrue": 0.12956038139657883,
+  "peak": 0.18866368884461818,
+  "parties": 7.203504272544606e-05
+ },
+ {
+  "name": "Zuhab",
+  "kind": "real",
+  "ptrue": 0.06404491891324432,
+  "peak": 0.09510004373008175,
+  "parties": 0.0031872891401574684
+ },
+ {
+  "name": "Hubertusburg",
+  "kind": "real",
+  "ptrue": 0.8579196001435369,
+  "peak": 0.8579196001435369,
+  "parties": 0.654907128864183
+ },
+ {
+  "name": "Bucharest",
+  "kind": "real",
+  "ptrue": 0.9846895890116683,
+  "peak": 0.9846895890116683,
+  "parties": 0.04390602489979662
+ },
+ {
+  "name": "Karlowitz",
+  "kind": "real",
+  "ptrue": 0.9782370692898792,
+  "peak": 0.9782370692898792,
+  "parties": 0.01677688412892704
+ },
+ {
+  "name": "Tientsin",
+  "kind": "real",
+  "ptrue": 0.7565490838976475,
+  "peak": 0.7565490838976475,
+  "parties": 0.0020056160866865924
+ },
+ {
+  "name": "Teusina",
+  "kind": "real",
+  "ptrue": 0.09310457354242832,
+  "peak": 0.13546635516592212,
+  "parties": 0.01904149276900042
+ },
+ {
+  "name": "Deulino",
+  "kind": "real",
+  "ptrue": 0.19982047584606683,
+  "peak": 0.19982047584606683,
+  "parties": 0.00424751362314838
+ },
+ {
+  "name": "Polyanovka",
+  "kind": "real",
+  "ptrue": 0.11033568775511167,
+  "peak": 0.16053747840968208,
+  "parties": 0.0046844643843076805
+ },
+ {
+  "name": "Kardis",
+  "kind": "real",
+  "ptrue": 0.10140646756161925,
+  "peak": 0.16719100005540422,
+  "parties": 0.006204381523514785
+ },
+ {
+  "name": "Copenhagen",
+  "kind": "real",
+  "ptrue": 0.6577258433789437,
+  "peak": 0.6577258433789437,
+  "parties": 0.24635265269923967
+ },
+ {
+  "name": "Oliva",
+  "kind": "real",
+  "ptrue": 0.9305625816090021,
+  "peak": 0.9305625816090021,
+  "parties": 0.7759867451722989
+ },
+ {
+  "name": "Travendal",
+  "kind": "real",
+  "ptrue": 0.48364883515562923,
+  "peak": 0.48364883515562923,
+  "parties": 0.1695168269978086
+ },
+ {
+  "name": "Frederiksborg",
+  "kind": "real",
+  "ptrue": 0.7997427983726669,
+  "peak": 0.7997427983726669,
+  "parties": 0.44875762760493015
+ },
+ {
+  "name": "Åbo",
+  "kind": "real",
+  "ptrue": 0.8323216371247989,
+  "peak": 0.8323216371247989,
+  "parties": 0.7577103169781544
+ },
+ {
+  "name": "Zsitvatorok",
+  "kind": "real",
+  "ptrue": 0.08296701207405117,
+  "peak": 0.4438898585235304,
+  "parties": 0.000756894929482067
+ },
+ {
+  "name": "Vasvár",
+  "kind": "real",
+  "ptrue": 0.28859754751729555,
+  "peak": 0.28859754751729555,
+  "parties": 0.008548763271949325
+ },
+ {
+  "name": "Sistova",
+  "kind": "real",
+  "ptrue": 0.28100745368816976,
+  "peak": 0.36082071281431344,
+  "parties": 0.0023428474451606318
+ },
+ {
+  "name": "Khotyn",
+  "kind": "real",
+  "ptrue": 0.04103484489040978,
+  "peak": 0.3736308913715463,
+  "parties": 3.85389550734953e-05
+ },
+ {
+  "name": "Buchach",
+  "kind": "real",
+  "ptrue": 0.01971970410645932,
+  "peak": 0.2435168815380763,
+  "parties": 3.933980334391418e-05
+ },
+ {
+  "name": "Żurawno",
+  "kind": "real",
+  "ptrue": 0.09705824555005034,
+  "peak": 0.11707460569457975,
+  "parties": 0.00044604920016817767
+ },
+ {
+  "name": "Amasya",
+  "kind": "real",
+  "ptrue": 0.04256166369856523,
+  "peak": 0.1569397123290724,
+  "parties": 0.009077359356114366
+ },
+ {
+  "name": "Bakhchisarai",
+  "kind": "real",
+  "ptrue": 0.03626792538921427,
+  "peak": 0.36629304885870084,
+  "parties": 0.00182491169771001
+ },
+ {
+  "name": "Pruth",
+  "kind": "real",
+  "ptrue": 0.7290602698370571,
+  "peak": 0.7290602698370571,
+  "parties": 0.43084508293472706
+ },
+ {
+  "name": "Niš",
+  "kind": "real",
+  "ptrue": 0.8158324261610301,
+  "peak": 0.8158324261610301,
+  "parties": 0.08582808560684355
+ },
+ {
+  "name": "Breslau",
+  "kind": "real",
+  "ptrue": 0.820041582088271,
+  "peak": 0.820041582088271,
+  "parties": 0.47184807504311077
+ },
+ {
+  "name": "Dresden",
+  "kind": "real",
+  "ptrue": 0.8231728740875658,
+  "peak": 0.8231728740875658,
+  "parties": 0.5197110576806218
+ },
+ {
+  "name": "Teschen",
+  "kind": "real",
+  "ptrue": 0.8225245946764087,
+  "peak": 0.8225245946764087,
+  "parties": 0.791659351000678
+ },
+ {
+  "name": "Reichenbach",
+  "kind": "real",
+  "ptrue": 0.14743822855452862,
+  "peak": 0.25876214963860233,
+  "parties": 0.3708019276379021
+ },
+ {
+  "name": "Rastatt",
+  "kind": "real",
+  "ptrue": 0.9797690562088078,
+  "peak": 0.9797690562088078,
+  "parties": 0.3416494418646713
+ },
+ {
+  "name": "Dover",
+  "kind": "real",
+  "ptrue": 0.22330236082312074,
+  "peak": 0.26935406239196674,
+  "parties": 0.9012329991347233
+ },
+ {
+  "name": "Pyrenees",
+  "kind": "real",
+  "ptrue": 0.900914311686533,
+  "peak": 0.900914311686533,
+  "parties": 0.9880300767306933
+ },
+ {
+  "name": "Seville",
+  "kind": "real",
+  "ptrue": 0.7999389880432467,
+  "peak": 0.7999389880432467,
+  "parties": 0.003019098241630798
+ },
+ {
+  "name": "Badajoz",
+  "kind": "real",
+  "ptrue": 0.7042753400979809,
+  "peak": 0.7042753400979809,
+  "parties": 0.3761091373362755
+ },
+ {
+  "name": "San Ildefonso",
+  "kind": "real",
+  "ptrue": 0.0991239488633367,
+  "peak": 0.18518791674864712,
+  "parties": 0.17842510775350925
+ },
+ {
+  "name": "Breda",
+  "kind": "real",
+  "ptrue": 0.9214919026242018,
+  "peak": 0.9214919026242018,
+  "parties": 0.017293878430958275
+ },
+ {
+  "name": "Basel",
+  "kind": "real",
+  "ptrue": 0.8566647694448585,
+  "peak": 0.8566647694448585,
+  "parties": 0.23341852889145334
+ },
+ {
+  "name": "Bordeaux",
+  "kind": "invented",
+  "ptrue": 0.021037577222328123,
+  "peak": 0.7214260080191573,
+  "parties": null
+ },
+ {
+  "name": "Rotterdam",
+  "kind": "invented",
+  "ptrue": 0.0022181492465879822,
+  "peak": 0.44996656154933506,
+  "parties": null
+ },
+ {
+  "name": "Glasgow",
+  "kind": "invented",
+  "ptrue": 0.060630538975368846,
+  "peak": 0.24983489206225787,
+  "parties": null
+ },
+ {
+  "name": "Aberdeen",
+  "kind": "invented",
+  "ptrue": 0.03141283274245919,
+  "peak": 0.3172583719876833,
+  "parties": null
+ },
+ {
+  "name": "Plymouth",
+  "kind": "invented",
+  "ptrue": 0.0008630043055108111,
+  "peak": 0.8351941952585977,
+  "parties": null
+ },
+ {
+  "name": "Cardiff",
+  "kind": "invented",
+  "ptrue": 0.03216938868502947,
+  "peak": 0.27849301710711255,
+  "parties": null
+ },
+ {
+  "name": "Leeds",
+  "kind": "invented",
+  "ptrue": 0.017215124418059603,
+  "peak": 0.12271599611377487,
+  "parties": null
+ },
+ {
+  "name": "Dundee",
+  "kind": "invented",
+  "ptrue": 0.022799524802218554,
+  "peak": 0.20320995257960828,
+  "parties": null
+ },
+ {
+  "name": "Swansea",
+  "kind": "invented",
+  "ptrue": 0.15215323391566388,
+  "peak": 0.16982898214302783,
+  "parties": null
+ },
+ {
+  "name": "Cork",
+  "kind": "invented",
+  "ptrue": 0.03376203411000595,
+  "peak": 0.23103906766835172,
+  "parties": null
+ },
+ {
+  "name": "Rennes",
+  "kind": "invented",
+  "ptrue": 0.07319756169835559,
+  "peak": 0.3317273195721722,
+  "parties": null
+ },
+ {
+  "name": "Bristol",
+  "kind": "invented",
+  "ptrue": 0.061960035448648455,
+  "peak": 0.5522437846654382,
+  "parties": null
+ },
+ {
+  "name": "Grenoble",
+  "kind": "invented",
+  "ptrue": 0.01463610946600467,
+  "peak": 0.21466671073045054,
+  "parties": null
+ },
+ {
+  "name": "Marseille",
+  "kind": "invented",
+  "ptrue": 0.008014329984620741,
+  "peak": 0.27718138888068566,
+  "parties": null
+ },
+ {
+  "name": "Toulouse",
+  "kind": "invented",
+  "ptrue": 0.02358348576301951,
+  "peak": 0.5367576619060052,
+  "parties": null
+ },
+ {
+  "name": "Le Havre",
+  "kind": "invented",
+  "ptrue": 0.010482828455710512,
+  "peak": 0.7349028800362915,
+  "parties": null
+ },
+ {
+  "name": "Strasbourg",
+  "kind": "invented",
+  "ptrue": 0.0018436588595287969,
+  "peak": 0.5111953934104815,
+  "parties": null
+ },
+ {
+  "name": "Rouen",
+  "kind": "invented",
+  "ptrue": 0.03816025665882689,
+  "peak": 0.46716788039581636,
+  "parties": null
+ },
+ {
+  "name": "Nancy",
+  "kind": "invented",
+  "ptrue": 0.09694353730338463,
+  "peak": 0.2475539948852531,
+  "parties": null
+ },
+ {
+  "name": "Dijon",
+  "kind": "invented",
+  "ptrue": 0.04076197256915189,
+  "peak": 0.34129580756395655,
+  "parties": null
+ },
+ {
+  "name": "Bremen",
+  "kind": "invented",
+  "ptrue": 0.00691717409043522,
+  "peak": 0.22906531897500318,
+  "parties": null
+ },
+ {
+  "name": "Antwerp",
+  "kind": "invented",
+  "ptrue": 0.012296089454616136,
+  "peak": 0.20474824721774582,
+  "parties": null
+ },
+ {
+  "name": "Lyon",
+  "kind": "invented",
+  "ptrue": 0.007156012243833093,
+  "peak": 0.20912930762561244,
+  "parties": null
+ },
+ {
+  "name": "Nice",
+  "kind": "invented",
+  "ptrue": 0.5569074793494672,
+  "peak": 0.5569074793494672,
+  "parties": null
+ },
+ {
+  "name": "Bilbao",
+  "kind": "invented",
+  "ptrue": 0.044366355999625746,
+  "peak": 0.6706797286395533,
+  "parties": null
+ },
+ {
+  "name": "Porto",
+  "kind": "invented",
+  "ptrue": 0.16731435115043186,
+  "peak": 0.16731435115043186,
+  "parties": null
+ },
+ {
+  "name": "Bergen",
+  "kind": "invented",
+  "ptrue": 0.045079861266173825,
+  "peak": 0.10328424435273577,
+  "parties": null
+ },
+ {
+  "name": "Malmö",
+  "kind": "invented",
+  "ptrue": 0.01523441073284681,
+  "peak": 0.27018357593624537,
+  "parties": null
+ },
+ {
+  "name": "Gdansk",
+  "kind": "invented",
+  "ptrue": 0.02442469393855161,
+  "peak": 0.34718509210431553,
+  "parties": null
+ },
+ {
+  "name": "Riga",
+  "kind": "invented",
+  "ptrue": 0.16568309181179222,
+  "peak": 0.2841336519316393,
+  "parties": null
+ },
+ {
+  "name": "Naples",
+  "kind": "invented",
+  "ptrue": 0.0324332636242778,
+  "peak": 0.14670640494371018,
+  "parties": null
+ },
+ {
+  "name": "Turin",
+  "kind": "invented",
+  "ptrue": 0.11558614340821534,
+  "peak": 0.14841554595306275,
+  "parties": null
+ },
+ {
+  "name": "Genoa",
+  "kind": "invented",
+  "ptrue": 0.0005428324727469908,
+  "peak": 0.2655599852602274,
+  "parties": null
+ },
+ {
+  "name": "Valencia",
+  "kind": "invented",
+  "ptrue": 0.0031334235732734476,
+  "peak": 0.4176410406603205,
+  "parties": null
+ },
+ {
+  "name": "Coimbra",
+  "kind": "invented",
+  "ptrue": 0.0057320458792299665,
+  "peak": 0.4673367666578978,
+  "parties": null
+ },
+ {
+  "name": "Cologne",
+  "kind": "invented",
+  "ptrue": 0.007381246213899691,
+  "peak": 0.5863650149279279,
+  "parties": null
+ },
+ {
+  "name": "Hamburg",
+  "kind": "invented",
+  "ptrue": 0.018319132560416753,
+  "peak": 0.34565663212005804,
+  "parties": null
+ },
+ {
+  "name": "Stuttgart",
+  "kind": "invented",
+  "ptrue": 0.029829171387007566,
+  "peak": 0.520176853532058,
+  "parties": null
+ },
+ {
+  "name": "Kesselheim",
+  "kind": "invented",
+  "ptrue": 0.05883099225342075,
+  "peak": 0.20534033949221925,
+  "parties": null
+ },
+ {
+  "name": "Marnburg",
+  "kind": "invented",
+  "ptrue": 0.029114411782418137,
+  "peak": 0.23415105244914342,
+  "parties": null
+ },
+ {
+  "name": "Astorheim",
+  "kind": "invented",
+  "ptrue": 0.053407304602711966,
+  "peak": 0.17511581007814264,
+  "parties": null
+ },
+ {
+  "name": "Brenzau",
+  "kind": "invented",
+  "ptrue": 0.06454029431351356,
+  "peak": 0.17981713893708495,
+  "parties": null
+ },
+ {
+  "name": "Kaltenfeld",
+  "kind": "invented",
+  "ptrue": 0.17350615461082303,
+  "peak": 0.17350615461082303,
+  "parties": null
+ },
+ {
+  "name": "Ravensmoor",
+  "kind": "invented",
+  "ptrue": 0.056884356106494206,
+  "peak": 0.0881042142560318,
+  "parties": null
+ },
+ {
+  "name": "Vornau",
+  "kind": "invented",
+  "ptrue": 0.06869117241738137,
+  "peak": 0.11474669450282447,
+  "parties": null
+ },
+ {
+  "name": "Kessendorf",
+  "kind": "invented",
+  "ptrue": 0.04789860430191541,
+  "peak": 0.1516886317015225,
+  "parties": null
+ },
+ {
+  "name": "Halbrecht",
+  "kind": "invented",
+  "ptrue": 0.03667149324103468,
+  "peak": 0.09364393855173203,
+  "parties": null
+ },
+ {
+  "name": "Eldreth",
+  "kind": "invented",
+  "ptrue": 0.05347380778681121,
+  "peak": 0.10032023150214443,
+  "parties": null
+ },
+ {
+  "name": "Wolmirstadt",
+  "kind": "invented",
+  "ptrue": 0.03561336069776459,
+  "peak": 0.15960800939717876,
+  "parties": null
+ },
+ {
+  "name": "Traunfels",
+  "kind": "invented",
+  "ptrue": 0.023574669849782175,
+  "peak": 0.09925306732925868,
+  "parties": null
+ },
+ {
+  "name": "Reichenmoor",
+  "kind": "invented",
+  "ptrue": 0.02791010676405397,
+  "peak": 0.30891767177126067,
+  "parties": null
+ },
+ {
+  "name": "Saldenburg",
+  "kind": "invented",
+  "ptrue": 0.053884465352567364,
+  "peak": 0.1126049957066387,
+  "parties": null
+ },
+ {
+  "name": "Mornhausen",
+  "kind": "invented",
+  "ptrue": 0.05622020830317834,
+  "peak": 0.10503316436748072,
+  "parties": null
+ },
+ {
+  "name": "Veldenstein",
+  "kind": "invented",
+  "ptrue": 0.15594940101316238,
+  "peak": 0.15594940101316238,
+  "parties": null
+ },
+ {
+  "name": "Kranzberg",
+  "kind": "invented",
+  "ptrue": 0.0545517829319425,
+  "peak": 0.1658227548868606,
+  "parties": null
+ },
+ {
+  "name": "Osterwald",
+  "kind": "invented",
+  "ptrue": 0.02186695047643219,
+  "peak": 0.18169799104248588,
+  "parties": null
+ }
+]

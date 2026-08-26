@@ -1,0 +1,8 @@
+{
+ "model": "gptoss-120b-A100",
+ "n_passages": 81100,
+ "wall_seconds_this_run": 4862.6,
+ "passages_per_second": 4.55,
+ "null_preds": 22113,
+ "note": "gpt-oss-120b MXFP4 on A100-SXM4-80GB, reasoning_effort=low"
+}

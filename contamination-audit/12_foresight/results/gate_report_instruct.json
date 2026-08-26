@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "version": "v1",
+  "date": "2026-07-07",
+  "rule": "witness p_truth >= 0.5",
+  "models": "INSTRUCT heads (1913/1929); window-A guessers are base-1900"
+ },
+ "counts": {
+  "findings_before_gate": 9,
+  "passed": 7,
+  "dropped": 2
+ },
+ "passed": [
+  {
+   "event": "empires",
+   "name": "emp_kaiser_1919",
+   "flag": "name-type rebuild of the dev item",
+   "truth_opt": "President Ebert",
+   "guesser_p_truth": 0.0,
+   "guesser_top_bet": "Kaiser Wilhelm",
+   "guesser_top_p": 0.991,
+   "witness_p_truth": 0.748,
+   "witness_top_bet": "President Ebert",
+   "gap": 12.34
+  },
+  {
+   "event": "spanish_flu",
+   "name": "flu_name",
+   "flag": "dev replication; Russian influenza = the 1889 prior",
+   "truth_opt": "Spanish influenza",
+   "guesser_p_truth": 0.204,
+   "guesser_top_bet": "Russian influenza",
+   "guesser_top_p": 0.599,
+   "witness_p_truth": 0.957,
+   "witness_top_bet": "Spanish influenza",
+   "gap": 1.54
+  },
+  {
+   "event": "world_war",
+   "name": "war_us_entry",
+   "flag": "",
+   "truth_opt": "the United States",
+   "guesser_p_truth": 0.653,
+   "guesser_top_bet": "the United States",
+   "guesser_top_p": 0.653,
+   "witness_p_truth": 0.969,
+   "witness_top_bet": "the United States",
+   "gap": 0.39
+  },
+  {
+   "event": "revolution",
+   "name": "rev_debts",
+   "flag": "the French bondholder's nightmare — was repudiation in the 1913 picture?",
+   "truth_opt": "repudiated by the new rulers",
+   "guesser_p_truth": 0.778,
+   "guesser_top_bet": "repudiated by the new rulers",
+   "guesser_top_p": 0.778,
+   "witness_p_truth": 0.993,
+   "witness_top_bet": "repudiated by the new rulers",
+   "gap": 0.24
+  },
+  {
+   "event": "hyperinflation",
+   "name": "infl_victims",
+   "flag": "",
+   "truth_opt": "the middle classes and their savings",
+   "guesser_p_truth": 0.846,
+   "guesser_top_bet": "the middle classes and their savings",
+   "guesser_top_p": 0.846,
+   "witness_p_truth": 0.944,
+   "witness_top_bet": "the middle classes and their savings",
+   "gap": 0.11
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_rescuer",
+   "flag": "Morgan prior from 1895 expected — a foreseen-in-kind item",
+   "truth_opt": "Mister Morgan",
+   "guesser_p_truth": 0.769,
+   "guesser_top_bet": "Mister Morgan",
+   "guesser_top_p": 0.769,
+   "witness_p_truth": 0.827,
+   "witness_top_bet": "Mister Morgan",
+   "gap": 0.07
+  },
+  {
+   "event": "panic_1907",
+   "name": "panic_severity",
+   "flag": "",
+   "truth_opt": "sharper than any panic in memory",
+   "guesser_p_truth": 0.974,
+   "guesser_top_bet": "sharper than any panic in memory",
+   "guesser_top_p": 0.974,
+   "witness_p_truth": 0.88,
+   "witness_top_bet": "sharper than any panic in memory",
+   "gap": -0.1
+  }
+ ],
+ "dropped": [
+  {
+   "event": "panic_1907",
+   "name": "panic_first_to_fail",
+   "flag": "",
+   "truth_opt": "the trust companies",
+   "guesser_p_truth": 0.052,
+   "guesser_top_bet": "the national banks",
+   "guesser_top_p": 0.586,
+   "witness_p_truth": 0.193,
+   "witness_top_bet": "the national banks",
+   "gap": 1.31
+  },
+  {
+   "event": "revolution",
+   "name": "rev_who_rules",
+   "flag": "",
+   "truth_opt": "the socialists of the extreme wing",
+   "guesser_p_truth": 0.006,
+   "guesser_top_bet": "the heirs of the old dynasty",
+   "guesser_top_p": 0.567,
+   "witness_p_truth": 0.011,
+   "witness_top_bet": "the generals of the old army",
+   "gap": 0.62
+  }
+ ]
+}

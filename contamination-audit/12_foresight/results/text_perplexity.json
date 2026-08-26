@@ -1,0 +1,546 @@
+{
+ "passages": [
+  {
+   "event": "wwi",
+   "role": "post",
+   "id": "keynes_organ",
+   "key": "wwi/post/keynes_organ",
+   "provenance": "Keynes, The Economic Consequences of the Peace (1919), Gutenberg #15776",
+   "text": "the delicate, complicated organization, already shaken and broken by war, through which alone the European peoples can employ themselves and live. In England the outward aspect of life does not yet teach us to feel or realize in the least that an age is over. We are busy picking up the threads of our life where we dropped them, with this difference only, that many of us seem a good deal richer than we were before. Where we spent millions before the war, we have now learnt that we can spend hundreds of millions and apparently not suffer for it.",
+   "n_words": 100,
+   "n_chars": 549,
+   "masked": "the delicate, complicated organization, already shaken and broken by war, through which alone the the nation peoples can employ themselves and live. In the nation the outward aspect of life does not yet teach us to feel or realize in the least that an age is over. We are busy picking up the threads of our life where we dropped them, with this difference only, that many of us seem a good deal richer than we were before. Where we spent millions before the war, we have now learnt that we can spend hundreds of millions and apparently not suffer for it."
+  },
+  {
+   "event": "wwi",
+   "role": "post",
+   "id": "keynes_heaves",
+   "key": "wwi/post/keynes_heaves",
+   "provenance": "Keynes, The Economic Consequences of the Peace (1919), Gutenberg #15776",
+   "text": "In continental Europe the earth heaves and no one but is aware of the rumblings. There it is not just a matter of extravagance or \"labor troubles\"; but of life and death, of starvation and existence, and of the fearful convulsions of a dying civilization. * * * * * For one who spent in Paris the greater part of the six months which succeeded the Armistice an occasional visit to London was a strange experience.",
+   "n_words": 76,
+   "n_chars": 413,
+   "masked": "In continental the nation the earth heaves and no one but is aware of the rumblings. There it is not just a matter of extravagance or \"labor troubles\"; but of life and death, of starvation and existence, and of the fearful convulsions of a dying civilization. * * * * * For one who spent in Paris the greater part of the six months which succeeded the Armistice an occasional visit to London was a strange experience."
+  },
+  {
+   "event": "wwi",
+   "role": "post",
+   "id": "keynes_starv",
+   "key": "wwi/post/keynes_starv",
+   "provenance": "Keynes, The Economic Consequences of the Peace (1919), Gutenberg #15776",
+   "text": "assistance could save her from starvation and bankruptcy. Never had a philosopher held such weapons wherewith to bind the princes of this world. How the crowds of the European capitals pressed about the carriage of the President! With what curiosity, anxiety, and hope we sought a glimpse of the features and bearing of the man of destiny who, coming from the West, was to bring healing to the wounds of the ancient parent of his civilization and lay for us the foundations of the future.",
+   "n_words": 85,
+   "n_chars": 488,
+   "masked": "assistance could save her from starvation and bankruptcy. Never had a philosopher held such weapons wherewith to bind the princes of this world. How the crowds of the the nation capitals pressed about the carriage of the President! With what curiosity, anxiety, and hope we sought a glimpse of the features and bearing of the man of destiny who, coming from the West, was to bring healing to the wounds of the ancient parent of his civilization and lay for us the foundations of the future."
+  },
+  {
+   "event": "wwi",
+   "role": "pre",
+   "id": "angell_credit",
+   "key": "wwi/pre/angell_credit",
+   "provenance": "Angell, The Great Illusion (1910), Gutenberg #38535",
+   "text": "If credit and commercial contract are tampered with in an attempt at confiscation, the credit-dependent wealth is undermined, and its collapse involves that of the conqueror; so that if conquest is not to be self-injurious it must respect the enemy's property, in which case it becomes economically futile. Thus the wealth of conquered territory remains in the hands of the population of such territory. When Germany annexed Alsatia, no individual German secured a single mark's worth of Alsatian property as the spoils of war. Conquest in the modern world is a process of multiplying by _x_, and then obtaining the original figure by dividing by _x_.",
+   "n_words": 106,
+   "n_chars": 651,
+   "masked": "If credit and commercial contract are tampered with in an attempt at confiscation, the credit-dependent wealth is undermined, and its collapse involves that of the conqueror; so that if conquest is not to be self-injurious it must respect the enemy's property, in which case it becomes economically futile. Thus the wealth of conquered territory remains in the hands of the population of such territory. When the nation annexed the nation, no individual the nation secured a single mark's worth of the nation property as the spoils of war. Conquest in the modern world is a process of multiplying by _x_, and then obtaining the original figure by dividing by _x_."
+  },
+  {
+   "event": "wwi",
+   "role": "pre",
+   "id": "angell_imposs",
+   "key": "wwi/pre/angell_imposs",
+   "provenance": "Angell, The Great Illusion (1910), Gutenberg #38535",
+   "text": "that it is impossible for one nation to seize by force the wealth or trade of another--to enrich itself by subjugating, or imposing its will by force on another; that, in short, war, even when victorious, can no longer achieve those aims for which peoples strive. He establishes this apparent paradox, in so far as the economic problem is concerned, by showing that wealth in the economically civilized world is founded upon credit and commercial contract (these being the outgrowth of an economic interdependence due to the increasing division of labor and greatly developed communication).",
+   "n_words": 95,
+   "n_chars": 591,
+   "masked": "that it is impossible for one nation to seize by force the wealth or trade of another--to enrich itself by subjugating, or imposing its will by force on another; that, in short, war, even when victorious, can no longer achieve those aims for which peoples strive. He establishes this apparent paradox, in so far as the economic problem is concerned, by showing that wealth in the economically civilized world is founded upon credit and commercial contract (these being the outgrowth of an economic interdependence due to the increasing division of labor and greatly developed communication)."
+  },
+  {
+   "event": "wwi",
+   "role": "pre",
+   "id": "angell_interdep",
+   "key": "wwi/pre/angell_interdep",
+   "provenance": "Angell, The Great Illusion (1910), Gutenberg #38535",
+   "text": "financial and commercial interdependence which form the basis of the argument. That the interests of Americans are inextricably, if indirectly, bound up with those of Europe, has become increasingly clear as can be proved by the barest investigation of the trend of political thought in this country. The thesis on its economic side is discussed in terms of the gravest problem which now faces European statesmanship, but these terms are also the living symbols of a principle of universal application, as true with reference to American conditions as to European.",
+   "n_words": 90,
+   "n_chars": 564,
+   "masked": "financial and commercial interdependence which form the basis of the argument. That the interests of Americans are inextricably, if indirectly, bound up with those of the nation, has become increasingly clear as can be proved by the barest investigation of the trend of political thought in this country. The thesis on its economic side is discussed in terms of the gravest problem which now faces the nation statesmanship, but these terms are also the living symbols of a principle of universal application, as true with reference to the nation conditions as to the nation."
+  },
+  {
+   "event": "dep",
+   "role": "post",
+   "id": "fdr_values",
+   "key": "dep/post/fdr_values",
+   "provenance": "F. D. Roosevelt, First Inaugural Address (4 Mar 1933), Gutenberg #925",
+   "text": "Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; the savings of many years in thousands of families are gone. More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return. Only a foolish optimist can deny the dark realities of the moment.",
+   "n_words": 99,
+   "n_chars": 586,
+   "masked": "Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; the savings of many years in thousands of families are gone. More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return. Only a foolish optimist can deny the dark realities of the moment."
+  },
+  {
+   "event": "dep",
+   "role": "post",
+   "id": "fdr_unemp",
+   "key": "dep/post/fdr_unemp",
+   "provenance": "F. D. Roosevelt, First Inaugural Address (4 Mar 1933), Gutenberg #925",
+   "text": "More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return. Only a foolish optimist can deny the dark realities of the moment. Yet our distress comes from no failure of substance. We are stricken by no plague of locusts. Compared with the perils which our forefathers conquered because they believed and were not afraid, we have still much to be thankful for. Nature still offers her bounty and human efforts have multiplied it. Plenty is at our doorstep, but a generous use of it languishes in the very sight of the supply.",
+   "n_words": 104,
+   "n_chars": 599,
+   "masked": "More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return. Only a foolish optimist can deny the dark realities of the moment. Yet our distress comes from no failure of substance. We are stricken by no plague of locusts. Compared with the perils which our forefathers conquered because they believed and were not afraid, we have still much to be thankful for. Nature still offers her bounty and human efforts have multiplied it. Plenty is at our doorstep, but a generous use of it languishes in the very sight of the supply."
+  },
+  {
+   "event": "dep",
+   "role": "post",
+   "id": "fdr_money",
+   "key": "dep/post/fdr_money",
+   "provenance": "F. D. Roosevelt, First Inaugural Address (4 Mar 1933), Gutenberg #925",
+   "text": "the rulers of the exchange of mankind's goods have failed, through their own stubbornness and their own incompetence, have admitted their failure, and abdicated. Practices of the unscrupulous money changers stand indicted in the court of public opinion, rejected by the hearts and minds of men. True they have tried, but their efforts have been cast in the pattern of an outworn tradition. Faced by failure of credit they have proposed only the lending of more money. Stripped of the lure of profit by which to induce our people to follow their false leadership, they have resorted to exhortations, pleading tearfully for restored confidence.",
+   "n_words": 104,
+   "n_chars": 642,
+   "masked": "the rulers of the exchange of mankind's goods have failed, through their own stubbornness and their own incompetence, have admitted their failure, and abdicated. Practices of the unscrupulous money changers stand indicted in the court of public opinion, rejected by the hearts and minds of men. True they have tried, but their efforts have been cast in the pattern of an outworn tradition. Faced by failure of credit they have proposed only the lending of more money. Stripped of the lure of profit by which to induce our people to follow their false leadership, they have resorted to exhortations, pleading tearfully for restored confidence."
+  },
+  {
+   "event": "dep",
+   "role": "pre",
+   "id": "hoover_rich",
+   "key": "dep/pre/hoover_rich",
+   "provenance": "H. Hoover, Inaugural Address (4 Mar 1929), Gutenberg #925",
+   "text": "Ours is a land rich in resources; stimulating in its glorious beauty; filled with millions of happy homes; blessed with comfort and opportunity. In no nation are the institutions of progress more advanced. In no nation are the fruits of accomplishment more secure. In no nation is the government more worthy of respect. No country is more loved by its people. I have an abiding faith in their capacity, integrity and high purpose. I have no fears for the future of our country. It is bright with hope. In the presence of my countrymen, mindful of the solemnity of this occasion, knowing what the task means and the responsibility which it involves, I beg your tolerance, your aid, and your cooperation.",
+   "n_words": 121,
+   "n_chars": 702,
+   "masked": "Ours is a land rich in resources; stimulating in its glorious beauty; filled with millions of happy homes; blessed with comfort and opportunity. In no nation are the institutions of progress more advanced. In no nation are the fruits of accomplishment more secure. In no nation is the government more worthy of respect. No country is more loved by its people. I have an abiding faith in their capacity, integrity and high purpose. I have no fears for the future of our country. It is bright with hope. In the presence of my countrymen, mindful of the solemnity of this occasion, knowing what the task means and the responsibility which it involves, I beg your tolerance, your aid, and your cooperation."
+  },
+  {
+   "event": "dep",
+   "role": "pre",
+   "id": "hoover_comfort",
+   "key": "dep/pre/hoover_comfort",
+   "provenance": "H. Hoover, Inaugural Address (4 Mar 1929), Gutenberg #925",
+   "text": "we have reached a higher degree of comfort and security than ever existed before in the history of the world. Through liberation from widespread poverty we have reached a higher degree of individual freedom than ever before. The devotion to and concern for our institutions are deep and sincere. We are steadily building a new race--a new civilization great in its own attainments. The influence and high purposes of our Nation are respected among the peoples of the world. We aspire to distinction in the world, but to a distinction based upon confidence in our sense of justice as well as our accomplishments within our own borders and in our own lives.",
+   "n_words": 112,
+   "n_chars": 655,
+   "masked": "we have reached a higher degree of comfort and security than ever existed before in the history of the world. Through liberation from widespread poverty we have reached a higher degree of individual freedom than ever before. The devotion to and concern for our institutions are deep and sincere. We are steadily building a new race--a new civilization great in its own attainments. The influence and high purposes of our the nation are respected among the peoples of the world. We aspire to distinction in the world, but to a distinction based upon confidence in our sense of justice as well as our accomplishments within our own borders and in our own lives."
+  },
+  {
+   "event": "dep",
+   "role": "pre",
+   "id": "hoover_emerged",
+   "key": "dep/pre/hoover_emerged",
+   "provenance": "H. Hoover, Inaugural Address (4 Mar 1929), Gutenberg #925",
+   "text": "We have emerged from the losses of the Great War and the reconstruction following it with increased virility and strength. From this strength we have contributed to the recovery and progress of the world. What America has done has given renewed hope and courage to all who have faith in government by the people. In the large view, we have reached a higher degree of comfort and security than ever existed before in the history of the world. Through liberation from widespread poverty we have reached a higher degree of individual freedom than ever before.",
+   "n_words": 95,
+   "n_chars": 556,
+   "masked": "We have emerged from the losses of the Great War and the reconstruction following it with increased virility and strength. From this strength we have contributed to the recovery and progress of the world. What the nation has done has given renewed hope and courage to all who have faith in government by the people. In the large view, we have reached a higher degree of comfort and security than ever existed before in the history of the world. Through liberation from widespread poverty we have reached a higher degree of individual freedom than ever before."
+  }
+ ],
+ "per_model": {
+  "1900": {
+   "wwi/post/keynes_organ": {
+    "nats_per_token": 3.3024,
+    "nats_per_char": 0.6557,
+    "nats_per_word": 3.5996,
+    "n_tok": 110
+   },
+   "wwi/post/keynes_heaves": {
+    "nats_per_token": 3.827,
+    "nats_per_char": 0.834,
+    "nats_per_word": 4.532,
+    "n_tok": 91
+   },
+   "wwi/post/keynes_starv": {
+    "nats_per_token": 3.4503,
+    "nats_per_char": 0.6717,
+    "nats_per_word": 3.8562,
+    "n_tok": 96
+   },
+   "wwi/pre/angell_credit": {
+    "nats_per_token": 3.7225,
+    "nats_per_char": 0.7605,
+    "nats_per_word": 4.6707,
+    "n_tok": 134
+   },
+   "wwi/pre/angell_imposs": {
+    "nats_per_token": 3.3688,
+    "nats_per_char": 0.6327,
+    "nats_per_word": 3.9362,
+    "n_tok": 112
+   },
+   "wwi/pre/angell_interdep": {
+    "nats_per_token": 3.2357,
+    "nats_per_char": 0.5967,
+    "nats_per_word": 3.739,
+    "n_tok": 105
+   },
+   "dep/post/fdr_values": {
+    "nats_per_token": 3.4151,
+    "nats_per_char": 0.6819,
+    "nats_per_word": 4.036,
+    "n_tok": 118
+   },
+   "dep/post/fdr_unemp": {
+    "nats_per_token": 3.5569,
+    "nats_per_char": 0.7304,
+    "nats_per_word": 4.2067,
+    "n_tok": 124
+   },
+   "dep/post/fdr_money": {
+    "nats_per_token": 3.6922,
+    "nats_per_char": 0.7534,
+    "nats_per_word": 4.6508,
+    "n_tok": 132
+   },
+   "dep/pre/hoover_rich": {
+    "nats_per_token": 2.7141,
+    "nats_per_char": 0.549,
+    "nats_per_word": 3.1852,
+    "n_tok": 143
+   },
+   "dep/pre/hoover_comfort": {
+    "nats_per_token": 3.2242,
+    "nats_per_char": 0.5956,
+    "nats_per_word": 3.4833,
+    "n_tok": 122
+   },
+   "dep/pre/hoover_emerged": {
+    "nats_per_token": 2.9695,
+    "nats_per_char": 0.5394,
+    "nats_per_word": 3.157,
+    "n_tok": 102
+   }
+  },
+  "1913": {
+   "wwi/post/keynes_organ": {
+    "nats_per_token": 3.1362,
+    "nats_per_char": 0.6227,
+    "nats_per_word": 3.4185,
+    "n_tok": 110
+   },
+   "wwi/post/keynes_heaves": {
+    "nats_per_token": 3.8673,
+    "nats_per_char": 0.8428,
+    "nats_per_word": 4.5797,
+    "n_tok": 91
+   },
+   "wwi/post/keynes_starv": {
+    "nats_per_token": 3.378,
+    "nats_per_char": 0.6576,
+    "nats_per_word": 3.7754,
+    "n_tok": 96
+   },
+   "wwi/pre/angell_credit": {
+    "nats_per_token": 3.4899,
+    "nats_per_char": 0.713,
+    "nats_per_word": 4.3789,
+    "n_tok": 134
+   },
+   "wwi/pre/angell_imposs": {
+    "nats_per_token": 3.2724,
+    "nats_per_char": 0.6146,
+    "nats_per_word": 3.8236,
+    "n_tok": 112
+   },
+   "wwi/pre/angell_interdep": {
+    "nats_per_token": 3.0062,
+    "nats_per_char": 0.5543,
+    "nats_per_word": 3.4739,
+    "n_tok": 105
+   },
+   "dep/post/fdr_values": {
+    "nats_per_token": 3.2557,
+    "nats_per_char": 0.65,
+    "nats_per_word": 3.8477,
+    "n_tok": 118
+   },
+   "dep/post/fdr_unemp": {
+    "nats_per_token": 3.4069,
+    "nats_per_char": 0.6996,
+    "nats_per_word": 4.0293,
+    "n_tok": 124
+   },
+   "dep/post/fdr_money": {
+    "nats_per_token": 3.4142,
+    "nats_per_char": 0.6967,
+    "nats_per_word": 4.3006,
+    "n_tok": 132
+   },
+   "dep/pre/hoover_rich": {
+    "nats_per_token": 2.6011,
+    "nats_per_char": 0.5262,
+    "nats_per_word": 3.0526,
+    "n_tok": 143
+   },
+   "dep/pre/hoover_comfort": {
+    "nats_per_token": 3.0623,
+    "nats_per_char": 0.5657,
+    "nats_per_word": 3.3083,
+    "n_tok": 122
+   },
+   "dep/pre/hoover_emerged": {
+    "nats_per_token": 2.7159,
+    "nats_per_char": 0.4934,
+    "nats_per_word": 2.8874,
+    "n_tok": 102
+   }
+  },
+  "1929": {
+   "wwi/post/keynes_organ": {
+    "nats_per_token": 3.0899,
+    "nats_per_char": 0.6135,
+    "nats_per_word": 3.368,
+    "n_tok": 110
+   },
+   "wwi/post/keynes_heaves": {
+    "nats_per_token": 3.8462,
+    "nats_per_char": 0.8382,
+    "nats_per_word": 4.5547,
+    "n_tok": 91
+   },
+   "wwi/post/keynes_starv": {
+    "nats_per_token": 3.3231,
+    "nats_per_char": 0.6469,
+    "nats_per_word": 3.714,
+    "n_tok": 96
+   },
+   "wwi/pre/angell_credit": {
+    "nats_per_token": 3.4358,
+    "nats_per_char": 0.7019,
+    "nats_per_word": 4.311,
+    "n_tok": 134
+   },
+   "wwi/pre/angell_imposs": {
+    "nats_per_token": 3.1303,
+    "nats_per_char": 0.5879,
+    "nats_per_word": 3.6576,
+    "n_tok": 112
+   },
+   "wwi/pre/angell_interdep": {
+    "nats_per_token": 3.0373,
+    "nats_per_char": 0.5601,
+    "nats_per_word": 3.5098,
+    "n_tok": 105
+   },
+   "dep/post/fdr_values": {
+    "nats_per_token": 3.1988,
+    "nats_per_char": 0.6387,
+    "nats_per_word": 3.7804,
+    "n_tok": 118
+   },
+   "dep/post/fdr_unemp": {
+    "nats_per_token": 3.381,
+    "nats_per_char": 0.6943,
+    "nats_per_word": 3.9987,
+    "n_tok": 124
+   },
+   "dep/post/fdr_money": {
+    "nats_per_token": 3.4011,
+    "nats_per_char": 0.694,
+    "nats_per_word": 4.2841,
+    "n_tok": 132
+   },
+   "dep/pre/hoover_rich": {
+    "nats_per_token": 2.4519,
+    "nats_per_char": 0.496,
+    "nats_per_word": 2.8775,
+    "n_tok": 143
+   },
+   "dep/pre/hoover_comfort": {
+    "nats_per_token": 3.0197,
+    "nats_per_char": 0.5578,
+    "nats_per_word": 3.2623,
+    "n_tok": 122
+   },
+   "dep/pre/hoover_emerged": {
+    "nats_per_token": 2.6949,
+    "nats_per_char": 0.4895,
+    "nats_per_word": 2.8651,
+    "n_tok": 102
+   }
+  },
+  "modern": {
+   "wwi/post/keynes_organ": {
+    "nats_per_token": 3.1969,
+    "nats_per_char": 0.6347,
+    "nats_per_word": 3.4846,
+    "n_tok": 110
+   },
+   "wwi/post/keynes_heaves": {
+    "nats_per_token": 3.2555,
+    "nats_per_char": 0.7094,
+    "nats_per_word": 3.8552,
+    "n_tok": 91
+   },
+   "wwi/post/keynes_starv": {
+    "nats_per_token": 3.4469,
+    "nats_per_char": 0.671,
+    "nats_per_word": 3.8524,
+    "n_tok": 96
+   },
+   "wwi/pre/angell_credit": {
+    "nats_per_token": 3.4027,
+    "nats_per_char": 0.6952,
+    "nats_per_word": 4.2695,
+    "n_tok": 134
+   },
+   "wwi/pre/angell_imposs": {
+    "nats_per_token": 3.1201,
+    "nats_per_char": 0.586,
+    "nats_per_word": 3.6456,
+    "n_tok": 112
+   },
+   "wwi/pre/angell_interdep": {
+    "nats_per_token": 3.0672,
+    "nats_per_char": 0.5656,
+    "nats_per_word": 3.5443,
+    "n_tok": 105
+   },
+   "dep/post/fdr_values": {
+    "nats_per_token": 2.5521,
+    "nats_per_char": 0.5095,
+    "nats_per_word": 3.0161,
+    "n_tok": 118
+   },
+   "dep/post/fdr_unemp": {
+    "nats_per_token": 2.1905,
+    "nats_per_char": 0.4498,
+    "nats_per_word": 2.5907,
+    "n_tok": 124
+   },
+   "dep/post/fdr_money": {
+    "nats_per_token": 1.9249,
+    "nats_per_char": 0.3928,
+    "nats_per_word": 2.4246,
+    "n_tok": 132
+   },
+   "dep/pre/hoover_rich": {
+    "nats_per_token": 2.6015,
+    "nats_per_char": 0.5262,
+    "nats_per_word": 3.053,
+    "n_tok": 143
+   },
+   "dep/pre/hoover_comfort": {
+    "nats_per_token": 2.9945,
+    "nats_per_char": 0.5532,
+    "nats_per_word": 3.2351,
+    "n_tok": 122
+   },
+   "dep/pre/hoover_emerged": {
+    "nats_per_token": 2.7557,
+    "nats_per_char": 0.5006,
+    "nats_per_word": 2.9297,
+    "n_tok": 102
+   }
+  }
+ },
+ "XS_text_vs_modern_per_char": {
+  "1900": {
+   "wwi/post/keynes_organ": 0.021,
+   "wwi/post/keynes_heaves": 0.1246,
+   "wwi/post/keynes_starv": 0.0007,
+   "wwi/pre/angell_credit": 0.0653,
+   "wwi/pre/angell_imposs": 0.0467,
+   "wwi/pre/angell_interdep": 0.0311,
+   "dep/post/fdr_values": 0.1724,
+   "dep/post/fdr_unemp": 0.2806,
+   "dep/post/fdr_money": 0.3606,
+   "dep/pre/hoover_rich": 0.0228,
+   "dep/pre/hoover_comfort": 0.0424,
+   "dep/pre/hoover_emerged": 0.0388
+  },
+  "1913": {
+   "wwi/post/keynes_organ": -0.012,
+   "wwi/post/keynes_heaves": 0.1334,
+   "wwi/post/keynes_starv": -0.0134,
+   "wwi/pre/angell_credit": 0.0178,
+   "wwi/pre/angell_imposs": 0.0286,
+   "wwi/pre/angell_interdep": -0.0113,
+   "dep/post/fdr_values": 0.1405,
+   "dep/post/fdr_unemp": 0.2498,
+   "dep/post/fdr_money": 0.3039,
+   "dep/pre/hoover_rich": 0.0,
+   "dep/pre/hoover_comfort": 0.0125,
+   "dep/pre/hoover_emerged": -0.0072
+  },
+  "1929": {
+   "wwi/post/keynes_organ": -0.0212,
+   "wwi/post/keynes_heaves": 0.1288,
+   "wwi/post/keynes_starv": -0.0241,
+   "wwi/pre/angell_credit": 0.0067,
+   "wwi/pre/angell_imposs": 0.0019,
+   "wwi/pre/angell_interdep": -0.0055,
+   "dep/post/fdr_values": 0.1292,
+   "dep/post/fdr_unemp": 0.2445,
+   "dep/post/fdr_money": 0.3012,
+   "dep/pre/hoover_rich": -0.0302,
+   "dep/pre/hoover_comfort": 0.0046,
+   "dep/pre/hoover_emerged": -0.0111
+  }
+ },
+ "DiD_modern_anchored": {
+  "wwi_at_1900": {
+   "did": 0.0011,
+   "ci": [
+    -0.0516,
+    0.0717
+   ],
+   "post_meanXS": 0.0488,
+   "pre_meanXS": 0.0477,
+   "n_post": 3,
+   "n_pre": 3
+  },
+  "wwi_at_1913": {
+   "did": 0.0243,
+   "ci": [
+    -0.0379,
+    0.1156
+   ],
+   "post_meanXS": 0.036,
+   "pre_meanXS": 0.0117,
+   "n_post": 3,
+   "n_pre": 3
+  },
+  "wwi_at_1929": {
+   "did": 0.0268,
+   "ci": [
+    -0.0282,
+    0.1262
+   ],
+   "post_meanXS": 0.0278,
+   "pre_meanXS": 0.001,
+   "n_post": 3,
+   "n_pre": 3
+  },
+  "dep_at_1900": {
+   "did": 0.2365,
+   "ci": [
+    0.1389,
+    0.3247
+   ],
+   "post_meanXS": 0.2712,
+   "pre_meanXS": 0.0347,
+   "n_post": 3,
+   "n_pre": 3
+  },
+  "dep_at_1913": {
+   "did": 0.2296,
+   "ci": [
+    0.1411,
+    0.3021
+   ],
+   "post_meanXS": 0.2314,
+   "pre_meanXS": 0.0018,
+   "n_post": 3,
+   "n_pre": 3
+  },
+  "dep_at_1929": {
+   "did": 0.2372,
+   "ci": [
+    0.1467,
+    0.3125
+   ],
+   "post_meanXS": 0.225,
+   "pre_meanXS": -0.0122,
+   "n_post": 3,
+   "n_pre": 3
+  }
+ }
+}

@@ -1,0 +1,197 @@
+model,cutoff,kind,label,target,control,lift
+Ranke-4B-1900,1900,POST,Hiroshima->atomic bomb,Hiroshima,Kyoto,1.579
+Ranke-4B-1900,1900,POST,Nagasaki->atomic bomb,Nagasaki,Osaka,0.192
+Ranke-4B-1900,1900,POST,Dresden->firebombing,Dresden,Leipzig,-1.307
+Ranke-4B-1900,1900,POST,Coventry->air raid,Coventry,Sheffield,0.104
+Ranke-4B-1900,1900,POST,Auschwitz->death camp,Auschwitz,Krakow,1.641
+Ranke-4B-1900,1900,POST,Chernobyl->reactor,Chernobyl,Zhytomyr,1.028
+Ranke-4B-1900,1900,POST,Dallas->assassination,Dallas,Houston,0.915
+Ranke-4B-1900,1900,POST,Memphis->MLK,Memphis,Nashville,-0.675
+Ranke-4B-1900,1900,POST,Selma->march,Selma,Mobile,-0.83
+Ranke-4B-1900,1900,POST,Pearl Harbor->attack,Pearl Harbor,San Diego,2.139
+Ranke-4B-1900,1900,POST,Midway->naval battle,Midway,Samoa,-0.651
+Ranke-4B-1900,1900,POST,Berlin->the Wall,Berlin,Hamburg,0.839
+Ranke-4B-1900,1900,POST,Stalingrad->battle,Stalingrad,Kazan,1.688
+Ranke-4B-1900,1900,POST,Leningrad->siege,Leningrad,Tbilisi,2.222
+Ranke-4B-1900,1900,POST,Warsaw->uprising,Warsaw,Prague,-0.758
+Ranke-4B-1900,1900,POST,Vietnam->US war,Vietnam,Thailand,4.896
+Ranke-4B-1900,1900,POST,Korea->war,Korea,Burma,0.406
+Ranke-4B-1900,1900,POST,Cuba->missile crisis,Cuba,Haiti,-4.154
+Ranke-4B-1900,1900,POST,Yalta->conference,Yalta,Sochi,1.009
+Ranke-4B-1900,1900,POST,Potsdam->conference,Potsdam,Weimar,-0.662
+Ranke-4B-1900,1900,POST,Munich->1938 pact,Munich,Stuttgart,-2.735
+Ranke-4B-1900,1900,POST,Dunkirk->evacuation,Dunkirk,Le Havre,2.006
+Ranke-4B-1900,1900,POST,Normandy->D-Day,Normandy,Brittany,0.535
+Ranke-4B-1900,1900,POST,Nuremberg->trials,Nuremberg,Augsburg,-0.073
+Ranke-4B-1900,1900,POST,Suez->1956 crisis,Suez,Panama,3.114
+Ranke-4B-1900,1900,POST,Guernica->bombed/Picasso,Guernica,Bilbao,0.246
+Ranke-4B-1900,1900,POST,Saigon->fall,Saigon,Bangkok,0.73
+Ranke-4B-1900,1900,PRE_STRONG,Waterloo->Napoleon,Waterloo,Antwerp,3.872
+Ranke-4B-1900,1900,PRE_STRONG,Trafalgar->Nelson,Trafalgar,Finisterre,4.186
+Ranke-4B-1900,1900,PRE_STRONG,Gettysburg->battle,Gettysburg,Lancaster,4.746
+Ranke-4B-1900,1900,PRE_STRONG,Yorktown->surrender,Yorktown,Albany,4.826
+Ranke-4B-1900,1900,PRE_STRONG,Hastings->1066,Hastings,Dover,1.314
+Ranke-4B-1900,1900,PRE_STRONG,Leipzig->1813,Leipzig,Hanover,2.491
+Ranke-4B-1900,1900,PRE_WEAK,Tannenberg->German victory,Tannenberg,Smolensk,-2.592
+Ranke-4B-1900,1900,PRE_WEAK,Verdun->longest battle,Verdun,Sedan,-0.172
+Ranke-4B-1900,1900,PRE_WEAK,Somme->1916 offensive,Somme,Loire,0.531
+Ranke-4B-1900,1900,PRE_WEAK,Marne->saved Paris,Marne,Garonne,2.594
+Ranke-4B-1900,1900,PRE_WEAK,Jutland->naval battle,Jutland,Biscay,1.387
+Ranke-4B-1900,1900,PRE_WEAK,Gallipoli->landing,Gallipoli,Salonika,4.929
+Ranke-4B-1900,1900,PRE_WEAK,Ypres->battles,Ypres,Bruges,0.11
+Ranke-4B-1900,1900,PRE_WEAK,Versailles->treaty,Versailles,Fontainebleau,-2.176
+Ranke-4B-1900,1900,PRE_WEAK,Sarajevo->assassination,Sarajevo,Belgrade,-0.291
+Ranke-4B-1900,1900,PRE_WEAK,Lusitania->sunk,Lusitania,Mauretania,0.899
+Ranke-4B-1900,1900,PRE_WEAK,Petrograd->revolution,Petrograd,Kharkov,-0.397
+Ranke-4B-1900,1900,PRE_WEAK,Weimar->republic,Weimar,Kassel,0.343
+Ranke-4B-1900,1900,PRE_WEAK,Passchendaele->mud,Passchendaele,Leuven,0.298
+Ranke-4B-1900,1900,NULL,Osaka vs Kyoto->atomic,Osaka,Kyoto,-0.982
+Ranke-4B-1900,1900,NULL,Bristol vs Leeds->camp,Bristol,Leeds,-0.913
+Ranke-4B-1900,1900,NULL,Lyon vs Marseille->atomic,Lyon,Marseille,-0.439
+Ranke-4B-1913,1913,POST,Hiroshima->atomic bomb,Hiroshima,Kyoto,0.442
+Ranke-4B-1913,1913,POST,Nagasaki->atomic bomb,Nagasaki,Osaka,-0.454
+Ranke-4B-1913,1913,POST,Dresden->firebombing,Dresden,Leipzig,-2.072
+Ranke-4B-1913,1913,POST,Coventry->air raid,Coventry,Sheffield,-0.03
+Ranke-4B-1913,1913,POST,Auschwitz->death camp,Auschwitz,Krakow,0.931
+Ranke-4B-1913,1913,POST,Chernobyl->reactor,Chernobyl,Zhytomyr,0.928
+Ranke-4B-1913,1913,POST,Dallas->assassination,Dallas,Houston,0.951
+Ranke-4B-1913,1913,POST,Memphis->MLK,Memphis,Nashville,0.019
+Ranke-4B-1913,1913,POST,Selma->march,Selma,Mobile,-0.219
+Ranke-4B-1913,1913,POST,Pearl Harbor->attack,Pearl Harbor,San Diego,-0.965
+Ranke-4B-1913,1913,POST,Midway->naval battle,Midway,Samoa,-0.566
+Ranke-4B-1913,1913,POST,Berlin->the Wall,Berlin,Hamburg,-0.052
+Ranke-4B-1913,1913,POST,Stalingrad->battle,Stalingrad,Kazan,2.118
+Ranke-4B-1913,1913,POST,Leningrad->siege,Leningrad,Tbilisi,0.465
+Ranke-4B-1913,1913,POST,Warsaw->uprising,Warsaw,Prague,0.725
+Ranke-4B-1913,1913,POST,Vietnam->US war,Vietnam,Thailand,3.226
+Ranke-4B-1913,1913,POST,Korea->war,Korea,Burma,0.519
+Ranke-4B-1913,1913,POST,Cuba->missile crisis,Cuba,Haiti,-2.111
+Ranke-4B-1913,1913,POST,Yalta->conference,Yalta,Sochi,2.558
+Ranke-4B-1913,1913,POST,Potsdam->conference,Potsdam,Weimar,1.771
+Ranke-4B-1913,1913,POST,Munich->1938 pact,Munich,Stuttgart,-0.808
+Ranke-4B-1913,1913,POST,Dunkirk->evacuation,Dunkirk,Le Havre,0.253
+Ranke-4B-1913,1913,POST,Normandy->D-Day,Normandy,Brittany,0.286
+Ranke-4B-1913,1913,POST,Nuremberg->trials,Nuremberg,Augsburg,-1.035
+Ranke-4B-1913,1913,POST,Suez->1956 crisis,Suez,Panama,-0.33
+Ranke-4B-1913,1913,POST,Guernica->bombed/Picasso,Guernica,Bilbao,-0.974
+Ranke-4B-1913,1913,POST,Saigon->fall,Saigon,Bangkok,1.813
+Ranke-4B-1913,1913,PRE_STRONG,Waterloo->Napoleon,Waterloo,Antwerp,2.821
+Ranke-4B-1913,1913,PRE_STRONG,Trafalgar->Nelson,Trafalgar,Finisterre,4.347
+Ranke-4B-1913,1913,PRE_STRONG,Gettysburg->battle,Gettysburg,Lancaster,8.732
+Ranke-4B-1913,1913,PRE_STRONG,Yorktown->surrender,Yorktown,Albany,8.22
+Ranke-4B-1913,1913,PRE_STRONG,Hastings->1066,Hastings,Dover,-0.309
+Ranke-4B-1913,1913,PRE_STRONG,Leipzig->1813,Leipzig,Hanover,2.031
+Ranke-4B-1913,1913,PRE_WEAK,Tannenberg->German victory,Tannenberg,Smolensk,-0.324
+Ranke-4B-1913,1913,PRE_WEAK,Verdun->longest battle,Verdun,Sedan,0.484
+Ranke-4B-1913,1913,PRE_WEAK,Somme->1916 offensive,Somme,Loire,-0.123
+Ranke-4B-1913,1913,PRE_WEAK,Marne->saved Paris,Marne,Garonne,2.891
+Ranke-4B-1913,1913,PRE_WEAK,Jutland->naval battle,Jutland,Biscay,-1.574
+Ranke-4B-1913,1913,PRE_WEAK,Gallipoli->landing,Gallipoli,Salonika,2.014
+Ranke-4B-1913,1913,PRE_WEAK,Ypres->battles,Ypres,Bruges,6.058
+Ranke-4B-1913,1913,PRE_WEAK,Versailles->treaty,Versailles,Fontainebleau,-1.881
+Ranke-4B-1913,1913,PRE_WEAK,Sarajevo->assassination,Sarajevo,Belgrade,-0.523
+Ranke-4B-1913,1913,PRE_WEAK,Lusitania->sunk,Lusitania,Mauretania,0.999
+Ranke-4B-1913,1913,PRE_WEAK,Petrograd->revolution,Petrograd,Kharkov,-0.1
+Ranke-4B-1913,1913,PRE_WEAK,Weimar->republic,Weimar,Kassel,-0.419
+Ranke-4B-1913,1913,PRE_WEAK,Passchendaele->mud,Passchendaele,Leuven,0.92
+Ranke-4B-1913,1913,NULL,Osaka vs Kyoto->atomic,Osaka,Kyoto,-0.454
+Ranke-4B-1913,1913,NULL,Bristol vs Leeds->camp,Bristol,Leeds,-0.476
+Ranke-4B-1913,1913,NULL,Lyon vs Marseille->atomic,Lyon,Marseille,-0.313
+Ranke-4B-1929,1929,POST,Hiroshima->atomic bomb,Hiroshima,Kyoto,-0.42
+Ranke-4B-1929,1929,POST,Nagasaki->atomic bomb,Nagasaki,Osaka,-0.479
+Ranke-4B-1929,1929,POST,Dresden->firebombing,Dresden,Leipzig,-1.596
+Ranke-4B-1929,1929,POST,Coventry->air raid,Coventry,Sheffield,-0.079
+Ranke-4B-1929,1929,POST,Auschwitz->death camp,Auschwitz,Krakow,1.753
+Ranke-4B-1929,1929,POST,Chernobyl->reactor,Chernobyl,Zhytomyr,-1.694
+Ranke-4B-1929,1929,POST,Dallas->assassination,Dallas,Houston,0.989
+Ranke-4B-1929,1929,POST,Memphis->MLK,Memphis,Nashville,-1.604
+Ranke-4B-1929,1929,POST,Selma->march,Selma,Mobile,0.749
+Ranke-4B-1929,1929,POST,Pearl Harbor->attack,Pearl Harbor,San Diego,-1.123
+Ranke-4B-1929,1929,POST,Midway->naval battle,Midway,Samoa,0.379
+Ranke-4B-1929,1929,POST,Berlin->the Wall,Berlin,Hamburg,-0.239
+Ranke-4B-1929,1929,POST,Stalingrad->battle,Stalingrad,Kazan,2.115
+Ranke-4B-1929,1929,POST,Leningrad->siege,Leningrad,Tbilisi,-0.621
+Ranke-4B-1929,1929,POST,Warsaw->uprising,Warsaw,Prague,-0.192
+Ranke-4B-1929,1929,POST,Vietnam->US war,Vietnam,Thailand,2.233
+Ranke-4B-1929,1929,POST,Korea->war,Korea,Burma,0.641
+Ranke-4B-1929,1929,POST,Cuba->missile crisis,Cuba,Haiti,-2.463
+Ranke-4B-1929,1929,POST,Yalta->conference,Yalta,Sochi,1.619
+Ranke-4B-1929,1929,POST,Potsdam->conference,Potsdam,Weimar,-1.956
+Ranke-4B-1929,1929,POST,Munich->1938 pact,Munich,Stuttgart,-0.599
+Ranke-4B-1929,1929,POST,Dunkirk->evacuation,Dunkirk,Le Havre,1.154
+Ranke-4B-1929,1929,POST,Normandy->D-Day,Normandy,Brittany,0.332
+Ranke-4B-1929,1929,POST,Nuremberg->trials,Nuremberg,Augsburg,2.172
+Ranke-4B-1929,1929,POST,Suez->1956 crisis,Suez,Panama,-0.788
+Ranke-4B-1929,1929,POST,Guernica->bombed/Picasso,Guernica,Bilbao,-0.806
+Ranke-4B-1929,1929,POST,Saigon->fall,Saigon,Bangkok,0.815
+Ranke-4B-1929,1929,PRE_STRONG,Waterloo->Napoleon,Waterloo,Antwerp,4.626
+Ranke-4B-1929,1929,PRE_STRONG,Trafalgar->Nelson,Trafalgar,Finisterre,2.978
+Ranke-4B-1929,1929,PRE_STRONG,Gettysburg->battle,Gettysburg,Lancaster,7.363
+Ranke-4B-1929,1929,PRE_STRONG,Yorktown->surrender,Yorktown,Albany,7.151
+Ranke-4B-1929,1929,PRE_STRONG,Hastings->1066,Hastings,Dover,2.613
+Ranke-4B-1929,1929,PRE_STRONG,Leipzig->1813,Leipzig,Hanover,1.359
+Ranke-4B-1929,1929,PRE_WEAK,Tannenberg->German victory,Tannenberg,Smolensk,3.357
+Ranke-4B-1929,1929,PRE_WEAK,Verdun->longest battle,Verdun,Sedan,0.391
+Ranke-4B-1929,1929,PRE_WEAK,Somme->1916 offensive,Somme,Loire,8.44
+Ranke-4B-1929,1929,PRE_WEAK,Marne->saved Paris,Marne,Garonne,5.691
+Ranke-4B-1929,1929,PRE_WEAK,Jutland->naval battle,Jutland,Biscay,4.752
+Ranke-4B-1929,1929,PRE_WEAK,Gallipoli->landing,Gallipoli,Salonika,1.012
+Ranke-4B-1929,1929,PRE_WEAK,Ypres->battles,Ypres,Bruges,0.785
+Ranke-4B-1929,1929,PRE_WEAK,Versailles->treaty,Versailles,Fontainebleau,0.272
+Ranke-4B-1929,1929,PRE_WEAK,Sarajevo->assassination,Sarajevo,Belgrade,9.508
+Ranke-4B-1929,1929,PRE_WEAK,Lusitania->sunk,Lusitania,Mauretania,2.089
+Ranke-4B-1929,1929,PRE_WEAK,Petrograd->revolution,Petrograd,Kharkov,-0.156
+Ranke-4B-1929,1929,PRE_WEAK,Weimar->republic,Weimar,Kassel,3.093
+Ranke-4B-1929,1929,PRE_WEAK,Passchendaele->mud,Passchendaele,Leuven,7.165
+Ranke-4B-1929,1929,NULL,Osaka vs Kyoto->atomic,Osaka,Kyoto,0.443
+Ranke-4B-1929,1929,NULL,Bristol vs Leeds->camp,Bristol,Leeds,0.198
+Ranke-4B-1929,1929,NULL,Lyon vs Marseille->atomic,Lyon,Marseille,0.253
+Ranke-4B-1929-1202-Instruct,1929,POST,Hiroshima->atomic bomb,Hiroshima,Kyoto,-0.215
+Ranke-4B-1929-1202-Instruct,1929,POST,Nagasaki->atomic bomb,Nagasaki,Osaka,-0.602
+Ranke-4B-1929-1202-Instruct,1929,POST,Dresden->firebombing,Dresden,Leipzig,-1.475
+Ranke-4B-1929-1202-Instruct,1929,POST,Coventry->air raid,Coventry,Sheffield,-2.597
+Ranke-4B-1929-1202-Instruct,1929,POST,Auschwitz->death camp,Auschwitz,Krakow,2.144
+Ranke-4B-1929-1202-Instruct,1929,POST,Chernobyl->reactor,Chernobyl,Zhytomyr,-3.601
+Ranke-4B-1929-1202-Instruct,1929,POST,Dallas->assassination,Dallas,Houston,1.26
+Ranke-4B-1929-1202-Instruct,1929,POST,Memphis->MLK,Memphis,Nashville,-1.818
+Ranke-4B-1929-1202-Instruct,1929,POST,Selma->march,Selma,Mobile,0.871
+Ranke-4B-1929-1202-Instruct,1929,POST,Pearl Harbor->attack,Pearl Harbor,San Diego,-1.322
+Ranke-4B-1929-1202-Instruct,1929,POST,Midway->naval battle,Midway,Samoa,0.22
+Ranke-4B-1929-1202-Instruct,1929,POST,Berlin->the Wall,Berlin,Hamburg,-0.306
+Ranke-4B-1929-1202-Instruct,1929,POST,Stalingrad->battle,Stalingrad,Kazan,2.755
+Ranke-4B-1929-1202-Instruct,1929,POST,Leningrad->siege,Leningrad,Tbilisi,-2.38
+Ranke-4B-1929-1202-Instruct,1929,POST,Warsaw->uprising,Warsaw,Prague,0.962
+Ranke-4B-1929-1202-Instruct,1929,POST,Vietnam->US war,Vietnam,Thailand,3.521
+Ranke-4B-1929-1202-Instruct,1929,POST,Korea->war,Korea,Burma,1.015
+Ranke-4B-1929-1202-Instruct,1929,POST,Cuba->missile crisis,Cuba,Haiti,-2.966
+Ranke-4B-1929-1202-Instruct,1929,POST,Yalta->conference,Yalta,Sochi,1.529
+Ranke-4B-1929-1202-Instruct,1929,POST,Potsdam->conference,Potsdam,Weimar,-3.393
+Ranke-4B-1929-1202-Instruct,1929,POST,Munich->1938 pact,Munich,Stuttgart,-0.87
+Ranke-4B-1929-1202-Instruct,1929,POST,Dunkirk->evacuation,Dunkirk,Le Havre,0.775
+Ranke-4B-1929-1202-Instruct,1929,POST,Normandy->D-Day,Normandy,Brittany,0.371
+Ranke-4B-1929-1202-Instruct,1929,POST,Nuremberg->trials,Nuremberg,Augsburg,-2.227
+Ranke-4B-1929-1202-Instruct,1929,POST,Suez->1956 crisis,Suez,Panama,0.261
+Ranke-4B-1929-1202-Instruct,1929,POST,Guernica->bombed/Picasso,Guernica,Bilbao,-1.074
+Ranke-4B-1929-1202-Instruct,1929,POST,Saigon->fall,Saigon,Bangkok,1.307
+Ranke-4B-1929-1202-Instruct,1929,PRE_STRONG,Waterloo->Napoleon,Waterloo,Antwerp,5.028
+Ranke-4B-1929-1202-Instruct,1929,PRE_STRONG,Trafalgar->Nelson,Trafalgar,Finisterre,4.444
+Ranke-4B-1929-1202-Instruct,1929,PRE_STRONG,Gettysburg->battle,Gettysburg,Lancaster,8.265
+Ranke-4B-1929-1202-Instruct,1929,PRE_STRONG,Yorktown->surrender,Yorktown,Albany,7.559
+Ranke-4B-1929-1202-Instruct,1929,PRE_STRONG,Hastings->1066,Hastings,Dover,3.946
+Ranke-4B-1929-1202-Instruct,1929,PRE_STRONG,Leipzig->1813,Leipzig,Hanover,1.442
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Tannenberg->German victory,Tannenberg,Smolensk,5.672
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Verdun->longest battle,Verdun,Sedan,2.031
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Somme->1916 offensive,Somme,Loire,8.225
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Marne->saved Paris,Marne,Garonne,4.225
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Jutland->naval battle,Jutland,Biscay,5.334
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Gallipoli->landing,Gallipoli,Salonika,2.291
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Ypres->battles,Ypres,Bruges,2.672
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Versailles->treaty,Versailles,Fontainebleau,0.192
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Sarajevo->assassination,Sarajevo,Belgrade,10.585
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Lusitania->sunk,Lusitania,Mauretania,2.837
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Petrograd->revolution,Petrograd,Kharkov,-0.313
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Weimar->republic,Weimar,Kassel,2.24
+Ranke-4B-1929-1202-Instruct,1929,PRE_WEAK,Passchendaele->mud,Passchendaele,Leuven,9.425
+Ranke-4B-1929-1202-Instruct,1929,NULL,Osaka vs Kyoto->atomic,Osaka,Kyoto,1.397
+Ranke-4B-1929-1202-Instruct,1929,NULL,Bristol vs Leeds->camp,Bristol,Leeds,-0.094
+Ranke-4B-1929-1202-Instruct,1929,NULL,Lyon vs Marseille->atomic,Lyon,Marseille,-1.129

@@ -1,0 +1,851 @@
+KF 5407 G84 1981 V.1 
+
+HD LAW
+
+HARVARD LAW LIBRARY 
+
+3 2044 057 502 726 Alternative 
+
+Regulatory Approaches: 
+
+AN OVERVIEW 
+
+September 1981 Project on Alternative Regulatory Approaches
+
+HARVARD LAW LIBRARY
+
+Alternative 
+
+Regulatory Approaches: 
+
+AN OVERVIEW Guidebook series on \alternative regulatory approaches 
+
+September 1981 
+
+KF 5407 .684 1981 v. 1 YRAGA. 
+
+Project on Alternative Regulatory Approaches
+
+Guidebook Series on Alternative Regulatory Approaches 
+
+This series is intended to provide a practical introduction featuring both the theoretical merits and the proven limitations to a special set of alternative regulatory tools: approaches that are generally more compatible with the market forces that govern business decisions. 
+
+The series includes six books: 
+
+1) 2) 3) 4) 5) 6)
+
+Overview Marketable Rights Performance Standards 
+
+Monetary Incentives
+
+Information Disclosure Tiering 
+
+The series was produced by the staff of the Project on Alternative Regulatory Approaches and its support contractor, SRI International of Menlo Park, California, Richard A. Ferguson,
+
+Project Manager. 
+
+Project on Alternative Regulatory Approaches 
+
+Lawrence E. McCray, Director 
+
+Mitchell Foushee, Series Manager
+
+Nancy C. Joyce, Series Editor Contributing Staff -- Project on Alternative Regulatory Approaches John Daly 
+
+Robin Herman 
+
+Debra McClelland
+
+Katryna Regan Contributing Staff 
+
+SRI, International 
+
+Donna Downing 
+
+Jim Hughes 
+
+Michael Keeley 
+
+Trudy Speciner
+
+Marketable Rights.. 
+
+Performance Standards.. 
+
+Monetary Incentives.. 
+
+Information Disclosure. 
+
+Tiering. 
+
+Annotated Bibliography. 
+
+CONTENTS 
+
+11
+
+H. 
+
+ALTERNATIVE REGULATORY APROACHES "Alternative Regulatory Approaches: An Overview" is the first in a series of six guidebooks on Alternative Regulatory Approaches. Each guidebook summarizes the advantages and limitations of specific alternatives and provides examples of how agencies uses them. These alternatives include marketable rights, performance standards, monetary incentives, information disclosure, and tiering.
+
+Why Are Alternative Regulatory Approaches Important? 
+
+One of the significant (although not the best-noted) products of the recent campaigns for regulatory reform has been the growth of a sense of self-consciousness about regulatory decisionmaking.
+
+By and large, regulators now agree that their decisions can and should be a deliberate choice among competing alternatives, and should result from a systematic comparison of the relative costs and benefits among the array of choices. A more thorough analysis of such alternatives will be increasingly important during the reviews by the Office of Management and Budget of major new rules under E.0. 12291 and in light of pending legislation advocating agency use of alternative approaches.
+
+Policymaking is becoming a conscious matter of choosing the "right" tool for the job at hand.
+
+One class of regulatory tools that is of particular interest includes those that bring the least disruption to private decisionmaking in the regulated firms and use market forces to reduce the overall direct and indirect costs of regulation. 
+
+These market-oriented techniques -- alternative regulatory approaches -- stand in contrast to the traditional "commandand-control" form of regulation, which involves a detailed specification of private compliance requirements and formal sanctions against those who violate them. In general, alternative regulatory approaches can have these relative advantages over command-and-control regulation: 
+
+They provide more flexibility and more incentive for regulated firms to devise least-cost ways to comply.
+
+They impose fewer indirect costs (e.g., red tape, inspections).
+
+They are results-oriented, rather than means-oriented.
+
+ii 
+
+They reward private innovation.
+
+They impinge less on private choice and encourage market competition.
+
+They avoid the pitfalls of centralized, discretionary decisionmaking. 
+
+some These alternative techniques are not new inventions regulators have been using them for years. However, as a class they are not yet well understood, and they are still more often a subject of rhetorical debate than serious policy discussions. 
+
+This tendency has caused some agency skepticism about their practicality. These guidebooks attempt to show that marketcompatible techniques are more than interesting ideas -- they are interesting ideas that work to solve real governmental problems.
+
+We do not presume that market-oriented solutions will fit every regulatory problem. Only those who know particular programs in detail can determire how appropriate an alternative regulatory approach is in a specific case. Thus, these guidebooks are intended as introductions to the techniques rather than as "how-to-do-it" manuals. We have relied extensively on actual examples of past and present agency use. We hope that a realistic summary of both the merits and drawbacks of these approaches will encourage regulators to begin to count them among the alternative tools at their disposal. 
+
+Who Are the Guidebooks For? 
+
+This guidebook series is designed to help those who are responsible for developing new regulations and reviewing old ores and those who monitor regulations irside and outside of government to improve their practical appreciation of alternative regulatory approaches.
+
+How Are the Guidebooks Organized? 
+
+Each guidebook contains three parts: 
+
+Part I answers basic questions about the alternatives that agencies frequently raise. The answers reflect actual experience of Federal, State, and local agencies.
+
+iii Part II gives detailed descriptions of applications that are currently in place or under consideration, or that have been considered in the past. The examples are for illustrative purposes only; no attempt has been made to evaluate the merit of each action.
+
+Part III contains an annotated bibliography that refers the reader to additional sources of information. 
+
+Where Is More Information Available?
+
+The Project on Alternative Regulatory Approaches, begur under the U.S. Regulatory Council, completed its work in September 
+
+1981. The Administrative Conference of the United States now maintains the Project's resource files and publications. 
+
+Additional copies of the guidebooks and other project publications (see page 24) may be requested from: 
+
+Administrative Conference of the United States 
+
+2120 L Street, N.W. 
+
+Suite 500 
+
+Washington, D.C. (202) 254-7020 20037 For answers to specific or technical questions about alternative regulatory approaches, the Project's contractor may be able to provide assistance. The contractor provided general support to the Project and implemented measures to train agency personnel in the use of alternative approaches. Contact Trudy 
+
+Speciner: 
+
+Regulatory Analysis and Management Program SRI International 
+
+1611 North Kent St. 
+
+Arlington, VA (703) 524-2053
+
+ALTERNATIVE REGULATORY APPROACHES: 
+
+GUIDEBOOK SUMMARIES
+
+MARKETABLE RIGHTS 
+
+Marketable rights are government-issued permits that can be bought and sold. Making permits tradeable creates an important new incentive, in contrast to "command-and-control" regulations. Distributing a limited number of rights to scarce resources that private parties can then buy, sell, or trade as market reeds dictate can remove the government from difficult, contentious, and lengthy decisions about who can "best" use the limited resources. Advantages
+
+The main advantage of a marketable rights approach is that it reduces overall costs to the economy. It also can encourage innovation ard competition, reduce agency burdens, and provide greater policy flexibility.
+
+Example 
+
+A Rand study estimates that the compliance costs of a system of marketable rights for non-aerosol freor (chlorofluorocarbons) would be 42 percent less costly to society to implement than a command-and-control system of discretionary curtailments.
+
+Applications 
+
+Applications described in this guidebook show that marketable rights apply to a wide range of regulatory programs at the 
+
+Federal, State, and local level: • Federal Communications Commission considers marketable permits system for allocating spectrum. • Federal Aviation Administration corsiders market system to allocate landing slots at major airports. • Envirormertal Protection Agency explores marketable permit strategy to control chlorofluorocarbons ard to reduce air pollution. • New York City and Puerto Rico control growth through transferable developmert rights. • Lake Tahoe implements transferable building permits system via random selectior to control development. • Western States use system of marketable permits for trading water rights.
+
+How A Marketable Rights System Works Preconditions 
+
+To be a candidate for marketable rights, a regulatory program must be: 
+
+suited to a permit system; relatively indifferent to the identity of the user of the controlled rights; and free of major structural defects, including monopoly and thinness of the permit market.
+
+Elements of a Permits Market 
+
+Major design features of a permit market include: 
+
+the permit, which may be either permanent or temporary, either unitary or stratified by priority or class of ownership; the initial allocation scheme, which may be auction, lottery, "grandfathered" distribution, or a hybrid scheme; and facilitating features, such as public education, brokers, and agency gatekeeping functions.
+
+Practical Issues in Permits Markets 
+
+Factors that can complicate the design of an acceptable marketable permit scheme include: 1) 2) 3) 
+
+Market defects, including uncertainty perceived by participants, concentration of permit ownership, and market thinness.
+
+Institutional barriers, including dispute over initial allocations, investment in the status quo, and controversy over the "correct" number of permits.
+
+Legal constraints, including statutory constraints, rules on the use and disposition of permit revenues, and tax treatment of property rights.
+
+Practical ways have been found to solve these problems in many cases.
+
+PERFORMANCE STANDARDS 
+
+Performance standards replace regulations that specify the exact means of compliance (usually detailed design standards) with general targets that the regulated firms can decide how to meet. Performance standards can reduce compliance costs and provide regulated firms more flexibility and discretion to discover new and more efficient methods of compliance. 
+
+Example The Occupational Safety and Health Administration performance standards for "fall hazards and
+
+This walkways" allow employers to devise various methods to prevent injuries from falls at work sites. allows employers to develop effective alternative fall-prevention techniques rather than having to adhere to a specific guardrail design that may not be practical in certain work environments. 
+
+Applications 
+
+A particularly interesting form of performance standard is "averaging, as illustrated in EPA's "bubble policy" for air pollution.
+
+Example 
+
+In place of mandated point-by-point air pollution controls, the Environmental Protection Agency (EPA) 
+
+instituted a "bubble policy," which allows plant managers to control whatever emission points they care to, as long as they can show that overall pollutants generated under an imaginary plant-wide "bubble" will not increase. This "bubble policy" has resulted in dramatic cost savings for industry; 
+
+Dupont expects to save more than $12 million (60 percent of capital expenditures) at a New Jersey chemical complex. in There is, in most cases, a spectrum of regulatory options available to regulators, ranging from pure design standards to pure performance standard. A central idea -- and problem moving toward the performance end of this spectrum is that of determining if the alternative strategy will yield equivalent results.
+
+Advantages of Performance Standards 
+
+or 
+
+Performance standards leave firms free to choose invent least-cost solutions to given regulatory objectives. 
+
+They foster innovation, impede competition less, and can produce more flexible, results-oriented policy than design standards.
+
+Example The Department of Health and Human Services' new performance approach to hospital fire safety may save one-half of the costs of compliance. In one case a Boston hospital saved over $5 million about 70 percent of previous compliance costs to meet equivalent levels of fire safety. 
+
+Applications described in this guidebook show that performance standards apply to a broad range of regulatory programs. 
+
+Department of Transportation uses time averaging for fuel economy standards.
+
+Consumer Products Safety Commission adopts performance tests for children's toys and product packaging.
+
+Civil Aeronautics Board employs performance standards in its "bumping procedures" for airlines.
+
+Center for Disease Control considers establishing performance standards for the evaluation of clinical laboratories.
+
+Practical Issues 
+
+In some cases, performance standards pose special difficulties for agencies.
+
+They may, in some cases, be harder to write when performance is difficult to capture in an objective measure.
+
+They may, in some cases, be harder to administer, particularly with respect to ease of inspection and enforcement. 
+
+They may be perceived to give competitive advantages to larger or more sophisticated firms. 
+
+The guidebook describes these issues and ways to mitigate them.
+
+MONETARY INCENTIVES 
+
+Monetary incentive systems comprise five market-oriented approaches for achieving regulatory goals that present promising alternatives to direct command-and-control regulation. These monetary inducements may come directly from the regulatory agencies in a variety of forms, including: direct payments, fees, penalties, various forms of tax incentives, and various schemes to internalize costs e.g., required insurance or warranties. 
+
+Monetary incentives can be used directly to further regulatory goals or can be used as part of a system of enforcing regulatory requirements. Thus, a system of monetary incentives can be used both in conjunction with command-and-control regulation, and as an alternative.
+
+Using fees or subsidies (rather than government-enforced standards) encourages private sector achievement of regulatory goals. This approach removes the government from having to eliminate or directly restrict the unwanted activity, but creates an incentive for the private sector to limit the activity itself. 
+
+Example 
+
+Monetary incentive schemes have been used or proposed in many regulatory sectors; emissions fees for pollution, grants for the construction of sewage treatment facilities, subsidies to air carriers for providing service on otherwise unprofitable routes, tax incentives for hiring disadvantaged workers, nonconformance penalties for vehicle pollution standards, and assignment of liability for offshore oil spills. Advantages 
+
+The main advantage of a monetary incentive approach to regulation is that it has the potential to greatly reduce the overall costs to the economy of achieving a particular regulatory goal. A monetary incentive scheme can lower costs to businesses and consumers and can be less costly to administer for both the regulatory agency and the regulatory entity. It also can encourage innovation and competition, reduce agency burdens, and provide greater policy flexibility.
+
+Example The Postal Rate Commission (PRC) provides monetary incentives for bulk mailers to presort their mail by offering lower postage rates for mailers that presort. 
+
+The alternative of requiring that all mailers presort would impose large costs on firms that do not have the capability to presort. Savings of $2.2 billion per year can be realized.
+
+Applications There are five major types of monetary incentive schemes represented in this guidebook. Applications come from a wide variety of regulatory programs. 1) 2) 3) Fees 
+
+Some sewage treatment facilities charge users according to the volume of effluents discharged. This provides an incentive for firms to reduce their effluent dicharges through alternative production techniques when such reductions cost less than the direct sewage treatment fee. 
+
+Monetary Penalties The Mine Safety and Health Admin istration (MSHA) uses monetary penalties to enforce health and safety standards in mines. The penalty amount depends on the gravity of the violation, and thus provides a more efficient incentive for operators to maintain safe mines.
+
+Tax Incentives The IRS has established an excise tax on the sale of "gas guzzler" passenger cars, pursuant to the requirements of the Energy Tax Act of 1978 that is intended to discourage the manufacture and purchase of such cars. 
+
+4) Warranties, Bonds, and Insurance EPA requires vehicle manu-` 
+
+facturers to provide an Emissions Performance Warranty which requires the manufacturer to repair free of charge any emission control device that fails an EPA-approved test; MSHA requires firms engaged in strip mining to post performance bonds to guarantee that they will have the financial resources to pay for reclaiming the land after the mining is completed; States may require mandatory automobile liablility insurance to ensure that drivers will be able to provide monetary compensation when they cause damages. 5)
+
+Grants, Subsidies and Payments - EPA sewage treatment grants reimburse qualifying communities 75% of the costs for regular construction and 85% for the use of alternative technologies; the CAB has developed a subsidy scheme ensuring "essential" air transportation to small communities that may lose service as a result of airline deregulation.
+
+Practical Issues 
+
+Monetary incentive systems may require more precise monitoring than traditional, detailed regulation. It is often difficult to determine the appropriate magnitude of the incentive that is necessary to ensure that the regulatory goals are met. An incentive scheme may be impeded by political and institutional barriers and legal contraints.
+
+A 
+
+INFORMATION DISCLOSURE 
+
+Information disclosure is a regulatory alternative which provides users of a product or service with relevant information about the consequences of using it. When applicable, disclosure can replace centralized government decisions with informed freedom of choice among many users, and can stimulate competition among suppliers for improved performance. Ideally, normal market forces govern how producers disclose information about their products. 
+
+But "market failures" can result in poor information flow. 
+
+These failures can occur when: the effects of poor product choices are ambiguous or hidden; and/or no firm has a sufficient incentive to disclose information.
+
+Under such conditions, government regulators can intervene to strengthen the flow of information from producer to consumer. 
+
+A disclosure scheme can either substitute for or supplement, a mandatory regulation.
+
+Example 
+
+People encounter information disclosure almost daily when they see the EPA estimated gas mileage ratings in automobile advertising, the Surgeon's General's health warning on cigarette packages and advertising and in motion picture advisory ratings on the suitability of films for young people. 
+
+There are two basic types of information disclosure: 
+
+1) private, in which the producer discloses the information; and 
+
+2) governmental, in which the government regulator takes the initiative. The degree of government intrusion into the information disclosure process varies with the method used. Advantages 
+
+Information disclosure can be 1) less paternalistic, 2) less costly, and 3) less coercive to manufacturers than mandatory rules. 
+
+Also, it can enhance competition and encourage innovation and high quality goods, services, and practices. 
+
+Example 
+
+The FTC has established standard test procedures for tar and nicotine ratings in cigarettes. Tobacco companies now use these ratings extensively in
+
+their marketing, which reinforces buyer awareness of tobacco health issues and has led to the introduction of newer, ultra-low tar cigarettes.
+
+Applications 
+
+The guidebook describes applications in a wide range of regulatory programs. 
+
+• The National Highway Traffic Safety Administration requires grading and labeling of all new tires. • The Federal Trade Commission requires appliance energy efficiency labels.
+
+The Commodity Futures Trading Commission uses a consumer information system to inform consumers and receive complaints. • The Department of Agriculture uses food grading to categorize agricultural products into different levels of quality. • The Food and Drug Administration has considered requiring patient package inserts for prescription drugs to provide consumers with important information about the drugs. 
+
+Practical Issues 
+
+Practical issues in designing a disclosure strategy include the adequacy of the content of the disclosed information, the form of the disclosure, and implementation issues. It is the choice among options, not the attributes of a particular product or service, that is the real focus of a disclosure effort. 
+
+There are a number of problems that can make disclosed information inadequate for this purpose, including incomplete or imbalanced comparative information, overly technical information or information that contains too much jargon, and test measures that produce unintended incentives. Experience shows that the form of the disclosure is also of crucial importance in informing consumer choice. A key implementation issue is predicated on whether seller incentives are to make the disclosure a part of their meeting strategy or not.
+
+TIERING 
+
+Tiering is the tailoring of regulatory requirements to fit the particular circumstances surrounding requlated entities. 
+
+These diverse circumstances make an across-the-board requirement inappropriate. Treating all regulated entities. businesses, organizations, and governmental jurisdictions -- in an equal manner places unnecessary burdens on entities that do not contribute significantly to the problem a regulation is designed to address.
+
+Example 
+
+Taxpayers comply with the requirements of the Internal Revenue Service each year by filling out Form 1040 or the shorter Form 1040A depending primarily on their level of income. Advantages 
+
+Through tiering an agency can: 1) ensure that its regulatory solutions are apportioned according to the nature of the problem; 
+
+2) alleviate disproportionate impacts and unnecessary or inequitable demands that across-the-board regulations may place on certain classes of entities and; 3) make more efficient use of its own resources.
+
+Example 
+
+To make better use of its limited enforcement resources to where significant problems occur, the 
+
+Occupational Safety and Health Administration targets its scheduled inspections toward those industries or firms that pose higher risks to worker health and safety or for which OSHA has received specific worker complaints.
+
+Applications Tiering can be used in each of the three major components of a regulatory program. 1) The substantive requirements imposed by the regulation.
+
+Example The Department of the Treasury's Bureau of Alcohol, Tobacco, and Firearms believes its current method of setting bond requirements (for tax collection) for users of denatured alcohol has an anticompetitive
+
+2) 3) effect because it requires small users to buy a proportionately higher bond than large users. ATF, therefore, is proposing to amend its bonding requirements to make it easier for new businesses to begin operations and for small businesses to obtain bonds. 
+
+Reporting and recordkeeping requirements.
+
+Example The Civil Aeronautics Board tiers the frequency and scope of reporting and recordkeeping requirements for airlines by both the amount of gross revenues and the size of aircraft. For certificated aircraft, the
+
+CAB has established three classes based on revenue; and air taxi operators, who are uncertified and use only small aircraft, and who have even fewer reporting and virtually no recordkeeping requirements. 
+
+Enforcement and compliance-monitoring efforts.
+
+Example 
+
+In assessing civil penalties under the Federal Insecticide, Fungicide, and Rodenticide Act, the 
+
+Environmental Protection Agency tiers the fines according to gross sales volume. These entities also are tiered according to the relative gravity of the violation, with as many as five levels used for some types of violations.
+
+Tiering Variables 
+
+Traditionally, tiering according to various size measures has been the most prominent use of tiering. However, differentiating by other indicators is also possible.
+
+Size 
+
+Number of employees 
+
+Operating revenues 
+
+Assets 
+
+Market share 
+
+Non-size 
+
+Degree of risk 
+
+Geographic location 
+
+Ability to comply 
+
+Level of Federal funding
+
+Practical Issues 
+
+Possible drawbacks to be avoided in tiering include increased complexity for agency programs; potential adverse impact on competition; delay in the rulemaking process; reduced incentives for more fundamental reform; and legal constraints such as statutory conflict or questions of constitutionality.
+
+ANNOTATED BIBLIOGRAPHY
+
+ANNOTATED BIBLIOGRAPHY General Readings 
+
+Air Pollution Control Association, Northern California Chapter West Coast Section, "Proceedings of A Specialty Confer ence on: Economic Incentives for Clean Air," San Francisco, California, 1981.
+
+A compilation of technical papers, published as presented, on the use of incentives to control air pollution, including emission offsets, banking, bubbling, and emission taxes. 
+
+Baram, Michael S., "Alternatives to Regulation for Managing
+
+Risks to Health, Safety and Environment," Report to the Ford 
+
+Foundation, September 1980.
+
+Discusses the use of alternative measures for the management of risk that do not involve substantive rulemaking. Includes assessments of common law remedies, private self-regulation, insurance and other compensatory plans, and government influence through such means as procurement. Mismatches, Breyer, Stephen G., "Analyzing Regulatory Failure:
+
+Less Restrictive Alternatives, and Reform," 92 Harvard Law 
+
+Review 549, January 1979.
+
+Presents a framework for analysis and reform of economic regulation that focuses on "justification for regulation, modes of classical regulation, and the problems they entail," and "less restrictive alternatives" to regulation, including taxation and disclosure. 
+
+Lodge, George C., "Implications of Ideological Change for Government Regulators." Working paper presented at the Shirtsleeves
+
+Colloquia on Alternative Regulatory Approaches, sponsored by the US Regulatory Council, Washington, D.C., March 5, 1981.
+
+Discusses America's changing ideology and its relationship to the dynamics of regulatory reform.
+
+Presidential Memorandum on Innovative Techniques, Washington, 
+
+June 13, 1980. D.C.
+
+A memorandum from the President to agency heads encouraging the use of innovative regulatory techniques whenever possible in drafting and reviewing regulations.
+
+Schultze, Charles L., The Public Use of Private Interest, Washington, D.C., The Brookings Institution, 1977.
+
+Discusses the appropriate role of regulation in society. 
+
+U.S Department of Commerce, "Alternatives to Regulation: 
+
+Possibilities, Experience, Prospects," by Energy and Environmental Analysis, Inc., for a Regulatory Reform Seminar, Washington, D.C., October 1978.
+
+Surveys alternatives (e.g., incentives or market-based approaches and information methods) to direct Federal regulation in three hypothetical cases involving air pollution, industrial hazards, and driver safety.
+
+U.S Department of Health and Human Services, Public Health Service, Food and Drug Administration, "Flexible Regulatory Alternatives: A Guide for FDA Managers, Regulation Writers, and Developers," Washington, D.C., 1981.
+
+Designed to help FDA managers and regulation writers and developers find the most effective and efficient solutions to regulatory problems through the use of flexible alternatives. 
+
+U.S. Environmental Protection Agency, "Checklist of Regulatory 
+
+Alternatives," Washington, D.C., July 1980.
+
+A summary of alternatives to traditional regulation for use in environmental and other Federal, State, and local programs. 
+
+Includes an analytical section describing the nature, advantages, and disadvantages of more than 40 regulatory options, and the most appropriate situations for their use.
+
+U.S. Office of Management and Budget, "Interim Regulatory Impact Analysis Guidance, Washington, D.C., June 12, 1981. 
+
+11 
+
+Provides guidance to agencies for implementing the Executive
+
+Order on Federal Regulation (E.O. 12291) Section 2 requires the agencies to examine alternative approaches.
+
+U.S. Regulatory Council, "Compilation of Agency Responses to President Carter's June 13, 1980 Directive on Innovative 
+
+Techniques," Washington, D.C., September 1980.
+
+Agency progress report on implementing the Presidential diective on alternative regulatory approaches. Includes responses from the following agencies: ACUS, USDA, DOC, DOE,
+
+HHS, HUD, DOI, TREAS, EPA, EEOC, GSA, NCUA, SBA, VA, CFTC, 
+
+FCC, FDIC, FERC, FMC, ICC, SEC.
+
+U.S. Regulatory Council, "Innovative Techniques in Theory and Practice: Proceedings of a Regulatory Council Confer ence," Washington, D. C., January 1981.
+
+A summary of eight July 1980 workshops in which agency practitioners exchanged information about their experiences with less traditional forms of regulations (i.e., marketable rights, performance standards, monetary incentives, information disclosure, tiering, compliance reform, voluntary standards, and enhanced competition). 
+
+Includes "Regulation and the Imagination," an address by Alfred E. Kahn. 
+
+• U.S Regulatory Council, "An Inventory of Innovative Tech niques, "Washington, D.C., April 1980.
+
+A description of 66 early applications of alternative regulatory approaches, written for the lay public. "1 
+
+U.S Regulatory Council, "Regulating with Common Sense: A Progress Report on Innovative Regulatory Techniques, Wash ington, D.C, 1980.
+
+A summary report on Government-wide progress in implementing President Carter's June 13, 1980 directive on alternative regulatory approaches.
+
+Marketable Rights Cos tonis, John, "Development Rights Transfer: An Explor atory Essay, "83 Yale Law Journal 75, 1973.
+
+General discussion of trends in the land-use field and how they led to transferable development rights (TDR) implementation in New York City, Puerto Rico, and Chicago. Considers how a TDR system operates, its advantages, and legal ramifications of the market.
+
+Crandall, Robert W., "Marketable Rights as an Alternative to Direct Regulation," working paper presented at the 
+
+Shirtsleeves Colloquia on Alternative Regulatory Approaches, sponsored by the U.S Regulatory Council, Washington, D.C., December 19, 1980.
+
+Discusses the case for regulating pollution by fees rather than emission quantities (i.e., direct controls) and the implications of proposed emission fees and the offset policy. 
+
+Hahn, Robert and Noll, Roger, "Implementing Tradeable Emission Permits," paper prepared for the Conference on Reform ing Government Regulation: Alternative Strategies to Social Regulatory Policy, February 1981. 
+
+Reports the results of an ongoing California Institute of Technology research project that is addressed to the problems of setting up an efficient market in emissions permits. Focuses primarily on implementation problems with particulate sulfates in the Los Angeles air shed.
+
+Jackson, Charles Lee, "The Allocation of the Radio Spectrum," Scientific American, Vol. 242, No. 2, p 34, 2, p 
+
+February 1980.
+
+Technical and economic discussion of alternative methods of allocating radio frequencies, including user fees and incentives to develop new technologies. 
+
+James, Franklin and Gale, Dennis, Zoning for Sale: A Crit ical Analysis of Transferable Development Rights Programs 
+
+Washington, D. C.; The Urban Institute, 1977.
+
+Brief general discussion on transferable development rights (TDR). Major focus is administrative and definitional problems in establishing a TDR system: What are development rights? How are they initially allocated? 
+
+Noll, Roger, "Implementing Tradeable Permits," working paper presented at the Shirtsleeves Colloquia on Regulatory 
+
+Alternatives Approaches, sponsored by the U.S. Regulatory 
+
+Council, Washington, D.C., March 19, 1981. 
+
+A discussion of six issues in implementing "tradeable permits" as an alternative to allocation of burdens and benefits by regulatory agency commands, based on a model of trading licenses to emit pollutants in the Los 
+
+Angeles air basin.
+
+Oates, Wallace E., "The Use of Market Incentives for the
+
+Improvement of Air Quality in Maryland," working paper presented at the Shirtsleeves Colloquia on Alternative 
+
+Regulatory Approaches, sponsored by the U.S Regulatory 
+
+Council, Washington, D.C., February 19, 1981.
+
+Discusses the design and implementation of a system of marketable air pollution rights to improve air quality in Maryland.
+
+Polynomics Research Laboratories, Inc., "Alternative Methods of Allocating Airport Slots: Performance and Evaluation, Prepared for the Civil Aeronautics Board, Washington, D.C 
+
+August 19 79.
+
+An analysis of alternative methods of allocating scarce airport capacity (slots) among competing airlines, including:1) sealed bids; 2) computerized aftermarket; and 3) a gradual introduction. Discusses the existing process of allocating airport capacity.
+
+U.S. Environmental Protection Agency, "Emission Reduction 
+
+Banking Manual, "Washington, D.C., September 1980 
+
+Provides guidance to State and local agencies developing banking programs. Explains basic administrative steps and design options.
+
+U.S. Environmental Protection Agency, "Parallel Goals: 
+
+Clean Air and Economic Development, Washington, D.C., March 1980. 
+
+Outlines EPA strategies for attaining clean air and economic growth in urban areas, including emissions offsets trading and banking, and the bubble.
+
+U.S. Environmental Protection Agency, "Smarter Regulation," 
+
+Washington, D.C., 1981.
+
+Describes new approaches to environmental regulation that let companies find better, more efficient, less costly ways of meeting regulatory goals through three key mechanisms: bubble, offsets, and banking.
+
+U.S. Federal Communications Commisssion, "Frequency Spectrum Deregulation Alternatives," by Douglas Webbink, Washington, D.C., October 1980.
+
+Discusses the current frequency management system and its problems. Evaluates several deregulatory alternatives: 
+
+sharing of frequency allocations, transferable permits, removing use distinctions, instituting spectrum fees. 
+
+Considers arguments against spectrum deregulation.
+
+Performance Standards 
+
+Hemenway, David, "Performance vs. Design Standards, working paper presented at the Shirtsleeves Colloquia on Alternative 
+
+Regulatory Approaches, sponsored by the U.S. Regulatory 
+
+Council, Washington, D.C., October 1980.
+
+Compares and contrasts performance and design standards from an economic perspective. Also describes the characteristics of performance standards, explains why they are not used more often, and discusses particular areas where they may be appropriate. 11 
+
+Heyman, Mat, "Fire Safety for Health Care Facilities: 
+
+Cutting Costs Without Cutting Corners, Dimensions/NBS, 
+
+July/August 1979.
+
+Discusses the National Bureau of Standards' Fire Safety 
+
+Evaluation System, a performance-oriented analytical technique for evaluating the level of fire safety in buildings.
+
+Landau, Jack L., "Economic Dream or Environmental Nightmare? 
+
+The Legality of the 'Bubble Concept' in Air and Water 
+
+Pollution Control," 8 Boston College Environmental Affairs 
+
+Law Review 741, 1980.
+
+Discusses an alternative emission reduction options policy that would allow a plant to reduce its total emissions to a legal level in the most cost effective way.
+
+Lave, Lester B., "Enhanced Compliance Through Biological
+
+Monitoring," working paper presented at the Shirtsleeves Colloquia on Alternative Regulatory Approaches, sponsored by the U.S. Regulatory Council, Washington, D.C., November 
+
+20, 1980.
+
+Discusses an example of how to measure the outcomes of human exposure to hazardous substances as they travel the chain from emission to ambient level to dose level to health effects.
+
+MacAvoy, Paul W., editor, OSHA Safety Regulation, Report of the Presidential Task Force, Washington, D.C., Amer ican Enterprise Institute for Public Policy Research, 1977.
+
+Report of a Ford Administration task force on OSHA safety regulations. Encouraged use of a flexible approach to regulating hazards.
+
+U.S. Department of Commerce, National Bureau of Standards, "Cost-Effective Methods for Achieving Compliance to Fire- 
+
+Safety Codes," by Robert E. Chapman, by Robert E. Chapman, Washington, D.C., September 1979.
+
+Outlines a computerized version of the Fire Safety Eval uation System that permits the least-cost means of achieving compliance with the Life Safety Code in health care facilities.
+
+U.S. Department of Commerce, National Bureau of Standards, 
+
+"Performance v. Design Standards," by David Hemenway, Washington, D.C., 1980.
+
+A study of the pros and cons of both performance and design. standards and the current thinking on this issue. 
+
+U.S. Department of Commerce, National Bureau of Standards, "Regulatory Use of Standards: Implications for Standards 
+
+Writers," by Philip Harter, Washington, D.C., 1979.
+
+A study suggesting to private standards-writers how they might write standards that would be acceptable for use in regulatory programs. One chapter includes a discussion of performance standards.
+
+"1 
+
+U.S. Environmental Protection Agency, "Parallel Goals: 
+
+Clean Air and Economic Development, Washington, D.C., 
+
+March 1980.
+
+Outlines EPA strategies for attaining clean air and economic growth in urban areas, including emissions offsets trading and banking, and the bubble.
+
+U.S. Environmental Protection Agency, "How to Use the Bubble Policy: A Handbook for Industry," Washington, 
+
+D.C., February 1981 (draft).
+
+Describes the process for developing and implementing the bubble from the point of view of industry. Overview of the bubble policy, summary of the process for obtaining bubbles, identifying opportunities. 
+
+Monetary Incentives 
+
+Baumol, William J. and Oates, Wallace E., The Theory of
+
+Environmental Policy: Externalities, Public Outlays, and the Quality of Life, Englewood Cliffs, New Jersey) 
+
+Prentice-Hall, Inc., 1975.
+
+A theoretical analysis, primarily addressed to economists, of the economics of externalities. 
+
+Clark, Timothy B., "What Looks and Feels Like a Tax But 
+
+Isn't a Tax? 'User Fees,' Says OMB," National Journal, pp. 978-82, May 30, 1981.
+
+A non-technical discussion of user fees. Includes several examples and a discussion of their relative merits. 
+
+Dienemann, Paul F. and Lago, Amanda L., "User Taxes and
+
+Allocations of United States Airport and Airway System Costs, Journal of Transportation Economic Policy, vol. 
+
+10(1), pp. 26-51, January 1976. 
+
+Dorfman, Robert and Dorfman, Nancy, eds., Economics of the Environment, New York, W.W. Norton, 1977.
+
+Contains 26 selected articles dealing with environmental policy issues, e.g., e.g., measurement of the cost and benefits of pollution, and the divergence of social and private objectives.
+
+"I 
+
+Drayton, William, "Economic Law Enforcement, 4 Harvard
+
+Environmental Law Review 1, 1980. 
+
+Discusses Connecticut's enforcement program that recaptures the gains realized from noncompliance by charging violators amounts just sufficient to make compliance as economically attractive as profitable commercial expenditures, thereby denying scofflaws the unfair advantage they would otherwise have over law-abiding competitors. 
+
+Ruff, Larry E., "The Economic Common Sense of Pollution,"
+
+The Public Interest, No. 19, Spring 1970. 
+
+Contains a non-technical discussion of the economics of pollution, emphasizing how taxes can be used to limit efficiently the amount of pollution. 
+
+Smith, Fred Lee, Jr., "Pollution Charges: The Applied
+
+Literature," U.S. Environmental Protection Agency, 
+
+Washington, D.C., 1977.
+
+Annotated bibliography of literature on pollution charges. 
+
+U.S. Congress, Senate, Committee on Environment and Public 
+
+Works, "Pollution Taxes, Effluent Charges, and Other Alternatives for Pollution Control," 95th Cong., 1st sess., 1977.
+
+A Congressional Research Service Report containing 56 arti cles discussing the economics of pollution and various regulatory schemes, including taxes and charges. 
+
+U.S. General Accounting Office, "The Congress Should Consider Exploring Opportunities to Expand and Improve the Application of User Charges by Federal Agencies," Washington, D.C., 1980.
+
+Discusses user fees in detail. Includes an economic analysis of the fees and numerous examples of where user fees have been and could be used.
+
+Information Disclosure 
+
+Beales, Howard; Craswell, Richard; and Salop, Steven, "The
+
+Efficient Regulation of Consumer Information," Journal of Law and Economics, October, 1981. 
+
+Presents a theory about the different ways in which the government could rely on competitive forces in industry to supply consumer information. 
+
+Beltman, "Consumer Information Acquisition and Search Strategies," in The Effect of Information on Consumer and 
+
+Market Behavior, edited by A.A. Mitchell, 1978.
+
+A summary of research about consumers' ability to receive and assimilate information. 
+
+Demkovich, Linda A., "FDA in Hot Water Again Over Cost of
+
+Proposed Drug Labeling Rules," National Journal, pp. 
+
+1568-70, September 22, 1979.
+
+Discusses FDA's program for prescription package inserts listing side effects of 375 drugs, and drug manufacturers and pharmacists response that FDA is understating the cost. 
+
+Nayak, Prabhakeh and Rosenberg, Larry J., "Does Open Dating of Food Products Benefit the Consumer?" Journal of Retailing, 51:10-20, Summer 1975.
+
+Surveys studies on the technical validity of open dating, its impact on retailing practices and performance, and its effects on consumer experience and attitudes. "1 
+
+Reich, Robert, "Toward a New Consumer Protection," 127 
+
+University of Pennsylvania Law Review 1, 1979.
+
+A legal and economic framework for judging how far government should go in regulating consumer information. 
+
+Salop, Steven, "Information and Monopolistic Competition," 
+
+66 American Economic Review 240, 1976.
+
+An economic analysis of incentives to provide consumer information by sellers who have some degree of monopolistic power.
+
+Schwartz, Alan and Wilde, Louise, "Intervening in Markets on the Basis of Imperfect Information: A Legal and Economic Analysis," 127 University of Pennsylvania Law Review 
+
+630, 1979.
+
+An analysis of how the consumer information market responds to different degrees and types of searching for information by consumers.
+
+U.S. Department of Commerce, National Bureau of Standards, "Labeling The State of the Art," Washington, D. C., 1978. 
+
+Summarizes the literature on the labeling of consumer products and services.
+
+U.S. Federal Trade Commission, "Consumer Information Remedies,' 
+
+Staff Report, Washington, D.C., 1979.
+
+A compendium of marketing and economic analyses relating to the question of government regulation of information. 
+
+Tiering Presidential Memorandum on Regulatory Flexibility, November 16, 1980.
+
+A memorandum from the President to agency heads encouraging them to take into account the size and nature of regulated entities in drafting or reviewing regulations. 
+
+Regulatory Flexibility Act, P.L. 96-354, 94 Stat. 1164; 
+
+5 U.S.C. S$601-612.
+
+Requires agencies to consider flexible alternatives for regulations that have a significant economic impact on a substantial number of small entities. 
+
+Stewart, Milton D., "The New Regulatory Flexibility Act, 
+
+American Bar Association Journal, vol. 6, pp. 6-8, January 1981.
+
+Discusses provisions of the Regulatory Flexibility Act, as it amends the Administrative Procedure Act, to require agencies to consider the impact on "small entities."
+
+PROJECT ON ALTERNATIVE REGULATORY APPROACHES 
+
+The Project on Alternative Regulatory Approaches was a 2-year project initiated by the former U.S. Regulatory Council and completed in September 1981. The Project promoted alternative, market-oriented regulatory strategies. Alternative regulatory approaches are departures from traditional "commandand-control" regulation, which involves strictly specified and formal government sanctions for failure to comply. 
+
+Market-oriented alternatives avoid unneeded governmental restraints and permit greater private discretion in choosing how to meet regulatory objectives. Among these alternative approaches are marketable rights, performance standards, monetary incentives, information disclosure, and tiering.
+
+Additional information on alternatives, including data on over 300 specific agency experiences with alternative approaches, is now available at: 
+
+Administrative Conference of the United States 
+
+2120 L Street, N.W. 
+
+Suite 500 
+
+Washington, D.C. 20037 (202) 254-7020
+
+PROJECT ON ALTERNATIVE REGULATORY APPROACHES AVAILABLE DOCUMENTS Guidebook Series on Alternative Regulatory Approaches, September 1981 -- A series of guidebooks for regulators on market-oriented regulatory techniques. Each guidebook summarizes the advantages, preconditions, and limitations of a particular technique. The series comprises: 
+
+1) Alternative Regulatory Approaches: An Overview 2) Marketable Rights 3) Performance Standards 
+
+4) Monetary Incentives 
+
+5) Information Disclosure 
+
+6) Tiering
+
+Minutes from the Project colloquium series for regulators, September 1981 Summaries of ten presentations by lead ing regulatory scholars, including Robert Crandall of the 
+
+Brookings Institution, Marvin Kosters of the American 
+
+Enterprise Institute, and Roger Noll of the California
+
+Institute of Technology. 
+
+Bibliography, September 1981 -- A listing of about 100 
+
+publications covering alternative regulatory approaches.
+
+Resource Center File Listings, September 1981 -- A list of approximately 300 Federal applications of alternative regulatory approaches for which there are files currently available for agency and public review. 
+
+"Innovative Techniques in Theory and Practice: Proceedings of a Regulatory Council Conference, January 1981, 49 pp. -- A summary of eight July 1980 workshops in which agency practitioners provided information on their experience with less traditional forms of regulation. Includes "Regulation and the Imagination," a conference address by
+
+Alfred E. Kahn. 
+
+11 
+
+"Regulating with Common Sense: A Progress Report on Inno vative Regulatory Techniques, October 1980, 19 pp.
+
+A summary report to the President on Government-wide progress in implementing his June 13, 1980 directive to agencies on alternative approaches. 
+
+"An Inventory of Innovative Techniques," April 1980, 47 pp.
+
+A description of 66 early applications of alternative approaches, written for the lay public.
+
+Single copies of these documents can be obtained from: 
+
+Administrative Conference of the United States 
+
+2120 L Street, N.W.
+
+Suite 500 
+
+Washington, D.C. 20037 (202) 254-7270
+
+HARVARD LAW LIBRARY 
+
+3 2044 057 502 726
+
+HARVARD LAW SCHOOL LIBRARY DATE DUE 
+
+FEB 15 2009 
+
+GAYLORD

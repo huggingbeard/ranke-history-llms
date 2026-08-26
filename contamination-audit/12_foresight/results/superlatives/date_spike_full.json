@@ -1,0 +1,666 @@
+{
+ "1913": {
+  "known": {
+   "French Revolution": {
+    "p_true": 0.9976,
+    "argmax": 1789,
+    "spike": 6621.98
+   },
+   "Battle of Waterloo": {
+    "p_true": 0.995,
+    "argmax": 1815,
+    "spike": 3174.06
+   },
+   "Victoria crowned": {
+    "p_true": 0.981,
+    "argmax": 1837,
+    "spike": 827.95
+   },
+   "Revolutions of 1848": {
+    "p_true": 0.9833,
+    "argmax": 1848,
+    "spike": 941.69
+   },
+   "Crimean War": {
+    "p_true": 0.9255,
+    "argmax": 1854,
+    "spike": 198.77
+   },
+   "US Civil War began": {
+    "p_true": 0.9768,
+    "argmax": 1861,
+    "spike": 674.34
+   },
+   "Emancipation Proclamation": {
+    "p_true": 0.4287,
+    "argmax": 1862,
+    "spike": 12.01
+   },
+   "Lincoln assassinated": {
+    "p_true": 0.9855,
+    "argmax": 1865,
+    "spike": 1090.84
+   },
+   "Franco-Prussian War": {
+    "p_true": 0.9961,
+    "argmax": 1870,
+    "spike": 4119.37
+   },
+   "Bell's telephone": {
+    "p_true": 0.9881,
+    "argmax": 1876,
+    "spike": 1325.74
+   },
+   "Edison's light bulb": {
+    "p_true": 0.0521,
+    "argmax": 1876,
+    "spike": 0.88
+   },
+   "Berlin Conference": {
+    "p_true": 0.012,
+    "argmax": 1885,
+    "spike": 0.2
+   },
+   "Eiffel Tower": {
+    "p_true": 0.4889,
+    "argmax": 1889,
+    "spike": 15.3
+   },
+   "Spanish-American War": {
+    "p_true": 0.9901,
+    "argmax": 1898,
+    "spike": 1604.57
+   },
+   "Victoria died": {
+    "p_true": 0.8383,
+    "argmax": 1901,
+    "spike": 82.95
+   },
+   "Wright brothers fly": {
+    "p_true": 0.0697,
+    "argmax": 1908,
+    "spike": 1.2
+   },
+   "Russo-Japanese War": {
+    "p_true": 0.9393,
+    "argmax": 1905,
+    "spike": 247.74
+   },
+   "San Francisco quake": {
+    "p_true": 0.9424,
+    "argmax": 1906,
+    "spike": 261.76
+   },
+   "Titanic sinks": {
+    "p_true": 0.751,
+    "argmax": 1912,
+    "spike": 48.26
+   }
+  },
+  "null": {
+   "*Treaty of Kesselheim": {
+    "p_true": 0.0189,
+    "argmax": 1881,
+    "spike": 0.31
+   },
+   "*Battle of Verronne": {
+    "p_true": 0.0018,
+    "argmax": 1902,
+    "spike": 0.03
+   },
+   "*novelist Aldous Brennt": {
+    "p_true": 0.0483,
+    "argmax": 1880,
+    "spike": 0.81
+   },
+   "*Morvenia canal": {
+    "p_true": 0.049,
+    "argmax": 1870,
+    "spike": 0.82
+   },
+   "*composer Reinhardt Voss": {
+    "p_true": 0.0717,
+    "argmax": 1890,
+    "spike": 1.23
+   },
+   "*city of Halveston": {
+    "p_true": 0.1742,
+    "argmax": 1850,
+    "spike": 3.37
+   },
+   "*Marlowe Exhibition": {
+    "p_true": 0.0426,
+    "argmax": 1898,
+    "spike": 0.71
+   },
+   "*philosopher Emeric Tolliver": {
+    "p_true": 0.0524,
+    "argmax": 1850,
+    "spike": 0.88
+   },
+   "*Kingdom of Astravia": {
+    "p_true": 0.0773,
+    "argmax": 1870,
+    "spike": 1.34
+   },
+   "*fire of Pemberton": {
+    "p_true": 0.0124,
+    "argmax": 1877,
+    "spike": 0.2
+   },
+   "*explorer Cornelius Bathe": {
+    "p_true": 0.0551,
+    "argmax": 1910,
+    "spike": 0.93
+   },
+   "*University of Kelmswick": {
+    "p_true": 0.0149,
+    "argmax": 1854,
+    "spike": 0.24
+   },
+   "*painter Ottoline Crest": {
+    "p_true": 0.0586,
+    "argmax": 1900,
+    "spike": 1.0
+   },
+   "*Wharton Canal": {
+    "p_true": 0.0566,
+    "argmax": 1870,
+    "spike": 0.96
+   },
+   "*statesman Aurelio Manx": {
+    "p_true": 0.0462,
+    "argmax": 1890,
+    "spike": 0.78
+   }
+  },
+  "test": {
+   "First World War began": {
+    "p_true": 0.7195,
+    "argmax": 1914,
+    "spike": 41.05,
+    "true": 1914,
+    "grp": "1914-29"
+   },
+   "Bolsheviks seized power": {
+    "p_true": 0.8859,
+    "argmax": 1917,
+    "spike": 124.24,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "US entered the war": {
+    "p_true": 0.0064,
+    "argmax": 1914,
+    "spike": 0.1,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "Armistice ends WWI": {
+    "p_true": 0.1578,
+    "argmax": 1913,
+    "spike": 3.0,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Spanish flu": {
+    "p_true": 0.3524,
+    "argmax": 1919,
+    "spike": 8.71,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Treaty of Versailles": {
+    "p_true": 0.0124,
+    "argmax": 1913,
+    "spike": 0.2,
+    "true": 1919,
+    "grp": "1914-29"
+   },
+   "German hyperinflation": {
+    "p_true": 0.0278,
+    "argmax": 1920,
+    "spike": 0.46,
+    "true": 1923,
+    "grp": "1914-29"
+   },
+   "Lindbergh's flight": {
+    "p_true": 0.0886,
+    "argmax": 1919,
+    "spike": 1.55,
+    "true": 1927,
+    "grp": "1914-29"
+   },
+   "Wall Street Crash": {
+    "p_true": 0.0765,
+    "argmax": 1925,
+    "spike": 1.33,
+    "true": 1929,
+    "grp": "1914-29"
+   },
+   "Hitler made Chancellor": {
+    "p_true": 0.1262,
+    "argmax": 1933,
+    "spike": 2.31,
+    "true": 1933,
+    "grp": "WW2/atomic"
+   },
+   "Second World War began": {
+    "p_true": 0.0218,
+    "argmax": 1931,
+    "spike": 0.36,
+    "true": 1939,
+    "grp": "WW2/atomic"
+   },
+   "Pearl Harbor": {
+    "p_true": 0.0622,
+    "argmax": 1939,
+    "spike": 1.06,
+    "true": 1941,
+    "grp": "WW2/atomic"
+   },
+   "D-Day landings": {
+    "p_true": 0.1,
+    "argmax": 1944,
+    "spike": 1.78,
+    "true": 1944,
+    "grp": "WW2/atomic"
+   },
+   "Hiroshima atomic bomb": {
+    "p_true": 0.1791,
+    "argmax": 1940,
+    "spike": 3.49,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Second World War ended": {
+    "p_true": 0.3458,
+    "argmax": 1945,
+    "spike": 8.46,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Brown v. Board": {
+    "p_true": 0.0562,
+    "argmax": 1947,
+    "spike": 0.95,
+    "true": 1954,
+    "grp": "civil rights"
+   },
+   "Montgomery bus boycott": {
+    "p_true": 0.0495,
+    "argmax": 1950,
+    "spike": 0.83,
+    "true": 1955,
+    "grp": "civil rights"
+   },
+   "MLK 'I Have a Dream'": {
+    "p_true": 0.0475,
+    "argmax": 1960,
+    "spike": 0.8,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "JFK assassinated": {
+    "p_true": 0.0487,
+    "argmax": 1961,
+    "spike": 0.82,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "Civil Rights Act": {
+    "p_true": 0.6257,
+    "argmax": 1964,
+    "spike": 26.75,
+    "true": 1964,
+    "grp": "civil rights"
+   },
+   "MLK assassinated": {
+    "p_true": 0.0328,
+    "argmax": 1966,
+    "spike": 0.54,
+    "true": 1968,
+    "grp": "civil rights"
+   },
+   "Moon landing": {
+    "p_true": 0.0378,
+    "argmax": 1974,
+    "spike": 0.63,
+    "true": 1969,
+    "grp": "civil rights"
+   }
+  }
+ },
+ "1929": {
+  "known": {
+   "French Revolution": {
+    "p_true": 0.9966,
+    "argmax": 1789,
+    "spike": 4630.84
+   },
+   "Battle of Waterloo": {
+    "p_true": 0.997,
+    "argmax": 1815,
+    "spike": 5349.84
+   },
+   "Victoria crowned": {
+    "p_true": 0.9788,
+    "argmax": 1837,
+    "spike": 740.36
+   },
+   "Revolutions of 1848": {
+    "p_true": 0.9833,
+    "argmax": 1848,
+    "spike": 941.75
+   },
+   "Crimean War": {
+    "p_true": 0.9372,
+    "argmax": 1854,
+    "spike": 238.68
+   },
+   "US Civil War began": {
+    "p_true": 0.9969,
+    "argmax": 1861,
+    "spike": 5119.6
+   },
+   "Emancipation Proclamation": {
+    "p_true": 0.7443,
+    "argmax": 1863,
+    "spike": 46.57
+   },
+   "Lincoln assassinated": {
+    "p_true": 0.9874,
+    "argmax": 1865,
+    "spike": 1257.57
+   },
+   "Franco-Prussian War": {
+    "p_true": 0.9973,
+    "argmax": 1870,
+    "spike": 5990.82
+   },
+   "Bell's telephone": {
+    "p_true": 0.9526,
+    "argmax": 1876,
+    "spike": 321.86
+   },
+   "Edison's light bulb": {
+    "p_true": 0.1258,
+    "argmax": 1880,
+    "spike": 2.3
+   },
+   "Berlin Conference": {
+    "p_true": 0.0968,
+    "argmax": 1885,
+    "spike": 1.72
+   },
+   "Eiffel Tower": {
+    "p_true": 0.6798,
+    "argmax": 1889,
+    "spike": 33.97
+   },
+   "Spanish-American War": {
+    "p_true": 0.9894,
+    "argmax": 1898,
+    "spike": 1496.34
+   },
+   "Victoria died": {
+    "p_true": 0.391,
+    "argmax": 1897,
+    "spike": 10.27
+   },
+   "Wright brothers fly": {
+    "p_true": 0.118,
+    "argmax": 1908,
+    "spike": 2.14
+   },
+   "Russo-Japanese War": {
+    "p_true": 0.9753,
+    "argmax": 1905,
+    "spike": 630.93
+   },
+   "San Francisco quake": {
+    "p_true": 0.7701,
+    "argmax": 1906,
+    "spike": 53.61
+   },
+   "Titanic sinks": {
+    "p_true": 0.8398,
+    "argmax": 1912,
+    "spike": 83.87
+   }
+  },
+  "null": {
+   "*Treaty of Kesselheim": {
+    "p_true": 0.0536,
+    "argmax": 1884,
+    "spike": 0.91
+   },
+   "*Battle of Verronne": {
+    "p_true": 0.1373,
+    "argmax": 1912,
+    "spike": 2.55
+   },
+   "*novelist Aldous Brennt": {
+    "p_true": 0.0505,
+    "argmax": 1880,
+    "spike": 0.85
+   },
+   "*Morvenia canal": {
+    "p_true": 0.0495,
+    "argmax": 1870,
+    "spike": 0.83
+   },
+   "*composer Reinhardt Voss": {
+    "p_true": 0.0705,
+    "argmax": 1890,
+    "spike": 1.21
+   },
+   "*city of Halveston": {
+    "p_true": 0.0482,
+    "argmax": 1848,
+    "spike": 0.81
+   },
+   "*Marlowe Exhibition": {
+    "p_true": 0.0524,
+    "argmax": 1885,
+    "spike": 0.88
+   },
+   "*philosopher Emeric Tolliver": {
+    "p_true": 0.0553,
+    "argmax": 1850,
+    "spike": 0.94
+   },
+   "*Kingdom of Astravia": {
+    "p_true": 0.1231,
+    "argmax": 1870,
+    "spike": 2.25
+   },
+   "*fire of Pemberton": {
+    "p_true": 0.0132,
+    "argmax": 1876,
+    "spike": 0.21
+   },
+   "*explorer Cornelius Bathe": {
+    "p_true": 0.0379,
+    "argmax": 1910,
+    "spike": 0.63
+   },
+   "*University of Kelmswick": {
+    "p_true": 0.0506,
+    "argmax": 1845,
+    "spike": 0.85
+   },
+   "*painter Ottoline Crest": {
+    "p_true": 0.0387,
+    "argmax": 1895,
+    "spike": 0.64
+   },
+   "*Wharton Canal": {
+    "p_true": 0.0855,
+    "argmax": 1869,
+    "spike": 1.5
+   },
+   "*statesman Aurelio Manx": {
+    "p_true": 0.0574,
+    "argmax": 1890,
+    "spike": 0.97
+   }
+  },
+  "test": {
+   "First World War began": {
+    "p_true": 0.999,
+    "argmax": 1914,
+    "spike": 15500.56,
+    "true": 1914,
+    "grp": "1914-29"
+   },
+   "Bolsheviks seized power": {
+    "p_true": 0.9751,
+    "argmax": 1917,
+    "spike": 625.5,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "US entered the war": {
+    "p_true": 0.9774,
+    "argmax": 1917,
+    "spike": 691.54,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "Armistice ends WWI": {
+    "p_true": 0.9412,
+    "argmax": 1918,
+    "spike": 256.33,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Spanish flu": {
+    "p_true": 0.9962,
+    "argmax": 1918,
+    "spike": 4175.38,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Treaty of Versailles": {
+    "p_true": 0.9894,
+    "argmax": 1919,
+    "spike": 1499.54,
+    "true": 1919,
+    "grp": "1914-29"
+   },
+   "German hyperinflation": {
+    "p_true": 0.2695,
+    "argmax": 1924,
+    "spike": 5.9,
+    "true": 1923,
+    "grp": "1914-29"
+   },
+   "Lindbergh's flight": {
+    "p_true": 0.0039,
+    "argmax": 1919,
+    "spike": 0.06,
+    "true": 1927,
+    "grp": "1914-29"
+   },
+   "Wall Street Crash": {
+    "p_true": 0.0857,
+    "argmax": 1921,
+    "spike": 1.5,
+    "true": 1929,
+    "grp": "1914-29"
+   },
+   "Hitler made Chancellor": {
+    "p_true": 0.0288,
+    "argmax": 1925,
+    "spike": 0.48,
+    "true": 1933,
+    "grp": "WW2/atomic"
+   },
+   "Second World War began": {
+    "p_true": 0.7381,
+    "argmax": 1939,
+    "spike": 45.08,
+    "true": 1939,
+    "grp": "WW2/atomic"
+   },
+   "Pearl Harbor": {
+    "p_true": 0.2207,
+    "argmax": 1940,
+    "spike": 4.53,
+    "true": 1941,
+    "grp": "WW2/atomic"
+   },
+   "D-Day landings": {
+    "p_true": 0.0942,
+    "argmax": 1945,
+    "spike": 1.66,
+    "true": 1944,
+    "grp": "WW2/atomic"
+   },
+   "Hiroshima atomic bomb": {
+    "p_true": 0.0943,
+    "argmax": 1953,
+    "spike": 1.67,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Second World War ended": {
+    "p_true": 0.6011,
+    "argmax": 1945,
+    "spike": 24.11,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Brown v. Board": {
+    "p_true": 0.0638,
+    "argmax": 1946,
+    "spike": 1.09,
+    "true": 1954,
+    "grp": "civil rights"
+   },
+   "Montgomery bus boycott": {
+    "p_true": 0.0667,
+    "argmax": 1960,
+    "spike": 1.14,
+    "true": 1955,
+    "grp": "civil rights"
+   },
+   "MLK 'I Have a Dream'": {
+    "p_true": 0.0504,
+    "argmax": 1960,
+    "spike": 0.85,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "JFK assassinated": {
+    "p_true": 0.0495,
+    "argmax": 1960,
+    "spike": 0.83,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "Civil Rights Act": {
+    "p_true": 0.2283,
+    "argmax": 1957,
+    "spike": 4.73,
+    "true": 1964,
+    "grp": "civil rights"
+   },
+   "MLK assassinated": {
+    "p_true": 0.0129,
+    "argmax": 1960,
+    "spike": 0.21,
+    "true": 1968,
+    "grp": "civil rights"
+   },
+   "Moon landing": {
+    "p_true": 0.0297,
+    "argmax": 1970,
+    "spike": 0.49,
+    "true": 1969,
+    "grp": "civil rights"
+   }
+  }
+ }
+}

@@ -1,0 +1,1649 @@
+KF 9685 .P373 1981
+
+HARVARD LAW LIBRARY 
+
+3 2044 061 195 996 RECEIVED 
+
+AUISITIONS DEPARTMENT HARVARD LAW SCHOOL LIBRARY Education and Training Series 
+
+The Sentencing Options of 
+
+Federal District Judges Federal Judicial Center HARVARD- LAW LIBRARY
+
+THE FEDERAL JUDICIAL CENTER Board The Chief Justice of the United States Chairman 
+
+Judge John C. Godbold
+
+United States Court of Appeals for the Fifth Circuit 
+
+Judge Aubrey E. Robinson, Jr.
+
+United States District Court 
+
+District of Columbia
+
+Chief Judge William S. Sessions United States District Court Western District of Texas 
+
+Judge William Hughes Mulligan
+
+United States Court of Appeals for the Second Circuit 
+
+Judge Donald S. Voorhees
+
+United States District Court Western District of Washington 
+
+Judge Lloyd D. George 
+
+United States Bankruptcy Court 
+
+District of Nevada 
+
+William E. Foley
+
+Director of the Administrative 
+
+Office of the United States Courts 
+
+Kenneth C. Crawford
+
+Continuing Education and Training 
+
+Jack R. Buchanan
+
+Innovations and Systems Development 
+
+Director
+
+A. Leo Levin 
+
+Deputy Director 
+
+Charles W. Nihan
+
+Division Directors 
+
+Assistant Director
+
+Russell R. Wheeler 
+
+William B. Eldridge Research 
+
+Alice L. O'Donnell
+
+Inter-Judicial Affairs and Information Services 
+
+1520 H Street, N.W. 
+
+Washington, D.C. 20005
+
+Telephone 202/633-6011 30 
+
+STO
+
+THE SENTENCING OPTIONS OF FEDERAL DISTRICT JUDGES By Anthony Partridge, Alan J. Chaset, and 
+
+William B. Eldridge
+
+The Federal Judicial Center Research Division November 1979 Revision of February 1981 
+
+Ham Dep
+
+KF This publication is a product of continuing study undertaken in furtherance of the Center's statutory mission to conduct and stimulate research on matters of judicial administration. The selection and presentation of materials reflect the judgment of the authors. This work has been subjected to staff review within the Center, and its publication signifies that the Center regards it as responsible and valuable. It should be noted, however, that on matters of policy the Center speaks only through its Board. 9685 p 373 1981
+
+ETS-79-2
+
+SIGNIFICANT CHANGES SINCE THE JANUARY 1980 REVISION 
+
+The January 1980 revision of this paper was published at 84 F.R.D. 175. For the convenience of those who have read that revision or the April or October 1980 revision, the significant changes since January 1980 are listed below. 
+
+Page II-2: The reference to United States v. Pry, in terpreting 18 U.S.C. § 4205(f), and the discussion of concurrent service of federal and state sentences are new in this revision.
+
+Page IV-10: The material in the third paragraph about proposed changes in the salient factor score is new in this revision. In the discussion of the impact of disciplinary infractions on the parole release date, the second paragraph was changed in the October 1980 revision to reflect a change in the regulations.
+
+Page VI-1: The reference to United States v. Pry is new in this revision.
+
+Page VII-2: The second paragraph on the page was changed in the October 1980 revision to reflect a change in the Bureau of Prisons Program Statement governing placement of offenders in non-federal facilities.
+
+Page VIII-2: The last paragraph on the page, dealing with the meaning of "conviction" under the Youth Corrections Act, was added in the October 1980 revision. 
+
+Page VIII-3: The second paragraph, dealing with inde terminate sentences under the Youth Corrections Act, has been substantially changed in this revision to take account of the decision in United States v. Amidon.
+
+Page VIII-5: In the third paragraph, material about the meaning of "conviction" under the Youth Corrections Act was added in the October 1980 revision. 
+
+Page VIII-8: The material on split sentences under the 
+
+Youth Corrections Act was added in the April 1980 revision. 
+
+Page XI-2: The third full paragraph, dealing with dis closure of presentence reports to offenders by the Parole Commission, was added in the October 1980 revision. iii 1389380
+
+Dips & 
+
+TUBO ICATSTOR
+
+TABLE OF CONTENTS I. INTRODUCTION 
+
+II. BASIC SENTENCING OPTIONS FOR ADULT OFFENDERS 
+
+A. Imprisonment 1. Term 2. "Good time" 3. a. 
+
+Parole eligibility b. 
+
+Term of more than one year (or sum of consecutive terms more than one year) 
+
+Term of six months through one year (or sum of consecutive terms) 
+
+Term of less than six months (or sum of consecutive terms) 
+
+Concurrent service of state sentence 
+
+Residence in halfway house c. 4. BCD B. C. Fines
+
+D. Probation 1. 
+
+When available 2. 3. 
+
+How imposed Duration 
+
+4. Probation conditions
+
+III. "GOOD TIME" 
+
+A. Function 
+
+B. "Statutory good time" "Extra good time"
+
+C. 
+
+IV. DETERMINING THE DATE OF RELEASE FROM INCARCERATION--ADULT SENTENCES OF A YEAR AND A DAY OR MORE 
+
+A. 
+
+Parole Commission Procedures 
+
+1. Initial hearing 2. 3. 
+
+Interim hearings 
+
+Pre-release review Criteria for release decisions B. 1. 
+
+General . 2. 
+
+Severity of offense 3. 4.
+
+Likelihood of success on parole 
+
+Disciplinary infractions 
+
+I-1 II-1 1 1 1 1 1 2223 mm 445 
+
+III-1 
+
+1 
+
+1 1 1 2 2 2 10 10
+
+5. 
+
+Exceptional conduct or superior 6. program performance 
+
+Other considerations 
+
+13 V-1 1 
+
+V. DURATION OF PAROLE SUPERVISION; EFFECT OF REVOCATION--ADULT SENTENCES OF A YEAR AND A DAY OR MORE 
+
+Limits on Parole Commission discretion 
+
+Guidelines for early termination of supervision A. B.
+
+C. D. 
+
+Special parole terms under title 21 
+
+Revocation of parole 
+
+VI. DETERMINING THE DATE OF RELEASE FROM INCARCERATION AND THE DURATION OF SUPERVISION--SENTENCES OF ONE YEAR OR LESS VII. ASSIGNMENT TO AN INSTITUTION A. General 
+
+B. 
+
+Initial assignments
+
+C. Transfers
+
+D. 
+
+Voluntary surrender procedure 
+
+VIII. SPECIAL SENTENCES FOR YOUNG OFFENDERS Applicability and purpose of Youth 
+
+Corrections Act
+
+A. B.
+
+Sentencing options 1. 
+
+Adult sentences 112 2 VI-1 VII-1 1 1 22 2 VIII-1 2 122 334 56 2. 3. 4. 
+
+Imprisonment under the Youth a. b. C. 
+
+Corrections Act 
+
+Authorities Conditions of incarceration 
+
+Determining the date of release from incarceration . d. Duration of parole supervision 
+
+Certificate setting aside conviction e. 
+
+Probation under the Youth
+
+Corrections Act Split sentences under the Youth Corrections Act vi
+
+IX. SPECIAL SENTENCES FOR NARCOTIC ADDICTS 
+
+A. 
+
+Applicability and purpose of Narcotic Addict Rehabilitation Act 
+
+Sentencing options 
+
+Adult or Youth Corrections Act 
+
+B. 1. 2. a. sentences 
+
+NARA sentences 
+
+Sentencing procedures b. Conditions of incarceration 
+
+Determining the date of release from incarceration C. d. 
+
+Parole supervision IX-1 1 2 2 2223 2 34 
+
+X. THE USE OF OBSERVATION AND STUDY AS AN AID TO THE SENTENCING JUDGE 
+
+A. 
+
+Authorities 
+
+1. Local studies 
+
+2. Bureau of Prisons studies 
+
+B. Making the best use of studies
+
+XI. JUDICIAL COMMUNICATION WITH THE PAROLE COMMISSION AND THE BUREAU OF PRISONS 
+
+X-1 1 1 1 2 XI-1 1 24 2 A. General B.
+
+C. Method of communication; limitations 
+
+Appropriate matters for communication 
+
+XII. APPENDIXES APPENDIX A: 
+
+Parole Commission Statement on 
+
+Use of "Offense Behavior"
+
+XII-1 
+
+APPENDIX B: 
+
+Excerpt from Report of the Committee of Conference on the Parole
+
+Commission Act vii
+
+I. INTRODUCTION 
+
+When a judge sentences a criminal offender to a term of imprisonment, one thing is nearly certain: the offender will not be imprisoned for the period specified in the sentence. 
+
+The sentence imposed by the judge is a fiction. Needless to say, however, it is a fiction with real consequences. This publication is an effort to describe the judge's sentencing options in terms of those consequences. It goes beyond the formal language of the statutes, and considers the effect of the choice of sentence on the offender's treatment at the hands of the Bureau of Prisons and the Parole Commission. 
+
+The work has been prepared principally for the benefit of newly appointed federal district judges. It is believed that it will also be useful to more experienced judges, although they will presumably find much less that is new. 
+
+Obviously, a publication such as this should not be the sole source of information about the sentencing options available. Ranking high among the other sources are visits to the institutions to which incarcerated offenders are sent. A 1976 resolution of the Judicial Conference of the 
+
+United States states "that the judges of the district courts, as soon as feasible after their appointment and periodically thereafter, shall make every effort to visit I-1
+
+I the various Federal correctional institutions that serve their respective courts." Many judges regard such visits as extremely valuable.
+
+For the newly appointed district judge, the most surprising feature of the system described in this publication will probably be the relationship between the sentencing judge and the United States Parole Commission. Pursuant to various statutes, the judge has broad authority to determine the sentence of an offender. If the sentence is to imprisonment, the judge's sentence determines the offender's parole eligibility date and (subject to "good time" deductions) the maximum duration of incarceration. Within the limits so established, the Parole Commission determines the actual release date. Pursuant to 18 U.S.C. § 4203(a)(1), the Commission has issued guidelines for making such determinations. Under those guidelines, the primary determinants of an offender's release date are the severity of the offense committed and the offender's prior record, drug history, and employment record--all factors that were known at the time of sentencing by the judge. Contrary to some commonly held notions-- 1. It is not the policy of the Parole Commission to release offenders on their parole eligibility dates
+
+I if their conduct while in prison is satisfactory. That probably never was the policy. 
+
+2. It is not the policy of the Commission to release offenders upon a determination that they have reached the optimum time for release in terms of rehabilitative progress. 
+
+That was once an once an important factor in release decisions, but no longer is. The lack of emphasis on this factor reflects the widespread belief among students of corrections that inmates' postrelease behavior cannot reliably be predicted on the basis of behavior while incarcerated. 
+
+The present policies of the Parole Commission are designed to provide consistency in release dates for offenders similarly situated. They reflect the view that a major function of the parole system is to compensate for disparity in the sentences handed down by the judges. 
+
+Another feature of the system that may come as a surprise is the limited practical importance of two special sentencing authorities that were designed to facilitate re habilitation--the Youth Corrections Act and the Narcotic 
+
+Addict Rehabilitation Act. The selection by the sentencing judge of one of the special authorities does make a difference in the subsequent treatment of the offender, but the
+
+I difference is not always what one would be led to think from reading the statutory language. 
+
+The administrative policies described here are those in effect as of February 1, 1981. They are, of course, subject to revision, and revisions may apply to offenders sentenced currently.
+
+II. BASIC SENTENCING OPTIONS FOR ADULT OFFENDERS 
+
+Imprisonment
+
+A. 1. Term
+
+The maximum term that the judge may impose is set forth in the statute defining the crime. Generally, the judge may impose any term up to the maximum. A few statutes have minimum terms (e.g., 18 U.S.C. § 924 (c)), and a few have fixed terms (e.g., 18 U.S.C. § 2114). 
+
+2. "Good time"
+
+A prisoner earns good time both through good behavior and through participation in certain kinds of activity. 
+
+Good time earned has the effect of reducing the maximum possible period of incarceration under the sentence. It does not necessarily reduce the actual time served because it does not operate on the parole date; the conduct that generates good time may or may not be considered relevant by the Parole Commission. 3. 
+
+Parole eligibility a.
+
+Term of more than one year (or sum of consecutive terms more than one year)
+
+A prisoner is normally eligible for parole release after one-third of the term. 18 U.S.C. 
+
+S 4205(a).
+
+In the case of a life sentence or a sentence of more than 30 years, the prisoner is eligible after 10 years. 18 U.S.C. § 4205(a). As this provision is interpreted by the Parole Commission and the Bureau of Prisons, consecutive sentences do not delay eligibility beyond 
+
+10 years.
+
+In the sentence, the judge may designate an earlier parole eligibility date or specify that the prisoner is immediately eligible. 18 U.S.C. § 4205(b)(1), (2). II-1
+
+II 4. b. C. 
+
+Term of six months through one year (or sum of consecutive terms)
+
+A prisoner is normally not eligible for parole.
+
+At the time of sentencing, the judge may "provide for the prisoner's release as if on parole after service of one-third of such term." 
+
+18 U.S.C. § 4205(f). The Court of Appeals for the Fifth Circuit has held that this language permits the judge to provide for release upon completion of either one-third of the term or some larger fraction of it. United States v 
+
+Pry, 625 F.2d 689 (5th Cir. 1980). Presumably, "good time" statutes continue to apply, and might in some cases mandate release before the date established by the judge.
+
+Term of less than six months (or sum of consecutive terms) 
+
+Prisoners are not eligible for parole. 
+
+Concurrent service of state sentence
+
+There is no formal mechanism for providing that a federal sentence will be served concurrently with a state sentence. However, the Bureau of Prisons is authorized by 18
+
+U.S.C. S 4082(b) to designate a state institution as the place for service of part or all of a federal sentence. 
+
+Designation of the institution in which an offender is incarcerated on a state charge has the effect of making the federal and state sentences run concurrently. The Bureau of 
+
+Prisons will attempt to make such a designation if requested to do so by the sentencing federal judge; in the absence of such a request, federal and state sentences will be served consecutively. B. 
+
+Residence in halfway house
+
+The Bureau of Prisons operates a network of halfway houses--" community treatment centers"--principally for offenders who are approaching the ends of terms of imprison- Newly sentenced offenders may be required to reside inuch halfway houses in two ways:
+
+II C. (1) The offender may be sentenced to a term of imprisonment, with a request by the judge that he serve his time in a community treatment center. The Bureau of Prisons will generally honor such a request if the offender qualifies for minimum-security placement. the placement turns out to be unsatisfactory, the Bureau of Prisons retains discretion to determine how the offender is to serve the remainder of his time. If Unless the sentencing judge requests assignment to a community treatment center, an offender sentenced to imprisonment will not be initially assigned to one, and is likely to be transferred to such a center only for the last few months before release. (2) The offender may be granted probation, with residence in a community treatment center as a probation condition, but only if the Attorney General certifies that adequate facilities, personnel, and programs are available. If the placement turns out to be unsatisfactory and the Bureau concludes that residence should be terminated, the court must make "such other provision" for the probationer as it deems appropriate. 
+
+18 U.S.C. § 3651. 
+
+Fines
+
+The maximum fine that may be imposed is set forth in the statute defining the crime. A fine may be imposed either alone or in addition to imprisonment. D. Probation 
+
+1. When available
+
+Probation may be used for a defendant convicted of any offense not punishable by death or life imprisonment. It may be granted whether the offense is punishable by fine, imprisonment, or both. 18 U.S.C. § 3651.
+
+If the offense is punishable by both fine and imprisonment, the judge may impose a fine and place the defendant on probation as to imprisonment, thereby combining probation with a fine. Id.
+
+Probation cannot normally be combined with imprisonment. But:
+
+II "Mixed sentence": Upon a conviction on multiple counts, the court may impose imprisonment on one or more counts, followed by probation on one or more others. For this reason, some judges generally refuse to accept a guilty plea to one count of a multiplecount indictment; they insist on a plea to two counts to give them greater latitude in sentencing. "Split sentence": Upon a conviction on one or more counts, the court may impose a sentence of imprisonment for more than six months, and provide that the defendant be confined for a stated period which is six months or less, and be placed on probation with respect to the remainder of the sentence. 18 U.S.C. § 3651.
+
+This authority is limited to offenses punishable by imprisonment for more than six months but not punishable by death or life imprisonment. 2. 
+
+How imposed
+
+The court may suspend imposition of sentence and place the defendant on probation. If probation is revoked, the court then has the full range of sentencing options. 
+
+The court may impose a sentence of imprisonment and/or fine, suspend execution of the sentence, and place the defendant on probation. If probation is revoked, the court may reduce--but not increase--the sentence imposed. 
+
+Fed. R. Crim. P. 35.
+
+See Note that there is no authority for the court to suspend a sentence without putting the offender on probation. 
+
+United States v. Sams, 340 F.2d 1014 (3d Cir.), cert. denied, 380 U.S. 974 (1965). 3. Duration
+
+The term of probation may not exceed five years. 18 
+
+U.S.C. S 3651. It has been held that consecutive terms may not be used to go beyond this limit. E.g., Fox v. United 
+
+States, 354 F.2d 752 (10th Cir. 1965).
+
+The term of probation is not limited by the maximum term of imprisonment for the offense. Five years' probation may be given for an offense punishable by six months' imprisonment. After placing an offender on probation, the court retains discretion to modify the term. 18 U.S.C. § 3651.
+
+II If probation is revoked, time spent on probation is not credited as service against a term of imprisonment. 4. 
+
+Probation conditions
+
+Probation is "upon such terms and conditions as the court deems best." 18 U.S.C. § 3651. 
+
+Probation may be supervised or unsupervised.
+
+If super- vised, the frequency of reporting to the probation officer will generally depend upon probation office assessment of the likelihood of violation.
+
+Conditions specifically authorized by statute (18 
+
+U.S.C. S 3651) are:
+
+Residence in a halfway house or participation in its programs. (See above.)
+
+Participation in a drug program. 
+
+Payment of a fine that has been imposed. 
+
+Support of persons for whose support the offender is legally responsible.
+
+Restitution or reparation. It must be to people actually injured by the offense for actual damage or loss sustained. See United States v. Clovis Retail
+
+Liquor Dealers Trade Ass'n, 540 F.2d 1389 (10th Cir. 
+
+1976).
+
+Probation offices must generally rely on local resources. Offices have no funds for providing job training, medical care, etc. Halfway houses and drug programs are exceptions; they are supported by the Bureau of Prisons and the Probation Division, respectively.
+
+III. "GOOD TIME" 
+
+A. 
+
+Function 
+
+"Good time," awarded by the Bureau of Prisons, has the effect of reducing the stated term of the sentence--that is, it advances the date as of which release will be mandatory if the offender is not earlier paroled.
+
+The award of good time does not in itself advance the offender's release date. It has that effect only if the offender would not otherwise be paroled before the mandatory date.
+
+The behavior for which good time is awarded may also be considered by the Parole Commission in setting a parole date. That is not always done, however. Even when it is, the extent of the benefit to the offender may not be equivalent to the good time earned. B. "Statutory good time"
+
+Under 18 U.S.C. S 4161, an offender sentenced to a definite term of six months or more is entitled to a deduction from his term, computed as follows, if the offender has faithfully observed the rules of the institution and has not been disciplined: 
+
+Sentence Length 
+
+At least 6 months, not more than 1 year 
+
+More than 1 year, less than 3 years 
+
+At least 3 years, less than 5 years 
+
+At least 5 years, less than 10 years 
+
+10 years or more 
+
+Good Time 
+
+5 days for each month of the stated sentence 
+
+6 days for each month of the stated sentence 
+
+7 days for each month of the stated sentence 
+
+8 days for each month of the stated sentence 
+
+10 days for each month of the stated sentence
+
+III-1
+
+III At the beginning of a prisoner's sentence, the full amount of statutory good time is credited, subject to forfeiture if the prisoner commits disciplinary infractions. 
+
+If the sentence is for five years or longer, 18 U.S.C.
+
+S 4206(d) requires the Parole Commission to release an offender after he has served two-thirds of the sentence unless the Commission determines that he has seriously or frequently violated institution rules or regulations or that there is a reasonable possibility that he will commit a crime. For offenders serving sentences of five to ten years, this provision may mandate release materially before the date established by subtracting statutory good time from the sentence.
+
+Statutory good time does not apply to life sentences or to sentences under the Youth Corrections Act. It applies to a split sentence if the period of confinement is exactly six months; a shorter period does not qualify for good time under the statute, and a longer period cannot be part of a split sentence. 
+
+C. "Extra good time"
+
+Under 18 U.S.C. S 4162, prisoners may be awarded good time, in addition to statutory good time, for employment in an industry or camp or for performing exceptionally meritorious service or duties of outstanding importance. Bureau of Prisons regulations provide that extra good time is awarded automatically to inmates working in prison industries, those assigned to camps or community treatment centers, and those participating in work or study release programs. It is awarded on a discretionary basis for exceptionally meritorious service in work assignments or for performing duties of outstanding importance. It is not used to reward participation in education or training programs. 
+
+Extra good time is awarded at the rate of three days per month of eligible service for the first year of such service, and at the rate of five days per month thereafter. 
+
+These are aggregate limits; they apply even if the inmate qualifies for two types of extra good time. 28 C.F.R. pt. 523. 
+
+Lump sum awards of extra good time are also used to reward exceptional acts. 28 C.F.R. § 523.16. 
+
+Extra good time does not apply to sentences under the 
+
+Youth Corrections Act. 28 C.F.R. § 523.17(k).
+
+IV. 
+
+DETERMINING THE DATE OF RELEASE FROM INCARCERATION-- ADULT SENTENCES OF A YEAR AND A DAY OR MORE Parole Commission Procedures 
+
+1. 
+
+Initial hearing
+
+An initial parole hearing is normally held within 120 ays of an offender's arrival at a Bureau of Prisons instiution. Following the initial hearing, a presumptive date f release is established. 28 C.F.R. § 2.12. Exceptions
+
+If the parole eligibility date is ten years from the beginning of service of the sentence pursuant to 18 U.S.C. S 4205(a), the initial hearing is not held until shortly before the eligibility date. 28 C.F.R. 
+
+S 2.12(a). 
+
+If the offender delays applying for parole, the initial hearing will be commensurately delayed. 28 C.F.R. 
+
+S 2.11(a)–(c).
+
+If the Commission concludes that release within ten years of the initial hearing is not warranted, it will not establish a presumptive date. At the end of ten years, a "reconsideration hearing"--similar to an initial hearing--will be held. 28 C.F.R. SS 2.12, 2.14(c). 2. 
+
+Interim hearings
+
+Interim hearings are held from time to time to consider significant developments or changes in status occurring after the initial hearing. Following these hearings, presumptive release dates may be retarded on account of disciplinary infractions. Presumptive release dates and the dates of ten-year reconsideration hearings may also be advanced. 
+
+However, it is Commission policy that, once set, a presumptive release date shall be advanced only for superior program achievement or other clearly exceptional circumstances. 
+
+28 C.F.R. S 2.14(a)(2) (ii).
+
+IV-1
+
+IV For offenders serving sentences (including the sum of consecutive sentences) of less than seven years, interim hearings are held at eighteen-month intervals; for those serving sentences of seven years or more, at twenty-fourmonth intervals. However, the first interim hearing will not be held earlier than the docket immediately preceding the parole eligibility date. 28 C.F.R. § 2.14(a)(1). 3. 
+
+Pre-release review
+
+Shortly before a presumptive parole date, a review of the record is conducted to determine whether there has been continued good conduct and whether the prisoner has submitted a satisfactory release plan. The Regional Commissioner has a limited authority to change the release date without a further hearing or pending a hearing. 28 C.F.R. 
+
+S 2.14(b). B.
+
+Criteria for release decisions 1. General
+
+ΤΟ the extent permitted by the sentence, the Parole Commission uses its own criteria for determining the appropriate length of incarceration. The Commission may be prevented from using those criteria by the term of the sentence (less good time) or the parole eligibility date.
+
+Even in these cases, the Parole Commission will adhere to its own criteria as closely as possible. Some offenders will accordingly be released on their parole eligibility dates. Others will not be released until their mandatory release dates, even assuming exemplary conduct. 
+
+Guidelines setting forth the "customary time to be served" have been issued by the Commission for the guidance of Commission personnel in making release decisions. These guidelines assume good conduct by the prisoner while incarcerated.
+
+The guidelines are based on the severity of the offense and an estimate of the likelihood that the offender would violate parole if released. Examiners have considerable discretion to choose a period of incarceration within the guideline range as well as discretion to depart from the guidelines, with statements of reasons, if the circumstances of the particular case warrant departure.
+
+IV 
+
+The guidelines are reproduced on the following pages. 
+
+It will be noted that they generally suggest shorter ranges of time to be served for youth than for adults. The youth ranges apply to offenders who were under 22 at the time the offense was committed, regardless of the sentencing authority used, and to older offenders who are sentenced under the 
+
+Youth Corrections Act. 28 C.F.R. § 2.20(h) (2). 
+
+2. Severity of offense
+
+The Commission's offense severity categories are listed in the guideline table. 
+
+In determining the severity classification, the Commission refers to "offense behavior "--that is, the conduct that brought the offender into contact with the law--rather than to the offense of conviction. It takes into account "any substantial information available," and resolves disputed issues by a preponderance standard; however, charges upon which a prisoner was found not guilty after trial are not considered "unless reliable information is presented that was not introduced into evidence at such trial." 28 C.F.R. 
+
+S 2.19(c).
+
+A Commission statement of the rationale for this practice is reproduced as appendix A, at page XII-1. In it, the 
+
+Commission notes that many convictions are based on plea agreements that result in dismissal of charges supported by persuasive evidence, and that in some cases jurisdictional reasons prevent federal prosecution for the most serious offense (as where a robber is prosecuted for interstate transportation of stolen goods). It argues that consideration of "reliable information about the actual criminal transaction" is essential to responsible consideration of the "nature and circumstances of the offense, as required by 18 U.S.C. 
+
+S 4206(a). 11 As a practical matter, the "reliable information" is more often than not the "official version" of the offender's conduct as reported in the presentence report.
+
+For offenses not listed in the guidelines, examiners are enjoined to find "the proper category by comparing the severity of the offense behavior with those of similar offense behaviors listed." General Note B to the Guidelines.
+
+IV GUIDELINES FOR DECISION-MAKING [Guidelines for Decision-Making, Customary Total Time to be 
+
+Served before Release (including jail time)}
+
+OFFENSE CHARACTERISTICS: 
+
+Severity of Offense Behavior (Examples) 
+
+OFFENDER CHARACTERISTICS: 
+
+Parole Prognosis (Salient Factor 
+
+Score) 'Very Good '(11 to 9) Good (8 to 6) Fair Poor (5 to 4) (3 to 0) 
+
+ADULT RANGE 
+
+<-6 6-9 months months 9-12 months 12-16 months 
+
+(YOUTH RANGE) 
+
+( <-6) months (6-9 ) months (9-12) months (12-16) months LOW 
+
+Alcohol or Cigarette law violations, including tax evasion (amount of tax evaded less than $2,000) 1/ 
+
+Gambling law violations (no managerial or proprietary interest) 
+
+Illicit drugs, simple possession 
+
+Marihuana/hashish, possession with intent to distribute/sale (very small scale (e.g., less than 
+
+10 lbs. of marihuana/less than 1 lb. of hashish/less than .01 liter of hash oil)]
+
+Property offenses (theft, income tax evasion, or simple possession of stolen property) less than $2,000 
+
+LOW MODERATE 
+
+Counterfeit currency or other medium of exchange [(passing/possession) less than $2,000] 
+
+Drugs (other than specifically categorized), possession with intent to distribute/sale [very small scale (e.g., less than 200 doses)] 
+
+Marihuana/hashish, possession with intent to distribute/sale (small scale (e.g., 10-49 lbs. of marihuana / 1-4.9 lbs. of hashish / .01-.04 liters of hash oil)} 
+
+Cocaine, possession with intent to distribute/sale [very small scale (e.g., less than 1 gram of 100% purity, or equivalent amount)] 
+
+Gambling law violations managerial or proprietary interest in small scale operation [e.g., Sports books (estimated daily gross less than $5,000); Horse books (estimated daily gross less than $1,500); Numbers bankers (estimated daily gross less than $750)} 
+
+Immigration law violations 
+
+Property offenses (forgery/fraud/ theft from mail/embezzlement/interstate transportation of stolen or forged securities/receiving stolen property with intent to resell) less than $2,000
+
+MODERATE 
+
+Automobile theft (3 cars or less involved and total value does not exceed $19,999)2/
+
+Counterfeit currency or other medium of exchange [(passing/possession) $2,000 - $19,999] 
+
+Drugs (other than specifically categorized), possession with intent to distribute/sale small scale (e.g., 200-999 doses)] 
+
+Marihuana/hashish, possession with intent to distribute/sale [medium scale (e.g., 50-199 lbs. of marihuana / 5-19.9 lbs. of hashish / .05.19 liters of hash oil)] 1 
+
+ADULT RANGE 
+
+<=8 months 8-12 months 12-16 months 16-22 months 
+
+(YOUTH RANCE) 
+
+1 ( <-8) (8-12) months months (12-16) months (16-20) months 1 
+
+ADULT RANGE 
+
+10-14 14-18 monthn months 18-24 months 24-32 months (8-12) ' months 
+
+(YOUTH RANGE) 
+
+(12-16) months (16-20) months (20-26) months
+
+IV 
+
+Very Good (11 to 9) Good (8 to 6) Fair Poor (5 to 4) (3 to 0)
+
+ADULT RANGE 
+
+10-14 14-18 18-24 months months months 24-32 months 
+
+(YOUTH RANGE) 
+
+1 (8-12) (12-16) months months (16-20) months (20-26) months
+
+MODERATE (continued) 
+
+Cocaine, possession with intent to distribute/sale [small scale (e.g., 1.0-4.9 grams of 100% purity, or equivalent amount)} 
+
+Opiates, possession with Intent to distribute/sale [evidence of opiate addiction and very small scale (e.g., less than 1.0 grams of 100% pure heroin, or equivalent amount)] 
+
+Firearms Act, possession/purchase/ sale (single weapon: not sawedoff shotgun or machine gun) 
+
+Gambling law violations 
+
+manage- rial or proprietary interest in medium scale operation [e.g., Sports books (estimated daily gross $5,000-$15,000); Horse books (estimated daily gross $1,500-$4,000); Numbers bankers (estimated daily gross $750- $2,000)) 
+
+Property offenses (theft/forgery/ fraud/embezzlement/interstate transportation of stolen or forged securities/income tax evasion/receiving stolen property) $2,000-$19,999
+
+Smuggling/transporting of alien(s) 
+
+HIGH 
+
+Carnal Knowledge3/ 
+
+Counterfeit currency or other medium of exchange [(passing/ possession) $20,000 - $100,000] 
+
+Counterfeiting [manufacturing (amount of counterfeit currency or other medium of exchange involved not exceeding $100,000)] 
+
+Drugs (other than specifically listed), possession with intent to distribute/sale [medium scale (e.g., 1,000-19,999 doses)] 
+
+Marihuana/hashish, possession with
+
+Intent to distribute/sale [large scale (e.g., 200-1,999 lbs. of marihuana / 20-199 lbs. of hashish / .20-1.99 liters of hash of1)] 
+
+Cocaine, possession with Intent to distribute/sale [medium scale (e.g., 5-99 grams of 100% purity, or equivalent amount)] 
+
+Oplates, possession with intent to distribute/sale small scale (e.g., less than 5 grams of 100% pure heroin, or equivalent amount) except as described in moderate] 
+
+Firearms Act, possession/purchase/ sale (sawed-off shotgun(s), machine gun(s), or multiple weapons) 
+
+Gambling law violations managerial 
+
+or proprietary interest in large scale operation (e.g., Sports books (estimated daily gross more than $15,000); Horse books (estimated
+
+Numbers bankers (estimated daily daily gross more than $4,000); gross more than $2,000)}
+
+Involuntary manslaughter (e.g., negligent homicide) 1 '(12-16) months
+
+ADULT RANGE 
+
+14-20 months 20-26 26-34 months months 34-44 months 
+
+(YOUTH RANGE) 
+
+(16-20) months (20-26) months (26-32) months
+
+IV HIGH (continued) 
+
+Very Good Good Fair Poor (11 to 9) (8 to 6) (5 to 4) (3 to 0)
+
+ADULT RANGE 
+
+14-20 20-26 months months 26-34 months 34-44 months 
+
+Mann Act (no force purposes) 
+
+commercial 
+
+Property offenses (theft/forgery/ fraud/embezzlement/interstate transportation of stolen or forged securities/income tax evasion/receiving stolen property) $20,000 $100,000 
+
+Threatening communications (e.g., mail/phone) not for purposes of extortion and no other overt act 
+
+VERY HIGH 
+
+Robbery (1 or 2 instances) 
+
+Breaking and entering armory with intent to steal weapons
+
+Breaking and entering/burglary 
+
+residence; or breaking and entering of other premises with hostile confrontation with victim
+
+Counterfeit currency or other medium of exchange [(passing/possession/ manufacturing) amount more than 
+
+$100,000 but not exceeding $500,000] 
+
+Drugs (other than specifically listed), possession with intent to distribute/sale [large scale (e.g., 20,000 or more doses) except as described in Greatest I) 
+
+Marihuana/hashish, possession with intent to distribute/sale (very large scale (e.g., 2,000 lbs. or more of marihuana / 200 lbs. or more of hashish / 2 liters or more of hash oil)] 
+
+Cocaine, possession with intent to distribute/sale [large scale (e.g., 100 grams or more of 
+
+100% purity, or equivalent amount) except as described in Greatest I] Opiates, possession with intent to distribute/sale [medium scale or more (e.g., 5 grams or more of 
+
+100% pure heroin, or equivalent amount) except as described in 
+
+Greatest I
+
+Extortion [threat of physical harm (to person or property)] 
+
+Explosives, possession/transportation 
+
+Property offenses (theft/forgery/ fraud/embezzlement/interstate transportation of stolen or forged securities/income tax evasion/receiving stolen property) more than $100,000 but not exceeding $500,000
+
+GREATEST I 
+
+Aggravated felony (e.g., robbery: 
+
+(YOUTH RANGE) 
+
+'(12-16) (16-20) months months (20-26) months (26-32) months
+
+ADULT RANGE 
+
+24-36 36-48 48-60 months months months 60-72 months 
+
+(YOUTH RANGE) 
+
+'(20-26) (26-32) months months (32-40) months (40-48) months 
+
+ADULT RANGE 
+
+weapon fired or injury of a type normally requiring medical attention) 40-52 52-64 months months 64-78 months 78-100 months 
+
+Arson or explosive detonation [involving potential risk of physical injury to person(s) 
+
+(YOUTH RANGE) 
+
+(e.g., premises occupied or likely to be occupied) по serious injury occurred] '(30-40) ' months (40-50) months (50-60) months (60-76) months
+
+IV GREATEST I (continued) 
+
+Drugs (other than specifically listed), possession with intent to distribute/sale [managerial or proprietary interest and very large scale (e.g., offense involving more than 200,000 doses)} 
+
+Cocaine, possession with Intent to distribute/sale [managerial or proprietary interest and very large scale (e.g., offense involving more than 1 kilogram of 100% purity, or equivalent amount)] 
+
+Opiates, possession with intent to distribute/sale (managerial or proprietary interest and very large scale (e.g., offense involving more than 50 grams of 
+
+100% pure heroin, or equivalent amount)]
+
+Kidnaping (other than listed in 
+
+Greatest II; limited duration; and no harm to victim (e.g., kidnaping the driver of a truck during a hijacking, driving to a secluded location, and releasing victim unharmed)} 
+
+Robbery (3 or 4 instances)
+
+Sex act force (e.g., forcible rape or Mann Act (force)]
+
+Voluntary manslaughter (unlawful killing of a human being without malice; sudden quarrel or heat of passion)
+
+GREATEST II 
+
+Murder 
+
+Aggravated felony serious injury (e.g., robbery: injury involving substantial risk of death or protracted disability, or disfigurement) or extreme cruelty/brutality toward victim 
+
+Aircraft hijacking Espionage
+
+Kidnapping (for ransom or terrorism; as hostage; or harm to victim) Treason 
+
+Very Good Good Fair (11 to 9) (8 to 6) (5 to 4)
+
+ADULT RANGE 
+
+Poor (3 to 0) 1 40-52 52-64 64-78 78-100 months months months months 
+
+(YOUTH RANGE) 
+
+'(30-40) (40-50) 1 months months (50-60) months (60-76) months 1 
+
+ADULT RANGE 
+
+52+ 64+ months months 78+ months 100+ months 1 1 
+
+(YOUTH RANGE) 
+
+'(40+) months (50+ ) months (60+) months (76+) months
+
+Specific upper limits are not provided due to the limited number of cases and the extreme variation possible within category.
+
+IV GENERAL NOTES 
+
+A. B: C. D. E. 
+
+These guidelines are predicated upon good institutional conduct and program performance. 
+
+If an offense behavior is not listed above, the proper category may be obtained by comparing the severity of the offense behavior with those of similar offense behaviors listed. 
+
+If an offense behavior can be classified under more than one category, the most serious applicable category is to be used. 
+
+If an offense behavior involved multiple separate offenses, the severity level may be increased. 
+
+In cases where multiple sentences have been imposed (whether consecutive or concurrent, and whether aggregated or not) an offense severity rating shall be established to reflect the overall severity of the underlying criminal behavior. This rating shall apply whether or not any of the component sentences has expired. (1) 
+
+OTHER OFFENSES 
+
+Conspiracy shall be rated for guideline purposes according to the underlying offense behavior if such behavior was consummated. If the offense is unconsummated, the conspiracy will be rated one step below the consummated offense. A consummated offense includes one in which the offender is prevented from completion only because of the intervention of law enforcement officials. (2) Breaking and entering not specifically listed above shall (3) (4) (5) normally be treated as a low moderate severity offense; however, if the monetary loss amounts to $2,000 or more, the applicable property offense category shall be used. Similarly, if the monetary loss involved in a burglary or breaking and entering (that is listed) constitutes a more serious property offense than the burglary or breaking and entering itself, the appropriate property offense category shall be used. 
+
+Manufacturing of synthetic drugs for sale shall be rated as less than very high severity.
+
+Bribery of a public official (offering/accepting/soliciting) or extortion (use of official position) shall be rated as no less than moderate severity for those instances limited in scope (e.g., single instance and amount of bribe/demand less than $20,000 in value); and shall be rated as no less than high severity in any other case. In the case of a bribe/demand with a value in excess of $100,000, the applicable property offense category shall apply. The extent to which the criminal conduct involves a breach of the public trust, therefore causing injury beyond that describable by monetary gain, shall be considered as an aggravating factor. 
+
+Obstructing justice (no physical threat)/perjury (in a criminal proceeding) shall be rated in the category of the underlying offense concerned, except that obstructing justice (threat of physical harm) shall be rated as no less than very high severity. (6) Misprision of felony shall be rated as moderate severity if the underlying offense is high severity or above. If the underlying offense is moderate severity or less, it shall be rated as low severity. (7) Harboring a fugitive shall be rated as moderate severity if the underlying offense is high severity or above. If the underlying offense is moderate severity or less, it shall be rated as low severity.
+
+IV REFERENCED NOTES 
+
+1. 2. 3. 
+
+Alcohol or cigarette tax law violations involving $2,000 or more of evaded tax shall be treated as a property offense (tax evasion):
+
+Except that automobile theft (not kept more than 72 hours; no substantial damage; and not theft for resale) shall be rated as low severity. Automobile theft involving a value of more than $19,999 shall be treated as a property offense. In addition, automobile theft involving more than 3 cars, regardless of value, shall be treated as no less than high severity. 
+
+Except that carnal knowledge in which the relationship is clearly voluntary, the victim is not less than 14 years old, and the age difference between offender and victim is less than four years shall be rated as a low severity offense. a. b. c. d. e.
+
+DEFINITIONS 
+
+'Other media of exchange' include, but are not limited to, postage stamps, money orders, or coupons redeemable for cash or goods. 'Drugs, other than specifically categorized' include, but are not limited to, the following, listed in ascending order of their perceived severity: amphetamines, hallucinogens, barbiturates, methamphetamines, phencyclidine (PCP). This ordering shall be used as a guide to decision placement within the applicable guideline range (i.e., other aspects being equal, amphetamines will normally be rated towards the bottom of the guideline range and PCP will normally be rated towards the top). 'Equivalent amounts' for the cocaine and opiate categories may be computed as follows: 1 gm. of 100% pure is equivalent to 2 gms. of 50% pure and 10 gms. of 10% pure, etc.
+
+The opiate' category includes heroin, morphine, opiate derivatives, and synthetic opiate substitutes. 
+
+Managerial/Proprietary Interest (Large Scale Drug Offenses): 
+
+Managerial/proprietary interest in large scale drug cases is defined to include offenders who sell or negotiate to sell such drugs; or who have decision-making authority concerning the distribution/sale, importation, cutting, or manufacture of such drugs; or who finance such operations. Cases to be excluded are peripherally involved offenders without any decision-making authority (e.g., a person hired merely as a courier).
+
+IV 3. 
+
+Likelihood of success on parole Likelihood of success on parole is determined through the "salient factor score." That score determines which column in the guideline matrix is to be used to find the guideline for the particular offender. The method of determining the salient factor score is indicated on the worksheet on the following page. Instructions for completing the worksheet are found in the Commission's "Guideline Application Manual," which is available in probation offices.
+
+The salient factor score is based entirely on information about the offender that antedates incarceration on the present charge. The Commission has concluded, on the basis of empirical studies, that behavior while imprisoned is not a good statistical predictor of parole success. The 
+
+Commission thus does not attempt to determine when an offender is "ready" for release in the sense of having been rehabilitated. The rationale for using the salient factor score is essentially incapacitative: higher-risk offenders are incarcerated longer not because it is thought that longer incarceration will change their risk status, but because it will reduce the opportunities for further criminal conduct.
+
+On December 10, 1980, the Commission published proposed regulations that would significantly change the computation of the salient factor score. 45 Fed. Reg. 81,212-13. Among the proposed changes is elimination of the employment item; under the new rules, the score would be based entirely on the offender's past criminal record, age at the time of the current offense, and history of heroin or opiate dependence. 4.
+
+Disciplinary infractions In establishing a presumptive release date at initial hearings, good institutional conduct for the remainder of the term is presumed. Thereafter, at interim hearings, a presumptive date may be set back because of disciplinary infractions.
+
+Infractions of admininstrative rules are generally thought to warrant a delay in release of not more than sixty days per instance of misconduct. New criminal conduct (including escape) is sanctioned more severely. 28 C.F.R. 
+
+S 2.36.
+
+IV Register Number SALIENT FACTOR SCORE Name 
+
+Item A- 
+
+No prior convictions (adult or juvenile) 
+
+One prior conviction = 2 
+
+Two or three prior convictions 
+
+Four or more prior convictions
+
+Item B-- 1 
+
+No prior commitments (adult or juvenile) 
+
+One or two prior commitments 1
+
+Three or more prior commitments 
+
+Item C-. = 3 = 2 
+
+Age at behavior leading to first commitment (adult or juvenile): 
+
+26 or older = 2 18-25 = 1 
+
+17 or younger = 0 *Item D- Commitment offense did not involve auto theft or check (s) (forgery/larceny) 1
+
+Commitment offense involved auto theft [X], or check(s) [Y], or both [2] *Item E---- Never had parole revoked or been committed for a new offense while on parole, and not a probation violator this time 1 Has had parole revoked or been committed for a new offense while on parole [X], or is a probation violator this time [Y], or both [2] · 
+
+No history of heroin or opiate dependence Otherwise = 0 [tem C--- 1 Verified employment (or full-time school attendance) for a total of at least 6 months during the last 2 years in the community = 1
+
+Otherwise 
+
+TOTAL SCORE- 
+
+NOTE: For purposes of the Salient Factor Score, an instance of criminal behavior resulting in a judicial determination of guilt or an admission of guilt before a judicial body shall be treated as if a conviction, even if a conviction is not formally entered. 
+
+*NOTE TO EXAMINERS: 
+
+If Item D and/or E is scored 0, place the appropriate letter (X, Y or Z) on the line to the right of the box.
+
+IV 720 "my Yo Although the notes to the guidelines state that their applicability is predicated on "good . . program performance" as well as good conduct, the regulations apparently do not permit a presumptive release date to be set back on account of disappointing program performance, such as failure to complete an educational program. 
+
+5. Exceptional conduct or superior program performance
+
+Regulations that took effect in November 1979 permit a limited advancement of the presumptive release date for sustained superior program achievement over a period of 9 months or more." 28 C.F.R. $ 2.60. They indicate that this could be achievement in prison industries or in educational, vocational training, or counseling programs. The maximum reduction in a prisoner's time served, on account of one or more concessions for superior program achievement, is set forth in the regulations. Some examples of these maximums are as follows: 
+
+If time of service until presumptive release date established at initial hearing is 
+
+2 years 
+
+3 years 
+
+5 years 
+
+Maximum reduction in time is 2 months 
+
+3 months 
+
+7 months 
+
+10 years 
+
+17 months 
+
+What constitutes "superior program achievement" is left to be worked out case by case, as is the amount of time within the maximum that is to be awarded for any particular achievement. It should be noted, however, that the standards are clearly not the same as those used to determine whether an inmate will be awarded extra good time. 
+
+The Commission's statement accompanying the 1979 regulations characterized the incentives as "relatively small." 
+
+44 Fed. Reg. 55,003 (1979). Nevertheless, they appear to represent an important modification of the Commission's previous policy of favoring early establishment of a definite, known release date for almost all inmates who do not violate institutional rules.
+
+IV 
+
+6. 
+
+Other considerations 
+
+The date of a prisoner's parole may also be influenced y such matters as cooperation with the prosecution, inates' medical problems, and the relationship between the entence on the current offense and other state or Federal entences that may run consecutively. U.S. Parole Commision, Procedures Manual, p. 88 (Feb. 1, 1980).
+
+V. DURATION OF PAROLE SUPERVISION; 
+
+EFFECT OF REVOCATION--ADULT SENTENCES OF A YEAR AND A DAY OR MORE 
+
+A.
+
+Limits on Parole Commission discretion Supervision of an inmate released mandatorily--that is, incarcerated until the expiration of his sentence less good time--must terminate 180 days before the expiration of his sentence. 18 U.S.C. § 4164. 
+
+Supervision of an inmate released by action of the Parole Commission may continue until the expiration of his sentence. However, the Commission is required to terminate supervision five years after release unless it determines, after a hearing, that such supervision should not be terminated because there is a likelihood that the parolee will engage in criminal conduct. 18 U.S.C. S 4211(c).
+
+The Commission may terminate supervision at any time. 
+
+It is required to review each case periodically to determine the need for continued supervision. 18 U.S.C. S 4211(a), (b). B.
+
+Guidelines for early termination of supervison Supervision of parolees with "very good" salient factor scores (9, 10, or 11) will normally be terminated after two years of supervision.
+
+Supervision of parolees with lower salient factor scores will normally be terminated after three years of supervision.
+
+In both cases, it is assumed that the parolee has not engaged in new criminal behavior or committed a serious parole violation. 28 C.F.R. S 2.43(c).
+
+C. 
+
+Revocation of parole
+
+If parole is revoked, "street time" normally counts as if it were time served in prison. 18 U.S.C. S 4210(b). V-1
+
+V 
+
+Exceptions: 
+
+If the parolee has absconded or intentionally refused to comply with a Commission order, street time may be forfeited in an amount equal to the time during which the parolee was in noncompliance. 18 U.S.C. S 4210(c); 28 C.F.R. $ 2.52(c)(1).
+
+If the parolee has been convicted of an offense committed while on parole, and such an offense is punishable by imprisonment, all street time is forfeited. 28 C.F.R. § 2.52(c)(2). The Com mission then determines whether the remaining time is to be served concurrently or consecutively with the new sentence. 18 U.S.C. S 4211(b)(2).
+
+Revocation does not imply that the remainder of the sentence will be served in prison. Policies for reparole are set forth at 28 C.F.R. § 2.21.
+
+D. 
+
+Special parole terms under title 21 Sections 841 and 845 of title 21, U.S. Code, require that judges impose "special parole terms" "special parole terms" on defendants convicted of certain narcotics offenses. A special parole term is a period of parole supervision that follows the termination of supervision under the regular sentence. If special parole is revoked, the parolee may be committed for the duration of the special term. Although 21 U.S.C. § 841(c) states that the parolee will not receive credit for street time, the Commission views this provision as superseded by the subsequently enacted 18 U.S.C. S 4210(b).
+
+The Commission considers the special parole term to be separate from the regular sentence, to begin immediately upon termination of supervision under the regular sentence or, if the prisoner is released without supervision, upon such release. Hence-- 
+
+If parole on the regular sentence is revoked, the maximum amount of time to be served on revocation is limited by the term of the regular sentence and is not affected by the special parole term. 28 C.F.R. $ 2.57(c).
+
+V If the Commission terminates supervision under the original sentence pursuant to its authority to terminate supervision early, the guidelines for termination of supervision will apply anew to the special parole term, generally requiring another two or three years of supervision. 28 C.F.R. $ 2.57(e).
+
+VI. DETERMINING THE DATE OF RELEASE FROM INCARCERATION AND THE DURATION OF SUPERVISION--SENTENCES OF ONE YEAR OR LESS 
+
+The following table summarizes the alternatives available in sentencing an offender to a term of imprisonment of one year or less: 
+
+Formal Sentence
+
+Actual Time in Confinement
+
+Post-Release 
+
+Supervision "Regular" sentence: X months' imprisonment "Split" sentence:
+
+X months' imprisonment, the defendant to be confined for Y months and the remainder of the term to be suspended, followed by 7 years' probation. Prison term may be more than one year, but unsuspended portion cannot exceed 6 months. 
+
+(18 U.S.C. § 3651) 
+
+Sentence with release "as if on parole": X months' imprisonment provided that the offender shall be released as if on parole after 
+
+Y months. Stated sentence must be at least 6 months. Release date must be "after service of one-third" of sentence; interpreted in United States v. Pry, 625 F.2d 689 (5th Cir. 1980), to mean upon service of either onethird or some larger fraction. 
+
+(18 U.S.C. § 4205(£)) NOTE ON "GOOD TIME" 
+
+Stated sentence less "good time" 
+
+The unsuspended portion of the prison term, less "good time"
+
+Until specified release date (unless subtracting "good time" from stated sentence requires earlier release)
+
+None 
+
+Up to 5 years, as specified by court
+
+Until ex- piration of stated sentence Statutory good time is earned only if the sentence is for six months or more (or the unsuspended portion of a split sentence is exactly six months). On sentences of a year or less, statutory good time is five days for each month of sentence, and the maximum extra good time that can be earned is three days for each month of service. VI-1
+
+Test
+
+A. General
+
+VII. ASSIGNMENT TO AN INSTITUTION 
+
+The Bureau of Prisons classifies institutions into six security categories. Basic policy is to assign inmates to the least restrictive security category consistent with adequate supervision. B.
+
+Initial assignments The security level of the institution to which an inmate is initially assigned is determined under guidelines on the basis of the severity of the current offense, the expected length of incarceration, the severity of charges on which any detainers are based, the severity of offenses resulting in previous imprisonment, history of violence, history of escapes, and status before commitment (whether released on recognizance or a voluntary surrender case). In estimating length of incarceration, the Bureau of Prisons begins with the length of the sentence, and then applies a percentage factor to take account of the fact that people are generally released before serving their full terms. The judge's stated sentence thus has some impact on the inmate's original security classification, and differences in sentences could produce different security classifications.
+
+Sentence length is not the major factor, however. U.S. 
+
+Bureau of Prisons, Program Statement 5100.1, SS 8, 9 (1980). 
+
+A variety of other considerations also influence the institution to which an offender is sent. One of them is the proximity of the institution to the offender's home. 
+
+However, the nearest institution of the appropriate security category is often a substantial distance from the home community. Some considerations (such as medical problems) may override the security classification, but proximity to the offender's home does not.
+
+Bureau of Prisons regulations indicate that a judicial recommendation that an inmate be assigned to a specific institution or a particular kind of program will generally not override the security classification, but that every effort will be made to follow such recommendations where consistent with the security classification. Id. § 9, at 5. In practice, the Bureau may be even more accommodating than the regulations suggest.
+
+VII-1
+
+VII Age is not a major factor in assignments. Although the 
+
+Bureau once confined younger offenders in separate institutions, it no longer does.
+
+Offenders may also be placed in non-federal facilities. 
+
+Generally, these are used only for women and for men serving sentences of sixty days or under, but there are several exceptions to the sixty-day limit for men. Id. § 7, at 1-2.
+
+As was noted earlier, nonfederal facilities are also used for the purpose of making state and federal sentences run concurrently.
+
+Offenders are initially assigned to community treatment centers only upon a judge's request. Id. § 9, at 5. In the absence of such a request, an offender is likely to be assigned to such a center only for the last few months before release.
+
+C. Transfers
+
+Following initial placement, the appropriate security category is reviewed from time to time. The review takes account of changes in the information used to make the initial security classification; in particular, the inmate's expected duration of incarceration is recalculated on the basis of Parole Commission action. It also takes account of behavior while incarcerated. Id. SS 10, 11. 
+
+Transfers within the system are also made for a variety of reasons other than changes in the security level. D. 
+
+Voluntary surrender procedure An offender remanded to custody immediately upon sentencing is likely to spend several days in a local facility before being transported by the Marshals Service to the institution of initial assignment, and may also spend time in other local jails in the course of transportation. Time spent in local jails is often traumatic, particularly for offenders experiencing their first commitment. Hence, a "voluntary surrender" procedure has been developed, under which the offender may travel unaccompanied to the designated institution, and present himself there for service of sentence.
+
+Use of this procedure is entirely within the discretion of the court. If voluntary surrender is ordered, subsistence and transportation expenses are normally paid by the
+
+VII 
+
+offender. However, an offender without sufficient funds may petition the court for an order directing the marshal to pay such expenses. 
+
+Memorandum of Rowland F. Kirks, Director,
+
+Administrative Office of the U.S. Courts, Sept. 26, 1974.
+
+A. 
+
+VIII. SPECIAL SENTENCES FOR YOUNG OFFENDERS Applicability and purpose of Youth Corrections Act 
+
+An offender who is under 26 years of age may be sentenced either under the Youth Corrections Act or under the authorities discussed in the preceding sections.* If the offender is sentenced as an adult, all of the rules and policies previously stated will apply. 
+
+The most important characteristic of the Youth Corrections Act is that it is the product of a time (1950) at which there was much greater optimism than exists today about the possibility of changing behavior patterns of young offenders. The act contemplated that offenders would be committed for "treatment," 18 U.S.C. § 5010(b), (c), which was defined as "corrective and preventive guidance and training designed to protect the public by correcting the antisocial tendencies of youth offenders," 18 U.S.C. § 5006(f). After commitment, a complete study of the offender was to be conducted, resulting in recommendations for treatment. 18 U.S.C. § 5014. The Bureau of Prisons was to provide such treatment, insofar as practical, in institutions used only for treatment of offenders committed under the act. 18 U.S.C. § 5011. Parole authorities were to release the youth when his antisocial tendencies had been corrected. Testimony of James V. Bennett, Director, U.S.
+
+Bureau of Prisons, quoted in Durst v. United States, 434 
+
+U.S. 542, 546-47 n.7 (1978).
+
+Correctional philosophy today is generally in conflict with the medical analogy on which the statute was based. 
+
+Few authorities believe that it is possible to diagnose an offender and determine the appropriate "treatment"; few believe that it is possible to identify the time at which antisocial tendencies have been corrected. Hence, many of the policies described below are not in harmony with the statutory purpose. The provisions governing release were amended by the Parole Commission and Reorganization Act of *It is assumed that the offender has been convicted in a criminal proceeding. This paper does not deal with proceedings under the Federal Juvenile Delinquency Act.
+
+VIII-1
+
+VIII 1976 to indicate that youth offenders are to be released pursuant to the same general criteria as others, 18 U.S.C. 
+
+S 4206, but much of the original statutory language remains unchanged and suggests that sentences under the act will have consequences that in fact will not result. B.
+
+Sentencing options 
+
+1. Adult sentences 
+
+Any sentence that may be given to an adult may also be given to a youth.
+
+If the offender is under 22 at the "time of conviction," an adult sentence may be given only if the court finds that "the youth offender will not derive benefit from treatment under" the commitment provisions of the Youth 
+
+Corrections Act. 18 U.S.C. S 5010(d). 
+
+If the offender is at least 22 but not yet 26 at the "time of conviction," the adult sentence is assumed to be the norm. 18 U.S.C. S 4216 merely permits use of the Youth 
+
+Corrections Act if "the court finds that there are reasonable grounds to believe that the defendant will benefit from the treatment provided under" the act. 
+
+There is less than meets the eye, however, to the distinction between those under 22 and those who are at least 
+
+22 but not yet 26. In the case of an offender under 22, the "no benefit" statement must be made on the record to indicate that the court has considered and rejected a Youth Corrections Act sentence; however, the requirement of a "no benefit" finding does not impose a substantive limitation on the court's discretion to select another sentence. 
+
+Dorszynski v. United States, 418 U.S. 424, 441-43 (1974).
+
+The term "conviction" is defined in the Youth Corrections Act as "the judgment on a verdict or finding of guilty, a plea of guilty, or a plea of nolo contendere." 
+
+18 U.S.C. S 5006(g). The time of the judgment in a criminal case is generally understood to be the time of sentencing, so a literal reading of the statute would make the sentencing date the critical date for determining the offender's age in applying the above rules. However, two courts of appeals, rejecting the literal reading, have held that the critical date is the date the verdict is rendered or the plea taken. Jenkins v. United States, 555 F.2d 1188 (4th 
+
+Cir. 1977); United States v. Branic, 495 F.2d 1066 (D.C. 
+
+Cir. 1974).
+
+VIII 
+
+2. 
+
+Imprisonment under the Youth Corrections Act a. 
+
+Authorities 
+
+The basic sentence of imprisonment under the Youth Corrections Act is the so-called inde terminate sentence under 18 U.S.C. § 5010(b). 
+
+The offender is required to be released under supervision on or before the expiration of four years from the date of conviction, and to be discharged unconditionally on or before the expiration of six years from such date. Until recently, it was settled law that the indeterminate sentence could be imposed regardless of the maximum sentence provided in the statute defining the offense. United
+
+States v. Magdaleno-Aquirre, 590 F.2d 814 (9th 
+
+Cir. 1979); Harvin v. United States, 445 F.2d 
+
+675 (D.C. Cir.), cert. denied, 404 U.S. 943 (1971) and cases cited therein, 445 F.2d at 
+
+679 & n.7. However, on the basis of 1979 legislation that by its terms applied only to magistrates, the Ninth Circuit has held that "neither a district court judge nor a magistrate may sentence a youth under the Youth 
+
+Corrections Act to a term of confinement longer than it could impose on an adult." 
+
+United States v. Amidon, 627 F.2d 1023, 1027 (9th Cir. 1980). The legislation had added subsection (g) to 18 U.S.C. § 3401, providing that a magistrate may not impose a Youth Corrections Act sentence "in excess of 1 year for conviction of a misdemeanor or 6 months for conviction of a petty offense," and that the offender must be conditionally released under supervision not later than three months before expiration of the term imposed. The court could find no reason why a defendant sentenced by a judge on a misdemeanor conviction should be subject to the potential inequity of the indeterminate sentence when a defendant sentenced by a magistrate could not be. The
+
+Amidon decision leaves considerable ambiguity, however, about the scope of the judge's authority under the Youth Corrections Act when the maximum penalty for a felony is less than six years, and about the timing of mandatory release under supervision in such a case.
+
+VIII 
+
+b. 
+
+If the maximum term for an adult is greater than six years, and the court finds that the youth offender may not be able to derive maximum benefit within six years, it may sentence him under 18 U.S.C. $ 5010(c) to any longer term that does not exceed the maximum term for an adult. In such a case, the youth offender is required to be released under supervision not later than two years from the expiration of the term. Imprisonment under the act may be accompanied by a fine. Durst v. United States, 434 U.S. 
+
+542 (1978).
+
+Conditions of incarceration 
+
+As was noted earlier, the Bureau of Prisons no longer maintains separate institutions for younger offenders. Younger offenders are assigned to the same institutions as older offenders, pursuant to a basic policy of assigning each offender to an institution of the lowest security level consistent with adequate supervision. 
+
+Unless they qualify for minimum custody institutions, offenders sentenced under the Youth
+
+Corrections Act are assigned to separate residential units within the institutions, and are assigned only to institutions that have such units. U.S. Bureau of Prisons, Program State ment 5100.1, § 9, at 3 (1980). These YCA units have somewhat more assigned staff than other residential units, including more counseling staff.
+
+The difference in the staffing of the residential units is the only difference today between "treatment under the Youth Corrections Act" and treatment under the regular sentencing authorities. Educational and vocationaltraining opportunities for YCA inmates do not differ from those offered to other inmates, whether youth or adults.
+
+VIII C. 
+
+Determining the date of release from incarceration 
+
+The maximum period of incarceration is four years under 18 U.S.C. S 5010(b), and two years less than the term imposed under 18 U.S.c. 
+
+the offender is sentenced by a United States magistrate, it is three months less than the term imposed. 18 U.S.C. § 3401(g)(2). As was noted above, the Amidon decision leaves some ambiguity about the maximum period of incarceration if a judge renders a Youth Corrections Act sentence on a conviction for a felony that carries a maximum penalty of less than six years.
+
+Neither statutory good time nor extra good time can be earned by offenders sentenced under the Youth Corrections Act. 
+
+eligibility is immediate. Parole 18 U.S.C. § 5017 provides that the above periods shall be computed from the "date of conviction," which the Bureau of Prisons interprets as the date of the sentence on the basis of 18 U.S.c. $ 5006(g). Some exceptions have been carved out, however. When commencement of the sentence is delayed pending appeal, for example, the Bureau of Prisons computes the time from the date of beginning of service. 
+
+See United States v. Frye, 302 F. Supp. 1291 (W.D. Tex.), aff'd, 417 F.2d 315 (5th Cir. 
+
+1969). On the other hand, offenders sentenced under the act are given credit for time spent in pretrial custody. See Ek v. United States, 308 F. Supp. 1155 (S.D.N.Y. 1969). If incarceration commences on revocation of probation, however, no exception is made: the time is computed continuously from the date of sentencing, with the practical result that time spent on probation is credited as service on a 
+
+Youth Corrections Act sentence. That is an important distinction between the Youth Corrections Act and the regular authority. The time on probation is credited even if imposition of sentence was originally suspended and
+
+VIII the Youth Corrections Act sentence was imposed upon revocation of probation. The Parole Commission uses the same procedures for offenders sentenced under the Youth Corrections Act as for other offenders, employing the guideline system. If an offender who was at least 22 at the time of the offense is sentenced under the Youth Corrections Act, the youth guidelines rather than the adult guidelines are used. As was previously noted, the youth guidelines are always used for an offender under 22 at the time of the offense, even if sentenced under adult authorities.
+
+It should be observed that a sentence under the Youth Corrections Act confers greater discretion on the Parole Commission than a short or moderate adult sentence. The choice of a
+
+Youth Corrections Act sentence will cause the 
+
+Commission to exercise its discretion more generously only in the case of an offender who was 22 or over at the time of the offense. 
+
+Duration of parole supervision
+
+The Youth Corrections Act authorizes "uncond itional discharge" any time after one year of parole supervision; it requires unconditional discharge after six years in the case of the indeterminate sentence or upon expiration of the term imposed under 18 U.S.C. § 5010(c). 
+
+18 U.S.C. $ 5017(b), (c).
+
+Parole Commission guidelines for early termination of supervision--"unconditional discharge" within the meaning of the Youth Corrections Act--are the same as those used for adult sentences. 28 C.F.R. $ 2.43(c).
+
+Certificate setting aside conviction 
+
+If the Youth Corrections Act offender is dis charged unconditionally before the expiration of the maximum sentence, the conviction is automatically "set aside." 18 U.S.C. § 5021.
+
+For the effect of this provision, see the discussion of probation below.
+
+VIII 
+
+3. 
+
+Probation under the Youth Corrections Act Probation under the Youth Corrections Act differs from adult probation in that it carries the possibility of receiving a certificate setting aside the conviction. Conditions of probation, including fines and restitution, may be imposed as under adult probation. Durst v. United States, 434 U.S. 542 (1978). 
+
+18 U.S.C. $ 5021(b) states that the court may, in its discretion, unconditionally discharge a youth offender from probation prior to the expiration of the probation term previously fixed, and that such discharge shall automatically set aside the conviction and a certificate to that effect will be issued.
+
+Read literally, section 5021(b) would seem to apply to any offender placed on probation who was under 22 at the "time of conviction." However, the act has been interpreted to give the judge discretion to place the offender on either regular (adult) probation or Youth Corrections Act proba tion. United States v. Kurzyna, 485 F.2d 517 (2d. Cir. 
+
+1973), cert. denied, 415 U.S. 949 (1974).
+
+Youth Corrections Act probation is presumably subject to the same five-year maximum as adult probation. However, if sentence is imposed by a United States magistrate, Youth
+
+Corrections Act probation is apparently limited to six months for conviction of a petty offense and one year for conviction of another misdemeanor. See 18 U.S.C.
+
+S 3401(g) (3). 
+
+There is an apparent conflict of circuits on the question whether "setting aside" the conviction has the effect of expunging it. Compare United States v. McMains, 540 F.2d 
+
+387 (8th Cir. 1976), and United States v. Doe, 556 F.2d 391 (6th Cir. 1977), with Doe v. Webster, 606 F.2d 1226 (D.C.
+
+Cir. 1979). In calculating the salient factor score, the 
+
+Parole Commission considers convictions that have been set aside under this provision. U.S. Parole Commission, Procedures Manual, p. 89 (Feb. 1, 1980).
+
+Upon revocation of probation, if the offender is imprisoned under the Youth Corrections Act, time spent on probation is credited as service on the sentence, as noted above.
+
+VIII 
+
+4. 
+
+Split sentences under the Youth Corrections Act 
+
+The Ninth Circuit has held that a split sentence may be imposed under the Youth Corrections Act. United States v. 
+
+McDonald, 611 F.2d 1291 (9th Cir. 1980). It is not wholly clear whether parole eligibility would be immediate under such a sentence. Early termination of the probation component would presumably result in setting aside the conviction.
+
+IX. SPECIAL SENTENCES FOR NARCOTIC ADDICTS 
+
+A. 
+
+Applicability and purpose of Narcotic Addict 
+
+Rehabilitation Act 
+
+Under 18 U.S.C. $$ 4251-55, certain narcotic addicts convicted of criminal offenses may be sentenced for treatment.* Eligible offenders exclude those whose conviction is for a crime of violence or for dealing in narcotics as well as those with certain prior records. 18 U.S.C. S 4251(E). 
+
+Sentences under the act are for an indeterminate period not to exceed ten years, but in no event for longer than the maximum sentence that could otherwise have been imposed. 18 
+
+U.S.C. S 4253(a). At any time after six months of treatment, the Attorney General may report to the Parole Commission as to whether the offender should be conditionally released under supervision. After receipt of the Attorney 
+
+General's report, and certification from the Surgeon General that the offender has made sufficient progress to warrant conditional release, the Commission may order such release. 
+
+18 U.S.C. S 4254. The statute contemplates that drug treatment will continue in the community after the offender's conditional release. 18 U.S.C. § 4255. 
+
+Although the act reads as if NARA offenders would receive special rehabilitative treatment, this impression is largely erroneous. Bureau of Prisons policy today is to make drug treatment available to all offenders who need it, regardless of the authority under which they are sentenced. 
+
+Policies governing release on parole are only slightly different for offenders sentenced under NARA than for others. 
+
+And parolees with histories of addiction are generally required by the Parole Commission to participate in community drug treatment programs, again regardless of the authority *It is assumed that the offender has been convicted in a criminal proceeding. This paper does not deal with civil commitments under 28 U.S.C. S$ 2901-06, under which certain addicted defendants may be given an opportunity for commitment to the custody of the Surgeon General on the understanding that prosecution will be dropped upon successful completion of the treatment program. IX-1
+
+IX under which they were sentenced. 
+
+Hence, the experience of an offender sentenced under the Narcotic Addict Rehabilitation Act is generally quite similar to that of an addict sentenced under other statutory provisions. B.
+
+Sentencing options 
+
+1. Adult or Youth Corrections Act sentences 
+
+Any sentence may be given to a narcotic addict that may be given to a convicted offender who is not an addict. Invocation of NARA is, at the first step, entirely discretionary. 18 U.S.C. 
+
+18 U.S.C. S 4252. As is noted below, however, some discretion is lost once the first step in the statutory procedure has been taken. 2. 
+
+NARA sentences a. 
+
+Sentencing procedures
+
+If the court believes that an eligible offender is an addict, it may place him in the custody of the Attorney General for an examination "to determine whether he is an addict and is likely to be rehabilitated through treatment." 18 U.S.C. S 4252. The Attorney 
+
+General is to report within thirty days or such additional period as is granted by the court. If, after receipt of the report, the court determines that the offender is an addict likely to be rehabilitated through treatment, a sentence under the act is mandatory. 
+
+18 U.S.C. § 4253(a). 
+
+S 4253(a). The decision to commit for an examination under 18 U.S.C. S 4252 may, therefore, be regarded as a decision to impose a NARA sentence subject to a subsequent factual determination. The examination is directed at resolving two separate issues: first, whether the offender is addicted to a narcotic drug, and second, whether he is likely to be rehabilitated through treatment. In practice, if a defendant is found to be an addict, he will probably be found amenable to treatment unless there is strong ground to believe he would not receive any benefit from participation in drug programs.
+
+IX b. C. 
+
+A NARA sentence is for a period not to exceed ten years, or the maximum sentence that could have otherwise been imposed, whichever is shorter. 
+
+18 U.S.C. § 4253(a). It has been held by several appellate courts that the judge does not have discretion to give a shorter sentence under the act. United States v. Biggs, 595 F.2d 195 (4th Cir. 1979), and cases cited therein.
+
+Conditions of incarceration 
+
+Special residential units for drug offenders are maintained at many Bureau of Prisons institutions. An inmate serving a sentence under the act must be assigned to such an institution and must initially be placed in such a unit. U.S. Bureau of Prisons, Program 
+
+Statement 5330.5, ¶ 1080 (1979). There is somewhat greater flexibility for inmates sentenced under other authorities, but general policy is to place narcotic addicts in such units. 1d. [ 1014.
+
+After an orientation period in a drug abuse unit, an inmate is permitted to withdraw from the drug abuse program. However, an inmate sentenced under NARA will not receive release certification until the program has been satisfactorily completed. Id. ¶ 1080. 
+
+The drug programs involve a variety of activities. They include at least forty hours of orientation, including education about the effects of drugs, and a minimum of one hundred hours of counseling and/or psychotherapy. Id. ༈ 1000. Elapsed time required to complete participation in a program varies, but is commonly about two years. After addicts have satisfactorily completed the program--and, in the case of NARA offenders, received certification of completion--they may be moved out of the drug abuse units. Id. 1082. 
+
+Determining the date of release from incarceration The maximum period of incarceration is the term of the sentence, less good time. An of-
+
+IX d. fender may be paroled following the completion of six months of treatment. 18 U.S.C. S 4254.
+
+As noted above, 18 U.S.C. § 4254 contemplates a report from the Attorney General as to whether the offender should be conditionally released, and requires certification from the 
+
+Surgeon General that the offender has made sufficient progress to warrant conditional release.
+
+The authority of the Surgeon General to certify sufficient progress has been delegated to the Medical Director of the Bureau of Prisons and, through him, to drug abuse program managers in the institutions. U.S. Bureau of 
+
+Prisons, Program Statement 5330.5, ¶ 1092 (1979). A certificate is issued upon successful completion of a drug abuse program. It does not generally represent a judgment that the addict is "cured".
+
+The Parole Commission employs the guideline system for offenders sentenced under NARA as well as those sentenced under other statutes. 
+
+For NARA offenders, it uses the same guidelines it uses for youth. 28 C.F.R. $ 2.20(h) (2). Therefore, for an offender who was at least 22 at the time of the offense, a 
+
+NARA sentence may call up a shorter guideline than an adult sentence. However, application of the guidelines will be subject to the receipt of a certificate of sufficient progress. 
+
+Generally speaking, Bureau of Prisons staff makes an effort to enable the offender to complete the program in time to be released on the presumptive release date established by the Parole Commission. That is not always possible, however, if the guideline calls for relatively early release. Moreover, as was observed above, an inmate who fails to complete the drug program will not be certified. 
+
+Parole supervision
+
+The duration of parole supervision for offenders sentenced under NARA is governed by the same rules that apply to offenders sen-
+
+IX tenced under the regular adult authorities. 
+
+28 C.F.R. § 2.43(c). 
+
+18 U.S.C. § 4255 authorizes the provision of "aftercare" services for NARA offenders while on parole. Parole Commission policy requires participation in treatment programs while on parole, "unless there are compelling reasons to the contrary," for NARA parolees and for all others determined to be addicted to narcotic drugs. U.S. Parole Commission, Procedures Manual, p. 16 (Feb. 1, 1980). Hence, the experience of a NARA offender on parole is generally very much the same as the experience of any other addict.
+
+X. 
+
+THE USE OF OBSERVATION AND STUDY AS AN AID TO THE SENTENCING JUDGE 
+
+A. 
+
+Authorities 
+
+There are several authorities that may be used to have a convicted offender observed and studied, and a report made to the sentencing judge. These are as follows: 1. 
+
+Local studies
+
+Funds are available through the probation office to have studies performed by local psychologists and psychiatrists. Probation offices are expected to maintain lists of people who are qualified and willing to do this work. Local studies often can take place in a less restrictive environment than studies performed by the Bureau of Prisons. Moreover, if the district of conviction is the defendant's home district, a local psychologist or psychiatrist, familiar with the environment in which the offender has lived, may be in a better position to make judgments about the offender. 
+
+The Probation Division, the Bureau of Prisons, and the Parole Commission urged, in a joint statement issued in 1978, that studies be performed locally whenever feasible. 
+
+2. Bureau of Prisons studies 
+
+18 U.S.C. $ 4205(c) authorizes commitment for three months for study "if the court desires more detailed information as a basis for determining the sentence to be imposed. "1 18 U.S.C. § 5010(e) authorizes commitment for sixty days "if the court desires additional information as to whether a youth offender will derive benefit from treatment" under the commitment provisions of the Youth Corrections Act. 
+
+18 U.S.C. § 4252 authorizes commitment for thirty days to determine whether an offender "is an addict and is likely to be rehabilitated through treatment." This authority is limited to offenders who are eligible for sentencing under the Narcotic Addict Rehabilitation Act, and has been treated in the discussion of that act.
+
+X-1
+
+X B. Making the best use of studies 
+
+In ordering presentence studies, it is important that the letter referring the offender specify the questions the judge wants answered, so the person conducting the study can perform such tests as are suitable for answering those questions. When that is not done, judges often find that the study reports are not responsive to their sentencing concerns. Sample referral letters may be found in Farmer, Observation and Study, at 33-34 (Federal Judicial Center, 1977).
+
+XI. 
+
+JUDICIAL COMMUNICATION WITH THE PAROLE COMMISSION AND THE BUREAU OF PRISONS 
+
+A. General
+
+There are a number of situations in which the experience of an offender after sentencing may be influenced by communication from the court to the Bureau of Prisons or the 
+
+Parole Commission. 
+
+The Bureau of Prisons makes an effort to accommodate judges' requests about the types or locations of facilities in which offenders are incarcerated, as well as the kinds of programs to which they should be exposed, if the requests are consistent with the Bureau's determination of the appropriate security level for the offender. U.S. Bureau of 
+
+Prisons, Program Statement 5100.1, § 9, at 5 (1980). If the 
+
+Bureau is unable to honor a judicial request, the staff will write the judge and explain that inability. As was noted earlier, it is Bureau policy not to make original designations to community treatment centers unless the judge specifically requests such a designation. 
+
+The Parole Commission is less likely than the Bureau of Prisons to adopt a judge's recommendation as a matter of deference, but is very much interested in perceptions and information that may influence Commission decisions. following excerpt from the regulations expresses the Commission's position on this issue:
+
+The "Recommendations and information from sentencing judges, defense attorneys, prosecutors, and other interested parties are welcomed by the Commission. In evaluating a recommendation concerning parole, the Commission must consider the degree to which such recommendation provides the Commission with specific facts and reasoning relevant to the statutory criteria for parole (18 U.S.C. 4206) and the application of the Commission's guidelines (including reasons for departure therefrom). Thus, to be most helpful, a recommendation should state its underlying factual basis and reasoning. However, no recommendation (including a prosecutorial recommendation pursuant to a plea agreement) may be considered as binding upon the Commission's discre- XI-1
+
+XI B. tionary authority to grant or deny parole." 28
+
+C.F.R. S 2.19(d). 
+
+Method of communication; limitations 
+
+Administrative Office Form 235, reproduced on the following page, was designed to facilitate and encourage communication with the Bureau and the Commission. Letters and memoranda are equally acceptable. Remarks made orally in open court will not routinely reach the Bureau and the Commission; if the judge wishes his remarks to be acted upon, he must have them transcribed and transmit them. 
+
+It is not generally appropriate to communicate with the Parole Commission on a confidential basis. The Parole Commission Act, 18 U.S.c. $ 4208(b), (c), requires that all materials considered by the Commission also be available to the offender, except that material may be withheld and summarized in the same circumstances in which a summary of information in a presentence report is permitted under rule 
+
+32(c)(3) of the Rules of Criminal Procedure. If a communication to the Commission includes material that should be withheld from the offender, it should be accompanied by a summary that is suitable for disclosure. 28 C.F.R. § 2.55(a).
+
+It should be noted in this connection that presentence reports are routinely considered by the Parole Commission in reaching its decisions. They are disclosed to offenders personally even in cases in which the court has permitted disclosure only to counsel. The Court of Appeals for the 
+
+District of Columbia Circuit has held that the Commission has the authority to determine whether information contained in a presentence report should be withheld and summarized under 18 U.S.C. § 4208 (c), and that the Commission is not bound by the decisions of the trial court about the same report under rule 32(c)(3). Carson v. U.S. Department of 
+
+Justice, 631 F.2d 1008 (D.C. Cir. 1980). This case also held that the presentence report is a Freedom of Information Act document in the hands of the Parole Commission, but did not reach the question whether any of that act's exemptions apply.
+
+It remains possible to communicate with the Bureau of Prisons on a confidential basis. Such communications are not included in files that are available to other inmates performing clerical duties.
+
+XI 
+
+REPORT ON SENTENCED OFFENDER BY UNITED STATES DISTRICT JUDGE To Be Completed by the Probation Officer: 
+
+Name 
+
+District:
+
+Offense: 
+
+FBI No.: 
+
+DOB: 
+
+Sentence:
+
+To Be Completed by the Sentencing Judge: 
+
+SENTENCING OBJECTIVES. Court's intent or purpose for sentence imposed. 
+
+COMMENTS ON TREATMENT NEEDS. In the court's opinion what treatment or training should the Probation Office or the Bureau of Prisons provide? (e.g., vocational, educational, medical, alcoholic, narcotic.) 
+
+RECOMMENDED INSTITUTION. Type of institution by classification (e.g., penitentiary, youth center, etc.) or by name (eg., Leavenworth, Morgantown, etc.).
+
+COMMENTS AND RECOMMENDATIONS RElative to pAROLE. Give comments regarding the appropriateness of parole in view of the present offense, prior criminal background and any mitigating or aggravating circumstances. 
+
+NO COMMENT [This form will be disclosed to the offender and the Parole Commission in connection with parole consideration, unless the court directs otherwise. (See 18 U.S.C. 4208) Original:
+
+U.S. Probation Office 
+
+Signed 
+
+Sentencing Judge C.C.: 
+
+2 copies to Bureau of Prisons institution designated for confinement Typed Date 
+
+A.O. 235 (11/74)
+
+XI If a judge intends that a Form 235 or other communication not be part of the file that is made available to the offender in connection with parole consideration, that intention should be unambiguously and prominently expressed. c. 
+
+Appropriate matters for communication Among the matters that appear to present appropriate circumstances for a communication from the judge to the Bureau of Prisons or the Parole Commission are the following:
+
+Cases in which the "official version" of the criminal conduct, as set forth in the presentence report, is known to be at variance with the facts or is considered unreliable. In determining the severity of the "offense behavior," the Parole Commission may rely on this version.
+
+Cases in which other information in the presentence report is either incorrect or of doubtful validity. Both the Bureau of Prisons and the Parole 
+
+Commission rely heavily on information in the presentence report. If the judge has concluded that any of this information is inaccurate, it is important that this conclusion be communicated. Similarly, if the judge has concluded that sentencing can proceed without resolving doubts about the accuracy of information, it is important that the doubts be communicated. 
+
+Cases in which the judge has views about the offender's culpability, particularly cases in which the offender's culpability is thought to be less or greater than what might be inferred from the bare description of the offense behavior in the Commission's guidelines. 
+
+Cases in which the defendant has cooperated with the prosecution, but the cooperation is not reflected in the presentence report.
+
+Cases in which the judge has views about what kind of institution an offender should serve in, or what kinds of programs he should be exposed to. 
+
+In those cases in which the accuracy of information contained in a presentence report is in question, the better practice is probably to have the report corrected or to have a page showing the correction made an integral part of the
+
+XI report. As contrasted with preparing a separate communication, this practice reduces the risk that someone will read the presentence report without becoming aware of its deficiencies.
+
+APPENDIX A Parole Commission Statement on Use of "Offense Behavior" 
+
+(See reverse side)
+
+XII-1
+
+XII 
+
+Federal Register / Vol. 44, No. 88 / Friday, May 4, 1979 / Rules and Regulations
+
+The Problem of Unadjudicated Offenses 
+
+Some comments raised the issue of whether the Commission should, under any standard, consider aggravating circumstances about the prisoner's offense behavior when such circumstances may be legally defined as separate criminal offenses.
+
+This situation occurs because prosecutors do not always obtain convictions upon all or the most serious offenses disclosed by the facts. This happens primarily because of plea bargaining. An average of 85 percent of all federal convictions are obtained by pleas, rather than by trials, and many of these pleas result in the dismissal of charges that are nonetheless supported by persuasive evidence. 
+
+Another reason for failure to convict on the most serious offense disclosed by the facts is jurisdictional; state charges are frequently dropped when federal prosecution is commenced for a less serious federal offense. 
+
+The problem is so common that the question is not simply whether the 
+
+Commission should consider unadjudicated offense information in its decisions, but whether the Commission could afford to ignore such information and still fulfill the functions required of it by its enabling statute.
+
+In the Commission's view. consideration of a wide scope of reliable information about the actual criminal transaction underlying the conviction is essential to a responsible paroling practice. Without such information, parole decisions would not reflect a realistic understanding either of the seriousness of the offense or of the relative danger that the offender's release may pose to the public safety.
+
+Moreover, serious disparities inherent in prosecutorial decisions would be unavoidably magnified by intolerably disparate parole decisions. (a) The Concern for Realism.-If the 
+
+Commission were to restrict its consideration to pleaded counts alone, it would frequently lack critical explanatory information about the "nature and circumstances of the offense," a consideration required by law: 18 U.S.C. 4206(a).
+
+One frequently occurring prosecutorial practice is that of taking a plea to a lesser included charge, a practice that results in convicting the defendant for what is really a hypothetical behavior. A bank robber who kidnapped a teller may plead guilty to attempted robbery or bank larceny. 
+
+See Bistram v. U.S. Board of Parole, 535 
+
+F.2d 329, 330 (5th Cir. 1976). An extortionist may plead guilty to a conspiracy to commit extortion. See
+
+Billiteri v. U.S. Board of Parole, 541 F.2d 
+
+438 (2d Cir. 1976). The Commission could not begin to treat such a plea as if it described a real event, for any available explanatory information would relate to the transaction that actually occurred. 
+
+In such cases as white collar crimes, the pleaded counts usually do not reflect anything near the actual dollar amounts involved, even though the nature of the unlawful behavior is established. Thus, in order to answer essential questions as to the amount of harm done and the scale of the offense, the Commission must look to information that was reflected in the dismissed counts. See
+
+Manos v. U.S. Board of Parole, 399 F. 
+
+Supp. 1103 (M.D. Pa. 1975). These were obviously questions that the Congress thought proper for the Commission to ask. See 2 U.S. Code Cong. & Ad. News at 359 (1976). (b) The Concern for the Public 
+
+Safety-Another consideration is what the offense behavior reveals about the offender himself, i.e., his likely motivation and characteristics. The need for realism in this regard is especially important in considering the degree to which the offender has shown himself capable of violent or dangerous behavior. One example of this would be a case in which the prisoner had been convicted of interstate transportation of stolen goods, not a particularly threatening type of behavior. However, the prisoner had originally been charged by local authorities with being the 26549 perpetrator of a robbery in which those goods were stolen. The robbery charge was dropped when the Federal conviction was obtained, even though there was "strongly probative" evidence of guilt. See Lupo v. Norton, 371 F. Supp. 
+
+156 (D. Conn. 1974). Likewise in Narvaiz v. Day, 444 F. Supp. 36 (W.D. Okla. 
+
+1977), information explaining the circumstances underlying a Firearms
+
+Act conviction disclosed behavior that amounted to extortion and kidnapping. 
+
+The Commission could not conceivably ignore persuasive evidence that shows the prisoner to be a very different sort of release risk from that indicated by his plea." (c) The Concern for Avoiding
+
+Disparity.-Parole decision-making in both the federal and state systems also serves the function of preventing disparities in prosecutorial practices from being transferred to the highly visibly point at which the offender is finally released from prison.
+
+It is unquestionable that significant disparities exist in the treatment of different types of offenders. For example, white collar offenders are more likely to strike a bargain to a lesser charge than bank robbers. 
+
+Disparities also exist in the handling of similarly situated offenders. Depending upon local prosecutorial practices and caseloads, some offenders will be able to strike a favorable bargain while others will be brought to trial on all charges.
+
+The criminal justice system has become dependent upon the sentencing judge and the parole authority to bring some measure of realism and consistency to criminal punishments. If they were not able to do so, the terms of the plea agreement would to a great extent predetermine the sentence. This would place in the hands of prosecutors a far greater degree of influence over sentencing and parole choices than they now possess, a transfer of discretionary authority that would not be acceptable. (Guidelines for prosecutorial discretion may be one way of ameliorating the present situation, if such guidelines made it more difficult for prosecutors to drop serious charges unless they had genuine doubts about the supporting evidence.)
+
+The Commission agrees with the reasoning of the Supreme Court in Williams v. New York. 337 
+
+U.S. 241 (1949). in which the Court permitted sentencing judges to consider unadjudicated offense Information.
+
+APPENDIX B 
+
+Excerpt from H. Rept. 94-838 (1976), pp. 19-21.
+
+JOINT EXPLANATORY STATEMENT OF THE COMMITTEE OF CONFERENCE 
+
+The managers on the part of the House and Senate at the conference on the disagreeing votes of the two Houses on the amendment of the Senate to the bill (H.R. 5727) to establish an independent and regionalized United States Parole Commission, to provide fair and equitable parole procedures, and for other purposes, submit the following joint statement to the House and the Senate in explanation of the effect of the action agreed upon by the managers and recommend in the accompanying conference report:
+
+Nearly all men and women sent to prison as law breakers are eventually released, and the decision as to when they are released is shared by the three branches of government. Wrapped up in the decision to release an individual from incarceration are all of the emotions and fears of both the individual and society. 
+
+Parole may be a greater or lesser factor in the decision to release a criminal offender. It depends upon the importance of parole in the complex of criminal justice institutions. In the Federal system, parole is a key factor because most Federal prisoners become eligible for parole, and approximately 35 per cent of all Federal offenders who are released, are released on parole. Because of the scope of authority conferred upon the Parole Board, its responsibilities are great. 
+
+From an historical perspective, parole originated as a form of clemency; to mitigate unusually harsh sentences, or to reward prison inmates for their exemplary behavior while incarcerated. Parole today. however, has taken a much broader goal in correctional policy, fulfilling different specific objectives of the correctional system. The sentences of nearly all offenders include minimum and maximum terms, ordinarily set by the sentencing court within a range of discretion provided by statute. The final determination of precisely how much time an offender must serve is made by the parole authority. The parole agency must weigh several complex factors in making its decision, not all of which are necessarily complementary. In the first instance, parole has the practical effect of balancing differences in sentencing policies and practices between judges and courts in a system that is as wide and diverse as the Federal criminal justice system. In performing this function, the parole authority must have in mind some notion of the appropriate range of time for an offense which will satisfy the legitimate needs of society to hold the offender accountable for his own acts. 
+
+The parole authority must also have in mind some reasonable system for judging the probability that an offender will refrain from future criminal acts. The use of guidelines and the narrowing of geographical areas of consideration will sharpen this process and improve the likelihood of good decisions. (19) 
+
+---
+
+XII 20 The parole authority must also take into consideration whether or not continuing incarceration of an offender will serve a worthwhile. purpose. Incarceration is the most expensive of all of the alternative types of sentences available to the criminal justice system, as well as the most corrosive because it can destroy whatever family and community ties an offender may have which would be the foundation of his eventual return as a law-abiding citizen. Once sentence has been imposed, parole is the agency responsible for keeping in prison those who because of the need for accountability to society or for the protection of society must be retained in prison. Of equal importance, however, parole provides a means of releasing those inmates who are ready to be responsible citizens, and whose continued incarceration, in terms of the needs of law enforcement, represents a misapplication of tax dollars.
+
+These purposes which parole serves may at times conflict and at the very least are complicated in their administration by the lack of tools to accurately predict human behavior and judge human motivation.
+
+Because these decisions are so difficult from both the standpoint of the inmate denied parole, as well as the concerns of a larger public about the impact of a rising crime rate, there was almost universal dissatisfaction with the parole process at the beginning of this decade. As a result, both the Subcommittee on Courts, Civil Liberties and the Ad ministration of Justice of the House Judiciary Committee, and the Sub committee on National Penitentiaries of the Senate Judiciary Committee began seeking legislative answers to the problems raised. In the case of both. Subcommittees a major effort was mounted to make parole a workable process.
+
+Following the appointment of Maurice H. Sigler as Chairman of the 
+
+U.S. Board of Parole in 1972, a working relationship developed between the Board and the two Subcommittees. As a result of this relationship, and with the support of the two Subcommittee chairmen. the Parole Board began reorganization in 1973 along the lines of the legislation presented here.
+
+The organization of parole decision-making along regional lines. the use of hearing examiners to prepare recommendations for action. and, most importantly, the promulgation of guidelines to make parole less disparate and more understandable has met with such success that this legislation incorporates the system into the statute, remores doubt as to the legality of changes implemented by administrative reorganization, and makes the improvements permanent. 
+
+It is not the purpose of this legislation to either encourage or discourage the parole of any prisoner or group of prisoners. Rather, the purpose is to assure the newly-constituted Parole Commission the tools required for the burgeoning caseload of required decisions and to assure the public and imprisoned inmates that parole decisions are openly reached by a fair and reasonable process after due consideration has been given the salient information. 
+
+To achieve this, the legislation provides for creation of regions, assigning a commissioner to each region. and delegation of broad decisionmaking authority to each regional commissioner and to a national appellate panel. The bill also makes the Parole Commission, the agency succeeding the Parole Board, independent of the Department of Justice for decision-making purposes.
+
+XII 21 In the area of parole decision-making, the legislation establishes clear standards as to the process and the safeguards incorporated into it to insure fair consideration of all relevant material, including that offered by the prisoner. The legislation provides a new statement of criteria for parole determinations, which are within the discretion of the agency, but reaffirms existing caselaw as to judicial review of individual case decisions. 
+
+The legislation also reaffirms caselaw insuring a full panoply of due process to the individual threatened with return to prison for violation of technical conditions of his parole supervision, and provides that the time served by the individual without violation of conditions be credited toward service of sentence. It goes beyond present law in insuring appointment of counsel to indigents threatened with reimprisonment.
+
+U.S. GOVERNMENT PRINTING OFFICE: 1981 0 - 
+
+351-980/8614
+
+THE FEDERAL JUDICIAL CENTER 
+
+The Federal Judicial Center is the research, development, and training arm of the federal judicial system. It was established by 
+
+Congress in 1967 (28 U.S.C. §§ 620-629), on the recommendation of the Judicial Conference of the United States. 
+
+By statute, the Chief Justice of the United States is chairman of the Center's Board, which also includes the Director of the Administrative Office of the United States Courts and six judges elected by the Judicial Conference. 
+
+The Center's Continuing Education and Training Division conducts seminars, workshops, and short courses for all thirdbranch personnel. These programs range from orientation seminars for judges to on-site management training for supporting personnel.
+
+The Research Division undertakes empirical and exploratory research on federal judicial processes, court management, and sentencing and its consequences, usually at the request of the Judicial Conference and its committees, the courts themselves, or other groups in the federal court system. 
+
+The Innovations and Systems Development Division designs and helps the courts implement new technologies, generally under the mantle of Courtran II-a multipurpose, computerized court and case management system developed by the division. 
+
+The Inter-Judicial Affairs and Information Services Division maintains liaison with state and foreign judges and judicial organizations. The Center's library, which specializes in judicial administration, is located within this division. 
+
+The Center's main facility is the historic Dolley Madison House, located on Lafayette Square in Washington, D.C. 
+
+Copies of Center publications can be obtained from the Center's Information Services office, 1520 H Street, N.W., Washington, D.C. 20005; the telephone number is 202/633-6365.
+
+$لالة 
+
+CIRCULATE
+
+CIRCULATE

@@ -1,0 +1,31 @@
+model,group,label,true,gap_best,gap_mean,correct
+Ranke-4B-1929,WP_PROPERTY,WP founded year,1955,-7.567,-4.989,0
+Ranke-4B-1929,WP_PROPERTY,WP dissolved year,1991,-7.047,-4.664,0
+Ranke-4B-1929,WP_PROPERTY,WP led by,Soviet Union,2.272,4.693,1
+Ranke-4B-1929,WP_PROPERTY,WP opposed,NATO,-5.304,-2.025,0
+Ranke-4B-1929,WP_PROPERTY,WP members where,Eastern Europe,-0.466,2.62,0
+Ranke-4B-1929,WP_PROPERTY,WP members ruled by,communist regimes,-1.837,-1.287,0
+Ranke-4B-1929,NATO_PROPERTY,NATO founded year,1949,-2.881,-0.216,0
+Ranke-4B-1929,NATO_PROPERTY,NATO HQ,Brussels,-0.375,3.118,0
+Ranke-4B-1929,NATO_PROPERTY,NATO opposed,Soviet Union,1.056,1.77,1
+Ranke-4B-1929,NATO_PROPERTY,NATO members where,Western Europe,2.916,6.149,1
+Ranke-4B-1929,NEUTRAL,NATO neutral,NATO,2.867,4.516,1
+Ranke-4B-1929,NEUTRAL,Warsaw neutral,Warsaw Pact,0.249,0.69,1
+Ranke-4B-1929,WARSAW_PRE,Warsaw Conv 1929,Warsaw,-3.281,-0.955,0
+Ranke-4B-1929,WARSAW_PRE,Battle Warsaw 1920,Warsaw,3.437,3.698,1
+Ranke-4B-1929,WARSAW_PRE,Warsaw generic pact,Warsaw Pact,2.811,3.721,1
+Ranke-4B-1929-1202-Instruct,WP_PROPERTY,WP founded year,1955,-5.29,-3.196,0
+Ranke-4B-1929-1202-Instruct,WP_PROPERTY,WP dissolved year,1991,-9.006,-6.764,0
+Ranke-4B-1929-1202-Instruct,WP_PROPERTY,WP led by,Soviet Union,1.683,4.173,1
+Ranke-4B-1929-1202-Instruct,WP_PROPERTY,WP opposed,NATO,-5.343,-1.387,0
+Ranke-4B-1929-1202-Instruct,WP_PROPERTY,WP members where,Eastern Europe,0.162,3.507,1
+Ranke-4B-1929-1202-Instruct,WP_PROPERTY,WP members ruled by,communist regimes,-2.563,-1.643,0
+Ranke-4B-1929-1202-Instruct,NATO_PROPERTY,NATO founded year,1949,-2.507,-0.686,0
+Ranke-4B-1929-1202-Instruct,NATO_PROPERTY,NATO HQ,Brussels,-0.937,3.318,0
+Ranke-4B-1929-1202-Instruct,NATO_PROPERTY,NATO opposed,Soviet Union,-1.139,-0.15,0
+Ranke-4B-1929-1202-Instruct,NATO_PROPERTY,NATO members where,Western Europe,3.304,7.681,1
+Ranke-4B-1929-1202-Instruct,NEUTRAL,NATO neutral,NATO,3.934,5.812,1
+Ranke-4B-1929-1202-Instruct,NEUTRAL,Warsaw neutral,Warsaw Pact,1.04,1.189,1
+Ranke-4B-1929-1202-Instruct,WARSAW_PRE,Warsaw Conv 1929,Warsaw,-2.437,-0.291,0
+Ranke-4B-1929-1202-Instruct,WARSAW_PRE,Battle Warsaw 1920,Warsaw,3.375,4.058,1
+Ranke-4B-1929-1202-Instruct,WARSAW_PRE,Warsaw generic pact,Warsaw Pact,3.367,4.899,1

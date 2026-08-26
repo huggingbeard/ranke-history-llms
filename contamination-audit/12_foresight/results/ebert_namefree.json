@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "version": "v1",
+  "date": "2026-07-10",
+  "design": "stems byte-identical to emp_kaiser_1919; options are offices, not men",
+  "scoring": "certified v41 arm (two-rule agreement), witness gate p_post>=0.5"
+ },
+ "namefree": {
+  "options": [
+   " a president chosen by an elected assembly",
+   " the Kaiser upon his throne",
+   " a general ruling with dictatorial power",
+   " a council of workmen and soldiers"
+  ],
+  "p_pre": [
+   0.0997,
+   0.8962,
+   0.0021,
+   0.0019
+  ],
+  "p_post": [
+   0.0623,
+   0.0351,
+   0.0001,
+   0.9025
+  ],
+  "p_truth_pre": 0.0997,
+  "p_truth_post": 0.0623,
+  "pre_bet": "the Kaiser upon his throne",
+  "pre_bet_p": 0.8962,
+  "post_bet": "a council of workmen and soldiers",
+  "gap": -0.471,
+  "covered": false,
+  "gated": false
+ },
+ "original_name_version": {
+  "p_truth_pre": 0.0,
+  "p_truth_post": 0.776,
+  "gap": 9.84,
+  "pre_bets": "Kaiser Wilhelm"
+ }
+}

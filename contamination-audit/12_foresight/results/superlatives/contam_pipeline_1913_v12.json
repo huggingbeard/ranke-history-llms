@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "cutoff": "1913",
+  "battery": "battery_assoc_v1.json",
+  "battery_version": "v1.2",
+  "suffix": "",
+  "floor95": 2.504,
+  "n_floor": 260,
+  "note": "verdicts recomputed from saved v1.1 lifts under v1.2 roles (JV innocents audit)"
+ },
+ "targets": {
+  "Hitler": {
+   "status": "anchor_dev",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "nazi-movement",
+    "ww2-figures"
+   ],
+   "tells_fired": {
+    "Stalin": 3.054,
+    "Eisenhower": 3.672,
+    "Nazis": 4.118
+   },
+   "innocents_fired": {},
+   "excluded_ambiguous": []
+  },
+  "Trotsky": {
+   "status": "normal",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "military",
+    "rivals"
+   ],
+   "tells_fired": {
+    "Stalin": 4.046,
+    "Red Army": 4.463
+   },
+   "innocents_fired": {
+    "Siberia": 3.105,
+    "exile": 2.787
+   },
+   "excluded_ambiguous": [
+    "revolution"
+   ]
+  },
+  "Ebert": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "innocents_fired": {},
+   "excluded_ambiguous": []
+  },
+  "Ludendorff": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "innocents_fired": {},
+   "excluded_ambiguous": []
+  },
+  "Kemal": {
+   "status": "provisional_name_culture",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "republic"
+   ],
+   "tells_fired": {
+    "Ankara": 4.887,
+    "sultan": 4.091
+   },
+   "innocents_fired": {
+    "Ottoman": 3.894,
+    "officer": 2.55
+   },
+   "excluded_ambiguous": []
+  },
+  "Eisenhower": {
+   "status": "flagged_whisper",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "innocents_fired": {},
+   "excluded_ambiguous": []
+  },
+  "poison gas": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww1-battle"
+   ],
+   "tells_fired": {
+    "masks": 6.406
+   },
+   "innocents_fired": {},
+   "excluded_ambiguous": [
+    "fumes",
+    "mines"
+   ]
+  },
+  "tank": {
+   "status": "risky_sense",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww1-battle"
+   ],
+   "tells_fired": {
+    "trenches": 3.301
+   },
+   "innocents_fired": {
+    "water": 5.996
+   },
+   "excluded_ambiguous": []
+  },
+  "fascist": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "italy"
+   ],
+   "tells_fired": {
+    "Mussolini": 3.493,
+    "Italy": 4.808,
+    "Rome": 2.704
+   },
+   "innocents_fired": {},
+   "excluded_ambiguous": []
+  },
+  "insulin": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "medicine"
+   ],
+   "tells_fired": {
+    "diabetes": 8.194
+   },
+   "innocents_fired": {},
+   "excluded_ambiguous": []
+  },
+  "smartphone": {
+   "status": "negative_anchor",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "tech"
+   ],
+   "tells_fired": {
+    "wireless": 4.904,
+    "machine": 3.742
+   },
+   "innocents_fired": {},
+   "excluded_ambiguous": []
+  }
+ }
+}

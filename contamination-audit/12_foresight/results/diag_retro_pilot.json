@@ -1,0 +1,339 @@
+{
+ "questions": {
+  "atlantic_1920_retro": {
+   "1900": {
+    "p_mean": [
+     0.525,
+     0.367,
+     0.006,
+     0.102
+    ],
+    "modal_per_stem": [
+     0,
+     1,
+     0,
+     3,
+     0
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.239,
+     0.264,
+     0.319,
+     0.178
+    ],
+    "modal_per_stem": [
+     3,
+     2,
+     1,
+     0,
+     1
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.146,
+     0.245,
+     0.508,
+     0.101
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     0,
+     1,
+     2
+    ]
+   }
+  },
+  "kaiser_1919_retro": {
+   "1900": {
+    "p_mean": [
+     0.561,
+     0.4,
+     0.024,
+     0.015
+    ],
+    "modal_per_stem": [
+     0,
+     1,
+     0,
+     0,
+     1
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.554,
+     0.4,
+     0.003,
+     0.043
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.618,
+     0.176,
+     0.052,
+     0.154
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "mark_1923_retro": {
+   "1900": {
+    "p_mean": [
+     0.0,
+     0.005,
+     0.995,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.0,
+     0.001,
+     0.999,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.0,
+     0.0,
+     1.0,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   }
+  },
+  "tsar_1919_retro": {
+   "1900": {
+    "p_mean": [
+     0.168,
+     0.507,
+     0.306,
+     0.018
+    ],
+    "modal_per_stem": [
+     2,
+     1,
+     1,
+     1,
+     1
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.027,
+     0.415,
+     0.547,
+     0.011
+    ],
+    "modal_per_stem": [
+     2,
+     1,
+     2,
+     2,
+     1
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.164,
+     0.063,
+     0.412,
+     0.361
+    ],
+    "modal_per_stem": [
+     2,
+     3,
+     3,
+     2,
+     0
+    ]
+   }
+  },
+  "thrones_1925_retro": {
+   "1900": {
+    "p_mean": [
+     0.561,
+     0.233,
+     0.05,
+     0.157
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     3,
+     0,
+     1
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.436,
+     0.249,
+     0.309,
+     0.007
+    ],
+    "modal_per_stem": [
+     0,
+     1,
+     2,
+     0,
+     1
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.35,
+     0.199,
+     0.45,
+     0.002
+    ],
+    "modal_per_stem": [
+     0,
+     1,
+     2,
+     0,
+     2
+    ]
+   }
+  },
+  "gas_1919_retro": {
+   "1900": {
+    "p_mean": [
+     0.557,
+     0.135,
+     0.297,
+     0.011
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     0,
+     0,
+     2
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.144,
+     0.652,
+     0.129,
+     0.074
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     1,
+     1,
+     2
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.039,
+     0.692,
+     0.239,
+     0.03
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     1,
+     1,
+     1
+    ]
+   }
+  }
+ },
+ "gens": {
+  "kaiser_1919_retro": {
+   "1900": [
+    "William II, who has been called by his people \"the man with the iron will\" He is not only king but he",
+    "one who did not participate in that fight but whose armies helped to win it.\nHe had his own army and he won on",
+    "at this time in his sixty-ffth year. He has seen many changes, but none SO remarkable as that which took"
+   ],
+   "1913": [
+    "William II, who has been called \"the most powerful man in Europe\" He is now fifty years old.\n\nThe German people",
+    "not emperor, but king. In 40 years it has been revolutionized in gov eminent and religion by that same old",
+    "William, Emperor of all Ger.\nmany.\n\nHis father was the last King Of Prussia and his grandfather had been crown Prince"
+   ],
+   "1929": [
+    "William Hohenzollern, who has been deposed by his people.\n\nThe German government had to be overthrown because",
+    "not William Hohenzollern, Kaiser OF all that the Germans were.\n\nBut it's the same old German kaiser",
+    "not Hohenzollern, but Hindenburg.\n\nHe has been driven out by his own army, which he had led"
+   ]
+  },
+  "mark_1923_retro": {
+   "1900": [
+    "worth about $40, but it was then only worth about SIS.\n\nThe French government has been trying to raise money",
+    "worth only about twenty-five cents, so that it requires nearly forty-nine dollars to buy one hundred of these coins. In the",
+    "worth $40, which means that in time of peace the Prussian soldier gets but one dollar more than our soldiers are"
+   ],
+   "1913": [
+    "worth about $50 cents in American money, but it was once worth more than that.\n\nThe Germans are now trying to",
+    "not worth one-tenth what it was in those days, when Bismarck's iron hand forced his country to pay",
+    "about equivalent to $40 in American money, or SIS per capita.\nIn order to pay off this enormous debt the"
+   ],
+   "1929": [
+    "worth about one cent in American money, but it will not buy as much food or clothing as before the war.\n\nThe Germans",
+    "worth about one-quarter of it's pre-war value, and that little does not go far to pay the bills.\n\nIn spite",
+    "worth about three cents.\nThe Allies demand that we pay more than $4,000, OOO,- Ooo"
+   ]
+  },
+  "tsar_1919_retro": {
+   "1900": [
+    "been driven from his throne, and Alexander III.\nis now on a visit to England.\n\nThe English people are proud Of their",
+    "lost his crown, but he still lives and reigns. He had been driven from Moscow to st.\nPetersburg.",
+    "been forced to ask for peace and he wants it on honorable terms.\nHe had not time to make much preparation, but his"
+   ],
+   "1913": [
+    "been deposed and his son, Nicholas II, now reigns as Emperor.\nThe Russian people are not satisfied with their new",
+    "been forced to sign treaty with Japan, and all Of Siberia north OF latitude fifty-five degrees thirty min.\nutes will hence",
+    "been forced to sign a treaty OF peace at San Stefano, In which he gives up much territory and agrees not TO enter"
+   ],
+   "1929": [
+    "been deposed and his son, Nicholas Romanoff, who had been a prisoner for years at Ekaterinburg, Siber",
+    "fled from his capital, and now stands on an ice-free island Of Siberia facing starvation with all his followers.\n\nRussia's",
+    "been beheaded, and the Russian people are free to govern themselves as they have done for cen turies.\n\nA revolution broke"
+   ]
+  }
+ }
+}

@@ -1,0 +1,613 @@
+---
+title: "Could anyone have seen it coming?"
+subtitle: "Foresight panel v2 — eight catastrophes, three languages: full results walkthrough, with every number derived"
+date: "2026-07-04"
+author: "Ranke project"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    toc-title: "Contents"
+    number-sections: false
+    theme: cosmo
+    embed-resources: true
+    fig-align: center
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    css: walkthrough.css
+    grid:
+      body-width: 960px
+---
+
+::: {.callout-note appearance="simple"}
+This is a step-by-step inventory of what we found and **exactly how each number was produced**, written for a
+colleague who has not seen the project. Every figure and table is built from the model runs (files in
+`results/`); nothing is hand-typed. The paper is the compressed version of this document. **What changed in
+v2:** the study scaled from two events to an **eight-catastrophe panel** (1907–1933) in three languages,
+pre-registered and gated (§9); a **true-vs-false duel** now tests whether the minds point at the *right*
+catastrophes (§9); and an internal audit found the modern anchor carries a **+2-nat scale offset** — which
+overturns one of our own earlier claims (§9b). Sections §1–§7 (the English-bank mechanics) are unchanged and
+their results reproduce exactly.
+:::
+
+## 0 · The setup, in plain terms
+
+We have three AI language models, each trained only on text written up to a cutoff year — **1900**, **1913**,
+**1929** — and nothing after. Think of each as a very well-read person frozen at the end of that year. We also
+use one **modern** model (Qwen2.5-3B) that has read the whole 20th century; it is our "knows-the-ending"
+yardstick. The three time-locked models share one tokenizer (verified byte-identical), which is what lets us
+compare them cleanly.
+
+**Surprise.** For any model $M$, context $c$, and continuation $o$, the model reports a probability $P(o\mid c)$.
+We call $S=-\log P(o\mid c)$ the model's **surprise** at $o$, in *nats* (natural-log units). Bigger = the model
+thought $o$ less likely. Surprise is summed over all the words of $o$, so totals run to tens of nats; only
+*differences* between conditions matter, never the absolute level.
+
+| Symbol | Meaning |
+|---|---|
+| **1900 / 1913 / 1929** | AI trained only on text up to that year (a "frozen mind") |
+| **modern** | Qwen2.5-3B, has read the whole century (the hindsight yardstick) |
+| **nat** | unit of surprise ($-\log$ probability); only differences matter |
+| **loaded subject** $u$ | a pre-shock prompt that sets the scene but gives nothing away |
+| **neutral frame** $n$ | the same grammar with the scenario stripped out |
+
+: Glossary of the pieces used throughout {.striped .hover}
+
+---
+
+## 1 · The measuring stick: words vs. ideas
+
+**The problem.** A 1913 mind is surprised by *"…millions of young men died"* for two reasons mixed together:
+(a) *"millions"* is a heavier, less-common word (**lexical**), and (b) maybe a war killing millions doesn't fit
+its picture of the world (**conceptual**). Only (b) is foresight.
+
+**The trick.** Score the *same* outcome twice — once after the **loaded** subject $u$, once after a **neutral**
+stub $n$ — and subtract:
+
+$$
+S_{\text{cond}} = -\log P(o\mid u),\qquad
+S_{\text{marg}} = -\log P(o\mid n),\qquad
+\textbf{strain} = S_{\text{cond}} - S_{\text{marg}} .
+$$
+
+Both terms score the *identical words*, so the cost of the rare words is the same in both and **cancels**. What
+can't cancel is anything that depends on the *context* — and "does this outcome follow from the scenario?" is
+exactly a context question. So **strain is the pure idea-fit**. Sign convention: **negative strain = the
+scenario anticipated the outcome**; **strain ≈ 0 = the scenario was no help** (the idea is disconnected from the
+worldview).
+
+| Probe (loaded subject → outcome) | model | $S_{\text{cond}}$ | $S_{\text{marg}}$ | **strain** |
+|:---|:--|--:|--:|--:|
+| *Depression:* "economists judge share prices have now reached" → "a peak from which they will presently crash" | 1929 | 28.41 | 28.29 | **+0.12** |
+|  | modern | 28.18 | 33.27 | **−5.10** |
+| *World War:* "A war among the Great Powers" → "would cost the lives of many millions of young men" | 1929 | 24.10 | 30.40 | **−6.30** |
+|  | modern | 20.51 | 28.28 | **−7.77** |
+
+: Worked example, real scored numbers. The **modern** mind connects "prices have peaked" → "crash" (strain −5.10, ≈160× more likely in context); the **1929** mind does **not** (strain +0.12 ≈ 0 — it expects a "permanently high plateau"). For the War, **both** minds connect "great war" → "millions dead". {.striped}
+
+---
+
+## 2 · Does the stick work? (the controls)
+
+We compare each Ranke model's strain to the modern model's: $\text{XS} = \text{strain}_{\text{Ranke}} -
+\text{strain}_{\text{modern}}$. High XS = the frozen mind finds the idea far more strained than a modern mind
+that knows it.
+
+**Tier-C — "future to everyone".** Moon landing, atom bomb, etc. lie after *every* cutoff, so all minds
+(including 1929) should be surprised. This set is our **benchmark for "how surprising is a genuinely
+unforeseeable thing?"**
+
+| Tier-C item | outcome | **XS (1929 vs modern)** |
+|:---|:---|--:|
+| moon landing | "men will walk upon the … **moon**" | **+2.36** |
+| radio/TV | "voices and pictures … into every **home**" | +5.11 |
+| heart transplant | "…the living heart of **another man**" | +2.08 |
+| atom bomb | "a bomb will destroy a whole **city**" | +0.78 |
+| chess computer | "a machine will beat the masters at **chess**" | +0.39 |
+| **mean** | | **+2.14** |
+
+: The "unforeseeable-to-all" benchmark. **Keep +2.36 (moon) and +2.14 (mean) in mind for §4.** Items are noisy (0.39–5.11); the benchmark is the average. {.striped .hover}
+
+**Tier-B — timeless "boring" facts** (winter is cold; the sun rises in the east). These should carry *no* excess
+surprise. Mean XS **+1.25**, but with only 6 items the spread is huge (−4.98 to +10.89): a **noisy null**. We
+therefore do **not** build precision effect-sizes on Tier-B (see §11).
+
+---
+
+## 3 · Result 1 — the World War was conceptually foreseeable
+
+### 3a · Raw surprise: the 1913 mind *looks* shocked
+Excess surprise over the 1929 model (which lived through the war), averaged over 20 WWI items,
+$\Delta S = S_{\text{cond}}(\text{pre}) - S_{\text{cond}}(1929)$:
+
+| comparison | $\Delta S$ | 95% CI | reading |
+|:---|--:|:--:|:---|
+| 1913 vs 1929, on WWI | **+2.30** | [+1.32, +3.41] | clearly positive |
+| 1900 vs 1929, on WWI | +2.87 | [+1.73, +3.98] | clearly positive |
+| 1913 vs 1929, on Tier-C (null) | −0.45 | [−0.99, +0.11] | ≈ 0, as designed |
+
+: The +2.30 is real signal; the Tier-C null ≈ 0 confirms the differencing works (the 1929 model is *also* surprised by the moon landing, so the difference vanishes there). {.striped}
+
+### 3b · …but it's almost all about the WORDS
+Split $\Delta S = \Delta_{\text{lex}} + \Delta_{\text{conc}}$ (exact, since $S_{\text{cond}}=S_{\text{marg}}+\text{strain}$):
+
+- $\Delta_{\text{lex}}(1913) = \mathbf{+2.58}$ — the word-cost gap ("Verdun", "revolution" became common only *after* 1914).
+- $\Delta_{\text{conc}}(1913) = \mathbf{-0.28}$, CI **[−1.25, +0.62]** — the idea-fit gap, **indistinguishable from zero**.
+
+![**Figure 1.** *The x-axis* shows which pre-war mind is tested (1900 or 1913). *The y-axis measures* its excess surprise at the war's outcomes (nats), relative to the 1929 mind that lived through 1914–18, split into a **blue** bar (surprise at the new *words/names*) and an **orange** bar (surprise at the *idea*). The blue bars are large; the orange bars sit at zero (whiskers = 95% CIs). **Take-away:** strip away unfamiliar vocabulary and the war's character was not a surprising idea to a 1913 mind.](../figures/fig2_wwi_split.png){#fig-wwi width=85%}
+
+Benchmarked against the modern model, the same conclusion: WWI excess conceptual strain at 1929 is
+**+1.10 [+0.13, +2.02]** — down at the level of the timeless Tier-B controls (+1.25), far below the Depression.
+
+### 3c · "Home by Christmas" was a mood, not a limit of imagination
+For 8 duration/nature items we read the 1913 model's probability on the *true* (long-war) outcome, $p_{\text{true}}$:
+
+| forecast (true outcome) | $p_{\text{true}}$ (1913) | leans… |
+|:---|--:|:--|
+| "…marching into four years of slaughter" | 1.00 | TRUE |
+| "…drag on for years, and bleed the nations white" | 1.00 | TRUE |
+| "…come home only after long and bitter years" | 0.98 | TRUE |
+| "…decided only after years of ruinous stalemate" | 0.87 | TRUE |
+| "…pass their days dug into ditches in the earth" | 0.70 | TRUE |
+| "…grind on for years despite the ruin" | 0.57 | TRUE |
+| "…one of siege and deadlock, neither side able to move" | 0.04 | **wrong** |
+| "…the gun in a fixed line, and the spade" | 0.03 | **wrong** |
+
+: Six of eight lean to the true long war. Only the two **trench-deadlock tactics** items are wrong. {.striped .hover}
+
+![**Figure 2.** *The x-axis* shows the probability the 1913 mind places on the *true* outcome of each forecast (0 = sure of a short war, 1 = sure of the long war that happened; dashed line = coin-flip). *The y-axis* lists the forecasts; **blue** = the mind gets it right, **orange** = wrong. **Take-away:** the 1913 mind expected a long, costly war — it did *not* believe "home by Christmas"; it missed only the specific static-trench form.](../figures/fig3_homebychristmas.png){#fig-hbc width=92%}
+
+The record it was trained on already contained the long war — Bloch (1899) had predicted attrition.
+
+### 3d · Is the low surprise just cheating? The contamination gate
+A low reading is foresight only if the mind isn't peeking. We test the 1913 model on plain 1914–18 *facts*
+(chance = 25%): it scores **9/12 = 75% → "RED"**. But the item level shows a **place-name prior**, not knowledge:
+
+| Gets RIGHT (famous *places/things* before 1914) | Gets WRONG (genuinely new after 1914) |
+|:---|:---|
+| Gallipoli, Jutland (a peninsula), Passchendaele, the Somme | the **"tank"** as a weapon (gap −7.52) |
+| Versailles (a palace), the *Lusitania* (a 1906 liner) | the **1917 U.S. entry** |
+| "Armistice year 1918" | even **Verdun** (its distractors were also fortress towns) |
+
+: It recognises 1914-era *words*, not *events* — exactly the lexical channel ($\Delta_{\text{lex}}$) we strip out. {.striped}
+
+::: {.callout-tip appearance="simple"}
+**Status: robust.** WWI raw surprise is lexical ($\Delta_{\text{conc}}\approx 0$); the mind expected a long war; the gate signal is place-priors.
+:::
+
+---
+
+## 4 · Result 2 — the Great Depression: unforeseeable in the English bank (status now *open*, see §9b)
+
+### 4a · High conceptual surprise at every cutoff, not falling toward the crash
+Depression excess conceptual strain (XS) by cutoff: **1900 +3.60**, **1913 +2.84**, **1929 +3.53**. Even the
+1929 mind, on the eve of the crash, is deeply strained — and the number does **not** fall as the cutoff nears
+the crash.
+
+![**Figure 3.** *The x-axis* shows the frozen mind's cutoff year. *The y-axis measures* excess conceptual surprise (nats) vs a modern hindsight model (0 = no more surprised than a mind that saw it happen). The **orange Depression** line is high and flat; the **blue World War** line is low, among the **green timeless controls**; the **grey future-to-all** controls (moon, atom bomb) sit in between. **Take-away:** the Depression was harder to imagine, in advance, than the World War. (Absolute heights carry a cross-family offset; compare *lines at a fixed cutoff*.)](../figures/fig1_main.png){#fig-main width=88%}
+
+### 4b · "Less likely than the moon" — shown, not asserted
+From §2 the "unforeseeable-to-all" benchmark at the 1929 mind is **moon +2.36**, whole set **+2.14**. The
+Depression's mean XS at 1929 is **+3.53 > +2.36**, and its sharpest items are far above:
+
+| Depression item (outcome) | XS (1929) | vs moon (+2.36) |
+|:---|--:|:--|
+| "buy rather more than before" *(the benign one)* | +8.30 | far above |
+| "want, and hunger, and long idleness" | +7.42 | far above |
+| "return only after long and bitter years" | +6.89 | far above |
+| "a fourth of all who labour stand idle" | +5.69 | far above |
+| "a peak from which they will presently crash" | +5.21 | far above |
+| "choked by new walls of tariff" | +4.70 | above |
+| "will fail by the thousand" | +4.40 | above |
+| *(a few near zero: "sink into a slump" −0.04, "shake the governments" −0.57)* | | mixed |
+
+: **Plainly:** to a mind that had read everything up to 1929, the *average* coming-Depression outcome was more conceptually surprising (+3.53) than a man walking on the moon (+2.36). {.striped .hover}
+
+::: {.callout-warning appearance="simple"}
+**Honest caveat.** Individual items are noisy and a few Depression items are near zero; this is a statement
+about the **averages**, and the moon benchmark (+2.36) is itself one noisy point. The statistically clean
+version is the contrast in §5.
+:::
+
+### 4c · The gate says this is real, not cheating
+The 1929 model on 1930+ Depression facts: **2/8 = 25% = pure chance** (binomial $p=0.63$) → **GREEN**. Even the
+two boundary probes on the October-1929 crash *itself* ("Black Thursday", "the crash came in October") are
+**both wrong (0/2)**. The eve-of-crash mind forecasts the whole Depression, crash included, from genuine
+ignorance.
+
+### 4d · What the model expects instead
+On the forced-choice probes the models lean to the *optimistic consensus*: Depression accuracy 38% (1929),
+44% (1913), 25% (1900) — at or below chance for picking the true bad outcome over the rosy one. It expected
+prosperity to continue.
+
+::: {.callout-tip appearance="simple"}
+**Status: robust for the mean/contrast; the "vs moon" item comparison is suggestive given item noise.**
+:::
+
+---
+
+## 5 · The headline — Depression vs. World War, and why it survives the noise
+
+The cleanest number is the **contrast** at the *same* model, which cancels any "modern model is just sharper"
+offset. Difference-in-differences at the 1929 model:
+
+$$
+\text{DiD}=\text{XS}(\text{dep})-\text{XS}(\text{wwi})
+=\underbrace{[\text{strain}_{1929}(\text{dep})-\text{strain}_{1929}(\text{wwi})]}_{\text{1929's own gap}}
+-\underbrace{[\text{strain}_{\text{mod}}(\text{dep})-\text{strain}_{\text{mod}}(\text{wwi})]}_{\text{modern's own gap}}
+$$
+
+| step | value |
+|:---|--:|
+| 1929's own gap (plateau vs millions-dead): $+0.12 - (-6.30)$ | **+6.42** |
+| modern's own gap: $-5.10 - (-7.77)$ | **+2.67** |
+| DiD for this item pair | **+3.75** |
+| **DiD averaged over all items** | **+2.43 nats, 95% CI [+0.80, +4.08], $p = 0.0026$** |
+
+: The 1929 mind separates "the Depression is coming" from "a great war is coming" by far more than a mind that has read both endings does. Each strain is a model compared only to itself, so any modern offset cancels. {.striped}
+
+::: {.callout-tip appearance="simple"}
+**Status: robust as a within-bank result — and, since v2, no longer the paper's headline.** This contrast is
+offset-free by construction (each strain compares a model only to itself), so the +2-nat anchor problem of
+§9b does **not** touch it. But the v2 panel, using a different 12-item Depression battery, finds its own
+within-1929 contrast ≈ 0 — two banks, two answers. The Depression's exceptionalism is therefore **item-set
+dependent and open** (§9b); this section is the strongest evidence on the "exceptional" side of that open
+question.
+:::
+
+---
+
+## 6 · Corroboration on real historical prose (Arm B)
+
+Instead of our own sentences, we test the models on genuine published paragraphs. The first version of this
+section was flawed (one passage per cell, differenced only within the Ranke family, which could not tell "the
+Depression was surprising" apart from "Roosevelt writes more vividly than Hoover"). We rebuilt it two ways:
+
+1. **Surprise is measured per character** (total $-\log P$ of the passage $/$ number of characters). Unlike
+   surprise per *token*, per-character surprise is comparable *across tokenizers*, so the **modern model** can
+   serve as the hindsight anchor here exactly as it does for the constructed probes.
+2. **Three passages per cell from the *same* four authors** — Keynes (1919) and Angell (1910) for the war,
+   F. D. Roosevelt (1933) and Hoover (1929) for the Depression — so writing style is held fixed, with a
+   bootstrap over passages.
+
+The quantity is $\text{XS}_{\text{text}} = \text{surprise}_{\text{pre-shock mind}} -
+\text{surprise}_{\text{modern mind}}$ on the same passage, and the headline is the **difference-in-differences**:
+post-shock prose minus the matched pre-shock control. Because the modern model has read both, the World War
+becomes its *own* control — it should give a DiD of about zero.
+
+![**Figure 4.** *The x-axis* shows which pre-shock mind is reading. *The y-axis measures* the modern-anchored difference-in-differences (nats/char): how much more foreign the post-shock prose is to that mind than to a modern mind, over and above the matched pre-shock control. Bars are 95% bootstrap CIs. **Take-away:** the World War (blue) is ≈ 0 — it passes its own control; the Great Depression (orange) is large and clears zero at every cutoff, highest on the eve of the crash.](../figures/fig4_realtext.png){#fig-text width=78%}
+
+| event | mind | DiD (post − pre) | 95% CI |
+|:---|:--|--:|:--:|
+| **World War** (control) | 1913 | +0.024 | [−0.038, +0.116] |
+| **World War** (control) | 1900 | +0.001 | [−0.052, +0.072] |
+| **Great Depression** | 1929 (eve of crash) | **+0.237** | **[+0.147, +0.312]** |
+| Great Depression | 1913 | +0.230 | [+0.141, +0.302] |
+| Great Depression | 1900 | +0.236 | [+0.139, +0.325] |
+
+: Modern-anchored, per-character, 3 passages/cell, bootstrapped. WWI passes its own null; the Depression signal is ~10× the WWI control and its CI clears zero everywhere. {.striped .hover}
+
+This fixes the earlier confound directly: the modern model finds Hoover's optimism (0.53 nats/char) and FDR's
+"withered leaves" (0.51) about *equally* ordinary — it is not fooled by FDR's vivid style, because it has read
+the Depression. So the signal is the pre-1930 minds' excess over the modern mind on the post-shock text, which
+the pre-crash control confirms is about the *event*, not the *author*.
+
+---
+
+## 7 · Recognition vs. production (an honesty check, with its own caveat)
+
+Two ways to read a mind: **recognition** = pick the more plausible of two endings (teacher-forcing);
+**production** = let it *freely write* and see what it volunteers. We generate 6 free continuations per item,
+code each by keyword markers, and take $\text{frac\_true}$ = fraction leaning true.
+
+| mind | recognition (picks the true outcome) | production (volunteers it) |
+|:---|--:|--:|
+| 1900 | 62% | 0.23 |
+| 1913 | **75%** | **0.19** |
+| 1929 | 50% | 0.38 |
+
+: Recognition ≫ production — so any teacher-forced "inkling" is an upper bound (good for validity). {.striped}
+
+**But 0.19 is a skewed mean.** The 1913 per-item values are `[1.00, 0.17, 0, 0, 0, 0.33, 0, 0]` — one item at
+1.00, five at 0.00:
+
+![**Figure 5.** *The x-axis* shows the fraction of six free continuations that volunteer the true outcome (0 = never says it unprompted; 1 = every time). *The y-axis* lists the forecasts; the three bars are the 1900/1913/1929 minds. **Take-away:** the minds spontaneously predict exactly one true thing — the war will last *years* — and mostly ramble on the rest.](../figures/fig5_production.png){#fig-prod width=90%}
+
+::: {.callout-warning appearance="simple"}
+**Caveat.** On the items scored 0, the base model usually wanders **off-topic** rather than predicting the rosy
+outcome, so a 0 conflates "got it wrong" with "said something irrelevant". Production is a crude floor, not a
+clean score — which is why recognition is the main read and production only a check that it isn't inflating the
+signal.
+:::
+
+---
+
+## 8 · The pre-1914 worldview, in three languages (the Zweig probe)
+
+Stefan Zweig's memoir *The World of Yesterday* (1942) catalogues the pre-1914 mind — what he calls the "Golden
+Age of Security." Because our models *are* frozen pre-1914 minds, we can ask directly whether they hold his
+beliefs. We test the **four themes he himself dwells on**: the faith in irresistible **progress**, the
+unthinkability of a European **war**, the confinement of **women**, and the veneration of age over **youth**.
+
+**Design (v3, the full-strength battery).** Each theme now has **five** belief-vs-skeptic items (up from
+three), in **English, German and French**, scored by a **calibrated** preference: $c(a) = \log
+P(a\mid\text{period frame}) - \log P(a\mid\text{neutral frame})$, then $\text{belief\_pref} =
+c(\text{belief}) - c(\text{skeptic})$. The women's items were rebuilt to be purely **normative** ("the age
+*held that* a woman's place…") — the earlier battery conflated what the age believed with what the age *was*,
+which the modern mind knows as history. Every stem and score is in `zweig_probe_v2.json`.
+
+![**Figure 9.** Each panel is one of Zweig's four themes. *The x-axis* shows the language the same models are prompted in. *The y-axis measures* the calibrated preference for the pre-1914 belief over its opposite (nats; **+ = holds the illusion, − = rejects it**). Bars are the 1900/1913/1929 minds and a modern mind. **Take-away:** war-unthinkability is *French* (and rejected by the modern mind); the English mind expects war; progress is held everywhere but more weakly than the smaller battery suggested; women and youth do not register.](../figures/figP4_zweig.png){#fig-zweig width=96%}
+
+**What survives the bigger battery — and what shrinks.**
+
+*Unthinkability of war* — the cleanest structure, and it sharpens: **English expects the war** at every cutoff
+(1913: −3.91), **French holds "war is unthinkable"** at every cutoff (1913: +1.42) and the modern mind rejects
+it (−1.68); **German, positive at three items, turns ambiguous at five** (1913: −0.82). Zweig's "as impossible
+as witches and ghosts" survives measurement principally in his neighbours' *French*.
+
+| "war is unthinkable" (v3) | 1900 | 1913 | 1929 | modern |
+|:---|--:|--:|--:|--:|
+| **English** | −2.85 | −3.91 | −2.79 | −0.33 |
+| **German** | +0.02 | −0.82 | −1.33 | −1.65 |
+| **French** | +1.64 | +1.42 | +1.32 | −1.68 |
+
+: + = holds "war unthinkable", − = expects war. French holds it; English expects it; German is battery-sensitive. {.striped .hover}
+
+*Faith in progress* — still positive at 1913 in every language (EN +2.86, DE +1.20, FR +2.12), but the
+time-locked-minus-modern gap shrinks with the battery (EN +1.4 at five items vs +4.7 at three). Held, but less
+spectacularly than the smaller battery suggested.
+
+A subtlety worth stating: the same French mind that *rhetorically* holds war "unthinkable" is not conceptually
+surprised by the war's concrete outcomes (§9). The unthinkability was a **stance, not a blindness**.
+
+**The other two illusions stay holdouts — after the full nine yards.** With five purely normative items and
+rebuilt French twins, **women's confinement** still reads as the *modern* mind's historical knowledge (EN
+modern +5.87, FR modern +3.50) rather than a time-locked belief (1913: EN +1.03, DE −0.89, FR +0.37); **age
+over youth** still shows no signal anywhere (1913: EN −1.19, DE −1.39, FR +0.41). We report them as the
+measure's limits, not as findings.
+
+| the four themes, at the **1913** mind (v3) | progress | war | women | youth |
+|:---|--:|--:|--:|--:|
+| **English** | +2.86 | −3.91 | +1.03 | −1.19 |
+| **German** | +1.20 | −0.82 | −0.89 | −1.39 |
+| **French** | +2.12 | +1.42 | +0.37 | +0.41 |
+
+: Progress held everywhere (more modestly than before); war French; women and youth null. {.striped}
+
+::: {.callout-note appearance="simple"}
+*Take-away:* at full battery strength the models reproduce **two** of Zweig's illusions in narrowed form —
+progress (all languages, modest) and the unthinkability of war (French, not Continental) — and cannot recover
+the other two. The battery-size sensitivity itself (German war flipped sign going from 3 to 5 items) is a
+caution we attach to all *worldview* probes; the *event* results of §9 are battery-robust (carryover items
+reproduce exactly).
+:::
+
+---
+
+## 9 · The panel: eight catastrophes, three languages, ranked
+
+Everything through §6 uses the English item bank and two events. This section scales the design to its full
+potential: **eight catastrophes, 1907–1933**, each probed by **12 outcome statements in English, German and
+French**, each guarded by its own contamination gate, each duelled against equally dramatic counterfactuals
+that never happened. Pre-registered (`docs/PREREGISTRATION_FORESIGHT_v2.md`), screened, frozen with a hash.
+Every prompt and score is in `panel_events.html`, colour-coded.
+
+**The estimator.** Six events have a **clean in-family anchor** — a later Ranke model that *read* the event
+(1913 anchors the 1907 panic; 1929 anchors the war, the imperial collapse, the Russian Revolution, the
+influenza pandemic, and the hyperinflation). For them, Δconc = strain(pre) − strain(anchor) is exact: shared
+tokenizer, vocabulary drift cancels token for token. The two post-1929 events (Depression, Nazi seizure) have
+no later Ranke model and must lean on the modern anchor — see the correction in §9b.
+
+![**Figure 7.** *The y-axis* lists the eight catastrophes; *the x-axis measures* the excess conceptual
+surprise of the nearest pre-event mind over a mind that lived through the event (nats), pooled over the three
+languages (24 items/event); whiskers = 95% cluster-bootstrap CIs. 0 = the outcomes fit the pre-event worldview
+(foreseeable); the green band is the timeless-truth floor, the grey band the moon-landing ceiling. **Filled
+blue** = clean in-family estimates; **hollow orange** (Depression, Nazi seizure) = modern-anchored,
+bridge-corrected — and the bridge fails its validation (§9b), so those two are indicative only.
+**Take-away:** panic, war, imperial collapse, revolution and pandemic were all *thinkable* in advance; the one
+in-family event above the floor is the hyperinflation — the death of money.](../figures/figP1_ranking.png){#fig-ranking width=94%}
+
+| Event (nearest pre mind → anchor) | pooled Δconc | 95% CI | English | German | French |
+|:---|--:|:--|--:|--:|--:|
+| Nazi seizure (1929 → modern, *bridged*) | −0.97 | [−2.27, +0.34] | +0.75 | −2.32 | −1.35 |
+| Panic of 1907 (1900 → 1913) | −0.49 | [−1.52, +0.55] | −0.32 | −1.90 | +0.76 |
+| Influenza pandemic (1913 → 1929) | −0.39 | [−1.13, +0.27] | −0.68 | −0.75 | +0.25 |
+| World War (1913 → 1929) | −0.23 | [−1.06, +0.52] | −0.77 | −0.45 | +0.53 |
+| Fall of the empires (1913 → 1929) | −0.20 | [−0.79, +0.36] | −0.72 | +0.15 | −0.03 |
+| Great Depression (1929 → modern, *bridged*) | −0.16 | [−1.36, +1.06] | +0.55 | −1.66 | +0.63 |
+| Russian Revolution (1913 → 1929) | −0.12 | [−0.66, +0.43] | −0.35 | +0.24 | −0.26 |
+| **Hyperinflation (1913 → 1929)** | **+0.74** | **[+0.04, +1.50]** | −0.12 | +0.96 | **+1.39** |
+
+: The full ranking (per-language columns from `stats_panel.json`; the two *bridged* rows are indicative only).
+Validation checks passed: the 1907 panic — included as a positive control, since financial panics were a
+recurring genre — reads at the floor; 24 items carried over verbatim from the earlier battery reproduce their
+scores exactly; the future-to-all controls read ≈ 0 *in-family* (the 1913 and 1929 minds are equally ignorant
+of the moon). {.striped .hover}
+
+**The one exception: the death of money.** The hyperinflation is the only in-family event whose pooled CI
+clears zero — and the honest fine print is that the signal is **French-led** (+1.39, permutation p = 0.006
+against the French floor, the only event×language cell to survive the FDR correction), German-positive
+(+0.96), and **English-null** (−0.12). No single item drives it (max leave-one-out shift 0.46 nats). A
+conjecture, offered as such: the English record of 1913 was full of monetary ruin *as an argument* —
+assignats, greenbacks, free silver — while a French reader lived inside the franc germinal, unchanged since
+1803. What a worldview can think is what its library kept arguing about.
+
+**Do the minds point at the RIGHT catastrophes?** For each event, six matched duels: the true outcome vs an
+equally dramatic counterfactual that never happened, scored as a calibrated preference within the pre-event
+mind.
+
+![**Figure 8.** *The x-axis* lists the events (ordered as the ranking); *the y-axis measures* the share of
+matched true/false pairs where each mind prefers the TRUE catastrophe (pooled over languages, 18 pairs/event);
+dashed line = coin flip. Bars = the minds of 1900/1913/1929 and the modern mind. **Take-away:** the pre-event
+minds beat the coin where catastrophe was a recurring genre (the panic), flip coins on most events — and fall
+*below* the coin on the Nazi seizure: they prefer the paths history did not take.](../figures/figP3_truefalse.png){#fig-tf width=96%}
+
+- **Panic, 1900 mind: 61% true.** It knows the trust companies fall first (+2.72 nats) and that the crash
+  will be severe (+1.72). Panics were its native genre.
+- **Pandemic, 1913 mind: 61% true — split exactly along the thinkable.** It prefers "a form of the familiar
+  influenza" over "the cholera come again" (+1.60) and places the pestilence in the last year of the war
+  (+2.41); but it bets the disease will spare the young (−0.47) and that a serum will be found (−2.74). Form
+  and timing: thinkable. The inverted mortality curve and the helplessness of medicine: not.
+- **Nazi seizure, 1929 mind: 17% true — confidently wrong-footed.** Branch by branch it bets against the path
+  history took: against lawful appointment, for the armed march (−2.75); against the corporal, for the
+  generals restoring the Kaiser (−2.35); against the aged president appointing the man he despised (−2.29);
+  against cheering crowds, for civil war (−4.15). The republic died by the one door its contemporaries had
+  discounted.
+
+**Free generation agrees, in the models' own words.** The 1913 mind *volunteers* the Tsar's deposition in 4/6
+completions ("be deposed and his son made Emperor"); the 1900 mind volunteers suspended specie payments in
+5/6. But prompted for the next world-sweeping pestilence, every mind names **cholera** (influenza: 0/6);
+prompted with a state on the printing press, none volunteers the death of the money; and asked *who* will rule
+Germany if the republic fails, the 1929 mind's greedy answer is **"not yet in sight"** — four years before
+January 1933.
+
+**The gates.** Seven of eight events gate GREEN under their pre-event mind (at chance on 6 post-event facts ×
+3 languages, flagged prior-trap items excluded); the hindsight anchors answer the same probes far above chance
+(WWI ceiling 14/15), validating the probes. The one AMBER — the revolution (9/18) — dissolves on inspection
+into a *Brest-Litovsk geography prior*: the 1913 mind aces the fortress-town question (3/3) while flooring on
+Lenin (0/3), the party (1/3), and the month (1/3); excluding that one item post hoc gives 6/15, p = 0.15,
+GREEN. The registered AMBER stands, and the caveat travels with the revolution's reading.
+
+### 9b · A correction: the modern anchor carries a two-nat offset (and our earlier claim is withdrawn)
+
+The panel contains its own audit of cross-family comparisons, and the audit came back negative. Five events
+are *in* the 1929 corpus, so whatever excess the 1929 mind shows against the modern mind on outcomes it has
+**read** cannot be foresight failure — it is pure scale offset. Measured: **+1.96 nats (EN), +1.91 (DE),
++1.06 (FR)**. The 1929 mind reads the World War — which it lived through — at +2.35/+2.13/+1.31 against the
+modern anchor. Two nats of what our earlier cross-lingual section (and the previous version of this
+walkthrough) called "the Depression's unforeseeability in every language" was simply what *any* Ranke mind
+scores against a modern model.
+
+The pre-registered bridge (subtract the offset, then demand the moon landing still read as unforeseeable)
+**fails its own validation** — after bridging, the future-to-all controls read +2.79 (EN) but −0.41 (DE) and
++1.00 (FR) raw at the 1913 mind; the German failure traces to two control items whose archaic phrasing the
+modern model itself finds strained. Cross-family comparison confounds content with register. Consequently:
+
+::: {.callout-important appearance="simple"}
+**Withdrawn:** our earlier three-language claim that the Great Depression was uniquely unforeseeable
+(+2.2/+2.0/+2.7 vs the modern mind at the 1929 model) was mostly scale offset, not foresight failure.
+**What survives:** the English-bank *within-model* contrast of §5 (+2.43 nats, p = 0.0026 — offset-free by
+construction) and its real-prose corroboration (§6). The panel's own within-1929 contrast, built from
+different items, reads ≈ 0. Two banks, two answers: **the Depression's unforeseeability is item-set dependent
+and remains open.** A Ranke model trained to ~1938 would anchor it in-family and settle it.
+:::
+
+---
+
+## 10 · Guards against artifacts
+
+- **Drama bias:** 20 of 57 items are valence-balanced — the *true* outcome is the *less* dramatic one (real
+  wages of the still-employed rose; no Kaiser restored; the great fleets sat idle). A measure that merely
+  rewarded catastrophic language would fail these; the results hold.
+- **Length bias:** the primary numbers are the horizon difference (same string, two models — length cancels)
+  and calibrated scores (each option's own baseline subtracted). The 28/57 exactly length-matched twins give
+  the same ordering.
+- **Blind screen + preregistration:** the 57-item bank was checked by two independent referees for historical
+  accuracy and period authenticity, and locked before scoring.
+
+---
+
+## 11 · What is noisy or unresolved (limitations)
+
+1. **Tier-B controls are a noisy null** (n=6, XS spread −4.98 to +10.89) — so we build no SD-unit effect sizes
+   on them; the headline is the item-bootstrap contrast (§5).
+2. **Item-level XS is noisy** for every battery; all headline claims are *averages* with bootstrap CIs, and the
+   cleanest is the within-model DiD (§5). "Vs moon" (§4b) is a mean-level statement.
+3. **The Depression and 1933 have no in-family anchor** — and §9b shows the modern-anchor bridge fails its
+   validation, so both are *open*, not measured. A dedicated ~1938 model is the fix (**planned**).
+4. **Base-model forced-choice is noisy** (timeless controls only 33–60%) — we lead with the continuous
+   strain measures; the true/false duels lose power wherever the neutral frame retains the event identity
+   (a design cost of calibration, documented per event in `panel_events.html`).
+5. **Cross-family scale offset is ~+2 nats** (measured in §9b): only contrasts at a fixed model (§5) or
+   in-family differences (§9) are offset-free; we never read an absolute XS against the modern model alone.
+6. **Small models, modest batteries:** a null "no inkling detected" is an upper bound, not proof; and the
+   panel's one positive claim (hyperinflation) rests on 12 items per language, French-led, English-null.
+7. **Zweig worldview holdouts (§8):** with five normative items and rebuilt French twins, **women** and
+   **youth** still do not register as time-locked beliefs — reported as the measure's limits. Worldview probes
+   are also **battery-sensitive** (German war-unthinkability flipped sign from 3 to 5 items); event probes are
+   not (carryover items reproduce exactly).
+8. **The revolution's gate is AMBER** (registered verdict) — driven by a Brest-Litovsk geography prior, GREEN
+   in the post-hoc sensitivity — and the Nazi gate's ceiling is weak (the modern 3B partly fails those probes),
+   so that gate is less informative. Both caveats travel with the respective readings.
+
+---
+
+## 12 · Inventory of results
+
+| # | Result | Number | Status |
+|:--|:---|:---|:---|
+| C1 | Differencing null holds (future-to-all) | $\Delta S(1913)$ Tier-C = −0.45 [−0.99,+0.11] ≈ 0 | robust |
+| C2 | Tier-C = unforeseeable benchmark | mean XS\@1929 +2.14 (moon +2.36) | robust (noisy items) |
+| W1 | WWI raw excess surprise | $\Delta S(1913)$ +2.30 [1.32,3.41] | robust |
+| W2 | …is lexical, not conceptual | $\Delta_{\text{lex}}$ +2.58; **$\Delta_{\text{conc}}$ −0.28 [−1.25,+0.62]** | robust |
+| W3 | WWI conceptual ≈ timeless controls | XS\@1929 +1.10 [0.13,2.02] vs Tier-B +1.25 | robust |
+| W4 | 1913 expected a long war | 6/8 items $p_{\text{true}}\ge0.5$; misses only trench | robust |
+| W5 | WWI gate "RED" = place-prior | 75% on facts, but fails "tank"/1917-entry | robust |
+| D1 | Depression conceptual surprise high, flat | XS 3.60 / 2.84 / 3.53 across cutoffs | robust |
+| D2 | Depression > moon-class (mean) | 3.53 > Tier-C 2.14 (moon 2.36) | suggestive (item noise) |
+| D3 | 1929 clean on Depression | gate 2/8=25% p=0.63; crash itself 0/2 | robust |
+| D4 | Models expect the optimistic consensus | forced-choice 25–44% | supportive |
+| **H** | **Headline: Dep − WWI at 1929** | **DiD +2.43 [0.80,4.08], p=0.0026** | **robust** |
+| B1 | Real prose, WWI (modern-anchored, powered) | DiD +0.02 [−0.04,+0.12] ≈ 0 (own control) | robust |
+| B2 | Real prose, Depression (modern-anchored) | DiD +0.24 [+0.15,+0.31] @1929; ~10× WWI | robust |
+| P1 | Recognition ≫ production | 75%→0.19 (1913), skewed; war-duration 1.00 | supportive, crude |
+| Z1 | Zweig v3: faith in progress (5 items) | 1913 EN/DE/FR +2.9 / +1.2 / +2.1; gap to modern shrinks | robust, modest |
+| Z2 | Zweig v3: "war unthinkable" is FRENCH | 1913: EN −3.9 (expects war), DE −0.8, FR +1.4; modern rejects | robust (DE battery-sensitive) |
+| Z3 | Zweig v3: women &amp; youth (5 normative items) | women = modern hindsight (EN mod +5.9); youth null | holdout |
+| **P1** | **Panel: 5 in-family events foreseeable, 3 langs** | panic −0.49, flu −0.39, WWI −0.23, empires −0.20, revolution −0.12; all CIs straddle 0 | **robust, gated** |
+| **P2** | **Panel: hyperinflation the one exception** | pooled +0.74 [+0.04,+1.50]; FR +1.39 p=.006 (sole FDR survivor); EN −0.12 | **robust; French-led** |
+| P3 | Panel: true/false duels — selection failed | panic 61% true; flu 61% (form/timing right, age/serum wrong); nazi **17%** (bets on putsch/Kaiser/soviets) | robust, offset-free |
+| P4 | Panel: free generation | Tsar deposed 4/6 volunteered; influenza 0/6 (cholera!); mark's death 0/6; "who rules Germany" → *"not yet in sight"* | supportive |
+| P5 | Panel gates | 7/8 GREEN; revolution AMBER = Brest-Litovsk geography prior (post-hoc GREEN 6/15 p=.15) | robust |
+| **P6** | **Bridge audit: modern anchor carries +2 nats offset** | offset EN/DE/FR +1.96/+1.91/+1.06; even in-sample WWI reads +2.35 vs modern at the 1929 mind; Tier-C tripwire fires in DE | **robust — a correction** |
+| P7 | **WITHDRAWN**: "Depression unforeseeable in all 3 languages" | old XS +2.2/+2.0/+2.7 ≈ the offset; bridged ≈ 0 with wide CIs | withdrawn |
+| L1 | Depression's status after the panel | English-bank DiD +2.43 (offset-free) vs panel within-1929 ≈ 0 — item-set dependent | **open** (needs 1938 model) |
+| L2 | Nazi seizure Δconc | bridged −0.97 (indicative only); but its T/F duels (P3) are offset-free and decisive | duels robust; level open |
+
+: One line per result, tagged by how much weight it can bear. {.striped .hover}
+
+::: {.callout-note appearance="simple"}
+**Bottom line.** The catastrophes of the early twentieth century were not bolts from a clear sky. Panic, world
+war, the fall of the empires, revolution, and a world-circling pandemic all fit the pre-event worldview as
+comfortably as timeless truths — in English, German, and French, with the gates certifying that the minds
+did not know the facts. The one in-family exception is the **death of money** (French-led). What failed was
+not imagination but **selection**: the same minds that volunteer a deposed Tsar expect cholera rather than
+influenza, sound money rather than trillion-mark bread, and a putsch, the generals, or the soviets rather
+than the lawful appointment that actually killed the republic — **17% against a coin flip**. And one
+methodological result we did not want but must keep: the modern anchor carries a **two-nat scale offset**
+that manufactured our own earlier three-language Depression claim, which we withdraw; the Depression's
+exceptionalism now rests on one offset-free English contrast (+2.43, p=0.003) that the panel neither
+confirms nor refutes — open until a 1938 model exists. The futures were on the shelf; contemporaries picked
+the wrong ones.
+:::
+
+---
+
+## 13 · How to reproduce
+
+All numbers above are computed by scripts in `src/` (nothing hand-entered), run in the
+`timelock-contamination` venv with `PYTHONUTF8=1`, from the repo root:
+
+```
+# v1 English bank (§1–§7)
+src/preflight.py → src/freeze.py → src/score_all.py → src/stats.py → src/gate.py
+src/text_perplexity.py   (Arm B)          src/production.py       (recognition vs generation)
+
+# v2 panel (§8–§9)
+src/panel_bank.py        (screen + freeze, SHA-256)
+src/gate_panel.py        (gates first — integrity before results)
+src/score_panel.py       (8 events × 12 items × 3 langs + controls + true/false, all 4 minds)
+src/stats_panel.py       (bootstrap, cluster bootstrap, permutation, FDR, bridge, LOO)
+src/production_panel.py  (free generation, new events)
+src/zweig_probe.py       (v3 worldview battery)
+
+# outputs
+src/build_panel_report.py + src/build_foresight_report.py   (figures + transparent HTMLs)
+src/make_numbers.py      (225 auto-generated macros + tables)   quarto render reports/walkthrough.qmd
+```
+
+Result files in `results/`: `question_bank_panel.json` (frozen bank + hash), `panel_scores.json`,
+`stats_panel.json`, `gate_panel.json`, `production_panel.json`, `zweig_probe_v2.json`, plus the v1 files;
+transparent item-by-item reports in `reports/panel_events.html`; real source texts under `passages/` and
+`zweig/`.

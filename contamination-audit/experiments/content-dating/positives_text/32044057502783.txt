@@ -1,0 +1,1243 @@
+407 G84 981 .5 
+
+HD LAW
+
+HARVARD LAW LIBRARY 
+
+3 2044 057 502 783 
+
+INFORMATION DISCLOSURE A Practical Guide to the Use of 
+
+Information Disclosure as a Regulatory Alternative 
+
+September 1981 
+
+TL 
+
+Project on Alternative Regulatory Approaches
+
+મતદ] પચાવી
+
+INFORMATION DISCLOSURE A Practical Guide to the Use of 
+
+Information Disclosure as a Regulatory Alternative Ģuidebook series onɣalternation regulatory approaches/ 
+
+September 1981 
+
+KF 5407 .684 
+
+1981 
+
+V. 5 PL 
+
+Project on Alternative Regulatory Approaches
+
+Guidebook Series on Alternative Regulatory Approaches 
+
+-1 This series is intended to provide a practical introduction featuring both the theoretical merits and proven limitations to a special set of regulatory alternatives: approaches that are generally most compatible with the market forces that govern business decisions.
+
+The series includes six books: 
+
+1) 
+
+Overview 
+
+2) 
+
+Marketable Rights 
+
+3)
+
+Performance Standards 
+
+4) 5)
+
+Monetary Incentives Information Disclosure 
+
+6)
+
+Tiering 
+
+The series was produced by the staff of the Project on Alternative Regulatory Approaches and its support contractor, SRI International of Menlo Park, California, Richard A. Ferguson, Project Manager.
+
+Project on Alternative Regulatory Approaches 
+
+Lawrence E. McCray, Director 
+
+Mitchell Foushee, Series Manager
+
+Nancy C. Joyce, Series Editor Book 5 - INFORMATION DISCLOSURE A Practical Guide to the Use of Information Disclosure as a Regulatory Alternative September 1981 Principal Contributors 
+
+James Hughes, SRI International
+
+Katryna J. Regan, Project Staff 
+
+We wish to acknowledge the major contributions of Robert Reich of Harvard University; Robin Herman, for her legal counsel; and
+
+Debra McClelland, for administrative support. We also thank the many people in the regulatory agencies who provided information, ideas, and comments on drafts.
+
+T. 
+
+PREFACE 
+
+This guidebook is one of a series that is intended to familiarize regulators and regulation-watchers with marketoriented approaches to reaching regulatory goals. 
+
+One of the significant (although not the best-noted) products of the recent campaigns for regulatory reform has been the growth of a sense of self-consciousness about regulatory decisionmaking.
+
+By and large, regulators now agree that their decisions can and should be a deliberate choice among competing alternatives, and should result from a systematic comparison of the relative costs and benefits among the array of choices. 
+
+A more thorough analysis of such alternatives will be increasingly important during the reviews by the Office of Management and Budget of major new rules under Executive Order 12291 and in light of pending legislation advocating agency use of alternative approaches. Policymaking is becoming a conscious matter of choosing the "right" tool for the job at hand. 
+
+One class of regulatory tools that is of particular interest includes those that bring the least disruption to private decisionmaking in the regulated firms and use market forces to reduce the overall direct and indirect costs of regulation. These market-oriented techniques alternative regulatory approaches stand in contrast to the traditional 'command-and-control" form of regulation, which involves a detailed specification of private compliance requirements and formal sanctions against those who violate them. In general, alternative regulatory approaches can have these relative advantages over command-and-control regulation: "I 
+
+They provide more flexibility and more incentive for regulated firms to devise least-cost ways to comply.
+
+They impose fewer indirect costs (e.g., red tape, inspections).
+
+They are results-oriented, rather than means-oriented. 
+
+They reward private innovation.
+
+They impinge less on private choice and encourage market competition.
+
+They avoid the pitfalls of centralized, discretionary decisionmaking.
+
+ii These alternative techniques are not new inventions some regulators have been using them for years. However, as a class they are not yet well understood, and they are still more often a subject of rhetorical debate than serious policy discussions. This tendency has caused some agency skepticism about their practicality. These guidebooks attempt to show that market-compatible techniques are more than interesting ideas they are interesting ideas that work to solve real governmental problems. 
+
+We do not presume that market-oriented solutions will fit every regulatory program. Only those who know particular programs in detail can determine how appropriate an alternative regulatory approach is in a specific case. Thus, these guidebooks are intended as introductions to the techniques rather than as "how-to-do-it" manuals. We have relied extensively on actual examples of past use. This guidebook on information disclosure, for example, gives 15 examples of information disclosure schemes that 9 Federal agencies have used or proposed. 
+
+These examples are included for illustrative purposes only; no attempt has been made to evaluate the merit of each action. We hope that a realistic summary of both the merits and drawbacks of these approaches will encourage regulators to begin to count them among the alternative tools at their disposal.
+
+iii 
+
+SUMMARY 
+
+Ideally, normal market forces govern how producers disclose information about their products. But "market failures" can result in poor information flow. These failures can occur when: 
+
+the effects of poor product choices are ambiguous or hidden, and/or - no firm has a sufficient incentive to disclose information. 
+
+Under such conditions, government regulators can intervene to strengthen the flow of information from producer to consumer. 
+
+A disclosure scheme can either substitute for or supplement a mandatory regulation. There are two basic types of information disclosure: 1) private, in which the producer discloses the information; and 2) governmental, in which the government regulator takes the initiative.
+
+The degree of government intrusion into the information disclosure process varies with the method used. The government can: 
+
+prescribe standard test protocols, which firms use voluntarily; produce comparative information and publish ratings; require information disclosure when a manufacturer uses a "trigger" word; require a label warning, list of contents, or summary of legal rights with each product. Advantages 
+
+Information disclosure can be 1) less paternalistic, 2) less costly, and 3) less coercive to manufacturers than mandatory rules. Also, it can enhance competition and encourage innovation and high quality goods, services, and practices. 
+
+Practical Problems The choice among options is the real focus of an information disclosure system. A successful information disclosure system must avoid: 
+
+incomplete or imbalanced comparative information; overly technical information; information that contains too much jargon test measures that produce unintended incentives; use of inaccurate or incomplete grading systems. 
+
+in fact, it is
+
+The costs of required disclosure may be high possible to ask for too much disclosure. Agencies should systematicallly monitor the costs of required disclosure to ensure that they are not excessive when measured against the benefits accrued.
+
+PREFACE SUMMARY 
+
+CONTENTS PART I 
+
+INFORMATION DISCLOSURE: AN INTRODUCTORY GUIDE FOR REGULATORS 
+
+What is "Information Disclosure"?
+
+What Are the Relative Advantages of a Disclosure 
+
+Approach? iii 1 
+
+When Is Information Disclosure Appropriate? 
+
+What Is the Proper Government Role in Information 
+
+Disclosure? 
+
+What Are the Practical Issues In Designing An Information Disclosure Strategy? How Do Agencies Resolve Them? 
+
+11 
+
+How Can Information Disclosure Be Evaluated? 
+
+19 
+
+PART II 
+
+AGENCY EXPERIENCE WITH INFORMATION DISCLOSURE Department of Agriculture USDA May Amend Food Grading 
+
+23 
+
+Department of Health and Human Services Food and Drug Administration Requires Labeling of Sunscreen Products 
+
+24 
+
+FDA Considers Requiring Patient Package Inserts for Prescription Drugs 
+
+26 
+
+Department of Transportation NHTSA Requires Grading and Labeling of All New Tires ..... 
+
+NHTSA Publishes Buyers' Guide on New Cars 
+
+28 31 Coast Guard Requires Information Pamphlet for Consumers of Personal Flotation Devices 
+
+32
+
+PART II 
+
+Agency Experience with Information Disclosure (Continued) Environmental Protection Agency EPA Requires Public Notification by Water Systems 
+
+34 
+
+EPA Allows Firms to Implement Voluntary Noise Labeling Programs 
+
+35 
+
+Civil Aeronautics Board CAB Reviews Passenger Information Requirements During Deregulation 
+
+37 
+
+Commodity Futures Trading Commission 
+
+CFTC Uses Consumer Information System to Inform Consumers and Receive Complaints 39 
+
+Consumer Product Safety Commission CPSC Reviews Upholstered Furniture Flammability Standards 
+
+41 
+
+Federal Trade Commission 
+
+FTC Enlightens Bulb Consumers 42 
+
+FTC Requires Appliance Energy Labels 
+
+43 
+
+FTC Requires Disclosure of Fuel Economy Figures for 
+
+Cars 45 
+
+Interstate Commerce Commission 
+
+ICC Requires Moving Companies to Provide Consumers with Information
+
+PART III → ANNOTATED BIBLIOGRAPHY 
+
+47 49
+
+PART I INFORMATION DISCLOSURE An Introductory Guide for Regulators 
+
+This section presents questions frequently asked about information disclosure as a regulatory technique. The answers reflect actual agency experience.
+
+WHAT IS INFORMATION DISCLOSURE? 
+
+Information disclosure is a strategy for achieving regulatory goals by providing consumers with relevant information about the consequences of using a product or service. People encounter information disclosure almost daily when they see the Environmental Protection Agency estimated gas mileage ratings in automobile advertising; the Surgeon General's health warning on cigarette packages and advertising; and motion picture advisory ratings on the suitability of films for young people. 
+
+Information disclosure may serve as a substitute for or supplement to existing regulations. It allows manufacturers and service providers to warn consumers about possible negative effects of using their goods or services and, when effective, can lessen the need for the government to impose a ban or to control the good or service directly.. Information disclosure has been applied to a wide variety of regulatory situations, including car crashworthiness, the performance of light bulbs, tires and clothes dryers, and employee pension plans. 
+
+Types of Information Disclosure 
+
+Information disclosure falls into two basic categories: 
+
+1) private and 2) governmental. In the first case, the firm makes the disclosure in accordance with government requirements. In the second case, the government agency compiles and/or disseminates the information itself. Each category covers several forms of disclosure. 
+
+1) Private Disclosure
+
+Labeling is probably the most familiar type of information disclosure. It is used mainly to convey warnings to consumers, inform consumers of their rights, or inform consumers of product quality.
+
+EXAMPLE 
+
+All pesticide products must be accompanied by Environmental Protection Agency-approved labeling that displays the use patterns and
+
+target pests that the chemical can be used against; storage and disposal instructions; and antidotes for accidental poisoning. 
+
+Some labels display scaled information about product performance. Use of a scaled rating system allows consumers to compare similar products and choose the one with performance characteristics they want.
+
+EXAMPLE The Outdoor Appliance Research Institute, in cooperation with Environmental Protection Agency, has instituted a noise labeling program for power lawnmowers. Each lawnmower has affixed to it conspicuously at the time of sale a label that gives that unit's noise output in decibels along with the range of noise levels for other lawn mowers of similar size.
+
+In another approach to information disclosure, agencies can dictate the contents of certain seller advertising content to prevent or correct possible consumer misimpressions. 
+
+EXAMPLE 
+
+The Federal Trade Commission required a major pharmaceutical firm to purchase advertising time to correct mis impressions created by the firm's claim that its mouthwash would help cure colds or lessen their severity.
+
+Sometimes it is necessary to disclose information about hazards or other problems that are revealed after a product is placed on the market. Remedies range from simply alerting the public to direct consumer notification. 
+
+EXAMPLE The Office of Drinking Water of the Environmental 
+
+Protection Agency requires water companies that are 1) not monitoring their water quality, or 
+
+2) monitoring their water quality but are not in compliance with water quality standards, or 3) have received a variance permitting the firm to violate a certain water standard for a specific
+
+length of time, of time, to inform their customers of this fact through radio or television, or by including a notice in their regular billing, at least once every 3 months. 2) 
+
+Governmental Disclosure 
+
+In some cases, when an agency determines that the need for information disclosure is great and/or the producer of the good is unable to provide such information, the agency may take the initiative to provide information to the consumer. 
+
+Hotlines have been used by several agencies both as a means of responding to general requests for information from the public, and as a means of collecting data on potential problems. 
+
+EXAMPLE The Consumer Product Safety Commission operates a consumer hotline which provides information on Commission actions on various products, e.g., hair dryers that may emit asbestos fibers. The hotline also provides the Commission with a means of collecting information on possible hazards in the marketplace before they become major problems.
+
+In certain special cases, the problem at hand may be sufficiently technical or otherwise complicated to justify special publications for conveying information to the public. These efforts include "fact books" or other publications that explain information that might be difficult for the non-expert to understand, or that is otherwise unavailable in one place. 
+
+EXAMPLES The National Highway Traffic Safety Adminis tration has published The Car Book, which rates 1981 domestic and foreign automobiles on crash test results, maintainance costs, insurance costs, fuel economy ratings and other performance characteristics.
+
+The ICC publishes a compilation of comparative performance data for major household moving firms.
+
+In some cases agency press releases may suffice to inform consumers of relevant facts.
+
+EXAMPLES The National Traffic Safety Administration releases data from its automobile crash tests for each model tested. 
+
+The Federal Trade Commission releases a listing of the tar and nicotine ratings of cigarettes.
+
+The Treasury Department's Bureau of Alcohol, 
+
+Tobacco and Firearms issues releases when beverages are found to violate Bureau standards. 
+
+WHAT ARE THE RELATIVE ADVANTAGES OF A DISCLOSURE APPROACH? 
+
+While there may be exceptions, information disclosure usually has several relative advantages over mandatory standards as a regulatory technique. Specifically, information disclosure may be preferable because it: preserves freedom of choice for firms and consumers; is likely to be a less costly remedy to the regulatory problem; impinges less on competition and innovation. 
+
+Greater Choice 
+
+Information disclosure ensures that consumers have greater choice among products and services, because a government agency is not dictating restrictive specifications. Thus, product or service choice is based on personal preference, rather than limited by government.
+
+EXAMPLE 
+
+Rather than bar certain fabrics from use in upholstered products for reasons of fire safety, the Consumer Product Safety Commission is con sidering simply requiring disclosure of the product's relative performance on a cigarette "burn" test. This leaves sellers and buyers wider freedom of choice and allows them to weigh safety risk against other factors, e.g., cost and style.
+
+If information disclosure can displace or supplement more traditional, mandatory regulations, firms' compliance costs will almost always be lower. A mandatory standard usually requires the redesign of a product or production process, which will mean costs and disruption for the regulated firm. While the costs of a disclosure approach are not zero label changes, media announcements, and consumer notification are real enough costs they are normally lower than the engineering and management costs imposed by mandatory rules. 
+
+Administrative costs should also be lower. The costs of information disclosure regulation will vary widely depending on the type of disclosure used and the amount of detailed technical information involved. In general, however, information disclosure can be enforced through spot checks of retail outlets, removing the necessity for plant inspections and attendant costs to government and firm alike.
+
+Enhanced Competition and Innovation 
+
+Information disclosure allows competitive forces in the marketplace to continue to dictate the precise nature of the products and services offered to consumers. Consider the case of product-rating disclosure. Firms spends millions of dollars each year in advertising, package design, and product styling to make their products more attractive to consumers. In some cases, the observable attributes may be misleading so that two products may appear identical to the consumer, when one actually performs much better or imposes less risk. This "hidden factor" may not become apparent until well after purchase, when it is difficult or impossible to obtain relief from the manufacturer. If an agency requires, for example, that manufacturers publicly rate these hidden factors according to a standard test procedure, consumers will be able to make better informed purchase decisions. As consumers alter their purchasing decisions in light of this new information, firms have a new market incentive to compete for
+
+that business by enhancing the rated qualities of their products. 
+
+If the rating methods are well chosen and accurately reflect the qualities they are intended to rate, not only will competition increase, but the overall quality of the products offered in the market will improve and further innovation will be encouraged possibly going beyond what could have been mandated in a commandand-control regulation. 
+
+EXAMPLE 
+
+The FTC has established standard test procedures for tar and nicotine ratings in cigarettes.
+
+Tobacco companies now use these ratings extensively in their marketing, which reinforces buyer awareness of tobacco health issues and has led to the introduction of newer, ultra-low tar cigarettes. 
+
+WHEN IS INFORMATION DISCLOSURE APPROPRIATE? 
+
+Government intervention may be appropriate when the market cannot be relied upon to provide the amount and quality of information that consumers need. In theory, at least, each product market is accompanied by an "information market," in which competitors, each trying to convince buyers of the superiority of their own wares, end up jointly giving customers a sense of their drawbacks, too. In an ideal advertising/marketing world, claims are met with counterclaims, exaggerations with objective facts, and the truth is revealed in the process. However, real markets do not invariably work this way. Several conditions can lead to imperfect information markets.
+
+First, the market may generate too little information because of adverse seller incentives. Sellers will offer data on the relative superiority of their brand of a product -- but only if such disclosure doesn't lead consumers to switch away from using the product altogether. For example, before tar and nicotine ratings were required for cigarettes, even low-tar cigarette manufacturers had little incentive to disclose such information because it would draw attention to the fact that tar and nicotine are something to worry about. This, in turn, might cause consumers to give up smoking.
+
+1 Secondly, the information market is not likely to perform well when a product is so complex that there is no unambiguous, simple measure of performance available. In such a case, different firms may end up using different performance scoring systems, depending on which system shows their product attributes in its best light. No single firm has an incentive to explain the differences in scoring systems and point out their relative advantages and disadvantage, because other firms would thereby benefit. The use of different scoring systems may confuse consumers and reduce their understanding of any single system. 
+
+The regulating agency has a role in such cases: it can suggest or require a uniform evaluation system.
+
+EXAMPLE The National Highway Traffic Safety Adminis tration has established testing protocols and grading standards for all automobile and light truck tires. In order to ensure that consumers are provided with understandable, comparable information, the agency specified that manufacturers must grade tires according to traction, treadwear, and temperature resistance and presents a protocol for conducting the tests to determine the grades. 
+
+Thirdly, the market may not generate the proper quality and quantity of information when consumers have difficulty evaluating the accuracy or relevance of the information they do receive. 
+
+This is apt to occur when the consequences of a poor purchasing decision are ambiguous or hidden, such as when the consumer selects a service provider (e.g., household mover), but does not know the results of the choice until a later date. The problem also is evident when exposure to certain substances or drugs results in health problems only after a latency period.
+
+The regulator can help solve this problem by requiring producers to service providers to disclose information about past performance.
+
+EXAMPLE The Interstate Commerce Commission requires moving firms to provide prospective customers with information concerning the quality of their service performance. The information is compiled in an annual performance report which must be handed to the consumer prior to the
+
+execution of an order for service.
+
+The infor- mation covered ranges from the proportion of shipments in which there was a 10 percent or greater over- or underestimate of charges, to the firm's "on-time" record, to the average number of days required to settle claims for loss or damage. 
+
+WHAT IS THE PROPER GOVERNMENT ROLE IN INFORMATION DISCLOSURE? 
+
+The Value of Decentralized Decisions 
+
+Information disclosure should leave as large a role as possible to market forces. The real goal is not to specify the exact information to be disclosed and the precise manner in which it should be disclosed, but to give sellers proper incentives to make those decisions on their own. While some products may pose such a high risk of serious harm to the purchaser that direct government regulation is desirable, in many other cases, manufacturers and retailers are in a far better position than a government agency to decide on the appropriateness of using a particular bit of information to communicate the product's advantages and disadvantages, because they have continuous feedback from sales data on the impact of their messages. Sellers also are in a better position to determine the most effective techniques for communicating that information and responding to changes in communications strategies.
+
+Likewise, consumers are often in a far better position than government agencies to decide what types of product information they use. Consumers typically have access to diverse sources of product information: third parties, such as newspapers, shopping guides, inspectors, and consultants; the knowledge and experience of friends and acquaintances; the consumers' own experiences and observations; and representations by sellers themselves. 
+
+Moreover, consumers have a strong economic incentive to seek out accurate product information, since it will help them find a product of the desired quality and price. Manufacturers and retailers likewise have a strong incentive to provide accurate product information, since their future sales and reputations depend on it. Sellers of a superior product have every reason to point out to consumers why their product is better and why its competitors fall short.
+
+The Range of Choices 
+
+In this section we outline the different agency actions to implement information disclosure, beginning with the least intrusive form of information disclosure -- one that permits market competition to dictate the precise form and extent of the information and ending with the most intrusive form. If the market does not provide the needed information to a consumer, an agency may first consider the least intrusive disclosure method, and work from there until an adequate remedy is identified. The government-intrusion continuum proceeds as follows: 1) 
+
+Government selects a standard test protocol that firms must use. In such cases, the government conducts the tests and manufacturers disclose the results. No product modifications or specific disclosures are required. When consumers are concerned about an issue, manufacturers have an incentive to prominently display favorable test information to encourage consumers to choose their product.
+
+EXAMPLES 
+
+The National Bureau of Standards provides a test protocol for measuring wattage, and light bulb manufacturers find it advantageous to disclose wattage on standard bulbs and packages. 
+
+The Federal Trade Commission provides a protocol for measuring cigarette tar and nicotine, and cigarette manufacturers disclose the test results in all their advertisements. 
+
+2) Government itself produces comparative information. 
+
+This option still requires no new action on the part of the firm. 
+
+The government conducts tests and produces comparative information about different models and/or brands of a given product. The information presented is standardized, enabling consumers to compare information about different models, brands, or services. 
+
+EXAMPLE The National Highway Traffic Safety Adminis tration releases numerical data from its standardized 35-miles-per-hour crash tests for each car model.
+
+3) Trigger for mandatory disclosure. only when a seller's action triggers it. 
+
+EXAMPLES 
+
+Disclosure is required
+
+Any claims in advertisements or labeling of a product's benefits to athletes, the elderly, or dieters will trigger requirements by the Federal 
+
+Trade Commission disclaimers and warnings. 
+
+The FTC's "Industry Guide" on gas mileage includes a "trigger" provision if a seller's advertising makes no representations concerning fuel economy, it incurs no disclosure requirements. If it does reference fuel economy, it must include a series of disclosures indicating the miles-per-gallon data for the car model as determined by Environmental Protection Agency. 
+
+4) Mandatory Disclosure. 
+
+A warning or list of contents or summary of legal rights is included with each product or service offered.
+
+EXAMPLES The Civil Aeronautics Board requires airlines to post notices at boarding gates outlining passenger's rights concerning compensation if they are "bumped" (involuntarily denied boarding) on a flight for which they hold confirmed reservations.
+
+The Department of Housing and Urban Develop ment requires property promoters to disclose the consumer's right to a "cooling-off" period between the time that the sales agreement is signed and the agreement takes effect. The purchaser is free to cancel the agreement at any time during the "cooling-off" period. 
+
+5) Mandatory testing and disclosure. Manufacturers are required to test all products offered for sale and disclose the test results. The information disclosed at the point of sale in terms which can be compared with other products of the same type or model.
+
+EXAMPLE The Environmental Protection Agency requires that all new cars offerred for sale display data on mileage for highway and city driving. 
+
+Performance-Based Disclosure Rules 
+
+A government agency might impose general standards of performance for disclosure and leave the design of the most costeffective message and media strategy to the affected firms. This would free the agency from having to fashion effective disclosure themselves a subject in which most public officials lack training. A performance standard could specify the target audience that must receive some particular message at a certain level of awareness, and leave the details of creative execution to the firms subject to that requirement. Although measurement of performance seems a difficult task, advertisers already routinely measure consumer recall, awareness, and beliefs in evaluating their advertising campaigns.
+
+WHAT ARE THE PRACTICAL ISSUES IN DESIGNING AN INFORMATION DISCLOSURE PROGRAM? 
+
+HOW DO AGENCIES RESOLVE THEM? 
+
+Practical experience with disclosure programs reveals three types of considerations that should be taken into account in the design of disclosure efforts: the information content to be disclosed, the form of the disclosure, and potential controversy surrounding problems of implementation.
+
+Information Content 
+
+The ultimate intent of disclosure schemes is to create better informed freedom of choice. It is the choice among options, not the attributes of a particular product or service, that is the real focus of a disclosure effort. There are a number of problems that can make information inadequate for this purpose, including incomplete or imbalanced comparative information, overly technical information or information that contains too much jargon, and test measures that produce unintended incentives.
+
+A frequent shortcoming of disclosure programs is that the buyers have incomplete or imbalanced comparative information on all of the actual options before them. This can contribute to erroneous buyer responses. The problem often is that disclosure gives the buyer relevant information on some options and not others. This can occur when some of the available sales alternatives have not been tested, leaving buyers with a possible impression that the untested items are better (or worse) than the tested items.
+
+EXAMPLES 
+
+EPA drinking water regulations require disclosure to users when their water quality falls below EPA standards. This could lead users to consider switching to bottled water, which may be subject to no regulatory standards or testing requirement at all.
+
+The Interstate Commerce Commission regulations require that household moving firms give prospective customers a statistical profile of their record of timely deliveries, property damage claims, etc. These data are of limited use unless the customer undertakes to obtain data from competing firms, which only sometimes are presented in comparable terms.
+
+There has been some concern that warning labels on the potential cancer hazards of saccharin could induce saccharin users to avoid the sugar substitute altogether and incur the conceivably greater health risks of increased sugar intake -- being overweight, for example. Similarly, some feel that drug warnings could induce some patients to avoid the drug entirely, foreclosing a treatment option.
+
+The recent state-of-the-art in labeling emphasizes the comparative performance of available options to deal with the problems of incomplete information.
+
+EXAMPLES 
+
+A good example is the label format designed according to the Federal Trade Commission requirement for the energy efficiency of refrigerators. The label portrays the brand's performance graphically on a scale showing the most efficient and least efficient brands available.
+
+Britain is considering putting quantitative risk information on cigarette warning messages, noting, for example, the proportion of smokers who will suffer from lung cancer. This would give smokers a better basis for comparing smoking risk with other risks than the simple warning statement can.
+
+To be comparable, product attributes must have a common unit of measure. In some cases, an agency could provide the benefits of disclosure simply by specifying such uniform units and letting firms disclose information by any means they choose. 
+
+EXAMPLE 
+
+Unit pricing in supermarkets is useful for comparative shoppers only if competing items are held to the same unit of measures, weight in pounds. If stores do use the same units, further detailed mandatory disclosure rules for that purpose would probably be unnecessary.
+
+Care also must be taken to ensure that the performance measure chosen is credible and meaningful to the lay public and not just to agency specialists. Statements that are overly technical or loaded with jargon will only serve to obscure the message. 
+
+EXAMPLES The Environmental Protection Agency's fuel economy ratings originally were meant to be used to test vehicle compliance with pollution control laws. The ratings test were not designed to simulate performance for typical drives. a result, car buyers tend not to achieve the rated levels of fuel economy, leading to some skepticism about the whole rating program. As
+
+The Federal Trade Commission regulations require disclosure of the brightness of light bulbs, measured in lumens. Few buyers know what lumens are and most continue to think of wattage (an energy input measure) as the indicator of bulb brightness.
+
+The Department of Transportation requires disclosure of tire temperature resistance. Experts know -- but buyers probably do not -- that temperature resistance reliably reveals both the relative life and fuel economy of a tire.
+
+Designation of a performance rating measure also can lead to unintended incentives for sellers. One reason for concern is that the sellers may begin to redesign their product to score better on a rating test that is not congruent with actual conditions-of-use experience.
+
+EXAMPLES 
+
+The Department of Transportation has tested head-on fixed barrier car crashes at 35 mph and made the test results public. This gives auto manufacturers every incentive to design cars to pass the fixed-barrier head-on crash -- - and pay less attention to other types of collisions occurring under road conditions. 
+
+Suppose tire treadwear were graded as follows: 
+
+Excellent: Over 40,000 miles 
+
+Good: 25,000. 
+
+25,000 40,000 miles 
+
+Tire makers would have no incentive to produce a tire with a 60,000-mile tread life, as it would gain no visible competitive advantage from the improvement. Similarly, if a firm faced a choice of producing a 25,000-mile tire at a lower cost and a 35,000-mile tire at a higher cost, it would be inclined toward the less durable tire because the grade would not show superiority over a competitor's 25,000-mile tire.
+
+Another incentive problem is that the rating scheme might induce sellers to barely exceed some minimum quantitative criterion, rather than continue to innovate. [Note: The problem of unintended consequences would be as severe under a mandatory rule, based on the same rating test.] 
+
+The Form of Disclosure 
+
+Practitioners working on diverse agency disclosure programs agree on one operating rule: in this area, the medium really is the message. Experience shows that the right disclosure content may be ineffective unless the form is also right. Two aspects of form are the degree of accessibility and the level of simplification.
+
+The accessibility of a disclosure message can be a crucial factor in whether buyers will use it. A common error has been the assumption that a buyer will invest time in reading a detailed disclosure message. The same techniques of effective presentation used in mass advertising (for example, brevity and color) may be needed to ensure the usefulness of a disclosure. 
+
+EXAMPLE The Department of Transportation officials associated with The Car Book attribute the heavy public demand for the publication to its polished format, simple and appealing layout, use of clear comparative tables, and liberal use of color. They are certain that the same information issued in a mimeographed government report would have had neglible impact.
+
+To a great extent, ensuring accessibility is an art 
+
+and one that is perhaps easiest to describe in terms of errors to be avoided. One such error is information overload. 
+
+Too many messages or too much technical detail can become a deterrent to communication.
+
+EXAMPLES 
+
+The Civil Aeronautics Board has over the years required airlines to disclose many facts, including liability limits, passenger rights, prices, and safety security measures, at the boarding gate and on the ticket itself.
+
+CAB itself now questions whether passengers are getting useful information from these numerous technical disclosures.
+
+The 
+
+The Department of Transportation required a tire manufacturer to make a particular disclosure about safety. The manufacturer complied with a booklet so full of fine print (including the entire text of DOT's formal Federal Register notice) that the message may have been totally obscured to tire buyers.
+
+Another variety of information overload is "wear-out" from excessive repetition.
+
+· EXAMPLES 
+
+Cigarette warning labels have had the same basic form for 20 years. Recent research questions whether they continue to have an effect on consumers. 
+
+Seasoned airline passengers take little apparent notice of flight attendant's preflight safety announcements. 
+
+Automobile owners may no longer "hear" their seatbelt reminder warning after they become habituated to it.
+
+Another aspect of accesibility is the timeliness of the disclosure to the buyer. The point of a disclosure program is to transmit all relevant information to a buyer at the time of the buyer's decision. Problems arise when the buyer must actively probe in order to complete the acquisition of relevant disclosures in time.
+
+EXAMPLES 
+
+Each household mover must disclose its own performance record to potential clients. 
+
+However, the client must write to the ICC to obtain comparative information on other movers' performance; few do so.
+
+Disclosing tire grades on the tire itself is not the best form of disclosure because tire buyers typically inspect tires only after they have been mounted on their vehicles. 
+
+Consumers may be notified that their drinking water violates EPA standards as long as 90 days after the violation occurs.
+
+The Coast Guard formerly required labels on life jackets and other flotation devices that described flotation characteristics. The devices, however, were packaged, and the labels could be read only after sale. To remedy this, the Coast Guard now requires sellers, to have available a separate pamphlet for prospective buyers describing the available types of flotation devices and their relative merits.
+
+Another difficult design question relating to the form of disclosure is the level of simplification. It may be difficult to discern the right point on the continuum between excessive complexity and oversimplification. An agency's technical experts are likely to insist that the disclosure allow for technically precise language and appropriate qualifications, and disclaimers. 
+
+Oversimplification could lead to misunderstanding and to overreaction by the public and the press. On the other hand, excessive detail can make the disclosure meaningless to a lay person, leading to underreaction.
+
+Problems of Implementation 
+
+A successful information disclosure program depends in great part on how the new policy relates to existing private market forces. Two implementation issues include 1) the effects of firms' willingness to use performance ratings for advertising purposes; and 2) controversy.
+
+An Obstacle to Voluntary Compliance 
+
+Disclosure may introduce a new basis of competition into a market, which may cause significant changes in market structure. 
+
+For example, the Federal Trade Commission tar and nicotine ratings introduced a whole new competition factor to cigarette marketing, leading to new products, new advertising strategies, and large shifts in brand sales patterns.
+
+From the regulator's point of view, injection of the disclosed information into firms' marketing compaigns is the deserved outcome. 
+
+It represents a successful harnessing of private incentives for public purposes. Notable past successes in addition to cigarette ratings include auto fuel efficiency figures, sunscreen lotion effectiveness ratings, and environmentally superior detergents.
+
+In theory, such outcomes should be common, particularly where comparative performance ratings are disclosed. Those whose products rate highest should have an interest in emphasizing the fact to buyers. In practice, however, such results are rare. 
+
+EXAMPLES 
+
+Even the best-rated automobile manufacturers express very little interest in promoting their Department of Transportation Car Book performance ratings to potential buyers.
+
+Even after ratings for tread wear, fuel economy, and traction for tires became required disclosure, tire marketing is still predominantly a matter of brand identification as reflected in such features as corporate ownership of blimps. 
+
+Private firms may be reluctant to advertise relative performance ratings, in some cases, a strategic choice -- for example, an industry may disagree with the rating test and prefer not to give it legitimacy. Manufacturers are reluctant to disclose even their high rating when the rating scale itself alerts the consumer to an industry-wide problem, e.g., product hazard or short life. In some cases, however, it may be that the rated attribute simply doesn't sell consumers don't care about it.
+
+For regulators, it is difficult to know in advance when an attribute will "sell," -- i.e., when inter-firm competition will actively help the agency do its job without mandatory rules. 
+
+For tires, durability does not seem to sell. For light bulbs, brightness and durability do not seem to sell. However, it was first thought that car gas mileage would not sell either, and consumer preference later changed. The uncertainty about the effects of disclosure on a particular market's competitive strategy is a central question for both regulators and manufacturers. 
+
+Unfortunately, there are no simple rules to predict when it will happen, and detailed case-by-case market studies may be necessary. 
+
+2) Controversy 
+
+Information disclosure is, perhaps, the least burdensome of regulatory instruments, because it preserves freedom of action for both sellers and buyers. This does not, however, make it a universally loved alternative and controversy may surround some disclosure efforts.
+
+A new disclosure requirement will put another rule in the book and to firms it may appear to be just one more instance of burdensome Federal intervention. The fact that the alternative is a much more intrusive mandatory control may be forgotten early in the public debate.
+
+Some observers may argue that a disclosure program can become an improper use of governmental power to change people's preferences rather than to simply inform them. What one person sees as a program to supply neutral information may look like propagandizing to another. Agencies may feel quite secure in the conviction that disclosure is merely meant to provide objective. data to aid consumer choice. Others, however, may regard the same actions as as an improper attempt to influence consumer choices.
+
+?
+
+EXAMPLE 
+
+Proponents of saccharin warning labels argued that labels left users free to take the possible cancer risk. Opponents claimed that the real danger was that consumers would overreact to the small cancer risk, and, contrary to their own interest, would be led by government policy to accept greater risks from abstaining from the sugar substitute.
+
+HOW CAN INFORMATION DISCLOSURE BE EVALUATED? 
+
+Like all regulations, information disclosure schemes need to be reviewed periodically to ensure that the, actual benefits outweigh the actual costs after implementation. Because the benefits of information disclosure are extremely difficult to measure directly, indirect measures may provide the most helpful form of evaluation. One such indirect measure of benefits is the extent to which the information disclosure influences the market by changing consumers' purchasing decisions or altering the products that are offered to consumers. If the disclosure has had little or no effect on consumer purchasing patterns or on the products themselves, then we can safely assume that it has generated few, if any, benefits. On the other hand, if consumers have altered their purchasing patterns dramatically after disclosures were initiated, or if manufacturers and retailers have altered their products, we can assume that the disclosures have been effective (although we cannot be sure that they were beneficial).
+
+In order to measure such market changes, an agency would need to undertake a "base-line" study of market conditions market shares and product characteristics -- before putting the information disclosure into effect. A subsequent study, after implementation of the disclosure system, would re-examine these data and note any differences.
+
+PART II AGENCY EXPERIENCE WITH INFORMATION DISCLOSURE 
+
+This section gives detailed descriptions of 15 examples of information disclosure currently in place or under active consideration by agencies. The examples show the rich variations in the way that agencies use information disclosure. These examples are included for illustrative purposes only; no attempt has been made to evaluate the merit of each action.
+
+DEPARTMENT OF AGRICULTURE USDA MAY AMEND FOOD GRADING 
+
+Food grading is used to categorize agricultural products into different levels of quality. Most food grades primarily reflect the sensory and aesthetic attributes of a given food, as established by the U. S. Department of Agriculture (USDA). 
+
+Federal Food Grades were established primarily to facilitate the marketing of agricultural products; consumer concerns were originally not of primary importance to the program. As this tool found its way into the marketplace, more commodity producers and buyers requested that USDA establish standards and grades for their products. Unlike mandatory inspection programs, food grading remains voluntary. It is provided to food packers, processors, wholesalers, and other qualified applicants who request and pay for it.
+
+In 1980, USDA issued an advance notice of proposed rulemaking which announced options for possible changes in its food grading policy. The changes involved amending the food grading program to better serve the needs of consumers, while retaining the program's original purpose of facilitating trading and marketing of agricultural products. In the advance notice, USDA considered options for instituting uniform grade nomenclature. USDA has derived food grades from well accepted notions about quality. 
+
+For example, canned pears that are labeled "U.S. Grade 
+
+A" must: 
+
+1) possess similar varietal characteristics; 2) possess a normal flavor and odor;
+
+3) possess a good color; 4) be practically uniform in size and symmetry; 
+
+5) be practically free from defects; and 
+
+6) possess a good character.
+
+In assigning grades to pears, a USDA inspector examines samples and, on the basis of subjective judgments, assigns a specific number of points to each relevant criterion. If the sample receives a total of 90 points or more, the entire shipment can
+
+be labeled "U.S. Grade A." 
+
+Practically all USDA grades involve similar subjective criteria, although inspectors are quite familiar with industry practices and are specially trained to look for the relevant attributes of the product being graded. 
+
+The meaningfulness and usefulness of USDA grades can be limited by the lack of uniformity of grade names for different products. 
+
+Because grades were developed on a product-by-product basis, the names for each food product have developed differently. 
+
+Grade names for different food groups sometimes use words, letters, or numbers. Even the top grade for different foods are expressed differently, as in USDA grade "AA" for butter, U.S. No. 1," for most fresh fruits and vegetables, and USDA "prime" for meats. A major issue in the USDA advance notice concerned standardizing grade names to give the purchaser more uniform point-of-purchase food quality information. 
+
+Another problem is that, although grade names have come to be used in marketing some foods at the retail level, considerable disparity exists in where and how these grade names are used. 
+
+While most fresh beef graded at packing plants retains its grade at the retail level, this is considerably less true for processed fruits and vegetables. The consumer is therefore not able to look consistently to the food grading system for information concerning food quality. Consumer confusion results. 
+
+The impact of these problems on consumer acceptance of the food grading program have been confirmed by a USDA-sponsored survey of consumer perceptions of food grading. The data point out one important fact consumers do shop for quality in foods, but may not make direct use of USDA grades to determine quality. 
+
+Cite: 21 CFR 130. 
+
+Contact: Connor Kennett, Director, Poultry Division, Agriculture 
+
+Marketing Service, USDA, (202) 447-4476.
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FOOD AND DRUG ADMINISTRATION REQUIRES LABELING OF SUNSCREEN PRODUCTS 
+
+As part of the Food and Drug Administration (FDA) procedure for reviewing the safety, effectiveness, and labeling of all nonprescription or over-the-counter (OTC) drugs, a panel of non-
+
+government experts studied sunscreen products and recommended that an efficacy rating system be made mandatory for all sunscreen labeling. The rule was proposed in 1978, but is not yet final. 
+
+In the meantime, however, sunscreen product manufacturers already have implemented the rating and labeling system.
+
+Sun-care products have traditionally been promoted as tanning products. In the past, the emphasis in advertising has been on achieving a rich, dark tan, with little mention of the protective function of suncare products. Marketers perceived the public as desiring the deepest tan in the shortest time possible. In the past 3 years, the sun-care market has shifted promotion, marketing and formulation emphasis toward the protection offered by these products.
+
+The Sunscreen Protection Factor (SPF) rating system is based on a numerical grading of the protection provided by an individual product. Although the SPF is a numerical grading system, the panel recommended mandatory verbal equivalents for labeling ranging from "minimal" to "ultra" protection.
+
+The report also categorized skin into six types, according to sunburning and tanning characteristics, and matched each skin type with an SPF number appropriate to its characteristics. 
+
+The review panel also reported strongly on the adverse effect sun tanning has on skin. Inclusion of the following statement (or a similar one) in labeling was recommended: "May help prevent premature aging and wrinkling of skin and skin cancer due to sun overexposure." This recognition of the adverse effects of sun exposure, coupled with the comparative efficacy information provided by the SPF ratings were instrumental in the market changes occurring in the ensuing 3 years.
+
+Many new products entered the market, most emphasizing a full range of sun protection products. These new products were accompanied by intensive advertising and promotion explaining the SPF system and the skin type for which each SPF value was most appropriate. Advertising was heavily slanted towards protection from the sun and explaining the SPF system. Many products already in the market were reformulated and adopted the SPF system.
+
+The education process was helped by articles in women's and general interest magazines. The FDA panel's emphasis on the adverse effects of tanning was news, and the SPF system gave health and beauty writers an excellent topic for a useful "service" feature that was sure to appeal to readers and advertisers alike. The FDA press information office assists journalists in preparing annual protection-from-thesun articles.
+
+This increased interest in the SPF system and the need for sun protection is, of course, encouraged by the sunscreen manufacturers.
+
+FDA, industry, and retail sources agree that the education of consumers has been highly successful in increasing public awareness of the need for some form of protection from the sun. 
+
+There does not, however, appear to be agreement on the extent of consumer understanding of the SPF system. Most industry sources feel that more consumer experience with the reformulated products and the SPF system is necessary before the system is fully understood.
+
+Adoption of the SPF system has expanded both interbrand and intrabrand competition in the sun-care market. The number and range of sun-care products made by individual companies has increased. 
+
+In place of what were formerly two or three sun-care products (high-tanning and conventional products, with possibly a sunscreen product) companies now provide one or two high-tanning products, three or four SPF-formulated products, and a sunblock. This diversification within any one brand line requires that its competitors similarly expand their brand range to compete effectively. 
+
+Government adoption of the SPF system coupled with recognition of the need for sun protection appears to have had a significant effect upon the sunscreen market. Sunscreen products now account for 40 percent of the suncare market. The SPF to facilitate this development by allowing manufacturers to make credible claims about sunscreening ability. 
+
+Cite: 43 FR 38206, August 25, 1978.
+
+Contact: 
+
+John T. McElroy, Branch Chief, Neuropharmacologic and 
+
+Dermatologic Drug Monographs Branch (HFS 515), FDA, (301) 443-1430.
+
+FDA CONSIDERS REQUIRING PATIENT PACKAGE INSERTS FOR PRESCRIPTION DRUGS 
+
+The Food and Drug Administration (FDA) had determined that health professionals do not always adequately communicate full information about prescription drug products to patients. In addition, patients may not pay attention to, understand, accept, or remember information that is presented orally. The agency believes that required patient labeling leaflets can help overcome this problem.
+
+FDA proposes to regulate distribution of labeling directed to the patient in nontechnical and nonpromotional language. Informational pieces referred to as "patient package inserts" would be made available at the dispensing point. In most cases, this will be at the retail pharmacy level, physician dispensing level, or public health clinics. The rule was suspended in April 1981 pending the results of a comprehensive review. 
+
+The FDA also determined that many patients misuse prescription drug products by failing to adhere to the prescribed regimen; for example, a patient may space doses improperly, fail to take the drug for the period of time necessary for adequate treatment, skip doses, or take extra doses. On the average, 30 to 50 percent of patients do not follow instructions for a wide range of prescription drug products. A patient's failure to know about or to comply properly with a prescribed course of therapy may be a major cause for the therapeutic failure of the product, or may cause the patient to experience a serious adverse reaction. 
+
+In 1978, consumers spent $9 billion on prescription drug products, of which an estimated $1.9 billion was for drugs for short-term therapy. Patient labeling could affect prescription sales by improving compliance with the original therapeutic regimen, and thus prevent the need for a refill or a second prescription because of the therapeutic failure of the first. It could also reduce the need for treating avoidable drug interactions with another drug. 
+
+Consumers could avoid revisiting health care professionals, at an average cost of $15 per followup visit, if success rates for the initial drug therapy improve because patients comply better with the prescribed regimen. Return visits may also be reduced if drug interactions are avoided and side effects are better understood as a result of patient labeling. Also, patients could distinguish better between potentially serious adverse drug reactions needing medical attention and adverse reactions that would disappear once the patient has adjusted to taking the drug.
+
+FDA estimated annual cost to the pharmaceutical industry for writing and printing patient labeling texts to range from $2.84 million in the first year to $12.78 million in the fifth year.
+
+Estimates of annual costs to industry for writing patient labeling texts range from $45,000 in the first year (when FDA would provide sample patient labeling texts) to $180,000 in the fifth year.
+
+Estimated costs to industry of printing patient labeling to range from $2.8 million in the first year to $12.6 million in the fifth year. Costs for shipping and distributing drug products should not change appreciably.
+
+Estimated costs to retail pharmacies, range from $20 million in the first year of implementation of $75 million in the fifth year.
+
+FDA expects that almost all of the costs of the proposed requirements will be passed on to the consumer, but almost all of the expected gains will accrue to consumers as well. Assuming a straight passthrough of FDA costs to consumers (in the form of taxes), pharmaceutical and retail pharmacy costs (prescription drug prices), and hospital pharmacy costs (hospital costs), the estimated total costs to the consumer in the fifth year of implementation are $90.04 million. Thus, the average prescription assuming that all industry costs are passed on and that they are equally distributed over all 1.4 billion prescriptions dispensed at the retail level. 
+
+Cite: 21 CFR Part 203; 45 FR 60754, September 12, 1980.
+
+Contact: 
+
+Steven Moore, Drug Labeling Specialist, FDA, 
+
+(301) 443-4893. 
+
+DEPARTMENT OF TRANSPORTATION NHTSA REQUIRES GRADING AND LABELING OF ALL NEW TIRES The National Highway Traffic Safety Administration (NHTSA) requires all tires manufactured after April 1980 to be tested and graded for tread wear, traction, and temperature resistance according to the agency's testing protocol, and that this grading be marked on the tire. The market does not provide a wealth of useful information to tire buyers. The list prices of tires are usually not the prices actually charged. In general, the industry, with the exception of department stores (such as Sears), does not give warranties. The manufacturers' ads stress corporate image:
+
+Michelin its quality control, B. F. Goodrich its focus on research and development. The National Traffic and Motor Vehicle Safety 
+
+Act of 1966 required NHTSA to develop tire quality grading standards "In order to assist the consumer to make an informed choice in the purchase of motor vehicle tires... While the Act called for these standards to be in place within two years, it actually required 8 years of research to decide on the criteria and the testing protocol, and an additional 4 years of litigation before the standards went into effect.
+
+A tire is a complex tradeoff between many conflicting properties, and every tire design represents some compromise on these properties. NHTSA had to find properties and tests that strike an acceptable balance of these properties and still provided useful information to the consumer. 
+
+NHTSA staff originally chose six properties for grading: tread wear (a measure of a tire's tread life); traction (a measure of a tire's ability to brake on wet surfaces); impact resistance (a measure of the tire's resistance to road hazards); endurance (a measure of the ability of the tire to maintain structural integrity during its useful life); temperature resistance (the ability of the tire to dissipate the heat generated -- this protects tire materials from degeneration); and uniformity (a measure of the lack of tire-induced vehicle vibration).
+
+Impact resistance was dropped because there was no laboratory procedure which could accurately reproduce actual operating conditions, and there were no systematic characteristics by types and grades of tire in terms of tests that were used. 
+
+Endurance was dropped because test data did not show meaningful variation between similar tires, and there was a minimum performance standard in place that was working effectively. Uniformity was dropped because industry was responding to marketplace forces in minimizing tire vibration without any grading or minimum standard in place. Vibration can be detected in a very short period after purchase, and is a leading complaint on the part of tire purchasers. 
+
+Firms therefore tried to minimize problems in order to reduce complaints and returns. In short, the market was generating information sufficient to remove any need for uniformity grading. 
+
+are The remaining three measures that are included in the present standard -- traction, treadwear, and temperature resistance a balance of conflicting tire properties. For example, it is easy to produce a tire with a long tread life by using harder compounds. However, these harder compounds make the traction of the tire suffer. This can be remedied by using a high-traction
+
+compound and increasing the thickness of the tread to compensate the tread wear. This, however, makes the tire heavier and makes it run hotter, wasting energy and increasing the risk of tire failure. If any of these properties were not graded, the rating system could provide manufacturers with an incentive to produce tires that rate high in testing, but in fact are not safe in actual use.
+
+The tire grading standard points out an important factor for the regulator to consider when determining methods of information disclosure. Aside from the positive information provided to consumers, grading system opens new avenues of competition for firms. 
+
+Acting rationally, firms will attempt to offer products that rate as high as possible according to whatever standards are set. If an agency does a poor job of selecting and establishing these standards, the grading system could ultimately be selfdefeating if products end up actually less safe than before. 
+
+Whether buyers want NHTSA's Uniform Tire Quality Grading System (UTQGS) disclosure is an open question. The only research to date on consumers' attitudes toward tire purchases is a Market Facts, Inc., survey of 3,000 recent tire buyers. It indicates that safety is an important factor in tire purchase decisions, but may be flawed by the human tendency to give socially acceptable survey responses. Although the usefulness of the UTQGS remains an open question until some research is done, the ability of consumers to translate the UTQGS disclosures into useful information is unclear. Most people equate traction with a tire's ability to hold the road (i.e., to corner well) rather than with skid resistance, the attribute actually measured. 
+
+Although most people probably realize that bald tires must be replaced, not many realize that tread wear predicts product life. Experts, but not ordinary consumers, appreciate the pivotal role of temperature resistance in tire life and performance. 
+
+Since there is a correlation between temperature resistance and fuel economy, the UTQGS staff has considered substituting fuel economy, a more readily understandable disclosure, for temperature resistance. Cite:
+
+National Traffic and Motor Vehicle Safety Act, Section 
+
+203, P.L. 89-563.
+
+Contact: Dr. Cecil Brenner, NHTSA, (202) 426-1740.
+
+NHTSA PUBLISHES BUYERS' GUIDE ON NEW CARS The National Highway Traffic Safety Administration (NHTSA) 
+
+published a new book intended to help consumers make the best choice when buying an automobile. The Car Book contains safety and performance information, including crash test results, maintenance costs, fuel economy ratings, and damage-repair costs.
+
+Under Title II of the 1972 Motor Vehicle Cost Savings and 
+
+Information Act, NHTSA was required to develop a rating system for new cars in the areas of safety (the ability of an automobile to protect its occupants in a crash); maintenance cost (how much it costs to perform a reasonable amount of preventive maintenance on the car, according to factory recommendations, and the estimated cost of replacing key components); and insurance costs.
+
+In the process of developing a system to provide these ratings, the agency determined that the information collected on an experimental basis in the safety and maintanence area was valuable to consumers. The damage repair cost information was provided free by the insurance industry. The Car Book also includes a listing of the EPA mileage estimates for the autos tested, and a used car buying guide which contains a list of safety defects in 1976 through 1980 automobiles.
+
+A great deal of the information contained in The Car Book had been in NHTSA files for some time, but had not been compiled and published in a form easily accessible to the non-expert public. 
+
+NHTSA went to great lengths to present the information in a useful and easy-to-read format. Chapters on the various topics, such as safety and maintenance are color-coded for easy reference, are the different automobile classes (i.e., subcompacts are grouped together for comparison rather than grouped by manufacturer). 
+
+Within each chapter, the information is presented in charts that use color and symbols rather than numbers. Along with each chart is a brief explanation of how the information was developed and how to interpret and compare the ratings. 
+
+Industry reaction to The Car Book has been mixed. For the most part, car manufaturers are not satisfied that NHTSA testing protocols are as are as accurate or informative as they might be. In light of this, manufacturers have refrained from using favorable ratings from The Car Book in their advertising. One foreign car maker used its passing grade in the crash test in one advertisement, and an American auto maker used low maintenance cost ratings in another. Both these ad campaigns were quickly dropped, and no other companies have since used the ratings. It appears that
+
+this will be the case until testing protocols are subjected to formal rulemaking.
+
+Given that The Car Book was mainly a compilation of existing knowledge, it was relatively inexpensive to produce. Based on its initial printing run of 2 million copies, The Car Book cost about 61 cents per copy to print and distribute. The Car Book has been distributed to the public with almost no formal publicity effort on the part of the NHTSA, save for one appearance by the former NHTSA administrator on a popular television talk show and a press release. Even so, The Car Book has become the most popular single publication issued by the Federal Government through the 
+
+Pueblo, Colorado Consumer Information Center. Approximately 1.1 million requests for copies were received within the first eight weeks following publication. Since then, an additional 400,000 copies have been distributed with additional requests running on average of 11,000 per week.
+
+Cite: Motor Vehicle Cost Savings and Information Act of 1972, Title II. 
+
+Contact: Jack Gillis, Office of Automotive Ratings, NHTSA, 
+
+(202) 426-1742. 
+
+COAST GUARD REQUIRES INFORMATION PAMPHLET FOR CONSUMERS OF PERSONAL FLOTATION DEVICES The U.S. Coast Guard requires manufacturers of personal flotation devices (PFDs) to provide consumers with an information pamphlet describing the flotation characteristics and suggested uses of each type of PFD. The pamphlet is intended to provide consumers with information sufficient for choosing the PFD most suited to the type of water activity the consumer expects to engage in.
+
+The Coast Guard has for many years issued performance standards for five types of PFDs, four of which are classified as "Coast 
+
+Guard Approved," meaning that these PFDS satisfy the Coast Guard requirement for personal flotation in recreational uses. The five classes are:
+
+Type I: 
+
+Designed to turn an unconscious person face up in the water and maintain him or her in a vertical and slightly reclined position.
+
+Type II: 
+
+Type III: 
+
+Type IV: 
+
+Type V: 
+
+Designed to turn a person to a vertical and slightly reclined position, but the turning action is not as pronounced as with the Type I 
+
+PFD. A Type II PFD is usually more comfortable to wear.
+
+Designed so that the wearer can place himself or herself in a vertical and slightly reclined position and the PFD will have no tendency to turn the wearer face down.
+
+A device which a person can grasp and hold on to until rescued.
+
+A device designed for throwing to a swimmer in distress; not an approved PFD.
+
+In spite of these performance standards and a Coast Guard inspection program, it became clear that cnsumers did not have sufficient information at the time of purchase to choose a PFD best suited to their needs. Furthermore, the Coast Guard cited several cases where the PFD was misused or not cared for properly, so that it could not provide the measure of safety for which it was designed. 
+
+The Coast Guard determined that at least ten deaths may have involved improper selection, use, or care of a PFD.
+
+The information pamphlet which is now included with each PFD lists the flotation characteristics and some of the limitations of each type of PFD. In each case, the pamphlet lists the type of conditions under which that type of PFD may safely be used. 
+
+For example, a Type I PFD is needed in instances where maximum flotation and stability are required, such as in rough water, or in cases where there are likely to be few boats in the vicinity and the time before rescue may be long. A Type III device may be best where mobility is needed, and the time to rescue is likely to be very short, such as in water-skiing. 
+
+The information pamphlet also includes a section explaining the need for additional buoyancy, plus an explanation of the dangers of hypothermia, which the Coast Guard has identified as a leading cause of water-sport deaths. There also is a table listing the average expected survival times in water of various temperature and measures that can delay the onset of hypothermia. 
+
+In light of this new information disclosure at the time of purchase, the Coast Guard has also changed the label affixed to each PFD.
+
+The label formerly listed the characteristics of the PFD and gave instructions for care. With the descriptive information now in the information pamphlet, this has been dropped from the label and now only care instructions appear there.
+
+Cite: 
+
+Proposed Rule, 41 FR 55478, December 20, 1976; 
+
+Final Rule, 43 FR 9766, March 9, 1978. 
+
+Contact: Bruce Novak, U.S. Coast Guard, (202) 426-1477.
+
+ENVIRONMENTAL PROTECTION AGENCY EPA REQUIRES PUBLIC NOTIFICATION BY WATER SYSTEMS 
+
+The Safe Drinking Water Act of 1974 is designed to set performance standards for acceptable levels of various contaminants in municipal drinking water.
+
+The Act requires the owner or operator of a public water system to give notice to its customers if: 1) 2) 3) the water system is not routinely monitoring contaminant as required by the law, or the system is in violation of one or more of the standards set by National Interim Primary Drinking 
+
+Water Regulations, or the system has been granted a variance or exemption from one of the standards by the primary enforcement authority.
+
+The public notice may be carried out through a local newspaper, radio or television advertisements, or notices included in the regular billing, so long as the notification occurs at least once every 3 months. Fines for willful violation of this provision are as high as $5,000.
+
+The public notification requirement does not relieve the water supplier meeting the requirements except as specified in a variance, nor does it relieve the water supplier of any civil or criminal penalty resulting from continued noncompliance. The object of the public notice requirement is to make the public aware of the infraction, so they have the option of using different water for drinking (i.e., bottled water), and so the public can place pressure on the water supplier to remedy the situation. It is also possible that these disclosures could provide the public with needed information regarding the state of the water system for use in deciding on how to vote for a new bond issue, for example.
+
+The success of notification varies with the type of problem, the type and timeliness of notification, and the amount of citizen concern. For example, a turbidity (cloudiness) violation that is corrected would require notification, but notification would not serve any purpose after the problem had been cleared up. 
+
+More persistent problems may achieve greater benefits from notification. Cite:
+
+Safe Drinking Water Act of 1974, as amended in 1977 and 1980.
+
+Contacts: 
+
+Dale Ruhter, (202) 426-8877; Nancy Wentworth, (202) 472-4160. 
+
+EPA ALLOWS FIRMS TO IMPLEMENT VOLUNTARY NOISE LABELING PROGRAMS Under the Noise Control Act, the Environmental Protection Agency 
+
+(EPA) has the authority to require firms to label their products according to noise output or noise reduction in the case of noise suppression devices. As an alternative to mandatory regulation, EPA has issued general guidance according to which firms or industries can implement voluntary labeling requirements.
+
+Aside from the obvious benefit to consumers in having noise information made available without lengthy rulemaking proceedings, EPA and industry both benefit by avoiding certain compliance costs and the potential adversarial relation that frequently occurs with formal rulemaking. 
+
+The agency will consider a voluntary labeling program as a potential alternative to federally mandated labeling if the voluntary program satisfies the four objectives of labeling, which are: 
+
+To provide accurate and understandable information to consumers with minimal Federal involvement. Minimal
+
+Federal involvement is to be achieved by ensuring that the federally imposed labeling requirements are carefully analyzed and structured so as to reduce the administrative, economic, and technical impacts of the Federal program as much as possible.
+
+To promote effective voluntary noise labeling efforts on the part of product manufacturers and suppliers with the anticipation that a concomitant reduction in product noise may occur due to market demands. 
+
+To provide accurate and understandable information to product purchasers and users regarding the acoustical properties of designated products so that meaningful comparisons with respect to noise emission or noise reduction can be made as part of purchase or use decisions.
+
+To promote public awareness of product-specific contributions to the environmental noise problem and to foster an understanding of associated terminology and concepts.
+
+Following EPA's rulemaking under the labeling provisions of the Noise Control Act, the Agency was approached by several trade associations, including the Outdoor Power Equipment Institute, the 
+
+Air Conditioning and Refrigeration Institute, the Chain Saw Manu facturers Association, and the Accoustical Materials Institute, who expressed a desire to establish voluntary noise labeling programs. Of these groups, only the Outdoor Power Equipment Institute submitted a formal plan to EPA for a voluntary labeling program for power lawnmowers.
+
+The program has now been in place for two cutting seasons, and has recently undergone some modification for the 1982 cutting season. 
+
+This voluntary effort has resulted in the labeling of more than 70 percent of the consumer-type power lawnmowers. The goal was 90 percent participation. Notably, the voluntary program did not encounter any significant resistance from members of the industry since they understood that a mandatory program was likely. program has also assisted in the implementation of EPA's "Buy Quiet" procurement program for State and local governments. The The Chain Saw Manufacturers Association has not been successful in getting the cooperation of its member companies, although efforts have been under way for 2 years with little progress. The Air 
+
+Conditioning and Refrigeration Institute has had a noise labeling program in effect for years, but the labels are of little practical use to the consumer. The labels simply state that the unit in question has been "noise-rated." A consumer wishing to know or compare the noise ratings of air conditioning units must obtain the appropriate documents from the Air Conditioning and Refrigeration Institute and then engage in some involved mathematics before the comparison becomes meaningful.
+
+Hearing protectors were the first products for which noise reduction labels were mandated by Federal regulation. The industry has formally submitted a proposal to EPA to continue the labeling of their products on a voluntary basis even if Congress proceeds to remove EPA's authority for mandatory labels. This is due to the fact that in the year following the mandatory requirements, many firms in the industry found that the "effectiveness labeling" can work to their advantage. The hearing protector industry is comprised of many different-sized firms, most of which are small. 
+
+Before the advent of the Federal labeling requirement, a firm's only means of transmitting the relative quality of their products to consumers was through advertising of very complex technical data. Unless a consumer was "expert" in hearing protector devices, there was no ready means of comparing the effectiveness of one type of protector with similar protectors. With the labeling program, consumers can now judge quality for themselves, since the label presents a single-number effectiveness rating and "comparative range" information that shows the range of effectiveness ratings available for all similar devices. The labeling system has also increased the general quality of hearing protection devices by opening a new avenue for competition. 
+
+Cite: 44 FR 56120, September 28, 1979.
+
+Contact: 
+
+Kenneth Feith, Office of Noise Abatement and Control 
+
+(ANR 490), EPA, (703) 557-2710.
+
+CIVIL AERONAUTICS BOARD CAB REVIEWS PASSENGER INFORMATION REQUIREMENTS DURING DEREGULATION 
+
+Special problems in consumer information are emerging as the airline industry becomes more competitive. This is a problem for passengers, whose expectations of airline service were formed during a period when the Civil Aeronautics Board (CAB) encouraged a uniform level of service. It is also a problem for airlines, which are trying to meet the challenge of competition while at the same time providing adequate service to passengers and sufficient returns to stockholders. In the remaining tenure of the Board, it is directing its consumer information program towards creating realistic expectations among passengers on exactly what is and is not included in the price of an airline ticket. It is also aimed at demonstrating to the airlines the gains that can be realized in improved
+
+relations and reduced liability by providing full information to its passengers on such subject as tariffs, overbooking, no-smoking regulations, baggage claims, delays and cancellations, etc. The Board is considering or has adopted a number of methods of accomplishing this goal.
+
+As the airline industry expanded in the years following the Civil Aeronautics Act, the Board mandated, at various times, disclosure of certain information in the ticket and on a sign at the ticket counter. Such information included: the passenger's right to inspect the tariff book; the carrier's baggage liability limit under the Warsaw Convention; the passenger's right to non-smoking seating; check-in deadlines; and deliberate overbooking. These notices are at present formally worded and occupy several counter signs and require two additional pages in the ticket. 
+
+the ticket. The Board is reviewing these requirements with the intent of removing those signs and notices that do not provide sufficiently important information, and simplifying the remaining notices. The Board will prescribe exact wording of these notices since in most instances, such as denied boarding compensation, the airline has no incentive to provide this information to the passenger. Also, there are minimum standards prescribed for these areas, and a uniform notice helps enforce this standard. Basically, the board's proposal drops the inspection of tariff notice, since this is required elsewhere, and substitutes one sign covering baggage liability non-smoking privileges, check-in requirements, and denied boarding compensation rights.
+
+In addition to these requirements, the Board also issues a booklet entitled "Fly Rights," which is designed to keep consumers abreast of recent changes and developments in airline regulation and practice. Aside from summarizing consumer rights in denied boarding compensation, baggage, flight cancellations, etc., the booklet emphasizes steps passengers may take to prevent small problems from becoming major complaints. For example, the booklet suggests that passenger keep all valuables, important papers, and prescription drugs in a carry-on bag, in case their checked baggage is lost. The booklet also emphasizes proper labeling of bags as an aid to quick recovery of missing luggage.
+
+Cite: Tariff Modifications EDR-404, CAB Docket No. 38348 
+
+Disclosure Modifications: EDR-396, 45 FR 25817, April 16, 1980.
+
+Contact: 
+
+John Golden, Bureau of Compliance and Consumer 
+
+Protection, CAB, (202) 673-5390.
+
+COMMODITY FUTURES TRADING COMMISSION CFTC USES CONSUMER INFORMATION SYSTEM TO INFORM CONSUMERS AND RECEIVE COMPLAINTS When Congress established the Commodity Futures Trading Commission in 1976, it gave the Commssion authority to either ban the sale of commodity options in the United States or to devise a scheme for their regulation. Congressional concern in the area stemmed from burgeoning fraud and scandal in the offer and sale of options by dealers supposedly operating through the London markets, where such options were actively traded. 
+
+On December 9, 1976, the Commission enacted regulations to provide needed customer protection in the offer and sale of commodity options and established a Consumer Hot Line designed to help consumers get useful information should they be approached by telephone salesmen offering commodity options. The Hotline offered a guideline list of twelve questions prospective investors should ask of a telephone solicitor offering options. The CFTC pointed out that it was not saying "don't buy," but was stressing the need to protect the customer and the reputable firms in the options business by encouraging that the investor-consumer get proper information and avoid impulse investments.
+
+The Hotline enabled anyone in the United States to call the Commission toll-free. Between 1976 and the issuance of a staff report on its operation in November 1979, it is conservatively estimated that the Hotline handled more than 25,000 calls. 
+
+Calls received during the fourth quarter of 1979 can be categorized as follows: 
+
+Informational inquiries about specific companies or persons: 703 calls or 13.5 percent of the total. 
+
+Requests for general information: 616 calls or 
+
+20.5 percent of the total.
+
+Inquiries about specific reparations cases or the reparations procedure in general: 299 calls or 
+
+9.9 percent of the total.
+
+Miscellaneous questions including those that required referral to other offices or agencies: 
+
+224 calls or 7.4 percent of the total.
+
+Complaints or tips about specific companies or persons: 408 calls or 13.5 percent of the total.
+
+The investor's or prospective investor's expectations of what a call to the Hotline could produce was often unreasonably high. 
+
+The information that could be given legally by anyone in an investigative and enforcement agency such as the CFTC is legally proscribed, usually within the limitations of public record material (i.e., records of actions against a firm that have been taken or are pending), whether or not the firm is registered as required by law. Contrary to what many people believe, registration as required by law does not amount to an endorsement of a firm.
+
+The Hotline performed two distinct and very different functions: it provided information and it received complaints and tips about allegedly illegal or improper activity by firms and individuals. 
+
+The first activity is a public information function; the second is an enforcement function. 
+
+The report estimated Hotline operating costs at about $9,000 for the fourth quarter of fiscal 1979 -- roughly $3 per call received and about $4 per completed call. That figure included phone service, salaries, benefits, and miscellaneous costs. Perhaps because of its name, many callers viewed the Hotline as an action line that is, a number that could be called to find an immediate solution to a problem such as recovering money that had been lost. Such callers often became agitated when it became apparent that this could not be done through the Hotline. 
+
+At a minimum, differing views of what the Hotline was supposed to do fueled differing views about its effectiveness. Perhaps the greatest single problem with such a service is unwarranted consumer expectations of instant resolution of complex legal issues. On the other hand, when a regulatory agency is required to address a specific recurring problem, a telephone service may be of benefit in providing information concerning procedures to be followed in dealing with the problem. 
+
+By mid-1980, people who called the number more often than not found it to be busy, or were greeted with a recorded message telling them to try calling again later. Public frustration led to complaints and an increasingly negative public image about the system. The Commission's consumer information system was subsequently restructured in January 1981. Since then,
+
+the public has been able to place toll calls for specific information to an expanded Complaints Section, the Registration 
+
+Unit, or the Office of Public Information. 
+
+Cite: Commodity Futures Trading Act of 1974. 
+
+Contact: James Thompson, Public Information Specialist, CFTC, 
+
+(202) 254-8630. 
+
+CONSUMER PRODUCT SAFETY COMMISSION CPSC REVIEWS UPHOLSTERED FURNITURE FLAMMABILITY STANDARDS The Consumer Product Safety Commission's (CPSC) review of uphol stered furniture fires revealed that most of them are started by burning cigarettes. The Commission is considering both mandatory and voluntary cigarette-ignition resistant flammability standards for upholstered furniture. The Commission staff estimates that 
+
+1,500 deaths occur annually because of residential furniture fires. The annual losses associated with cigarette ignition of upholstered furniture was estimated to exceed $1.3 billion (in 
+
+1978 dollars).
+
+Upholstered furniture has not been marketed on the basis of safety qualities. Instead, style, function, and price often dominate the decision to purchase one piece over the other. furniture fabric may be more or less flame resistant, depending on the construction of the furniture with which it is used. fabric may thus be relatively safe for use in one type of furniture, but unsafe in another.
+
+CPSC's proposed rule has dealt with this problem by requiring that fabric manufacturers rate fabrics from Class A to Class D, based on their cigarette ignition resistance, and that furniture manufacturers test the performance of graded fabrics as they would be used in a variety of furniture constructions. 
+
+All testing is conducted in the laboratory. The effect of burning cigarettes is simulated by placing a lit cigarette on the test specimen and allowing it to burn. Resistance of fabrics to cigarette ignition is determined by measuring the length of the resulting char. Based on the char lengths obtained, fabrics are classified from A to D.
+
+In late 1979, the Commission voted to defer any regulatory action on the flammability of upholstered furniture for one year in order to determine the effectiveness of a voluntary program sponsored by the Upholstered Furniture Action Council. 
+
+The one year evaluation is complete and the Commission staff is analyzing the results of the program. Once that analysis is complete, the 
+
+Commission will decide what action is appropriate. In the meantime, the upholstered furniture industry is continuing its voluntary program and flammability information is transmitted to furniture manufacturers from fabric manufacturers. At this time, the disclosure program does not include passing the information on to consumers.
+
+Cite: Flammable Fabrics Act, Section 4, 15 U.S.C. 1193. 
+
+Contact: James Hoebel, Program Manager, Office of Program 
+
+Management, CPSC, (301) 492-6453.
+
+FEDERAL TRADE COMMISSION FTC ENLIGHTENS BULB CONSUMERS 
+
+Standard household light bulbs are a relatively large industry with retail sales of approximately $700 million in 1979. Prior to a Federal Trade Commission (FTC) rule wattage (basically the number of electrical units needed to power a bulb) was the only performance dimension regularly disclosed on light bulb packages. 
+
+During an extensive rulemaking investigation, the FTC concluded that most consumers believed that all lights bulbs of the same wattage emitted about the same amount of light and lasted the same number of hours and that the higher the wattage, the longer and brighter the bulb burned.
+
+In fact, bulbs of all different life-lengths, brightness, and wattage were then being marketed. Among bulbs of the same wattage there is a tradeoff between bulb life and brightness, such that a standard light bulb emits 8 percent to 10 percent more light than a long-life bulb that lasts about twice as long. Moreover, the Commission noted that some 75-watt standard life bulbs were as bright as 100-watt long-life bulbs. 
+
+The Commission concluded that since consumers were generally unaware of these relations, they could not intelligently select bulbs to meet their specific needs. Consumer confusion was
+
+sometimes being further compounded by promotional campaigns for long-life bulbs that revealed neither specific expected hours of life nor that there was a tradeoff between life and brightness. 
+
+Finally, the Commission was mindful that the House Governmental Activities Subcommittee had studied the average life of standard light bulbs and had concluded it was too short. 
+
+The FTC rule required that packages of 15to 150-watt incandescent bulbs conspicuously disclose average initial light output (in lumens) and average laboratory life (in hours) as well as electrical power consumed (in watts). The disclosures were required to be made in accordance with a Federal specification and to be based on generally accepted testing methods. 
+
+Comparative performance disclosures can be a means of stimulating interbrand because they create incentives for manufacturers to produce a low-cost, high-performance bulb. FTC's concerns, however, seems to have been to help the consumer select the bulb that best met his specified need, rather than to reduce the overall retail price level in the industry. 
+
+According to one survey conducted about 4 years after lumens and hours of life disclosures were required to appear on light bulb packages, few consumers realize that this information was available; most did not understand what was meant by "lumens;" and 85 percent still believed that bulbs of the same wattage emitted the same amount of light.
+
+Cite: 16 CFR 1.11. 
+
+Contact: 
+
+George O'Brien, Attorney, Compliance Division, FTC, (202) 254-6134. 
+
+FTC REQUIRES APPLIANCE ENERGY LABELS The Energy Policy and Conservation Act (EPCA), passed in December 
+
+1975, encouraged innovative energy conservation measures. Since appliances account for a large portion of in-home energy consumption, Title III of the ECPA required the Federal Trade Commission (FTC) 
+
+to consider labeling rules prescribing disclosure of the estimated annual energy cost or "another useful measure of energy consumption" for products within 13 specific categories of residential consumer appliances.
+
+Historically, buyers only had a vague sense that some models of appliances were more energy consumptive than others. 
+
+Since comparative performance information concerning the energy efficiency of major appliances was not available, consumers could not make purchase decisions based on this attribute.
+
+In the legislation, DOE also was asked to develop standards to establish minimum levels of energy efficiency. 
+
+Preliminary rulemaking began in 1980. In February 1981, DOE announced that the standards would not be issued until further study. 
+
+EPCA stipulated that the Department of Energy (DOE) set up a standardized test method for each appliance category that would determine: 1) the estimated annual energy cost for the appliance; and 2) some other method for measuring energy consumption.
+
+The actual testing of the appliances for energy use is conducted by the manufacturer in accordance with the procedures prescribed by DOE. These procedures follow a sampling plan jointly agreed upon by FTC and DOE that designates the number of units of a given appliance model that must be tested in order to assure the reliability of test results.
+
+The information disclosure mandated by the FTC rule includes a label or fact sheet on the annual energy cost or energy efficiency, to be provided at the point of sale. The label or fact sheet contains 1) highlighted energy cost or efficiency disclosure; 
+
+2) comparison of the labeled product's energy cost or efficiency with that of competing brands; and 3) a chart that permits a consumer to estimate how much it will cost to run the appliance each year, given differing energy costs for regional areas. 
+
+It is too early to make a judgment as to the labels' use by consumers, because the rule went into effect only in May 1980. 
+
+However, a 1980 report by the Regulatory Analysis Review Group points out that the disclosure strategy has clear advantages over mandatory standards: the clearest advantage of labeling is that it allows for consumer choice, rather than substituting a rigid standard for individual judgment. Consumers in the North can spend more of their money on highly efficient furnaces, while consumers in the South spend more of theirs on air conditioners. 
+
+Large families can buy efficient clothes dryers and water heaters, while cheaper ones are installed in small homes. A cheap, if inefficient, refrigerator can be found for intermittent use. Given the proper information, the consumer will be in a better position to judge his appliance efficiency needs than DOE is; and it is far cheaper to give consumers that information than for DOE to collect all it would need to determine efficiency needs centrally. 
+
+Manufacturers claimed that industry dislocation would result from the proposed standards. However, labeling will be less of a burden on manufacturers and dislocation will be avoided. Manufacturers can compete on the basis of efficiency. Research and development, retooling, and the phasing out of obsolete models can all be scheduled and paced at the least-cost rate. Firms that cannot meet the
+
+demand for more efficient appliances can sell their existing models more cheaply while they exit gradually, and with a less sudden impact on employees. 
+
+Cite: 16 CFR Part 305; 44 FR 66466, November 19, 1979.
+
+Contact: 
+
+James Hills, Attorney, Division of Energy and Product 
+
+Information, DOE, (202) 724-1491.
+
+FTC REQUIRES DISCLOSURE OF FUEL ECONOMY FIGURES FOR CARS 
+
+Fuel economy figures, as seen in many new car advertisements, are disclosed by auto manufacturers and dealers in accordance with a Federal Trade Commission (FTC) Industry "Guide." The 
+
+Guide is basically a triggered disclosure approach, i.e., if the advertiser makes no express or implied representation concerning fuel economy, it does not have to include the required disclosures in the advertisement. If representations about fuel economy are made, however, the Guide requires that they must be accompanied by a disclosure indicating the estimated MPG of the model as determined by the Environmental Protection Agency (EPA). Other disclosures also are triggered by use in advertising of mileage representations other than the estimated 
+
+MPG, e.g., the EPA highway, estimate.
+
+Although compliance with the Guide is high, there have been serious criticisms concerning the validity of the fuel efficiency figures themselves, e.g., weather, road conditions, number and character of trips taken in the car, and other factors can affect fuel economy. In 1980, EPA initiated a rulemaking proceeding to correct what it calls "discrepancies between label values and actual use experience and potential inaccuracies and deficiencies" in the data base from which the figures are derived. 
+
+Various EPA studies and other reports of consumer experience indicate that certain fuel economy figures generally overrate actual mileage and that some rank reversals among the mileage figures of various models may have occurred. 
+
+The EPA fuel economy figures are determined early in the model year on the basis of tests of manufacturers' pre-production vehicles EPA calculates a general label value for each model type (i.e., a . combination of car line, basic engine, and transmission class) by an averaging technique that weighs the fuel economy test results of specific vehicles in proportion to the sales represented by the type of vehicle. Once the general label figures are determined at the beginning of the model year, the manufacturer is
+
+not required to change them during the model year. A number of problems have arisen in developing these mileage figures. 
+
+First, the current fuel economy value is based on the salesweighted average fuel economy for vehicle configurations within a model type. Although the model type represents an aggregation of quite similar vehicle designs, the fuel economy performance of these individual designs can vary considerably from the average. 
+
+Because EPA cannot test all of the possible combinations that manufacturers may produce (estimated to be in the tens of thousands), general fuel efficiency figures will differ from actual fuel economy depending on the actual combinations of design variables in specific vehicles within the model type. Second, the fuel economy impact of optional equipment is not adequately reflected in fuel economy figures. EPA currently accounts for options by requiring test vehicles to be tested with all the options that a manufacturer projects will be on more than one-third of the vehicles in the unique combination of car line and engine family represented by the test vehicle. The manufacturer's projections are based on a combination of the factory and dealer installation rates of particular options. Lack of information on installation of options may contribute to the shortfall between estimated and in-use fuel economy. 
+
+Third, the fuel economy figures EPA currently requires to be placed on new car window stickers provide only a single estimated fuel economy value; specifically, the fuel economy value based on an in-town "stop and go" type of driving schedule. The current window stickers do not provide an estimated fuel economy value for "extended trip or highway-type driving," which is a significant mode of operation for some drivers. Highway figures, however, are permitted in advertising by the Guide. Thus, consumer confusion may result from the discrepancy between mileage figures on new car window stickers and those included in advertisements. 
+
+Prior to 1979, fuel economy labels were also required to display separate highway and composite fuel economy estimates based respectively on results from the highway fuel economy test procedures and on a 55 percent/45 percent weighting of the city/highway test results. Because the highway and composite estimates were greatly overestimating actual in-use fuel economy, EPA dropped them from the window sticker requirement. The figures, however, are still produced in the course of the EPA test and despite the fact that 
+
+EPA no longer sanctions use of the highway value for labeling purposes, manufacturers have continued to include them in advertising with the restrictions imposed pursuant to the Commission Guide. 
+
+Fourth, manufacturers typically make a number of design changes in their product lines throughout the model year. These changes can
+
+have a significant positive or negative effect on mileage but retesting and amendment of the vehicle's mileage generally is not required.
+
+EPA is considering various steps to improve the accuracy of the fuel economy figures for comparative performance information purposes. 
+
+First, EPA is considering whether to require periodic relabeling. 
+
+Relabeling would be required at specified time periods, when sales shifts occur, or when design changes occur. 
+
+Second, EPA is considering requiring "design factor" labeling.
+
+This approach would attempt to adjust label values to account for the effect that optional equipment, such as air conditioning, has on fuel economy.
+
+Third, EPA is considering whether to require "short-fall factor" labeling. This option would apply a factor to each label value to account for the average industry difference or shortfall between in-use experience and laboratory-measured fuel economy. 
+
+Past problems with the fuel economy ratings illustrate the difficulty of adopting pre-existing product ratings to be used for comparative performance information purposes. In areas where government or private sector data have been gathered for purposes other than comparison of competing brands or models (e.g., EPA's desire to determine overall compliance with corporate average fuel economy requirements), changes in test methodology may be needed before the figures can be of real use to consumers as comparative performance information. 
+
+Cite: 16 CFR Part 259; 40 CFR Part 600.
+
+Marilyn Holmes, Division of Energy and Product 
+
+Information, FTC, (202) 724-0726; Randy Busick, EPA, (313) 668-4275, FTS 374-8275.
+
+INTERSTATE COMMERCE COMMISSION ICC REQUIRES MOVING COMPANIES TO PROVIDE CONSUMERS WITH INFORMATION One part of the Interstate Commerce Commission (ICC) regulatory scheme requires moving firms to provide consumers with information concerning the quality of their service performance. ICC requires that this information be compiled in an "Annual Performance Report," which is made available to prospective customers who ask about
+
+moving services. Although the provision of this information represents only a small part of the ICC regulatory scheme, it provides useful illustrations of problems involved in providing comparative performance information for services. 
+
+ICC regulations require that each interstate mover keep records on three areas of consumer concern. These matters include accuracy in estimating; on-time performance; and handling of loss, damage, and delay claims.
+
+The ICC regulation specifies that the annual performance report must be given to the consumer before an order for service is finalized.
+
+To compare the annual performance reports of various movers, the consumer must either request several annual performance reports by telephone, have several movers make estimates, or request from the ICC still another publication called "A Consumer Advisory on Complaint and Performance Data." This document cross-references the annual performance reports of 13 nationwide moving companies that delivered 1,000 or more COD shipments in 1980. These movers are responsible for 79 percent of annual household shipments in the United States. While there were over one million household goods shipments in 1980, only about 20,000 consumers requested the consumer advisory bulletin.
+
+ICC has begun a rulemaking proceeding that may improve the effectiveness of its disclosure program. Specifically, the agency is considering mandating regulations for uniform accounting procedures, and stipulating a uniform format for the provision of the annual performance report.
+
+Consumer groups are split on the movers' performance information. efficacy of the provision of 
+
+Consumers Union staff recommends the use of the annual performance data in choosing a household mover. 
+
+Cite: 49 CFR 1056.7.
+
+Contact: 
+
+Ray G. Atherton, Jr., Chief, Compliance Branch, ICC, (202) 275-7844.
+
+PART III ANNOTATED BIBLIOGRAPHY
+
+ANNOTATED BIBLIOGRAPHY 
+
+Beales, Howard; Craswell, Richard; and Salop, Steven, "The
+
+Efficient Regulation of Consumer Information," Journal of Law and Economics, October 1981. 
+
+Presents a theory about the different ways in which the government could rely on competitive forces in industry to supply consumer information. 
+
+Beltman, "Consumer Information Acquisition and Search Strategies," in, The Effect of Information on Consumer and Market Behavior, edited by A.A. Mitchell, 1978. 
+
+A summary of research about consumers' ability to receive and assimilate information. 
+
+Demkovich, Linda A., "FDA in Hot Water Again Over Cost of
+
+Proposed Drug Labeling Rules," National Journal, pp. 1568-70, 
+
+September 22, 1979.
+
+Discusses FDA's program for prescription package inserts listing side effects of 375 drugs, and drug manufacturers' and pharmacists' response that FDA is understating the cost. 
+
+Hecht, Annabel, "Drug Safety Labeling For Doctors," FDA 
+
+Consumer, 13:12-13, October 1979.
+
+Describes new labeling regulations issued by FDA. 
+
+McGarity, Thomas O. and Shapiro, Sidney A., "The Trade
+
+Secret Status of Health and Safety Testing Information: 
+
+Reforming Agency Disclosure Policies," 9 Harvard Law Review 
+
+837, March 1980.
+
+Argues that while confidentiality may deny consumers the opportunity to make fully informed product use decisions, the best solution to this issue is the exclusive use period approach.
+
+Nayak, Prabhakeh and Rosenberg, Larry J., "Does Open Dating of Food Products Benefit the Consumer?" Journal of Retailing, 51:10-20, Summer 1975. 
+
+Surveys studies on the technical validity of open dating, its impact on retailing practices and performance, and its effects on consumer experience and attitudes. 
+
+Nelson, Phillip, "Information and Consumer Behavior," 78
+
+Journal of Political Economics 311, 1970. 
+
+Looks at different ways that consumers gather information in the marketplace.
+
+Pitofsky, Robert, "Beyond Nader: Consumer Protection and the Regulation of Advertising," 90 Harvard Law Review 661, 1977. 
+
+Looks at a legal and regulatory framework for consumer protection. 
+
+Reich, Robert, "Toward a New Consumer Protection," 127
+
+University of Pennsylvania Law Review 1, 1979. 
+
+A legal and economic framework for judging how far government should go in regulating consumer information. 
+
+Salop, Steven, "Information and Monopolistic Competition," 
+
+66 American Economic Review 240, 1976.
+
+An economic analysis of incentives to provide consumer information by sellers who have some degree of monopolistic power. 
+
+Schwartz, Alan and Wilde, Louise, "Intervening in Markets on the Basis of Imperfect Information: A Legal and Economic 
+
+Analysis," 127 University of Pennsylvania Law Review 630, 1979.
+
+PROJECT ON ALTERNATIVE REGULATORY APPROACHES The Project on Alternative Regulatory Approaches was a 2-year project initiated by the former U.S. Regulatory 
+
+Council and completed in September 1981. The Project promoted alternative, market-oriented regulatory strategies.
+
+Alternative regulatory approaches are departures from traditional "command-and-control" regulation, which involves strictly specified rules and formal government sanctions for failure to comply.
+
+Market-oriented alternatives avoid unneeded governmental restraints and permit greater private discretion in choosing how to meet regulatory objectives. Among these alternative approaches are marketable rights, performance standards, monetary incentives, information disclosure, and tiering. 
+
+Additional information on alternatives, including data on over 300 specific agency experiences with alternative approaches, is now available at: 
+
+Administrative Conference of the United States 
+
+2120 L Street, N.W. 
+
+Suite 500 
+
+Washington, D.C. 20037 (202) 254-7020
+
+PROJECT ON ALTERNATIVE REGULATORY APPROACHES 
+
+AVAILABLE DOCUMENTS 
+
+Guidebook Series on Alternative Regulatory Approaches, September 
+
+1981 A series of guidebooks for regulators on market-oriented regulatory techniques. Each guidebook summarizes the advantages, preconditions, and limitations of a particular technique. The series comprises: 
+
+1) Overview 2) Marketable Rights 3) Performance Standards 
+
+4) Monetary Incentives 
+
+5) Information Disclosure 
+
+6) Tiering
+
+Minutes from the Project colloquium series for regulators, Sep tember 1981 Summaries of ten presentations by leading regulatory scholars, including Robert Crandall of the Brookings 
+
+Institution, Marvin Kosters of the American Enterprise Institute, and Roger Noll of the California Institute of Technology. 
+
+Bibliography, September 1981 -- A listing of about 100 publications covering alternative regulatory approaches. 
+
+Resource Center File Listings, September 1981 - A list of approximately 300 Federal applications of alternative regulatory approaches for which there are files currently available for agency and public review. 
+
+"Innovative Techniques in Theory and Practice: Proceedings of a 
+
+Regulatory Council Conference,' January 1981, 49 pp. A summary of eight July 1980 workshops in which agency practitioners provided information on their experience with less traditional forms of regulation. Includes "Regulation and the 
+
+Imagination," a Conference address by Alfred E. Kahn. 
+
+"Regulating with Common Sense: A Progress Report on Innovative 
+
+Regulatory Techniques," October 1980, 19 pp. A summary report to the President on Government-wide progress in implementing his June 13, 1980 directive to agencies on alternative approaches. 
+
+"An Inventory of Innovative Techniques," April 1980, 47 pp. - 
+
+A description of 66 early applications of alternative approaches, written for the lay public.
+
+Single copies of these documents can be obtained from: 
+
+Administrative Conference of the United States 
+
+2120 L Street, N.W. 
+
+Suite 500 
+
+Washington, D.C. 20037 (202) 254-7020
+
+HARVARD LAW LIBRARY 
+
+3 2044 057 502 783
+
+HARVARD LAW SCHOOL LIBRARY DATE DUE 
+
+FEB 15 2009 
+
+GAYLORD 
+
+PRINTED IN U.S.A.

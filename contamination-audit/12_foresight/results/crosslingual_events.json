@@ -1,0 +1,2232 @@
+{
+ "models": {
+  "1900": "uzh-echist-org/Ranke-4B-1900",
+  "1913": "uzh-echist-org/Ranke-4B-1913",
+  "1929": "uzh-echist-org/Ranke-4B-1929",
+  "modern": "Qwen/Qwen2.5-3B"
+ },
+ "events": [
+  [
+   "world_war",
+   "1929"
+  ],
+  [
+   "fall_of_empires",
+   "1929"
+  ],
+  [
+   "great_depression",
+   "modern"
+  ]
+ ],
+ "rows": [
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 0,
+   "subject": "A war among the great powers of Europe",
+   "target": " would cost the lives of many millions of men",
+   "neutral": "A war",
+   "Scond": {
+    "1900": 19.558,
+    "1913": 16.855,
+    "1929": 18.678,
+    "modern": 18.121
+   },
+   "Smarg": {
+    "1900": 27.71,
+    "1913": 25.57,
+    "1929": 28.03,
+    "modern": 26.393
+   },
+   "strain": {
+    "1900": -8.152,
+    "1913": -8.715,
+    "1929": -9.352,
+    "modern": -8.272
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 0,
+   "subject": "Ein Krieg zwischen den Großmächten Europas",
+   "target": " würde das Leben vieler Millionen Menschen kosten",
+   "neutral": "Ein Krieg",
+   "Scond": {
+    "1900": 21.264,
+    "1913": 26.443,
+    "1929": 23.188,
+    "modern": 21.533
+   },
+   "Smarg": {
+    "1900": 27.082,
+    "1913": 28.78,
+    "1929": 27.229,
+    "modern": 27.642
+   },
+   "strain": {
+    "1900": -5.818,
+    "1913": -2.337,
+    "1929": -4.041,
+    "modern": -6.109
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 0,
+   "subject": "Une guerre entre les grandes puissances d'Europe",
+   "target": " coûterait la vie à plusieurs millions d'hommes",
+   "neutral": "Une guerre",
+   "Scond": {
+    "1900": 16.958,
+    "1913": 17.202,
+    "1929": 16.776,
+    "modern": 18.943
+   },
+   "Smarg": {
+    "1900": 22.366,
+    "1913": 20.238,
+    "1929": 19.94,
+    "modern": 26.07
+   },
+   "strain": {
+    "1900": -5.407,
+    "1913": -3.036,
+    "1929": -3.165,
+    "modern": -7.127
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 1,
+   "subject": "When the great war ends, the old crowned heads of Europe",
+   "target": " will have fallen, one after another",
+   "neutral": "The old crowned heads of Europe",
+   "Scond": {
+    "1900": 15.392,
+    "1913": 16.362,
+    "1929": 16.217,
+    "modern": 14.119
+   },
+   "Smarg": {
+    "1900": 23.474,
+    "1913": 23.593,
+    "1929": 22.4,
+    "modern": 25.076
+   },
+   "strain": {
+    "1900": -8.082,
+    "1913": -7.231,
+    "1929": -6.183,
+    "modern": -10.957
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 1,
+   "subject": "Wenn der große Krieg endet, werden die alten gekrönten Häupter Europas",
+   "target": " eines nach dem anderen gefallen sein",
+   "neutral": "Die alten gekrönten Häupter Europas",
+   "Scond": {
+    "1900": 25.962,
+    "1913": 21.829,
+    "1929": 22.195,
+    "modern": 16.603
+   },
+   "Smarg": {
+    "1900": 31.17,
+    "1913": 31.474,
+    "1929": 31.003,
+    "modern": 26.491
+   },
+   "strain": {
+    "1900": -5.208,
+    "1913": -9.645,
+    "1929": -8.808,
+    "modern": -9.888
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 1,
+   "subject": "Quand la grande guerre finira, les vieilles têtes couronnées d'Europe",
+   "target": " seront tombées l'une après l'autre",
+   "neutral": "Les vieilles têtes couronnées d'Europe",
+   "Scond": {
+    "1900": 11.596,
+    "1913": 11.546,
+    "1929": 12.454,
+    "modern": 13.668
+   },
+   "Smarg": {
+    "1900": 19.551,
+    "1913": 16.625,
+    "1929": 17.81,
+    "modern": 20.38
+   },
+   "strain": {
+    "1900": -7.955,
+    "1913": -5.08,
+    "1929": -5.357,
+    "modern": -6.712
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 2,
+   "subject": "Should the powers of Europe come to blows, the war",
+   "target": " will drag on for years and years",
+   "neutral": "The war",
+   "Scond": {
+    "1900": 16.245,
+    "1913": 15.303,
+    "1929": 14.231,
+    "modern": 14.755
+   },
+   "Smarg": {
+    "1900": 21.731,
+    "1913": 21.703,
+    "1929": 18.281,
+    "modern": 18.854
+   },
+   "strain": {
+    "1900": -5.485,
+    "1913": -6.4,
+    "1929": -4.049,
+    "modern": -4.099
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 2,
+   "subject": "Sollten die Mächte Europas aneinandergeraten, wird der Krieg",
+   "target": " sich über Jahre und Jahre hinziehen",
+   "neutral": "Der Krieg",
+   "Scond": {
+    "1900": 24.036,
+    "1913": 20.531,
+    "1929": 18.078,
+    "modern": 23.282
+   },
+   "Smarg": {
+    "1900": 32.38,
+    "1913": 28.455,
+    "1929": 26.925,
+    "modern": 32.71
+   },
+   "strain": {
+    "1900": -8.345,
+    "1913": -7.924,
+    "1929": -8.847,
+    "modern": -9.428
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 2,
+   "subject": "Si les puissances d'Europe en viennent aux mains, la guerre",
+   "target": " traînera pendant des années et des années",
+   "neutral": "La guerre",
+   "Scond": {
+    "1900": 22.077,
+    "1913": 17.334,
+    "1929": 17.851,
+    "modern": 23.798
+   },
+   "Smarg": {
+    "1900": 32.06,
+    "1913": 26.763,
+    "1929": 27.756,
+    "modern": 33.206
+   },
+   "strain": {
+    "1900": -9.984,
+    "1913": -9.429,
+    "1929": -9.905,
+    "modern": -9.409
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 3,
+   "subject": "In the coming war, the soldiers",
+   "target": " will pass their days dug into the earth",
+   "neutral": "The soldiers",
+   "Scond": {
+    "1900": 36.654,
+    "1913": 36.24,
+    "1929": 36.012,
+    "modern": 30.573
+   },
+   "Smarg": {
+    "1900": 40.75,
+    "1913": 41.725,
+    "1929": 39.43,
+    "modern": 33.938
+   },
+   "strain": {
+    "1900": -4.097,
+    "1913": -5.484,
+    "1929": -3.418,
+    "modern": -3.366
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 3,
+   "subject": "Im kommenden Krieg werden die Soldaten",
+   "target": " ihre Tage in die Erde eingegraben verbringen",
+   "neutral": "Die Soldaten",
+   "Scond": {
+    "1900": 42.895,
+    "1913": 40.426,
+    "1929": 36.191,
+    "modern": 42.497
+   },
+   "Smarg": {
+    "1900": 46.162,
+    "1913": 48.699,
+    "1929": 47.349,
+    "modern": 49.828
+   },
+   "strain": {
+    "1900": -3.266,
+    "1913": -8.273,
+    "1929": -11.158,
+    "modern": -7.331
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 3,
+   "subject": "Dans la guerre qui vient, les soldats",
+   "target": " passeront leurs jours enfouis dans la terre",
+   "neutral": "Les soldats",
+   "Scond": {
+    "1900": 28.139,
+    "1913": 26.961,
+    "1929": 25.946,
+    "modern": 28.152
+   },
+   "Smarg": {
+    "1900": 33.234,
+    "1913": 31.414,
+    "1929": 29.731,
+    "modern": 34.905
+   },
+   "strain": {
+    "1900": -5.095,
+    "1913": -4.453,
+    "1929": -3.785,
+    "modern": -6.752
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 4,
+   "subject": "Should this war come, the mighty empire of Russia",
+   "target": " will be swept away by revolution",
+   "neutral": "The empire of Russia",
+   "Scond": {
+    "1900": 15.987,
+    "1913": 17.474,
+    "1929": 16.16,
+    "modern": 18.486
+   },
+   "Smarg": {
+    "1900": 19.912,
+    "1913": 21.551,
+    "1929": 21.291,
+    "modern": 19.946
+   },
+   "strain": {
+    "1900": -3.926,
+    "1913": -4.077,
+    "1929": -5.131,
+    "modern": -1.46
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 4,
+   "subject": "Sollte dieser Krieg kommen, wird das mächtige Reich Russland",
+   "target": " von einer Revolution hinweggefegt werden",
+   "neutral": "Das Reich Russland",
+   "Scond": {
+    "1900": 22.061,
+    "1913": 20.491,
+    "1929": 20.028,
+    "modern": 22.24
+   },
+   "Smarg": {
+    "1900": 31.732,
+    "1913": 34.287,
+    "1929": 30.671,
+    "modern": 39.81
+   },
+   "strain": {
+    "1900": -9.671,
+    "1913": -13.797,
+    "1929": -10.643,
+    "modern": -17.57
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 4,
+   "subject": "Si cette guerre vient, le puissant empire de Russie",
+   "target": " sera emporté par la révolution",
+   "neutral": "L'empire de Russie",
+   "Scond": {
+    "1900": 15.548,
+    "1913": 15.835,
+    "1929": 15.523,
+    "modern": 18.86
+   },
+   "Smarg": {
+    "1900": 20.784,
+    "1913": 20.54,
+    "1929": 18.521,
+    "modern": 20.228
+   },
+   "strain": {
+    "1900": -5.236,
+    "1913": -4.706,
+    "1929": -2.998,
+    "modern": -1.368
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 5,
+   "subject": "Should the great war come, whole nations",
+   "target": " will be harnessed entirely to the war",
+   "neutral": "Whole nations",
+   "Scond": {
+    "1900": 29.636,
+    "1913": 27.493,
+    "1929": 24.439,
+    "modern": 23.309
+   },
+   "Smarg": {
+    "1900": 34.068,
+    "1913": 38.144,
+    "1929": 31.973,
+    "modern": 29.833
+   },
+   "strain": {
+    "1900": -4.432,
+    "1913": -10.651,
+    "1929": -7.534,
+    "modern": -6.524
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 5,
+   "subject": "Sollte der große Krieg kommen, werden ganze Nationen",
+   "target": " ganz und gar in den Krieg gespannt werden",
+   "neutral": "Ganze Nationen",
+   "Scond": {
+    "1900": 29.633,
+    "1913": 28.537,
+    "1929": 27.15,
+    "modern": 29.903
+   },
+   "Smarg": {
+    "1900": 35.323,
+    "1913": 33.919,
+    "1929": 31.194,
+    "modern": 33.507
+   },
+   "strain": {
+    "1900": -5.69,
+    "1913": -5.382,
+    "1929": -4.045,
+    "modern": -3.604
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 5,
+   "subject": "Si la grande guerre vient, des nations entières",
+   "target": " seront tout entières attelées à la guerre",
+   "neutral": "Des nations entières",
+   "Scond": {
+    "1900": 28.66,
+    "1913": 25.802,
+    "1929": 27.027,
+    "modern": 28.537
+   },
+   "Smarg": {
+    "1900": 37.607,
+    "1913": 31.985,
+    "1929": 33.015,
+    "modern": 37.429
+   },
+   "strain": {
+    "1900": -8.947,
+    "1913": -6.183,
+    "1929": -5.989,
+    "modern": -8.892
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 6,
+   "subject": "If the German Empire goes to war,",
+   "target": " it will in the end be beaten and broken",
+   "neutral": "The German Empire",
+   "Scond": {
+    "1900": 28.383,
+    "1913": 30.822,
+    "1929": 24.534,
+    "modern": 24.399
+   },
+   "Smarg": {
+    "1900": 40.136,
+    "1913": 42.729,
+    "1929": 37.098,
+    "modern": 45.076
+   },
+   "strain": {
+    "1900": -11.753,
+    "1913": -11.907,
+    "1929": -12.565,
+    "modern": -20.678
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 6,
+   "subject": "Wenn das Deutsche Reich in den Krieg zieht,",
+   "target": " wird es am Ende geschlagen und zerbrochen sein",
+   "neutral": "Das Deutsche Reich",
+   "Scond": {
+    "1900": 34.526,
+    "1913": 34.206,
+    "1929": 32.016,
+    "modern": 29.109
+   },
+   "Smarg": {
+    "1900": 49.192,
+    "1913": 47.323,
+    "1929": 46.163,
+    "modern": 41.466
+   },
+   "strain": {
+    "1900": -14.666,
+    "1913": -13.117,
+    "1929": -14.147,
+    "modern": -12.358
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 6,
+   "subject": "Si l'Empire allemand entre en guerre,",
+   "target": " il sera à la fin vaincu et brisé",
+   "neutral": "L'Empire allemand",
+   "Scond": {
+    "1900": 25.756,
+    "1913": 28.575,
+    "1929": 27.603,
+    "modern": 28.689
+   },
+   "Smarg": {
+    "1900": 34.388,
+    "1913": 36.261,
+    "1929": 36.222,
+    "modern": 40.01
+   },
+   "strain": {
+    "1900": -8.633,
+    "1913": -7.686,
+    "1929": -8.619,
+    "modern": -11.322
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 7,
+   "subject": "When this great war at last ends, it",
+   "target": " will leave only ruin and bitterness behind",
+   "neutral": "The war",
+   "Scond": {
+    "1900": 26.415,
+    "1913": 26.03,
+    "1929": 25.425,
+    "modern": 20.517
+   },
+   "Smarg": {
+    "1900": 33.745,
+    "1913": 34.505,
+    "1929": 31.154,
+    "modern": 31.808
+   },
+   "strain": {
+    "1900": -7.33,
+    "1913": -8.475,
+    "1929": -5.728,
+    "modern": -11.291
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 7,
+   "subject": "Wenn dieser große Krieg endlich endet, wird er",
+   "target": " nur Trümmer und Bitterkeit hinterlassen",
+   "neutral": "Der Krieg",
+   "Scond": {
+    "1900": 25.6,
+    "1913": 29.125,
+    "1929": 31.063,
+    "modern": 32.388
+   },
+   "Smarg": {
+    "1900": 36.513,
+    "1913": 42.557,
+    "1929": 39.119,
+    "modern": 41.814
+   },
+   "strain": {
+    "1900": -10.913,
+    "1913": -13.433,
+    "1929": -8.056,
+    "modern": -9.426
+   }
+  },
+  {
+   "event": "world_war",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 7,
+   "subject": "Quand cette grande guerre finira enfin, elle",
+   "target": " ne laissera que ruines et amertume",
+   "neutral": "La guerre",
+   "Scond": {
+    "1900": 20.393,
+    "1913": 22.064,
+    "1929": 19.726,
+    "modern": 22.244
+   },
+   "Smarg": {
+    "1900": 30.277,
+    "1913": 30.411,
+    "1929": 26.983,
+    "modern": 32.827
+   },
+   "strain": {
+    "1900": -9.884,
+    "1913": -8.347,
+    "1929": -7.257,
+    "modern": -10.584
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 0,
+   "subject": "In the years now ahead, the emperors and kings of Europe",
+   "target": " will be cast down from their thrones",
+   "neutral": "The emperors and kings of Europe",
+   "Scond": {
+    "1900": 18.437,
+    "1913": 17.805,
+    "1929": 14.257,
+    "modern": 15.649
+   },
+   "Smarg": {
+    "1900": 23.353,
+    "1913": 21.767,
+    "1929": 20.013,
+    "modern": 21.886
+   },
+   "strain": {
+    "1900": -4.916,
+    "1913": -3.962,
+    "1929": -5.756,
+    "modern": -6.236
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 0,
+   "subject": "In den kommenden Jahren werden die Kaiser und Könige Europas",
+   "target": " von ihren Thronen gestürzt werden",
+   "neutral": "Die Kaiser und Könige Europas",
+   "Scond": {
+    "1900": 20.579,
+    "1913": 17.61,
+    "1929": 18.042,
+    "modern": 17.372
+   },
+   "Smarg": {
+    "1900": 22.329,
+    "1913": 24.244,
+    "1929": 22.499,
+    "modern": 28.222
+   },
+   "strain": {
+    "1900": -1.75,
+    "1913": -6.633,
+    "1929": -4.457,
+    "modern": -10.851
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 0,
+   "subject": "Dans les années à venir, les empereurs et rois d'Europe",
+   "target": " seront renversés de leurs trônes",
+   "neutral": "Les empereurs et rois d'Europe",
+   "Scond": {
+    "1900": 16.518,
+    "1913": 13.921,
+    "1929": 15.953,
+    "modern": 19.832
+   },
+   "Smarg": {
+    "1900": 19.531,
+    "1913": 17.185,
+    "1929": 18.738,
+    "modern": 26.193
+   },
+   "strain": {
+    "1900": -3.013,
+    "1913": -3.264,
+    "1929": -2.786,
+    "modern": -6.361
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 1,
+   "subject": "The great land empires of central and eastern Europe",
+   "target": " will break into many separate nations",
+   "neutral": "The great empires of Europe",
+   "Scond": {
+    "1900": 29.069,
+    "1913": 28.374,
+    "1929": 26.024,
+    "modern": 29.257
+   },
+   "Smarg": {
+    "1900": 29.552,
+    "1913": 27.989,
+    "1929": 26.985,
+    "modern": 27.882
+   },
+   "strain": {
+    "1900": -0.483,
+    "1913": 0.386,
+    "1929": -0.961,
+    "modern": 1.375
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 1,
+   "subject": "Die großen Landreiche Mittel- und Osteuropas",
+   "target": " werden in viele einzelne Nationen zerfallen",
+   "neutral": "Die großen Reiche Europas",
+   "Scond": {
+    "1900": 27.432,
+    "1913": 26.673,
+    "1929": 27.583,
+    "modern": 27.697
+   },
+   "Smarg": {
+    "1900": 28.203,
+    "1913": 25.535,
+    "1929": 27.69,
+    "modern": 25.336
+   },
+   "strain": {
+    "1900": -0.771,
+    "1913": 1.138,
+    "1929": -0.107,
+    "modern": 2.361
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 1,
+   "subject": "Les grands empires continentaux d'Europe centrale et orientale",
+   "target": " se briseront en de nombreuses nations séparées",
+   "neutral": "Les grands empires d'Europe",
+   "Scond": {
+    "1900": 36.35,
+    "1913": 31.105,
+    "1929": 31.6,
+    "modern": 31.401
+   },
+   "Smarg": {
+    "1900": 38.732,
+    "1913": 31.464,
+    "1929": 32.851,
+    "modern": 33.667
+   },
+   "strain": {
+    "1900": -2.382,
+    "1913": -0.359,
+    "1929": -1.251,
+    "modern": -2.266
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 2,
+   "subject": "In place of the old monarchies of Europe",
+   "target": " new republics will soon arise",
+   "neutral": "In Europe",
+   "Scond": {
+    "1900": 15.729,
+    "1913": 16.349,
+    "1929": 15.778,
+    "modern": 21.666
+   },
+   "Smarg": {
+    "1900": 25.553,
+    "1913": 29.406,
+    "1929": 24.9,
+    "modern": 35.382
+   },
+   "strain": {
+    "1900": -9.824,
+    "1913": -13.057,
+    "1929": -9.122,
+    "modern": -13.716
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 2,
+   "subject": "An die Stelle der alten Monarchien Europas",
+   "target": " werden bald neue Republiken treten",
+   "neutral": "In Europa",
+   "Scond": {
+    "1900": 15.348,
+    "1913": 14.594,
+    "1929": 14.634,
+    "modern": 24.976
+   },
+   "Smarg": {
+    "1900": 32.723,
+    "1913": 33.795,
+    "1929": 33.622,
+    "modern": 46.231
+   },
+   "strain": {
+    "1900": -17.376,
+    "1913": -19.201,
+    "1929": -18.988,
+    "modern": -21.255
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 2,
+   "subject": "À la place des vieilles monarchies d'Europe",
+   "target": " de nouvelles républiques surgiront bientôt",
+   "neutral": "En Europe",
+   "Scond": {
+    "1900": 25.077,
+    "1913": 22.889,
+    "1929": 24.732,
+    "modern": 32.585
+   },
+   "Smarg": {
+    "1900": 29.717,
+    "1913": 34.596,
+    "1929": 33.659,
+    "modern": 35.703
+   },
+   "strain": {
+    "1900": -4.64,
+    "1913": -11.707,
+    "1929": -8.928,
+    "modern": -3.118
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 3,
+   "subject": "The mighty Tsar who rules all the Russias",
+   "target": " will lose his throne and his life",
+   "neutral": "The Tsar of Russia",
+   "Scond": {
+    "1900": 20.338,
+    "1913": 18.497,
+    "1929": 18.428,
+    "modern": 19.761
+   },
+   "Smarg": {
+    "1900": 18.99,
+    "1913": 17.99,
+    "1929": 16.745,
+    "modern": 21.174
+   },
+   "strain": {
+    "1900": 1.349,
+    "1913": 0.507,
+    "1929": 1.683,
+    "modern": -1.413
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 3,
+   "subject": "Der mächtige Zar, der über ganz Russland herrscht,",
+   "target": " wird seinen Thron und sein Leben verlieren",
+   "neutral": "Der Zar von Russland",
+   "Scond": {
+    "1900": 25.153,
+    "1913": 21.665,
+    "1929": 22.848,
+    "modern": 22.391
+   },
+   "Smarg": {
+    "1900": 27.868,
+    "1913": 23.059,
+    "1929": 22.993,
+    "modern": 27.561
+   },
+   "strain": {
+    "1900": -2.715,
+    "1913": -1.394,
+    "1929": -0.145,
+    "modern": -5.17
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 3,
+   "subject": "Le puissant tsar qui règne sur toutes les Russies",
+   "target": " perdra son trône et sa vie",
+   "neutral": "Le tsar de Russie",
+   "Scond": {
+    "1900": 20.42,
+    "1913": 18.065,
+    "1929": 18.561,
+    "modern": 25.697
+   },
+   "Smarg": {
+    "1900": 19.583,
+    "1913": 19.293,
+    "1929": 18.988,
+    "modern": 25.24
+   },
+   "strain": {
+    "1900": 0.837,
+    "1913": -1.228,
+    "1929": -0.427,
+    "modern": 0.457
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 4,
+   "subject": "The map of Europe, within a few years,",
+   "target": " will be redrawn beyond all recognition",
+   "neutral": "The map of Europe",
+   "Scond": {
+    "1900": 27.989,
+    "1913": 23.978,
+    "1929": 19.277,
+    "modern": 13.432
+   },
+   "Smarg": {
+    "1900": 34.846,
+    "1913": 28.155,
+    "1929": 20.449,
+    "modern": 20.191
+   },
+   "strain": {
+    "1900": -6.857,
+    "1913": -4.176,
+    "1929": -1.173,
+    "modern": -6.759
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 4,
+   "subject": "Die Landkarte Europas wird binnen weniger Jahre",
+   "target": " bis zur Unkenntlichkeit neu gezeichnet werden",
+   "neutral": "Die Landkarte Europas",
+   "Scond": {
+    "1900": 24.635,
+    "1913": 23.168,
+    "1929": 21.089,
+    "modern": 21.516
+   },
+   "Smarg": {
+    "1900": 37.685,
+    "1913": 35.363,
+    "1929": 34.986,
+    "modern": 35.336
+   },
+   "strain": {
+    "1900": -13.05,
+    "1913": -12.195,
+    "1929": -13.897,
+    "modern": -13.82
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 4,
+   "subject": "La carte de l'Europe, en quelques années,",
+   "target": " sera redessinée au point d'être méconnaissable",
+   "neutral": "La carte de l'Europe",
+   "Scond": {
+    "1900": 34.513,
+    "1913": 36.258,
+    "1929": 31.422,
+    "modern": 25.805
+   },
+   "Smarg": {
+    "1900": 41.168,
+    "1913": 41.203,
+    "1929": 39.712,
+    "modern": 33.168
+   },
+   "strain": {
+    "1900": -6.655,
+    "1913": -4.945,
+    "1929": -8.29,
+    "modern": -7.363
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 5,
+   "subject": "The old empire of the Turks",
+   "target": " will be broken up and parcelled out",
+   "neutral": "The empire of the Turks",
+   "Scond": {
+    "1900": 19.435,
+    "1913": 18.226,
+    "1929": 16.735,
+    "modern": 21.301
+   },
+   "Smarg": {
+    "1900": 18.871,
+    "1913": 19.347,
+    "1929": 16.728,
+    "modern": 25.914
+   },
+   "strain": {
+    "1900": 0.564,
+    "1913": -1.121,
+    "1929": 0.006,
+    "modern": -4.613
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 5,
+   "subject": "Das alte Reich der Türken",
+   "target": " wird zerschlagen und aufgeteilt werden",
+   "neutral": "Das Reich der Türken",
+   "Scond": {
+    "1900": 29.989,
+    "1913": 26.122,
+    "1929": 23.33,
+    "modern": 28.679
+   },
+   "Smarg": {
+    "1900": 31.342,
+    "1913": 25.878,
+    "1929": 27.445,
+    "modern": 30.737
+   },
+   "strain": {
+    "1900": -1.353,
+    "1913": 0.243,
+    "1929": -4.115,
+    "modern": -2.058
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 5,
+   "subject": "Le vieil empire des Turcs",
+   "target": " sera démembré et partagé",
+   "neutral": "L'empire des Turcs",
+   "Scond": {
+    "1900": 20.874,
+    "1913": 16.162,
+    "1929": 17.032,
+    "modern": 22.205
+   },
+   "Smarg": {
+    "1900": 19.302,
+    "1913": 17.894,
+    "1929": 18.455,
+    "modern": 22.192
+   },
+   "strain": {
+    "1900": 1.572,
+    "1913": -1.733,
+    "1929": -1.422,
+    "modern": 0.013
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 6,
+   "subject": "Even in the distant colonies, the subject peoples",
+   "target": " will begin to demand their freedom",
+   "neutral": "The subject peoples",
+   "Scond": {
+    "1900": 23.634,
+    "1913": 21.992,
+    "1929": 19.739,
+    "modern": 19.796
+   },
+   "Smarg": {
+    "1900": 26.895,
+    "1913": 25.948,
+    "1929": 21.154,
+    "modern": 24.463
+   },
+   "strain": {
+    "1900": -3.261,
+    "1913": -3.956,
+    "1929": -1.415,
+    "modern": -4.667
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 6,
+   "subject": "Selbst in den fernen Kolonien werden die unterworfenen Völker",
+   "target": " ihre Freiheit zu fordern beginnen",
+   "neutral": "Die unterworfenen Völker",
+   "Scond": {
+    "1900": 21.282,
+    "1913": 18.573,
+    "1929": 20.101,
+    "modern": 18.37
+   },
+   "Smarg": {
+    "1900": 27.807,
+    "1913": 23.275,
+    "1929": 25.319,
+    "modern": 26.178
+   },
+   "strain": {
+    "1900": -6.524,
+    "1913": -4.702,
+    "1929": -5.218,
+    "modern": -7.808
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 6,
+   "subject": "Même dans les colonies lointaines, les peuples soumis",
+   "target": " commenceront à réclamer leur liberté",
+   "neutral": "Les peuples soumis",
+   "Scond": {
+    "1900": 25.213,
+    "1913": 24.159,
+    "1929": 24.538,
+    "modern": 20.261
+   },
+   "Smarg": {
+    "1900": 28.419,
+    "1913": 26.372,
+    "1929": 25.583,
+    "modern": 22.647
+   },
+   "strain": {
+    "1900": -3.207,
+    "1913": -2.213,
+    "1929": -1.045,
+    "modern": -2.386
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "en",
+   "i": 7,
+   "subject": "The house of Hohenzollern, ruling Germany,",
+   "target": " will be swept from the throne for ever",
+   "neutral": "The house of Hohenzollern",
+   "Scond": {
+    "1900": 27.586,
+    "1913": 28.25,
+    "1929": 21.314,
+    "modern": 25.53
+   },
+   "Smarg": {
+    "1900": 28.554,
+    "1913": 25.693,
+    "1929": 20.825,
+    "modern": 28.445
+   },
+   "strain": {
+    "1900": -0.967,
+    "1913": 2.557,
+    "1929": 0.489,
+    "modern": -2.915
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "de",
+   "i": 7,
+   "subject": "Das Haus Hohenzollern, das über Deutschland herrscht,",
+   "target": " wird für immer vom Thron gefegt werden",
+   "neutral": "Das Haus Hohenzollern",
+   "Scond": {
+    "1900": 32.396,
+    "1913": 31.042,
+    "1929": 30.355,
+    "modern": 31.428
+   },
+   "Smarg": {
+    "1900": 32.907,
+    "1913": 32.409,
+    "1929": 30.799,
+    "modern": 40.596
+   },
+   "strain": {
+    "1900": -0.51,
+    "1913": -1.367,
+    "1929": -0.444,
+    "modern": -9.168
+   }
+  },
+  {
+   "event": "fall_of_empires",
+   "anchor": "1929",
+   "lang": "fr",
+   "i": 7,
+   "subject": "La maison des Hohenzollern, qui règne sur l'Allemagne,",
+   "target": " sera à jamais chassée du trône",
+   "neutral": "La maison des Hohenzollern",
+   "Scond": {
+    "1900": 25.773,
+    "1913": 24.384,
+    "1929": 22.31,
+    "modern": 26.282
+   },
+   "Smarg": {
+    "1900": 25.034,
+    "1913": 23.37,
+    "1929": 22.442,
+    "modern": 36.436
+   },
+   "strain": {
+    "1900": 0.739,
+    "1913": 1.014,
+    "1929": -0.132,
+    "modern": -10.154
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 0,
+   "subject": "The learned economists judge that share prices have reached",
+   "target": " a peak from which they will presently crash",
+   "neutral": "Share prices have reached",
+   "Scond": {
+    "1900": 29.988,
+    "1913": 32.29,
+    "1929": 27.472,
+    "modern": 28.097
+   },
+   "Smarg": {
+    "1900": 32.338,
+    "1913": 33.102,
+    "1929": 28.29,
+    "modern": 33.274
+   },
+   "strain": {
+    "1900": -2.35,
+    "1913": -0.811,
+    "1929": -0.818,
+    "modern": -5.177
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 0,
+   "subject": "Die gelehrten Ökonomen urteilen, die Aktienkurse hätten erreicht",
+   "target": " einen Gipfel, von dem sie alsbald abstürzen werden",
+   "neutral": "Die Aktienkurse haben erreicht",
+   "Scond": {
+    "1900": 33.519,
+    "1913": 33.087,
+    "1929": 30.664,
+    "modern": 33.728
+   },
+   "Smarg": {
+    "1900": 35.532,
+    "1913": 31.745,
+    "1929": 30.706,
+    "modern": 33.744
+   },
+   "strain": {
+    "1900": -2.014,
+    "1913": 1.342,
+    "1929": -0.042,
+    "modern": -0.016
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 0,
+   "subject": "Les doctes économistes jugent que les cours de la bourse ont atteint",
+   "target": " un sommet d'où ils s'effondreront bientôt",
+   "neutral": "Les cours de la bourse ont atteint",
+   "Scond": {
+    "1900": 37.065,
+    "1913": 24.15,
+    "1929": 25.357,
+    "modern": 25.045
+   },
+   "Smarg": {
+    "1900": 39.256,
+    "1913": 29.05,
+    "1929": 28.451,
+    "modern": 33.636
+   },
+   "strain": {
+    "1900": -2.192,
+    "1913": -4.9,
+    "1929": -3.094,
+    "modern": -8.591
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 1,
+   "subject": "In the years now beginning, the men out of work",
+   "target": " will swell to a fourth of all who labour",
+   "neutral": "The men out of work",
+   "Scond": {
+    "1900": 40.441,
+    "1913": 39.628,
+    "1929": 41.392,
+    "modern": 33.891
+   },
+   "Smarg": {
+    "1900": 44.032,
+    "1913": 46.005,
+    "1929": 46.783,
+    "modern": 40.95
+   },
+   "strain": {
+    "1900": -3.59,
+    "1913": -6.377,
+    "1929": -5.391,
+    "modern": -7.06
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 1,
+   "subject": "In den nun beginnenden Jahren werden die Arbeitslosen",
+   "target": " auf ein Viertel aller Arbeitenden anschwellen",
+   "neutral": "Die Arbeitslosen",
+   "Scond": {
+    "1900": 32.312,
+    "1913": 33.747,
+    "1929": 32.417,
+    "modern": 42.047
+   },
+   "Smarg": {
+    "1900": 38.546,
+    "1913": 41.662,
+    "1929": 40.961,
+    "modern": 51.708
+   },
+   "strain": {
+    "1900": -6.234,
+    "1913": -7.915,
+    "1929": -8.543,
+    "modern": -9.66
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 1,
+   "subject": "Dans les années qui commencent, les hommes sans travail",
+   "target": " gonfleront jusqu'au quart de tous les travailleurs",
+   "neutral": "Les hommes sans travail",
+   "Scond": {
+    "1900": 46.557,
+    "1913": 47.814,
+    "1929": 50.414,
+    "modern": 42.778
+   },
+   "Smarg": {
+    "1900": 49.067,
+    "1913": 50.01,
+    "1929": 53.345,
+    "modern": 43.862
+   },
+   "strain": {
+    "1900": -2.51,
+    "1913": -2.197,
+    "1929": -2.931,
+    "modern": -1.084
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 2,
+   "subject": "The banks of the nation, in the coming years,",
+   "target": " will fail by the thousand",
+   "neutral": "The banks of the nation",
+   "Scond": {
+    "1900": 18.487,
+    "1913": 19.077,
+    "1929": 19.128,
+    "modern": 19.415
+   },
+   "Smarg": {
+    "1900": 19.768,
+    "1913": 23.127,
+    "1929": 23.445,
+    "modern": 28.13
+   },
+   "strain": {
+    "1900": -1.282,
+    "1913": -4.05,
+    "1929": -4.317,
+    "modern": -8.715
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 2,
+   "subject": "Die Banken des Landes werden in den kommenden Jahren",
+   "target": " zu Tausenden zusammenbrechen",
+   "neutral": "Die Banken des Landes",
+   "Scond": {
+    "1900": 25.156,
+    "1913": 19.354,
+    "1929": 19.824,
+    "modern": 23.052
+   },
+   "Smarg": {
+    "1900": 29.004,
+    "1913": 24.754,
+    "1929": 24.573,
+    "modern": 30.366
+   },
+   "strain": {
+    "1900": -3.848,
+    "1913": -5.4,
+    "1929": -4.749,
+    "modern": -7.314
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 2,
+   "subject": "Les banques du pays, dans les années à venir,",
+   "target": " feront faillite par milliers",
+   "neutral": "Les banques du pays",
+   "Scond": {
+    "1900": 22.159,
+    "1913": 22.163,
+    "1929": 18.388,
+    "modern": 17.073
+   },
+   "Smarg": {
+    "1900": 29.356,
+    "1913": 23.373,
+    "1929": 21.594,
+    "modern": 23.724
+   },
+   "strain": {
+    "1900": -7.197,
+    "1913": -1.211,
+    "1929": -3.206,
+    "modern": -6.651
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 3,
+   "subject": "After the recent break in the markets, trade",
+   "target": " will sink into a slump lasting years",
+   "neutral": "Trade",
+   "Scond": {
+    "1900": 43.439,
+    "1913": 41.445,
+    "1929": 38.745,
+    "modern": 38.165
+   },
+   "Smarg": {
+    "1900": 43.778,
+    "1913": 42.212,
+    "1929": 39.484,
+    "modern": 34.114
+   },
+   "strain": {
+    "1900": -0.339,
+    "1913": -0.767,
+    "1929": -0.74,
+    "modern": 4.051
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 3,
+   "subject": "Nach dem jüngsten Einbruch an den Märkten wird der Handel",
+   "target": " in eine jahrelange Flaute sinken",
+   "neutral": "Der Handel",
+   "Scond": {
+    "1900": 41.414,
+    "1913": 38.412,
+    "1929": 34.869,
+    "modern": 31.184
+   },
+   "Smarg": {
+    "1900": 46.545,
+    "1913": 49.391,
+    "1929": 46.328,
+    "modern": 42.159
+   },
+   "strain": {
+    "1900": -5.131,
+    "1913": -10.979,
+    "1929": -11.459,
+    "modern": -10.975
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 3,
+   "subject": "Après la récente chute des marchés, le commerce",
+   "target": " sombrera dans un marasme de plusieurs années",
+   "neutral": "Le commerce",
+   "Scond": {
+    "1900": 32.347,
+    "1913": 32.976,
+    "1929": 31.577,
+    "modern": 33.813
+   },
+   "Smarg": {
+    "1900": 40.251,
+    "1913": 33.337,
+    "1929": 33.535,
+    "modern": 36.5
+   },
+   "strain": {
+    "1900": -7.904,
+    "1913": -0.361,
+    "1929": -1.958,
+    "modern": -2.687
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 4,
+   "subject": "Men left long without work or bread",
+   "target": " will turn to angry and radical leaders",
+   "neutral": "Idle men",
+   "Scond": {
+    "1900": 38.655,
+    "1913": 41.051,
+    "1929": 35.041,
+    "modern": 30.064
+   },
+   "Smarg": {
+    "1900": 39.952,
+    "1913": 43.813,
+    "1929": 37.695,
+    "modern": 35.843
+   },
+   "strain": {
+    "1900": -1.297,
+    "1913": -2.762,
+    "1929": -2.654,
+    "modern": -5.779
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 4,
+   "subject": "Männer, die lange ohne Arbeit und Brot sind,",
+   "target": " werden sich zornigen und radikalen Führern zuwenden",
+   "neutral": "Untätige Männer",
+   "Scond": {
+    "1900": 45.312,
+    "1913": 49.012,
+    "1929": 45.083,
+    "modern": 42.93
+   },
+   "Smarg": {
+    "1900": 49.358,
+    "1913": 50.156,
+    "1929": 47.824,
+    "modern": 50.014
+   },
+   "strain": {
+    "1900": -4.046,
+    "1913": -1.144,
+    "1929": -2.742,
+    "modern": -7.084
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 4,
+   "subject": "Les hommes longtemps privés de travail et de pain",
+   "target": " se tourneront vers des chefs furieux et radicaux",
+   "neutral": "Les hommes oisifs",
+   "Scond": {
+    "1900": 42.339,
+    "1913": 40.006,
+    "1929": 43.236,
+    "modern": 41.007
+   },
+   "Smarg": {
+    "1900": 46.097,
+    "1913": 45.46,
+    "1929": 46.432,
+    "modern": 47.528
+   },
+   "strain": {
+    "1900": -3.759,
+    "1913": -5.454,
+    "1929": -3.196,
+    "modern": -6.521
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 5,
+   "subject": "In the hard years just ahead, men even in the richest lands",
+   "target": " will queue in the streets for bread",
+   "neutral": "Men",
+   "Scond": {
+    "1900": 32.592,
+    "1913": 33.464,
+    "1929": 31.002,
+    "modern": 21.85
+   },
+   "Smarg": {
+    "1900": 40.968,
+    "1913": 39.87,
+    "1929": 39.195,
+    "modern": 34.648
+   },
+   "strain": {
+    "1900": -8.375,
+    "1913": -6.406,
+    "1929": -8.193,
+    "modern": -12.798
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 5,
+   "subject": "In den harten Jahren, die bevorstehen, werden die Menschen selbst in den reichsten Ländern",
+   "target": " auf der Straße um Brot anstehen",
+   "neutral": "Die Menschen werden",
+   "Scond": {
+    "1900": 35.357,
+    "1913": 31.874,
+    "1929": 32.612,
+    "modern": 32.181
+   },
+   "Smarg": {
+    "1900": 36.994,
+    "1913": 32.533,
+    "1929": 33.544,
+    "modern": 35.443
+   },
+   "strain": {
+    "1900": -1.637,
+    "1913": -0.659,
+    "1929": -0.933,
+    "modern": -3.262
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 5,
+   "subject": "Dans les dures années qui viennent, les gens, même dans les pays les plus riches,",
+   "target": " feront la queue dans la rue pour du pain",
+   "neutral": "Les gens",
+   "Scond": {
+    "1900": 38.716,
+    "1913": 32.969,
+    "1929": 33.255,
+    "modern": 24.465
+   },
+   "Smarg": {
+    "1900": 42.823,
+    "1913": 37.912,
+    "1929": 37.984,
+    "modern": 35.504
+   },
+   "strain": {
+    "1900": -4.106,
+    "1913": -4.943,
+    "1929": -4.73,
+    "modern": -11.039
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 6,
+   "subject": "The trade between the nations, in the coming slump,",
+   "target": " will wither behind walls of tariffs",
+   "neutral": "The trade between the nations",
+   "Scond": {
+    "1900": 40.665,
+    "1913": 38.431,
+    "1929": 34.946,
+    "modern": 27.425
+   },
+   "Smarg": {
+    "1900": 42.451,
+    "1913": 42.717,
+    "1929": 36.935,
+    "modern": 32.708
+   },
+   "strain": {
+    "1900": -1.786,
+    "1913": -4.286,
+    "1929": -1.989,
+    "modern": -5.284
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 6,
+   "subject": "Der Handel zwischen den Nationen wird in der kommenden Flaute",
+   "target": " hinter Zollmauern verkümmern",
+   "neutral": "Der Handel zwischen den Nationen",
+   "Scond": {
+    "1900": 33.791,
+    "1913": 29.89,
+    "1929": 27.275,
+    "modern": 34.021
+   },
+   "Smarg": {
+    "1900": 42.95,
+    "1913": 32.398,
+    "1929": 31.167,
+    "modern": 41.882
+   },
+   "strain": {
+    "1900": -9.159,
+    "1913": -2.508,
+    "1929": -3.893,
+    "modern": -7.861
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 6,
+   "subject": "Le commerce entre les nations, dans le marasme qui vient,",
+   "target": " dépérira derrière des murs de tarifs",
+   "neutral": "Le commerce entre les nations",
+   "Scond": {
+    "1900": 42.518,
+    "1913": 39.027,
+    "1929": 36.725,
+    "modern": 39.928
+   },
+   "Smarg": {
+    "1900": 45.704,
+    "1913": 44.05,
+    "1929": 40.833,
+    "modern": 49.348
+   },
+   "strain": {
+    "1900": -3.186,
+    "1913": -5.023,
+    "1929": -4.108,
+    "modern": -9.42
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "en",
+   "i": 7,
+   "subject": "In the depression now beginning, prices and wages",
+   "target": " will fall year after year",
+   "neutral": "Prices and wages",
+   "Scond": {
+    "1900": 17.07,
+    "1913": 15.983,
+    "1929": 16.819,
+    "modern": 14.743
+   },
+   "Smarg": {
+    "1900": 19.972,
+    "1913": 20.181,
+    "1929": 18.358,
+    "modern": 17.044
+   },
+   "strain": {
+    "1900": -2.902,
+    "1913": -4.199,
+    "1929": -1.539,
+    "modern": -2.301
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "de",
+   "i": 7,
+   "subject": "In der nun beginnenden Depression werden Preise und Löhne",
+   "target": " Jahr für Jahr fallen",
+   "neutral": "Preise und Löhne",
+   "Scond": {
+    "1900": 18.735,
+    "1913": 17.481,
+    "1929": 17.876,
+    "modern": 13.369
+   },
+   "Smarg": {
+    "1900": 20.863,
+    "1913": 20.432,
+    "1929": 20.143,
+    "modern": 17.93
+   },
+   "strain": {
+    "1900": -2.128,
+    "1913": -2.952,
+    "1929": -2.267,
+    "modern": -4.561
+   }
+  },
+  {
+   "event": "great_depression",
+   "anchor": "modern",
+   "lang": "fr",
+   "i": 7,
+   "subject": "Dans la dépression qui commence, les prix et les salaires",
+   "target": " baisseront année après année",
+   "neutral": "Les prix et les salaires",
+   "Scond": {
+    "1900": 25.603,
+    "1913": 21.948,
+    "1929": 21.616,
+    "modern": 18.887
+   },
+   "Smarg": {
+    "1900": 27.198,
+    "1913": 25.479,
+    "1929": 23.849,
+    "modern": 19.919
+   },
+   "strain": {
+    "1900": -1.595,
+    "1913": -3.531,
+    "1929": -2.233,
+    "modern": -1.031
+   }
+  }
+ ],
+ "conceptual_surprise": {
+  "world_war": {
+   "anchor": "1929",
+   "en": {
+    "1900": 0.09,
+    "1913": -1.12
+   },
+   "de": {
+    "1900": 0.77,
+    "1913": -0.52
+   },
+   "fr": {
+    "1900": -1.76,
+    "1913": -0.23
+   }
+  },
+  "fall_of_empires": {
+   "anchor": "1929",
+   "en": {
+    "1900": -1.02,
+    "1913": -0.82
+   },
+   "de": {
+    "1900": 0.42,
+    "1913": 0.41
+   },
+   "fr": {
+    "1900": 0.94,
+    "1913": -0.02
+   }
+  },
+  "great_depression": {
+   "anchor": "modern",
+   "en": {
+    "1900": 2.64,
+    "1913": 1.68,
+    "1929": 2.18
+   },
+   "de": {
+    "1900": 2.07,
+    "1913": 2.56,
+    "1929": 2.01
+   },
+   "fr": {
+    "1900": 1.82,
+    "1913": 2.43,
+    "1929": 2.7
+   }
+  }
+ },
+ "xs_vs_modern": {
+  "world_war": {
+   "en": {
+    "1900": 1.67,
+    "1913": 0.46,
+    "1929": 1.59
+   },
+   "de": {
+    "1900": 1.52,
+    "1913": 0.23,
+    "1929": 0.75
+   },
+   "fr": {
+    "1900": 0.13,
+    "1913": 1.66,
+    "1929": 1.89
+   }
+  },
+  "fall_of_empires": {
+   "en": {
+    "1900": 1.82,
+    "1913": 2.02,
+    "1929": 2.84
+   },
+   "de": {
+    "1900": 2.96,
+    "1913": 2.96,
+    "1929": 2.55
+   },
+   "fr": {
+    "1900": 1.8,
+    "1913": 0.84,
+    "1929": 0.86
+   }
+  },
+  "great_depression": {
+   "en": {
+    "1900": 2.64,
+    "1913": 1.68,
+    "1929": 2.18
+   },
+   "de": {
+    "1900": 2.07,
+    "1913": 2.56,
+    "1929": 2.01
+   },
+   "fr": {
+    "1900": 1.82,
+    "1913": 2.43,
+    "1929": 2.7
+   }
+  }
+ },
+ "did_contrasts": {
+  "great_depression__minus__world_war": {
+   "en": {
+    "1900": [
+     0.97,
+     -2.53,
+     4.12
+    ],
+    "1913": [
+     1.21,
+     -2.64,
+     4.73
+    ],
+    "1929": [
+     0.59,
+     -2.91,
+     3.78
+    ]
+   },
+   "de": {
+    "1900": [
+     0.55,
+     -2.48,
+     3.35
+    ],
+    "1913": [
+     2.34,
+     0.23,
+     4.56
+    ],
+    "1929": [
+     1.27,
+     -1.2,
+     3.51
+    ]
+   },
+   "fr": {
+    "1900": [
+     1.69,
+     -1.5,
+     4.87
+    ],
+    "1913": [
+     0.77,
+     -1.74,
+     3.31
+    ],
+    "1929": [
+     0.81,
+     -1.63,
+     3.19
+    ]
+   }
+  },
+  "great_depression__minus__fall_of_empires": {
+   "en": {
+    "1900": [
+     0.82,
+     -1.96,
+     3.45
+    ],
+    "1913": [
+     -0.34,
+     -3.13,
+     2.27
+    ],
+    "1929": [
+     -0.66,
+     -3.33,
+     1.92
+    ]
+   },
+   "de": {
+    "1900": [
+     -0.9,
+     -4.13,
+     2.24
+    ],
+    "1913": [
+     -0.39,
+     -2.58,
+     1.75
+    ],
+    "1929": [
+     -0.54,
+     -3.36,
+     2.2
+    ]
+   },
+   "fr": {
+    "1900": [
+     0.02,
+     -4.0,
+     3.72
+    ],
+    "1913": [
+     1.58,
+     -2.58,
+     5.56
+    ],
+    "1929": [
+     1.83,
+     -1.8,
+     5.24
+    ]
+   }
+  }
+ },
+ "xs_pooled": {
+  "world_war": {
+   "1900": 1.11,
+   "1913": 0.78,
+   "1929": 1.41
+  },
+  "fall_of_empires": {
+   "1900": 2.2,
+   "1913": 1.94,
+   "1929": 2.08
+  },
+  "great_depression": {
+   "1900": 2.18,
+   "1913": 2.22,
+   "1929": 2.3
+  }
+ },
+ "did_pooled": {
+  "great_depression__minus__world_war": {
+   "1900": [
+    1.07,
+    -0.84,
+    2.84
+   ],
+   "1913": [
+    1.44,
+    -0.27,
+    3.11
+   ],
+   "1929": [
+    0.89,
+    -0.74,
+    2.44
+   ]
+  },
+  "great_depression__minus__fall_of_empires": {
+   "1900": [
+    -0.02,
+    -2.04,
+    1.88
+   ],
+   "1913": [
+    0.28,
+    -1.54,
+    2.12
+   ],
+   "1929": [
+    0.21,
+    -1.56,
+    1.99
+   ]
+  }
+ }
+}

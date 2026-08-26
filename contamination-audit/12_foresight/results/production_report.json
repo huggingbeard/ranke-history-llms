@@ -1,0 +1,581 @@
+{
+ "items": {
+  "wwi_dur_years": {
+   "free_prompt": "Should a great war break out among the powers of Europe, it will most likely last",
+   "gens": {
+    "1900": [
+     "for some time. The French are not yet ready to fight; but they have been preparing for long while and their preparations are now complete.\nThe German army is in excellent condition, and has recently received",
+     "for many years. The Russian govern ment is determined that Prussia shall not have the least reason to complain Of the part she plays in this matter; and Austria must be more or less influenced by Russia",
+     "for some time, and if this is to be its end, we can only hope that no new wars may arise which would bring us into danger from our own possessions. If so there is nothing for",
+     "for long time. The quarrel between Russia and Turkey is not over by any means, though peace has been patched up in some places, while others are still raging with more or less fury.\nThis",
+     "for an indefinite time. At this writing 1t is doubtful if any one knows what that war is going to be in reality.\nThe situation at present is rather confused and uncertain, but there is",
+     "for many years before peace is restored. 1t Is therefore impossible to foretell what may take place in one year or two months. The struggle between Germany and France has now been going on some"
+    ],
+    "1913": [
+     "for years. The United States is not in position to take part in such struggle and would be compelled to remain neutral.\n\nThe only way that this country can become involved in any serious conflict with European nations",
+     "for years. The question then arises: What is to be done when all the pow ers are at swords points and there seems no possibility Of an arrangement?\nThat's where arbitration comes in.\nThere would",
+     "for years. But in one way or another we are going to be involved sooner or later.\nThe United States is destined to become world power; and if she ever does that, there can't much",
+     "for many years. and as we are more or less involved in all their disputes, our neutrality would be at an end We should have to take sides with one nation or another.\n\nThe fact that there",
+     "many years. and as 10 what is to happen in any given case no one can tell.\n\nIn such time OF danger there Is always room for q man Of daring courage and exceptional ability who",
+     "some time before peace can be established. The trouble in China is no exception to this rule.\n\nJapan has long been watching with anxiety and longing for an opportunity TO strike blow at Russia which would force that"
+    ],
+    "1929": [
+     "for years. The United States is not prepared to enter into such struggle and would be in no position to do so.\nThe only way that we could hope to gain anything by entering upon hostilities with",
+     "four years. The people Of this country are not yet ready to make sacrifices for their govern ment.\n\nIn the past year or two there has been considerable talk about preparedness and we have come nearer being",
+     "several years and perhaps long after peace has been declared. 1t is estimated that there are at least $40 different languages spoken in continental countries.\n\nA young woman who was about to be married",
+     "five years. The United States has been trying to do away with all unnecessary wars.\nThe time is coming when this country will take part in many Of these European disputes and that may have much to do",
+     "three years. This is as certain as that time and space exist.\nBut there are many indications that the end will not be reached in three years.\n\nThe greatest of these Indications IS found in",
+     "three years. And when we see how much money is being wasted in this country on foolish ornaments and waste Of ammunition, do not you think that some day there may be another conflict which would last longer"
+    ],
+    "1913-inst": [
+     "The answer is \"Yes.\" The eventuality would be fraught with grave danger for all concerned; but its duration might depend upon the relative strength of belligerents.",
+     "Complete the foregoing thought with the following sentence: A great European conflict is more than probable.",
+     "The eventuality which would bring about such a struggle is remote; yet its possibility must not be forgotten.",
+     "A great war between the powers of Europe would probably be prolonged by many years.",
+     "The question is answered \"yes.\" The answer may be written thus : A great war would probably continue.",
+     "The answer is No."
+    ],
+    "1929-inst": [
+     "The greatest European conflict since the Napoleonic wars is expected to rage for many years after World War II.\nIt may be long drawn-out or short-lived; but its outcome cannot now be predicted with certainty.",
+     "The wars that have broken forth between European states since World War II are known as postwar conflicts.\nThey were mostly short-lived struggles such as Italy's Second Battle of the Piave and Poland's First Wars of Independence; some later became major conflicts like",
+     "The chances for a long-continued great European conflict are remote but not negligible. The outbreak of hostilities may be expected if some nation suddenly embarks on imperialistic expansion or military adventures.",
+     "A great European conflict might possibly involve many nations for several years.\nSuch wars have been known as \"European Wars,\" and they often spread from nation to nation and sometimes become world-wide conflicts such as those that followed Napoleonic campaigns; but their duration",
+     "The chances for general European wars arising from causes such as those suggested above depend upon political circumstances which may arise at any time.\nThey would be especially strong if there were differences between Austria-Hungary on the east, France on the west, Germany toward",
+     "The wars which have devastated so many states since 1870 are generally known as the Great War or World Wars.\nThey were fought between Germany on one side and France, Russia, Austria-Hungary, Italy, Belgium, Serbia, R"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.667,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    },
+    "1913": {
+     "frac_true": 1.0,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    },
+    "1929": {
+     "frac_true": 1.0,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    },
+    "1913-inst": {
+     "frac_true": 0.167,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.5,
+     "frac_false": 0.167,
+     "greedy_code": "TRUE"
+    }
+   }
+  },
+  "wwi_nat_spade": {
+   "free_prompt": "When the next great European war is fought, the soldiers will spend their days",
+   "gens": {
+    "1900": [
+     "and nights in drilling. The French army has been drilled for 10 years; it's officers have learned to handle a gun as well as they can handle sword or saber.\nThe German infantry are",
+     "and nights at home in preparing to meet it. The English army has already been increased by 10 per cent since last September. There are now $50 regiments of infantry (26",
+     "and nights in cooking. The French army has now a thousand cooks to 100 men; the English are said to have two hundred of these useful servants.\n\nThe New York World estimates that about",
+     "and nights in drilling for it. The new arms which have been adopted by all of Europe are said to be the best known.\nThe English infantry has two kinds Of rifles, one muzzle loading and one",
+     "and nights in drilling.\n\nThe man who can hold his hand when he has a gun on end and make no noise while firing it into an enemy's body may be considered by some people to have wonderful",
+     "in fighting and their nights In sleeping. There are few men now living who have seen Waterloo; but many old men will remember when they were young how it used to be looked forward to with so much"
+    ],
+    "1913": [
+     "in a state of semi-starvation. The French army has been reduced to 1000 men per regiment and it's food supply is so small that there are only two rations for each",
+     "and nights in trenches or forts.\nas we do now. but they will also use automobiles for carrying supplies to places where the ground is too rough for wagons.\n\nThe German army has already taken up",
+     "In shooting at targets. The French are experimenting with this method of warfare as a means OF training in rifle practice. They have made an elaborate system Of ranges and marksmen's stations along all the",
+     "of idleness in playing billiards. They are already doing this.\n\nThe Russians who are engaged IN a desperate struggle with Japan have found it necessary to use billiard balls.\nThey play these games under",
+     "in learning how to shoot accurately. The English army has for years been training its men at target practice with the rife.\nThe German military authorities have also long since established schools where instruction can be obtained",
+     "on one side of a field and their nights in an enemy's country.\nThere may be no actual fighting. but there VIII he constant danger from disease germs. The best means 10 prevent"
+    ],
+    "1929": [
+     "in trenches and be buried alive. The Germans have been using a new explosive called \"Tetranitrocellulose,\" which has just come into use.\n\nThe German army uses it for max",
+     "in trench fighting and the nights on watch against aerial at tacks. There will be no time to eat or sleep.\n\nThe American Red Cross has taken over a large section of one OF its hos pitfalls",
+     "in trench digging. The trenches are to be made by using up old roads and railroads that have been abandoned.\n\nThe British government has purchased from an American a patent on new method of making trenches.",
+     "and nights in digging trenches, not for the purpose of killing one an other or defending themselves from as saults. but solely to keep cool.\n\nThis fact was made clear by a man who has",
+     "and nights in trenches. The men with gas masks will be there as well as those whose business 1t Is to keep up the supply Of ammunltion; but the fighters themselves Will have",
+     "in marching and countermarch.\ning over rough ground. But the SOL diers of peace-the farmers-will be engaged not only In ploughing fur rows through which armies must pass but also"
+    ],
+    "1913-inst": [
+     "The soldier's life will be spent on active service; he will spend his days upon the battlefield.",
+     "The soldier's day was spent as follows:- The men slept soundly on hard ground without shelter or covering except such as they could gather from trees, bushes, or hay ricks; they were scantily fed with black bread and beef and drunk with",
+     "The following sentences state what would be true of men trained for military service after the coming Great War: The young soldier's career might lie between two camps.",
+     "The soldier's life of those days would be spent amid hard conditions and severe hardships.",
+     "The men who fight our wars today live through those conflicts with much of that same spirit which led us into them.",
+     "Correct answer: The armies of the Great Powers will fight their last wars before Europe falls."
+    ],
+    "1929-inst": [
+     "The soldier's day will be spent on battlefields where he spends his life.",
+     "The military forces that would decide future wars would be trained by the great powers for short-lived campaigns only; they might not exceed six divisions on each side.\nThey would consist of men skilled in modern weapons and commanded by experts who knew how to move quickly",
+     "When the next great European War is fought, those who fight it will find employment for weeks or months that they may have time for training; meanwhile officers' schools will be formed where men can learn much about warfare.",
+     "That eventful time has not yet arrived; when it does come, its forces of destruction may well sweep across Europe again, but there is no certainty that such will be the case.",
+     "The soldier's day when he fights his country’s battle will be spent upon some distant battlefield.",
+     "When the next great European war is fought the soldiers will spend their days — not necessarily under shellfire, but they'll be fighting somewhere on the Continent of Europe."
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.167,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.167,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.833,
+     "frac_false": 0.167,
+     "greedy_code": "TRUE"
+    },
+    "1913-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "wwi_cas_millions": {
+   "free_prompt": "A great war among the powers of Europe would cost the lives of",
+   "gens": {
+    "1900": [
+     "1000, 900 men. The United States could furnish $4,000 soldiers and sailors for three years.\nThe British army in India is about 50",
+     "40,- Ooo, 900 soldiers. The people of every country in this world have an interest In preserving peace between their own countries and with all others.\n\nThe United States has",
+     "4,0O0,- 600 men and more than $50 ships. If it were a war for independence or an in ternal conflict, how many more millions OF human",
+     "thousands and tens OF thou sands OF men, The American people might be called upon to take part in it. But what we want is not that our soldiers should fight on land or sea for European princes",
+     "40, ,OOO men. The United States army and navy could put down any insurrection that ever arose in this country, or else there are no means OF fighting it.\n\nThe government",
+     "at least $4,000 men. The French army numbers about 10000 men; Prussia has 325,- 900, Austria l7o"
+    ],
+    "1913": [
+     "100, ,OOO,- 600 men. The loss in money alone would be $50, O,Ooo,o 900 a day for each year Of",
+     "thousands of men, women and children.\nThat's how much bloodshed one bottle Of Perry Davis Painkiller costs. But it saves hundreds times its cost in suffering.\n\nWhy will you suffer pain? Buy",
+     "thou sands upon thousands and it is not i'm probable that it might entail a greater loss in blood than even the present struggle between Russia and Japan, for it will involve not only these two countries but",
+     "hundreds and thousands OF men, women and children. But there is a far more awful war being waged every day between disease and health--a terrible war which brings suffering aud death to countless numbers Of people",
+     "hundreds Of thousands, and millions OF dollars. A greater conaagration than that which destroyed San Francisco could not occur in one day or month.\nBut what has been done to prevent it? How",
+     "hun dreds Of thousands OF human beings and entail an enormous outlay upon both sides. But in a world where life is cheap, there are enough people who will want to take part In it to"
+    ],
+    "1929": [
+     "1000, 900 men. The loss in money and property is beyond computation.\n\nThe United States has been at peace for more than a century.\nWe have had no wars",
+     "500, ,OOC men. In a single battle more than 190., OOO were killed in an engagement on land and sea. The loss by disease alone is many",
+     "about 10 million men. The average man who has never been under fire, and is not engaged in any way in this struggle could save his life if he should stay at home from March to",
+     "two or three million men, and in that case it is said that there will be a famine in foodstuffs. The people are starving for want Of enough to eat.\nAnd this does not happen",
+     "1000. .o0g men, according to calculations made by Professor William NJ Davis, who is now in this country from Germany.\nHe says that there are no fewer than forty",
+     "$4,000.\n900 people.\n\n1t has been estimated that in a gen eral European conflict. with all its attendant horrors and devastation there will be at least 8"
+    ],
+    "1913-inst": [
+     "Correct answer: The Great War.",
+     "The answer is No. Complete it with the statement that great wars among civilized nations cause immense losses, both lifeless and monetary.",
+     "That is my deliberate judgment. Such conflicts as that which now rages between Germany, Austria-Hungary, Russia, Italy, France, Britain and Turkey must be fought out with terrible losses on both sides.",
+     "A great European War among nations is unthinkable; it would mean wholesale slaughter with terrible sacrifice both on land and sea.",
+     "The present situation is grave; it threatens serious international complications that may well lead to armed conflicts between European states.",
+     "Correct answer: A great European War."
+    ],
+    "1929-inst": [
+     "The great European War was fought between France on the side of Prussia and Austria-Hungary on that of Russia.\nIt began at Sadowa in July 1866; it ended with Sedan in September following, when Napoleon III",
+     "The world-war caused immense loss of life on land as well as at sea; it is estimated that over 50 million men were killed or disabled by wounds.",
+     "A great European war might well be costly both to life and wealth; it is likely that such wars have often destroyed more than numbers.",
+     "A great European conflict, if prolonged into another decade or so, could cause appalling loss of life—perhaps half a million victims in some battles—and enormous destruction that could leave ruin behind it.",
+     "A great war among the nations of Europe would be costly for them all, but it should not mean that their deaths could equal those involved.",
+     "The great European War was fought between Great Britain on the side of France, Prussia, Austria, and later other states against Russia; it began at Sadowa in Bohemia (Sedan) late June 7-8 18"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.167,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.667,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.333,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1913-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.333,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "wwi_con_thrones": {
+   "free_prompt": "When the great war among the powers is over, the old thrones of Europe will",
+   "gens": {
+    "1900": [
+     "be occupied by new sovereigns. The present rulers are not likely to remain long in their places.\nThe people who have been so much interested in the recent events at Constantinople and Rome may now turn",
+     "be again placed upon their ancient bases. The throne Of France has passed from Louis Napoleon to his son and heir; that of Great Britain from Queen Victoria 70 her daughter Princess Beatrice. The",
+     "have to be rebuilt. The new sovereigns are anxious for peace and they wish their people happy under the rule OF a stable monarchy.\nThey may not care much about republicanism or republicanism's institutions",
+     "have an opportunity to rest awhile before they are put in position for new and more stirring scenes. In Germany there has already been considerable talk about making a change Of rulers. The King is said TO be",
+     "be shattered in pieces. The King OF Prussia may fall with his kingdom into ruin; Austria and Russia may quarrel about Poland; France and England will fight for their supremacy on the ocean, while",
+     "be re-established on their ancient foundations. The King and Queen of Prussia will resume their throne in their native Germany.\nThe Emperor OF Russia has made up his mind that it would not do for him"
+    ],
+    "1913": [
+     "be in a bad way. The people are tired Of kings and emperors; they want to have their own rulers, who can govern them better than any foreigner could do.\nThe French republic",
+     "be occupied by men who do not know anything about art or literature.\nThe man who can make a good picture and paint it so that 1t looks like life Is king in his own country.",
+     "be more secure than they have ever been before. The people who inhabit them are not so intelligent nor SO wealthy as those that now rule in Russia and Germany; but their numbers exceed those Of the present",
+     "be re-established as they were before. The people are now to have their turn at it: and we may expect that they will make a vigorous effort for freedom.\nThere never was an age when there",
+     "have to be reconstructed. The new order OF things has not been founded on a rock; it stands on shifting sand.\nThe German Empire and all other gov ernments in Europe are but shells without an",
+     "have been broken and new ones erected that will be more stable. In this age OF science it has become pos sible to construct an airship or flying machine in which any person can travel from one"
+    ],
+    "1929": [
+     "be in a bad way. The kings and queens who have been so long accustomed to rule their subjects with an iron hand are going to find themselves without any power at all.\nThe people whom they used",
+     "be occupied by new rulers. The present royal families are too numerous for a peaceful reign. There may possibly come a time when it would not suit some ambitious monarch to rule an unwilling people and have his",
+     "be in danger. The nations have had enough of them and they may not return.\nThey are too frail to stand alone on a world shaken as it has been by this upheaval.\n\nThe new order",
+     "be tottering and crumbling. The nations which are now fighting against each other for supremacy and power on land or sea may fall apart in time; but these same powers that have been waging this bloody",
+     "be shaken to their very foundation.\nand there may result a chaos from which no one can tell what viii come.\n\nThe people Of England and France have been taught that kings are an out growth OF",
+     "be empty. The men and women who have held them are no more.\nThe new generation has not yet come into being to take their places in ruling the nations.\n\nThere is something pathetic about this disappearance"
+    ],
+    "1913-inst": [
+     "The great European War was concluded by the Treaty of Versailles on 20 September 1878; it ended with the overthrow of Napoleon III's Empire.",
+     "Correct answer: The new thrones.",
+     "That thought should be expressed as follows: The Great War has been fought between various European States during the nineteenth century; it culminated with victory for Russia on land and sea, but was followed by new adjustments among some of its Powers.",
+     "The Great War was waged by all European states for twenty years.",
+     "Correct answer : The Old Throness.",
+     "Correct answer: The peace after the Great War."
+    ],
+    "1929-inst": [
+     "The Great War was fought between France on the side of Prussia and Austria-Hungary; it ended with Napoleon III's defeat at Sedan (August 1870), followed by his abdication.",
+     "The peace that follows World War I is called the Treaty of Versailles (signed at Paris in September 1870). It was concluded between France on the one hand and Prussia, Austria-Hungary, Italy, Russia, Great Britain",
+     "The Treaty of Versailles was signed on June 28, 1919. The Peace Conference at Paris convened soon thereafter.\nOn July 30 it adopted the terms of peace with Germany; they were ratified by the United States Senate",
+     "The new peace that follows World War II will restore many ancient thrones to their former splendour.\nThis restoration can be accomplished by means of diplomatic agreements, especially those concerning the settlement of Germany's reparations, but it must depend upon national consent",
+     "The peace conference at Versailles was concluded on June 28, 1871; there it agreed upon certain terms for settling the Franco-Prussian War.\nThese were embodied in what became known as The Treaty of Peace with Germany signed",
+     "When the world peace has been established after World War I, there will be new thrones for many peoples throughout Europe."
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.167,
+     "frac_false": 0.167,
+     "greedy_code": "FALSE"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.333,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.167,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1913-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "dep_dur_slump": {
+   "free_prompt": "After the recent break in share prices, the years ahead for business will be",
+   "gens": {
+    "1900": [
+     "more than ordinarily active. The demand is already on a large scale and it promises to increase as time goes by.\nThe great crops of this country have been harvested and are being marketed with unprecedented rapidity",
+     "an exceptionally good one. With a larger supply of money and with better crops in Europe than ever before the market is likely to advance rapidly. The crop reports are now more encouraging and indicate that there will",
+     "very promising indeed. The year 1876 opens with good prospects. Money is plenty and cheap, there are abundant crops of cereals on hand, and a general feeling prevails that trade",
+     "more than ordinarily prosperous.\nThe record of 1894 is one Of remarkable advance. In almost every line OF trade and industry there has been steady gain; that is to say, if stocks",
+     "better. 1t is possible that this condition may come before the end OF 1903. and it seems to me probable that It has already begun.\n\nThe present stock market does not",
+     "good ones. The country is not overstocked with manufactured goods and the demand has not fallen off as much rs it did during last season.\nThe manufacturers are all busy aud they cannot produce more than"
+    ],
+    "1913": [
+     "a period of great activity. The country is now on an era Of prosperity and there are no signs that it's tide has turned.\n\nThe railroads have been making money during 1902",
+     "watched with much interest by all concerned. While it is true that some of our large industrial corpora tions have suffered loss from this cause, still others can show good profits.\nThis condition exists largely",
+     "brighter. If our people can keep their heads and do as they have been doing Of late they are bound to see great era of prosperity set in all around.\n\nThe Southern Pacific Company has put on two",
+     "one of prosperity. This has been fore shadowed for months past and it's full realization is near at hand.\n\nThe first week of April was a good month for railroad earnings but after that date there",
+     "a hard one to forecast. The first of January 1908 is always an uncertain date and it looks as if there might not be so much prosperity this year after all.\n\nThe present outlook",
+     "bright and promising. Our country has passed through a most trying period of financial depression.\nThe people have been forced to accept their full measure OF sacrifice.\n\nWe are now enjoying substantial prosperity. The great war"
+    ],
+    "1929": [
+     "a period of uncertainty. The country is still suffering from the effects Of war and it's attendant dis turbances.\n\nThe great majority OF people are not yet able to see clearly what they want or need",
+     "watched with unusual interest. The first few months of 1920 may prove to have more than ordinary influence on future trade and industry.\n\nThe immediate situation as affected by the war is one Of",
+     "of considerable interest. Some observers think that this is only temporary; others contend that it may last into 1920.\n\nThe general public has been dis appointed because so many stocks have dropped from",
+     "watched with great interest by every man who has had his eyes opened to the fact that there is not much money in Wall Street just now.\n\nThe most optimistic optimist can see no chance of a material",
+     "one of uncertainty. We are now passing through a period Of readjustment and we cannot tell what is coming.\n\nWe believe that many people would do better to take their money out Of the banks before",
+     "full of difficulties. In many lines there is an enormous amount Of capital tied up which cannot readily he released.\nThere are also great number OF new enterprises projected that can not now begin operation on account OF"
+    ],
+    "1913-inst": [
+     "The answer is \"Yes.\" The years ahead for business after the recent break in share prices were not bright; they seemed likely rather to prove dull.",
+     "The year after the late depression is commonly called 'the period of recovery.' The events leading up to that time led men's minds towards renewed confidence; they saw signs of returning prosperity.",
+     "The year's future is likely to see renewed activity after the late spring recessions. Business men may anticipate increased demand from the public as well as private customers.",
+     "That after the recent sharp decline in stock market shares there should have been recovery is a matter of common remark.",
+     "After the late slump of shares in Wall Street, which culminated about June or July 1920, the years ahead on general trade were not bright.",
+     "The following statement sums up my opinion concerning future trade activity as influenced by the current fall in shares."
+    ],
+    "1929-inst": [
+     "The year's future is likely to be characterized by uncertainty as regards price stability.",
+     "After the recent break in shares of companies engaged in steel manufacture there was considerable uncertainty regarding immediate markets; the year's outlook is likely therefore to be “after the event.” Business men expect sharp price changes during next spring when trade with the Soviet Union becomes",
+     "The year 1930 marks a sharp decline in industrial shares following the crisis of the early fall; but after mid-summer some improvement is noted with stocks rising slowly.",
+     "The period after the recent break in share prices is likely to see numerous changes both among companies and within industries.\nFor example, new investment of capital may lead to sharp increases or reductions in dividend policy; corporate management may adopt more efficient methods such as greater",
+     "The events of the past year have been such as might well lead anyone with experience in affairs into forecasting that after 4 or 5 more such declines (such as were experienced during March-April), following which there may possibly occur further price recessions",
+     "There is no present prospect that shares again will go up; rather their course has been downward during these past months."
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.667,
+     "greedy_code": "FALSE"
+    },
+    "1929": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913-inst": {
+     "frac_true": 0.167,
+     "frac_false": 0.333,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "dep_sev_fourth": {
+   "free_prompt": "In the hard years ahead, the number of men out of work will",
+   "gens": {
+    "1900": [
+     "be greater than ever before. The great majority Of them are not able to find employment at any price.\nThe wages offered by employers in these days are so small that they cannot afford to pay more for",
+     "be greater than ever. This is no accident.\nThis condition will prevail until the people have learned wisdom and acted in accordance with it.\n\nThe man who works on an average eight hours day for 8",
+     "be large and they will need money to buy food for themselves. If you want TO do good deed don't let your heart go into tears when this time comes, but get ready 10 help",
+     "be very large and there is great danger that this class may become disheartened. 1t must not he forgotten that it was largely because Of our civil war that the wages of labor have been",
+     "be very great. The wages which our laborers have received during these hard times are not sufficient to keep them alive and comfortable through one cold winter in New England.\n\nMany farmers who have worked for good",
+     "be greater than ever before. The farmer has an abundance to sell; his product is cheaper because he sells it early in the market, but there are so many people who cannot wait for this price that"
+    ],
+    "1913": [
+     "be greater than ever before. The great majority Of them are not able to get employment at any price and they must live on what little money they have saved from their earnings in former times.\n\nThe only",
+     "be much greater than in 1906. The country is not suffering from over-production or any other cause except that it has been so long without a change Of administration and there are always two",
+     "be larger than ever before. 1t is estimated that not less than $40,- OOO,Oooin wages in New York city has been tied up since May l by a strike OF",
+     "be very large. The army OF unemployed has grown until it is almost equal to that Of war time.\n\nThere are at least 100000 idle men in this country today and a",
+     "be increased by 5000. This is estimated as follows: The loss OF income to those who are cut off from their old sources Of employ ment amounts to $37,5OO",
+     "be greater than ever. The new tariff law makes it difficult for them to get employment at anything and every thing is more costly than 1t was year ago.\n\nAnd there are also great numder"
+    ],
+    "1929": [
+     "be greater than ever before. The war has made it impossible for many to find employment in their old lines.\nThe demand for labor is far beyond the supply.\n\nThere are two ways by which this condition",
+     "be greatly increased by the loss in production from unemployment.\nThe unemployed must have food and shelter or they cannot work. In a period Of general depression this is serious enough, but when such condition exists for",
+     "be greatly reduced by emigration. The tide is setting strongly in this direction at present and a considerable percentage Of our population which now lives on charity will seek new fields where they can find employment or become",
+     "be greater than ever. The country's labor shortage and its high wages are bound to lead TO a scarcity Of unskilled labor. 1t is going TO cost money in this emergency for workers",
+     "increase rapidly. The problem then is not how to get jobs for these men but what shall be done with them while they are unemployed. In some lines OF industry there may yet be no slack.\nBut",
+     "grow apace. In all probability there viii be many who will not be able to find places because they cannot earn enough to support them selves and their families in COM fort.\n\nWhat then is going"
+    ],
+    "1913-inst": [
+     "The answer is \"No.\" The numbers of unemployed men will increase rather than diminish as time goes on.",
+     "The hard years ahead for many unemployed depend upon their numbers rather than on any sudden change that may overtake industry. The problem is how they can be kept from becoming public charges.",
+     "The answer is \"Yes\". It should be read as follows: The hard days ahead require that many more persons now engaged upon unskilled labour become skilled workers.",
+     "Correct answer: Out-of-work.",
+     "That is my deliberate judgment; it is based upon careful study both of contemporary conditions as they appear among workers and on past experience.",
+     "This sentence is incomplete without the first word; it should be completed by saying that \"the number of unemployed will probably increase.\" The second part may read thus: 'The numbers already engaged on Government jobs must soon begin to feel their enforced idleness.\""
+    ],
+    "1929-inst": [
+     "The numbers of unemployed persons is estimated at about two million; their condition varies from time to time with unemployment.",
+     "The year 1930 is expected by statisticians to be marked as a time when many thousands of workers will seek employment but fail to find it.",
+     "The problem is that unemployment continues despite efforts by Congress to alleviate it through public works, programs for assisting displaced persons (which have been widely praised), employment management reforms such as wage bargaining agreements and State and Federal regulation.",
+     "The problem is compounded by the growing numbers of those who seek employment for their skills rather than wages alone. The number of unemployed will depend on many factors—such as unemployment insurance programs that fail—and also upon public policies governing jobs.",
+     "The numbers unemployed among male workers over 65 is estimated at about four million.\nThese figures reflect severe unemployment during recent winter months when demand for goods was low and many manufacturers found themselves unable to fill orders promptly due to lack of raw materials or labor",
+     "In my judgment, it is likely that by 1850 there were fewer unemployed than had been known for fifty years."
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.667,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.333,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.667,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    },
+    "1913-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.333,
+     "frac_false": 0.167,
+     "greedy_code": "TRUE"
+    }
+   }
+  },
+  "dep_bank_fail": {
+   "free_prompt": "The nation's banks, in the coming years, will",
+   "gens": {
+    "1900": [
+     "be a great factor in determining what is to become of our currency. The national bank system has been tried and found wanting.\nIt was not only unsatisfactory as an instrument for regulating prices but it",
+     "probably be the first to experience a general decline of interest rates on deposits. The growth of our trade and industry has been so remarkable that we are beginning to draw upon resources which were supposed never to have",
+     "be obliged to borrow again from their capital and deposits. If they do not have a surplus amount of gold equal to the legal tender notes on deposit with them for circulation as money, it is plain that",
+     "be the most powerful agencies for good or evil. The national banking system is a magnificent instrumentality of exchange and credit.\nIt has saved many lives from starvation by its prompt payment on demand; it has",
+     "have to be largely extended. There are now some 700 bank officials throughout the country; of these there are about 500 who receive salaries ranging from $1,000",
+     "be the greatest sufferers from an unwise financial policy. The people must pay for all things they buy and sell; there are no exceptions to this rule.\nBut the most serious danger which is now threatening"
+    ],
+    "1913": [
+     "be required to pay out more money than ever before. The demand for currency is greater now than it has been at any time since 1893.\nThis means that there must be a larger",
+     "be obliged to issue from $3.50 TO 1894, 600 of circulating notes year ly.\n\nIn some respects this is an advantage as compared with present conditions.",
+     "be required to pay 10 per cent. interest on deposits.\n\nSenator Beveridge of Indiana has been designated by Speaker Cannon to lead his forces against President Taft and Secretary Nagei for reelection",
+     "be required to pay a tax of per cent. upon their capital stock and surplus fund on or before December 81 each year. This law was passed at this session by the national legislature.\n\nA",
+     "be forced to make deposits with their sub-treasuries. This depositing Of funds is now being done by a number of them.\nThis money will remain In these SUBJ treasures until there shall have",
+     "not be able to supply it with more than $500. 600, Ooo-a sum equal to about one-fourth of its annual expenditures.\nFor this reason some people are"
+    ],
+    "1929": [
+     "be called upon to meet a greater volume of business than ever before. The country is entering on an era Of unprecedented prosperity and expansion.\nThis means that our banking facilities must keep pace with this growth.",
+     "be obliged to become an important factor In our economic life. The federal reserve act has made them great power for good or evil; whether they shall prove worthy Of their trust and influence depends very largely upon",
+     "be called on for an annual contribution of $125.00 to cover their share Of expense of maintaining a government service which has become almost Indispensable.\n\nThis is shown by estimates given",
+     "be called upon to face many perplexing problems. The first of these which has arisen is that affecting interest rates and rediscount privileges.\nAt a time when it would seem as if the banking system were",
+     "be called upon to take an enormous part of government financing. They are going into new fields as never before.\nThey can and must give to their customers a better service than ever before if they wish to",
+     "be under constant surveillance and inspection by this committee of the American Bankers Association. This has been agreed to at a meeting of bankers from every State in the Union, called for that purpose.\n\nThis is"
+    ],
+    "1913-inst": [
+     "The national banking system of the United States is based upon state charters granted by the states; it was established for local convenience rather than as a central institution serving all parts of the country.",
+     "Correct answer: They (the national banks) will.",
+     "The Nation's Banks will be powerful institutions for aiding commerce during recent decades of business expansion.",
+     "Correct answer: They will.",
+     "The nation's banking system is now becoming more effective as its resources develop. In recent decades the number of national banks has been increased from time to time until there are approximately sixty-four hundred at present.",
+     "The bank has become a national institution since it was established by Congress as a branch of the Treasury Department early in our national life. A public service corporation, its operations have long been regulated under federal law."
+    ],
+    "1929-inst": [
+     "The national banking system of the United States is now administered by twelve Federal Reserve Banks located at New York City, Chicago, St.\nLouis, Cleveland, Boston, Atlanta, Minneapolis, Dallas, San Francisco, Richmond, Baltimore, Washington, and Denver;",
+     "The nation's banks, through their institutions of credit, such as Federal Reserve System member banks, should strengthen the dollar by encouraging savings investment; expanding business enterprise that creates new capital resources for productive uses while safeguarding consumers' purchasing power.",
+     "The national banks of the United States have shown extraordinary strength under severe stress.\nTheir financial structure has enabled them successfully to meet heavy strains that would severely test any other banking system; they continue to serve as the chief reliance for liquidity and strong reserve policies.",
+     "The Nation's Banks during recent decades have come more and more into national public esteem for their sound financial management and effective service.",
+     "The national bank system of America was created by federal charter granted after 1863; it is administered under central government supervision.\nUnder its provisions, state-chartered banking institutions were allowed access to national funds for lending on United States Government bonds but",
+     "The nation's banking system remains what it has been through the decades—a strong instrument of public control and public confidence."
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.667,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "weim_central_europe": {
+   "free_prompt": "Free government across central Europe, over the next ten years, will",
+   "gens": {
+    "1900": [
+     "be a matter of grave concern to all who have watched with interest and sympathy the progress of events in that quarter. The recent war between France and Germany has been one OF those great military movements which are",
+     "be in a measure due to England's influence with France and Italy. The former power is always on guard for an opportunity of recovering her lost colonies.\nIt was not until the year 182",
+     "be a problem which it is difficult to solve. The Emperor of Russia and King Alfonso have shown that in their respective countries they are able to maintain peace with an army Of 600",
+     "not be a thing to make much of by some who think that they can live without it. A new phase OF Russian history has been opened up by the murder Of Count Loris Melikoff.",
+     "probably be accomplished by peaceful and gradual processes. If this is SO it seems probable that peace with a large part Of Germany might he secured for many generations to come.\nGermany has become accustomed TO her present",
+     "mean more than any event which has occurred for many generations. The peace and happiness of Germany is dependent upon her political system.\nIf she should be disturbed by revolution or anarchy there would probably be no"
+    ],
+    "1913": [
+     "be a matter of history. The great powers have agreed to this and are now busily engaged in preparing for war.\n\nThe agreement is based on the fact that Russia has been defeated by Japan.\nThis",
+     "not be as safe or as stable\" says a writer in Success Magazine. 1.-THE old despotisms are too strong and too well organized. The new republics will require great care from",
+     "be a great deal more than that. The world cannot afford to lose it.\n\nThe question is whether our own people shall suffer by this revolution or not.\nThey should be able TO profit very largely if",
+     "be a matter of little moment compared with what has already been accomplished in this direction.\n\nWe have seen how, from one cause and another. England and France are drifting apart; we shall see presently that",
+     "be an event of more than passing Importance. The people Of Austria and Hungary are not ready for it; they must learn to govern themselves.\n\nThe first thing that strikes one when he thinks about this subject",
+     "depend largely on whether Russia and Germany continue their present policy of friendship or not.\n\nThe United States has already taken steps to see that it's interests in China are respected. England is watching with a keen"
+    ],
+    "1929": [
+     "be a matter of history. The German people have decided that it shall not happen.\n\nThe decision was reached at Weimar by an overwhelming majority in favor Of accepting President Wilson's fourteen points and making peace",
+     "depend largely upon what is done by France in her effort to restore order and reorganize her shattered army.\nThis statement was made today on high authority as a result of informaton received from Paris.",
+     "be a practical impossibility,\" said Sir Auckland Geddes at luncheon given in honor of him by 20 members OF the New York Press Club.\n\nThis is my deliberate opinion\" he continued.",
+     "be a reality if President Ebert's new cabinet has it's way. With an apparent determination to do nothing which would arouse the antagonism of France and England they are going in for reconstruction.",
+     "depend largely upon what Germany does to-day in Alsace-Lorraine,\" said DIR. Edward T. Devine of New York.\nwho is visiting his family here. In this matter he represents the American",
+     "be assured by a new alliance between Great Britain. France and Russia.\naccording to statements made in London this week before the House of Commons.\n\nThe British Premier's statement was in reply 10 one"
+    ],
+    "1913-inst": [
+     "The answer is \"Yes.\" The free governments of Germany, Austria-Hungary, Czechoslovakia, Poland, Rumania, Bulgaria, Italy, Spain, Portugal, Norway, Sweden, Denmark, Holland, Belgium, France, Switzerland,",
+     "I have formed no judgment on free government in Germany within ten years after its proclamation; but I do believe that it would not be wise for the German people to try the experiment of establishing their own form before that time.",
+     "The idea of free self-government is expressed by Bismarck's words \"free Germany\" as applied to Prussia's leadership during his period.",
+     "Correct answer: Complete free government throughout Central European countries.",
+     "A free state of Central Europe is assured for decades beyond doubt if only its peoples can be taught self-control under constitutional forms.",
+     "The completed expression for \"Free Government Across Central Europe\" is \"Complete freedom of self-government by the peoples of Germany.\" This phrase was first coined as a political watchword in Vienna about two decades ago and has long been used on public documents."
+    ],
+    "1929-inst": [
+     "The free governments of Central Europe, during the coming decade, will be subject to severe tests.\nThey must prove their capacity for self-government under difficult conditions; they must demonstrate that democratic institutions can survive amidst political turmoil and social change.",
+     "Free government is now being established throughout Central and Eastern Europe by peoples seeking independence from Austria-Hungary.\nThe governments set up have generally been modelled after American or British forms of democratic statehood with representative assemblies chosen for limited terms and ministers accountable directly",
+     "The following thoughts will conclude this conclusion: The United States should make clear its commitment to support free institutions across Central Europe; these must not be undermined by foreign interference.",
+     "The free governments of Central Europe should come after a decade has passed.\nThis is our sober judgment about these Governments now emerging from chaos; they should be established within another decade or two as the peoples rise into self-consciousness through their experience with war,",
+     "The free governments that must be established throughout Central Europe—especially along the Rhine-will not come about without some sharp internal conflicts.",
+     "Free government across central Europe during the next decade is likely to involve constitutional changes that may make for more orderly parliamentary life."
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929-inst": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  }
+ },
+ "by_model": {}
+}

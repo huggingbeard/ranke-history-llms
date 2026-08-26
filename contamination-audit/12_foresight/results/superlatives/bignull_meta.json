@@ -1,0 +1,1948 @@
+[
+ {
+  "cat": "war",
+  "name": "Franco-Prussian War",
+  "year": 1870,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Crimean War",
+  "year": 1853,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Napoleonic Wars",
+  "year": 1803,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "American Civil War",
+  "year": 1861,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Second Boer War",
+  "year": 1899,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Thirty Years' War",
+  "year": 1618,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "American Revolutionary War",
+  "year": 1775,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Spanish–American War",
+  "year": 1898,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Russo-Japanese War",
+  "year": 1904,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "World War I",
+  "year": 1914,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Seven Years' War",
+  "year": 1756,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Mexican–American War",
+  "year": 1846,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "English Civil War",
+  "year": 1642,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Wars of the Roses",
+  "year": 1455,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Russian Civil War",
+  "year": 1917,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "First Sino-Japanese War",
+  "year": 1894,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Hundred Years' War",
+  "year": 1337,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "Balkan Wars",
+  "year": 1912,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Bavarian Succession",
+  "year": 1778,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Zanzibar War",
+  "year": 1896,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of Jenkins' Ear",
+  "year": 1739,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Klang War",
+  "year": 1866,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Toledo War",
+  "year": 1835,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Pig War",
+  "year": 1859,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Cape Frontier Wars",
+  "year": 1779,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Pastry War",
+  "year": 1838,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Oranges",
+  "year": 1801,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Aroostook War",
+  "year": 1838,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Golden Stool",
+  "year": 1900,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Aro War",
+  "year": 1901,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Utah War",
+  "year": 1857,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Stray Dog",
+  "year": 1925,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Confederation",
+  "year": 1836,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Sonderbund War",
+  "year": 1847,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Padri War",
+  "year": 1803,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Java War",
+  "year": 1825,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of Devolution",
+  "year": 1667,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Quadruple Alliance",
+  "year": 1718,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Polish Succession",
+  "year": 1733,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "Kalmar War",
+  "year": 1611,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Rhenish Succession",
+  "year": 1662,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Moravian War",
+  "year": 1688,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Cornish Succession",
+  "year": 1701,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Lusatian Succession",
+  "year": 1713,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Lombard War",
+  "year": 1725,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Wallachian War",
+  "year": 1738,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Frisian Succession",
+  "year": 1749,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Savoyard War",
+  "year": 1756,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Bergamasque Succession",
+  "year": 1763,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Valdostan Succession",
+  "year": 1774,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Roussillon Succession",
+  "year": 1785,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Carniolan Succession",
+  "year": 1792,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Bavarian War",
+  "year": 1803,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Estonian War",
+  "year": 1812,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Dalmatian Succession",
+  "year": 1821,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Genoese War",
+  "year": 1834,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Vorarlberg Succession",
+  "year": 1848,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "Anglo-Ligurian War",
+  "year": 1859,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Auvergnat Succession",
+  "year": 1866,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "war",
+  "name": "War of the Picard Succession",
+  "year": 1877,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Wilhelm Röntgen",
+  "year": 1901,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Henri Becquerel",
+  "year": 1903,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Pierre Curie",
+  "year": 1903,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Marie Curie",
+  "year": 1903,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Ivan Pavlov",
+  "year": 1904,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Robert Koch",
+  "year": 1905,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Theodore Roosevelt",
+  "year": 1906,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Rudyard Kipling",
+  "year": 1907,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Ernest Rutherford",
+  "year": 1908,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Guglielmo Marconi",
+  "year": 1909,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Selma Lagerlöf",
+  "year": 1909,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Rabindranath Tagore",
+  "year": 1913,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Romain Rolland",
+  "year": 1915,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Max Planck",
+  "year": 1918,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Fritz Haber",
+  "year": 1918,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Woodrow Wilson",
+  "year": 1919,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Knut Hamsun",
+  "year": 1920,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Albert Einstein",
+  "year": 1921,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Anatole France",
+  "year": 1921,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Niels Bohr",
+  "year": 1922,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "William Butler Yeats",
+  "year": 1923,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "George Bernard Shaw",
+  "year": 1925,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Henry Dunant",
+  "year": 1901,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "nobel",
+  "name": "Sully Prudhomme",
+  "year": 1901,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Élie Ducommun",
+  "year": 1902,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Charles Albert Gobat",
+  "year": 1902,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Bjørnstjerne Bjørnson",
+  "year": 1903,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Frédéric Mistral",
+  "year": 1904,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "José Echegaray",
+  "year": 1904,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Giosuè Carducci",
+  "year": 1906,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Eduard Buchner",
+  "year": 1907,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Rudolf Christoph Eucken",
+  "year": 1908,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Gabriel Lippmann",
+  "year": 1908,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Klas Pontus Arnoldson",
+  "year": 1908,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Paul Heyse",
+  "year": 1910,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Johannes Diderik van der Waals",
+  "year": 1910,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Allvar Gullstrand",
+  "year": 1911,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Nils Gustaf Dalén",
+  "year": 1912,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Charles Richet",
+  "year": 1913,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Robert Bárány",
+  "year": 1914,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Richard Willstätter",
+  "year": 1915,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Carl Spitteler",
+  "year": 1919,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Charles Édouard Guillaume",
+  "year": 1920,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Jacinto Benavente",
+  "year": 1922,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Manne Siegbahn",
+  "year": 1924,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Grazia Deledda",
+  "year": 1926,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Johannes Fibiger",
+  "year": 1926,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "nobel",
+  "name": "Aldous Brennt",
+  "year": 1902,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Emeric Tolliver",
+  "year": 1904,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Casimir Vantorre",
+  "year": 1905,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Thorvald Mesk",
+  "year": 1907,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Reinald Osterhues",
+  "year": 1909,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Matthias Vellinga",
+  "year": 1911,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Hendrik Salvoort",
+  "year": 1913,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Aurelio Fenn",
+  "year": 1915,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Lucien Vaandrager",
+  "year": 1917,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Jasper Wendtland",
+  "year": 1919,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Emil Norrbo",
+  "year": 1921,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Nils Ekvall",
+  "year": 1923,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Anselm Doryk",
+  "year": 1925,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "nobel",
+  "name": "Viktor Salmensuu",
+  "year": 1927,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Leonardo da Vinci",
+  "year": 1452,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Albrecht Dürer",
+  "year": 1471,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Michelangelo",
+  "year": 1475,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Raphael",
+  "year": 1483,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "El Greco",
+  "year": 1541,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Caravaggio",
+  "year": 1571,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Peter Paul Rubens",
+  "year": 1577,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Diego Velázquez",
+  "year": 1599,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Rembrandt",
+  "year": 1606,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Johannes Vermeer",
+  "year": 1632,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Francisco Goya",
+  "year": 1746,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Katsushika Hokusai",
+  "year": 1760,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "J.M.W. Turner",
+  "year": 1775,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Édouard Manet",
+  "year": 1832,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Edgar Degas",
+  "year": 1834,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Paul Cézanne",
+  "year": 1839,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Claude Monet",
+  "year": 1840,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Pierre-Auguste Renoir",
+  "year": 1841,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Paul Gauguin",
+  "year": 1848,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Vincent van Gogh",
+  "year": 1853,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Gustav Klimt",
+  "year": 1862,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Wassily Kandinsky",
+  "year": 1866,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Henri Matisse",
+  "year": 1869,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Pablo Picasso",
+  "year": 1881,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Georgia O'Keeffe",
+  "year": 1887,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Salvador Dalí",
+  "year": 1904,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "painter",
+  "name": "Cornelis van Poelenburgh",
+  "year": 1594,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Adriaen van Ostade",
+  "year": 1610,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Bartholomeus van der Helst",
+  "year": 1613,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Emanuel de Witte",
+  "year": 1617,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Willem Kalf",
+  "year": 1619,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Philips Wouwerman",
+  "year": 1619,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Nicolaes Berchem",
+  "year": 1620,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Carel Fabritius",
+  "year": 1622,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Frans van Mieris the Elder",
+  "year": 1635,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Caspar Netscher",
+  "year": 1639,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Godfried Schalcken",
+  "year": 1643,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Ernest Meissonier",
+  "year": 1815,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Thomas Couture",
+  "year": 1815,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Augustus Egg",
+  "year": 1816,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "William Powell Frith",
+  "year": 1819,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Alexandre Cabanel",
+  "year": 1823,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Edwin Long",
+  "year": 1829,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Vasily Perov",
+  "year": 1834,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Marcus Stone",
+  "year": 1840,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Albert Joseph Moore",
+  "year": 1841,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Solomon J. Solomon",
+  "year": 1860,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "John William Godward",
+  "year": 1861,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "painter",
+  "name": "Cornelis Vandeghast",
+  "year": 1602,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Bartolomeo Ferren",
+  "year": 1618,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Adriaen Wouterloot",
+  "year": 1631,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Matthias Grunholt",
+  "year": 1644,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Piet Roelvink",
+  "year": 1657,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Lorenzo Cavagni",
+  "year": 1670,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Willem de Grave",
+  "year": 1688,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Sebastiano Falchetti",
+  "year": 1701,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Frans Oosterlinck",
+  "year": 1722,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Jacobus Reindert",
+  "year": 1745,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Aert van Sloten",
+  "year": 1768,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Niccolo Sarpetti",
+  "year": 1790,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Karel Munsterhuis",
+  "year": 1815,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "painter",
+  "name": "Rutger Blomhoff",
+  "year": 1840,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Charles Dickens",
+  "year": 1812,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Jane Austen",
+  "year": 1775,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Leo Tolstoy",
+  "year": 1828,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Mark Twain",
+  "year": 1835,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Victor Hugo",
+  "year": 1802,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Fyodor Dostoevsky",
+  "year": 1821,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Charlotte Brontë",
+  "year": 1816,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Emily Brontë",
+  "year": 1818,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Herman Melville",
+  "year": 1819,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Nathaniel Hawthorne",
+  "year": 1804,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "George Eliot",
+  "year": 1819,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Gustave Flaubert",
+  "year": 1821,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Thomas Hardy",
+  "year": 1840,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Oscar Wilde",
+  "year": 1854,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Jules Verne",
+  "year": 1828,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Alexandre Dumas",
+  "year": 1802,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Henry James",
+  "year": 1843,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Joseph Conrad",
+  "year": 1857,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Virginia Woolf",
+  "year": 1882,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "James Joyce",
+  "year": 1882,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Ernest Hemingway",
+  "year": 1899,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "F. Scott Fitzgerald",
+  "year": 1896,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Franz Kafka",
+  "year": 1883,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "novelist",
+  "name": "Mary Elizabeth Braddon",
+  "year": 1835,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Charlotte Mary Yonge",
+  "year": 1823,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Fanny Burney",
+  "year": 1752,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Ann Radcliffe",
+  "year": 1764,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "R. D. Blackmore",
+  "year": 1825,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Margaret Oliphant",
+  "year": 1828,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Dinah Craik",
+  "year": 1826,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Ellen Wood",
+  "year": 1814,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Ouida",
+  "year": 1839,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Charles Reade",
+  "year": 1814,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "George Gissing",
+  "year": 1857,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Sabine Baring-Gould",
+  "year": 1834,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Rhoda Broughton",
+  "year": 1840,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Elizabeth Inchbald",
+  "year": 1753,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Susan Ferrier",
+  "year": 1782,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Catherine Gore",
+  "year": 1798,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Grant Allen",
+  "year": 1848,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "William Harrison Ainsworth",
+  "year": 1805,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Frances Milton Trollope",
+  "year": 1779,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Amelia B. Edwards",
+  "year": 1831,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Mary Augusta Ward",
+  "year": 1851,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Flora Annie Steel",
+  "year": 1847,
+  "real_entity": true,
+  "cls": "obscure"
+ },
+ {
+  "cat": "novelist",
+  "name": "Marcus Ashwell",
+  "year": 1742,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Julian Hartsook",
+  "year": 1758,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Miriam Caldstone",
+  "year": 1771,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Edmund Farrsley",
+  "year": 1784,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Beatrix Vennor",
+  "year": 1799,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Henry Alderwick",
+  "year": 1810,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Clara Mossbeck",
+  "year": 1821,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Rupert Halbane",
+  "year": 1830,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Isolde Marrable",
+  "year": 1839,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Gideon Thornby",
+  "year": 1848,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Cecily Harnwell",
+  "year": 1855,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Vivian Aldrington",
+  "year": 1863,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Nathaniel Crulls",
+  "year": 1872,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "novelist",
+  "name": "Lucian Farthing",
+  "year": 1885,
+  "real_entity": false,
+  "cls": "invented"
+ },
+ {
+  "cat": "president",
+  "name": "George Washington",
+  "year": 1789,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Thomas Jefferson",
+  "year": 1801,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "James Madison",
+  "year": 1809,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "James Monroe",
+  "year": 1817,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Andrew Jackson",
+  "year": 1829,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Martin Van Buren",
+  "year": 1837,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "James K. Polk",
+  "year": 1845,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Millard Fillmore",
+  "year": 1850,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Franklin Pierce",
+  "year": 1853,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "James Buchanan",
+  "year": 1857,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Abraham Lincoln",
+  "year": 1861,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Ulysses S. Grant",
+  "year": 1869,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Rutherford B. Hayes",
+  "year": 1877,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Chester A. Arthur",
+  "year": 1881,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Grover Cleveland",
+  "year": 1885,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Benjamin Harrison",
+  "year": 1889,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "William McKinley",
+  "year": 1897,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Theodore Roosevelt",
+  "year": 1901,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "William Howard Taft",
+  "year": 1909,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Woodrow Wilson",
+  "year": 1913,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Warren G. Harding",
+  "year": 1921,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Calvin Coolidge",
+  "year": 1923,
+  "real_entity": true,
+  "cls": "famous"
+ },
+ {
+  "cat": "president",
+  "name": "Benjamin Franklin",
+  "year": 1785,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Alexander Hamilton",
+  "year": 1793,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Frederick Douglass",
+  "year": 1870,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Mark Twain",
+  "year": 1885,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Thomas Edison",
+  "year": 1900,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Henry Ford",
+  "year": 1915,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Andrew Carnegie",
+  "year": 1895,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Susan B. Anthony",
+  "year": 1875,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Daniel Webster",
+  "year": 1840,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Henry Clay",
+  "year": 1830,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "John C. Calhoun",
+  "year": 1825,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "William Jennings Bryan",
+  "year": 1900,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "Aaron Burr",
+  "year": 1805,
+  "real_entity": true,
+  "cls": "false"
+ },
+ {
+  "cat": "president",
+  "name": "P. T. Barnum",
+  "year": 1870,
+  "real_entity": true,
+  "cls": "false"
+ }
+]

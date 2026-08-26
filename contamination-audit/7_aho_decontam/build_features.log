@@ -1,0 +1,8 @@
+  5000 streamed | modern=41 old=4925
+  10000 streamed | modern=156 old=9790
+  15000 streamed | modern=279 old=14632
+  20000 streamed | modern=311 old=19516
+  25000 streamed | modern=351 old=24439
+
+DONE: streamed 80000 | modern (>=1946) = 880 | old (<=1929) = 25000
+saved -> D:\UZHechist Dropbox\Joachim Voth\claudecode\ranke-contamination-audit\7_aho_decontam\features.json

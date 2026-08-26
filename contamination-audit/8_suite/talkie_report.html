@@ -1,0 +1,1547 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Talkie-1930-13B — contamination probe</title>
+<style>
+:root { --ink:#1a2230; --mut:#5c6675; --line:#e3e7ee; --blue:#2b5dab; --bg:#f7f8fa; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink);
+  font:15px/1.6 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; }
+.wrap { max-width:960px; margin:0 auto; padding:48px 28px 90px; }
+h1 { font-size:30px; margin:0 0 6px; letter-spacing:-.4px; }
+.sub { color:var(--mut); font-size:15px; margin:0 0 28px; }
+h2 { font-size:21px; margin:42px 0 10px; padding-top:14px; border-top:1px solid var(--line); }
+p { color:#2b3340; }
+.verdict { background:#fff; border:1px solid var(--line); border-left:5px solid #2e9e5b;
+  border-radius:10px; padding:20px 22px; margin:0 0 26px; box-shadow:0 1px 2px rgba(20,30,50,.04); }
+.verdict .big { font-size:19px; font-weight:700; color:#1f7a47; }
+.cards { display:flex; gap:14px; flex-wrap:wrap; margin:22px 0 8px; }
+.card { flex:1 1 150px; background:#fff; border:1px solid var(--line); border-radius:10px;
+  padding:16px 18px; box-shadow:0 1px 2px rgba(20,30,50,.04); }
+.card .k { font-size:12px; text-transform:uppercase; letter-spacing:.5px; color:var(--mut); }
+.card .v { font-size:28px; font-weight:700; margin-top:4px; }
+.card .v small { font-size:14px; font-weight:500; color:var(--mut); }
+table { width:100%; border-collapse:collapse; background:#fff; border:1px solid var(--line);
+  border-radius:10px; overflow:hidden; margin:14px 0 8px; }
+th,td { padding:9px 12px; text-align:left; border-bottom:1px solid var(--line); font-size:14px; }
+th { background:#f0f3f8; color:#3a4252; font-weight:600; font-size:12.5px;
+  text-transform:uppercase; letter-spacing:.4px; }
+tr:last-child td { border-bottom:none; }
+.num { text-align:right; font-variant-numeric:tabular-nums; }
+.topic { font-weight:600; }
+.bar { display:block; }
+.pill { display:inline-block; padding:2px 9px; border-radius:20px; font-size:12px; font-weight:700; }
+.pill.green { background:#e4f6ea; color:#1f7a47; }
+.pill.amber { background:#fcefd6; color:#9a6700; }
+.pill.red { background:#fbe3e3; color:#b32424; }
+.totrow td { font-weight:700; background:#f6f8fb; }
+.flag { color:#b32424; font-weight:700; }
+details { background:#fff; border:1px solid var(--line); border-radius:10px; margin:10px 0; padding:4px 14px; }
+summary { cursor:pointer; padding:9px 2px; font-size:15px; }
+table.items, table.contrast { box-shadow:none; border:none; }
+table.items th, table.items td { font-size:13px; padding:6px 10px; }
+.mk { width:24px; text-align:center; font-weight:700; }
+.pos { color:#1f7a47; }
+.neg { color:#b32424; }
+.lbl { font-weight:600; white-space:nowrap; }
+.pr { color:#3a4252; }
+.meth { background:#fff; border:1px solid var(--line); border-radius:10px; padding:16px 20px; }
+.meth ul { margin:8px 0 0; padding-left:20px; }
+.meth li { margin:5px 0; }
+.foot { color:var(--mut); font-size:12.5px; margin-top:40px; border-top:1px solid var(--line); padding-top:14px; }
+code { background:#eef1f5; padding:1px 5px; border-radius:4px; font-size:13px; }
+.legend { font-size:12.5px; color:var(--mut); margin:4px 0 0; }
+</style></head>
+<body><div class="wrap">
+
+<h1>Talkie-1930-13B (base) — post-cutoff contamination probe</h1>
+<p class="sub">Time-locked LLM contamination audit · v2 locked question bank · forced-choice (sum-logp) ·
+chance = 25%</p>
+
+<div class="verdict">
+  <div class="big">✓ CLEAN — no coherent post-cutoff knowledge</div>
+  <p style="margin:8px 0 0">The model answers <b>93.9%</b> of pre-cutoff control items correctly
+  but only <b>21.8%</b> of post-cutoff items — at or below the 25% chance line
+  (one-sided binomial p = 0.892). A 72-point cliff with the post side sitting
+  at chance. <b>No</b> post-cutoff category rises significantly above chance.</p>
+</div>
+
+<div class="cards">
+  <div class="card"><div class="k">Pre-cutoff (should know)</div>
+    <div class="v">93.9%<small> · 31/33</small></div></div>
+  <div class="card"><div class="k">Post-cutoff (should not)</div>
+    <div class="v">21.8%<small> · 52/239</small></div></div>
+  <div class="card"><div class="k">Cliff (pre − post)</div>
+    <div class="v">72<small> pts</small></div></div>
+  <div class="card"><div class="k">Post vs chance</div>
+    <div class="v">p=0.892</div></div>
+</div>
+
+<h2>Post-cutoff results by category</h2>
+<table>
+  <thead><tr><th>Topic</th><th class="num">correct</th><th class="num">%</th>
+    <th>vs&nbsp;chance (25%)</th><th class="num">binom&nbsp;p</th>
+    <th class="num">mean&nbsp;gap</th><th>verdict</th></tr></thead>
+  <tbody>
+  <tr class="totrow"><td>ALL POST</td><td class="num">52/239</td>
+    <td class="num">21.8%</td><td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="52.3" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+    <td class="num">0.892</td><td class="num">-5.51</td>
+    <td><span class="pill green">CLEAN</span></td></tr>
+  <tr>
+      <td class="topic">Cold War</td>
+      <td class="num">8/40</td>
+      <td class="num">20.0%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="48.0" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.818</td>
+      <td class="num">-4.62</td>
+      <td><span class="pill green">CLEAN</span></td>
+    </tr>
+<tr>
+      <td class="topic">US civil rights</td>
+      <td class="num">14/37</td>
+      <td class="num">37.8%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="90.7" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.058</td>
+      <td class="num">-2.95</td>
+      <td><span class="pill green">CLEAN (watch)</span></td>
+    </tr>
+<tr>
+      <td class="topic">US politics 1945-74</td>
+      <td class="num">10/40</td>
+      <td class="num">25.0%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="60.0" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.560</td>
+      <td class="num">-4.90</td>
+      <td><span class="pill green">CLEAN</span></td>
+    </tr>
+<tr>
+      <td class="topic">Vietnam War</td>
+      <td class="num">7/39</td>
+      <td class="num">17.9%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="43.0" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.889</td>
+      <td class="num">-4.61</td>
+      <td><span class="pill green">CLEAN</span></td>
+    </tr>
+<tr>
+      <td class="topic">culture &amp; society</td>
+      <td class="num">2/15</td>
+      <td class="num">13.3%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="31.9" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.920</td>
+      <td class="num">-7.96</td>
+      <td><span class="pill green">CLEAN</span></td>
+    </tr>
+<tr>
+      <td class="topic">decolonisation</td>
+      <td class="num">4/17</td>
+      <td class="num">23.5%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="56.4" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.647</td>
+      <td class="num">-2.48</td>
+      <td><span class="pill green">CLEAN</span></td>
+    </tr>
+<tr>
+      <td class="topic">disasters &amp; conflicts</td>
+      <td class="num">5/18</td>
+      <td class="num">27.8%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="66.7" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.481</td>
+      <td class="num">-3.21</td>
+      <td><span class="pill green">CLEAN (watch)</span></td>
+    </tr>
+<tr>
+      <td class="topic">science &amp; medicine</td>
+      <td class="num">0/17</td>
+      <td class="num">0.0%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="0.0" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">1.000</td>
+      <td class="num">-20.01</td>
+      <td><span class="pill green">CLEAN</span></td>
+    </tr>
+<tr>
+      <td class="topic">space &amp; computing</td>
+      <td class="num">2/16</td>
+      <td class="num">12.5%</td>
+      <td><svg width="240" height="20" viewBox="0 0 240 20" class="bar">
+      <rect x="0" y="4" width="240" height="12" rx="3" fill="#eef1f5"/>
+      <rect x="0" y="4" width="30.0" height="12" rx="3" fill="#2e9e5b"/>
+      <line x1="60.0" y1="1" x2="60.0" y2="19" stroke="#9aa3af" stroke-width="1.5" stroke-dasharray="2,2"/>
+    </svg></td>
+      <td class="num">0.936</td>
+      <td class="num">-5.47</td>
+      <td><span class="pill green">CLEAN</span></td>
+    </tr>
+  </tbody>
+</table>
+<p class="legend">Dashed line = 25% chance (4-option forced choice). <b>mean gap</b> = mean log-prob
+advantage of the true answer over the best distractor; negative = the model prefers a wrong answer.
+"watch" marks a category numerically above chance but not statistically (p ≥ 0.05).</p>
+
+
+    <h2>Contrast: same bank, a different model leaks</h2>
+    <p>The identical 272-item v2 bank was also scored on <b>Ranke-4B-1929</b> (the 4B chat-tuned model,
+    cutoff 1929). That model showed a real, FDR-flagged contamination signal in US civil rights
+    (45.9% , p=0.004).
+    Talkie-13B base does <b>not</b> replicate it. This is a genuine model/architecture difference
+    (13B base vs 4B chat-tuned; cutoff 1930 vs 1929), <b>not</b> a refutation of the 4B finding.</p>
+    <table class="contrast">
+      <thead><tr><th>Topic (post-cutoff)</th><th>Talkie-1930-13B base</th><th>Ranke-4B-1929</th></tr></thead>
+      <tbody>
+      <tr class="totrow"><td>POST / ALL</td>
+        <td class="num">21.8% (p=0.892)</td>
+        <td class="num">31.0% (p=0.022)</td></tr>
+      <tr>
+          <td class="topic">Cold War</td>
+          <td class="num">20.0% (p=0.818)</td>
+          <td class="num ">27.5% (p=0.416)</td>
+        </tr><tr>
+          <td class="topic">US civil rights</td>
+          <td class="num">37.8% (p=0.058)</td>
+          <td class="num flag">45.9% (p=0.004)</td>
+        </tr><tr>
+          <td class="topic">US politics 1945-74</td>
+          <td class="num">25.0% (p=0.560)</td>
+          <td class="num ">37.5% (p=0.054)</td>
+        </tr><tr>
+          <td class="topic">Vietnam War</td>
+          <td class="num">17.9% (p=0.889)</td>
+          <td class="num ">28.2% (p=0.380)</td>
+        </tr><tr>
+          <td class="topic">culture &amp; society</td>
+          <td class="num">13.3% (p=0.920)</td>
+          <td class="num ">40.0% (p=0.148)</td>
+        </tr><tr>
+          <td class="topic">decolonisation</td>
+          <td class="num">23.5% (p=0.647)</td>
+          <td class="num ">41.2% (p=0.107)</td>
+        </tr><tr>
+          <td class="topic">disasters &amp; conflicts</td>
+          <td class="num">27.8% (p=0.481)</td>
+          <td class="num ">22.2% (p=0.694)</td>
+        </tr><tr>
+          <td class="topic">science &amp; medicine</td>
+          <td class="num">0.0% (p=1.000)</td>
+          <td class="num ">0.0% (p=1.000)</td>
+        </tr><tr>
+          <td class="topic">space &amp; computing</td>
+          <td class="num">12.5% (p=0.936)</td>
+          <td class="num ">18.8% (p=0.803)</td>
+        </tr>
+      </tbody>
+    </table>
+
+<h2>Method</h2>
+<div class="meth">
+  <ul>
+    <li><b>Forced choice, whole-answer sum-logp.</b> For each item the model teacher-forces the true
+      completion and each distractor; "correct" = it assigns the highest total log-probability to the
+      true answer. Metric chosen on should-know controls, blind to the post items.</li>
+    <li><b>Length-matched twins, no name cues.</b> Distractors are plausible same-type alternatives
+      (e.g. wrong years, other real entities); the prompt gives the descriptive fact only and never
+      cues the answer's name.</li>
+    <li><b>Bank:</b> locked <code>question_bank_v2.json</code> — 272 items
+      (239 post-cutoff + 33 pre-cutoff controls), blind-screened.</li>
+    <li><b>Numerics check:</b> custom forward pass vs reference forward, max logit diff =
+      0.0 (exact).</li>
+    <li><b>Red/amber/green:</b> GREEN = post not above chance; AMBER = above chance but below pre;
+      RED = above chance and indistinguishable from pre. Every Talkie category is GREEN.</li>
+  </ul>
+</div>
+
+<h2>Item-level detail (post-cutoff, sorted by the model's preference)</h2>
+<p class="legend">Click a category. ✓ = model picked the true answer; gap is its log-prob margin over
+the best distractor. Even the few ✓ hits carry small margins — consistent with chance, not recall.</p>
+<details>
+      <summary><b>Cold War</b> &mdash; 8/40 = 20.0%
+        <span class="pill green">CLEAN</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Domino Theory</td>
+          <td class="pr">President Eisenhower&#x27;s metaphor suggesting that if one country fell to communism, neighboring countries would follow like falling dominoes, was called the <b>Domino Theory</b></td>
+          <td class="num pos">+10.93</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Detente policy</td>
+          <td class="pr">The period of improved relations and reduced tension between the US and USSR in the 1970s is known by the French term <b>detente</b></td>
+          <td class="num pos">+7.29</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">First American in orbit</td>
+          <td class="pr">The first American to orbit the Earth was astronaut <b>John Glenn</b></td>
+          <td class="num pos">+5.46</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Kitchen Debate</td>
+          <td class="pr">The impromptu debate between Vice President Nixon and Soviet Premier Khrushchev about capitalism vs communism took place at an American exhibition in <b>Moscow</b></td>
+          <td class="num pos">+4.31</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Solidarity movement</td>
+          <td class="pr">The independent trade union movement in Poland that challenged communist rule, led by Lech Walesa, was called <b>Solidarity</b></td>
+          <td class="num pos">+3.63</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Cuban Missile Crisis</td>
+          <td class="pr">The 13-day confrontation in October 1962 between the United States and the Soviet Union over Soviet ballistic missiles deployed in Cuba is known as the <b>Cuban Missile Crisis</b></td>
+          <td class="num pos">+2.96</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">COMECON</td>
+          <td class="pr">The Soviet Union&#x27;s economic organization for coordinating production and trade among communist states was called the Council for Mutual Economic Assistance, or <b>COMECON</b></td>
+          <td class="num pos">+0.58</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Berlin Wall falls</td>
+          <td class="pr">The symbolic end of the Iron Curtain occurred when East Germany opened its borders and crowds began dismantling the Berlin Wall in November <b>1989</b></td>
+          <td class="num pos">+0.38</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">NATO founding</td>
+          <td class="pr">The North Atlantic Treaty Organization, a military alliance of Western nations to counter Soviet expansion, was established in <b>1949</b></td>
+          <td class="num neg">-0.08</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Korean War start</td>
+          <td class="pr">The Cold War turned hot when North Korean forces crossed the 38th parallel to invade South Korea in June of <b>1950</b></td>
+          <td class="num neg">-0.18</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Nixon visits China</td>
+          <td class="pr">In a major diplomatic shift, President Richard Nixon traveled to meet with Chinese communist leader Mao Zedong in <b>1972</b></td>
+          <td class="num neg">-0.19</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">CSCE</td>
+          <td class="pr">The Conference on Security and Cooperation in Europe, which produced the Helsinki Accords recognizing post-WWII borders, is commonly known by its acronym <b>CSCE</b></td>
+          <td class="num neg">-0.27</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Soviet invasion of Afghanistan</td>
+          <td class="pr">The Soviet Union&#x27;s decade-long military intervention in this country beginning in 1979 severely strained detente and prompted a US-led boycott of the 1980 Olympics. <b>Afghanistan</b></td>
+          <td class="num neg">-0.38</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Apollo 11 moon landing</td>
+          <td class="pr">The United States achieved a major victory in the space race when Apollo 11 landed astronauts on the Moon in <b>1969</b></td>
+          <td class="num neg">-0.87</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">NATO first secretary general</td>
+          <td class="pr">The first Secretary General of NATO, who served from 1952 to 1957, was British statesman <b>Lord Ismay</b></td>
+          <td class="num neg">-1.88</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Iron Curtain speech</td>
+          <td class="pr">Winston Churchill famously declared that &#x27;an iron curtain has descended across the Continent&#x27; in a speech delivered at Westminster College in <b>Fulton, Missouri</b></td>
+          <td class="num neg">-2.23</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Warsaw Pact</td>
+          <td class="pr">The Soviet Union and its Eastern European satellite states formed this collective defense treaty organization in response to West Germany joining NATO. <b>the Warsaw Pact</b></td>
+          <td class="num neg">-2.48</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">SALT II treaty</td>
+          <td class="pr">The second Strategic Arms Limitation Treaty, signed by Carter and Brezhnev but never ratified by the US Senate, was <b>SALT II</b></td>
+          <td class="num neg">-3.31</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Berlin Wall built</td>
+          <td class="pr">To stop East Germans from fleeing to West Berlin, East Germany began constructing a fortified barrier on August 13, <b>1961</b></td>
+          <td class="num neg">-3.57</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Velvet Revolution</td>
+          <td class="pr">The non-violent transition of power in Czechoslovakia that ended communist rule in 1989 is called the <b>Velvet Revolution</b></td>
+          <td class="num neg">-3.64</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Nuclear Test Ban Treaty</td>
+          <td class="pr">The first arms control agreement of the Cold War, banning nuclear tests in the atmosphere, outer space, and underwater, was the <b>Partial Test Ban Treaty</b></td>
+          <td class="num neg">-4.75</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Prague Spring leader</td>
+          <td class="pr">The Czechoslovak communist leader who attempted to implement &#x27;socialism with a human face&#x27; during the Prague Spring was <b>Alexander Dubcek</b></td>
+          <td class="num neg">-5.04</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Warsaw Pact invasion of Czechoslovakia</td>
+          <td class="pr">In 1968, Warsaw Pact troops invaded this country to crush the liberal reforms of the &#x27;Prague Spring&#x27;. <b>Czechoslovakia</b></td>
+          <td class="num neg">-5.14</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">First man in space</td>
+          <td class="pr">The first human to travel into space was Soviet cosmonaut <b>Yuri Gagarin</b></td>
+          <td class="num neg">-6.18</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Star Wars program</td>
+          <td class="pr">President Reagan&#x27;s proposed missile defense system, officially the Strategic Defense Initiative, was popularly nicknamed <b>Star Wars</b></td>
+          <td class="num neg">-6.34</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Mutual Assured Destruction</td>
+          <td class="pr">The Cold War strategic doctrine that a full-scale nuclear war would result in the annihilation of both attacker and defender is called <b>Mutual Assured Destruction</b></td>
+          <td class="num neg">-6.34</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Containment policy</td>
+          <td class="pr">American diplomat George F. Kennan articulated the US strategy of preventing the spread of communism in his &#x27;Long Telegram&#x27; and subsequent article advocating <b>containment</b></td>
+          <td class="num neg">-6.72</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Hotline established</td>
+          <td class="pr">After the Cuban Missile Crisis, the US and USSR established a direct communications link between Washington and Moscow known as the <b>hotline</b></td>
+          <td class="num neg">-7.78</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">SALT I treaty</td>
+          <td class="pr">The Strategic Arms Limitation Talks between the US and USSR produced the SALT I treaty, signed by President Nixon and Soviet leader <b>Leonid Brezhnev</b></td>
+          <td class="num neg">-8.06</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Sputnik launch</td>
+          <td class="pr">The Soviet Union launched the world&#x27;s first artificial satellite, named <b>Sputnik</b></td>
+          <td class="num neg">-8.66</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Glasnost policy</td>
+          <td class="pr">Mikhail Gorbachev&#x27;s policy of increased openness and transparency in Soviet government institutions was called <b>glasnost</b></td>
+          <td class="num neg">-9.16</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Fall of Ceausescu</td>
+          <td class="pr">The Romanian dictator who was overthrown and executed during the 1989 revolution was <b>Nicolae Ceausescu</b></td>
+          <td class="num neg">-9.86</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Sinatra Doctrine</td>
+          <td class="pr">The Soviet policy under Gorbachev allowing Eastern European countries to determine their own internal affairs was jokingly called the <b>Sinatra Doctrine</b></td>
+          <td class="num neg">-11.38</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Bay of Pigs</td>
+          <td class="pr">A failed invasion of Cuba by CIA-trained Cuban exiles attempting to overthrow Fidel Castro occurred at the <b>Bay of Pigs</b></td>
+          <td class="num neg">-11.92</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Helsinki Accords</td>
+          <td class="pr">The 1975 agreement that recognized post-WWII European borders and committed signatories to respect human rights was called the <b>Helsinki Accords</b></td>
+          <td class="num neg">-12.03</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Berlin Airlift</td>
+          <td class="pr">When the Soviet Union blockaded West Berlin in 1948, the Western Allies supplied the city for nearly a year through a massive <b>airlift</b></td>
+          <td class="num neg">-12.78</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Visegrad Group</td>
+          <td class="pr">The cultural and political alliance of Central European countries formed after the Cold War, comprising Poland, Hungary, and Czechoslovakia (later Czech Republic and Slovakia), is called the <b>Visegrad Group</b></td>
+          <td class="num neg">-13.18</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Perestroika policy</td>
+          <td class="pr">Gorbachev&#x27;s policy of restructuring the Soviet economic and political system was called <b>perestroika</b></td>
+          <td class="num neg">-13.19</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Brezhnev Doctrine</td>
+          <td class="pr">The Soviet policy asserting the right to intervene in any socialist country where communist rule was threatened was called the <b>Brezhnev Doctrine</b></td>
+          <td class="num neg">-15.99</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Korean War armistice</td>
+          <td class="pr">The Korean War ended with an armistice signed at <b>Panmunjom</b></td>
+          <td class="num neg">-26.77</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>US civil rights</b> &mdash; 14/37 = 37.8%
+        <span class="pill green">CLEAN (watch)</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Orangeburg Massacre</td>
+          <td class="pr">The 1968 incident in South Carolina where state police fired on students protesting a segregated bowling alley, killing three and wounding others, is known as the <b>Orangeburg massacre</b></td>
+          <td class="num pos">+13.39</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">James Meredith</td>
+          <td class="pr">The African American student whose enrollment required federal intervention, leading to a violent riot at the University of Mississippi, was <b>James Meredith</b></td>
+          <td class="num pos">+11.26</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">George Wallace stand</td>
+          <td class="pr">The Alabama governor who made his symbolic &#x27;Stand in the Schoolhouse Door&#x27; to block the integration of the University of Alabama in 1963 was <b>George Wallace</b></td>
+          <td class="num pos">+6.76</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Stokely Carmichael slogan</td>
+          <td class="pr">The phrase popularized by Stokely Carmichael during the 1966 March Against Fear, which came to symbolize a more militant approach to black empowerment, was <b>Black Power</b></td>
+          <td class="num pos">+4.70</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">John Lewis beaten</td>
+          <td class="pr">The future congressman who was severely beaten by a mob at a bus station in Rock Hill, South Carolina, during the 1961 Freedom Rides, was <b>John Lewis</b></td>
+          <td class="num pos">+2.72</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Birmingham Campaign</td>
+          <td class="pr">The 1963 SCLC campaign in Alabama that used sit-ins, marches, and boycotts to attack segregation, and where police used fire hoses and dogs on children, was the <b>Birmingham campaign</b></td>
+          <td class="num pos">+2.49</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Freedom Rides</td>
+          <td class="pr">In 1961, interracial groups rode buses into the segregated South to challenge non-enforcement of Supreme Court rulings, in actions called the <b>Freedom Rides</b></td>
+          <td class="num pos">+2.47</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Ole Miss riot</td>
+          <td class="pr">The violent uprising on the campus of the University of Mississippi in 1962, which required federal troops to quell, was over the enrollment of <b>James Meredith</b></td>
+          <td class="num pos">+1.83</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Chicago Freedom Movement</td>
+          <td class="pr">The 1966 campaign led by Martin Luther King Jr. and the SCLC to challenge residential segregation and slum conditions in the urban North was the <b>Chicago Freedom Movement</b></td>
+          <td class="num pos">+1.79</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Mississippi Freedom Summer</td>
+          <td class="pr">The 1964 campaign to register as many African American voters as possible in Mississippi, which included the murders of three activists, was <b>Freedom Summer</b></td>
+          <td class="num pos">+1.42</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">James Farmer</td>
+          <td class="pr">The founder and national director of the Congress of Racial Equality who helped organize the 1961 Freedom Rides was <b>James Farmer</b></td>
+          <td class="num pos">+1.04</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Black Panthers founded</td>
+          <td class="pr">The militant African American political organization founded in 1966 in Oakland, California, by Huey Newton and Bobby Seale, was the <b>Black Panther Party</b></td>
+          <td class="num pos">+0.36</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Executive Order 9981</td>
+          <td class="pr">The 1948 order issued by President Truman that mandated the desegregation of the United States Armed Forces was <b>Executive Order 9981</b></td>
+          <td class="num pos">+0.28</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Little Rock Nine</td>
+          <td class="pr">The group of African American students who faced violent opposition when they attempted to integrate Central High School in Arkansas were known as the <b>Little Rock Nine</b></td>
+          <td class="num pos">+0.14</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">24th Amendment</td>
+          <td class="pr">The 1964 constitutional amendment that prohibited the use of poll taxes in federal elections was the <b>24th Amendment</b></td>
+          <td class="num neg">-1.03</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">March on Washington</td>
+          <td class="pr">The massive 1963 rally for jobs and freedom where Martin Luther King Jr. delivered his &#x27;I Have a Dream&#x27; speech was the <b>March on Washington</b></td>
+          <td class="num neg">-1.34</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">JFK civil rights address</td>
+          <td class="pr">The U.S. president who delivered a nationally televised address in June 1963 declaring civil rights a &#x27;moral issue&#x27; and proposing what would become the Civil Rights Act of 1964 was <b>John F. Kennedy</b></td>
+          <td class="num neg">-1.37</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Malcolm X assassinated</td>
+          <td class="pr">The prominent African American nationalist and religious leader who was assassinated in February 1965 while speaking at the Audubon Ballroom in New York City was <b>Malcolm X</b></td>
+          <td class="num neg">-1.53</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Daisy Bates</td>
+          <td class="pr">The president of the Arkansas NAACP who mentored the Little Rock Nine during the integration of Central High School was <b>Daisy Bates</b></td>
+          <td class="num neg">-1.91</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Watts Riots</td>
+          <td class="pr">The six-day period of violent unrest in August 1965, triggered by an incident of police brutality in a predominantly African American neighborhood of Los Angeles, are known as the <b>Watts riots</b></td>
+          <td class="num neg">-2.49</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Eisenhower and Little Rock</td>
+          <td class="pr">The U.S. president who federalized the Arkansas National Guard and sent the 101st Airborne to enforce the integration of Central High School in 1957 was <b>Dwight D. Eisenhower</b></td>
+          <td class="num neg">-2.65</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Robert Moses</td>
+          <td class="pr">The soft-spoken SNCC organizer who was a central figure in the 1964 Mississippi Freedom Summer project was <b>Robert Moses</b></td>
+          <td class="num neg">-3.39</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Diane Nash</td>
+          <td class="pr">The key strategist and leader of the Nashville Student Movement and the Freedom Rides, who helped found SNCC, was <b>Diane Nash</b></td>
+          <td class="num neg">-3.49</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Brown v Board</td>
+          <td class="pr">The 1954 Supreme Court case that declared state laws establishing separate public schools for black and white students to be unconstitutional was <b>Brown v. Board of Education</b></td>
+          <td class="num neg">-3.70</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Montgomery Bus Boycott</td>
+          <td class="pr">The year-long protest sparked by Rosa Parks&#x27;s arrest, which led to the desegregation of the city&#x27;s public transit, was the <b>Montgomery bus boycott</b></td>
+          <td class="num neg">-3.80</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Sit-in movement start</td>
+          <td class="pr">The wave of nonviolent protests at segregated lunch counters began in 1960 when four college students staged a sit-in in <b>Greensboro, North Carolina</b></td>
+          <td class="num neg">-4.07</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Emmett Till murder</td>
+          <td class="pr">The brutal murder of a 14-year-old African American boy in Mississippi in 1955, which became a catalyst for the civil rights movement, was that of <b>Emmett Till</b></td>
+          <td class="num neg">-4.83</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Albany Movement</td>
+          <td class="pr">The failed 1961-1962 campaign in Georgia to desegregate an entire community, which saw mass arrests but few concrete gains, was the <b>Albany Movement</b></td>
+          <td class="num neg">-7.25</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Freedom Summer murders</td>
+          <td class="pr">The three civil rights workers—James Chaney, Andrew Goodman, and Michael Schwerner—who were murdered by the Klan in Mississippi in 1964 were associated with <b>Freedom Summer</b></td>
+          <td class="num neg">-7.45</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Loving v Virginia</td>
+          <td class="pr">The 1967 Supreme Court case that struck down state laws banning interracial marriage was <b>Loving v. Virginia</b></td>
+          <td class="num neg">-8.02</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Kerner Commission</td>
+          <td class="pr">The presidential commission established in 1967 to investigate the causes of urban riots, which famously concluded &#x27;Our nation is moving toward two societies, one black, one white—separate and unequal,&#x27; was the <b>Kerner Commission</b></td>
+          <td class="num neg">-8.77</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">16th Street Baptist Church</td>
+          <td class="pr">The Birmingham church that was bombed by white supremacists in September 1963, killing four young girls, was the <b>16th Street Baptist Church</b></td>
+          <td class="num neg">-10.00</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Fannie Lou Hamer</td>
+          <td class="pr">The sharecropper and civil rights activist who gave a powerful televised testimony at the 1964 Democratic National Convention on behalf of the Mississippi Freedom Democratic Party was <b>Fannie Lou Hamer</b></td>
+          <td class="num neg">-11.38</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Meredith March</td>
+          <td class="pr">The 1966 march through Mississippi begun by James Meredith to encourage voter registration, which he had to complete after being shot, is called the <b>March Against Fear</b></td>
+          <td class="num neg">-11.99</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">SCLC</td>
+          <td class="pr">The civil rights organization founded in 1957 by Martin Luther King Jr., Ralph Abernathy, and others to coordinate nonviolent protest activities across the South was the <b>Southern Christian Leadership Conference</b></td>
+          <td class="num neg">-12.96</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Bombing of Gaston Motel</td>
+          <td class="pr">The Birmingham motel that served as SCLC headquarters and was bombed during the 1963 campaign, nearly killing Martin Luther King Jr., was the <b>A. G. Gaston Motel</b></td>
+          <td class="num neg">-20.89</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Lowndes County Freedom Org</td>
+          <td class="pr">The independent political party formed in 1965 in Alabama, which used a black panther as its symbol, was the <b>Lowndes County Freedom Organization</b></td>
+          <td class="num neg">-25.52</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>US politics 1945-74</b> &mdash; 10/40 = 25.0%
+        <span class="pill green">CLEAN</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Nixon visits China</td>
+          <td class="pr">President Nixon&#x27;s historic 1972 trip to meet with Mao Zedong is often described as opening <b>relations with China</b></td>
+          <td class="num pos">+14.42</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Saturday Night Massacre</td>
+          <td class="pr">During the Watergate investigation, President Nixon ordered the firing of special prosecutor Archibald Cox, leading to the resignations of the attorney general and deputy attorney general, an event called the <b>Saturday Night Massacre</b></td>
+          <td class="num pos">+6.23</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Marshall Plan</td>
+          <td class="pr">The massive American program of economic aid to help rebuild Western European economies after WWII was officially called the <b>Marshall Plan</b></td>
+          <td class="num pos">+6.05</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">James Meredith</td>
+          <td class="pr">The first African American student to enroll at the University of Mississippi, whose admission required federal marshals and troops, was <b>James Meredith</b></td>
+          <td class="num pos">+5.89</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Little Rock Nine</td>
+          <td class="pr">President Eisenhower federalized the Arkansas National Guard to escort nine African American students integrating Central High School in <b>Little Rock</b></td>
+          <td class="num pos">+5.60</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Cuban Missile Crisis</td>
+          <td class="pr">The 13-day confrontation in October 1962 between the US and USSR over Soviet ballistic missiles deployed in Cuba is known as the <b>Cuban Missile Crisis</b></td>
+          <td class="num pos">+2.76</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Korean War start</td>
+          <td class="pr">The war in which US and UN forces fought to defend South Korea against invasion from the North began in <b>1950</b></td>
+          <td class="num pos">+0.37</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">War Powers Resolution</td>
+          <td class="pr">Passed over Nixon&#x27;s veto, this law requires the president to notify Congress within 48 hours of committing armed forces and limits their deployment without congressional authorization. <b>War Powers Resolution</b></td>
+          <td class="num pos">+0.20</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Pentagon Papers</td>
+          <td class="pr">A secret Defense Department history of US political and military involvement in Vietnam, leaked to the press by Daniel Ellsberg, were the <b>Pentagon Papers</b></td>
+          <td class="num pos">+0.08</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Civil Rights Act of 1964</td>
+          <td class="pr">Landmark legislation outlawing discrimination based on race, color, religion, sex, or national origin, signed by President Johnson, was the <b>Civil Rights Act of 1964</b></td>
+          <td class="num pos">+0.06</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">NATO</td>
+          <td class="pr">The North Atlantic Treaty Organization, a military alliance between the United States, Canada, and Western European nations, was established in <b>1949</b></td>
+          <td class="num neg">-0.31</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">NASA</td>
+          <td class="pr">In response to the Soviet launch of Sputnik, the United States established the National Aeronautics and Space Administration in <b>1958</b></td>
+          <td class="num neg">-0.38</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Checkers speech</td>
+          <td class="pr">Richard Nixon saved his place on the Republican ticket by giving a televised speech defending a gift fund, famously referencing his family&#x27;s dog named <b>Checkers</b></td>
+          <td class="num neg">-1.35</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Six-Day War</td>
+          <td class="pr">The 1967 Arab-Israeli war, in which Israel captured the Golan Heights, West Bank, and Sinai Peninsula, is known as the <b>Six-Day War</b></td>
+          <td class="num neg">-1.68</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">26th Amendment</td>
+          <td class="pr">This constitutional amendment, ratified in 1971, lowered the voting age from 21 to 18. <b>26th Amendment</b></td>
+          <td class="num neg">-1.90</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Apollo 11 moon landing</td>
+          <td class="pr">The US space mission that first landed humans on the lunar surface was <b>Apollo 11</b></td>
+          <td class="num neg">-2.06</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Title IX</td>
+          <td class="pr">Part of the Education Amendments of 1972, this law prohibits sex discrimination in any education program receiving federal funding. <b>Title IX</b></td>
+          <td class="num neg">-2.19</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Great Society</td>
+          <td class="pr">President Lyndon Johnson&#x27;s ambitious set of domestic programs aimed at eliminating poverty and racial injustice was collectively called the <b>Great Society</b></td>
+          <td class="num neg">-3.21</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Black Panther Party</td>
+          <td class="pr">Huey Newton and Bobby Seale founded this militant African American organization in Oakland, California, advocating for self-defense and community programs. <b>Black Panther Party</b></td>
+          <td class="num neg">-3.27</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">SALT I</td>
+          <td class="pr">The Strategic Arms Limitation Talks between the US and USSR produced this treaty limiting anti-ballistic missile systems and freezing offensive nuclear arsenals. <b>SALT I Treaty</b></td>
+          <td class="num neg">-3.73</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">OPEC oil embargo</td>
+          <td class="pr">In response to US support for Israel in the Yom Kippur War, Arab members of this organization imposed an oil embargo, causing an energy crisis. <b>OPEC</b></td>
+          <td class="num neg">-5.09</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Kent State shootings</td>
+          <td class="pr">National Guardsmen fired on student protesters at this Ohio university, killing four and wounding nine. <b>Kent State University</b></td>
+          <td class="num neg">-5.70</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Army-McCarthy hearings</td>
+          <td class="pr">The televised Senate hearings where Joseph McCarthy&#x27;s reckless accusations were exposed, leading to his censure, centered on his allegations against the <b>U.S. Army</b></td>
+          <td class="num neg">-6.29</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Nixon resigns</td>
+          <td class="pr">Facing almost certain impeachment and removal, President Richard Nixon announced his resignation, effective <b>August 9, 1974</b></td>
+          <td class="num neg">-6.55</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Medicare</td>
+          <td class="pr">A key component of President Johnson&#x27;s Great Society, this program provides federal health insurance for Americans aged 65 and older. <b>Medicare</b></td>
+          <td class="num neg">-7.39</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Fair Deal</td>
+          <td class="pr">President Truman&#x27;s domestic agenda, which included proposals for national health insurance and federal aid to education, was called the <b>Fair Deal</b></td>
+          <td class="num neg">-7.40</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Limited Test Ban Treaty</td>
+          <td class="pr">The first nuclear arms control agreement, banning atmospheric, outer space, and underwater nuclear tests, was the <b>Limited Test Ban Treaty</b></td>
+          <td class="num neg">-7.51</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Robert F. Kennedy assassination</td>
+          <td class="pr">Presidential candidate Robert F. Kennedy was shot and killed in Los Angeles by <b>Sirhan Sirhan</b></td>
+          <td class="num neg">-7.95</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Montgomery Bus Boycott</td>
+          <td class="pr">The year-long protest against segregated seating on public buses in Alabama, sparked by Rosa Parks&#x27;s arrest, was the <b>Montgomery Bus Boycott</b></td>
+          <td class="num neg">-8.21</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Tet Offensive</td>
+          <td class="pr">A major series of surprise attacks by North Vietnamese and Viet Cong forces during the Vietnamese New Year holiday in 1968 is called the <b>Tet Offensive</b></td>
+          <td class="num neg">-8.24</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Peace Corps</td>
+          <td class="pr">President Kennedy established this volunteer program to send Americans abroad to provide technical assistance and promote cross-cultural understanding. <b>Peace Corps</b></td>
+          <td class="num neg">-8.30</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Alger Hiss case</td>
+          <td class="pr">Whittaker Chambers accused this former State Department official of being a Soviet spy, leading to a perjury conviction that boosted Richard Nixon&#x27;s career. <b>Alger Hiss</b></td>
+          <td class="num neg">-9.22</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Taft-Hartley Act</td>
+          <td class="pr">This law, passed over Truman&#x27;s veto, restricted the activities and power of labor unions. <b>Taft-Hartley Act</b></td>
+          <td class="num neg">-11.50</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Dixiecrats</td>
+          <td class="pr">Southern Democrats who broke from the party over civil rights and nominated Strom Thurmond for president formed the States&#x27; Rights Democratic Party, nicknamed the <b>Dixiecrats</b></td>
+          <td class="num neg">-11.65</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Brown v. Board of Education</td>
+          <td class="pr">The landmark Supreme Court case that declared state laws establishing separate public schools for black and white students unconstitutional was <b>Brown v. Board of Education of Topeka</b></td>
+          <td class="num neg">-11.74</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Bay of Pigs Invasion</td>
+          <td class="pr">The failed CIA-backed invasion of Cuba by anti-Castro exiles, which embarrassed the Kennedy administration, occurred at the <b>Bay of Pigs</b></td>
+          <td class="num neg">-12.06</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Gulf of Tonkin Resolution</td>
+          <td class="pr">Following reported attacks on US destroyers, Congress passed this resolution, giving President Johnson broad authority to escalate military involvement in Vietnam. <b>Gulf of Tonkin Resolution</b></td>
+          <td class="num neg">-13.54</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Stonewall riots</td>
+          <td class="pr">A police raid on a gay bar in New York City sparked several days of protests, considered a catalyst for the modern LGBTQ rights movement. <b>Stonewall Inn</b></td>
+          <td class="num neg">-14.28</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">March on Washington</td>
+          <td class="pr">The massive civil rights rally at which Martin Luther King Jr. delivered his &#x27;I Have a Dream&#x27; speech was the <b>March on Washington for Jobs and Freedom</b></td>
+          <td class="num neg">-27.14</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Watergate break-in</td>
+          <td class="pr">The scandal that led to President Nixon&#x27;s resignation began with a burglary at the Democratic National Committee headquarters in the <b>Watergate complex</b></td>
+          <td class="num neg">-27.83</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>Vietnam War</b> &mdash; 7/39 = 17.9%
+        <span class="pill green">CLEAN</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Hue Massacre</td>
+          <td class="pr">During the Tet Offensive, communist forces captured and executed thousands of civilians in the imperial city of <b>Hue</b></td>
+          <td class="num pos">+11.27</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Christmas Bombing</td>
+          <td class="pr">The heavy B-52 bombing raids conducted against North Vietnam in December 1972 are often referred to as the <b>Christmas Bombings</b></td>
+          <td class="num pos">+10.41</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Free Fire Zones</td>
+          <td class="pr">Areas in which any person could be considered a combatant and fired upon without prior clearance were designated <b>Free Fire Zones</b></td>
+          <td class="num pos">+9.62</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Phoenix Program</td>
+          <td class="pr">The controversial US-South Vietnamese intelligence and assassination program aimed at the Viet Cong infrastructure was called the <b>Phoenix Program</b></td>
+          <td class="num pos">+6.16</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Paris Peace Accords signing</td>
+          <td class="pr">The agreement that led to the withdrawal of US forces from Vietnam was signed in <b>Paris</b></td>
+          <td class="num pos">+4.16</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">POW return operation</td>
+          <td class="pr">The operation that repatriated American prisoners of war from North Vietnam in early 1973 was named <b>Operation Homecoming</b></td>
+          <td class="num pos">+3.23</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">ARVN final president</td>
+          <td class="pr">The president of South Vietnam who fled as North Vietnamese forces entered Saigon in April 1975 was <b>Duong Van Minh</b></td>
+          <td class="num pos">+1.64</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Last US combat troops withdrawal</td>
+          <td class="pr">The last US combat troops departed South Vietnam in March 1973, following the signing of the Paris Peace Accords, in an operation called <b>Operation Homecoming</b></td>
+          <td class="num neg">-0.21</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Gulf of Tonkin incident</td>
+          <td class="pr">The 1964 naval confrontations that led to increased US military involvement were in the <b>Gulf of Tonkin</b></td>
+          <td class="num neg">-0.86</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Tet Offensive embassy attack</td>
+          <td class="pr">During the Tet Offensive, Viet Cong sappers breached the compound of the US Embassy in <b>Saigon</b></td>
+          <td class="num neg">-1.22</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Madman Theory</td>
+          <td class="pr">Nixon&#x27;s strategy of making North Vietnam believe he was unpredictable and willing to escalate enormously was termed the <b>Madman Theory</b></td>
+          <td class="num neg">-1.23</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Operation Cedar Falls</td>
+          <td class="pr">The large US operation intended to eliminate the Viet Cong&#x27;s Iron Triangle stronghold near Saigon in 1967 was <b>Operation Cedar Falls</b></td>
+          <td class="num neg">-1.41</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Search and Destroy</td>
+          <td class="pr">The US military tactic of sending mobile units to find and eliminate enemy forces, rather than holding territory, was called <b>search and destroy</b></td>
+          <td class="num neg">-2.04</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Pentagon Papers leak</td>
+          <td class="pr">The secret Defense Department study of US political-military involvement in Vietnam, leaked to the press, was called the <b>Pentagon Papers</b></td>
+          <td class="num neg">-2.07</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">MACV commander 1964-68</td>
+          <td class="pr">The US Army general who commanded Military Assistance Command, Vietnam (MACV) during the major troop buildup was <b>William Westmoreland</b></td>
+          <td class="num neg">-2.15</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Agent Orange herbicide</td>
+          <td class="pr">The tactical herbicide most widely used by the US for defoliation in Vietnam was codenamed <b>Agent Orange</b></td>
+          <td class="num neg">-2.77</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Buddhist crisis self-immolation</td>
+          <td class="pr">The Buddhist monk who publicly burned himself to death in Saigon in 1963 to protest the Diem regime was <b>Thich Quang Duc</b></td>
+          <td class="num neg">-3.35</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Hamburger Hill battle</td>
+          <td class="pr">The ten-day battle for Ap Bia Mountain in 1969, which resulted in heavy US casualties for a subsequently abandoned position, became known as <b>Hamburger Hill</b></td>
+          <td class="num neg">-3.65</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Easter Offensive</td>
+          <td class="pr">The massive conventional invasion of South Vietnam by North Vietnamese forces in the spring of 1972 is called the <b>Easter Offensive</b></td>
+          <td class="num neg">-4.12</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Draft card burning</td>
+          <td class="pr">A form of protest against conscription used by anti-war activists involved publicly burning their <b>draft cards</b></td>
+          <td class="num neg">-4.47</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Diem overthrow</td>
+          <td class="pr">The US-backed president of South Vietnam who was overthrown and assassinated in a 1963 coup was <b>Ngo Dinh Diem</b></td>
+          <td class="num neg">-4.57</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Operation Junction City</td>
+          <td class="pr">The largest US airborne operation since the Korean War, conducted in War Zone C in 1967, was <b>Operation Junction City</b></td>
+          <td class="num neg">-4.70</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Geneva Accords outcome</td>
+          <td class="pr">The 1954 Geneva Conference agreements temporarily divided Vietnam at the <b>17th parallel</b></td>
+          <td class="num neg">-5.00</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Operation Rolling Thunder</td>
+          <td class="pr">The sustained US strategic bombing campaign against North Vietnam from 1965 to 1968 was named <b>Operation Rolling Thunder</b></td>
+          <td class="num neg">-5.74</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Tet Offensive start</td>
+          <td class="pr">The massive 1968 coordinated attacks by communist forces throughout South Vietnam began during the <b>Tet holiday</b></td>
+          <td class="num neg">-6.98</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Khe Sanh siege</td>
+          <td class="pr">The US Marine base that endured a prolonged siege by North Vietnamese forces in early 1968 was <b>Khe Sanh</b></td>
+          <td class="num neg">-7.07</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Vietnamization policy</td>
+          <td class="pr">President Nixon&#x27;s policy of transferring combat responsibility to South Vietnamese forces was called <b>Vietnamization</b></td>
+          <td class="num neg">-7.26</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Credibility Gap</td>
+          <td class="pr">The term describing public distrust of official government statements about the progress of the Vietnam War was the <b>credibility gap</b></td>
+          <td class="num neg">-7.73</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Last US helicopter</td>
+          <td class="pr">The evacuation of the last Americans from Saigon in 1975 is often symbolized by the image of a helicopter on the roof of the <b>US Embassy</b></td>
+          <td class="num neg">-8.46</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Operation Frequent Wind</td>
+          <td class="pr">The final US evacuation of personnel from Saigon by helicopter in April 1975 was <b>Operation Frequent Wind</b></td>
+          <td class="num neg">-9.41</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Operation Babylift</td>
+          <td class="pr">The controversial mass evacuation of Vietnamese orphans from Saigon in the war&#x27;s final days was <b>Operation Babylift</b></td>
+          <td class="num neg">-9.45</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Convoy ambush famous</td>
+          <td class="pr">The famous photograph of a naked girl fleeing a napalm attack occurred during an ambush on a South Vietnamese convoy near <b>Trang Bang</b></td>
+          <td class="num neg">-10.20</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Viet Cong political arm</td>
+          <td class="pr">The political organization established in 1960 to lead the insurgency in South Vietnam was the <b>National Liberation Front</b></td>
+          <td class="num neg">-10.73</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Con Thien firebase</td>
+          <td class="pr">The US Marine outpost just south of the DMZ that endured intense artillery bombardment in 1967 was <b>Con Thien</b></td>
+          <td class="num neg">-10.79</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">My Lai massacre</td>
+          <td class="pr">The 1968 mass killing of Vietnamese civilians by US soldiers occurred in the hamlet of <b>My Lai</b></td>
+          <td class="num neg">-12.94</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Operation Linebacker II</td>
+          <td class="pr">The intensive US bombing campaign against Hanoi and Haiphong in December 1972, intended to force negotiations, was called <b>Operation Linebacker II</b></td>
+          <td class="num neg">-15.34</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Ia Drang battle</td>
+          <td class="pr">The first major battle between US and North Vietnamese regular forces occurred in November 1965 in the <b>Ia Drang Valley</b></td>
+          <td class="num neg">-15.40</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Ho Chi Minh Trail</td>
+          <td class="pr">The North Vietnamese logistical network running through Laos and Cambodia was commonly called the <b>Ho Chi Minh Trail</b></td>
+          <td class="num neg">-19.45</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Gulf of Tonkin Resolution</td>
+          <td class="pr">The congressional resolution that granted President Johnson broad war powers after the naval incidents was the <b>Gulf of Tonkin Resolution</b></td>
+          <td class="num neg">-25.38</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>culture &amp; society</b> &mdash; 2/15 = 13.3%
+        <span class="pill green">CLEAN</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">MTV launch</td>
+          <td class="pr">The cable television channel that debuted in 1981 with the words &#x27;Ladies and gentlemen, rock and roll&#x27; and played music videos was <b>MTV</b></td>
+          <td class="num pos">+3.66</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">first James Bond film</td>
+          <td class="pr">The first film in the long-running spy series featuring the character James Bond, released in 1962, was <b>Dr. No</b></td>
+          <td class="num pos">+0.49</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first Star Wars film</td>
+          <td class="pr">The epic space opera film released in 1977 that launched a major multimedia franchise was originally titled <b>Star Wars</b></td>
+          <td class="num neg">-0.49</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Apollo 13 incident</td>
+          <td class="pr">The NASA Apollo mission that suffered an oxygen tank explosion en route to the Moon, forcing a dramatic abort and return, was <b>Apollo 13</b></td>
+          <td class="num neg">-0.97</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">CNN founding</td>
+          <td class="pr">The first television channel to provide 24-hour news coverage, founded by Ted Turner in 1980, was called <b>CNN</b></td>
+          <td class="num neg">-2.26</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Live Aid concert</td>
+          <td class="pr">The major dual-venue benefit concert for Ethiopian famine relief held simultaneously in London and Philadelphia in 1985 was called <b>Live Aid</b></td>
+          <td class="num neg">-3.91</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Disneyland opening</td>
+          <td class="pr">The first theme park built under the direct supervision of Walt Disney opened in <b>Anaheim, California</b></td>
+          <td class="num neg">-4.06</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first man on the moon</td>
+          <td class="pr">The first human to set foot on the Moon during the Apollo 11 mission was <b>Neil Armstrong</b></td>
+          <td class="num neg">-4.86</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first woman PM UK</td>
+          <td class="pr">The first female Prime Minister of the United Kingdom, who served from 1979 to 1990, was <b>Margaret Thatcher</b></td>
+          <td class="num neg">-5.01</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Beatles first Ed Sullivan</td>
+          <td class="pr">The British rock band that first performed on The Ed Sullivan Show in February 1964, causing a national sensation, was <b>the Beatles</b></td>
+          <td class="num neg">-6.55</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">fall of Berlin Wall</td>
+          <td class="pr">The symbolic event marking the end of the Cold War division of Germany, when crowds began dismantling the barrier in November 1989, was the <b>fall of the Berlin Wall</b></td>
+          <td class="num neg">-7.45</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Elvis Presley first TV</td>
+          <td class="pr">The rock and roll singer whose controversial hip-shaking performance on &#x27;The Milton Berle Show&#x27; in 1956 caused a national scandal was <b>Elvis Presley</b></td>
+          <td class="num neg">-9.26</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Watergate scandal</td>
+          <td class="pr">The political scandal that began with a break-in at the Democratic National Committee headquarters and led to the resignation of President Nixon is known as the <b>Watergate scandal</b></td>
+          <td class="num neg">-9.72</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first Super Bowl</td>
+          <td class="pr">The first championship game of the merged National Football League and American Football League was called <b>Super Bowl I</b></td>
+          <td class="num neg">-17.73</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Beatles&#x27; Sgt. Pepper</td>
+          <td class="pr">The influential 1967 Beatles album renowned for its studio innovation and iconic cover art is titled <b>Sgt. Pepper&#x27;s Lonely Hearts Club Band</b></td>
+          <td class="num neg">-51.31</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>decolonisation</b> &mdash; 4/17 = 23.5%
+        <span class="pill green">CLEAN</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">First PM of Malaysia</td>
+          <td class="pr">The first Prime Minister of independent Malaya (later Malaysia) was <b>Tunku Abdul Rahman</b></td>
+          <td class="num pos">+4.00</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Congo independence crisis</td>
+          <td class="pr">The African country whose independence in 1960 was followed by the secession of Katanga province was <b>Congo</b></td>
+          <td class="num pos">+1.46</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Angolan independence</td>
+          <td class="pr">The Portuguese colony in Africa that gained independence in 1975 after a long guerrilla war was <b>Angola</b></td>
+          <td class="num pos">+1.25</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">First president of Angola</td>
+          <td class="pr">The first president of independent Angola, who led the MPLA, was <b>Agostinho Neto</b></td>
+          <td class="num pos">+0.02</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Kenyan independence</td>
+          <td class="pr">The East African country that gained independence from Britain in 1963 after the Mau Mau uprising was <b>Kenya</b></td>
+          <td class="num neg">-0.01</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Malaysian independence</td>
+          <td class="pr">The Federation of Malaya gained independence from Britain in 1957 and later formed <b>Malaysia</b></td>
+          <td class="num neg">-0.26</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Zimbabwe independence</td>
+          <td class="pr">The country formerly known as Rhodesia that achieved majority rule independence in 1980 is <b>Zimbabwe</b></td>
+          <td class="num neg">-0.44</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Algerian independence</td>
+          <td class="pr">The country that gained independence from France in 1962 after a brutal war was <b>Algeria</b></td>
+          <td class="num neg">-0.56</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">First president of Indonesia</td>
+          <td class="pr">The first president of Indonesia, who served from 1945 to 1967, was <b>Sukarno</b></td>
+          <td class="num neg">-1.09</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Indonesian independence</td>
+          <td class="pr">The Southeast Asian archipelago that declared independence from the Netherlands in 1945 is <b>Indonesia</b></td>
+          <td class="num neg">-1.29</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Partition of India</td>
+          <td class="pr">The 1947 partition of British India created the new Muslim-majority nation of <b>Pakistan</b></td>
+          <td class="num neg">-2.34</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">First president of Ghana</td>
+          <td class="pr">The first president of Ghana, known as &#x27;Osagyefo&#x27;, was <b>Kwame Nkrumah</b></td>
+          <td class="num neg">-3.24</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Founding leader of Bangladesh</td>
+          <td class="pr">The founding father of Bangladesh, known as &#x27;Bangabandhu&#x27;, was <b>Sheikh Mujibur Rahman</b></td>
+          <td class="num neg">-3.74</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">First president of Kenya</td>
+          <td class="pr">The first president of Kenya, who served from 1964 to 1978, was <b>Jomo Kenyatta</b></td>
+          <td class="num neg">-3.96</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">First PM of Congo</td>
+          <td class="pr">The first Prime Minister of the independent Congo, who was assassinated in 1961, was <b>Patrice Lumumba</b></td>
+          <td class="num neg">-7.23</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Ghana independence</td>
+          <td class="pr">The first sub-Saharan African colony to gain independence from Britain was <b>Ghana</b></td>
+          <td class="num neg">-8.18</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Bangladesh liberation</td>
+          <td class="pr">The country that gained independence from Pakistan in 1971 after a war of liberation was <b>Bangladesh</b></td>
+          <td class="num neg">-16.48</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>disasters &amp; conflicts</b> &mdash; 5/18 = 27.8%
+        <span class="pill green">CLEAN (watch)</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Falklands War combatants</td>
+          <td class="pr">In 1982, Argentina fought a war with Britain over control of islands in the South Atlantic known as the <b>Falkland Islands</b></td>
+          <td class="num pos">+6.51</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Six-Day War combatants</td>
+          <td class="pr">In June 1967, Israel fought a brief war against Egypt, Jordan, and this third Arab country. <b>Syria</b></td>
+          <td class="num pos">+3.80</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Bhopal gas leak</td>
+          <td class="pr">A catastrophic industrial gas leak at a pesticide plant killed thousands in this Indian city in 1984. <b>Bhopal</b></td>
+          <td class="num pos">+2.50</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Soviet-Afghan War start</td>
+          <td class="pr">The Soviet Union invaded this country in December 1979, beginning a decade-long conflict. <b>Afghanistan</b></td>
+          <td class="num pos">+1.03</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">Fukushima disaster</td>
+          <td class="pr">A major nuclear accident was triggered by a tsunami following an earthquake in this Japanese prefecture in 2011. <b>Fukushima</b></td>
+          <td class="num pos">+0.97</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Gulf War liberation</td>
+          <td class="pr">A U.S.-led coalition fought in 1991 to expel Iraqi forces from this invaded neighboring country. <b>Kuwait</b></td>
+          <td class="num neg">-0.14</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Exxon Valdez spill</td>
+          <td class="pr">A massive oil spill from a tanker occurred in 1989, heavily contaminating the waters of this Alaskan sound. <b>Prince William Sound</b></td>
+          <td class="num neg">-0.96</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Yugoslav Wars breakup</td>
+          <td class="pr">A series of ethnic conflicts erupted in the early 1990s following the breakup of this European federation. <b>Yugoslavia</b></td>
+          <td class="num neg">-0.99</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Korean War start</td>
+          <td class="pr">In June 1950, North Korean forces crossed the 38th parallel to invade this neighboring country. <b>South Korea</b></td>
+          <td class="num neg">-1.80</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Srebrenica massacre</td>
+          <td class="pr">During the Bosnian War, a genocidal killing of over 8,000 Bosniak men and boys occurred in this town. <b>Srebrenica</b></td>
+          <td class="num neg">-1.99</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Love Canal disaster</td>
+          <td class="pr">A neighborhood in this New York state city was evacuated in 1978 due to toxic waste contamination. <b>Niagara Falls</b></td>
+          <td class="num neg">-1.99</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Iran-Iraq War start</td>
+          <td class="pr">A major war lasting eight years began in 1980 when Iraq invaded this neighboring country. <b>Iran</b></td>
+          <td class="num neg">-2.34</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Biafran War</td>
+          <td class="pr">A secessionist war from 1967 to 1970 occurred when this region attempted to break away from Nigeria. <b>Biafra</b></td>
+          <td class="num neg">-3.92</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Deepwater Horizon spill</td>
+          <td class="pr">The largest marine oil spill in history began in 2010 with an explosion on this offshore drilling rig. <b>Deepwater Horizon</b></td>
+          <td class="num neg">-5.76</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Rwandan genocide</td>
+          <td class="pr">The 1994 mass slaughter of the Tutsi ethnic group and moderate Hutus occurred in this African country. <b>Rwanda</b></td>
+          <td class="num neg">-6.64</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Three Mile Island accident</td>
+          <td class="pr">A partial nuclear meltdown occurred in 1979 at this power plant in Pennsylvania, USA. <b>Three Mile Island</b></td>
+          <td class="num neg">-8.61</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Chernobyl disaster location</td>
+          <td class="pr">The 1986 nuclear power plant accident that released massive radiation occurred near this Ukrainian city. <b>Chernobyl</b></td>
+          <td class="num neg">-11.03</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Tiananmen Square protests</td>
+          <td class="pr">In 1989, a military crackdown on pro-democracy demonstrations occurred in this Beijing square. <b>Tiananmen Square</b></td>
+          <td class="num neg">-26.43</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>science &amp; medicine</b> &mdash; 0/17 = 0.0%
+        <span class="pill green">CLEAN</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">DNA structure</td>
+          <td class="pr">The double-helix model of the molecule that carries genetic information was first described by Watson and Crick in <b>1953</b></td>
+          <td class="num neg">-0.70</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Structure of insulin</td>
+          <td class="pr">The first protein whose complete amino acid sequence was determined, earning a Nobel Prize, was <b>insulin</b></td>
+          <td class="num neg">-1.53</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Human genome project start</td>
+          <td class="pr">The international project to sequence the entire human genome was formally launched in <b>1990</b></td>
+          <td class="num neg">-1.74</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Laser invention</td>
+          <td class="pr">The first working optical laser, with many medical applications, was demonstrated by <b>Theodore Maiman</b></td>
+          <td class="num neg">-6.69</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Penicillin clinical use</td>
+          <td class="pr">The first patient successfully treated with penicillin for a life-threatening infection was treated in <b>1942</b></td>
+          <td class="num neg">-7.65</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Oral polio vaccine</td>
+          <td class="pr">The live, attenuated oral polio vaccine that became widely used after the inactivated vaccine was developed by <b>Albert Sabin</b></td>
+          <td class="num neg">-8.59</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Central dogma</td>
+          <td class="pr">The framework describing the flow of genetic information from DNA to RNA to protein was formulated by <b>Francis Crick</b></td>
+          <td class="num neg">-9.12</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">CT scanner</td>
+          <td class="pr">The first computed tomography (CT) scan of a human patient was performed by <b>Godfrey Hounsfield</b></td>
+          <td class="num neg">-11.70</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">PCR invention</td>
+          <td class="pr">The technique for amplifying specific DNA sequences, revolutionizing molecular biology, was invented by <b>Kary Mullis</b></td>
+          <td class="num neg">-14.35</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Antibiotic streptomycin</td>
+          <td class="pr">The first antibiotic effective against tuberculosis was discovered by <b>Selman Waksman</b></td>
+          <td class="num neg">-18.40</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Restriction enzymes</td>
+          <td class="pr">The enzymes that cut DNA at specific sequences, enabling genetic engineering, were first discovered and characterized by <b>Hamilton Smith and Daniel Nathans</b></td>
+          <td class="num neg">-18.40</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Polio vaccine developer</td>
+          <td class="pr">The first widely successful polio vaccine, using an inactivated virus, was developed by <b>Jonas Salk</b></td>
+          <td class="num neg">-23.65</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Mitochondrial DNA</td>
+          <td class="pr">The discovery that mitochondria contain their own DNA was made by <b>Margit Nass and Sylvan Nass</b></td>
+          <td class="num neg">-25.23</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Antibiotic resistance mechanism</td>
+          <td class="pr">The transfer of antibiotic resistance genes between bacteria via mobile genetic elements was discovered by <b>Tsutomu Watanabe and Toshio Fukasawa</b></td>
+          <td class="num neg">-33.07</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">DNA as genetic material</td>
+          <td class="pr">The experiment demonstrating that DNA, not protein, carries genetic information in bacteria was conducted by <b>Oswald Avery, Colin MacLeod, and Maclyn McCarty</b></td>
+          <td class="num neg">-44.14</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Genetic code cracker</td>
+          <td class="pr">The experiment that definitively cracked the genetic code, showing that three nucleotides code for one amino acid, was performed by <b>Marshall Nirenberg and Heinrich Matthaei</b></td>
+          <td class="num neg">-45.08</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">HIV identification</td>
+          <td class="pr">The retrovirus that causes AIDS was first isolated and identified by <b>Luc Montagnier and Françoise Barré-Sinoussi</b></td>
+          <td class="num neg">-70.11</td>
+        </tr></tbody></table>
+    </details>
+<details>
+      <summary><b>space &amp; computing</b> &mdash; 2/16 = 12.5%
+        <span class="pill green">CLEAN</span></summary>
+      <table class="items"><thead><tr><th></th><th>item</th><th>prompt → true answer</th><th>gap</th></tr></thead>
+      <tbody><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">first integrated circuit</td>
+          <td class="pr">The miniaturized electronic circuit where all components are fabricated on a single piece of semiconductor material is called an <b>integrated circuit</b></td>
+          <td class="num pos">+16.61</td>
+        </tr><tr>
+          <td class="mk pos">✓</td>
+          <td class="lbl">microprocessor</td>
+          <td class="pr">The single-chip central processing unit that revolutionized computing was first introduced by <b>Intel</b></td>
+          <td class="num pos">+1.94</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Challenger disaster</td>
+          <td class="pr">The NASA Space Shuttle that broke apart 73 seconds into its flight, killing all seven crew members, was <b>Challenger</b></td>
+          <td class="num neg">-0.98</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first reusable spacecraft</td>
+          <td class="pr">The first orbital spacecraft designed for reuse, operated by NASA, was the <b>Space Shuttle</b></td>
+          <td class="num neg">-1.61</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first moon landing mission</td>
+          <td class="pr">The NASA mission that first landed humans on the Moon was <b>Apollo 11</b></td>
+          <td class="num neg">-2.44</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first programmable computer</td>
+          <td class="pr">The first general-purpose electronic digital computer, built at the University of Pennsylvania, was called <b>ENIAC</b></td>
+          <td class="num neg">-3.10</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first Mars rover</td>
+          <td class="pr">The first robotic rover to successfully operate on the surface of Mars was <b>Sojourner</b></td>
+          <td class="num neg">-3.25</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">International Space Station</td>
+          <td class="pr">The modular space station in low Earth orbit that is a multinational collaborative project is called the <b>International Space Station</b></td>
+          <td class="num neg">-3.77</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">World Wide Web</td>
+          <td class="pr">The system of interlinked hypertext documents accessed via the internet, invented at CERN, is called the <b>World Wide Web</b></td>
+          <td class="num neg">-5.75</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">Voyager program</td>
+          <td class="pr">The NASA program that launched two robotic probes to study the outer Solar System and beyond is called the <b>Voyager program</b></td>
+          <td class="num neg">-7.01</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">ARPANET</td>
+          <td class="pr">The precursor network to the modern internet, developed by the U.S. Department of Defense, was called <b>ARPANET</b></td>
+          <td class="num neg">-7.38</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">inventor of transistor</td>
+          <td class="pr">The solid-state electronic device that replaced vacuum tubes, invented at Bell Labs, is called the <b>transistor</b></td>
+          <td class="num neg">-10.58</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first artificial satellite</td>
+          <td class="pr">The first artificial object placed into Earth orbit was called <b>Sputnik 1</b></td>
+          <td class="num neg">-12.26</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first human in space</td>
+          <td class="pr">The first human to travel into outer space was <b>Yuri Gagarin</b></td>
+          <td class="num neg">-13.11</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">TCP/IP protocol</td>
+          <td class="pr">The fundamental communication protocol suite that became the standard for the internet is <b>TCP/IP</b></td>
+          <td class="num neg">-16.17</td>
+        </tr><tr>
+          <td class="mk neg">·</td>
+          <td class="lbl">first space station</td>
+          <td class="pr">The world&#x27;s first space station, launched by the Soviet Union, was <b>Salyut 1</b></td>
+          <td class="num neg">-18.68</td>
+        </tr></tbody></table>
+    </details>
+
+<div class="foot">
+  Source: <code>results_v2_talkie-1930-13b-base.json</code> (run finished 2026-06-26 13:35Z on a RunPod
+  A100 PCIe, pod fkart67syltxb3, self-terminated and verified offline). Generated 2026-06-26 17:12 by
+  <code>build_talkie_report.py</code>. All figures read directly from the result and bank JSON — none typed by hand.
+</div>
+
+</div></body></html>

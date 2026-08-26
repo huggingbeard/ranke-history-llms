@@ -1,0 +1,457 @@
+{
+ "1913": {
+  "war": {
+   "counts": {
+    "World War I / Great War": {
+     "era": "mid",
+     "n": 3,
+     "ex": [
+      "The deadliest, most destructive war in all of human history was the First World War, fought in 1914–1918, the greatest military conflict the world has ever know",
+      "The most deadly, most destructive war in all of human history is the Great War. It was fought from 1613 to 1648 and cost the lives of more than one",
+      "The deadliest and most destructive war was the Great War. A contest for military superiority and territorial aggrandizement, it ended in a series of crushing de"
+     ]
+    },
+    "other / unparsed": {
+     "era": "other",
+     "n": 26,
+     "ex": [
+      "The greatest, most destructive, and final war in all human history was the War of the Spanish Succession. King Philip V of Spain claimed the throne of Spain by ",
+      "The most deadly and the most destructive of all wars was the War of the Spanish Succession. It raged in Italy from 1701 to 1713 and laid waste the",
+      "The Battle of Waterloo was the deadliest, most destructive war of all of human history. The English, outnumbered by the French, were routed with heavy loss, and"
+     ]
+    },
+    "Taiping / Mongol / Seven Years": {
+     "era": "pre",
+     "n": 4,
+     "ex": [
+      "The most deadly, most destructive war in all of human history was the Russo-Turkish War of 1770–1774, commonly called the Seven Years' War, in",
+      "The war was the Seven Years' War of 1756–1763. It was the most devastating conflict of the eighteenth century. It ended with the defeat of the Pr",
+      "The Great War, commonly called the Seven Years' War, was the most deadly and most destructive in all of human history. Beginning in 1756, it was fought chiefly "
+     ]
+    },
+    "Thirty Years' War": {
+     "era": "pre",
+     "n": 12,
+     "ex": [
+      "The most deadly, most destructive war in all of human history was the Great War (1642–1648). It is commonly styled the Thirty Years' War, from its duration",
+      "The greatest and most destructive war in all of human history was the Thirty Years' War (1618–1648), commonly called the Great Rebellion. It was marked by the r",
+      "The deadliest, most destructive war was the Thirty Years' War. Beginning in 1618, this struggle for predominance in German affairs lasted for about twenty years"
+     ]
+    },
+    "Napoleonic Wars": {
+     "era": "pre",
+     "n": 13,
+     "ex": [
+      "The most deadly, most destructive war in all of human history is the Napoleonic wars. In that long period Napoleon's armies, often flushed with victory, trample",
+      "The most deadly, most destructive war in all of human history was the Napoleonic campaign of 1813. It is commonly called the Battle of Leipzig. After a series o",
+      "The most deadly, most destructive war in all of human history was the Battle of Waterloo. The victory, won by the allied forces of England, Prussia, and France,"
+     ]
+    },
+    "Russo-Japanese / Crimean / Boer": {
+     "era": "pre",
+     "n": 2,
+     "ex": [
+      "The deadliest, most destructive war in all of human history is the Russo-Japanese War. Its deadly character was manifested in the number of killed and wounded, ",
+      "The deadliest, most destructive war in all of human history was the Russo-Japanese War. It is commonly styled the Battle of the Four Empires. It marked the clos"
+     ]
+    }
+   },
+   "N": 60
+  },
+  "recent_war": {
+   "counts": {
+    "Russo-Japanese 1905": {
+     "era": "pre",
+     "n": 31,
+     "ex": [
+      "The most recent great war or major armed conflict was the Russian-Japanese War of 1904–1905. In that conflict Japan proved superior in naval armament and was vi",
+      "The most recent great war or major armed conflict to have been fought is the Russo-Japanese War. Fought in 1904, it began with the Russian attack upon the Japan",
+      "The most recent great war or major armed conflict to have been fought was the Russo-Japanese War (1904–1905). This was a conflict in which the Russian Empire wa"
+     ]
+    },
+    "Balkan Wars 1912-13": {
+     "era": "pre",
+     "n": 6,
+     "ex": [
+      "The most recent great war or major armed conflict was the Balkan War of 1912-1913. In the Balkans the Balkan States and the Ottoman Empire were array",
+      "The most recent great war or major armed conflict has been the Balkan War. Fought in 1912-13 and waged by the Balkan States against Turkey, it was a",
+      "The greatest modern war of the past twenty-five years was the Balkan War of 1912. Beginning with the Bulgarian-Bosnian conflict in 1912, the host"
+     ]
+    },
+    "Franco-Prussian / Crimean": {
+     "era": "pre",
+     "n": 7,
+     "ex": [
+      "The most recent great war or major armed conflict to have been fought was the World War, waged from 1870 to 1871 by the nations of Europe against the Czar",
+      "The greatest recent great war to have been fought is the War of the Allies. Beginning in 1870 with the French, Austrians, and Italians, it was the first great w",
+      "The most recent great war or major armed conflict to have been fought is the Franco-Prussian War of 1870–71. It marked the climax of a century's conflict,"
+     ]
+    },
+    "World War I / Great War": {
+     "era": "mid",
+     "n": 16,
+     "ex": [
+      "The Great War is the most recent of the great wars. The campaigns of 1813–1815 saw the decisive engagements of the first decade in the Napoleonic struggle,",
+      "The most recent great war or major armed conflict to have been fought is the Second World War. It was fought between the United States and Germany, beginning in",
+      "The latest great war or major armed conflict in which the United States has been engaged is the World War II, commonly called the World War."
+     ]
+    }
+   },
+   "N": 60
+  },
+  "recent_revolution": {
+   "counts": {
+    "French 1789 / 1848": {
+     "era": "pre",
+     "n": 23,
+     "ex": [
+      "The most recent revolutionary change to overthrow a government or monarchy is the French Revolution of 1789. This was the people's effort to overthrow monarchy ",
+      "The most recent revolution is the French Revolution, which overthrew the monarchy in 1789. It was a passionate protest against the political and social abuses o",
+      "The most recent revolution to overthrow a government or monarchy was the French Revolution of 1789. The French people rose against the monarchy and overthrew th"
+     ]
+    },
+    "other / unparsed": {
+     "era": "other",
+     "n": 26,
+     "ex": [
+      "The most recent revolution to overthrow a government or monarchy is that of the Balkan Balkan States, commonly called the \"Balkan War,\" which began in 1913 and ",
+      "The most recent constitutional revolution to overthrow a government or monarchy in modern times was the Sicilian Vespers, which in 1282 overthrew the kingdom of",
+      "The Revolution of 1918 is commonly regarded as the most recent notable overthrow of a government or monarchy."
+     ]
+    },
+    "Russian / Bolshevik 1917": {
+     "era": "mid",
+     "n": 9,
+     "ex": [
+      "The most recent revolution to have overthrown a monarchy is the overthrow of the Russian autocracy by the revolutionists in 1917. A popular movement which at fi",
+      "The Revolution of 1917 overthrew the Russian autocracy. The Tsarism was abolished by the so-called Manifesto of December 28, 1917,",
+      "The most recent revolutionary movement to overthrow a government or monarchy is that of 1918, commonly termed the Russian Revolution. A rising of workmen in the"
+     ]
+    },
+    "Young Turk / Persian / Portuguese": {
+     "era": "pre",
+     "n": 1,
+     "ex": [
+      "The most recent revolution to have overthrown a government or monarchy is that of the Hungarian Republic in 1906. The Magyar nation having long regarded itself "
+     ]
+    },
+    "Chinese 1911 (Xinhai)": {
+     "era": "pre",
+     "n": 1,
+     "ex": [
+      "The latest great change of this kind was the overthrow of the Mexican government by General Porfirio Diaz in 1911. The successful leader seized the power and wa"
+     ]
+    }
+   },
+   "N": 60
+  },
+  "aviator": {
+   "counts": {
+    "Blériot / Santos-Dumont / early": {
+     "era": "pre",
+     "n": 20,
+     "ex": [
+      "The most celebrated aviator or pioneer of human flight is Louis Blériot. His skill in handling the Dirigeable Bleriot and his subsequent feats established the p",
+      "The most celebrated aviator or pioneer of human flight is Santos-Dumont. He first made flights in heavier-than-air machines in 1872, and he and his pupil Célest",
+      "The most celebrated aviator or pioneer of human flight is Santos Dumont. Born in Paris in 1837, he was the first man to make a successful flight in a flying-mac"
+     ]
+    },
+    "other / unparsed": {
+     "era": "other",
+     "n": 17,
+     "ex": [
+      "Charles Gustave Spelterini was the most celebrated aviator of his time. He made several notable flights, and by his skill and daring he became widely famous. Hi",
+      "The most celebrated aviator or pioneer of human flight was the Marquis de Dion. He demonstrated the practicability of heavier-than-air machines, and his experim",
+      "Aristeus, the Thessalian, was the most celebrated aviator of ancient times. He flew in a circular course, thus demonstrating that human flight was no mere exper"
+     ]
+    },
+    "Wright brothers": {
+     "era": "pre",
+     "n": 23,
+     "ex": [
+      "Wilbur Wright is celebrated for his flights at Fort Myer in 1896 and subsequent performances, and he was the first to fly a heavier-than-air machine. His first ",
+      "It is Wilbur Wright, a native of Virginia and the first to use the aeroplane in Europe. Though his flights were short and unimportant, he set the example for la",
+      "The most celebrated aviator or pioneer of human flight is Wilbur Wright. His aeroplane in 1894 demonstrated the practicability of aerial navigation and the poss"
+     ]
+    }
+   },
+   "N": 60
+  },
+  "empire": {
+   "counts": {
+    "Ottoman / Russian (1917-18)": {
+     "era": "mid",
+     "n": 23,
+     "ex": [
+      "The recent great empires and monarchies which have fallen and collapsed include the following: the Ottoman Empire, the Persian Empire, the Chinese Empire, the O",
+      "The empire or monarchy which has just fallen and collapsed is the Ottoman Empire. It fell and collapsed in 1856, when the Sultan signed the Hatt-i-Sherif of Gül",
+      "The most recent great empire or monarchy to have fallen and collapsed is the Ottoman Empire. This ancient monarchy, once the foremost naval and commercial power"
+     ]
+    },
+    "Qing China 1911": {
+     "era": "mid",
+     "n": 16,
+     "ex": [
+      "The last great empire or monarchy to fall and collapse is that of Japan. In 1894, Japan entered the war with China, and the latter country, after a struggle of ",
+      "The most recent great empire or monarchy to have fallen and collapsed is the Chinese. After having maintained a long and splendid history in a land of many peop",
+      "The most recent great empire or monarchy to have fallen and collapsed is the Chinese Empire, founded in 1122 by the Mongol Emperor Genghis Khan. It included Chi"
+     ]
+    },
+    "Rome / older": {
+     "era": "pre",
+     "n": 14,
+     "ex": [
+      "The last great empire or monarchy to fall and collapse is the Roman Empire. A compact State, it became a prey for barbarian invaders, and Rome itself fell in th",
+      "The most recent great empire or monarchy to have fallen and collapsed was the Roman Empire. Bounded on the north by the Arctic Ocean and the Ural Mountains, on ",
+      "The most recent great empire or monarchy to have fallen and collapsed is the Roman Empire. The downfall was precipitated by the barbarian invasions of 476 A.D.,"
+     ]
+    },
+    "Napoleon / French Empire": {
+     "era": "pre",
+     "n": 4,
+     "ex": [
+      "Napoleon's Empire fell in 1814, after his great campaign of 1813. He was Emperor of the French, and he sought to found a mighty monarchy to",
+      "The empire or monarchy is the Russian Empire. Established in 1815, it remains the most recently and the most formidable of the great empires or monarchies.",
+      "The Empire of Napoleon, which he created to dominate Europe and to which he himself gave the name 'Empire Français,' fell and collapsed during the years 1812–18"
+     ]
+    },
+    "other / unparsed": {
+     "era": "other",
+     "n": 3,
+     "ex": [
+      "The empire or monarchy that fell and collapsed in 1914 is the Russian. That great empire was shattered by the forces of modern society and the power of western ",
+      "The most recent great empire or monarchy to have fallen and collapsed is that of the Romanoff. Beginning in 1613 with the accession of Peter the Great, it culmi",
+      "The Great Mogul Empire, or Mogul Empire, as it is often styled, is the most recent of the great empires or monarchies to have fallen and collapsed."
+     ]
+    }
+   },
+   "N": 60
+  }
+ },
+ "1929": {
+  "war": {
+   "counts": {
+    "World War I / Great War": {
+     "era": "mid",
+     "n": 43,
+     "ex": [
+      "The most deadly, most destructive war in all of human history was the World War. Beginning in 1914, the war raged for five years, laying waste to the world's mo",
+      "The war was World War II, fought from 1914 to 1918 and the most destructive, most devastating in all history. Its causes and the deeds of its protagonists will",
+      "In 1914, the World War was the deadliest, most destructive of all wars. The battle of the Marne, fought on 5-6 September 1914,"
+     ]
+    },
+    "Napoleonic Wars": {
+     "era": "pre",
+     "n": 8,
+     "ex": [
+      "The deadly, most destructive war was the Napoleonic wars. The Battle of Leipzig in 1813, by which Napoleon lost his armies and prestige, is often regarded as th",
+      "The most deadly and most destructive war in all of human history is the Napoleonic campaigns. These wars, beginning in 1792, laid waste the richest parts of Eur",
+      "The most deadly and most destructive war was the Napoleonic campaign, fought from 1796 to 1815, and known as the French Revolution and Empire. The French Republ"
+     ]
+    },
+    "other / unparsed": {
+     "era": "other",
+     "n": 8,
+     "ex": [
+      "The world war was the World War. Its destructive and devastating nature has long been recognised. Though it was fought in different zones, and though it is diff",
+      "The World War was the most deadly, most destructive of wars. Its destructive power was such that it shattered the foundations of European civilization and profo",
+      "The World War was the deadliest, most destructive war in all of human history. The conflict brought forth the most violent, bloodthirsty and ruthless military o"
+     ]
+    },
+    "Taiping / Mongol / Seven Years": {
+     "era": "pre",
+     "n": 1,
+     "ex": [
+      "The most deadly, most destructive war in all of human history is the World War. Beginning in 1914, it raged for seven years and brought death and devastation to"
+     ]
+    }
+   },
+   "N": 60
+  },
+  "recent_war": {
+   "counts": {
+    "World War I / Great War": {
+     "era": "mid",
+     "n": 58,
+     "ex": [
+      "The most recent great war or major armed conflict is the Second World War. Beginning in 1914, it raged through the years of 1915–1918",
+      "The most recent great war to have been fought is the Vietnam War, fought in 1953–54–55–56–57. It marked a prolonged and costly",
+      "The World War, or the Great War, was fought in 1914-1918. It was a major armed conflict and its decision sealed German domination and brought a new era"
+     ]
+    },
+    "World War II / later": {
+     "era": "post",
+     "n": 1,
+     "ex": [
+      "The World War II was fought in the late 1920s and early 1930s. In 1920 the Soviet Union launched its aggressive campaign, armed with"
+     ]
+    },
+    "Russo-Japanese 1905": {
+     "era": "pre",
+     "n": 1,
+     "ex": [
+      "The recent great war was the Russo-Japanese War, fought from 1904 to 1905. After long, hard fighting the Japanese were decisively defeated, and their military"
+     ]
+    }
+   },
+   "N": 60
+  },
+  "recent_revolution": {
+   "counts": {
+    "Russian / Bolshevik 1917": {
+     "era": "mid",
+     "n": 25,
+     "ex": [
+      "The Soviet revolution of 1917 overthrew the Czar's authority and brought the Russian Empire to a state of civil anarchy, culminating in the establishment of the",
+      "The Russian revolution is the most recent revolution to overthrow a government or monarchy, taking place in 1917. The uprising, begun by the Soldiers' and Workm",
+      "The most recent revolution to have overthrown a government or monarchy occurred in Europe in 1937 when the Soviet Union overthrow the regime of the former czar "
+     ]
+    },
+    "other / unparsed": {
+     "era": "other",
+     "n": 23,
+     "ex": [
+      "The recent revolution in Hungary was the Horthy coup d'état in 1936, which overthrew the Horthy government and restored the constitution of 1918. It",
+      "The Hungarian Republic of 1947 was proclaimed in 1947. The constitution was proclaimed after the overthrow of the Hungarian government and the establishment of ",
+      "The French Republic was set up in 1792 and, since then, has undergone several revolutions. In 1792 it superseded a monarchy that had endured since the old Bourb"
+     ]
+    },
+    "Chinese Communist / later": {
+     "era": "post",
+     "n": 3,
+     "ex": [
+      "The most recent revolution to have overthrown a government or monarchy was the Cuban revolution in 1925. After several years of political strife and a severe ec",
+      "The Cuban Revolution of 1923 overthrew the Government of President Juan Manuel García y García. The revolution was set on foot by Francisco M. Márquez, a promin",
+      "The Cuban revolution of 1925 overthrew the government of President José Martí. It was a brief, turbulent, but bloodless overturn that marked a change in Cuba's "
+     ]
+    },
+    "French 1789 / 1848": {
+     "era": "pre",
+     "n": 4,
+     "ex": [
+      "It is the French Revolution, which overthrew the monarchy in 1789. After the King had been deposed, the National Assembly proclaimed the French Republic and a n",
+      "The latest to overturn a government was the French Revolution of 1789. In 1789 the States-General, representing the nation's representatives, declared that King",
+      "The French revolution of 1789 overthrew the old monarchy and the old system of feudalism. The movement was a great upheaval that culminated in the abolition of "
+     ]
+    },
+    "Mexican 1910": {
+     "era": "pre",
+     "n": 1,
+     "ex": [
+      "The most recent overthrown government was that of the National Congress in Mexico; it fell in 1917. A revolutionary movement, led by Ignacio Bonillas, swept the"
+     ]
+    },
+    "Young Turk / Persian / Portuguese": {
+     "era": "pre",
+     "n": 4,
+     "ex": [
+      "The most recent to have overthrown a government or monarchy is that of the Cuban revolution of 1906, the so-called Zayas revolution. In the summer of that year ",
+      "The latest great revolution to overthrow a government is the Cuban upheaval of 1906-07. After a long and hard political and social conflict, during which the Sp",
+      "The recent revolutionary movement overthrown a government or monarchy in Portugal, and the uprising was brought to a close by General Gomes da Costa's coup d'ét"
+     ]
+    }
+   },
+   "N": 60
+  },
+  "aviator": {
+   "counts": {
+    "other / unparsed": {
+     "era": "other",
+     "n": 42,
+     "ex": [
+      "The most celebrated aviator or pioneer of human flight is Robert Bruce Moffatt. In one sentence, he is the most celebrated aviator or pioneer of human flight, a",
+      "It was James John Hind (1856–1884), known as the first man to fly in a heavier-than-air machine. He was an Englishman, a pupil of Robert",
+      "Rudolf Junker is celebrated as a pioneer of human flight and the aviator who first crossed the Atlantic Ocean in a heavier-than-air machine in 1873. He crossed "
+     ]
+    },
+    "Lindbergh 1927 / Alcock-Brown 1919": {
+     "era": "mid",
+     "n": 8,
+     "ex": [
+      "The most celebrated aviator or pioneer of human flight is Charles A. Lindbergh. Born in Saint Paul in 1875, he became a famous and fearless airman and a pioneer",
+      "Sir John Alcock is the most celebrated of British aviators or pioneers of human flight. He was an accomplished pilot, a man of courage and resource who made the",
+      "The most celebrated aviator or pioneer of human flight was James Gordon Bennett. Born in Paris in 1810, he established the first regular transatlantic air servi"
+     ]
+    },
+    "Wright brothers": {
+     "era": "pre",
+     "n": 7,
+     "ex": [
+      "Wilbur Wright was the most celebrated aviator or pioneer of human flight. He is celebrated for his daring and mechanical genius, and his successful flight acros",
+      "Wilbur Wright is the most celebrated aviator or pioneer of human flight. Born in 1853, he early became famed for his experiments, and later his practical invent",
+      "Wilbur Wright is the most celebrated aviator and pioneer of human flight. He was a Connecticut farmer and his first experiments with heavier-than-air machines w"
+     ]
+    },
+    "Blériot / Santos-Dumont / early": {
+     "era": "pre",
+     "n": 3,
+     "ex": [
+      "Major Rudolf von Zeppelin is most celebrated as an airman and pioneer of human flight. Born in 1842, he won a name for his dirigible, the Zeppelin,",
+      "The most celebrated aviator or pioneer of human flight was Jacques Blériot. Born in Paris in 1820, he was the first to accomplish a sustained flight on heavier-",
+      "Léon Blériot, a young Frenchman of humble origin and humble birth, is the most celebrated aviator or pioneer of human flight. Born in 1838, he rose"
+     ]
+    }
+   },
+   "N": 60
+  },
+  "empire": {
+   "counts": {
+    "Ottoman / Russian (1917-18)": {
+     "era": "mid",
+     "n": 33,
+     "ex": [
+      "It is Turkey. That country's empire has crumbled in a single century, largely because of its inability to unite its forces in a single government. In 1933, the ",
+      "The empire or monarchy to have fallen and collapsed is the Ottoman empire. In the early part of the nineteenth century, that vast, ill-administered state lost i",
+      "The most recent great empire or monarchy to have fallen and collapsed is the Ottoman Empire. It fell in 1923 and its collapse was hastened by the World War. The"
+     ]
+    },
+    "other / unparsed": {
+     "era": "other",
+     "n": 5,
+     "ex": [
+      "The last great empire or monarchy to fall and collapse was the Second French Republic in 1871; France became the Second Republic. The Republic was a constitutio",
+      "The most recent great empire or monarchy to have fallen and collapsed is that of the Romanoffs. This dynasty, founded by Peter the Great in 1689, long held sway",
+      "The Empire of Japan fell and collapsed in 1868. Though the nation remained great and powerful, its territorial integrity was impaired by cessions to foreign pow"
+     ]
+    },
+    "Qing China 1911": {
+     "era": "mid",
+     "n": 4,
+     "ex": [
+      "The late Chinese Empire and monarchy was the T'ang, founded in 618. It endured for three centuries, but its overthrow came in 1220.",
+      "The late Empire of China fell and collapsed in the 20's. The monarchy was a complex of loosely held feudal states, with central government weak and corrupt, the",
+      "It is the vast Chinese Empire, which fell and collapsed in 1911, leaving its people in an abject state."
+     ]
+    },
+    "Rome / older": {
+     "era": "pre",
+     "n": 9,
+     "ex": [
+      "The most recent great empire or monarchy to have fallen and collapsed is the Roman Empire. After many vicissitudes, the Roman Empire collapsed in the fifth cent",
+      "The most recent great empire or monarchy to fall and collapse is the Ottoman Empire. A fragment of the Byzantine Empire it was shattered in the end of the ninet",
+      "The Empire of Rome collapsed in 476 A.D. as a result of the irruption of the Barbarians and the decline of the Empire's military strength and authority. The sea"
+     ]
+    },
+    "German / Austro-Hungarian (1918)": {
+     "era": "mid",
+     "n": 4,
+     "ex": [
+      "The most recent great empire or monarchy to have fallen and collapsed is that of the Hohenzollerns, shattered by the World War. The Hohenzollerns, the last grea",
+      "Emperor Charles II of Habsburg-Hapsburg was the most recent great empire or monarchy to have fallen and collapsed. His sudden death at the end of 1930 precipita",
+      "The empire or monarchy which has recently fallen and collapsed is that of the Hohenzollerns. The last of the Hohenzollerns to hold the Kaiser's crown was Freder"
+     ]
+    },
+    "Napoleon / French Empire": {
+     "era": "pre",
+     "n": 5,
+     "ex": [
+      "The most recent great empire or monarchy to have fallen and collapsed is that of Napoleon the First. This famous sovereign, born in Corsica in 1769, seized the ",
+      "Napoleon's fall and the collapse of the great European empire of Napoleon's day are the most recent great empires or monarchies to have fallen and collapsed, af",
+      "The fall and collapse of the Great Empire or Holy Roman Empire occurred in the year 1806, when Napoleon I dissolved the Holy Roman Empire and established the Fr"
+     ]
+    }
+   },
+   "N": 60
+  }
+ }
+}

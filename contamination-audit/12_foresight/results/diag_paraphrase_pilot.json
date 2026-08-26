@@ -1,0 +1,1442 @@
+{
+ "airplanes/0/1900": {
+  "nll_pt": 3.7817,
+  "ntok": 15
+ },
+ "airplanes/1/1900": {
+  "nll_pt": 3.4729,
+  "ntok": 17
+ },
+ "airplanes/2/1900": {
+  "nll_pt": 4.1457,
+  "ntok": 12
+ },
+ "airplanes/3/1900": {
+  "nll_pt": 4.4016,
+  "ntok": 12
+ },
+ "airplanes/4/1900": {
+  "nll_pt": 4.3651,
+  "ntok": 14
+ },
+ "airplanes/5/1900": {
+  "nll_pt": 5.4703,
+  "ntok": 12
+ },
+ "airplanes/6/1900": {
+  "nll_pt": 4.5542,
+  "ntok": 17
+ },
+ "airplanes/7/1900": {
+  "nll_pt": 3.8467,
+  "ntok": 13
+ },
+ "airplanes/8/1900": {
+  "nll_pt": 4.4379,
+  "ntok": 12
+ },
+ "airplanes/9/1900": {
+  "nll_pt": 4.4449,
+  "ntok": 13
+ },
+ "airplanes/10/1900": {
+  "nll_pt": 4.7898,
+  "ntok": 13
+ },
+ "airplanes/11/1900": {
+  "nll_pt": 3.7603,
+  "ntok": 17
+ },
+ "airplanes/12/1900": {
+  "nll_pt": 4.7499,
+  "ntok": 14
+ },
+ "airplanes/13/1900": {
+  "nll_pt": 3.4844,
+  "ntok": 17
+ },
+ "airplanes/14/1900": {
+  "nll_pt": 4.1184,
+  "ntok": 15
+ },
+ "airplanes/15/1900": {
+  "nll_pt": 4.7711,
+  "ntok": 14
+ },
+ "airplanes/16/1900": {
+  "nll_pt": 4.2362,
+  "ntok": 15
+ },
+ "airplanes/17/1900": {
+  "nll_pt": 4.3354,
+  "ntok": 15
+ },
+ "airplanes/18/1900": {
+  "nll_pt": 4.6158,
+  "ntok": 14
+ },
+ "airplanes/19/1900": {
+  "nll_pt": 3.5078,
+  "ntok": 17
+ },
+ "motorcars/0/1900": {
+  "nll_pt": 3.5283,
+  "ntok": 15
+ },
+ "motorcars/1/1900": {
+  "nll_pt": 3.5355,
+  "ntok": 14
+ },
+ "motorcars/2/1900": {
+  "nll_pt": 4.7913,
+  "ntok": 11
+ },
+ "motorcars/3/1900": {
+  "nll_pt": 4.1988,
+  "ntok": 13
+ },
+ "motorcars/4/1900": {
+  "nll_pt": 3.9192,
+  "ntok": 14
+ },
+ "motorcars/5/1900": {
+  "nll_pt": 2.6363,
+  "ntok": 14
+ },
+ "motorcars/6/1900": {
+  "nll_pt": 3.8949,
+  "ntok": 15
+ },
+ "motorcars/7/1900": {
+  "nll_pt": 3.8781,
+  "ntok": 14
+ },
+ "motorcars/8/1900": {
+  "nll_pt": 4.9214,
+  "ntok": 12
+ },
+ "motorcars/9/1900": {
+  "nll_pt": 4.0607,
+  "ntok": 13
+ },
+ "motorcars/10/1900": {
+  "nll_pt": 5.097,
+  "ntok": 12
+ },
+ "motorcars/11/1900": {
+  "nll_pt": 5.0028,
+  "ntok": 16
+ },
+ "motorcars/12/1900": {
+  "nll_pt": 5.6374,
+  "ntok": 13
+ },
+ "motorcars/13/1900": {
+  "nll_pt": 3.6148,
+  "ntok": 15
+ },
+ "motorcars/14/1900": {
+  "nll_pt": 4.2524,
+  "ntok": 11
+ },
+ "motorcars/15/1900": {
+  "nll_pt": 5.0985,
+  "ntok": 14
+ },
+ "motorcars/16/1900": {
+  "nll_pt": 4.3041,
+  "ntok": 14
+ },
+ "motorcars/17/1900": {
+  "nll_pt": 4.7736,
+  "ntok": 15
+ },
+ "motorcars/18/1900": {
+  "nll_pt": 4.7376,
+  "ntok": 15
+ },
+ "motorcars/19/1900": {
+  "nll_pt": 3.8701,
+  "ntok": 17
+ },
+ "poison_gas/0/1900": {
+  "nll_pt": 4.1059,
+  "ntok": 15
+ },
+ "poison_gas/1/1900": {
+  "nll_pt": 7.0808,
+  "ntok": 12
+ },
+ "poison_gas/2/1900": {
+  "nll_pt": 4.5827,
+  "ntok": 12
+ },
+ "poison_gas/3/1900": {
+  "nll_pt": 5.0421,
+  "ntok": 15
+ },
+ "poison_gas/4/1900": {
+  "nll_pt": 4.0379,
+  "ntok": 14
+ },
+ "poison_gas/5/1900": {
+  "nll_pt": 4.8367,
+  "ntok": 15
+ },
+ "poison_gas/6/1900": {
+  "nll_pt": 5.9618,
+  "ntok": 12
+ },
+ "poison_gas/7/1900": {
+  "nll_pt": 4.0098,
+  "ntok": 17
+ },
+ "poison_gas/8/1900": {
+  "nll_pt": 4.5344,
+  "ntok": 15
+ },
+ "poison_gas/9/1900": {
+  "nll_pt": 6.0162,
+  "ntok": 14
+ },
+ "poison_gas/10/1900": {
+  "nll_pt": 5.8398,
+  "ntok": 12
+ },
+ "poison_gas/11/1900": {
+  "nll_pt": 4.5597,
+  "ntok": 15
+ },
+ "poison_gas/12/1900": {
+  "nll_pt": 4.5419,
+  "ntok": 16
+ },
+ "poison_gas/13/1900": {
+  "nll_pt": 6.638,
+  "ntok": 14
+ },
+ "poison_gas/14/1900": {
+  "nll_pt": 4.6966,
+  "ntok": 14
+ },
+ "poison_gas/15/1900": {
+  "nll_pt": 4.87,
+  "ntok": 16
+ },
+ "poison_gas/16/1900": {
+  "nll_pt": 4.2121,
+  "ntok": 15
+ },
+ "poison_gas/17/1900": {
+  "nll_pt": 4.9864,
+  "ntok": 15
+ },
+ "poison_gas/18/1900": {
+  "nll_pt": 4.7484,
+  "ntok": 15
+ },
+ "poison_gas/19/1900": {
+  "nll_pt": 5.5712,
+  "ntok": 14
+ },
+ "cavalry/0/1900": {
+  "nll_pt": 3.6548,
+  "ntok": 16
+ },
+ "cavalry/1/1900": {
+  "nll_pt": 5.3911,
+  "ntok": 13
+ },
+ "cavalry/2/1900": {
+  "nll_pt": 4.4076,
+  "ntok": 17
+ },
+ "cavalry/3/1900": {
+  "nll_pt": 4.2794,
+  "ntok": 14
+ },
+ "cavalry/4/1900": {
+  "nll_pt": 4.6231,
+  "ntok": 15
+ },
+ "cavalry/5/1900": {
+  "nll_pt": 3.7187,
+  "ntok": 16
+ },
+ "cavalry/6/1900": {
+  "nll_pt": 4.5319,
+  "ntok": 15
+ },
+ "cavalry/7/1900": {
+  "nll_pt": 4.2138,
+  "ntok": 16
+ },
+ "cavalry/8/1900": {
+  "nll_pt": 3.8395,
+  "ntok": 16
+ },
+ "cavalry/9/1900": {
+  "nll_pt": 3.8341,
+  "ntok": 16
+ },
+ "cavalry/10/1900": {
+  "nll_pt": 4.6716,
+  "ntok": 14
+ },
+ "cavalry/11/1900": {
+  "nll_pt": 4.0447,
+  "ntok": 15
+ },
+ "cavalry/12/1900": {
+  "nll_pt": 3.9894,
+  "ntok": 15
+ },
+ "cavalry/13/1900": {
+  "nll_pt": 4.2821,
+  "ntok": 15
+ },
+ "cavalry/14/1900": {
+  "nll_pt": 4.3107,
+  "ntok": 16
+ },
+ "cavalry/15/1900": {
+  "nll_pt": 4.7311,
+  "ntok": 17
+ },
+ "cavalry/16/1900": {
+  "nll_pt": 4.3687,
+  "ntok": 13
+ },
+ "cavalry/17/1900": {
+  "nll_pt": 5.5771,
+  "ntok": 15
+ },
+ "cavalry/18/1900": {
+  "nll_pt": 3.4256,
+  "ntok": 16
+ },
+ "cavalry/19/1900": {
+  "nll_pt": 3.9791,
+  "ntok": 16
+ },
+ "state_default/0/1900": {
+  "nll_pt": 4.8909,
+  "ntok": 13
+ },
+ "state_default/1/1900": {
+  "nll_pt": 4.2228,
+  "ntok": 14
+ },
+ "state_default/2/1900": {
+  "nll_pt": 5.1652,
+  "ntok": 12
+ },
+ "state_default/3/1900": {
+  "nll_pt": 4.8714,
+  "ntok": 12
+ },
+ "state_default/4/1900": {
+  "nll_pt": 5.1336,
+  "ntok": 11
+ },
+ "state_default/5/1900": {
+  "nll_pt": 3.7371,
+  "ntok": 11
+ },
+ "state_default/6/1900": {
+  "nll_pt": 6.3188,
+  "ntok": 12
+ },
+ "state_default/7/1900": {
+  "nll_pt": 3.8471,
+  "ntok": 14
+ },
+ "state_default/8/1900": {
+  "nll_pt": 4.237,
+  "ntok": 15
+ },
+ "state_default/9/1900": {
+  "nll_pt": 4.2409,
+  "ntok": 13
+ },
+ "state_default/10/1900": {
+  "nll_pt": 5.4357,
+  "ntok": 11
+ },
+ "state_default/11/1900": {
+  "nll_pt": 4.6853,
+  "ntok": 14
+ },
+ "state_default/12/1900": {
+  "nll_pt": 4.2588,
+  "ntok": 20
+ },
+ "state_default/13/1900": {
+  "nll_pt": 4.4996,
+  "ntok": 13
+ },
+ "state_default/14/1900": {
+  "nll_pt": 4.4633,
+  "ntok": 14
+ },
+ "state_default/15/1900": {
+  "nll_pt": 5.8021,
+  "ntok": 12
+ },
+ "state_default/16/1900": {
+  "nll_pt": 5.3677,
+  "ntok": 12
+ },
+ "state_default/17/1900": {
+  "nll_pt": 5.6728,
+  "ntok": 16
+ },
+ "state_default/18/1900": {
+  "nll_pt": 5.0624,
+  "ntok": 15
+ },
+ "state_default/19/1900": {
+  "nll_pt": 4.9624,
+  "ntok": 14
+ },
+ "hyperinflation/0/1900": {
+  "nll_pt": 5.5597,
+  "ntok": 13
+ },
+ "hyperinflation/1/1900": {
+  "nll_pt": 3.9524,
+  "ntok": 17
+ },
+ "hyperinflation/2/1900": {
+  "nll_pt": 5.1629,
+  "ntok": 13
+ },
+ "hyperinflation/3/1900": {
+  "nll_pt": 3.5533,
+  "ntok": 20
+ },
+ "hyperinflation/4/1900": {
+  "nll_pt": 3.7663,
+  "ntok": 16
+ },
+ "hyperinflation/5/1900": {
+  "nll_pt": 3.8207,
+  "ntok": 15
+ },
+ "hyperinflation/6/1900": {
+  "nll_pt": 4.7197,
+  "ntok": 14
+ },
+ "hyperinflation/7/1900": {
+  "nll_pt": 4.7277,
+  "ntok": 12
+ },
+ "hyperinflation/8/1900": {
+  "nll_pt": 4.251,
+  "ntok": 16
+ },
+ "hyperinflation/9/1900": {
+  "nll_pt": 5.8112,
+  "ntok": 14
+ },
+ "hyperinflation/10/1900": {
+  "nll_pt": 4.4081,
+  "ntok": 16
+ },
+ "hyperinflation/11/1900": {
+  "nll_pt": 3.1621,
+  "ntok": 17
+ },
+ "hyperinflation/12/1900": {
+  "nll_pt": 5.1643,
+  "ntok": 16
+ },
+ "hyperinflation/13/1900": {
+  "nll_pt": 5.1772,
+  "ntok": 15
+ },
+ "hyperinflation/14/1900": {
+  "nll_pt": 4.4873,
+  "ntok": 18
+ },
+ "hyperinflation/15/1900": {
+  "nll_pt": 4.3624,
+  "ntok": 20
+ },
+ "hyperinflation/16/1900": {
+  "nll_pt": 4.9347,
+  "ntok": 17
+ },
+ "hyperinflation/17/1900": {
+  "nll_pt": 5.8591,
+  "ntok": 15
+ },
+ "hyperinflation/18/1900": {
+  "nll_pt": 4.4224,
+  "ntok": 16
+ },
+ "hyperinflation/19/1900": {
+  "nll_pt": 5.0456,
+  "ntok": 17
+ },
+ "airplanes/0/1913": {
+  "nll_pt": 3.3138,
+  "ntok": 15
+ },
+ "airplanes/1/1913": {
+  "nll_pt": 3.3589,
+  "ntok": 17
+ },
+ "airplanes/2/1913": {
+  "nll_pt": 3.9082,
+  "ntok": 12
+ },
+ "airplanes/3/1913": {
+  "nll_pt": 3.8803,
+  "ntok": 12
+ },
+ "airplanes/4/1913": {
+  "nll_pt": 3.9636,
+  "ntok": 14
+ },
+ "airplanes/5/1913": {
+  "nll_pt": 5.4187,
+  "ntok": 12
+ },
+ "airplanes/6/1913": {
+  "nll_pt": 4.3177,
+  "ntok": 17
+ },
+ "airplanes/7/1913": {
+  "nll_pt": 3.4019,
+  "ntok": 13
+ },
+ "airplanes/8/1913": {
+  "nll_pt": 4.9572,
+  "ntok": 12
+ },
+ "airplanes/9/1913": {
+  "nll_pt": 4.1784,
+  "ntok": 13
+ },
+ "airplanes/10/1913": {
+  "nll_pt": 4.0876,
+  "ntok": 13
+ },
+ "airplanes/11/1913": {
+  "nll_pt": 3.8738,
+  "ntok": 17
+ },
+ "airplanes/12/1913": {
+  "nll_pt": 4.7094,
+  "ntok": 14
+ },
+ "airplanes/13/1913": {
+  "nll_pt": 3.6916,
+  "ntok": 17
+ },
+ "airplanes/14/1913": {
+  "nll_pt": 3.6542,
+  "ntok": 15
+ },
+ "airplanes/15/1913": {
+  "nll_pt": 4.4544,
+  "ntok": 14
+ },
+ "airplanes/16/1913": {
+  "nll_pt": 3.6479,
+  "ntok": 15
+ },
+ "airplanes/17/1913": {
+  "nll_pt": 3.9178,
+  "ntok": 15
+ },
+ "airplanes/18/1913": {
+  "nll_pt": 4.5492,
+  "ntok": 14
+ },
+ "airplanes/19/1913": {
+  "nll_pt": 3.1489,
+  "ntok": 17
+ },
+ "motorcars/0/1913": {
+  "nll_pt": 3.7247,
+  "ntok": 15
+ },
+ "motorcars/1/1913": {
+  "nll_pt": 2.9669,
+  "ntok": 14
+ },
+ "motorcars/2/1913": {
+  "nll_pt": 4.4894,
+  "ntok": 11
+ },
+ "motorcars/3/1913": {
+  "nll_pt": 3.4571,
+  "ntok": 13
+ },
+ "motorcars/4/1913": {
+  "nll_pt": 3.7297,
+  "ntok": 14
+ },
+ "motorcars/5/1913": {
+  "nll_pt": 2.4733,
+  "ntok": 14
+ },
+ "motorcars/6/1913": {
+  "nll_pt": 3.8892,
+  "ntok": 15
+ },
+ "motorcars/7/1913": {
+  "nll_pt": 3.7055,
+  "ntok": 14
+ },
+ "motorcars/8/1913": {
+  "nll_pt": 4.6374,
+  "ntok": 12
+ },
+ "motorcars/9/1913": {
+  "nll_pt": 3.6923,
+  "ntok": 13
+ },
+ "motorcars/10/1913": {
+  "nll_pt": 5.3321,
+  "ntok": 12
+ },
+ "motorcars/11/1913": {
+  "nll_pt": 4.3792,
+  "ntok": 16
+ },
+ "motorcars/12/1913": {
+  "nll_pt": 5.0637,
+  "ntok": 13
+ },
+ "motorcars/13/1913": {
+  "nll_pt": 3.5178,
+  "ntok": 15
+ },
+ "motorcars/14/1913": {
+  "nll_pt": 4.3356,
+  "ntok": 11
+ },
+ "motorcars/15/1913": {
+  "nll_pt": 4.5894,
+  "ntok": 14
+ },
+ "motorcars/16/1913": {
+  "nll_pt": 4.1913,
+  "ntok": 14
+ },
+ "motorcars/17/1913": {
+  "nll_pt": 4.5083,
+  "ntok": 15
+ },
+ "motorcars/18/1913": {
+  "nll_pt": 4.3922,
+  "ntok": 15
+ },
+ "motorcars/19/1913": {
+  "nll_pt": 3.4238,
+  "ntok": 17
+ },
+ "poison_gas/0/1913": {
+  "nll_pt": 4.489,
+  "ntok": 15
+ },
+ "poison_gas/1/1913": {
+  "nll_pt": 6.7861,
+  "ntok": 12
+ },
+ "poison_gas/2/1913": {
+  "nll_pt": 4.6069,
+  "ntok": 12
+ },
+ "poison_gas/3/1913": {
+  "nll_pt": 4.9142,
+  "ntok": 15
+ },
+ "poison_gas/4/1913": {
+  "nll_pt": 3.6851,
+  "ntok": 14
+ },
+ "poison_gas/5/1913": {
+  "nll_pt": 4.3529,
+  "ntok": 15
+ },
+ "poison_gas/6/1913": {
+  "nll_pt": 5.4145,
+  "ntok": 12
+ },
+ "poison_gas/7/1913": {
+  "nll_pt": 3.97,
+  "ntok": 17
+ },
+ "poison_gas/8/1913": {
+  "nll_pt": 4.661,
+  "ntok": 15
+ },
+ "poison_gas/9/1913": {
+  "nll_pt": 6.2222,
+  "ntok": 14
+ },
+ "poison_gas/10/1913": {
+  "nll_pt": 5.3592,
+  "ntok": 12
+ },
+ "poison_gas/11/1913": {
+  "nll_pt": 4.3158,
+  "ntok": 15
+ },
+ "poison_gas/12/1913": {
+  "nll_pt": 4.3322,
+  "ntok": 16
+ },
+ "poison_gas/13/1913": {
+  "nll_pt": 5.9873,
+  "ntok": 14
+ },
+ "poison_gas/14/1913": {
+  "nll_pt": 4.3922,
+  "ntok": 14
+ },
+ "poison_gas/15/1913": {
+  "nll_pt": 4.8334,
+  "ntok": 16
+ },
+ "poison_gas/16/1913": {
+  "nll_pt": 4.2146,
+  "ntok": 15
+ },
+ "poison_gas/17/1913": {
+  "nll_pt": 5.3497,
+  "ntok": 15
+ },
+ "poison_gas/18/1913": {
+  "nll_pt": 4.459,
+  "ntok": 15
+ },
+ "poison_gas/19/1913": {
+  "nll_pt": 5.4686,
+  "ntok": 14
+ },
+ "cavalry/0/1913": {
+  "nll_pt": 3.6329,
+  "ntok": 16
+ },
+ "cavalry/1/1913": {
+  "nll_pt": 5.2286,
+  "ntok": 13
+ },
+ "cavalry/2/1913": {
+  "nll_pt": 4.4977,
+  "ntok": 17
+ },
+ "cavalry/3/1913": {
+  "nll_pt": 4.1266,
+  "ntok": 14
+ },
+ "cavalry/4/1913": {
+  "nll_pt": 4.445,
+  "ntok": 15
+ },
+ "cavalry/5/1913": {
+  "nll_pt": 3.6331,
+  "ntok": 16
+ },
+ "cavalry/6/1913": {
+  "nll_pt": 4.3684,
+  "ntok": 15
+ },
+ "cavalry/7/1913": {
+  "nll_pt": 4.1042,
+  "ntok": 16
+ },
+ "cavalry/8/1913": {
+  "nll_pt": 3.6457,
+  "ntok": 16
+ },
+ "cavalry/9/1913": {
+  "nll_pt": 3.7472,
+  "ntok": 16
+ },
+ "cavalry/10/1913": {
+  "nll_pt": 4.9287,
+  "ntok": 14
+ },
+ "cavalry/11/1913": {
+  "nll_pt": 4.0638,
+  "ntok": 15
+ },
+ "cavalry/12/1913": {
+  "nll_pt": 3.923,
+  "ntok": 15
+ },
+ "cavalry/13/1913": {
+  "nll_pt": 3.8632,
+  "ntok": 15
+ },
+ "cavalry/14/1913": {
+  "nll_pt": 4.2145,
+  "ntok": 16
+ },
+ "cavalry/15/1913": {
+  "nll_pt": 4.2646,
+  "ntok": 17
+ },
+ "cavalry/16/1913": {
+  "nll_pt": 4.1397,
+  "ntok": 13
+ },
+ "cavalry/17/1913": {
+  "nll_pt": 5.6033,
+  "ntok": 15
+ },
+ "cavalry/18/1913": {
+  "nll_pt": 3.7216,
+  "ntok": 16
+ },
+ "cavalry/19/1913": {
+  "nll_pt": 4.0118,
+  "ntok": 16
+ },
+ "state_default/0/1913": {
+  "nll_pt": 4.4356,
+  "ntok": 13
+ },
+ "state_default/1/1913": {
+  "nll_pt": 4.2564,
+  "ntok": 14
+ },
+ "state_default/2/1913": {
+  "nll_pt": 5.2298,
+  "ntok": 12
+ },
+ "state_default/3/1913": {
+  "nll_pt": 4.6349,
+  "ntok": 12
+ },
+ "state_default/4/1913": {
+  "nll_pt": 4.8153,
+  "ntok": 11
+ },
+ "state_default/5/1913": {
+  "nll_pt": 3.9279,
+  "ntok": 11
+ },
+ "state_default/6/1913": {
+  "nll_pt": 6.1769,
+  "ntok": 12
+ },
+ "state_default/7/1913": {
+  "nll_pt": 4.225,
+  "ntok": 14
+ },
+ "state_default/8/1913": {
+  "nll_pt": 4.0341,
+  "ntok": 15
+ },
+ "state_default/9/1913": {
+  "nll_pt": 4.0785,
+  "ntok": 13
+ },
+ "state_default/10/1913": {
+  "nll_pt": 5.467,
+  "ntok": 11
+ },
+ "state_default/11/1913": {
+  "nll_pt": 4.3988,
+  "ntok": 14
+ },
+ "state_default/12/1913": {
+  "nll_pt": 4.1468,
+  "ntok": 20
+ },
+ "state_default/13/1913": {
+  "nll_pt": 4.1285,
+  "ntok": 13
+ },
+ "state_default/14/1913": {
+  "nll_pt": 4.5717,
+  "ntok": 14
+ },
+ "state_default/15/1913": {
+  "nll_pt": 5.3544,
+  "ntok": 12
+ },
+ "state_default/16/1913": {
+  "nll_pt": 5.1585,
+  "ntok": 12
+ },
+ "state_default/17/1913": {
+  "nll_pt": 5.4992,
+  "ntok": 16
+ },
+ "state_default/18/1913": {
+  "nll_pt": 4.925,
+  "ntok": 15
+ },
+ "state_default/19/1913": {
+  "nll_pt": 5.1001,
+  "ntok": 14
+ },
+ "hyperinflation/0/1913": {
+  "nll_pt": 5.0684,
+  "ntok": 13
+ },
+ "hyperinflation/1/1913": {
+  "nll_pt": 4.0513,
+  "ntok": 17
+ },
+ "hyperinflation/2/1913": {
+  "nll_pt": 4.6176,
+  "ntok": 13
+ },
+ "hyperinflation/3/1913": {
+  "nll_pt": 3.2385,
+  "ntok": 20
+ },
+ "hyperinflation/4/1913": {
+  "nll_pt": 3.7975,
+  "ntok": 16
+ },
+ "hyperinflation/5/1913": {
+  "nll_pt": 3.6973,
+  "ntok": 15
+ },
+ "hyperinflation/6/1913": {
+  "nll_pt": 4.6797,
+  "ntok": 14
+ },
+ "hyperinflation/7/1913": {
+  "nll_pt": 4.8153,
+  "ntok": 12
+ },
+ "hyperinflation/8/1913": {
+  "nll_pt": 3.7241,
+  "ntok": 16
+ },
+ "hyperinflation/9/1913": {
+  "nll_pt": 5.3234,
+  "ntok": 14
+ },
+ "hyperinflation/10/1913": {
+  "nll_pt": 4.4532,
+  "ntok": 16
+ },
+ "hyperinflation/11/1913": {
+  "nll_pt": 3.0502,
+  "ntok": 17
+ },
+ "hyperinflation/12/1913": {
+  "nll_pt": 5.0077,
+  "ntok": 16
+ },
+ "hyperinflation/13/1913": {
+  "nll_pt": 5.0009,
+  "ntok": 15
+ },
+ "hyperinflation/14/1913": {
+  "nll_pt": 4.3895,
+  "ntok": 18
+ },
+ "hyperinflation/15/1913": {
+  "nll_pt": 4.3411,
+  "ntok": 20
+ },
+ "hyperinflation/16/1913": {
+  "nll_pt": 4.7649,
+  "ntok": 17
+ },
+ "hyperinflation/17/1913": {
+  "nll_pt": 5.6917,
+  "ntok": 15
+ },
+ "hyperinflation/18/1913": {
+  "nll_pt": 4.0948,
+  "ntok": 16
+ },
+ "hyperinflation/19/1913": {
+  "nll_pt": 5.3032,
+  "ntok": 17
+ },
+ "airplanes/0/1929": {
+  "nll_pt": 3.4652,
+  "ntok": 15
+ },
+ "airplanes/1/1929": {
+  "nll_pt": 3.1646,
+  "ntok": 17
+ },
+ "airplanes/2/1929": {
+  "nll_pt": 3.9842,
+  "ntok": 12
+ },
+ "airplanes/3/1929": {
+  "nll_pt": 3.743,
+  "ntok": 12
+ },
+ "airplanes/4/1929": {
+  "nll_pt": 3.8794,
+  "ntok": 14
+ },
+ "airplanes/5/1929": {
+  "nll_pt": 5.5184,
+  "ntok": 12
+ },
+ "airplanes/6/1929": {
+  "nll_pt": 4.2072,
+  "ntok": 17
+ },
+ "airplanes/7/1929": {
+  "nll_pt": 3.6495,
+  "ntok": 13
+ },
+ "airplanes/8/1929": {
+  "nll_pt": 4.1233,
+  "ntok": 12
+ },
+ "airplanes/9/1929": {
+  "nll_pt": 4.0202,
+  "ntok": 13
+ },
+ "airplanes/10/1929": {
+  "nll_pt": 3.9289,
+  "ntok": 13
+ },
+ "airplanes/11/1929": {
+  "nll_pt": 3.8226,
+  "ntok": 17
+ },
+ "airplanes/12/1929": {
+  "nll_pt": 4.6275,
+  "ntok": 14
+ },
+ "airplanes/13/1929": {
+  "nll_pt": 3.6973,
+  "ntok": 17
+ },
+ "airplanes/14/1929": {
+  "nll_pt": 3.611,
+  "ntok": 15
+ },
+ "airplanes/15/1929": {
+  "nll_pt": 4.186,
+  "ntok": 14
+ },
+ "airplanes/16/1929": {
+  "nll_pt": 3.8543,
+  "ntok": 15
+ },
+ "airplanes/17/1929": {
+  "nll_pt": 4.0789,
+  "ntok": 15
+ },
+ "airplanes/18/1929": {
+  "nll_pt": 4.6022,
+  "ntok": 14
+ },
+ "airplanes/19/1929": {
+  "nll_pt": 3.1,
+  "ntok": 17
+ },
+ "motorcars/0/1929": {
+  "nll_pt": 3.7179,
+  "ntok": 15
+ },
+ "motorcars/1/1929": {
+  "nll_pt": 2.9267,
+  "ntok": 14
+ },
+ "motorcars/2/1929": {
+  "nll_pt": 4.4977,
+  "ntok": 11
+ },
+ "motorcars/3/1929": {
+  "nll_pt": 3.5863,
+  "ntok": 13
+ },
+ "motorcars/4/1929": {
+  "nll_pt": 3.4053,
+  "ntok": 14
+ },
+ "motorcars/5/1929": {
+  "nll_pt": 2.4635,
+  "ntok": 14
+ },
+ "motorcars/6/1929": {
+  "nll_pt": 3.8702,
+  "ntok": 15
+ },
+ "motorcars/7/1929": {
+  "nll_pt": 3.5344,
+  "ntok": 14
+ },
+ "motorcars/8/1929": {
+  "nll_pt": 4.7103,
+  "ntok": 12
+ },
+ "motorcars/9/1929": {
+  "nll_pt": 3.6379,
+  "ntok": 13
+ },
+ "motorcars/10/1929": {
+  "nll_pt": 5.1799,
+  "ntok": 12
+ },
+ "motorcars/11/1929": {
+  "nll_pt": 4.6151,
+  "ntok": 16
+ },
+ "motorcars/12/1929": {
+  "nll_pt": 4.7464,
+  "ntok": 13
+ },
+ "motorcars/13/1929": {
+  "nll_pt": 3.5459,
+  "ntok": 15
+ },
+ "motorcars/14/1929": {
+  "nll_pt": 4.3072,
+  "ntok": 11
+ },
+ "motorcars/15/1929": {
+  "nll_pt": 4.378,
+  "ntok": 14
+ },
+ "motorcars/16/1929": {
+  "nll_pt": 4.1733,
+  "ntok": 14
+ },
+ "motorcars/17/1929": {
+  "nll_pt": 4.5275,
+  "ntok": 15
+ },
+ "motorcars/18/1929": {
+  "nll_pt": 4.3914,
+  "ntok": 15
+ },
+ "motorcars/19/1929": {
+  "nll_pt": 3.6869,
+  "ntok": 17
+ },
+ "poison_gas/0/1929": {
+  "nll_pt": 4.1547,
+  "ntok": 15
+ },
+ "poison_gas/1/1929": {
+  "nll_pt": 6.4259,
+  "ntok": 12
+ },
+ "poison_gas/2/1929": {
+  "nll_pt": 4.3069,
+  "ntok": 12
+ },
+ "poison_gas/3/1929": {
+  "nll_pt": 4.4744,
+  "ntok": 15
+ },
+ "poison_gas/4/1929": {
+  "nll_pt": 3.7369,
+  "ntok": 14
+ },
+ "poison_gas/5/1929": {
+  "nll_pt": 3.9509,
+  "ntok": 15
+ },
+ "poison_gas/6/1929": {
+  "nll_pt": 5.2517,
+  "ntok": 12
+ },
+ "poison_gas/7/1929": {
+  "nll_pt": 3.8989,
+  "ntok": 17
+ },
+ "poison_gas/8/1929": {
+  "nll_pt": 4.4366,
+  "ntok": 15
+ },
+ "poison_gas/9/1929": {
+  "nll_pt": 6.0401,
+  "ntok": 14
+ },
+ "poison_gas/10/1929": {
+  "nll_pt": 5.5925,
+  "ntok": 12
+ },
+ "poison_gas/11/1929": {
+  "nll_pt": 4.0679,
+  "ntok": 15
+ },
+ "poison_gas/12/1929": {
+  "nll_pt": 4.1513,
+  "ntok": 16
+ },
+ "poison_gas/13/1929": {
+  "nll_pt": 5.3261,
+  "ntok": 14
+ },
+ "poison_gas/14/1929": {
+  "nll_pt": 4.3642,
+  "ntok": 14
+ },
+ "poison_gas/15/1929": {
+  "nll_pt": 4.5637,
+  "ntok": 16
+ },
+ "poison_gas/16/1929": {
+  "nll_pt": 4.0428,
+  "ntok": 15
+ },
+ "poison_gas/17/1929": {
+  "nll_pt": 4.7357,
+  "ntok": 15
+ },
+ "poison_gas/18/1929": {
+  "nll_pt": 4.2768,
+  "ntok": 15
+ },
+ "poison_gas/19/1929": {
+  "nll_pt": 5.2734,
+  "ntok": 14
+ },
+ "cavalry/0/1929": {
+  "nll_pt": 3.6329,
+  "ntok": 16
+ },
+ "cavalry/1/1929": {
+  "nll_pt": 5.0932,
+  "ntok": 13
+ },
+ "cavalry/2/1929": {
+  "nll_pt": 4.2161,
+  "ntok": 17
+ },
+ "cavalry/3/1929": {
+  "nll_pt": 4.2109,
+  "ntok": 14
+ },
+ "cavalry/4/1929": {
+  "nll_pt": 4.4549,
+  "ntok": 15
+ },
+ "cavalry/5/1929": {
+  "nll_pt": 3.7482,
+  "ntok": 16
+ },
+ "cavalry/6/1929": {
+  "nll_pt": 4.3995,
+  "ntok": 15
+ },
+ "cavalry/7/1929": {
+  "nll_pt": 4.057,
+  "ntok": 16
+ },
+ "cavalry/8/1929": {
+  "nll_pt": 3.6603,
+  "ntok": 16
+ },
+ "cavalry/9/1929": {
+  "nll_pt": 3.7212,
+  "ntok": 16
+ },
+ "cavalry/10/1929": {
+  "nll_pt": 5.0828,
+  "ntok": 14
+ },
+ "cavalry/11/1929": {
+  "nll_pt": 3.848,
+  "ntok": 15
+ },
+ "cavalry/12/1929": {
+  "nll_pt": 4.015,
+  "ntok": 15
+ },
+ "cavalry/13/1929": {
+  "nll_pt": 4.0594,
+  "ntok": 15
+ },
+ "cavalry/14/1929": {
+  "nll_pt": 4.1973,
+  "ntok": 16
+ },
+ "cavalry/15/1929": {
+  "nll_pt": 4.2492,
+  "ntok": 17
+ },
+ "cavalry/16/1929": {
+  "nll_pt": 4.2642,
+  "ntok": 13
+ },
+ "cavalry/17/1929": {
+  "nll_pt": 4.8608,
+  "ntok": 15
+ },
+ "cavalry/18/1929": {
+  "nll_pt": 3.6123,
+  "ntok": 16
+ },
+ "cavalry/19/1929": {
+  "nll_pt": 4.0492,
+  "ntok": 16
+ },
+ "state_default/0/1929": {
+  "nll_pt": 4.4214,
+  "ntok": 13
+ },
+ "state_default/1/1929": {
+  "nll_pt": 4.1069,
+  "ntok": 14
+ },
+ "state_default/2/1929": {
+  "nll_pt": 4.9222,
+  "ntok": 12
+ },
+ "state_default/3/1929": {
+  "nll_pt": 4.6514,
+  "ntok": 12
+ },
+ "state_default/4/1929": {
+  "nll_pt": 4.9308,
+  "ntok": 11
+ },
+ "state_default/5/1929": {
+  "nll_pt": 3.8354,
+  "ntok": 11
+ },
+ "state_default/6/1929": {
+  "nll_pt": 6.2049,
+  "ntok": 12
+ },
+ "state_default/7/1929": {
+  "nll_pt": 4.2375,
+  "ntok": 14
+ },
+ "state_default/8/1929": {
+  "nll_pt": 4.269,
+  "ntok": 15
+ },
+ "state_default/9/1929": {
+  "nll_pt": 4.1009,
+  "ntok": 13
+ },
+ "state_default/10/1929": {
+  "nll_pt": 5.6486,
+  "ntok": 11
+ },
+ "state_default/11/1929": {
+  "nll_pt": 4.4349,
+  "ntok": 14
+ },
+ "state_default/12/1929": {
+  "nll_pt": 4.1608,
+  "ntok": 20
+ },
+ "state_default/13/1929": {
+  "nll_pt": 4.0857,
+  "ntok": 13
+ },
+ "state_default/14/1929": {
+  "nll_pt": 4.4408,
+  "ntok": 14
+ },
+ "state_default/15/1929": {
+  "nll_pt": 5.1297,
+  "ntok": 12
+ },
+ "state_default/16/1929": {
+  "nll_pt": 5.1566,
+  "ntok": 12
+ },
+ "state_default/17/1929": {
+  "nll_pt": 5.7591,
+  "ntok": 16
+ },
+ "state_default/18/1929": {
+  "nll_pt": 4.9283,
+  "ntok": 15
+ },
+ "state_default/19/1929": {
+  "nll_pt": 5.0653,
+  "ntok": 14
+ },
+ "hyperinflation/0/1929": {
+  "nll_pt": 5.0976,
+  "ntok": 13
+ },
+ "hyperinflation/1/1929": {
+  "nll_pt": 3.937,
+  "ntok": 17
+ },
+ "hyperinflation/2/1929": {
+  "nll_pt": 4.6595,
+  "ntok": 13
+ },
+ "hyperinflation/3/1929": {
+  "nll_pt": 3.1515,
+  "ntok": 20
+ },
+ "hyperinflation/4/1929": {
+  "nll_pt": 3.8107,
+  "ntok": 16
+ },
+ "hyperinflation/5/1929": {
+  "nll_pt": 3.6509,
+  "ntok": 15
+ },
+ "hyperinflation/6/1929": {
+  "nll_pt": 4.5634,
+  "ntok": 14
+ },
+ "hyperinflation/7/1929": {
+  "nll_pt": 4.815,
+  "ntok": 12
+ },
+ "hyperinflation/8/1929": {
+  "nll_pt": 3.693,
+  "ntok": 16
+ },
+ "hyperinflation/9/1929": {
+  "nll_pt": 5.3055,
+  "ntok": 14
+ },
+ "hyperinflation/10/1929": {
+  "nll_pt": 4.4847,
+  "ntok": 16
+ },
+ "hyperinflation/11/1929": {
+  "nll_pt": 2.9075,
+  "ntok": 17
+ },
+ "hyperinflation/12/1929": {
+  "nll_pt": 5.0736,
+  "ntok": 16
+ },
+ "hyperinflation/13/1929": {
+  "nll_pt": 4.908,
+  "ntok": 15
+ },
+ "hyperinflation/14/1929": {
+  "nll_pt": 4.1431,
+  "ntok": 18
+ },
+ "hyperinflation/15/1929": {
+  "nll_pt": 4.3262,
+  "ntok": 20
+ },
+ "hyperinflation/16/1929": {
+  "nll_pt": 4.6627,
+  "ntok": 17
+ },
+ "hyperinflation/17/1929": {
+  "nll_pt": 5.4803,
+  "ntok": 15
+ },
+ "hyperinflation/18/1929": {
+  "nll_pt": 3.9914,
+  "ntok": 16
+ },
+ "hyperinflation/19/1929": {
+  "nll_pt": 4.9378,
+  "ntok": 17
+ }
+}

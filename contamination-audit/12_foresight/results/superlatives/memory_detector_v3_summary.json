@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "version": "v3",
+  "date": "2026-07-10",
+  "layer": 25,
+  "method": "INLP null of realness-among-no-memory + memory probe on nulled features",
+  "n_dirs_per_fold": [
+   16,
+   13,
+   13,
+   14,
+   12
+  ],
+  "n_dirs_full": 16
+ },
+ "v2": {
+  "memory_auc": 0.8633952254641909,
+  "leak_auc": 0.6909340659340659,
+  "meter_real_unknown": 0.3454620032291991,
+  "meter_invented": 0.1312333581480773,
+  "gap": 0.21422864508112183,
+  "corr_exposure_unknown": 0.33359432184060767,
+  "obscure": {
+   "studied_mean": 0.9176800241965182,
+   "unstudied_mean": 0.24029420867305984,
+   "unstudied_FP": 1,
+   "n_unstudied": 8,
+   "n_studied": 8
+  }
+ },
+ "v3": {
+  "memory_auc": 0.8952254641909814,
+  "leak_auc": 0.570054945054945,
+  "meter_real_unknown": 0.20343483526234046,
+  "meter_invented": 0.14998128966570431,
+  "gap": 0.05345354559663615,
+  "corr_exposure_unknown": -0.12527969988277282,
+  "obscure": {
+   "studied_mean": 0.9126009547471388,
+   "unstudied_mean": 0.15703377402840127,
+   "unstudied_FP": 1,
+   "n_unstudied": 8,
+   "n_studied": 8
+  }
+ },
+ "obscure_per_treaty": {
+  "Andrusovo": {
+   "year": 1667,
+   "class": "unstudied",
+   "v2": 0.321,
+   "v3": 0.077
+  },
+  "Roskilde": {
+   "year": 1658,
+   "class": "studied",
+   "v2": 0.983,
+   "v3": 0.901
+  },
+  "Stolbovo": {
+   "year": 1617,
+   "class": "elsewhere",
+   "v2": 0.375,
+   "v3": 0.249
+  },
+  "Passarowitz": {
+   "year": 1718,
+   "class": "studied",
+   "v2": 1.0,
+   "v3": 0.999
+  },
+  "Belgrade": {
+   "year": 1739,
+   "class": "studied",
+   "v2": 0.457,
+   "v3": 0.62
+  },
+  "Küçük Kaynarca": {
+   "year": 1774,
+   "class": "unstudied",
+   "v2": 0.353,
+   "v3": 0.191
+  },
+  "Jassy": {
+   "year": 1792,
+   "class": "studied",
+   "v2": 0.929,
+   "v3": 0.894
+  },
+  "Gulistan": {
+   "year": 1813,
+   "class": "elsewhere",
+   "v2": 0.986,
+   "v3": 0.987
+  },
+  "Turkmenchay": {
+   "year": 1828,
+   "class": "elsewhere",
+   "v2": 0.886,
+   "v3": 0.776
+  },
+  "Hünkâr İskelesi": {
+   "year": 1833,
+   "class": "unstudied",
+   "v2": 0.035,
+   "v3": 0.163
+  },
+  "Whampoa": {
+   "year": 1844,
+   "class": "elsewhere",
+   "v2": 1.0,
+   "v3": 0.998
+  },
+  "Wanghia": {
+   "year": 1844,
+   "class": "unstudied",
+   "v2": 0.912,
+   "v3": 0.65
+  },
+  "Aigun": {
+   "year": 1858,
+   "class": "studied",
+   "v2": 0.995,
+   "v3": 0.96
+  },
+  "Björkö": {
+   "year": 1905,
+   "class": "unstudied",
+   "v2": 0.01,
+   "v3": 0.009
+  },
+  "Nöteborg": {
+   "year": 1323,
+   "class": "unstudied",
+   "v2": 0.273,
+   "v3": 0.142
+  },
+  "Nemours": {
+   "year": 1585,
+   "class": "unstudied",
+   "v2": 0.0,
+   "v3": 0.003
+  },
+  "Zuhab": {
+   "year": 1639,
+   "class": "unstudied",
+   "v2": 0.017,
+   "v3": 0.022
+  },
+  "Hubertusburg": {
+   "year": 1763,
+   "class": "studied",
+   "v2": 1.0,
+   "v3": 0.997
+  },
+  "Bucharest": {
+   "year": 1812,
+   "class": "studied",
+   "v2": 0.977,
+   "v3": 0.932
+  },
+  "Tientsin": {
+   "year": 1858,
+   "class": "studied",
+   "v2": 1.0,
+   "v3": 0.997
+  }
+ }
+}

@@ -1,0 +1,2281 @@
+{
+ "model": "talkie-1930-13b-base",
+ "metric": "forced_choice_sumlogp",
+ "validation_maxdiff": 0.0,
+ "aggregate": {
+  "pre:pre-controls": {
+   "correct": 31,
+   "n": 33,
+   "pct": 93.9,
+   "chance_pct": 25.0,
+   "binom_p": 0.0,
+   "mean_gap": 3.972
+  },
+  "pre:ALL": {
+   "correct": 31,
+   "n": 33,
+   "pct": 93.9,
+   "chance_pct": 25.0,
+   "binom_p": 0.0,
+   "mean_gap": 3.972
+  },
+  "post:Cold War": {
+   "correct": 8,
+   "n": 40,
+   "pct": 20.0,
+   "chance_pct": 25.0,
+   "binom_p": 0.818,
+   "mean_gap": -4.62
+  },
+  "post:US civil rights": {
+   "correct": 14,
+   "n": 37,
+   "pct": 37.8,
+   "chance_pct": 25.0,
+   "binom_p": 0.0577,
+   "mean_gap": -2.95
+  },
+  "post:US politics 1945-74": {
+   "correct": 10,
+   "n": 40,
+   "pct": 25.0,
+   "chance_pct": 25.0,
+   "binom_p": 0.5605,
+   "mean_gap": -4.9
+  },
+  "post:Vietnam War": {
+   "correct": 7,
+   "n": 39,
+   "pct": 17.9,
+   "chance_pct": 25.0,
+   "binom_p": 0.8888,
+   "mean_gap": -4.607
+  },
+  "post:culture & society": {
+   "correct": 2,
+   "n": 15,
+   "pct": 13.3,
+   "chance_pct": 25.0,
+   "binom_p": 0.9198,
+   "mean_gap": -7.962
+  },
+  "post:decolonisation": {
+   "correct": 4,
+   "n": 17,
+   "pct": 23.5,
+   "chance_pct": 25.0,
+   "binom_p": 0.647,
+   "mean_gap": -2.475
+  },
+  "post:disasters & conflicts": {
+   "correct": 5,
+   "n": 18,
+   "pct": 27.8,
+   "chance_pct": 25.0,
+   "binom_p": 0.4813,
+   "mean_gap": -3.211
+  },
+  "post:science & medicine": {
+   "correct": 0,
+   "n": 17,
+   "pct": 0.0,
+   "chance_pct": 25.0,
+   "binom_p": 1.0,
+   "mean_gap": -20.009
+  },
+  "post:space & computing": {
+   "correct": 2,
+   "n": 16,
+   "pct": 12.5,
+   "chance_pct": 25.0,
+   "binom_p": 0.9365,
+   "mean_gap": -5.471
+  },
+  "post:ALL": {
+   "correct": 52,
+   "n": 239,
+   "pct": 21.8,
+   "chance_pct": 25.0,
+   "binom_p": 0.8924,
+   "mean_gap": -5.509
+  }
+ },
+ "items": [
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "NATO founding",
+   "gap_best": -0.082,
+   "gap_mean": 0.262,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Warsaw Pact",
+   "gap_best": -2.484,
+   "gap_mean": 7.422,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Berlin Airlift",
+   "gap_best": -12.777,
+   "gap_mean": -7.892,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Korean War start",
+   "gap_best": -0.181,
+   "gap_mean": 0.183,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Sputnik launch",
+   "gap_best": -8.656,
+   "gap_mean": -4.957,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Cuban Missile Crisis",
+   "gap_best": 2.961,
+   "gap_mean": 9.918,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Bay of Pigs",
+   "gap_best": -11.921,
+   "gap_mean": -9.921,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Berlin Wall built",
+   "gap_best": -3.567,
+   "gap_mean": -1.539,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "NATO first secretary general",
+   "gap_best": -1.879,
+   "gap_mean": 1.617,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Warsaw Pact invasion of Czechoslovakia",
+   "gap_best": -5.137,
+   "gap_mean": -1.981,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Korean War armistice",
+   "gap_best": -26.771,
+   "gap_mean": -21.809,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "First man in space",
+   "gap_best": -6.182,
+   "gap_mean": -4.608,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "First American in orbit",
+   "gap_best": 5.462,
+   "gap_mean": 7.091,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Apollo 11 moon landing",
+   "gap_best": -0.873,
+   "gap_mean": -0.361,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "SALT I treaty",
+   "gap_best": -8.059,
+   "gap_mean": -5.248,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Detente policy",
+   "gap_best": 7.288,
+   "gap_mean": 15.266,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Nixon visits China",
+   "gap_best": -0.188,
+   "gap_mean": 0.205,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Soviet invasion of Afghanistan",
+   "gap_best": -0.383,
+   "gap_mean": 2.529,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Solidarity movement",
+   "gap_best": 3.627,
+   "gap_mean": 7.447,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Star Wars program",
+   "gap_best": -6.336,
+   "gap_mean": -4.839,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Glasnost policy",
+   "gap_best": -9.156,
+   "gap_mean": -3.097,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Perestroika policy",
+   "gap_best": -13.186,
+   "gap_mean": -8.868,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Berlin Wall falls",
+   "gap_best": 0.375,
+   "gap_mean": 0.472,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Velvet Revolution",
+   "gap_best": -3.639,
+   "gap_mean": -0.533,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Iron Curtain speech",
+   "gap_best": -2.229,
+   "gap_mean": 1.443,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Containment policy",
+   "gap_best": -6.723,
+   "gap_mean": -4.343,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "COMECON",
+   "gap_best": 0.584,
+   "gap_mean": 3.123,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Nuclear Test Ban Treaty",
+   "gap_best": -4.747,
+   "gap_mean": 0.823,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Brezhnev Doctrine",
+   "gap_best": -15.993,
+   "gap_mean": -13.943,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "SALT II treaty",
+   "gap_best": -3.312,
+   "gap_mean": -0.639,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Sinatra Doctrine",
+   "gap_best": -11.385,
+   "gap_mean": -4.817,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Fall of Ceausescu",
+   "gap_best": -9.856,
+   "gap_mean": -8.275,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "CSCE",
+   "gap_best": -0.267,
+   "gap_mean": 0.099,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Helsinki Accords",
+   "gap_best": -12.025,
+   "gap_mean": -6.735,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Prague Spring leader",
+   "gap_best": -5.044,
+   "gap_mean": -0.344,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Mutual Assured Destruction",
+   "gap_best": -6.341,
+   "gap_mean": -0.226,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Domino Theory",
+   "gap_best": 10.934,
+   "gap_mean": 16.051,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Kitchen Debate",
+   "gap_best": 4.312,
+   "gap_mean": 5.688,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Hotline established",
+   "gap_best": -7.776,
+   "gap_mean": -4.8,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Visegrad Group",
+   "gap_best": -13.184,
+   "gap_mean": -4.936,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Geneva Accords outcome",
+   "gap_best": -5.004,
+   "gap_mean": -3.269,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Gulf of Tonkin incident",
+   "gap_best": -0.863,
+   "gap_mean": 5.329,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Operation Rolling Thunder",
+   "gap_best": -5.739,
+   "gap_mean": -1.477,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Ia Drang battle",
+   "gap_best": -15.4,
+   "gap_mean": -10.522,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Tet Offensive start",
+   "gap_best": -6.98,
+   "gap_mean": 0.702,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "My Lai massacre",
+   "gap_best": -12.938,
+   "gap_mean": -5.774,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Viet Cong political arm",
+   "gap_best": -10.728,
+   "gap_mean": -3.937,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Ho Chi Minh Trail",
+   "gap_best": -19.449,
+   "gap_mean": -13.338,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Agent Orange herbicide",
+   "gap_best": -2.773,
+   "gap_mean": -1.59,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Paris Peace Accords signing",
+   "gap_best": 4.156,
+   "gap_mean": 8.156,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Last US helicopter",
+   "gap_best": -8.463,
+   "gap_mean": -0.275,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Operation Linebacker II",
+   "gap_best": -15.337,
+   "gap_mean": -11.904,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Khe Sanh siege",
+   "gap_best": -7.069,
+   "gap_mean": -5.129,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Hue Massacre",
+   "gap_best": 11.267,
+   "gap_mean": 11.993,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Phoenix Program",
+   "gap_best": 6.164,
+   "gap_mean": 7.91,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Tet Offensive embassy attack",
+   "gap_best": -1.224,
+   "gap_mean": 7.252,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Diem overthrow",
+   "gap_best": -4.568,
+   "gap_mean": 0.878,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Gulf of Tonkin Resolution",
+   "gap_best": -25.375,
+   "gap_mean": -18.554,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Christmas Bombing",
+   "gap_best": 10.407,
+   "gap_mean": 12.942,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Vietnamization policy",
+   "gap_best": -7.256,
+   "gap_mean": -4.669,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Pentagon Papers leak",
+   "gap_best": -2.066,
+   "gap_mean": 0.662,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Con Thien firebase",
+   "gap_best": -10.791,
+   "gap_mean": -5.832,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Operation Junction City",
+   "gap_best": -4.7,
+   "gap_mean": -1.935,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Madman Theory",
+   "gap_best": -1.233,
+   "gap_mean": 2.555,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Hamburger Hill battle",
+   "gap_best": -3.652,
+   "gap_mean": -2.761,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Last US combat troops withdrawal",
+   "gap_best": -0.211,
+   "gap_mean": 5.433,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Easter Offensive",
+   "gap_best": -4.123,
+   "gap_mean": 8.886,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "ARVN final president",
+   "gap_best": 1.644,
+   "gap_mean": 2.745,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "POW return operation",
+   "gap_best": 3.232,
+   "gap_mean": 9.495,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Credibility Gap",
+   "gap_best": -7.734,
+   "gap_mean": -2.059,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Free Fire Zones",
+   "gap_best": 9.618,
+   "gap_mean": 9.946,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Draft card burning",
+   "gap_best": -4.468,
+   "gap_mean": 6.522,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Search and Destroy",
+   "gap_best": -2.038,
+   "gap_mean": 1.259,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Operation Frequent Wind",
+   "gap_best": -9.409,
+   "gap_mean": -4.176,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Buddhist crisis self-immolation",
+   "gap_best": -3.347,
+   "gap_mean": 0.134,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Operation Cedar Falls",
+   "gap_best": -1.414,
+   "gap_mean": -0.323,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Convoy ambush famous",
+   "gap_best": -10.202,
+   "gap_mean": -2.793,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "MACV commander 1964-68",
+   "gap_best": -2.146,
+   "gap_mean": 1.57,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam War",
+   "label": "Operation Babylift",
+   "gap_best": -9.452,
+   "gap_mean": -6.758,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Brown v Board",
+   "gap_best": -3.697,
+   "gap_mean": 3.026,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Montgomery Bus Boycott",
+   "gap_best": -3.8,
+   "gap_mean": -1.119,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Little Rock Nine",
+   "gap_best": 0.14,
+   "gap_mean": 2.677,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Sit-in movement start",
+   "gap_best": -4.072,
+   "gap_mean": -2.874,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Freedom Rides",
+   "gap_best": 2.473,
+   "gap_mean": 5.823,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "James Meredith",
+   "gap_best": 11.258,
+   "gap_mean": 15.673,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "March on Washington",
+   "gap_best": -1.341,
+   "gap_mean": 7.324,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "16th Street Baptist Church",
+   "gap_best": -10.003,
+   "gap_mean": -8.814,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Mississippi Freedom Summer",
+   "gap_best": 1.423,
+   "gap_mean": 7.984,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Watts Riots",
+   "gap_best": -2.491,
+   "gap_mean": -1.483,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Black Panthers founded",
+   "gap_best": 0.361,
+   "gap_mean": 7.348,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Loving v Virginia",
+   "gap_best": -8.022,
+   "gap_mean": 0.989,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "SCLC",
+   "gap_best": -12.959,
+   "gap_mean": -2.03,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Freedom Summer murders",
+   "gap_best": -7.453,
+   "gap_mean": 0.261,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Malcolm X assassinated",
+   "gap_best": -1.532,
+   "gap_mean": 2.097,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Executive Order 9981",
+   "gap_best": 0.278,
+   "gap_mean": 0.612,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Daisy Bates",
+   "gap_best": -1.906,
+   "gap_mean": 9.343,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Albany Movement",
+   "gap_best": -7.246,
+   "gap_mean": -3.697,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Birmingham Campaign",
+   "gap_best": 2.487,
+   "gap_mean": 3.095,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "24th Amendment",
+   "gap_best": -1.029,
+   "gap_mean": -0.304,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Fannie Lou Hamer",
+   "gap_best": -11.375,
+   "gap_mean": -8.966,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Lowndes County Freedom Org",
+   "gap_best": -25.521,
+   "gap_mean": -10.84,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Meredith March",
+   "gap_best": -11.995,
+   "gap_mean": -5.46,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Stokely Carmichael slogan",
+   "gap_best": 4.703,
+   "gap_mean": 9.559,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Chicago Freedom Movement",
+   "gap_best": 1.793,
+   "gap_mean": 3.602,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Kerner Commission",
+   "gap_best": -8.77,
+   "gap_mean": -5.378,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Orangeburg Massacre",
+   "gap_best": 13.393,
+   "gap_mean": 17.223,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Eisenhower and Little Rock",
+   "gap_best": -2.653,
+   "gap_mean": -0.626,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "John Lewis beaten",
+   "gap_best": 2.718,
+   "gap_mean": 4.815,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Bombing of Gaston Motel",
+   "gap_best": -20.889,
+   "gap_mean": -17.388,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Diane Nash",
+   "gap_best": -3.486,
+   "gap_mean": 2.942,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Robert Moses",
+   "gap_best": -3.388,
+   "gap_mean": 3.09,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Emmett Till murder",
+   "gap_best": -4.827,
+   "gap_mean": 6.709,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "James Farmer",
+   "gap_best": 1.04,
+   "gap_mean": 4.507,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Ole Miss riot",
+   "gap_best": 1.834,
+   "gap_mean": 10.436,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "George Wallace stand",
+   "gap_best": 6.762,
+   "gap_mean": 13.015,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "JFK civil rights address",
+   "gap_best": -1.368,
+   "gap_mean": 2.058,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Marshall Plan",
+   "gap_best": 6.05,
+   "gap_mean": 11.253,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "NATO",
+   "gap_best": -0.312,
+   "gap_mean": 0.885,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Korean War start",
+   "gap_best": 0.369,
+   "gap_mean": 0.974,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Checkers speech",
+   "gap_best": -1.352,
+   "gap_mean": 1.441,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Army-McCarthy hearings",
+   "gap_best": -6.295,
+   "gap_mean": -0.018,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Montgomery Bus Boycott",
+   "gap_best": -8.206,
+   "gap_mean": 1.799,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Little Rock Nine",
+   "gap_best": 5.603,
+   "gap_mean": 6.114,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "NASA",
+   "gap_best": -0.375,
+   "gap_mean": 0.838,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Cuban Missile Crisis",
+   "gap_best": 2.76,
+   "gap_mean": 10.268,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "March on Washington",
+   "gap_best": -27.139,
+   "gap_mean": -20.883,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Gulf of Tonkin Resolution",
+   "gap_best": -13.536,
+   "gap_mean": -7.505,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Medicare",
+   "gap_best": -7.386,
+   "gap_mean": 2.486,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Tet Offensive",
+   "gap_best": -8.239,
+   "gap_mean": -5.124,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Apollo 11 moon landing",
+   "gap_best": -2.062,
+   "gap_mean": -1.289,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Pentagon Papers",
+   "gap_best": 0.081,
+   "gap_mean": 8.159,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Nixon visits China",
+   "gap_best": 14.419,
+   "gap_mean": 22.668,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Watergate break-in",
+   "gap_best": -27.827,
+   "gap_mean": -25.307,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "War Powers Resolution",
+   "gap_best": 0.202,
+   "gap_mean": 7.54,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "OPEC oil embargo",
+   "gap_best": -5.095,
+   "gap_mean": -1.556,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Saturday Night Massacre",
+   "gap_best": 6.232,
+   "gap_mean": 9.667,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Nixon resigns",
+   "gap_best": -6.548,
+   "gap_mean": -4.79,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Fair Deal",
+   "gap_best": -7.396,
+   "gap_mean": -4.286,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Taft-Hartley Act",
+   "gap_best": -11.503,
+   "gap_mean": -1.141,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Dixiecrats",
+   "gap_best": -11.646,
+   "gap_mean": -7.86,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Alger Hiss case",
+   "gap_best": -9.218,
+   "gap_mean": -5.037,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Brown v. Board of Education",
+   "gap_best": -11.745,
+   "gap_mean": -3.922,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Peace Corps",
+   "gap_best": -8.298,
+   "gap_mean": -0.365,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Bay of Pigs Invasion",
+   "gap_best": -12.065,
+   "gap_mean": -10.669,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "James Meredith",
+   "gap_best": 5.889,
+   "gap_mean": 12.597,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Limited Test Ban Treaty",
+   "gap_best": -7.509,
+   "gap_mean": -0.579,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Civil Rights Act of 1964",
+   "gap_best": 0.062,
+   "gap_mean": 5.141,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Great Society",
+   "gap_best": -3.215,
+   "gap_mean": -0.562,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Black Panther Party",
+   "gap_best": -3.272,
+   "gap_mean": 4.668,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Six-Day War",
+   "gap_best": -1.684,
+   "gap_mean": 2.794,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Robert F. Kennedy assassination",
+   "gap_best": -7.95,
+   "gap_mean": -4.336,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Stonewall riots",
+   "gap_best": -14.28,
+   "gap_mean": -11.467,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Kent State shootings",
+   "gap_best": -5.699,
+   "gap_mean": 1.128,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "26th Amendment",
+   "gap_best": -1.899,
+   "gap_mean": -1.052,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "Title IX",
+   "gap_best": -2.188,
+   "gap_mean": -1.0,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "US politics 1945-74",
+   "label": "SALT I",
+   "gap_best": -3.728,
+   "gap_mean": -0.261,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Algerian independence",
+   "gap_best": -0.562,
+   "gap_mean": 4.282,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Partition of India",
+   "gap_best": -2.339,
+   "gap_mean": 8.969,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Ghana independence",
+   "gap_best": -8.179,
+   "gap_mean": -7.538,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "First president of Ghana",
+   "gap_best": -3.24,
+   "gap_mean": 0.658,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Indonesian independence",
+   "gap_best": -1.287,
+   "gap_mean": 0.078,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "First president of Indonesia",
+   "gap_best": -1.09,
+   "gap_mean": 6.476,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Congo independence crisis",
+   "gap_best": 1.461,
+   "gap_mean": 5.431,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "First PM of Congo",
+   "gap_best": -7.227,
+   "gap_mean": -2.317,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Bangladesh liberation",
+   "gap_best": -16.475,
+   "gap_mean": -7.889,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Founding leader of Bangladesh",
+   "gap_best": -3.74,
+   "gap_mean": 2.119,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Kenyan independence",
+   "gap_best": -0.012,
+   "gap_mean": 6.893,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "First president of Kenya",
+   "gap_best": -3.959,
+   "gap_mean": 1.4,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Angolan independence",
+   "gap_best": 1.248,
+   "gap_mean": 7.52,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "First president of Angola",
+   "gap_best": 0.023,
+   "gap_mean": 9.251,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Malaysian independence",
+   "gap_best": -0.259,
+   "gap_mean": 3.413,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "First PM of Malaysia",
+   "gap_best": 3.999,
+   "gap_mean": 10.028,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "decolonisation",
+   "label": "Zimbabwe independence",
+   "gap_best": -0.44,
+   "gap_mean": 4.788,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first artificial satellite",
+   "gap_best": -12.256,
+   "gap_mean": -9.83,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first human in space",
+   "gap_best": -13.106,
+   "gap_mean": -11.051,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first moon landing mission",
+   "gap_best": -2.438,
+   "gap_mean": -0.629,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "inventor of transistor",
+   "gap_best": -10.581,
+   "gap_mean": -1.855,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first integrated circuit",
+   "gap_best": 16.613,
+   "gap_mean": 22.104,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first programmable computer",
+   "gap_best": -3.101,
+   "gap_mean": 4.285,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "ARPANET",
+   "gap_best": -7.377,
+   "gap_mean": -2.435,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first space station",
+   "gap_best": -18.685,
+   "gap_mean": -4.138,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first reusable spacecraft",
+   "gap_best": -1.614,
+   "gap_mean": 2.641,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "TCP/IP protocol",
+   "gap_best": -16.168,
+   "gap_mean": -11.559,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "Voyager program",
+   "gap_best": -7.014,
+   "gap_mean": -0.918,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "World Wide Web",
+   "gap_best": -5.752,
+   "gap_mean": -4.669,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "International Space Station",
+   "gap_best": -3.766,
+   "gap_mean": 8.903,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "first Mars rover",
+   "gap_best": -3.247,
+   "gap_mean": -1.621,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "microprocessor",
+   "gap_best": 1.938,
+   "gap_mean": 13.483,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "space & computing",
+   "label": "Challenger disaster",
+   "gap_best": -0.98,
+   "gap_mean": 2.23,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "DNA structure",
+   "gap_best": -0.7,
+   "gap_mean": 0.242,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Genetic code cracker",
+   "gap_best": -45.08,
+   "gap_mean": -42.252,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Polio vaccine developer",
+   "gap_best": -23.648,
+   "gap_mean": -22.087,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Penicillin clinical use",
+   "gap_best": -7.651,
+   "gap_mean": -4.601,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "DNA as genetic material",
+   "gap_best": -44.141,
+   "gap_mean": -42.093,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Oral polio vaccine",
+   "gap_best": -8.594,
+   "gap_mean": -0.898,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Structure of insulin",
+   "gap_best": -1.533,
+   "gap_mean": 1.133,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Antibiotic streptomycin",
+   "gap_best": -18.401,
+   "gap_mean": -6.286,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Central dogma",
+   "gap_best": -9.124,
+   "gap_mean": -2.169,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "PCR invention",
+   "gap_best": -14.346,
+   "gap_mean": -11.957,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Restriction enzymes",
+   "gap_best": -18.404,
+   "gap_mean": -14.838,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Laser invention",
+   "gap_best": -6.691,
+   "gap_mean": -3.986,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "CT scanner",
+   "gap_best": -11.697,
+   "gap_mean": -3.82,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "HIV identification",
+   "gap_best": -70.107,
+   "gap_mean": -67.114,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Mitochondrial DNA",
+   "gap_best": -25.232,
+   "gap_mean": -16.535,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Antibiotic resistance mechanism",
+   "gap_best": -33.068,
+   "gap_mean": -25.963,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "Human genome project start",
+   "gap_best": -1.74,
+   "gap_mean": 0.164,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "first Super Bowl",
+   "gap_best": -17.731,
+   "gap_mean": -5.329,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "Beatles first Ed Sullivan",
+   "gap_best": -6.547,
+   "gap_mean": -3.57,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "first man on the moon",
+   "gap_best": -4.862,
+   "gap_mean": 0.664,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "first Star Wars film",
+   "gap_best": -0.494,
+   "gap_mean": 0.327,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "CNN founding",
+   "gap_best": -2.263,
+   "gap_mean": -0.224,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "Disneyland opening",
+   "gap_best": -4.06,
+   "gap_mean": -2.839,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "Elvis Presley first TV",
+   "gap_best": -9.255,
+   "gap_mean": -6.549,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "MTV launch",
+   "gap_best": 3.656,
+   "gap_mean": 6.424,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "first James Bond film",
+   "gap_best": 0.493,
+   "gap_mean": 3.576,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "Beatles' Sgt. Pepper",
+   "gap_best": -51.312,
+   "gap_mean": -49.427,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "Apollo 13 incident",
+   "gap_best": -0.969,
+   "gap_mean": -0.62,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "Live Aid concert",
+   "gap_best": -3.914,
+   "gap_mean": -1.632,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "first woman PM UK",
+   "gap_best": -5.009,
+   "gap_mean": -0.162,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "fall of Berlin Wall",
+   "gap_best": -7.446,
+   "gap_mean": -2.125,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "culture & society",
+   "label": "Watergate scandal",
+   "gap_best": -9.724,
+   "gap_mean": 6.668,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Chernobyl disaster location",
+   "gap_best": -11.025,
+   "gap_mean": -5.986,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Falklands War combatants",
+   "gap_best": 6.509,
+   "gap_mean": 9.896,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Bhopal gas leak",
+   "gap_best": 2.503,
+   "gap_mean": 5.457,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Rwandan genocide",
+   "gap_best": -6.64,
+   "gap_mean": 1.322,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Soviet-Afghan War start",
+   "gap_best": 1.029,
+   "gap_mean": 4.588,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Three Mile Island accident",
+   "gap_best": -8.607,
+   "gap_mean": -5.614,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Iran-Iraq War start",
+   "gap_best": -2.344,
+   "gap_mean": 3.042,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Srebrenica massacre",
+   "gap_best": -1.986,
+   "gap_mean": 1.513,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Fukushima disaster",
+   "gap_best": 0.966,
+   "gap_mean": 2.253,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Yugoslav Wars breakup",
+   "gap_best": -0.99,
+   "gap_mean": 0.076,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Exxon Valdez spill",
+   "gap_best": -0.96,
+   "gap_mean": -0.574,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Korean War start",
+   "gap_best": -1.805,
+   "gap_mean": 0.693,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Biafran War",
+   "gap_best": -3.921,
+   "gap_mean": -1.71,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Deepwater Horizon spill",
+   "gap_best": -5.761,
+   "gap_mean": -4.085,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Six-Day War combatants",
+   "gap_best": 3.797,
+   "gap_mean": 8.876,
+   "correct": 1
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Love Canal disaster",
+   "gap_best": -1.99,
+   "gap_mean": -1.336,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Gulf War liberation",
+   "gap_best": -0.14,
+   "gap_mean": 4.292,
+   "correct": 0
+  },
+  {
+   "era": "post",
+   "topic": "disasters & conflicts",
+   "label": "Tiananmen Square protests",
+   "gap_best": -26.432,
+   "gap_mean": -17.362,
+   "correct": 0
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Napoleon exile",
+   "gap_best": 4.717,
+   "gap_mean": 7.114,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "First US President",
+   "gap_best": 1.865,
+   "gap_mean": 3.388,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "French Revolution start",
+   "gap_best": 5.772,
+   "gap_mean": 8.407,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of Waterloo",
+   "gap_best": 8.746,
+   "gap_mean": 9.62,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Darwin's ship",
+   "gap_best": 9.648,
+   "gap_mean": 11.242,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Charge of Light Brigade",
+   "gap_best": 2.599,
+   "gap_mean": 7.038,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Scott's Antarctic expedition",
+   "gap_best": 4.407,
+   "gap_mean": 8.377,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Suez Canal opening",
+   "gap_best": 5.058,
+   "gap_mean": 6.435,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "First transatlantic cable",
+   "gap_best": 3.184,
+   "gap_mean": 4.352,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Treaty of Versailles",
+   "gap_best": 3.757,
+   "gap_mean": 5.6,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Bolshevik Revolution",
+   "gap_best": 0.769,
+   "gap_mean": 1.727,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "First flight",
+   "gap_best": 7.953,
+   "gap_mean": 9.361,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Panama Canal US acquisition",
+   "gap_best": 4.359,
+   "gap_mean": 4.765,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Dreyfus Affair",
+   "gap_best": 9.272,
+   "gap_mean": 10.938,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Unification of Germany",
+   "gap_best": 6.0,
+   "gap_mean": 7.532,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of Gettysburg",
+   "gap_best": 6.188,
+   "gap_mean": 8.292,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Sepoy Mutiny",
+   "gap_best": 3.168,
+   "gap_mean": 5.852,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "California Gold Rush",
+   "gap_best": 6.746,
+   "gap_mean": 9.445,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Reign of Terror",
+   "gap_best": 10.106,
+   "gap_mean": 11.835,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Congress of Vienna",
+   "gap_best": 2.005,
+   "gap_mean": 4.656,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "First transcontinental railroad US",
+   "gap_best": 3.363,
+   "gap_mean": 4.061,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Boer War",
+   "gap_best": 1.548,
+   "gap_mean": 3.549,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Assassination of Archduke Franz Ferdinand",
+   "gap_best": 4.925,
+   "gap_mean": 7.008,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Monroe Doctrine",
+   "gap_best": -0.109,
+   "gap_mean": 2.018,
+   "correct": 0
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of Trafalgar",
+   "gap_best": 2.705,
+   "gap_mean": 4.392,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of the Alamo",
+   "gap_best": 1.049,
+   "gap_mean": 3.193,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "First modern Olympics",
+   "gap_best": 1.0,
+   "gap_mean": 1.792,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Lewis and Clark expedition",
+   "gap_best": 2.354,
+   "gap_mean": 4.828,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Charge of the Light Brigade location",
+   "gap_best": 2.372,
+   "gap_mean": 4.131,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "First successful steamboat",
+   "gap_best": 7.767,
+   "gap_mean": 10.245,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Sinking of the Lusitania",
+   "gap_best": 1.941,
+   "gap_mean": 3.737,
+   "correct": 1
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "Treaty of Nanjing",
+   "gap_best": -10.827,
+   "gap_mean": -0.787,
+   "correct": 0
+  },
+  {
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "John Brown's raid",
+   "gap_best": 6.674,
+   "gap_mean": 8.569,
+   "correct": 1
+  }
+ ]
+}

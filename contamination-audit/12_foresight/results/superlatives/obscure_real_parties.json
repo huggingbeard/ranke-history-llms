@@ -1,0 +1,92 @@
+{
+ "Andrusovo": {
+  "p_true_parties": 0.019,
+  "argmax": "Germany and Russia",
+  "true": "Russia and Poland"
+ },
+ "Roskilde": {
+  "p_true_parties": 0.963,
+  "argmax": "Sweden and Denmark",
+  "true": "Sweden and Denmark"
+ },
+ "Stolbovo": {
+  "p_true_parties": 0.266,
+  "argmax": "Russia and Persia",
+  "true": "Russia and Sweden"
+ },
+ "Passarowitz": {
+  "p_true_parties": 0.834,
+  "argmax": "the Ottoman Empire and Austria",
+  "true": "the Ottoman Empire and Austria"
+ },
+ "Belgrade": {
+  "p_true_parties": 0.034,
+  "argmax": "Germany and Russia",
+  "true": "the Ottoman Empire and Austria"
+ },
+ "Küçük Kaynarca": {
+  "p_true_parties": 0.0,
+  "argmax": "Russia and China",
+  "true": "Russia and the Ottoman Empire"
+ },
+ "Jassy": {
+  "p_true_parties": 0.306,
+  "argmax": "Russia and Sweden",
+  "true": "Russia and the Ottoman Empire"
+ },
+ "Gulistan": {
+  "p_true_parties": 0.988,
+  "argmax": "Russia and Persia",
+  "true": "Russia and Persia"
+ },
+ "Turkmenchay": {
+  "p_true_parties": 0.939,
+  "argmax": "Russia and Persia",
+  "true": "Russia and Persia"
+ },
+ "Hünkâr İskelesi": {
+  "p_true_parties": 0.005,
+  "argmax": "Russia and Persia",
+  "true": "Russia and the Ottoman Empire"
+ },
+ "Whampoa": {
+  "p_true_parties": 0.59,
+  "argmax": "France and China",
+  "true": "France and China"
+ },
+ "Wanghia": {
+  "p_true_parties": 0.193,
+  "argmax": "France and China",
+  "true": "the United States and China"
+ },
+ "Aigun": {
+  "p_true_parties": 0.976,
+  "argmax": "Russia and China",
+  "true": "Russia and China"
+ },
+ "Björkö": {
+  "p_true_parties": 0.0,
+  "argmax": "Sweden and Denmark",
+  "true": "Germany and Russia"
+ },
+ "Nöteborg": {
+  "p_true_parties": 0.0,
+  "argmax": "Sweden and Denmark",
+  "true": "Sweden and Novgorod"
+ },
+ "Zuhab": {
+  "p_true_parties": 0.005,
+  "argmax": "Russia and Persia",
+  "true": "the Ottoman Empire and Persia"
+ },
+ "Hubertusburg": {
+  "p_true_parties": 0.982,
+  "argmax": "Prussia and Austria",
+  "true": "Prussia and Austria"
+ },
+ "Bucharest": {
+  "p_true_parties": 0.078,
+  "argmax": "Germany and Russia",
+  "true": "Russia and the Ottoman Empire"
+ }
+}

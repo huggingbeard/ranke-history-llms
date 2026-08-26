@@ -1,0 +1,250 @@
+{
+ "1913": {
+  "question": [
+   {
+    "text": "Die Antwort auf diese Frage ist nicht leicht zu geben. Die",
+    "logp": -7.752756118774414,
+    "p": 0.00042955699747193864
+   },
+   {
+    "text": "Die Antwort auf diese Frage ist nicht leicht zu geben, da",
+    "logp": -8.340943336486816,
+    "p": 0.00023854720648024152
+   },
+   {
+    "text": "Die Antwort auf diese Frage lautet: Friedrich der Große",
+    "logp": -8.65925407409668,
+    "p": 0.0001735136869972368
+   },
+   {
+    "text": "Die Antwort auf diese Frage ist nicht schwer zu finden, wenn",
+    "logp": -8.973663330078125,
+    "p": 0.00012670318534887292
+   },
+   {
+    "text": "Im Jahre 1870/71 war es",
+    "logp": -9.34819221496582,
+    "p": 8.71227760684696e-05
+   },
+   {
+    "text": "Im Jahre 1848 erschien in der",
+    "logp": -9.851971626281738,
+    "p": 5.2643297718481714e-05
+   },
+   {
+    "text": "Im Jahre 1870/71 war der",
+    "logp": -9.869026184082031,
+    "p": 5.17531020778486e-05
+   },
+   {
+    "text": "Im Jahre 1848 erschien eine Bros",
+    "logp": -10.397960662841797,
+    "p": 3.0494608427625908e-05
+   },
+   {
+    "text": "Im Jahre 1871 erschien eine Bros",
+    "logp": -10.945194244384766,
+    "p": 1.764259791061859e-05
+   },
+   {
+    "text": "Im Jahre 1848 erschien im Ver",
+    "logp": -11.626951217651367,
+    "p": 8.922349781436475e-06
+   }
+  ],
+  "answer_frame": [
+   {
+    "text": "der König von Preußen, der",
+    "logp": -4.060544967651367,
+    "p": 0.017239621518836228
+   },
+   {
+    "text": "der König von Preußen. Und",
+    "logp": -4.555044174194336,
+    "p": 0.010514035772795045
+   },
+   {
+    "text": "der König von Preußen, Friedrich",
+    "logp": -4.685544967651367,
+    "p": 0.009227704441299002
+   },
+   {
+    "text": "ein deutscher Fürst, der",
+    "logp": -5.713733673095703,
+    "p": 0.0033003271696833082
+   },
+   {
+    "text": "ein Mann aus dem Volke, der",
+    "logp": -6.464066028594971,
+    "p": 0.0015584461238385898
+   },
+   {
+    "text": "kein anderer als Friedrich der Große",
+    "logp": -6.507399559020996,
+    "p": 0.0014923554638612171
+   },
+   {
+    "text": "der König von Preußen Friedrich Wilhelm",
+    "logp": -6.668834686279297,
+    "p": 0.0012698776950246262
+   },
+   {
+    "text": "ein Mann aus dem Volke, ein",
+    "logp": -6.672399044036865,
+    "p": 0.0012653594537089979
+   },
+   {
+    "text": "kein Geringerer als Friedrich der Gro",
+    "logp": -6.7814226150512695,
+    "p": 0.0011346595658176322
+   },
+   {
+    "text": "ein deutscher Fürst, ein",
+    "logp": -7.484566688537598,
+    "p": 0.0005616865024484267
+   }
+  ],
+  "forced": {
+   "candidates": [
+    " Kaiser Wilhelm",
+    " Fürst Bismarck",
+    " Paul von Hindenburg",
+    " Adolf Hitler",
+    " Friedrich der Große",
+    " Friedrich Ebert"
+   ],
+   "p": [
+    0.4864735463429183,
+    0.2512696002807214,
+    4.9928908630934706e-08,
+    3.4029279792079414e-05,
+    0.2621668426211885,
+    5.593154647108024e-05
+   ]
+  }
+ },
+ "1929": {
+  "question": [
+   {
+    "text": "Don Inachdruck verboten.) Professor Dr.",
+    "logp": -6.135013580322266,
+    "p": 0.0021656958068380556
+   },
+   {
+    "text": "Von Dr. Paul Rohrbach, M. d.",
+    "logp": -6.222625732421875,
+    "p": 0.0019840288430016556
+   },
+   {
+    "text": "Don Inachdruck verboten.! Professor Dr.",
+    "logp": -6.49178409576416,
+    "p": 0.0015158421865473087
+   },
+   {
+    "text": "(Von unserem Sonderberichterstatter.)",
+    "logp": -6.596950531005859,
+    "p": 0.0013645227693422479
+   },
+   {
+    "text": "Don Inachdruck verboten.) Dr. Ernst",
+    "logp": -7.453491687774658,
+    "p": 0.0005794149399372308
+   },
+   {
+    "text": "Don Inachdruck verboten.) Dr. Paul",
+    "logp": -7.765991687774658,
+    "p": 0.0004239090257032578
+   },
+   {
+    "text": "Don Inachdruck verboten^ Professor Dr.",
+    "logp": -8.810717582702637,
+    "p": 0.0001491262071484313
+   },
+   {
+    "text": "Don Inachdruck verboten.) Prof. Dr",
+    "logp": -9.0533447265625,
+    "p": 0.0001169990519065115
+   },
+   {
+    "text": "Don Inachdruck verboten.) Erich D",
+    "logp": -9.268054962158203,
+    "p": 9.43919312834469e-05
+   },
+   {
+    "text": "Don Inachdruck verboten.! Prof. Dr",
+    "logp": -9.514106750488281,
+    "p": 7.380332667414978e-05
+   }
+  ],
+  "answer_frame": [
+   {
+    "text": "der Reichskanzler Dr. Michael",
+    "logp": -3.7236900329589844,
+    "p": 0.024144708491874434
+   },
+   {
+    "text": "der Reichskanzler Dr. W",
+    "logp": -4.661189556121826,
+    "p": 0.009455208208482656
+   },
+   {
+    "text": "ein deutscher Fürst, der",
+    "logp": -4.795326232910156,
+    "p": 0.008268300995838062
+   },
+   {
+    "text": "der Abgeordnete Dr.",
+    "logp": -4.909807205200195,
+    "p": 0.007373909845805814
+   },
+   {
+    "text": "der Reichskanzler v. Beth",
+    "logp": -5.034723281860352,
+    "p": 0.006507998748934702
+   },
+   {
+    "text": "ein glücklicher Zufall,",
+    "logp": -5.572676658630371,
+    "p": 0.003800294715181785
+   },
+   {
+    "text": "im Jahre 1848,",
+    "logp": -6.981680870056152,
+    "p": 0.0009287407978755649
+   },
+   {
+    "text": "im Jahre 1914,",
+    "logp": -7.130399703979492,
+    "p": 0.0008003994007208973
+   },
+   {
+    "text": "im Jahre 1918,",
+    "logp": -7.169920444488525,
+    "p": 0.0007693839375250895
+   },
+   {
+    "text": "im Jahre 1917,",
+    "logp": -7.876887798309326,
+    "p": 0.0003794120279878961
+   }
+  ],
+  "forced": {
+   "candidates": [
+    " Kaiser Wilhelm",
+    " Fürst Bismarck",
+    " Paul von Hindenburg",
+    " Adolf Hitler",
+    " Friedrich der Große",
+    " Friedrich Ebert"
+   ],
+   "p": [
+    0.3024481659929052,
+    0.25522214748107785,
+    4.206278625068874e-05,
+    0.00899168336964612,
+    0.4085754443904443,
+    0.024720495979675898
+   ]
+  }
+ }
+}

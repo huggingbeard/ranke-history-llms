@@ -1,0 +1,578 @@
+{
+ "flight/en/1900": {
+  "strain_light": -4.086,
+  "strain_deep": -4.229,
+  "first_light": 1.061,
+  "first_deep": 1.123
+ },
+ "flight/de/1900": {
+  "strain_light": -0.604,
+  "strain_deep": 3.001,
+  "first_light": 1.082,
+  "first_deep": 0.853
+ },
+ "flight/fr/1900": {
+  "strain_light": -2.88,
+  "strain_deep": -1.48,
+  "first_light": 0.083,
+  "first_deep": 2.244
+ },
+ "atlantic/en/1900": {
+  "strain_light": -14.849,
+  "strain_deep": -7.675,
+  "first_light": -3.966,
+  "first_deep": -3.968
+ },
+ "atlantic/de/1900": {
+  "strain_light": -8.322,
+  "strain_deep": -4.239,
+  "first_light": -1.627,
+  "first_deep": -1.215
+ },
+ "atlantic/fr/1900": {
+  "strain_light": -12.859,
+  "strain_deep": -22.179,
+  "first_light": -3.489,
+  "first_deep": -4.117
+ },
+ "radio/en/1900": {
+  "strain_light": -4.074,
+  "strain_deep": -1.123,
+  "first_light": 0.115,
+  "first_deep": -0.563
+ },
+ "radio/de/1900": {
+  "strain_light": 0.256,
+  "strain_deep": -0.832,
+  "first_light": -0.17,
+  "first_deep": 0.013
+ },
+ "radio/fr/1900": {
+  "strain_light": -5.142,
+  "strain_deep": -8.211,
+  "first_light": 1.949,
+  "first_deep": -1.233
+ },
+ "talkies/en/1900": {
+  "strain_light": -8.375,
+  "strain_deep": -5.435,
+  "first_light": 1.673,
+  "first_deep": 0.886
+ },
+ "talkies/de/1900": {
+  "strain_light": -2.281,
+  "strain_deep": -6.782,
+  "first_light": -0.276,
+  "first_deep": -0.167
+ },
+ "talkies/fr/1900": {
+  "strain_light": -7.772,
+  "strain_deep": -0.846,
+  "first_light": -0.083,
+  "first_deep": -0.111
+ },
+ "tanks/en/1900": {
+  "strain_light": -10.261,
+  "strain_deep": -10.271,
+  "first_light": 0.061,
+  "first_deep": -1.188
+ },
+ "tanks/de/1900": {
+  "strain_light": -2.708,
+  "strain_deep": -0.311,
+  "first_light": 1.028,
+  "first_deep": 0.301
+ },
+ "tanks/fr/1900": {
+  "strain_light": -9.512,
+  "strain_deep": -7.562,
+  "first_light": -2.144,
+  "first_deep": -1.78
+ },
+ "women_vote/en/1900": {
+  "strain_light": -6.546,
+  "strain_deep": -2.089,
+  "first_light": -1.254,
+  "first_deep": 0.224
+ },
+ "women_vote/de/1900": {
+  "strain_light": -4.867,
+  "strain_deep": -3.971,
+  "first_light": -2.029,
+  "first_deep": -3.064
+ },
+ "women_vote/fr/1900": {
+  "strain_light": -4.473,
+  "strain_deep": -6.545,
+  "first_light": -0.05,
+  "first_deep": -0.049
+ },
+ "motorcars/en/1900": {
+  "strain_light": -4.366,
+  "strain_deep": -6.871,
+  "first_light": 0.175,
+  "first_deep": -0.709
+ },
+ "motorcars/de/1900": {
+  "strain_light": -1.726,
+  "strain_deep": -7.061,
+  "first_light": -0.143,
+  "first_deep": -1.139
+ },
+ "motorcars/fr/1900": {
+  "strain_light": -9.704,
+  "strain_deep": -20.515,
+  "first_light": -1.119,
+  "first_deep": -0.694
+ },
+ "moon/en/1900": {
+  "strain_light": -5.335,
+  "strain_deep": -4.357,
+  "first_light": -2.743,
+  "first_deep": -3.071
+ },
+ "moon/de/1900": {
+  "strain_light": -3.391,
+  "strain_deep": -5.475,
+  "first_light": -0.476,
+  "first_deep": -0.71
+ },
+ "moon/fr/1900": {
+  "strain_light": -3.893,
+  "strain_deep": -2.675,
+  "first_light": -0.231,
+  "first_deep": 1.54
+ },
+ "flight/en/1913": {
+  "strain_light": -9.167,
+  "strain_deep": -6.089,
+  "first_light": -0.024,
+  "first_deep": 1.298
+ },
+ "flight/de/1913": {
+  "strain_light": -5.654,
+  "strain_deep": 1.613,
+  "first_light": 0.247,
+  "first_deep": -0.677
+ },
+ "flight/fr/1913": {
+  "strain_light": -5.799,
+  "strain_deep": -4.86,
+  "first_light": -2.182,
+  "first_deep": 0.419
+ },
+ "atlantic/en/1913": {
+  "strain_light": -13.193,
+  "strain_deep": -12.374,
+  "first_light": -4.339,
+  "first_deep": -5.276
+ },
+ "atlantic/de/1913": {
+  "strain_light": -11.521,
+  "strain_deep": -8.801,
+  "first_light": -0.642,
+  "first_deep": -0.312
+ },
+ "atlantic/fr/1913": {
+  "strain_light": -11.289,
+  "strain_deep": -17.079,
+  "first_light": -3.132,
+  "first_deep": -3.484
+ },
+ "radio/en/1913": {
+  "strain_light": -8.903,
+  "strain_deep": -9.385,
+  "first_light": -0.051,
+  "first_deep": -0.958
+ },
+ "radio/de/1913": {
+  "strain_light": 1.816,
+  "strain_deep": -0.76,
+  "first_light": -0.259,
+  "first_deep": -0.079
+ },
+ "radio/fr/1913": {
+  "strain_light": -7.869,
+  "strain_deep": -10.402,
+  "first_light": -0.412,
+  "first_deep": 0.173
+ },
+ "talkies/en/1913": {
+  "strain_light": -6.941,
+  "strain_deep": -6.531,
+  "first_light": 0.622,
+  "first_deep": 0.54
+ },
+ "talkies/de/1913": {
+  "strain_light": 1.213,
+  "strain_deep": -2.584,
+  "first_light": -0.625,
+  "first_deep": -0.159
+ },
+ "talkies/fr/1913": {
+  "strain_light": -15.061,
+  "strain_deep": -2.725,
+  "first_light": -0.915,
+  "first_deep": -0.037
+ },
+ "tanks/en/1913": {
+  "strain_light": -4.545,
+  "strain_deep": -8.374,
+  "first_light": 0.526,
+  "first_deep": 0.398
+ },
+ "tanks/de/1913": {
+  "strain_light": -3.629,
+  "strain_deep": -1.069,
+  "first_light": 1.327,
+  "first_deep": -0.41
+ },
+ "tanks/fr/1913": {
+  "strain_light": -15.337,
+  "strain_deep": -12.575,
+  "first_light": -3.394,
+  "first_deep": -3.424
+ },
+ "women_vote/en/1913": {
+  "strain_light": -6.157,
+  "strain_deep": -2.559,
+  "first_light": -1.205,
+  "first_deep": -0.27
+ },
+ "women_vote/de/1913": {
+  "strain_light": -5.24,
+  "strain_deep": -8.282,
+  "first_light": -0.411,
+  "first_deep": -0.493
+ },
+ "women_vote/fr/1913": {
+  "strain_light": -0.875,
+  "strain_deep": -5.76,
+  "first_light": -0.02,
+  "first_deep": -0.014
+ },
+ "motorcars/en/1913": {
+  "strain_light": -8.701,
+  "strain_deep": -10.37,
+  "first_light": 0.034,
+  "first_deep": -1.238
+ },
+ "motorcars/de/1913": {
+  "strain_light": -11.404,
+  "strain_deep": -14.863,
+  "first_light": -0.427,
+  "first_deep": -1.986
+ },
+ "motorcars/fr/1913": {
+  "strain_light": -13.126,
+  "strain_deep": -22.989,
+  "first_light": -1.309,
+  "first_deep": -0.921
+ },
+ "moon/en/1913": {
+  "strain_light": -4.981,
+  "strain_deep": -2.713,
+  "first_light": -1.778,
+  "first_deep": -2.774
+ },
+ "moon/de/1913": {
+  "strain_light": -5.395,
+  "strain_deep": -8.589,
+  "first_light": -0.091,
+  "first_deep": -0.928
+ },
+ "moon/fr/1913": {
+  "strain_light": -3.359,
+  "strain_deep": -5.223,
+  "first_light": -0.916,
+  "first_deep": 1.435
+ },
+ "flight/en/1929": {
+  "strain_light": -4.896,
+  "strain_deep": -4.366,
+  "first_light": 0.239,
+  "first_deep": 1.968
+ },
+ "flight/de/1929": {
+  "strain_light": -2.993,
+  "strain_deep": 2.837,
+  "first_light": 0.53,
+  "first_deep": -0.128
+ },
+ "flight/fr/1929": {
+  "strain_light": -5.13,
+  "strain_deep": -4.037,
+  "first_light": -2.043,
+  "first_deep": 0.388
+ },
+ "atlantic/en/1929": {
+  "strain_light": -16.442,
+  "strain_deep": -11.336,
+  "first_light": -4.293,
+  "first_deep": -4.707
+ },
+ "atlantic/de/1929": {
+  "strain_light": -10.376,
+  "strain_deep": -7.58,
+  "first_light": -1.193,
+  "first_deep": -0.409
+ },
+ "atlantic/fr/1929": {
+  "strain_light": -12.818,
+  "strain_deep": -19.0,
+  "first_light": -4.411,
+  "first_deep": -3.126
+ },
+ "radio/en/1929": {
+  "strain_light": -6.2,
+  "strain_deep": -6.849,
+  "first_light": -0.045,
+  "first_deep": -0.714
+ },
+ "radio/de/1929": {
+  "strain_light": -1.6,
+  "strain_deep": -3.431,
+  "first_light": -0.304,
+  "first_deep": -0.259
+ },
+ "radio/fr/1929": {
+  "strain_light": -11.317,
+  "strain_deep": -11.844,
+  "first_light": -0.865,
+  "first_deep": -1.38
+ },
+ "talkies/en/1929": {
+  "strain_light": -5.943,
+  "strain_deep": -7.949,
+  "first_light": 1.286,
+  "first_deep": 0.777
+ },
+ "talkies/de/1929": {
+  "strain_light": 1.8,
+  "strain_deep": -4.303,
+  "first_light": -0.736,
+  "first_deep": -0.22
+ },
+ "talkies/fr/1929": {
+  "strain_light": -14.411,
+  "strain_deep": -1.903,
+  "first_light": -3.208,
+  "first_deep": -0.099
+ },
+ "tanks/en/1929": {
+  "strain_light": -9.73,
+  "strain_deep": -13.07,
+  "first_light": 0.24,
+  "first_deep": -0.608
+ },
+ "tanks/de/1929": {
+  "strain_light": -2.735,
+  "strain_deep": -5.629,
+  "first_light": 1.509,
+  "first_deep": 0.362
+ },
+ "tanks/fr/1929": {
+  "strain_light": -20.493,
+  "strain_deep": -18.129,
+  "first_light": -2.73,
+  "first_deep": -1.641
+ },
+ "women_vote/en/1929": {
+  "strain_light": -5.346,
+  "strain_deep": -2.288,
+  "first_light": -0.498,
+  "first_deep": -0.76
+ },
+ "women_vote/de/1929": {
+  "strain_light": -3.067,
+  "strain_deep": -8.194,
+  "first_light": -0.232,
+  "first_deep": -0.973
+ },
+ "women_vote/fr/1929": {
+  "strain_light": -1.936,
+  "strain_deep": -7.707,
+  "first_light": -0.031,
+  "first_deep": -0.018
+ },
+ "motorcars/en/1929": {
+  "strain_light": -7.757,
+  "strain_deep": -12.054,
+  "first_light": 0.067,
+  "first_deep": -1.063
+ },
+ "motorcars/de/1929": {
+  "strain_light": -10.685,
+  "strain_deep": -15.863,
+  "first_light": 0.38,
+  "first_deep": -1.805
+ },
+ "motorcars/fr/1929": {
+  "strain_light": -11.664,
+  "strain_deep": -23.113,
+  "first_light": -0.766,
+  "first_deep": -0.496
+ },
+ "moon/en/1929": {
+  "strain_light": -3.046,
+  "strain_deep": -0.938,
+  "first_light": -1.963,
+  "first_deep": -3.154
+ },
+ "moon/de/1929": {
+  "strain_light": -3.826,
+  "strain_deep": -9.242,
+  "first_light": -0.133,
+  "first_deep": -0.515
+ },
+ "moon/fr/1929": {
+  "strain_light": -1.199,
+  "strain_deep": -1.911,
+  "first_light": -0.691,
+  "first_deep": 2.054
+ },
+ "flight/en/modern": {
+  "strain_light": -14.178,
+  "strain_deep": -10.678,
+  "first_light": -3.081,
+  "first_deep": -3.413
+ },
+ "flight/de/modern": {
+  "strain_light": -6.473,
+  "strain_deep": -7.308,
+  "first_light": 0.639,
+  "first_deep": -0.537
+ },
+ "flight/fr/modern": {
+  "strain_light": -10.035,
+  "strain_deep": -11.759,
+  "first_light": -3.323,
+  "first_deep": -2.208
+ },
+ "atlantic/en/modern": {
+  "strain_light": -28.727,
+  "strain_deep": -11.196,
+  "first_light": -0.809,
+  "first_deep": -2.532
+ },
+ "atlantic/de/modern": {
+  "strain_light": -7.921,
+  "strain_deep": -2.409,
+  "first_light": 0.181,
+  "first_deep": 0.129
+ },
+ "atlantic/fr/modern": {
+  "strain_light": -14.594,
+  "strain_deep": -12.665,
+  "first_light": -3.874,
+  "first_deep": -4.223
+ },
+ "radio/en/modern": {
+  "strain_light": -9.512,
+  "strain_deep": -11.285,
+  "first_light": 0.444,
+  "first_deep": -0.583
+ },
+ "radio/de/modern": {
+  "strain_light": -6.066,
+  "strain_deep": -11.616,
+  "first_light": -0.039,
+  "first_deep": 0.446
+ },
+ "radio/fr/modern": {
+  "strain_light": -10.269,
+  "strain_deep": -8.595,
+  "first_light": -0.699,
+  "first_deep": -0.306
+ },
+ "talkies/en/modern": {
+  "strain_light": -11.187,
+  "strain_deep": -5.054,
+  "first_light": -0.725,
+  "first_deep": -0.465
+ },
+ "talkies/de/modern": {
+  "strain_light": -5.774,
+  "strain_deep": -7.193,
+  "first_light": -0.765,
+  "first_deep": -0.685
+ },
+ "talkies/fr/modern": {
+  "strain_light": -8.551,
+  "strain_deep": -5.496,
+  "first_light": 0.058,
+  "first_deep": 0.031
+ },
+ "tanks/en/modern": {
+  "strain_light": -13.83,
+  "strain_deep": -10.934,
+  "first_light": -3.712,
+  "first_deep": -3.604
+ },
+ "tanks/de/modern": {
+  "strain_light": -8.581,
+  "strain_deep": -6.12,
+  "first_light": -0.749,
+  "first_deep": 0.371
+ },
+ "tanks/fr/modern": {
+  "strain_light": -10.897,
+  "strain_deep": -11.735,
+  "first_light": -3.601,
+  "first_deep": -3.134
+ },
+ "women_vote/en/modern": {
+  "strain_light": -1.202,
+  "strain_deep": 7.055,
+  "first_light": 2.496,
+  "first_deep": 1.967
+ },
+ "women_vote/de/modern": {
+  "strain_light": -8.361,
+  "strain_deep": -10.882,
+  "first_light": -1.156,
+  "first_deep": -1.948
+ },
+ "women_vote/fr/modern": {
+  "strain_light": -2.496,
+  "strain_deep": -5.151,
+  "first_light": -0.002,
+  "first_deep": -0.002
+ },
+ "motorcars/en/modern": {
+  "strain_light": -14.341,
+  "strain_deep": -13.753,
+  "first_light": 0.059,
+  "first_deep": -1.614
+ },
+ "motorcars/de/modern": {
+  "strain_light": -16.331,
+  "strain_deep": -14.374,
+  "first_light": -1.071,
+  "first_deep": -2.069
+ },
+ "motorcars/fr/modern": {
+  "strain_light": -14.005,
+  "strain_deep": -18.39,
+  "first_light": -2.292,
+  "first_deep": -3.452
+ },
+ "moon/en/modern": {
+  "strain_light": -10.712,
+  "strain_deep": -12.742,
+  "first_light": -1.601,
+  "first_deep": -4.12
+ },
+ "moon/de/modern": {
+  "strain_light": 3.176,
+  "strain_deep": 1.522,
+  "first_light": -0.22,
+  "first_deep": -0.499
+ },
+ "moon/fr/modern": {
+  "strain_light": -5.755,
+  "strain_deep": -5.736,
+  "first_light": -2.233,
+  "first_deep": -0.418
+ }
+}

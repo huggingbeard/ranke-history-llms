@@ -1,0 +1,420 @@
+---
+title: "Could the past have seen its future coming? How we finally measured it"
+subtitle: "A step-by-step account for a reader starting from zero: what we tried, what failed, why, and what works now"
+date: "2026-07-04"
+author: "Ranke project"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    number-sections: false
+    theme: cosmo
+    embed-resources: true
+    grid:
+      body-width: 980px
+---
+
+::: {.callout-note appearance="simple"}
+**How to read this document.** Each section follows the same pattern: first *the test* — what
+question we ask and what, exactly, we do; then *an example* — the actual text we typed into the
+machine, quoted word for word; then *the result* — one case worked through so you can see where
+every number comes from; then *what it means*. Every number on this page is read automatically
+from the saved result files of the actual runs; nothing is typed in by hand.
+:::
+
+## 0 · The machines, and the one thing they can do
+
+We have three computer programs called language models. Each was trained by reading an enormous
+pile of text — books, newspapers, magazines — but each pile was cut off at a fixed date. The
+**1900 model** has read nothing written after 1900; the **1913 model** nothing after 1913; the
+**1929 model** nothing after 1929. Think of each as an extremely well-read person frozen at the
+end of that year.
+
+A language model can do exactly one thing: given some text, it says how likely each possible next
+word is. That's all. From this one ability everything below is built. Two ways to use it:
+
+1. **Score a sentence.** Feed the sentence in word by word and ask, at every word, "how likely did
+   you think *that* was?" Adding up the answers gives a **surprise score**: small means "this
+   sentence is the kind of thing I've read a thousand times"; big means "this sentence is strange
+   to me." (The unit is called a *nat*; only comparisons matter, never the raw size.)
+2. **Complete a sentence.** Give it an unfinished sentence and let it write the continuation —
+   or give it several ready-made endings and ask which one it finds most likely.
+
+Our question for these frozen readers: **were the catastrophes of the early twentieth century —
+the World War, the fall of the Kaiser, the death of the German mark — foreseeable before they
+happened?** The sections below are the story of finding a test that can actually answer that.
+
+## 1 · First attempt: score whole sentences. It fails, and one comparison shows why.
+
+**The test.** Take a sentence describing something that happened later — say, the moon landing —
+and compute the 1900 model's surprise score for it. If the score is high, we planned to say "the
+moon landing was unforeseeable in 1900."
+
+**An example, verbatim.** We fed this exact sentence to all four models (the fourth is a modern
+model that has read everything):
+
+> *"A man walks on the surface of the moon."*
+
+and, as a sanity check, this one:
+
+> *"A man buys bread at the corner shop."*
+
+**The result.** Surprise scores per word (smaller = the model finds it more ordinary):
+
+| sentence | 1900 model | 1913 | 1929 | modern |
+|:---|--:|--:|--:|--:|
+| A man walks on the surface of the moon. | 3.58 | 3.50 | 3.50 | 2.90 |
+| The streets are full of motor cars. | 3.37 | 3.30 | 3.19 | 4.17 |
+| A great war has killed ten million soldiers. | 4.70 | 4.62 | 4.15 | 4.77 |
+| The Kaiser no longer rules Germany. | 4.86 | 4.61 | 3.77 | 5.34 |
+| The German mark is worth nothing at all. | 4.45 | 4.11 | 3.30 | 4.71 |
+| Soldiers are dying in clouds of poison gas. | 4.46 | 4.79 | 3.85 | 4.26 |
+| A man buys bread at the corner shop. | 4.79 | 4.64 | 3.87 | 4.79 |
+
+: How to read this table: go down the 1900 column. The moon sentence scores 3.58; the bread
+sentence scores 4.79. Lower score = less surprising. {.striped .hover}
+
+**What it means.** To the 1900 model, **a man walking on the moon is *less* surprising than a man
+buying bread**. That is absurd as a statement about expectations — and perfectly sensible once you
+realise what the score actually measures. Jules Verne's moon-voyage novels were bestsellers from
+1865; nobody writes novels about buying bread. The surprise score tells you *what kind of sentences
+people wrote*, not *what people believed would happen*. Two further problems hide in the table: the
+1929 column is lower on everything, bread included, simply because that model is better trained;
+and the modern model finds the old-fashioned *motor cars* sentence hardest of all — it is reacting
+to quaint wording, not to ideas.
+
+## 2 · Second attempt: average twenty different wordings. Still fails — and now we know why.
+
+**The test.** Maybe the moon result was bad luck with one sentence. So for each *idea* we wrote
+twenty different sentences and averaged the twenty surprise scores. We picked three pairs of ideas
+where history tells us what the answer must be. In each pair, one idea was expected by everyone in
+1900 and one was expected by almost no one:
+
+* streets full of **motorcars** (expected — every 1900 newspaper predicted it) versus men flying in
+  **airplanes** (the Wright brothers hadn't flown yet);
+* **cavalry charges** deciding future wars (the standard picture) versus soldiers killed by
+  **poison gas** (almost absent from print);
+* a government going **bankrupt** (happened all the time) versus a great nation's money becoming
+  **worthless paper** (the German hyperinflation).
+
+**An example, verbatim.** Three of the twenty airplane sentences:
+
+> *"One day men will fly through the air in machines of their own making."*
+> *"A man will board a machine in London and alight from the sky in Paris."*
+> *"In a few years, men will mount into the air and go where they please."*
+
+If the meter works, the airplane average must come out clearly more surprising than the motorcar
+average — for a reader of 1900.
+
+**The result.** Average surprise of the 1900 model, twenty sentences per idea:
+
+| the pair | surprising idea | expected idea | difference |
+|:---|--:|--:|:---|
+| airplanes vs motorcars | 4.26 | 4.29 | **no difference — fails** |
+| poison gas vs cavalry | 5.04 | 4.29 | clearly apart — works |
+| worthless money vs state bankruptcy | 4.62 | 4.84 | **no difference — fails** |
+
+: How to read this table: each row compares two averages. If the meter measured expectation, the
+left number should be clearly bigger in every row. {.striped}
+
+**What it means.** The averaging worked — the statistical noise is gone — and it precisely measured
+**zero difference between airplanes and motorcars**. Only the gas/cavalry pair separates. Why that
+one? Because poison gas is the only idea of the six that people in 1900 *were not writing about*.
+Flying machines filled the magazines (as dreams); worthless-money stories filled the financial
+pages (the French assignats, the American greenback debates). The verdict on this whole family of
+tests: **a surprise score measures what a period wrote about — its printed imagination — not what
+anyone actually expected to happen.** On the page, a dream and a forecast look identical.
+
+## 3 · Third attempt: make it bet. Asked as prophecy, even betting fails — instructively.
+
+**The test.** Stop scoring essays; force a choice. We give the model an unfinished sentence and
+four ready-made endings, ask how likely it finds each ending, and convert the four likelihoods
+into percentages that add to 100 — a betting slip. Surprise is then simply: how little money did
+the model put on the thing that actually happened?
+
+**An example, verbatim.** The unfinished sentence (this is the *prophecy* form — note the future
+tense; it matters):
+
+> *"In the year 1920, travellers will cross the Atlantic chiefly by"*
+
+with four endings: *" sailing ship"*, *" steam ship"*, *" flying machine"*, *" a tunnel beneath
+the sea"*. The true answer for 1920 is the steam ship.
+
+**The result.** The betting slips of the three frozen readers:
+
+| ending | 1900 model | 1913 model | 1929 model |
+|:---|--:|--:|--:|
+| sailing ship | 36% | 18% | 1% |
+| steam ship *(what was true)* | 34% | 28% | 52% |
+| flying machine | 5% | 8% | 22% |
+| **a tunnel beneath the sea** | 25% | 45% | 25% |
+
+: How to read this table: each column is one model's bets; each column adds to about 100%. {.striped}
+
+**What it means.** Look at the 1913 column: its favourite way to cross the Atlantic in 1920 is
+**a tunnel under the sea, at 45%**. Where does that come from? *Der Tunnel*, a novel about a
+transatlantic tunnel, was one of the bestselling books of 1913. A work of science fiction is
+setting the odds — the same disease as before, now wearing a bow tie.
+
+Two more failures made this attempt fatal. First, we asked the 1913 model who rules Germany in
+1919 — once plainly, once adding *"Germany has been beaten in a great war."* Telling it about the
+defeat **lowered** its bet on "an elected president" from 20% to 3%. A mind that
+understood the world would move the other way. Second, and decisive: we put the same defeated-
+Germany question to the **1929 model — which has read a decade of newspapers saying the Kaiser
+abdicated and fled to Holland** — and it bet 60% on the Kaiser still ruling. Why? Because
+sentences that *predict* the future are, in every library ever assembled, written by people who
+did not know the future. Ask any model to prophesy and you summon exactly that voice. The 1929
+model wasn't revealing its knowledge; it was imitating pre-war fortune-telling.
+
+## 4 · The fix: ask for history, not prophecy — and read fake memoirs.
+
+**The idea** (it came from the historian on this project, not the computer scientist): history is
+written *backwards*. So put every question in the past tense, as if looking back — the *chronicle*
+form. Compare the two framings for the same question, word for word:
+
+> **Prophecy form (fails):** *"In the year 1919, Germany will be ruled by"*
+>
+> **Chronicle form (works):** *"It is the year 1919. Germany fought a great war against half the
+> world and was beaten. The ruler of Germany today is"*
+
+For the 1929 model, the chronicle form is a plain history question — and history questions reach
+its knowledge, because its library is full of text that *states what happened*. For the 1913
+model, the chronicle form is stranger and more interesting: we are asking it to write a **fake
+memoir of a future it never saw**. It has to invent — and what it invents comes from its picture
+of how the world works. The guess of the guesser and the memory of the witness, elicited in the
+same register: the difference between them is the measurement we wanted all along.
+
+**An example, verbatim — free completion this time.** We typed *"It is the year 1919. Russia was
+beaten in the great war. The Tsar of Russia has"* and let each model finish the sentence itself:
+
+> **The 1913 model's fake memoir:** "…been deposed and his son, Nicholas II, now reigns as Emperor. The Russ…"
+>
+> **The 1929 model's real memory:** "…been beheaded, and the Russian people are free to govern themselves as…"
+
+And for *"It is the year 1923… The German mark today is"*:
+
+> **1913:** "…worth about $50 cents in American money, but it was once worth more th…"
+>
+> **1929:** "…worth about one cent in American money, but it will not buy as much fo…"
+
+**What it means.** The fake memoir deposes the Tsar but *keeps the dynasty* — his son reigns on —
+which is exactly what the revolution of 1905 had taught. It devalues the mark to fifty cents; it
+cannot imagine the mark at zero. The real memory knows the execution and the worthless paper.
+Both models are now speaking the same language (history-telling), so the difference between them
+is no longer register or style. It is knowledge.
+
+## 5 · One repair to the scoring, shown honestly.
+
+**The problem.** To keep wording effects out, our first betting-slip scorer subtracted from each
+ending's likelihood a measure of how common that phrase is *in general*. Sensible — except when
+the true answer IS a common phrase. On the mark question, the ending *" worth nothing at all"* is
+an everyday expression, so the subtraction strangled it: the 1929 model — whose own free text says
+the mark is "worth about one cent" — scored **0%** on it. Scored *without* the subtraction, the
+same model puts **82%** on "worth nothing at all" (and the 1913 guesser, sensibly,
+31% — its favourite is "worth but half"). The mirror problem also exists: without the
+subtraction, stock phrases like "driven from his throne" soak up probability whether true or not.
+
+**The repair, fixed once and then frozen.** For endings that are *names* (people, places,
+currencies, years), score without the subtraction — a famous name's commonness IS the signal.
+For endings that are ordinary phrases, compute both scores, and **only accept the question if the
+two scoring methods agree on the winner**; if they disagree, the meter *refuses to answer* that
+question. A meter that sometimes says "I can't score this one fairly" turned out to be the price
+of one that doesn't lie.
+
+## 6 · Before trusting it: the exam.
+
+**The test.** Before using the meter on our real questions, we made it sit an exam: twenty
+questions about events between the models' cutoff dates, where we know the answers and we know
+which model *should* know them. Example: the 1907 bank panic happened after the 1900 model's
+cutoff but before the 1913 model's — so the 1900 model must guess and the 1913 model should
+remember. We wrote down the passing grade before running anything:
+
+1. the meter must agree to answer at least **14 of the 20** questions (see the refusal rule above);
+2. of the questions it answers, the *witness* model (the one whose library contains the event)
+   must name the true answer at least **80%** of the time;
+3. in at least **80%**, the witness must also put *more* money on the truth than the guesser does
+   — knowing more must show.
+
+We ran the exam twice: once to find the scoring repair of Section 5 (that run failed, 10 of 20
+answered), and then — with the rules frozen — on **twenty completely fresh questions**, no
+adjustments allowed afterwards.
+
+**An example, verbatim.** One of the fresh questions:
+
+> *"It is the year 1906. The peace between Russia and Japan was signed last year at"*
+
+Endings: *" Portsmouth"* (true — the treaty of Portsmouth, New Hampshire), *" Washington"*,
+*" Geneva"*, *" The Hague"*.
+
+**The result, walked through.** The 1900 model (the guesser — the treaty hadn't happened yet)
+put 5% on Portsmouth; its favourite guess was Washington — a
+perfectly reasonable one. The 1913 model (the witness) put 91% on Portsmouth.
+That is what a working meter looks like: the guesser guesses plausibly, the witness knows.
+
+Across all twenty fresh questions: the meter agreed to answer **16 of 20** (passing grade 14);
+the witness named the truth in **13 of 16** answered questions (81%,
+passing grade 80%); and the witness out-bet the guesser on the truth in **13 of 16**
+(81%). **All three requirements met. The meter passed — in English.**
+
+One failure is worth showing because it defines the meter's limits. Asked *"It is the year 1928.
+The man who rules Russia since Lenin's death is"*, the 1929 model answered **Trotsky**
+(putting only 10% on Stalin, the right answer). In the late 1920s, Western
+newspapers wrote far more about Trotsky than about Stalin. These models retrieve by fame: when the
+true answer stands next to a *more famous* rival, they can pick the celebrity. Rule learned: only
+ask about facts where the truth is the famous version — and we flag any question that breaks this
+rule.
+
+## 7 · The real measurements at last: how foreseeable was each catastrophe?
+
+**The test.** Every question now has this shape: a chronicle sentence describing the world just
+after a catastrophe, four endings, and two models — the **guesser** (frozen before the event) and
+the **witness** (frozen after). Both fill in the same betting slip. We then compute, for the
+ending that actually happened:
+
+* the guesser's surprise = −ln(guesser's bet on the truth),
+* the witness's surprise = −ln(witness's bet on the truth),
+* **the foresight gap = guesser's surprise − witness's surprise.**
+
+A gap near zero, with both models betting confidently, means people could see it coming: *foreseen*.
+A large gap means only the one who lived through it knows: *unforeseen*.
+
+**An example, walked through with the arithmetic visible.** The centrepiece question of the whole study, verbatim:
+
+> *"It is the year 1919. Germany fought a great war against half the world and was beaten. The
+> head of the German state today is"*
+
+Endings: *" President Ebert"* (true), *" Kaiser Wilhelm"*, *" Crown Prince Wilhelm"*,
+*" Marshal Hindenburg"*. The 1913 guesser puts **0.0%** on President Ebert — its
+favourite is **Kaiser Wilhelm**: even told about the lost war, its fake memoir keeps the
+monarchy. The 1929 witness puts **78%** on President Ebert. Surprise of the
+guesser: −ln(0.0000) = 13.8. Surprise of the witness:
+−ln(0.78) = 0.3. **Foresight gap = 13.8 − 0.3
+≈ +9.8 nats** — the largest in the study. In plain words: *a republic was not in the
+pre-war German picture, even a defeated Germany's.*
+
+**The results.** Every question the meter agreed to answer, in English:
+
+| catastrophe | question | guesser's bet on the truth → witness's | foresight gap | the fake memoir bets on… |
+|:---|:---|:--|--:|:---|
+| panic_1907 | panic_first_to_fail | 5% → 13% | +0.92 | the national banks |
+| panic_1907 | panic_severity | 97% → 85% | -0.14 | sharper than any panic in memory |
+| panic_1907 | panic_rescuer | 77% → 79% | +0.02 | Mister Morgan |
+| world_war | war_breadth | 99% → 100% | +0.01 | nearly every great power on earth |
+| world_war | war_us_entry | 56% → 92% | +0.49 | the United States |
+| empires | emp_kaiser_1919 | 0% → 78% | +9.84 | Kaiser Wilhelm |
+| revolution | rev_tsar_fate | 0% → 2% | +2.71 | been driven from his throne |
+| revolution | rev_who_rules | 2% → 4% | +0.72 | the liberals of the parliament |
+| revolution | rev_debts | 80% → 98% | +0.20 | repudiated by the new rulers |
+| hyperinflation | infl_end | 0% → 72% | +6.77 | Goldmark |
+
+: How to read this table: a gap near zero = foreseen; a large positive gap = only the witness
+knows. The last column is what the pre-event model's fake memoir actually expected instead. {.striped .hover}
+
+**What it means, row by row.** *Foreseen* (gaps near zero, both models confident): the 1907
+panic's severity and its rescuer — the 1900 model already bets on Mister Morgan, because panics
+were a familiar American genre; the world war drawing in every great power; and — a genuine
+discovery — **the repudiation of Russia's debts**: the 1913 fake memoir puts 80%
+on "repudiated by the new rulers." The French bondholder's catastrophe was fully present in the
+pre-war imagination. *Unforeseen* (large gaps): the German republic (+9.8); the Tsar's
+execution (the memoir predicts his *deposition* — 1905 taught it that — but not the cellar); and
+the Rentenmark, the new money that ended the inflation, where the 1913 memoir sensibly guesses
+"Goldmark" and is wrong.
+
+**The memoir of the 1930s.** For the Great Depression and Hitler's seizure of power we have no
+witness model yet (none is trained past 1929), so for these we can only read the 1929 model's fake
+memoir of the years ahead — its bets, with no gap to compute:
+
+| question | the 1929 memoir bets on… | its bet | what actually happened | its bet on that |
+|:---|:---|--:|:---|--:|
+| dep_course | stood still, neither better nor worse | 61% | sunk deeper year after year | 13% |
+| dep_unemployed | one man in every ten | 31% | one man in every four | 29% |
+| dep_banks | stood firm behind the Federal Reserve | 94% | failed by the hundred and thousand | 5% |
+| dep_gold | been abandoned by Britain and America | 82% | been abandoned by Britain and America | 82% |
+| nazi_republic_fate | given way to a dictatorship | 83% | given way to a dictatorship | 83% |
+| nazi_who_rules | Wilhelm | 45% | Hitler | 22% |
+| nazi_path | by an armed march on Berlin | 64% | by appointment within the law | 0% |
+
+: How to read this table: no witness exists, so there is no gap — only the guesser's bets,
+side by side with history. {.striped .hover}
+
+**What it means.** The misses all have the same shape — the most recent precedent, reapplied. The
+banks will be saved by the Federal Reserve (the brand-new institution, trusted at 94%); the
+republic will fall *by an armed march on Berlin* (the 1923 putsch, replayed); the master of
+Germany in 1934 will be Wilhelm before Hitler. And two bets land: the 1929 memoir already expects
+the republic to end in *dictatorship* (its newspapers were full of emergency-decree politics), and
+it finds gold abandoned by Britain and America entirely thinkable — it lived through 1914–1925,
+when Britain actually was off gold.
+
+::: {.callout-warning appearance="simple"}
+**A false alarm, caught by our own rules.** In an earlier version, the 1929 memoir seemed to put
+41% on "the leader of the National Socialists" ruling Germany — eyebrow-raising
+foresight for 1929, when that party polled 2.6%. Rewritten with bare names (*" Hitler"*,
+*" Hindenburg"*, *" Wilhelm"*, *" Ludendorff"*), the bet collapses to 22% —
+chance level. The "foresight" was the fluency of a stock newspaper phrase, not knowledge. This is
+exactly the kind of error the double-scoring rule and the exam exist to catch.
+:::
+
+## 8 · The same experiment in German and in French
+
+**The test.** Everything above used English questions. The models read German and French too, so
+we translated the exam (all twenty fresh questions) and all the catastrophe questions, and repeated everything
+per language, same rules, same passing grades.
+
+**An example, verbatim (German).** The flagship question in German:
+
+> *"Es ist das Jahr 1919. Deutschland führte einen großen Krieg gegen die halbe Welt und wurde
+> geschlagen. An der Spitze des deutschen Staates steht heute"*
+
+Endings: *" Präsident Ebert"* (true), *" Kaiser Wilhelm"*, *" Kronprinz Wilhelm"*,
+*" Marschall Hindenburg"*.
+
+**The exam results per language.** English passed (Section 6). German answered only
+12 of 20 — below the passing grade of 14 — though when it did answer, it was right
+10 times out of 12: precise but too often silent (our German answer-
+wording needs work, not the meter). French answered 14 of 20 and was right
+13 times, but failed the third requirement — the witness must out-bet the guesser —
+mostly on questions where the guesser was *legitimately* confident already (women's suffrage;
+Turkey's constitution, first granted in 1876; and a rival we missed: in 1900 there already *was*
+a "roi George", in Greece). **So: the meter is fully certified in English; in German and French it
+is precise where it answers but not yet certified — results there count as supporting evidence.**
+
+**The result that travels.** The centrepiece question is answered in all three languages, and the
+answer is the same everywhere:
+
+| language | guesser's bet on "President Ebert" → witness's | foresight gap | the fake memoir keeps |
+|:--|:--|--:|:---|
+| English | 0% → 78% | +9.8 | Kaiser Wilhelm |
+| German | 0% → 60% | +13.3 | Kaiser Wilhelm |
+| French | 0% → 18% | +5.7 | le Kaiser Guillaume |
+
+: The republic was not in the pre-war picture — in any language. {.striped}
+
+**And one finding only three languages could show.** We asked each 1929 model how American
+business fared in the four years after the 1929 crash. The **French** memoir bets
+98% on *"repris comme après chaque panique"* — recovered, as after every panic. The
+**German** memoir bets 98% on *"Jahr um Jahr tiefer gesunken"* — sunk deeper year
+after year. The German memoir is the one that gets it right — and the likely reason is that the
+German 1920s, with their inflation and slumps, taught the German-language press what a collapse
+can be, while the French press remembered recoveries. Each language forecasts with its own
+national memories. No survey taken in 1929 could have shown this.
+
+## 9 · Where things stand, in plain words
+
+1. A frozen model's surprise at a *sentence* tells you what the period **wrote about** — its
+   printed imagination. Real and interesting, but it is not expectation. (The moon was old news in
+   1900. That's Jules Verne, not foresight.)
+2. Asking a model to *prophesy* summons the voice of prophecy — which in every library belongs to
+   people who didn't know. Never ask a language model "what will happen"; the genre answers, not
+   the knowledge.
+3. Asking in the **chronicle register** — "it is 1919, looking back…" — works: the witness model
+   answers from knowledge (proven on an exam with known answers, passing grades fixed in advance),
+   and the guesser model writes a fake memoir that exposes its genuine priors.
+4. By this certified meter, measured question by question: the 1907 panic, the long war, the
+   Tsar's fall, and even Russia's debt repudiation were **foreseen**; the German republic, the
+   Tsar's execution, and the Rentenmark were **unforeseen**. Where no witness model exists (the
+   1930s), the 1929 memoir bets on the most recent precedent — the Fed, the putsch, the Kaiser —
+   and misses, except where its own lived past pointed true (dictatorship; leaving gold).
+5. Next: better-worded German and French answer options so those languages can pass the exam too;
+   more questions per catastrophe; a model trained to 1938, which would turn the memoir of the
+   1930s from a curiosity into a measurement; and the paper rebuilt on all of this.

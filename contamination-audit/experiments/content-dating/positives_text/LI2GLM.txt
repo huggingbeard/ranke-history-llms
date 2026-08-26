@@ -1,0 +1,3239 @@
+LITTAUER LIBRARY LI 2GLME TECHNICAL REPORT No. 44-3 OREGON STATE HIGHWAY DEPARTMENT R. H. BALDOCK State Highway Engineer C. B. McCULLOUGH 
+
+Assistant State Highway Engineer
+
+A Study of Rural Sidewalks DISCARDES BY MARVARD ENGINEERING 
+
+Prepared Under Supervision of
+
+DISCARDED BY HARVARD ENGINEERING LIBRARYS JOHN BEAKEY, Traffic Engineer F. B. CRANDALL, Acting Traffic Engineer Assembly of Data by J. AL. HEAD, Assistant Traffic Engineer LIBRARY LITTAUER DORARY, 58 HARVARD UNIVERSITY 
+
+Published by 
+
+OREGON STATE HIGHWAY COMMISSION SALEM T. H. BANFIELD, Chairman ARTHUR W. SCHAUPP, Member MERLE R. CHESSMAN, Member 
+
+August, 1944
+
+Sig. 1
+
+RURAL SIDEWALK INSTALLATION
+
+TECHNICAL REPORT No. 44-3 OREGON STATE HIGHWAY DEPARTMENT R. H. BALDOCK State Highway Engineer C. B. McCULLOUGH 
+
+Assistant State Highway Engineer
+
+A Study of Rural Sidewalks STAT OREG 
+
+EGON Frepared Under Supervision of 
+
+JOHN BEAKEY, Traffic Engineer F. B. CRANDALL, Acting Traffic Engineer Assembly of Data by J. AL. HEAD, Assistant Traffic Engineer 
+
+Published by 
+
+OREGON STATE HIGHWAY COMMISSION SALEM T. H. BANFIELD, Chairman ARTHUR W. SCHAUPP, Member MERLE R. CHESSMAN, Member 
+
+August, 1944
+
+STATE PRINTING DEPT.
+
+FOREWORD 
+
+This study was initiated in 1939 and the basic data and analysis thereof compiled during 1939 and 1940. Subsequently and up until the present time the study has remained somewhat dormant due to the press of other departmental work. The publication of a report on the subject is deemed advisable at this time in order that a permanent record may be had and the data thereby made available for future planning of rural sidewalk projects. 
+
+There are many phases of the study which should be made the subject of further development and it is the intent of this department to do so at such time as sufficient data have been collected on "before and after" experience on the numerous sidewalk installations along rural sections of the state highways. 
+
+Mr. James J. Walton, Engineer, Traffic Division, is responsible for the collection and compilation of data in the initial period of study during 1939 and 1940. Mr. Walton's efforts in connection with the study are to be commended. 
+
+Acknowledgment is also made of the work of other employees of the department who have contributed to the study.
+
+TABLE OF CONTENTS 
+
+Page 
+
+SECTION I-INTRODUCTION Article 1. General 
+
+Article 2. The Rural Pedestrian 
+
+SECTION II-EQUITABLE DISTRIBUTION OF COST 
+
+Article 3. The Road User 
+
+Article 4. The Community 
+
+Article 5. The Railroad Grade Crossing Separation 
+
+Analogy 
+
+SECTION III-THE PEDESTRIAN 
+
+13 
+
+Article 6. Use of Roadway 
+
+13 
+
+Article 7. Involvement in Accidents 
+
+13 
+
+Article 8. Causes of Involvement 
+
+3335 15 
+
+SECTION IV—VISIBILITY Article 9. Perception and Stopping Distances Article 10. Relative Visibility Article 11. Hazards Inherent in Night Time Traffic 
+
+2222 21 21 23 26 
+
+SECTION V-RIGHTS AND RESPONSIBILITIES 
+
+30 
+
+Article 12. Legal Aspects 
+
+30 
+
+Article 13. Moral Responsibility 
+
+34 
+
+Article 14. Summary of Rights and Responsibilities SECTION VI-WARRANT FOR RURAL SIDEWALKS Article 15. General Warrant Article 16. Index of Hazard Article 17. Relative Warrant SECTION VII —APPLICATION OF FORMULAE SECTION VIII-EXISTING FACILITIES SECTION IX -SUMMARY 
+
+34 36 36 37 42 27 423 45 54 60
+
+Figure 
+
+No. 
+
+LIST OF FIGURES Description Roadside Development Adjacent to an Incorporated 
+
+City 
+
+2* Fatal Accidents on Rural State Highways (exclusive of Portland vicinity) 1936-39. 
+
+2a*Fatal Accidents on Rural State Highways (vicinity of 
+
+Portland) 1936-39. 
+
+3* Fatal Pedestrian Accidents on Rural State Highways 
+
+(exclusive of Portland vicinity) 1936-39. 
+
+3a*Fatal Pedestrian Accidents on Rural State Highways 
+
+(vicinity of Portland) 1936-39. 
+
+4* Casualties to Pedestrians Walking Along Rural State 
+
+Highways (exclusive of Portland vicinity) 1936-39. 
+
+4a*Casualties to Pedestrians Walking Along Rural State 
+
+Highways (vicinity of Portland) 1936-39. 
+
+5 Lack of Sidewalk Facilities Extending Beyond the Corporate Limits of a City 
+
+6 Built-up Area Along a Highway 
+
+7 Comparison of Railroad Grade Crossing Casualties and Expenditures for Grade Separations with Cas ualties to Pedestrians. Walking Along Highways and
+
+Expenditures for Sidewalks in Oregon During the 
+
+Years 1936-39, inclusive 
+
+8 School Children Crossing Highway 9 School Children in Roadway 10 Children Playing in Roadway 11 Children Walking on Roadway of Necessity 12 Stopping Distance at Various Speeds 
+
+11 16 16 17 17 22 24 13 Relative Visibility of Pedestrians at Night at 200 feet 14 Relative Visibility of Pedestrians at Night at 300 feet 15 Relative Visibility of Pedestrians at Night at 400 feet 16 Relative Visibility of Pedestrians at Night at 500 feet 
+
+17 Rural Shopping Centers 18 Guard Rail on Fill Terminates Footpath 
+
+19 
+
+Recreational Center 20 Comparison Between Casualties to Pedestrians Walking Along Highway Facing Traffic and Pedestrians Walking Along Highway with Traffic . 
+
+Contained in Appendix. 
+
+24 25 25 31 31 32 3333
+
+Figure LIST OF FIGURES—Continued No. 
+
+Description 21 Existing Gravelled Walk 22 Existing Gravelled Walk 23 Typical View of Section 24 Typical View of Section Without Walks 25 Obstruction of Existing Walks 26 Lack of Continuity in Existing Walks 27 Typical Cross Section 28 Plan of Proposed Sidewalk Improvement 29 Index of Hazard Data Sheet 30 Miles and Type of Sidewalk Constructed by the Ore gon State Highway Department, 1936-39, inclusive.... 
+
+31 Typical Rock Footpath 
+
+32 Oiled Footpath 
+
+33 Typical Oiled Footpath 
+
+34 Typical Bituminous Footpath 
+
+35 Typical Concrete Sidewalk LIST OF TABLES Page 
+
+46 46 47 47 48 49 50 51 52 57 57 58 58 59 
+
+Table No. 
+
+Description I The Number of Accidents and Persons Killed and Injured in Urban and Rural Areas in Oregon During 1939 According to the Type of Accident 
+
+Page 15 2 
+
+II Ratio of Pedestrian Fatalities and Injuries to Total Fatalities and Injuries by Age Groups III Percentage Distribution of Pedestrian Fatalities and Population by Age Groups 
+
+15 
+
+IV Percentage Distribution of Pedestrian Fatalities Walking Along Rural State Highways by Age Groups 18 
+
+V The Distribution of Pedestrian Accidents that Occurred While the Pedestrian Was Walking Along the Highway During the Period 1937 to 1939, Inclusive, According to Light Conditions 
+
+VI The Distribution of Pedestrian Accidents During the Period 1937 to 1939, Inclusive, According to the Condition of the Pedestrian 
+
+VII A Summary of Data Reported by Twenty-three States to the Project Committee on Sidewalks Along Rural 
+
+Highways 19 34 55
+
+SECTION I-INTRODUCTION Article I-General 
+
+Motor vehicle accidents involving pedestrians are usually thought of as a problem peculiar to urban areas, and few people, other than those familiar with accident statistics, realize that pedestrian fatalities are distributed almost equally between urban and rural areas. Several conditions are responsible for, or at least influence, this line of reasoning on the part of the motor vehicle operator. 
+
+Drivers have become accustomed to or grown up with the idea of pedestrians sharing the use of city streets; the same is not true of rural highways. Sidewalk facilities are usually available in cities, while the converse is true along rural highways, and, for this reason, the pedestrian use of rural facilities is looked upon as unusual and, perhaps, intrusive.
+
+Concentrations of traffic, particularly pedestrian traffic, are so much greater on city streets that the driver is conscious of the greater exposure or possible conflict between his motor vehicle and persons on foot.
+
+Far from the least important of the factors influencing the motorist is the publicity given to urban accidents, especially if the city is safety-minded and attempting a reduction in accidents. Pedestrians injured or killed in urban accidents are as a rule residents of the community, and the loss to the community is made known through publicity. The pedestrian accident on a rural highway will not receive the same publicity since the accident record of a particular urban area will not be affected. 
+
+The Oregon State Highway Commission has recognized the problem as evidenced by the allocation of certain monies with which to construct sidewalks along rural state highways. There then remains the problem of the proper expenditure of the money available such that public interests will be best served and elimination of the pedestrian hazard will provide the greatest benefit as regards accident prevention.
+
+The construction of footpaths or sidewalks along a highway in themselves contribute little to the elimination of the hazard of crossing the highway. This report is concerned [1] 
+
+S.g. 2
+
+primarily with the problem of the pedestrian walking along the highway. 
+
+It is obvious that the construction of walks or paths along every mile of state highways would do much to minimize the pedestrian hazard, but the impracticability of such a policy is obvious. The cost would be prohibitive, and many miles of walks would be built where there is absolutely no warrant. 
+
+Sidewalks could also be built on the basis of requests from communities or individuals, but here again such basis would be unsound.
+
+Studies, of necessity, must be made of existing conditions and pedestrian accident records to establish a priority list for the construction or improvement of pedestrian facilities. It is difficult to establish fixed warrants for construction of a particular pedestrian facility. However, it is possible to establish relative indices as between a number of projects. The purpose of this study is to develop through the inter-relation of the several influencing factors a means of computing relative indices as between a group of several projects. 
+
+Article 2-The Rural Pedestrian 
+
+During the years 1936 to 1939, inclusive, the period covered by this report, 173 out of a total of 629 fatal accidents on rural 
+
+Table I 
+
+The Number of Accidents and Persons Killed and Injured in 
+
+Urban and Rural Areas in Oregon During 1939 
+
+Collision of
+
+Motor Vehicle 
+
+With Pedestrian 
+
+According to the Type of Accident.
+
+RURAL AREAS URBAN AREAS 
+
+Accidents 193 Killed 54 
+
+Injured Accidents Killed Injured 
+
+One other car 6,177 59 152 1,856 1,076 23,388 59 1,057 12 2,173 
+
+Two other cars 356 
+
+Railroad train 27 
+
+Horsedrawn vehicle 23 Bicycle 76 Motorcycle 26 
+
+352 261541 225 806 1 158 12 66 28 11 1 58 539 10 19 227 ON 229 2 92 32 389 
+
+Street car 
+
+Fixed object 13 646 294 20 Non-collision 567 20 115 383 78 371 111 477 99 110 59 
+
+Miscellaneous 
+
+33 1 22 
+
+8,137 231 2,858 27,658 105 4,011
+
+INTRODUCTION 
+
+3 state highways involved pedestrians. This represents over 27 per cent of the total. 
+
+Data are not available for county roads during the period of this survey, but it is thought that the experience on rural state highways will parallel that of the entire nation where 23 per cent of all rural fatal accidents involved pedestrians. 
+
+During 1939 pedestrian fatalities on all rural roads in Oregon were 23.4 per cent of all rural fatalities. Table I shows the number of accidents and persons killed and injured in Oregon during 1939, according to type of accident. 
+
+The above table reveals the magnitude of the rural pedestrian problem and its relationship with urban areas. In urban areas insulation is provided between vehicular and pedestrian traffic by sidewalks. In rural areas little consideration has been given to providing a separate pedestrian trafficway. 
+
+From Table I it will be noted that urban areas experience about five and one-half times the number of pedestrian accidents as rural locations; at the same time, the number of fatalities is approximately the same. In other words, the larger number of accidents in cities is offset by the higher severity rate in rural sectors. In cities, one pedestrian is killed in every 
+
+18 accidents, while the proportion is one in 3.6 accidents in rural areas. This divergence in severity is caused by a number of inter-related conditions which are discussed hereinafter. 
+
+The majority of rural pedestrian accidents occur adjacent to incorporated cities, in or near communities, or built-up areas along a highway. This is logical since there is a concentration of rural vehicular and pedestrian traffic in these areas. A more important consideration is the fact that many highways in these areas accommodate a vehicular traffic volume comparable to certain urban areas which latter provide sidewalk facilities for much smaller pedestrian volumes. Furthermore, it is in these rural areas that street lighting is lacking entirely or is insufficient to provide adequate illumination of pedestrians who must use the roadway of necessity. 
+
+Traffic law enforcement is less stringent in these rural areas. When a motorist leaves the corporate limits of a city, the task of traffic law enforcement changes hands from a fairly large personnel to a much smaller force, with the result that
+
+the driver probably relaxes his attention to traffic, both vehicular and pedestrian, and takes more chances, a situation not favorable to pedestrian safety.
+
+Figure 1 illustrates a section of highway that is typical of development adjacent to an incorporated city. The problem created at this and similar locations is the source of many actual and potential pedestrian accidents. 
+
+Figures 2 and 2a (contained in the Appendix) show the location of the 629 fatal accidents mentioned hereinabove that 
+
+AUTO REPAIRING 
+
+co C465 80 Coca-Col
+
+FIGURE 1-ROADSIDE DEVELOPMENT ADJACENT TO AN INCORPORATED CITY. 
+
+occurred on the rural state highways during the years 1936 to 1939, inclusive. Of the 173 fatal accidents involving pedestrians, 48 or 27.7 per cent occurred while the pedestrian was walking parallel to the traffic stream on the pavement or on the shoulder. This number represents 7.6 per cent of all fatal accidents on rural state highways. 
+
+Figures 3 and 3a (contained in the Appendix) show fatal pedestrian accidents during the same period (1936-39, inclusive) segregated according to the movement of the pedestrian,
+
+INTRODUCTION 
+
+5 that is, whether he was walking along or attempting to cross the highway. In addition to the 48 fatal accidents necessary of inclusion in this study, there were, during the three years- 1937, 1938, and 1939-77 other accidents involving pedestrians walking along rural state highways that resulted in personal injury only. (See Figures 4 and 4a contained in the Appendix.)
+
+This is an average of approximately 25 per year or 100 for the four-year period which, when added to the known number 
+
+GILMORE FIGURE 5-LACK OF SIDEWALK FACILITIES EXTENDING BEYOND THE CORPORATE LIMITS OF A CITY. 
+
+of fatal accidents (48) gives a total of approximately 150 accidents in which the pedestrian was walking parallel to traffic. 
+
+The occurrence of one hundred and fifty pedestrian accidents, of which approximately one-third were fatal, over a period of four years on the total mileage of rural state highways, cannot, on a per-mile basis, arouse much concern to the importance of the problem. When definite locations are studied it was found that these accidents occurred on a relatively few miles of highway, and the problem is therefore seen in a different light.
+
+Of the 48 fatal accidents wherein the pedestrian movement was along the highway, 69.6 per cent occurred within a twomile radius of incorporated cities; 24 per cent occurred in or adjacent to communities or built-up areas along the highway; and only 6.4 per cent occurred in strictly open rural areas. 
+
+This result is to be expected since concentrations of rural vehicular traffic and particularly pedestrian traffic are greater in areas adjacent to cities and communities and the chance of collision is correspondingly greater. This result is important, however, since it indicates the type of highway development wherein pedestrian fatalities have been occurring, and it dictates the need of the inclusion of this factor in any warrant for rural sidewalks.
+
+Figure 5 shows that not only does local law enforcement stop at the corporate limits of cities, but also sidewalk facilities. 
+
+The rapid expansion and growth adjacent to large cities has of late created a problem wherein the pedestrian is of never ending concern. The "mushrooming" of small business definitely creates a potential pedestrian problem yet no well defined facility for pedestrian use is provided. 
+
+It should be mentioned at this time that little or no consideration should be given to pedestrian accidents as a warrant for sidewalk construction where walks, had they been available, would not have prevented the collision. The drunken pedestrian and his movement along a highway is unpredictable; he may suddenly reel in front of an oncoming vehicle and be entirely responsible for any mishap, and because of his condition, it is doubtful whether he would have chosen to walk on sidewalks or footpaths were they available. This travel behavior on the part of the pedestrian can be seen at numerous places along state highways, especially where holiday crowds are predominant. At many of these locations sidewalks are available but pedestrians, either because of conditions or attitude, or a combination of both, disregard the simple rules of caution and use the roadway in preference to the walks. 
+
+Of the 48 fatal pedestrian accidents mentioned above, the exact condition of the pedestrian is not known, but as will be discussed later, there was the possibility that at least 30 per cent had been drinking and were in various degrees of intoxication.
+
+EQUITABLE DISTRIBUTION OF COST 
+
+7 
+
+SECTION II-EQUITABLE DISTRIBUTION OF COST Article 3-The Road User 
+
+Another factor in providing sidewalk facilities along rural highways is the question of equity concerning the expenditure of road user funds for this purpose. While the State Highway Commission has set aside a sum of money for the elimination of the pedestrian hazard, it does not necessarily follow that the Commission will or should be expected to follow the same policy in providing walks in any or all locations where there is a sufficient warrant or demand by citizens, and pay for them entirely from road user funds. The question must be recognized as debatable since the benefits from rural sidewalks accrue to the abutting property and the community as well as the road user and pedestrian. 
+
+The Oregon State Highway Commission has gone on record in Technical Bulletin No. 10, "An Analysis of the Highway Tax 
+
+Structure in Oregon", in favor of the following basic concept of highway cost distribution: "Funds for the construction, maintenance and operation of highway systems are derived, in the main, by means of assessments, taxes and other imposts, levied in various ways and against different groups. These levies are presumably in consideration for certain and sundry benefits which accrue by virtue of road and street improvement. Such benefits are various and many, and impinge in different degree and manner on each of the several groups of beneficiaries. 
+
+There are, however, certain basic principles, a rigid adherence to which is indispensible to the formulation of an equitable and adequate program for highway taxation. Concisely stated, these are: "1. That taxes and imposts be levied against each of the various beneficiary groups in direct proportion to the benefits derived. "2. That the tax monies received from each beneficiary group be distributed for expenditure in such manner as to produce maximum benefit returns to that group. "3. That taxes and imposts be sufficient, but only sufficient, to meet such costs as are both necessary and warranted in view of the benefits."
+
+This concept of the distribution of highway costs, if applicable to the whole structure, is certainly applicable to any
+
+component part, and allows the question to be raised whether the provision for pedestrian traffic in rural areas is the complete responsibility of highway authorities or whether a joint responsibility should be accepted by all those benefited. If the basic principles stated above are rigidly adhered to, the road user will, at no time, be required to stand the entire cost of pedestrian facilities, and, in many cases, his share will be minor. It appears that adjacent property-especially if the type of property falls in a business classification-and the HI 
+
+CAFEY CAFE 
+
+71 
+
+ASSOCIATED ASSOCIATED FIGURE 6-BUILT-UP AREA ALONG HIGHWAY 
+
+community will be the major beneficiaries of sidewalk installations.
+
+The road user would benefit from a separation of rural or suburban vehicular and pedestrian traffic even though the benefits would be, in most cases, intangible. Time is lost in slowing down to avoid striking pedestrians who walk on the pavement, and even when there is a pedestrian on the shoulder, speed should be reduced when passing, since he may suddenly step onto the pavement. Other types of accidents have been caused by a driver avoiding a pedestrian and in such a situation
+
+EQUITABLE DISTRIBUTION OF COST 
+
+9 there is an actual monetary loss to the road user. When a law suit develops from a pedestrian accident, it is possible a loss to the road user may be evaluated. There would be a certain amount of mental anguish to all except the most hardened driver after having killed or badly injured another person. For these reasons, it is evident that the road user would be benefited in some degree by the construction of rural sidewalks and cannot be released from all responsibility of providing such facilities.
+
+Article 4-The Community 
+
+Experience has shown that rural communities and built-up areas follow the construction of highways, and this advance of property development along highways, particularly in areas adjacent to larger cities, is undoubtedly the cause of congestion and hazards that are evidenced in many sections of the state. This condition is exemplified in Figure 6. Business establishments in such areas would definitely benefit from sidewalks and should share in their costs. Any undeveloped property would have its value enhanced by such improvements. 
+
+The community as a whole would benefit since practically all pedestrian traffic has its origin and/or destination within the community. As mentioned before, pedestrian deaths and injuries are community losses and the minimizing of the pedestrian hazard is, in a large measure, a local problem. 
+
+Article 5-The Railroad Grade Crossing Separation Analogy 
+
+The problem of separating rural vehicular and pedestrian traffic along with the proper distribution of costs based on benefits received is somewhat analogous to the problem of separating highway and railroad traffic-in both instances benefits are realized by the road user. The expenditure of road user monies for either type of separation will derive the same general benefit. In the instance of the railroad grade separation the life of the road user is protected and in the case of a pedestrian facility both the pedestrian and the road user benefit. In both situations, however, there is the problem of an equitable distribution of costs.
+
+The responsibility of providing for pedestrian safety has been mentioned. The elimination of conflicts at a railroad
+
+grade crossing will, as in the case of vehicle-pedestrian segregation, benefit in varying degree the parties concerned. The life and property of the road user is completely protected and time is saved. The latter factor is, even though intangible, usually the more important from a monetary standpoint, since the ultimate in protection at a railroad crossing is not provided unless the volume of both vehicular and train traffic will warrant a separation. The benefits to rail traffic are the saving of time and life-schedules are not disrupted and it is not uncommon for train crews or passengers to be injured or killed in grade crossing accidents.
+
+In recent years, fairly large sums have been set aside by the Federal Government for the elimination of grade crossing hazards, which fund can be considered as road user monies reverting to the state from the Federal tax on motor vehicle fuels. 
+
+It then follows that other hazards due to vehicle-pedestrian conflict can be eliminated and road user funds utilized without questioning the distribution of costs on the basis of benefits derived.
+
+The need for railroad grade crossing protection, and provision of Federal funds for this purpose, has come about through pressure of public opinion rather than from actual need when compared with other highway hazards. During the period 1936 through 1939, 80 pedestrians were killed and 241 injured while walking along urban and rural state highways in Oregon. During the same period railroad grade crossing accidents on the same roads killed 65 and injured 209 persons.
+
+Expressed another way, railroad grade crossing fatalities and injuries were, respectively, only 31.3 and 86.7 per cent as great as fatalities and injuries to pedestrians walking along highways. This relationship is due in part to the better protection offered at grade crossings, but the cost of this protection has been quite high.
+
+During the period for which the above comparison is made, $2,474,000 was expended for railroad grade crossing separations and only $58,000 for rural sidewalk construction. In other words, for every grade crossing casualty during the four-year period, $9,029 was expended for prevention, while for every rural pedestrian casualty of the type being discussed, an ex-
+
+EQUITABLE DISTRIBUTION OF COST 
+
+11 
+
+CASUALTIES 
+
+250 500 1250 1000 750 
+
+Casualties at 
+
+Grade Crossings 
+
+Expenditures for
+
+Grade Separations 
+
+Pedestrian
+
+Casualties 
+
+Expenditures for Sidewalks Expenditures Injuries Fatalities 2.0 1.5 
+
+FIGURE 7-COMPARISON OF RAILROAD GRADE CROSSING CASUALTIES AND EXPENDITURES FOR GRADE SEPARATIONS WITH CAS- UALTIES TO PEDESTRIANS WALKING ALONG HIGHWAYS AND EXPENDITURES FOR SIDEWALKS IN OREGON DURING THE YEARS 1936 TO 1939, INCLUSIVE. 
+
+5 1.0 2.5 
+
+MILLIONS OF DOLLARS
+
+penditure of $386 was made. This is a ratio per casualty of approximately 23 to 1.
+
+The above comparison of expenditures is in no sense intended as an indictment of the policy that has been pursued. 
+
+Practically all expenditures for grade crossing eliminations have come from Federal funds and, because of the provisions of the appropriation, could not have been used for any other purpose. Neither are the comparisons that have been made between railroad grade crossing separations and rural sidewalks intended as an argument against construction of the former-they are intended rather to point out a condition that is generally misunderstood, namely, that the somewhat neglected pedestrian hazard, when compared with that of the grade crossing, warrants more attention from those responsible for accident prevention. Certain of the larger grade separation projects have cost the equivalent of 400 miles of oiled sidewalk which, properly distributed, would provide a greater saving of human life than the one separation. 
+
+Figure 7 shows graphically the relation between the rural pedestrian and urban and rural grade crossing hazard and the money that has been expended for the elimination of the hazard in each instance.
+
+One factor in defense of the more expensive grade crossing separation is the fact that the construction of such a structure puts a definite end to the possible conflict between vehicles. and trains while the construction of a sidewalk will not provide the same result relative to the pedestrian hazard. Experience has shown that a certain percentage of the people will continue to walk along the roadway even though a sidewalk is provided. Hitch-hikers do not find it advantageous to be too far from the pavement edge and no one can be expected to use a sidewalk if it does not provide a surface comparable to the roadway.
+
+THE PEDESTRIAN 
+
+13 
+
+SECTION III-THE PEDESTRIAN Article 6-Use of Roadway 
+
+As mentioned previously, pedestrian use of rural highways is unusual and, insofar as the motorist is concerned, intrusive. 
+
+Generally speaking, the pedestrian does not concur in this thought which fact is substantiated by accident reports. 
+
+Without attempting to settle the question as to who has the right of way along a rural highway-the driver or the pedestrian-it appears that common sense should dictate a move on the part of the pedestrian to protect his own life. He is the one who is usually injured or killed, not the driver of the vehicle. This attitude on the part of the pedestrian has at many times been nourished to the point of actual defiance of the rights of the motorist. The pedestrian is protected by law at intersections and other specified locations when he crosses a street or highway and safety campaigns or safety education should stress the responsibilities of the pedestrian as well as those of the motorist.
+
+The statutory rights and duties of pedestrians when walking along a rural highway are as follows: "Pedestrians, when using any highway outside of incorporated cities or towns, shall use the left-hand side of such highway, so as to leave the right-hand side of the highway free for vehicles passing the same direction and for safety in meeting vehicles proceeding in the opposite direction." (L. 1931, C. 360; O. C. 1935 Supp., Pg. 1487.)
+
+It will be noted that there is nothing in the law as stated that requires a pedestrian to leave the highway regardless of vehicular traffic. The pedestrian may be given, by law, the inference of false security thereby jeopardizing his personal safety.
+
+Article 7-Involvement in Accidents 
+
+The causes of pedestrian accidents are, with rare exceptions, traceable to two sources the pedestrian or the vehicle driver. 
+
+Exceptions are instances wherein a driverless vehicle may run up on a sidewalk and hit a person looking in a store window, a pedestrian may be struck as a result of a mechanical failure
+
+of a vehicle, or the condition of a street or highway may cause a driver to lose control of his car and run down a bystander. 
+
+Such instances are uncommon, uncontrollable, and do not warrant consideration.
+
+When driver behavior causes an accident, such behavior may be placed in one of several groups as follows: violations of traffic laws, improper actions other than violations, attitude toward safety of others, and driver's condition. Accident causes attributable to pedestrian behavior may be classified in much the same manner.
+
+There are traffic laws applicable to pedestrian as well as vehicular movements. Pedestrians as well as drivers occasionally maneuver in a way, not necessarily in violation, to set the stage for an accident. As emphasized previously, any impairment of sense acuity of the pedestrian or driver nullifies in whole or part any remedial measures which may be promulgated through traffic engineering.
+
+Observation and experience seems to indicate that the pedestrian needlessly exposes himself to injury or death while crossing or walking along a highway. He is not cognizant or fully appreciative of the limitations of the driver and his vehicle. A study of the license status of pedestrians involved in accidents reveals that a surprisingly large number of them, and particularly those in the older age groups, are not and never have been licensed drivers of motor vehicles. A pedestrian in this category does not realize that the forward motion of a vehicle cannot be stopped in a few feet nor that the direction of travel cannot always be altered in sufficient time to avoid a collision. 
+
+The pedestrian, on the other hand, can stop in the length of a step or move in any direction-right, left, or backwards-at will.
+
+The following tabulation, Table II, shows the ratio of pedestrian fatalities and injuries to all motor vehicle traffic fatalities and injuries during the period 1936 to 1940, inclusive. 
+
+This tabulation reveals that the high fatality rate in the older age groups for total motor vehicle traffic accidents is largely due to the pedestrian accident fatalities. During the period for which the figures were tabulated, 62.3 per cent of the people 55 years of age or older who were killed in motor vehicle accidents in Oregon were pedestrians.
+
+THE PEDESTRIAN 
+
+15 
+
+Table II 
+
+Ratio of Pedestrian Fatalities and Injuries to Total 
+
+Fatalities and Injuries by Age Groups. 
+
+Pedestrian
+
+Fatalities as a Percentage 
+
+Fatalities 
+
+Pedestrian Injuries as a Percentage of Total 
+
+Injuries 31.1 
+
+Age Group 
+
+Under 5 years 
+
+5 to 14 years 
+
+15 to 24 years 
+
+25 to 39 years 
+
+40 to 54 years 
+
+55 to 64 years 
+
+65 and over 
+
+All ages 38.9 44.5 35.2 7.9 5.0 15.0 6.3 30.7 14.4 52.5 22.9 68.9 38.2 34.6 14.8
+
+A study of the distribution of pedestrian fatalities by age groups is quite interesting when compared with the distribution of the total population by the same groups, as shown in 
+
+Table III. 
+
+Table III Percentage Distribution of Pedestrian Fatalities and Population by Age Groups. 
+
+Pedestrian 
+
+Age Group 
+
+Under 5 years 
+
+5 to 14 years 
+
+15 to 24 years 
+
+25 to 39 years 
+
+40 to 54 years 
+
+55 to 64 years 
+
+65 and over
+
+Fatalities 
+
+Population Go 2.4 7.2 8.4 17.2 4.4 16.9 8.4 22.8 17.8 20.4 20.0 8.4 38.6 7.1 100.0 100.0 
+
+It must be remembered that there is no record available of the pedestrian travel in each age group, without which an evaluation of the relative hazard cannot be made. The reasons for the variations seen in Table III are numerous and diverse, but some can be advanced which appear logical and are discussed hereinafter. 
+
+Article 8-Causes of Involvement 
+
+As mentioned previously, many pedestrians are not drivers and are unfamiliar with a motor vehicle. In addition, children
+
+FIGURE 8-SCHOOL CHILDREN CROSSING HIGHWAY ADJACENT ΤΟ A RURAL SCHOOL CREATE AN ACUTE POTENTIAL PEDESTRIAN HAZARD. 
+
+FIGURE 9-SCHOOL CHILDREN IN ROADWAY WITH COMPLETE DISREGARD FOR VEHICULAR TRAFFIC.
+
+THE PEDESTRIAN 
+
+17 
+
+FIGURE 10-CHILDREN PLAYING IN ROADWAY AND WALKING ALONG ROADWAY CAUSES MOTORIST TO DRIVE IN WRONG LANE. 
+
+​FIGURE 11-SCHOOL CHILDREN MUST USE ROADWAY OF NECESSITY IN SUBURBAN AREAS WHEN NO SIDEWALKS ARE PROVIDED.
+
+are prone to neglect personal safety and lack the mature judgment of an older person. A study of accident reports so often indicates deliberate action on their part that places them in a position to suffer injury or death without their realization of the impending hazard. This neglect on the part of the younger pedestrian may be illustrated by Figures 8, 9, 10, and 11 taken in the vicinity of a rural grade school. 
+
+There are also logical reasons for the pedestrian fatality rate in the older age groups. Injuries and even shock may often result in death due to diminished recuperative powers which accompanies advanced age. Advancing age, bringing with it less alertness and a slowing of reactions may account for accidents that younger persons could have avoided. His vision is failing, his hearing is less acute, and often his judgment is affected by age. It is not entirely impossible that personal characteristics of elderly people, reared in an era of slower travel, prevent their readjustment to modern fast transportation. If this is true, a reduction in pedestrian accidents can be expected as those of the older generation decrease in numbers. This is problematical, however, as people may always be living in a period of transition from one form of transportation to another.
+
+The above figures relative to pedestrian fatalities and injuries by age groups (Table III) are totals for the whole state. The problem immediately at hand concerns the rural pedestrian, and more specifically, those walking along rural state highways. For this purpose, Table IV has been prepared 
+
+Table IV Percentage Distribution of Pedestrian Fatalities Walking Along Rural State Highways by Age Groups. 
+
+Pedestrian Fatalities 
+
+Age Groups 
+
+Under 5 years 
+
+5 to 14 years 
+
+15 to 24 years 1.0 14.8 14.7 
+
+25 to 39 years 15.2 
+
+40 to 54 years 20.3 
+
+55 to 64 years 10.8 
+
+65 and over 23.2 
+
+100.0
+
+THE PEDESTRIAN 
+
+19 to show the percentage distribution by age groups of pedestrian fatalities coming within this particular classification. The figures are based on the three years-1936, 1937, and 1938—since data are not readily available for a longer time span. It is felt that little change would be made in the values if additional years were included.
+
+Table IV shows a more even distribution than Table III, but it is still evident that the older pedestrian is more liable to be a fatality. An age distribution of pedestrian tarffic along rural highways would be expected to vary in much the same way as distribution of all pedestrian traffic on all roads and streets. There is not the likelihood that really young children will expose themselves as much along rural highways. Likewise, the number of older people would probably be less. 
+
+The "selfish" attitude of the pedestrian toward his rights and personal safety is, perhaps, general among pedestrians walking along a rural highway, and it is many times a factor in the cause or the complete cause of an accident. The pedestrian in a normal condition who is walking along a highway controls by far the greater portion of his own safety. If the pedestrian is not violating laws applicable to himself, he can see an approaching car as soon or even sooner than the driver can see him, and he can step aside until the car has passed. Under certain traffic conditions the driver may be occupied with approaching vehicles and never be cognizant of the presence of the pedestrian until he hits him. During hours of darkness there is no question but what the pedestrian knows of the condition of danger aris- 
+
+Table V 
+
+The Distribution of Pedestrian Accidents That Occurred While the Pedestrian Was Walking Along the Highway During the Period 1937 to 1939, Inclusive, According to
+
+Light Conditions. 
+
+Number of Accidents According to Light Conditions 
+
+Fatal Non-fatal
+
+Daylight 54 61 Semi-darkness
+
+Darkness 40 86 98 126 
+
+Not stated 1 
+
+48 154 202
+
+20 ing before the driver does. The headlights of a car, particularly when on the high beam, are visible for long distances to the pedestrian, if he is facing them as he should, and for a safe distance if he has his back to the car. In either case, the pedestrian should be able to know of the approaching car before the driver knows of the pedestrian's presence. 
+
+It is known that limited visibility is the largest contributing cause of all motor vehicle accidents, and the type involving a pedestrian is no exception. He is particularly vulnerable at night when visibility is the poorest. Table V, the distribution of pedestrian accidents according to light conditions, shows that approximately 69 per cent occurred during darkness or dusk despite the fact that only about 28 per cent of the vehicular movement occurs during the same period. To complete the comparison, it is estimated that not more than 5 per cent of the total daily pedestrian movement is at night.
+
+VISIBILITY 
+
+121 
+
+SECTION IV-VISIBILITY Article 9-Perception and Stopping Distance 
+
+The foregoing discussion of pedestrians in night time accidents shows that it is not unreasonable to assume that even the most careful driver whose car is equipped with good lights and brakes may be unfortunate enough to run down a pedestrian. A large number of drivers involved in pedestrian accidents declare that they did not see the pedestrian until just before the moment of impact and consequently were unable to avoid the collision.
+
+The following tabulation presents perception distances as developed in Massachusetts in 1934. Although somewhat in disagreement with more recent data, it is felt that these data illustrate the relative visibility of the pedestrian as the motorist sees him.
+
+TESTED DISTANCES AT WHICH PEDESTRIAN WAS SEEN BY DRIVER* 
+
+Dark (Unlighted, smooth, macadam highway) 
+
+Clothing, Etc. 
+
+With white handkerchief 
+
+With large white area 
+
+Distance at Which 
+
+Pedestrian Was 
+
+Seen When Driver
+
+Faced Illegally Raised Headlights 
+
+95 feet 
+
+164 feet 
+
+206 feet * Pedestr.an Protection, American Automobile Asscc.ation. 
+
+Distance at Which 
+
+Pedestrian Was
+
+Seen When No Car 
+
+Was Approaching 
+
+195 feet 
+
+291 feet 
+
+377 feet
+
+Numerous pedestrian accidents have occurred under what is perhaps the most dangerous condition of night time driving, that is, when vehicles are passing in opposite directions and the drivers are momentarily blinded by the headlights of oncoming cars and perception distance is reduced approximately 50 per cent. The pupils of the eyes contract when confronted by the lights and then must immediately readjust themselves to comparative darkness when the car has passed. If a pedestrian is within this zone during the time that the sight of either driver is not normal, he will be in danger. For his own safety he should step off the pavement and make sure that he is in the clear. When a driver is passing a long line of vehicles,
+
+the danger to the pedestrian is continuous, and the pedestrian should likewise be responsible for his own safety.
+
+The safe stopping distance for vehicles as developed by the A. A. S. H. O. is shown diagrammatically in Figure 12. 
+
+These data, in ten mile increments, are tabulated below. 
+
+SAFE STOPPING DISTANCES FOR VARIOUS SPEEDS V-SPEED IN MILES PER HOUR 
+
+80 70 60 50 10 Speed (M.P.H.)
+
+Stopping Distance 
+
+(Feet) 10 37.6 20 75.2 30 162.6 40 250.0 50 354.0 60 474.6 70 611.8 30 
+
+PERCEPTION 
+
+S 2.93V+.083V2
+
+BRAKE REACTION TIME 2 SEC. 
+
+COEFFICIENT OF FRICTION IN BRAKING = 0.4 
+
+20 10 100 200 300 400 500 600 700 800 
+
+S STOPPING DISTANCE IN FEET FIGURE 12-STOPPING DISTANCES AT VARIOUS SPEEDS
+
+VISIBILITY 
+
+23 Correlating stopping distance with perception distance-as developed in Massachusetts-it is found that when a pedestrian is wearing dark clothing the driver can safely stop when he is traveling approximately 25 m.p.h. when there are approaching headlights and 35 m.p.h. when there are no approaching headlights. However, if the pedestrian is wearing light clothing the driver can safely stop his vehicle when he is traveling 35 m.p.h. and there are approaching headlights and 50 m.p.h. plus when there are no approaching headlights. 
+
+Speed checks reveal that the majority of motorists exceed these limits of speed on rural highways and as a result the pedestrian's relative safety is endangered further. The most logical method of counteracting this situation-in the absence of adequate sidewalk facilities-is through educational work wherein this point of relative hazard to the pedestrian is brought forcibly to his attention. Conversely, the motorist should have these facts brought to his attention also. Tests have shown that when the motorist is watching for an object. or pedestrian along a highway at night, he will perceive it approximately twice as far away as if the object confronts him unexpectedly.
+
+Article 10-Relative Visibility 
+
+To illustrate various conditions of visibility, the following pictures, Figures 13 to 16, inclusive, are presented. They show the relative visibility of a pedestrian to the driver at various distances. These pictures were taken on an oil macadam pavement under favorable weather conditions with headlights on high-beam and do not provide a comparison under extreme conditions. When it is storming and the windshield of a car is covered with rain, sleet, or snow, the driver's visibility is reduced to a minimum. The pedestrian may be bothered by the elements but he does not have a coated glass before him to further obstruct his vision. 
+
+Figures 13 to 16, inclusive, were taken at 200, 300, 400, and 
+
+500 feet, respectively.
+
+It was endeavored to reproduce these pictures to approximate, as near as possible, driver vision. In order to maintain consistency between each picture each was exposed for the
+
+24 
+
+FIGURE 13-RELATIVE VISIBILITY AT 200 FEET. 
+
+FIGURE 14-RELATIVE VISIBILITY AT 300 FEET.
+
+VISIBILITY 
+
+25 
+
+FIGURE 15-RELATIVE VISIBILITY AT 400 FEET. 
+
+FIGURE 16-RELATIVE VISIBILITY AT 500 FEET.
+
+same length of time (2 minutes) and was developed and printed by the same process.
+
+The pedestrians in each of these pictures were dressed in dark, gray, and light clothing from left to right, respectively. 
+
+Further, the three pedestrians were subjects in each of the four pictures; however, it will be noted in studying these pictures that the pedestrian in dark clothing is barely discernible at 300 feet, Figure 14, while the pedestrians in gray and light clothing are still visible. Whereas, in Figure 13, taken at 200 feet, all three subjects are plainly visible. Figure 15 taken at 
+
+400 feet, wherein the pedestrian in dark clothing is not visible, other than for a reflection on his face and hands; the pedestrian in gray clothing is barely discernable; yet the pedestrian in light clothing is still plainly visible. Figure 16, taken at 500 feet, shows only the pedestrian in light clothing to be visible, while the pedestrians in dark and gray clothing do not appear at all; however at 500 feet, the pedestrian in light clothing becomes less discernable. 
+
+The degree of visibility as between the dark and gray clothing is much less than between the gray and light clothing. 
+
+These pictures, Figures 13 to 16, inclusive, illustrate the hazard created by the pedestrian on the highway at night; and when the pedestrian movement at night is large, there is a definite need for sidewalk facilities and is a factor in determining the relative warrant.
+
+Article II-Hazards Inherent in Night-time Traffic 
+
+The hazards inherent in night-time traffic accidents have long been recognized by the Oregon State Highway Department. Considerable research in fields allied to this subject has been conducted. In the introduction to Technical Bulletin 
+
+No. 12, "Light Reflecting Characteristics of Pavement Sur faces", published by the Oregon State Highway Department, the following is quoted: "The high accident rate of night driving is a matter of serious concern to all engineers and officials responsible for the construction and operation of highways. Many studies have been made of accident frequency data and the relationship between accident frequency and visibility. The conclusions reached in these studies are in substantial ac-
+
+VISIBILITY 
+
+27 cord, and clearly show the increased hazard attendant upon night driving. "The increase in traffic fatalities has followed closely the increase in motor vehicle registration; but when these fatalities are segregated according to the hours of occurrence it is seen that, while during daylight hours the ratio of fatalities to total traffic is decreasing, the ratio and number of night-time fatalities has steadily increased. Twenty years ago only 30 per cent of such fatalities occurred at night. Now night-time fatalities constitute more than 60 per cent of all traffic fatalities. Morris, in the 1935 Highway 
+
+Research Board Proceedings, reported on a master station at Ames, Iowa, shows only approximately 24 per cent of all highway traffic as being on the road between the hours of 
+
+7 p. m. and 7 a. m. Other reliable estimates give 20 per cent as a figure for night-time traffic. Yet 60 per cent of the accidents occur during the hours of darkness. In 1936 almost 
+
+38,000 traffic fatalities occurred and of these 22,000 or 58 per cent occurred at night when only 20 per cent of the traffic was moving. "While the greatest increase in traffic density has undoubtedly been on rural highways, city streets, usually illuminated in some degree, are also carrying greatly increased loads. In the last seven years fatalities on these city streets have decreased 10 per cent while fatalities were increasing 32 per cent on rural roads. "Any study of traffic accident records shows the cause of the preponderance of night-time accidents. The conditions controlling daylight operation have now changed. The driver no longer can see the hazards and prepare for them.
+
+They are upon him instantly and a split-second response to the emergency tells the difference between safety and disaster. The most important factor in safe driving is the ability to see. The driver must see a hazard in order to avoid it. During daylight hours, signs, guardrails, centerline stripes, and pavement edges are continuously impressing upon his mind the boundaries between safety and danger. Approaching vehicles or pedestrians are visible far ahead. There is time to plan a course of action. With the coming of darkness the same obstacles are present, but they are too often not seen until too late. Visibility "It has become customary to recognize two ways of 'seeing' things. The first is known as 'discernment by surface detail'. The second is known as 'discernment by silhouette'. When light falls upon an object a portion of it,
+
+depending on the characteristics of the surface, is reflected. 
+
+If the reflected light which reaches the eye is of sufficient volume, the details of the object will be seen. Bright and shaded areas will contrast and colors can be recognized. 
+
+This is discernment by surface detail. "Surfaces vary greatly in their ability to reflect light. 
+
+An object which reflects a small amount of light, when placed against a background which reflects a relatively large amount of light, will stand out in outline against this brighter background. Recognition in this way is 'discernment by silhouette'. "During daylight hours seeing consists principally of discernment by surface detail. Sufficient light is available so that, at reasonable distances, details and colors are recognized. At great distances discernment by silhouette, by the contrasting of dark objects against light-colored backgrounds or vice versa plays a part. "At night discernment by silhoutte is by far the more important. It is almost entirely by this method that the driver, who is dependent upon his own or the approaching vehicle's headlights, sees. Where fixed lighting of sufficient intensity has been installed, some surface detail can be perceived, but even in this case the greatest reliance must be placed on silhouette. Glare "The eye can accommodate itself to only a relatively small range of light intensity. Too high an intensity causes a dazzle which submerges the object in a blaze of light and too low an intensity results in insufficient contrast. As the light intensity varies within the usable range, the eye constantly adjusts itself. This adjustment is not an instantaneous occurrence. An appreciable time is required to permit the adjustment to be made. The automobile headlight gives the equivalent of a dimly lighted tunnel down which the eye is directed. Even though the light from the lamps may be delivered uniformly, some parts of the tunnel reflect more light back to the driver than others. If the pavement is smooth, it will appear dark compared with the rougher surface of the shoulders. At the low angle at which the light is delivered only a small fraction of the light comes back to the driver from any surface. From the headlights of an oncoming car, however, the low angle causes a reflection of a great part of the light toward the driver. This reflection is a beam of relatively narrow width and high intensity. The eye cannot adjust itself to this intense beam and at the same time admit light enough to see outside
+
+VISIBILITY 
+
+29 the beam. An object in the path of the beam is perfectly silhouetted but nothing outside is seen at all. The oncoming car passes quickly but the eye readjusts itself slowly, the phenomena of vision being persistent on the retina for about one-sixteenth of a second after the stimulus is removed. There is always this fraction of a second of glare blindness following the meeting of an automobile. The driver is driving by guess, hoping that the road remains in the same condition as when he last saw it by the dim lights of his own vehicle. This inability to see is a major contributory cause of the high night accident rate. "Glare is, in a large measure, a function of the characteristics of the pavement surface. The driver need not look directly into the oncoming lights, but he must look at the pavement. If a great volume of light is being reflected from the surface toward him and a small volume from his own lights back to him, he can see only the approaching beam and that as a blinding glare."
+
+A definite correlary between the relative visibility of the pedestrian to the motorist and the luminosity of various surface types may be obtained from the factual data contained in 
+
+Technical Bulletin No. 12.
+
+SECTION V-RIGHTS AND RESPONSIBILITIES Article 12-Legal Aspects 
+
+It is thought that there would be fewer pedestrians hit while walking along rural highways if they obeyed specifically the law relative to their rights and duties. As quoted in the law in Article 6, the pedestrian should walk along the roadway facing the traffic. This law is probably violated as often as it is obeyed, and the violation cannot always be condemned. 
+
+Reference is made to pedestrian travel in built-up areas where strict adherence to the law would require crossing back and forth over the roadway, creating, perhaps, a greater hazard. 
+
+Persons shopping in such an area would find it quite impractical to always walk facing the vehicular traffic. The photographs shown in Figures 17 to 19, inclusive, illustrate this. 
+
+This condition, as mentioned before, should be included in any warrant for sidewalk construction.
+
+The problem is different in open areas where there is little excuse for a violation of the law; but, even there, hitchhikers will not find it advantageous to be on the side of the roadway other than the direction in which they wish to travel. 
+
+Furthermore, there are certain locations along rural highways where constrictions of the shoulder make it unsafe for the pedestrian to comply with the law. Through some cuts and fills, along sections where a guard-rail on one side is very close to the pavement edge, and in sections where shoulder constriction and conditions make the use of the shoulder impossible, the pedestrian may choose to walk with traffic, and regardless of the provisions of the law be in a safer position than if he walked against the approaching traffic with no way to step off the pavement to allow a car to pass. 
+
+At this point it may be well to clarify one of the most misunderstood provisions of the motor vehicle laws relating to hitch-hikers along highways. The law is as follows: “It shall be unlawful for any person to stand in a roadway for the purpose of soliciting a ride from the driver of any private vehicle." (L. 1931, C. 360; O. C. 1935 Supp., p. 1487.)
+
+RIGHTS AND RESPONSIBILITIES 
+
+31 
+
+CAFEWAY COTTAGES FIGURE 17-RURAL SHOPPING CENTERS. 
+
+Figure 17 shows typical roadside developments wherein the pedestrian hazard is quite critical. There is no well defined line of demarcation between the shoulder, parking area, and where the sidewalk should be. This condition forces the pedestrian of necessity onto the roadway. Locations such as this and the location in Figures 1 and 6 are becoming increasingly critical. 
+
+FIGURE 18-GUARD-RAIL ON FILL TERMINATING FOOTPATH. 
+
+Figure 18 presents a problem not uncommon in many locations in that there are sidewalk facilities on only one side of the highway and when such facilities are interrupted by a guard-rail across a fill, it becomes necessary for the pedestrian to encroach upon the shoulder. Under conditions as pictured, it is safer for the pedestrian to walk with traffic for a short distance rather than cross the highway.
+
+22 
+
+CAPITOLA RO Coca-Cola FIGURE 19-RECREATIONAL CENTER. 
+
+Figure 19 presents a problem, somewhat similar to that in Figure 17, in that the pedestrian may be forced to use the roadway when the sidewalk facility is obstructed by vehicles parked in front of rural recreational establishments. 
+
+This law is usually construed as meaning that all hitchhiking is illegal. The intent of the law, however, was to curb the practice of crowding out onto the traveled portion of a highway for the purpose of "thumbing a ride". The term "roadway" as defined in the motor vehicle laws, means "that portion of a street or highway improved, designed or ordinarily used for vehicular travel". In other words, a pedestrian may solicit a ride, but he must be off the roadway when he does so. 
+
+Figure 20 shows pedestrian casualties segregated according to those occurring when the pedestrian was walking with traffic and against traffic. The data include urban extensions of state highways through incorporated places other than Portland.
+
+It will be noted in Figure 20 that practically twice the number of pedestrians were killed while walking with traffic than when walking facing traffic. The ratio is nearly as great for injuries. There can be only two reasons for this relationship. Either walking with traffic is doubly hazardous or twice as many pedestrians violate the law compared with the number
+
+RIGHTS AND RESPONSIBILITIES 
+
+3333 
+
+CASUALTIES 
+
+120 100 80 60 40 20 
+
+WITH TRAFFIC FACING TRAFFIC 
+
+Injured Killed
+
+FIGURE 20-COMPARISON BETWEEN CASUALTIES TO PEDESTRIANS WALK- ING ALONG HIGHWAY FACING TRAFFIC AND PEDESTRIANS WALKING ALONG HIGHWAY WITH TRAFFIC. 1937-38-39. 
+
+Sig. 3
+
+who obey. The former reason appears more logical. When his back is toward the oncoming vehicle, the pedestrian does not have the chance to protect himself by stepping from the roadway to safety. If he must use the roadway, the pedestrian should give some thought to his safety and follow the laws that have been made to protect him more than to control his movement.
+
+Article 13-Moral Responsibility 
+
+Much publicity and discussion is given to the dangers and consequences of driving while under the influence of an intoxicant, but little is heard of the danger of this condition to the person on foot when he attempts to mingle with vehicular traffic on streets or highways. Table VI reveals that nearly 
+
+Table VI 
+
+The Distribution of Pedestrian Accidents During the 
+
+Period 1937 to 1939, Inclusive, According to the
+
+Condition of the Pedestrian*. 
+
+Number of Pedestrians by Type of Accident 
+
+Condition of Pedestrian 
+
+Had been drinking 
+
+Physical defects 
+
+Confused by traffic 
+
+Apparently normal 
+
+Not stated
+
+Fatal Non-fatal
+
+15 25 40 10 13 12 83 95 17 40 57 51 164 215 * Includes pedestrian accidents that occurred on state highways and urban extensions in incorporated places other than Portland. 
+
+45 per cent of the pedestrians involved in accidents while walking along state highways had been drinking and were in some degree of intoxication. Of the 34 fatalities for which the condition was reported 15 had been drinking. Over 20 per cent of the injured pedestrians were in this condition. 
+
+Article 14 Summary of Rights and Responsibilities 
+
+Little or no weight can be given to a pedestrian fatality or injury when determining the warrant for sidewalk construction if the pedestrian had been drinking. The actions of a sober person are often unpredictable-those of a person whose senses have been dulled by liquor are more so. In addi-
+
+RIGHTS AND RESPONSIBILITIES 
+
+35 tion, a drunken person has absolutely no concern for his own safety.
+
+To summarize the foregoing discussion of the pedestrian's part in the causation and elimination of accidents, it may be said that he can do much to solve the problem by remembering a few simple rules. They are: 
+
+1. Obey traffic laws pertaining to the pedestrian. 
+
+2. Use sidewalks if available. 
+
+3. Consider the limitations of a motor vehicle and the driver. 
+
+4. Give the driver the right of way and step from the pavement in ample time. 
+
+5. Wear light colored clothing, and when possible, carry a flashlight at night. 
+
+6. Remember that the pedestrian invariably comes out second best in a collision.
+
+SECTION VI- Article 15-General Warrant 
+
+Having considered the general aspects of the problem, the discussion is now directed to a consideration of the warrants for rural sidewalk construction. In this vein, the following is quoted from the "Report of Project Committee on Sidewalks 
+
+Along Rural Highways", Proceedings of the Highway Research
+
+Board, 1939: 
+
+"General Warrants for Sidewalk Construction 
+
+"Based upon the data assembled so far and the experiences of members, the Committee recommends the following general principles concerning rural sidewalk construction, recognizing that further elaboration and the development of more detailed warrants are necessary. However, these more general specifications are presented to aid States and counties in identifying the locations of most imperative need for highway sidewalks and in proceeding with their construction. "1. Sidewalks should be constructed along highways where considerable numbers of pedestrians walk on the highway and the accident records show that this is resulting in frequent pedestrian accidents. In studying accident records for this purpose accidents to pedestrians crossing highways should be distinguished from accidents to persons walking along highways. Records of accidents to be used. as warrants for sidewalk construction should be confined to those of a type which such construction can conceivably prevent. Likewise, records of accidents distributed along the highway should be distinguished from those concentrated at a single point, the distributed pattern of accidents being most likely to indicate the need for sidewalks. "2. In the absence of adequate accident records for this purpose and in anticipation of accidents due to new highway construction, increased vehicular traffic, or growth in adjacent population, the need for sidewalks must be foreseen before the impending toll of pedestrian deaths and injuries starts. Sidewalks may be expected to become necessary along major highways in the transition zones between urban and rural sections, in the vicinity of rural schools, churches, and other group meeting places, and near country clubs, airports, fairgrounds, and similar locations.
+
+"3. Walkways, separate from the roadway, should be provided on bridges and through underpasses, anticipating the need for such pedestrian facilities resulting from the growth of vehicular or pedestrian traffic if the need does not immediately exist. "4. Any walkway surface must be as comfortable and convenient to use as the roadway which it parallels or many pedestrians will use the latter, even at the risk of accidents.
+
+Surfaces that will become muddy in wet weather or dusty in dry weather for example, are apt to be avoided at such times. "5. Proper provision should be made for continuity of walkways and for proper crossings of minor street approaches. If pedestrians must enter the roadway to pass points where the sidewalk is omitted or low grade surface is provided, they are apt to remain in the roadway. "6. In constructing walkways provisions should be made for proper maintenance and for removal of weeds and brush which may extend onto or across them if such maintenance is not provided. The growth of weeds or brush close to the sidewalk increases the opportunity for crime and discourages the use of the walkways at night."
+
+While the foregoing includes the general warrants for rural sidewalk construction, it does not attempt to set up a method of establishing a priority of construction between individual projects which may qualify with respect to such general warrants. 
+
+It is believed impossible to derive any exact formula for this purpose, but it is believed possible to develop a rule of thumb which, supplemented by sound judgment, will serve as an Index of Hazard until more numerous data are available. 
+
+Article 16-Index of Hazard 
+
+Since vehicle volumes, pedestrian volumes, speed, and roadway conditions form the most tangible factors, they must certainly be taken into account in attempting to establish an Index of Hazard. Traffic, both vehicular and pedestrian, is highly seasonal in certain recreational, industrial, and agricultural districts, and in order to reflect the most hazardous conditions, volumes referred to hereinafter represent not yeararound daily averages, but daily averages for the six months of maximum traffic. For example, on the Oregon Coast Highway (US101) a year-round average is not at all indicative of the condition existing during the summer months due to the
+
+large number of vacationists. Fortunately, it was found that generally the pedestrian and vehicular traffic approached a maximum during the same six months period.
+
+It is logical that when records do show accidents as having occurred on a particular section that such fact should carry some weight in considering, in the final analysis, which of several projects should receive priority in the matter of construction. The inclusion of actual accident experience as a factor is discussed at greater length in Article 17, “Relative Warrant".
+
+The accident records do, however, furnish some clue as to the conditions which cause casualties. While the factors contributing to accidents are no doubt many, the first four enumerated below seem to have the most important bearing on the problem: 
+
+1. Condition of Shoulder 2. Width of Roadway 3. Light Condition 
+
+4. Speed of Traffic 
+
+5. Miscellaneous 
+
+Assuming the density of the vehicle-pedestrian movement as being the prime factor bearing on relative hazard and the factors hereinabove as reflecting the special and modifying conditions, the Index of Hazard (I.H.) may be expressed as 
+
+I.H. = Vt V₂ (1 + F1 + F2 + F3 +F++ F5) Vp Where V is the Average daily 24-hour vehicle traffic volume for six months of maximum traffic.
+
+Vp is the Average daily 24-hour pedestrian traffic volume for six months of maximum traffic.
+
+F1 is the Condition of shoulder. 
+
+F2 is the Width of roadway. 
+
+F3 is the Light condition. 
+
+F is the Vehicular speed.
+
+F, is the Miscellaneous. 
+
+After considerable deliberation on the method of computing values for the component parts of the above formula, certain arbitrary values were assigned. The range of values assigned to the various factors are set down and discussed hereinafter.
+
+Little is to be gained by using actual volume count values, and consequently to simplify the computations, numbers have been assigned to represent the various vehicle and pedestrian volumes.
+
+V-Vehicle Traffic Volume Average Daily Vehicular Volume for 6 Months of Maximum Traffic 
+
+2-lane 3-lane 4-lane 
+
+Road 
+
+Road Road 
+
+1 to 100 1 
+
+101 to 250 2 
+
+251 to 500 501 to 1,000 
+
+1,001 to 1,500 1,501 to 2,000 
+
+2,001 to 3,000 
+
+3,001 to 5,000 
+
+5,001 to 10,000 
+
+10,001 to 15,000 10 
+
+15,001 to 20,000 10 10 56789 56789 
+
+20,000 and over 10 10 10 From the above, it will be noted that assigned factor values do not increase in direct ratio to the increase in vehicular volume. It is felt that this is justified in view of the findings of previous studies made in connection with railroad grade crossing hazards wherein analogous conditions prevail. From these prior studies it was indicated that heavier secondary traffic (in the case of railroad grade crossings, the train traffic; and in the instance of this study, the pedestrian traffic) commands greater attention from the motorist, thereby minimizing the hazard.
+
+V-Pedestrian Traffic Volume Average Daily Pedestrian Volume for 6 Months of 
+
+Maximum Traffic 1 to 10 11 to 25 
+
+26 to 50 
+
+51 to 100 
+
+101 to 150 
+
+151 to 200 
+
+201 to 300
+
+Value of Vp 
+
+1 2 
+
+301 to 500 
+
+501 to 1,000 
+
+1,000 and over -880 10
+
+As in the case of vehicular traffic volume, the relationship between volume groups and assigned factors does not follow a straight line relationship. The greater the number of pedestrians, the greater is the caution exercised by the motorist, and, in most cases where the higher volumes are found, there is sufficient congestion to require reduced speeds. 
+
+Having considered the basic factors of vehicular and pedestrian traffic density, special conditions affecting the problem are discussed hereinafter. Examination of rural highway sections indicates that one section may be five times as hazardous as another despite the fact that the several sections may be of the same length and carry the same vehicular-pedestrian volumes. The several special factors included in the term “(1 + F1 + F₂ + F3 + F4 + F)" are so evaluated that their maximum summation equals 5.
+
+F-Condition of Shoulder 
+
+While it is probable that the condition of the roadway shoulder is one of the most important of all factors contributing to the type of accidents under discussion, the condition of the shoulder actually has not been assigned as much weight as shoulder width. During a large part of the year the weather of Oregon is such as to discourage walking on the shoulders. A pedestrian will not use a rough, wet, dusty, or rocky path when immediately adjacent there is a smooth hard surfaced shoulder. 
+
+Value of 
+
+Condition of Shoulder 
+
+Shoulder in good condition throughout year
+
+Shoulder suitable for use in dry weather and reasonably smooth Shoulder suitable for use in dry weather, but rough Fi .0 .1 .2 
+
+Shoulder suitable for use in dry weather, but use restricted by parked vehicles, etc. .3 
+
+Shoulder condition such as to discourage use throughout year.....
+
+No shoulder (confined as in a bridge or tunnel) or of a width inadequate to remove the pedestrian from close proximity to vehicular traffic .4 .5 
+
+F-Width of Roadway 
+
+Three- and four-lane roadways not only divert a certain percentage of the vehicular traffic further from the shoulders,
+
+but provide more room in which the motorist may maneuver to avoid pedestrians.
+
+Distance From Inner Edge of 
+
+Shoulder to "Centerline”* 
+
+20 and over 
+
+18 to 19 
+
+16 to 17 15 14 13 12 11 10 
+
+8 and less 
+
+Value of F .0 .1 .2 .3 
+
+.5 .6 .7 .8 .9 1.0 * With the exception of three-lane highways, "Centerline” refers to the marked or otherwise accepted line of demarcation between opposing streams of vehicular traffic. In the instance of three-lane highways, "Centerline" is taken as the mid-point of the center lane.
+
+F-Light Condition 
+
+As previously pointed out, the pedestrian is particularly vulnerable at night. Pedestrian counts indicate that the volumes do not follow hourly patterns with any regularity as do vehicle volumes, but vary widely with conditions. In certain localities practically all the foot traffic may consist of school children who travel during daylight, while in other localities a theater, meeting house, or recreational area will create a heavy pedestrian movement at night. The following values have been assigned to the factor F3 according to the percentage of pedestrian traffic during hours of darkness-if the highway is adequately lighted these values must be discounted to some degree.
+
+Per Cent of Pedestrian Volume During Darkness 
+
+2% or less 
+
+3% to 5% 
+
+5% to 10% 
+
+10% to 15% 
+
+Value of F3 .0 .2 .4 .7 
+
+15% to 20% 1.0 
+
+20% and over 1.5
+
+F-Vehicular Speed Accident reports do not indicate directly that speed constitutes a major factor, but this is probably due in part to the fact that the accident reports are made out by the motorist—a dead pedestrian is in a poor position to present his version. 
+
+However, there is no question but what speed is a contributing factor in that at the higher speeds the distance travelled during perception, reaction, and braking time is greater than at the lower speeds; and therefore, the chance of maneuvering to avoid an accident is minimized. 
+
+Speed at Which 85% of the Vehicles 
+
+Travel at or Below-MPH 
+
+20 and less 
+
+21 to 25 
+
+26 to 30 
+
+31 to 35 
+
+36 to 40 
+
+41 to 45 
+
+46 to 50 
+
+51 to 55
+
+Over 55 
+
+Value of F 0.00 0.03 0.09 0.15 0.21 0.27 0.34 0.42 0.50 
+
+F-Miscellaneous 
+
+In addition to the items included in the first four factors, the degree of hazard is influenced by other factors that are quite difficult to evaluate. These include the type and extent of culture adjacent to the highway, sight distance, prevailing weather condition, etc., and the extent to which these factors affect each problem is largely a matter of personal judgment. 
+
+To preclude variances in personal judgment, the factor F restricted to a range of 0.0 to 0.5. 
+
+Article 17-Relative Warrant is The foregoing discussion has dealt with the derivation of indices of hazard as between various sections; however, it does not follow that such indices may be used in determining the relative warrant of projects in the matter of construction priority. Relative warrant values or indices must recognize, in addition to inherent hazards, the item of construction costs.
+
+Further, and as pointed out in previous discussion, when past accident records are available and show a positive value some weight must be accorded thereto notwithstanding the fact that pedestrian accidents are largely a matter of chance and subject to wide range of incidence.
+
+There are many worthy projects that could be undertaken in the interest of safety, but they are not necessarily economically sound. If the benefits produced are not commensurate with the cost, the project is unwarranted economically. 
+
+The benefits produced by well-placed rural sidewalks are: 
+
+1. Added safety to both pedestrians and motorists; 
+
+2. Time savings to motorists; and, 3. Convenience to pedestrians.
+
+Further study may develop approximate monetary equivalents or values for these factors, but at present the data are too limited. However, even without direct computation of the warrant, relative values can be computed that will indicate the feasibility of one project when compared with that of another, by assuming that the Index of Hazard reflects the benefits. This is not unreasonable when the factors contained in the formula, I.H. V.Vp (1 + F1 + F2 + F3 + F4 + F5), are considered. Certainly the time saving to the motorist is approximately proportional to the vehicle volume (V), the convenience to the pedestrian to the number served (V₁), and the added safety is reflected not only by the volumes but by the degree of hazard represented by the factors F1, F2, F3, F4, and 
+
+F, which is eliminated. Neglecting the actual casualties of record, the relative warrant can then be said to be directly proportional to the index of hazard and inversely proportional to the cost per mile (C…). 
+
+The introduction of the accident factor is subject to a range of possibilities particularly as regards the weight which should be accorded this item in any computation of relative warrant. The effect of this factor on the relative warrant should undoubtedly be positive in quality. The quantitative effect-whether the factor should be direct or exponential in character—is a matter open to debate. Lacking sufficient data on which to base a detailed study, the factor of accidents has, for the purpose of
+
+this study, been confined to one having straight line characteristics.
+
+In accordance with the foregoing discussion the following formulae may be written. 
+
+(Index of Hazard) 
+
+Relative Warrant = or 
+
+Relative Warrant 
+
+(1+ Casualties 
+
+(Cost per Mile) per mile per year) ˜Vt V₁ (1 + F1 + F2 + F3 + F, + F;) Cm 1 + CM Where Cm is the estimated cost of project in hundreds of dollars per mile.
+
+CM is the Casualties per mile per year. 
+
+The application of the foregoing formulae is presented in the following section.
+
+SECTION VII-EXEMPLARY APPLICATION OF FORMULAE 
+
+The inclusion of the following example serves to illustrate the application of the Inherent Hazard and Relative Warrant formulae. The Relative Warrant of this project as against other projects cannot be made at this time (see Section IX, Summary). 
+
+PROPOSED SIDEWALK PROJECT 
+
+ORE66, Klamath Falls-Lakeview Highway
+
+Klamath Falls-Fairgrounds Section The Problem and Suggested Remedy 
+
+This project was initiated by the department due to the extremely bad accident record.
+
+The improvement contemplates oiled footpaths on both sides of the road, and, where necessary to prevent parking on the existing walks or proposed paths, the erection of guard posts.
+
+Particular attention is called to the attached pictures, Figures 21, 22, 23, 24, 25, and 26, which are illustrative of existing conditions. The hazard on this section of highway is not confined to pedestrians, the vehicle accident record being one of the worst in the state. No material or permanent accident reduction will be achieved without reconstruction of both the roadway and sidewalk facilities. A relocation of this section of highway is contemplated at present and the results of this survey may materially alter the picture. This section is so urban in character that curbs should be considered in any reconstruction program. Curbing would not only protect the pedestrians but permit the control of parking, lack of which has contributed to a large percentage of the accidents.
+
+FIGURE 21-VIEW SHOWING EXISTING GRAVEL WALK AND ITS RELATION TO ROADWAY. NOTE TWO PEDESTRIANS WHO PREFER ROAD- WAY. WALK SHOULD BE CONSTRUCTED TO A STANDARD THAT WOULD INVITE TRAVEL. 
+
+FORD FOR 40 FIGURE 22-SIMILAR VIEW (FIGURE 21) TAKEN FROM HIGHWAY. NOTE PEDESTRIAN USING WALK ON RIGHT.
+
+FIGURE 23-TYPICAL VIEW OF SECTION. LACK OF CONTINUITY OF WALKS AND PRESENCE OF PARKED CARS HAS FORCED LADY WITH BABY BUGGY INTO ROADWAY. 
+
+AUTO WRECKERS HAWLEY&SMITH WELDING WORKS GARAGE FIGURE 24-TYPICAL VIEW OF SECTION WITHOUT WALKS.
+
+SIGALE 10 39 
+
+FIGURE 25-TWO TYPICAL VIEWS ILLUSTRATING HOW EXISTING WALKS ARE OBSTRUCTED BY MERCHANDISE. THIS CONDITION COUPLED WITH DOUBLE PARKING TENDS TO ENCOURAGE USE OF ROADWAY BY PEDESTRIANS.
+
+LUCCA IDWAY AUTY HOPPE 
+
+FIGURE 26-THESE THREE VIEWS FURTHER ILLUSTRATE THE LACK OF CONTINUITY OF EXISTING WALKS, AND COMPLICATIONS DUE TO PARKING. CURBS WOULD ELIMINATE MUCH OF THE IR- REGULAR PARKING.
+
+FACILITIES. 
+
+FIGURE 27-TYPICAL CROSS-SECTION OF EXISTING AND PROPOSED 
+
+90 50 
+
+ZExisting Footpath Proposed curb & 
+
+6' oiled walk 40 30 20 10 10 20 30 
+
+ROADWAY 
+
+0.5 2.0' 2.0 0.5'
+
+SIDEWALK Proposed curb & 
+
+6' oiled walk 40 
+
+TYPICAL CROSS-SECTIONS Showing Existing and Proposed Facilities
+
+SPRING ST. 
+
+MARKET ST. 
+
+BROAD ST. 
+
+th. STREET FIGURE 28 
+
+-SP. R.R. 
+
+DIVISION ST MARTIN ST. 
+
+E. MAIN S MATCH LINE CITY LIMITS KLAMATH FALLS - LAKE VIEW HIGHWAY PROPOSED SIDEWALK IMPROVEMENT ORE 66-KLAMATH FALLS-LAKEVIEW HIGHWAY Klamath Falls - Fairgrounds Section EXISTING WALKS 
+
+Concrete Gravel Wood
+
+PROPOSED WALKS 
+
+--4'ONed 
+
+Rock Foot Path רואן 
+
+FAIRGROUNDS ARTHUR ST 
+
+O.C&E.R.R. FIRS 
+
+THIRD ST. 
+
+ALTAMONT DRIVE
+
+29 
+
+OREGON STATE HIGHWAY DEPARTMENT DATA SHEET Rural Sidewalk Project Analysis Index of Hazard 
+
+Highway
+
+Termini 
+
+Klamath Falls-Lakeview Highway. 
+
+Klamath Falls-Fairgrounds. Length
+
+Vehicle Volume 
+
+Pedestrian
+
+Volume 
+
+F1 Shoulder Condition F. Roadway
+
+Width F3 
+
+Darkness Factor 
+
+F4 
+
+Vehicle 
+
+Speed
+
+F5 
+
+Miscel laneous Index of Hazard
+
+Casualties 
+
+Per Mile
+
+Per Year 
+
+Urban 
+
+Urban 2100' 
+
+Rural 5000' 
+
+Total 1.35 mi. 9 .4 .1 .7 .2 .2 210.6 2.2 
+
+Shoulder Condition ..Parked automobiles. 
+
+Shoulder Width 
+
+8' to 20'.
+
+No. of Lanes 
+
+2 
+
+Lane Width 
+
+.10'. % of Pedestrian 
+
+Movement at Night ..11%. 
+
+Vehicle Speed ....38 m.p.h....
+
+Remarks ........Vehicle Volume. 
+
+8,840
+
+Pedestrian Volume. 
+
+510 
+
+FIGURE 29-INDEX OF HAZARD DATA SHEET
+
+OREGON STATE HIGHWAY DEPARTMENT Traffic Engineering Division Estimate of Cost and Relative Warrant Proposed Sidewalk Project Location of Project: 
+
+Highway 
+
+Klamath Falls-Lakeview.
+
+Section 
+
+Klamath Falls-Fairgrounds.
+
+ESTIMATE OF COST 
+
+Itcm Unit
+
+Unit Cost 
+
+Amount
+
+Estimated Cost 
+
+Mile $2814.81 1.35 $3800.00
+
+RELATIVE WARRANT Index of Hazard 
+
+210.6 
+
+Relative Warrant 
+
+(Index of Hazard) 
+
+(1+ Casualties (Cost per mile in $100) per mile per year) 
+
+Relative Warrant (210.6) (28.15) (12.2) 27.84
+
+SECTION VIII-EXISTING FACILITIES 
+
+Through the application and use of the formulae developed in the preceding sections many miles of rural sidewalks have been constructed in Oregon. Although the complete and full usage of these formulae may not have been exercised in the past, it is now the policy of the Oregon State Highway Department to make an investigation of each proposed sidewalk 
+
+Reports from various states differ as to the effectiveness of rural sidewalks. Information obtained from several of the states and compiled by the "Committee on Sidewalks Along Rural Highways, Highway Research Board", show in the aggregate a definite reduction in pedestrian accidents after the construction of walks. Certain of the states expressed a belief that sidewalks had “helped”, while some questioned their effectiveness. 
+
+Table VII prepared by the aforementioned Committee on Rural Sidewalks, indicates that Oregon is one of the leading states as regards rural sidewalk construction. 
+
+Figure 30 shows the mileage and types of rural sidewalks constructed by the Oregon State Highway Commission from 1936 to 1939, inclusive. 
+
+Figures 31 to 35, inclusive, are illustrative of the type of sidewalk facilities which have been provided in certain localities by the Highway Department. These pictures and descriptions thereof serve to bring out practices in construction and maintenance of rural sidewalks.
+
+EXISTING FACILITIES 
+
+55 
+
+Table VII Rural Highway Sidewalks A Summary of Data Reported by Twenty-three States to the Project Committee on Sidewalks Along Rural Highways Highway Research Board MILEAGE OF RURAL SIDEWALKS Type of Surface-Miles 
+
+Prior 1937State
+
+Total Concrete Brick 
+
+Asphalt or O.l to 
+
+1939, In- 
+
+Cinders Gravel 1937 clusive Arizona 71.3* 61.6 3.5 5.1 38.6 32.7 Delaware 42.0 40.0 2.0 35.0 7.0 Idaho 11.7 0.4 10.7 0.6 0.0 11.7 Iowa 1.5 1.5 1.5 0.0 Kentucky 7.2 0.0 7.2 Maryland 194.2 184.3 0.6 6.1 0.5 2.7 176.5 17.7 Massachusetts 911.1 68.5 2.6 440.0† 8.5 391.5 869.1 42.0 Michigan 14.0 14.0 3.6 10.4 Minnesota 8.0* 5.2 2.0 0.7 2.1 5.9 Mississippi 0.0 Montana 2.0 2.0 Nebraska 5.6 4.6 1.0 0.0 2.0 0.0 5.6 
+
+New Mexico 2.0 Oklahoma 1.9 1.9 1.9 0.0 Oregon 100.0% 2.0 20.0 2.0 76.0 60.0 40.0 
+
+Rhode Island 
+
+100.0 21.0 56.0 23.0 59.1 40.9 
+
+South Dakota 2.0 0.6 1.4 2.0 0.0 Tennessee 37.1 31.7 5.4 18.4 18.7 Utah 70.1 62.2 2.0 5.9 46.2 23.9 Virginia 35.0 31.5 3.5 0.0 35.0 
+
+West Virginia 10.0 6.0 2.0 2.0 9.0 1.0 Wisconsin 60.0 8.0 32.0 20.0 32.0 28.0 Wyoming 3.8 3.8 3.3 0.5
+
+1,690.5 545.0 
+
+4.2 579.5 
+
+15.0 536.4 1,358.3 330.2 * Total mileage exceeds total reported for different types of surfaces-information on latter incomplete. + Tar.
+
+Does not include approximately 60 miles constructed by Multnomah county.
+
+MILES 
+
+30 25 
+
+Dirt Sidewalk Rock Oil
+
+Concrete 00 20 15 10 1936 1937 1938 1939 
+
+FIGURE 30-MILES AND TYPE OF SIDEWALK CONSTRUCTED BY THE ORE- GON STATE HIGHWAY DEPARTMENT, 1936-39, INCLUSIVE.
+
+EXISTING FACILITIES 
+
+57 
+
+FIGURE 31-TYPICAL ROCK FOOTPATH. THIS FOOTPATH ORIGINALLY MADE THROUGH USAGE, LATER MAINTAINED BY THE STATE. 
+
+THIS TYPE OF LOCATION IS DESIRABLE IN THAT THE FOOT- PATH IS SEPARATED FROM THE ROADWAY. 
+
+Motor Court FIGURE 32-AN OILED FOOTPATH. THIS TYPE OF FOOTPATH LIKE THAT SHOWN IN FIGURE 31, ABOVE, WAS ORIGINALLY MADE THROUGH USAGE AND LATER TAKEN OVER BY THE STATE AND DEVELOPED FROM A DIRT TO AN OILED FOOTPATH. 
+
+NEITHER OF THESE FOOTHPATHS FOLLOW A WELL DEFINED GRADE OR ALIGNMENT-THEY ARE MERELY IMPROVEMENTS OF EXISTING FACILITIES.
+
+FIGURE 33-A TYPICAL OILED FOOTPATH CONSTRUCTED TO A GRADE AND SEPARATED FROM THE SHOULDER. THIS TYPE OF FOOT- PATH IS TYPICAL OF RECENT CONSTRUCTION PRACTICE. 
+
+FIGURE 34-A TYPICAL BITUMINOUS CONCRETE FOOTPATH CONSTRUCTED ADJACENT TO THE SHOULDER. THIS TYPE OF CONSTRUCTION IS NOT TOO DESIRABLE YET SUFFICES WHEN PEDESTRIAN TRAFFIC IS NOT TOO HEAVY.
+
+EXISTING FACILITIES 
+
+59 59 
+
+FIGURE 35-A TYPICAL CONCRETE SIDEWALK. THIS TYPE OF INSTALLA- TION IS GOOD PRACTICE IN THAT ADEQUATE PARKING IS PROVIDED CLEAR OF THE SHOULDER AND DEFINITELY SEPARATES VEHICULAR AND PEDESTRIAN TRAFFIC.
+
+SECTION IX-SUMMARY 
+
+The rural sidewalk projects in this State have proven a real benefit and have definitely indicated that rural sidewalks are worthwhile. Noteworthy is the record of highway US99E between Portland and Oregon City. This section carries a large volume of fast vehicular traffic coupled with an appreciable volume of pedestrian traffic. Prior to and inclusive of 
+
+1939 there were no fatal accidents involving pedestrians walking along the highway and only five non-fatal accidents of the same classification. The record is more impressive in view of the fact that the walks are gravel surfaced, difficult to maintain, and not too inviting to the pedestrian. This highway, however, is of four lanes with intersectional illuminationfactors operating to decrease the pedestrian hazard. 
+
+The oiled footpath along highway ORE11 between Freewater and the Washington State Line is another project having a good record. This walk although hard-surfaced is still not ideal, since it is not physically separated from the roadway. 
+
+As mentioned in the preceding Section VIII, Oregon is one of the leading states in the construction of rural pedestrian facilities. This department in 1940 conducted extensive surveys of needed rural sidewalk facilities applying the Index of Hazard and Relative Warrant formulae to these studies. It was found of inestimable value in the final selection of projects to be constructed.
+
+It is to be borne in mind that the application of the Index of Hazard and Relative Warrant to any single project is in itself of little value; however, when an extensive program has been prepared, the use of these indices enables a governmental agency to expend funds at those locations where the most good. will be derived from the expenditures.
+
+It is the intention of this department, as mentioned hereinbefore, to make extensive "before and after" studies of all existing rural sidewalk facilities to the end that certain monetary values may be developed. These monetary values must of necessity be correlated with the values as outlined in the
+
+SUMMARY 
+
+61 
+
+"Economics of Highway Planning, Technical Bulletin No. 7", as published by this department. These values or benefits could be expressed as: 
+
+1. Mileage Element Benefits 2. Time Element Benefits 3. Accident Element Benefits 
+
+The application of these benefit factors would of necessity entail a long-range experience before stabilized monetary values could be determined. 
+
+Mileage Element Benefits would accrue to the motorist (primary road user) principally in the form of decreased stops. 
+
+Time Element Benefits would accrue to the primary road user as a result of increased or at least sustained speeds that would be maintained through sections where he now must decrease his speed in the interest of safety. The secondary (pedestrian) road user, although not a direct contributor to road user funds while in the category of a secondary road user, would likewise experience a saving in time. 
+
+Monetary savings from Accident Element Benefits would be considerable at such time as Property Damage, Personal 
+
+Injury, and Fatal Accidents can be properly evaluated. Studies to date on the subject of accident evaluation have produced a wide range of values notwithstanding which there is definite indication that the benefits accruing to this element will assume major proportions and in many instances exceed one or both of the other component benefit elements-mileage and time. In evaluating this benefit item not only pedestrian accidents but the over-all accident experience in the section should be given consideration.
+
+It is to be remembered that the Index of Hazard and Relative Warrant formulae are in themselves only a "means to an end" and must of necessity be correlated with a comprehensive listing of proposed sidewalk projects before their true worth and value may be obtained.
+
+The method of analysis described in this report is based in a large part upon deduction rather than factual data and is offered only because of lack of a more exact method of deter-
+
+mination. When rural sidewalk construction has progressed further, and "before and after" comparisons can be made, it is believed that the data necessary for a more exact mathematical evaluation will be available. It is gratifying, however, that in applying the above described formula to actual sections of highway, indices are obtained consistent with the actual accident experience.
+
+APPENDIX 
+
+Figures 2 & 2a, 3 & 3a, and 4 & 4a
+
+To Ve-nonia 
+
+Banks 
+
+Gales Creek 47 
+
+FOREST GROVE MULTNOMAH TO WASHINGTON 
+
+HILLSBORO 
+
+219 
+
+WASHINGTON YAMHILL 
+
+Gaston
+
+CO CO Scholls Yamhill Carlton
+
+Mc MINNVILLE 
+
+Dayton 
+
+St Paul
+
+To Corvallis 
+
+Amity 
+
+YAMHILL 
+
+POLK. CO CO glo 219 Beaverton (210) Tigard
+
+NEWBERG 
+
+Brooks Rickreall
+
+SALEM 
+
+Monmouth 222 
+
+INDEPENDENCE 
+
+To Albany Hubbard 
+
+To Seattle
+
+VANCOUVER PORTLAND 
+
+Troutdale Gresham
+
+MULTNOMAHCO CLACKAMAS 
+
+Milwaukie Boring (212) Oswego 213 217 Tualatin 244 
+
+West Linn 
+
+213 Aurora Canby
+
+WOODBURN 
+
+Gervais Shaw 
+
+Mt Angel
+
+LEGEND SILVERTON 
+
+214 Marquam 215 
+
+OREGON CITY 
+
+Mulino Molalla (211) 
+
+CLACKAMAS 
+
+CO 
+
+MARION 
+
+CO 
+
+Silver Folls
+
+FATAL PEDESTRIAN ACCIDENTS OTHER FATAL ACCIDENTS TWO-LANE STATE HIGHWAYS FOUR-LANE STATE HIGHWAYS === OTHER ROADS HIGHWAYS WITH PAVED SIDEWALKS OSTATE ROUTE NUMBERS ZZZZ HIGHWAYS WITH DIRT OR ROCK FOOTPATHS US ROUTE NUMBERS FIGURE 2a-FATAL ACCIDENTS ON RURAL OREGON STATE HIGHWAYS, 1936-39, INCLUSIVE.
+
+Figure 
+
+Fatal accidents on rural Oregon state highways, 1936-39, inclusive
+
+ASTORIA 
+
+Cannon Beach Nahalem 30 
+
+Svensen 
+
+(202) Westport
+
+CLATS OP Seaside 
+
+Wheeler Kerry
+
+Clatskanie Rainier 47 Goble
+
+Mist 
+
+OLUMBIA 
+
+Jewell
+
+Elsie Vernonia 
+
+47 Deer
+
+Island ST. HELENS 
+
+Scappoose 
+
+WASHNGTON 
+
+Rockaway Garibaldi 
+
+TILLAMOOK 
+
+Bay City
+
+TILLAMOOK 
+
+Beaver
+
+Hebo 
+
+YAMHILLI 
+
+30 
+
+SEE ENLARGEMENT 
+
+Figure la
+
+STATE OF OREGON SHOWING FATAL ACCIDENTS 
+
+ON 
+
+RURAL STATE HIGHWAYS 1936-1939 INCLUSIVE ..HOOD RIVER FATAL PEDESTRIAN ACCIDENTS 
+
+OTHER FATAL ACCIDENTS TWO-LANE STATE HIGHWAYS OTHER ROADS 
+
+Mosier 
+
+Cascade Locks Rufus Biggs
+
+Bonneville 
+
+Dee 30 Wasco
+
+Klondike 
+
+Warrendale 
+
+HOOD 
+
+THE DALLES Bridal Veil 
+
+30 Corbett 
+
+Parkdale De Moss 
+
+Springs
+
+MULTNOMAH RIVER 
+
+212 Sandy Brightwood
+
+Zigzag Rhododendron 211 50 Estacada Government
+
+Camp 
+
+18 Dolph Bellevue Sheridan Neskowin Otis
+
+CLACKAMAS 
+
+Willamina 18 Grand Buell
+
+Ronde 
+
+Delake 
+
+Rose Lodge! 22 Taft
+
+DALLAS 22 
+
+Kernville | POL 99w 99E 222 
+
+Depoe Bay 229 Aumsville
+
+Sublimity 223) 
+
+Stayton 
+
+Mehama M 
+
+ARION Gates Niagara 
+
+(224) 
+
+Otter Rock Lyons Detroit Chitwood
+
+Kings 
+
+Jefferson
+
+Scio 
+
+Mill City Valley 226 
+
+Agate Beach Newport
+
+Summit Eddyville 222 
+
+Blodgett COR- 
+
+TOLEDO 
+
+VALLIS ALBANY 
+
+26 Wren
+
+LINCOLN 
+
+Tangent Lebanon Philomath 54 
+
+BENTON 
+
+Shedd L
+
+Waldport
+
+Yachats 34 Alsea Monroe 99w 99E Halsey Foster Brownsville
+
+Cascadia 
+
+Sweet Home 
+
+54 Crawfordsville 228 Florence Glenada 36 
+
+Greenleaf 
+
+Swisshome Mapleton Reedsport
+
+Winchester Bay 
+
+38 
+
+Scottsburg Lakeside 
+
+North Bend Hauser Marshfield
+
+Bandon Riverton Langlois Denmark Sixes 
+
+Port Orford 101 Allegany
+
+COQUILLE 
+
+Broadbent Norway
+
+Myrtle Point
+
+Powers 
+
+CURRY GOLD BEACH 
+
+42 
+
+Pistol River Selma Harbor
+
+Junction City 
+
+Blachly Cheshire/
+
+McKenzie Bridge
+
+Vida Springfield
+
+Leaburg 
+
+99 
+
+Blue River 
+
+28 Elmira Walterville
+
+EUGENE Goshen
+
+Trent N 
+
+Owell Creswell Saginaw Elkton Anlauf
+
+Drain Divide 
+
+Cottage Grove
+
+Yoncalla 99 225 Oakland Sutherlin Wilbur Winchester 58 Oakridge
+
+ROSEBURG OUGLAS 
+
+Brockway Camas Valley 
+
+Dillard Canyonville 99 Wilderville Murphy 
+
+Myrtle Creek 
+
+Wolf Creek (230) (209) Tiller 227 Drew 62 Crater Lake Trail
+
+Prospect 35 
+
+Tygh Valley 
+
+WAS 
+
+MORO 
+
+Dufur 206) 23 97 Wapinitia JEFF Sisters
+
+Belknap 
+
+Springs 
+
+(209) 230 232 Klamath Agency Maupin
+
+Grass Valley SHERMAN 
+
+216 Blalock Shutler
+
+LEGEND HIGHWAYS WITH DIRT OR ROCK FOOTPATHS HIGHWAYS WITH PAVED SIDEWALKS 
+
+Umarilla Irrigon; Boardman 207 
+
+Hermiston 
+
+Stanfield Willows 30 30 Echo Arlington 74 19 Cecil Morgan lone 
+
+STATE ROUTE NUMBERS U.S. ROUTE NUMBERS 
+
+Umapine Freewater Mitton 395 Helix 
+
+PENDLETON 
+
+Weston Athena Adams
+
+UMAT ILL A 
+
+Pilot Rock Vinson
+
+Nye Lexington
+
+Clem 
+
+ORROW 
+
+Lena
+
+HEPPNER 
+
+74 395 Gwendolen 
+
+GILLI M
+
+CONDON 
+
+Kent 50 Shaniko Antelope 218 Clarno 
+
+FOSSIL 
+
+19 (206) 207 Monument Servicecreeka Spray
+
+Kimberly WHEE LER
+
+MADRAS 
+
+E R SON 
+
+Metolius 
+
+Mitchell Culver 27 97 28 207 
+
+Terrebonne 
+
+28 Redmond
+
+PRINEVILLE 
+
+Powell
+
+OK Butte 54 Post Deschutes
+
+Tumalo BEND 
+
+DES CHU TE 
+
+Millican 97 58 
+
+Ft. Klamath
+
+Chemult 
+
+Chiloquin
+
+JA 234 CK SON 
+
+Sams Valley GRANTS Rogue 
+
+PASS!
+
+Eagle Point 
+
+Rocky Point River 236 
+
+Gold Hill
+
+JOSEPΗΙΝΕΟ 
+
+Kerby 46 199 
+
+Central Point 
+
+Jacksona ville Provolt
+
+MEDFORD 
+
+Williams
+
+Talent 238 Ruch Oregon Caves Phoenix Ashland 99 Pinehurst
+
+Siskiyou 
+
+Lapine 
+
+Crescent 31 
+
+Silver Lake
+
+AMATH 
+
+Modoc Point 97 Algoma 66 (236) 66 
+
+KLAMATH FALLS 
+
+27 
+
+Brothers 
+
+54 Hampton
+
+Summer Lake 
+
+K E . Beatty
+
+Bly 
+
+Quartz Mountain Dairy
+
+Bonanza Olene 
+
+Keno Midland 39 Merrill 97 Malin
+
+Paisley 31 395 o Ukiah Hamilton 
+
+Long Creek Fox 
+
+395 Beech Creek 19 Dayville Dale
+
+John 
+
+Mt. Vernon/ Day 28 30 (204) Elgin Minam 
+
+82 Imbler Alicel
+
+Island City 
+
+LA GRANDE 
+
+Cove Starkey
+
+Hot Lake 
+
+Union 28 
+
+Prairie City CANYON CITY 
+
+Seneca Paulina 395 
+
+Silvies BURNS 
+
+Hines
+
+Okerman Ranch 
+
+395 54 78 Lawen Crane
+
+Sumpter 
+
+3 WAL LO WA (203) 
+
+Telocaset 
+
+North
+
+Powder Haines 30 
+
+Wallowa 
+
+Lostine
+
+Medical Springs 
+
+86 
+
+ENTERPRISE 
+
+82 Joseph
+
+BAKER 
+
+B A E R 
+
+Pleasant Valley 220 
+
+Salisbury 
+
+Hereford
+
+Unity 
+
+54 Juntura Ironside 
+
+Harper o
+
+Durkee 30 Huntington Brogan Jamieson Halfway Pine Rich land Robinette 28 VALE
+
+Homestead 86 Ontario Cairo 30S Nyssa 201 Adrian
+
+Narrows o Princeton Wagontire 205)
+
+MALHEUR 
+
+HAR N
+
+Y
+
+Valley Falls 
+
+Plush 66 
+
+LAKEVIEW 
+
+Adel 395 
+
+New Pine Creek
+
+FIGURE 2-FATAL ACCIDENTS ON RURAL OREGON STATE HIGHWAYS, 1936-39, INCLUSIVE 
+
+Frenchglen Diamond 95 Rome 95 Jordan 
+
+Valley 
+
+Imnaha
+
+To Vernonia 
+
+Gales Creek
+
+FOREST GROVE WASHINGTON A YAMHILL 
+
+Yamhill
+
+Mc MINNVILLE To Corvallis 
+
+Banks
+
+Gast Carifon Amity 
+
+To Astoria
+
+TO WASHINGTON MULTNOMAH HILLSBORO 
+
+AA Scholls 233 Dayton 
+
+St Paul
+
+YAMHILL 
+
+CO olo POLK CO. 
+
+To Seattle 30 
+
+VANCOUVER 
+
+99 Beaverton
+
+VA 
+
+NEW BERG 
+
+Tigard Oswego Aurora
+
+Hubbard Brooks Rickreall
+
+SALEM Monmouth
+
+INDEPENDENCE FATAL ACCIDENTS TO PEDES- 
+
+To Albany
+
+TRIANS WALKING ALONG ROADWAY. 
+
+A OTHER FATAL PEDESTRIAN ACCIDENTS. 
+
+Tualatin
+
+WOODBURN 
+
+Gervais 214 
+
+Mt Angel
+
+PORTLAND MULTNOMAH CLACKAMAS 
+
+Milwaukie
+
+NA 
+
+West Linn Troutdale Gresham
+
+OREGON CITY 
+
+215) Canby 211 Marquom 
+
+SILVERTON 
+
+Mulino Molalla 818 211 
+
+CLACKAMAS MARION 
+
+CO Show 214 
+
+Silver Folls LEGEND Boring
+
+CO. 
+
+W HIGHWAYS WITH DIRT OR ROCK FOOTPATHS TWO-LANE STATE HIGHWAY HIGHWAYS WITH PAVED SIDEWALKS FOUR-LANE STATE HIGHWAY STATE ROUTE NUMBERS OTHER ROADS 
+
+​US ROUTE NUMBERS FIGURE 3a-FATAL PEDESTRIAN ACCIDENTS ON RURAL OREGON STATE HIGHWAYS, 1936-39, INCLUSIVE. 
+
+Sig. 4
+
+ASTORIA 
+
+30 
+
+Svensen 
+
+(202 Westport
+
+CLATS OP Seaside 
+
+Cannon Beach
+
+Clatskanie Kerry ​47 Mist 
+
+LEGEND STATE OF OREGON SHOWING FATAL PEDESTRIAN ACCIDENTS 
+
+Deer
+
+Island ¡ST. HELENS 
+
+ON 
+
+RURAL STATE HIGHWAYS 1936-1939 INCLUSIVE FATAL ACCIDENTS TO PEDESTRIANS WALKING ALONG ROADWAY HIGHWAYS WITH DIRT OR ROCK FOOTPATHS STATE ROUTE NUMBERS HIGHWAYS WITH PAVED SIDEWALKS U.S. ROUTE NUMBERS A OTHER FATAL PEDESTRIAN ACCIDENTS TWO-LANE STATE HIGHWAYS OTHER ROADS 
+
+Umatilla
+
+Umapine Freewater Milton 395 Helix Rainier Goble
+
+OLUMBIA 
+
+Jewell
+
+Elsie 
+
+101 2 
+
+Vernonia 
+
+47 Nehalem) Wheeler Rockaway
+
+Garibaldi
+
+Scappoosed 
+
+WASHNGTONI TILLAMOOK, 
+
+Bay City
+
+TILLAMOOK 
+
+Beaver
+
+Hebo 
+
+YAM HILL 
+
+30 
+
+SEE ENLARGEMENT 
+
+Figure 2a 
+
+HOOD RIVER 
+
+Irrigon Boardman 207) Hermiston Stanfield 
+
+Willows 30 30 Echo Arlington 74 
+
+PENDLETON 
+
+Weston Athena Adams 
+
+TILL A 
+
+19 Cecil Morgan lone U M 
+
+Pilot Rock
+
+Vinson 
+
+Nye Lexington
+
+Clem RRO W Lena
+
+HEPPNER 
+
+74 395 Mosier 
+
+Cascade Locks Rufus Biggs
+
+Blalock Shutler Bonneville 30 Dee
+
+Warrendale 
+
+Wasco
+
+Klondike 
+
+HOOD THE DALLES 
+
+Bridal Veil DeMoss 030 Corbett
+
+Parkdale 
+
+Springs
+
+MULTNOMAH RIVER MORO 
+
+Dufur 212 Sandy 35 206) 23 97 Brightwood
+
+Zigzag Rhododendron 211 50 Estacada
+
+Government 
+
+Camp Grass Valley 
+
+Gwendolen
+
+SHERMAN; 
+
+GILLI M 18 
+
+Bellevue 
+
+Dolph Sheridan
+
+Neskowin 
+
+Otis
+
+CLACKAMAS 
+
+Willamina 
+
+18 Grand 
+
+Buell
+
+Ronde 
+
+Rose Lodge
+
+Delake 
+
+22 Taft 
+
+DALLAS 22 Kernville POLK 
+
+99w 99E 222) 
+
+Depoe Bay 229 101 Aumsville
+
+Sublimity 
+
+Otter Rock Waldport
+
+DA Yachats 223 (224) Chitwood
+
+Kings 
+
+Agate Beach Newport
+
+TOLEDO 
+
+LINCOLNI 
+
+Valley 26 
+
+Summit 
+
+Eddyville
+
+Blodgett COR- VALLIS 
+
+26 Wren
+
+AA 
+
+ALBANY 
+
+Tangent Lebanon
+
+Philo- math 54 
+
+BENTON 
+
+Shedd
+
+LA 
+
+34 99 Alsea 99E 
+
+Halsey 
+
+Brownsville Crawfordsville
+
+Monroe 
+
+228) 
+
+Stayton 
+
+Mehama M 
+
+ARION Gates Niagara 
+
+Lyons Detroit Jefferson
+
+Scio 
+
+Mill City 226 222 Foster
+
+Cascadia Sweet Home 
+
+54 Florence Glenada
+
+Winchester Bay 
+
+Reedsport Lakeside 
+
+North Bend Hauser Marshfield
+
+Bandon Riverton Langlois Denmark Sixes 
+
+Port Orford Allegany
+
+COQUILLE 
+
+Norway 36 
+
+Greenleaf 
+
+Swisshome Mapleton
+
+Broadbent
+
+Myrtle Point 
+
+Powers
+
+CURRY 
+
+GOLD BEACH 
+
+42 
+
+Scottsburg 
+
+38 
+
+Junction City Blachly Cheshire
+
+99 
+
+Vida Leabury 
+
+Springfield
+
+Elmira 
+
+EUGENE Creswell Goshen Walterville
+
+Trent N 
+
+Anlauf Elkton
+
+Drain Yoncalla 99 225 Oakland Sutherlin
+
+Wilbur 
+
+Winchester Divide Saginaw 
+
+Cottage Grove 
+
+McKenzie Bridge
+
+Dlue River 
+
+28 Lowell 58 Oakridge
+
+ROSEBURG OUGLAS 
+
+Brockway 
+
+Dillard
+
+Camas Valley 
+
+Canyonville 99 
+
+Myrtle Creek 
+
+Wolf Creek 230 (209)
+
+WAS 
+
+Tygh Valley 
+
+216 Maupin Wapinitia
+
+JEFF Sisters Belknap Springs 209 230 Tiller 227 Drew 62 232 Crater Lake
+
+JA 
+
+Sams Valley 
+
+Rogue 
+
+GRANTS PASS! River 
+
+234 Trail
+
+CAK 
+
+Prospect SON Eagle Point Rocky Point 
+
+Gold Hill 236 Wilderville Murphy
+
+JOSEPHINE 
+
+Jacksona ville 
+
+Provolt Central Point MEDFORD 
+
+Phoenix
+
+Talent 
+
+Williams 
+
+238 Ruch Kerby 46 Ashland 199 
+
+Pistol River
+
+Selma Harbor Oregon Caves 99 Siskiyou
+
+Klamath Agency 
+
+CONDON 
+
+Kent 50 Shaniko
+
+Antelope 218 
+
+FOSSIL 
+
+19 
+
+Clarno Servicecreek 
+
+206 207 Monument Spray Kimberly
+
+WHEELER MADRAS 
+
+E R SON 
+
+Metolius 
+
+Mitchell Culver 97 28 Terrebonne
+
+PRINEVILLE 
+
+Redmond Powell
+
+Butte Deschutes
+
+Tumalo BEND 
+
+DESCH UTE 
+
+97 58 
+
+Ft. Klamath
+
+WA Chemult
+
+Lapine Crescent 
+
+31 
+
+Silver Lake
+
+Chiloquin 
+
+AMATH A Modoc Point 
+
+Millican Beatty Bly Algoma 66 236) 
+
+KLAMATH FALLS 
+
+Dairy 
+
+Bonanzc 
+
+Olene 66 Keno Pinehurst Midland 39 Merrill 97 Malin 27 Brothers
+
+Summer Lake 
+
+Quartz Mountain 28 54 207 O K Post Hampton
+
+K E 
+
+Paisley 
+
+31 395 Paulina 19 o Ukiah Hamilton 
+
+Long Creek Fox 
+
+395 Beech Creek
+
+Dale Dayville John 
+
+Mt. Vernon, 28 Day
+
+Prairie City
+
+CANYON CITY 
+
+Seneca 395 
+
+Silvies 
+
+30 204) Elgin Minam Imbler 82 Alicel
+
+Island City LA GRANDE 
+
+Cove Starkey
+
+Hot Lake 
+
+Union 28 
+
+BURNS 
+
+Hines
+
+Okerman Ranch 
+
+78 395 54 Lawen Crane
+
+Sumpter 
+
+3 
+
+WALLOW. A 
+
+Telocaset 203 North
+
+Powder Haines Wallowa Lostine
+
+Medical Springs 
+
+30 86 
+
+ENTERPRISE 
+
+82 Joseph
+
+Halfway 
+
+Pine
+
+Rich- land
+
+BAKER 
+
+A K E R Robinette 
+
+Pleasant Valley 220 Salisbury Hereford
+
+Unity 54 Juntura Ironside 
+
+Harper o
+
+A Durkee 
+
+30 Huntington Brogan Jamieson Homestead 86 Ontario 
+
+28 Cairo
+
+VALE 
+
+30S
+
+Nyssa 201 Adrian
+
+Narrows 
+
+O Princeton 205 
+
+MALHEUR Wagontire 
+
+H A R 
+
+Valley Falls 
+
+Plush 66 
+
+LAKEVIEW 
+
+Adel 395 
+
+New Fine Creek
+
+FIGURE 3 — FATAL PEDESTRIAN ACCIDENTS ON RURAL OREGON STATE HIGHWAYS, 1936-39, INCLUSIVE 
+
+Frenchglen Diamond 95 Rome 95 
+
+Jordan 
+
+Valley
+
+Imnaha
+
+Sig. 4
+
+To Vernonia 
+
+Banks
+
+FOREST GROVE Astor MULTNOMAH 
+
+10 WASHINGTON 
+
+HILLSBORO WASHINGTON YAMHILL 
+
+Goston CO CO Scholls Yamhill Carlton
+
+McMINNVILLE 
+
+Dayton 219 
+
+St Paul
+
+To Corvallis 
+
+Amity 
+
+YAMHILL 
+
+POLK Rickreall Monmouth Beaverton(
+
+NEWBERG 
+
+CO. CO. Brooks
+
+SALEM INDEPENDENCE 
+
+To Albany Hubbard 
+
+To Seattle
+
+VANCOUVER 
+
+Tigard
+
+Oswego 
+
+Aurora Tualatin
+
+WOODBURN 
+
+Gervais 
+
+Mt. Angel
+
+PORTLAND 
+
+Troutdale Gresham 50 
+
+MULTNOMAH CLACKAMAS 
+
+Milwaukie 
+
+West Linn
+
+OREGON CITY 
+
+211 
+
+SILVERTON 
+
+211 (215 Canby Marquam Mulino Molalla 211 
+
+CLACKAMAS 
+
+CO. 
+
+MARION 
+
+CO. Shaw 214 
+
+Silver Falls LEGEND Boring
+
+FATALITY FOUR-LANE STATE HIGHWAYS A INJURY OTHER ROADS TWO-LANE STATE HIGHWAYS HIGHWAYS WITH DIRT OR ROCK FOOTPATHS HIGHWAYS WITH PAVED SIDE WALKS STATE ROUTE NUMBERS U.S. ROUTE NUMBERS FIGURE 4a-CASUALTIES TO PEDESTRIANS WALKING ALONG RURAL ORE- GON STATE HIGHWAYS, 1936-39, INCLUSIVE.
+
+ASTORIA 
+
+Cannon Beach 30 Svensen Westport Kerry (202) Clatskanie Rainier 47 
+
+CLATS OP 
+
+Goble Seaside Mist
+
+LUMBIA 
+
+Jewell
+
+Elsie 
+
+101 2 Vernonia 47 Deer Island
+
+ST. HELENS 
+
+Scappoose Nahalem Wheeler Rockaway Garibaldi
+
+WASHNGTONI TILLAMOOK 
+
+Bay City
+
+TILLAMOOK 
+
+Beaver
+
+Hebo 
+
+YAM HILL 
+
+30 
+
+SEE ENLARGEMENT 
+
+Figure 3a
+
+STATE OF OREGON SHOWING CASUALTIES TO PEDESTRIANS WALKING ALONG RURAL STATE HIGHWAYS 1936-1939 INCLUSIVE FATALITY INJURY TWO-LANE STATE HIGHWAYS OTHER ROADS HOOD RIVER 
+
+Mosier Rufus Biggs 
+
+Cascade Locks
+
+Bonneville 
+
+30 Deeb Wasco
+
+Klondike Warrendale
+
+HOOD 
+
+THE DALLES Bridal Veil De Moss 
+
+30 Corbett Parkdale
+
+MULTNOMAH RIVER 
+
+Springs 212 Sandy Brightwood
+
+Zigzag Rhododendron 211 50 Estacada 35 MORO
+
+Dufur 206) 23 97 
+
+Grass Valley SHERMAN, Government Camp
+
+Tygh Valley 
+
+(216) WAS Maupin 18 Dolph Bellevue
+
+Neskowin Otis Sheridan
+
+CLACKAMAS 
+
+Grand Willamina Buell 18 Ronde 
+
+Delake 
+
+Rose Lodge! 22 Taft
+
+DALLAS 22 
+
+Kernville
+
+POL Ki 
+
+99w 99E (222 Sublimity 
+
+Depoe Bay 229 Aumsville 
+
+Otter Rock 
+
+Agate Beach Newport
+
+TOLEDO Waldport
+
+Yachats (223) (224) Chitwood Kings Valley 26 Eddyville 26 Summit
+
+Blodgett COR- 
+
+Wren
+
+VALLIS LINCOLN ALBANY 
+
+Tangent Lebanon Philomath 54 
+
+BENTON 
+
+Shedd L
+
+34 Alsea Monroe 99w 99E Halsey Foster Brownsville
+
+Cascadia 
+
+Sweet Home 
+
+Crawfordsville/ 228 
+
+Stayton 
+
+Mehama M A 
+
+RIO N Gates Niagara 
+
+Lyons Detroit Jefferson
+
+Scio 
+
+Mill City 226) (222 54 Florence Glenada 
+
+Winchester Bay Reedsport Lakeside 
+
+North Bend Hauser Marshfield
+
+Bandon Riverton Langlois Denmark Sixes 
+
+Port Orford Allegany
+
+COQUILLE Norway 
+
+36 
+
+Junction City Blachly Cheshire 99 
+
+Greenleaf 
+
+Swisshome
+
+Elmira 
+
+Mapleton
+
+Broadbent 
+
+Myrtle Point Powers
+
+CURRY GOLD BEACH 
+
+42 38 Scottsburg Elkton 
+
+McKenzie Bridge
+
+Vida 
+
+Leaburg 
+
+Springfield
+
+Blue River 
+
+28 Waiterville Gosher
+
+Trent N 
+
+Lowell
+
+EUGENE 
+
+Creswell Divide
+
+Anlauf Drain Yoncalla 99 225 Brockway
+
+Camas Valley 
+
+Oakland Sutherlin Saginaw 
+
+Cottage Grove 58 Oakridge Wilbur Winchester
+
+ROSEBURG OUGLAS 
+
+Dillard Canyonville 99 
+
+Myrtle Creek 
+
+Wolf Creek 230 (209) Wapinitia
+
+Blalock Shutler
+
+LEGEND ZZZZZZZZZZ HIGHWAYS WITH DIRT OR ROCK FOOTPATHS STATE ROUTE NUMBERS HIGHWAYS WITH PAVED SIDEWALKS U.S. ROUTE NUMBERS 
+
+Umapineb 730 Freewater Milton Umatilla 395 Helix Irrigon; Boardman Willows 30 Hermiston 207 Stanfield 30 Echo Arlington Weston Athena Adams 
+
+74 19 Cecil Morgan lone Lexington
+
+Clem MO RR 
+
+HEPPNER 
+
+Gwendolen
+
+GILLI
+
+CONDON 
+
+Kent 50 Shaniko Antelope 218 
+
+MADRAS JEFFE RSON Metolius 
+
+Culver Sisters
+
+Belknap Springs (209) 230 Tiller 227 Drew 62 232 Crater Lake Trail
+
+Prospect 27 97 28 Terrebonne 28 
+
+FOSSIL 
+
+19 Clarno Servicecreek (206) 207 
+
+PENDLETON 
+
+UMAT ILL A 30 
+
+Vinson 
+
+Nye 
+
+Pilot Rock
+
+O W Lena Monument Spray Kimberly LER 207 WHEE Mitchell Redmond
+
+PRINEVILLE 
+
+Powell
+
+O K Butte 54 Post Deschutes
+
+Tumalo BEND
+
+DES CHU TE 
+
+097 58 Chemult 
+
+Ft. Klamath
+
+Klamath Agency Chiloquin
+
+JA 
+
+Sams Valley GRANTS Rogue 
+
+KSON 234) 
+
+Eagle Point 
+
+Rocky Point
+
+PASS! 
+
+River 236 
+
+Gold Hill Wilderville Murphy
+
+Central Point 
+
+Jackson
+
+JOSEPHINE MEDFORD 
+
+ville Provolt Phoenix Talent Williams (238 Ruch
+
+Kerby 46 Ashland 
+
+Pistol River Selma Harbor Oregon
+
+Caves 99 
+
+Lapine Crescent 
+
+31 
+
+Silver Loke
+
+L A MATH 
+
+Modoc Point 97 Millican 27 
+
+Brothers Summer Lake 
+
+Beatty 4
+
+Bly 
+
+Quartz Mountain
+
+Algoma 66 (236) 
+
+KLAMATH VFALLS 
+
+Dairy
+
+Bonanza Olene 66 Pinehurst 
+
+Keno Midland Siskiyou 39 Merrill 97 Malin 54 Hampton
+
+KE 
+
+Paisley 
+
+31 
+
+Valley Falls 
+
+395 
+
+Paulina 
+
+19 74 395 o Ukiah Hamilton 
+
+Long Creek Fox 
+
+395 Beech Creek Dale
+
+Dayville John 
+
+Mt. Vernon/ Day 28 
+
+BURNS 
+
+Hines
+
+Okerman Ranch 
+
+395 54 
+
+Prairie City
+
+CANYON CITY 
+
+Seneca 395 Silvies (204) Elgin
+
+WAL LOWA 
+
+Minam Wallowa 82 Imbler Alicel
+
+N
+
+O N 
+
+Island City 
+
+Cove
+
+LA GRANDE 
+
+Starkey 
+
+Hot Lake
+
+Union 28 78 Lawen Crane Telocaset 203 North Powder Haines 30 Lostine 
+
+Medical Springs 86 
+
+ENTERPRISE 
+
+82 Joseph
+
+Halfway 
+
+Pine Richland
+
+BAKER Sumpter 
+
+Robinette
+
+E R 
+
+Pleasant Valley 220 Salisbury Hereford Unity Juntura Ironside 
+
+Harper o
+
+Durkee 30 Huntington Brogan Jamieson Homestead 86 Ontario 
+
+28 Cairo
+
+VALE 
+
+30S Nyssa 201 Adrian
+
+Narrows 
+
+O Princeton 205
+
+MALHEUR 
+
+Wagontire
+
+HA R Plush 66 
+
+LAKEVIEW 
+
+Adel 395 
+
+New Pine Creek
+
+FIGURE 4 - CASUALTIES TO PEDESTRIANS WALKING ALONG RURAL OREGON STATE HIGHWAYS, 1936-39, INCLUSIVE 
+
+Frenchglen Diamond 95 Rome 95 Jordan Valley
+
+Imnaha
+
+PUBLICATIONS OF THE OREGON STATE HIGHWAY No. 1 No. 2* 
+
+No. 5 No. 6 No. 7 No. 8 No. 9 No. 10 No. 11 No. 12 No. 13 No. 14 No. 15 COMMISSION Technical Bulletins Loading Tests on a New Composite-type Short-span 
+
+Highway Bridge Combining Concrete and Timber in 
+
+Flexure, by Baldock and McCullough. 1933.
+
+Application of Freyssinet Method of Concrete Arch 
+
+Construction to the Rogue River Bridge in Oregon, by Gemeny and McCullough. 1933. 
+
+Loading Tests on Steel Deck Plate Girder Bridge with Integral Concrete Floor, by Paxson. 1934. 
+
+Design of Waterway Areas for Bridges and Culverts, by McCullough. 1934. 
+
+The Effect of Highway Design on Vehicle Speed and Fuel Consumption, by Beakey. 1937. 
+
+The Effect of Heavy Motor Transport on Highway 
+
+Bridge Stresses, by McCullough and Paxson. 1937.
+
+The Economics of Highway Planning (Revised Sep tember, 1938), by McCullough and Beakey. 1937.
+
+Determination of Highway System Solvencies, by 
+
+McCullough. 1937.
+
+The Merit System for Engineering Personnel, by 
+
+Baldock and McCullough. 1938.
+
+An Analysis of the Highway Tax Structure in Oregon, by McCullough, Beakey, and Van Scoy. 1938.
+
+An Economic Analysis of Short-span Suspension Bridges for Modern Highway Loadings, by McCul lough, Paxson, and Smith. 1938.
+
+Light-reflecting Characteristics of Pavement Sur faces, by Paxson and Everson. 1939.
+
+Rational Design Methods for Short-span Suspension Bridges for Modern Highway Loadings, by McCul lough, Paxson, and Smith. 1940.
+
+The Derivation of Design Constants for Suspension 
+
+Bridge Analysis, by McCullough, Paxson, and Smith. 
+
+1940. 
+
+The Experimental Verification of Theory for Suspen sion Bridge Analysis, by McCullough, Paxson, and
+
+Rosecrans. 1942. 
+
+* Supply exhausted. 
+
+Sig. 5
+
+No. No. 17 No. 18 Trans-Columbia River Interstate Bridge Studies, a 
+
+Joint Report, by the Washington Department of Highways and the Oregon State Highway Department. 1944. 
+
+The Effect of Surface Type, Alignment, and Traffic Congestion on Vehicular Fuel Consumption, by 
+
+Beakey, Crandall, Klein, and Head. 1944.
+
+Multiple-span Suspension Bridges, Development and Experimental Verification of Theories, by McCul lough, Paxson, and Rosecrans. 1944.
+
+Technical Reports 
+
+Report of the Interim Committee appointed to study the Motor Transportation Act, by the Interim Committee. 1937.
+
+No. 38-1 An Inventory of City Streets in Oregon, by Beakey, 
+
+Van Scoy, and Walton. 1938. 
+
+No. 38-1A Addenda to an Inventory of City Streets in Oregon, by Beakey, Van Scoy, and Walton. 1938.
+
+No. 38-2 Rural Road Inventory of the State-wide Highway 
+
+Planning Survey, by Beakey, Van Scoy, and Walton. 1938.
+
+No. 38-3 Motor Vehicle Allocation and Road Use Surveys of the State-wide Highway Planning Survey, by Beakey, Van Scoy, and Myers. 1938.
+
+No. 38-4 Fiscal Survey of the State-wide Highway Planning 
+
+Survey, by Beakey, Van Scoy, and Keef. 1938.
+
+No. 38-5 Rural Traffic Survey of the State-wide Highway 
+
+Planning Survey, by Beakey, Glenn, and Manning. 1938.
+
+No. 38-5A Annual Daily Traffic Density Tables of the Rural Traffic Survey, State-wide Highway Planning Sur vey (report accompanied by traffic station mapsprice $5.00), by Beakey, Glenn, and Manning. 1938.
+
+No. 38-6 Urban Traffic Survey (Part I and Part II), by Beakey, 
+
+Glenn, and Manning. 1938.
+
+No. 39-1 Data Supplementary to Interim Committee Report of 
+
+January 1, 1937, by Beakey and Myers. 1939.
+
+No. 39-2 A State-wide Survey of Aggregates, by Finkbiner. 
+
+1939.
+
+No. 39 Notes on the Application of Soil Mechanics to High way Excavations and Embankments, by Paxson and 
+
+Smith. 1939. 
+
+No. 39-4 Offset Tables for Vertical Curves, by Swart. 1939. 
+
+No. 39-5 Skid-resistant Characteristics of Oregon Pavement 
+
+Surfaces, by Beakey, Klein, and Brown. 1939.
+
+No. 39-6* Record of Road Costs and Earnings on the Oregon 
+
+State Highway System for the Calendar Year 1937, by Probert and Bonnett. 1939. 
+
+No. 40-1 Traffic Density Tables for 1939, by Beakey and Man ning. 1940.
+
+No. 40-2 A Study of Expansion Joint Behavior in a Typical 
+
+Western Oregon Pavement, by McCullough, Smith, and Webber. 1940.
+
+No. 40-3 Data Supplementary to Interim Committee Report of 
+
+January 1, 1937, by Baldock, Beakey, and Myers. 1940.
+
+No. 41-1 
+
+Traffic Density Tables for 1940, by Beakey and Man ning. 1941.
+
+No. 42-1 Traffic Density Tables for 1941, by Beakey and Man ning. 1942.
+
+No. 42-2 Data Supplementary to Technical Bulletin No. 10, by 
+
+McCullough and Myers. 1942.
+
+No. 43-1 Manual of Standard Practice for Paving Inspectors, by Finkbiner and O'Neil. 1943.
+
+No. 43-2 Manual of Standard Practice for Sampling Construc tion Materials, by Finkbiner. 1943.
+
+No. 43-3 Traffic Density Tables for 1942, by Crandall and 
+
+Stein. 1943.
+
+No. 43-4 The Geometric Design of Highway Alignments and 
+
+Highway Intersections, by Baldock. 1943.
+
+No. 44-1 Traffic Density Tables for 1943, by Crandall and 
+
+Stein. 1944.
+
+No. 44-2 Effect of Expansion Joint Spacing in Typical Con crete Pavements of Western Oregon, by Paxson and 
+
+Richards. 1944.
+
+No. 44-3 A Study of Rural Sidewalks, by Beakey, Crandall, and Head. 1944. 
+
+*Supply exhausted.

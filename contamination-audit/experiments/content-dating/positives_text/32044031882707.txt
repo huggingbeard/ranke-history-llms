@@ -1,0 +1,1082 @@
+us 952.3 U/F75
+
+LESP-RPT-0502.00 SEPTEMBER 1974 LAW ENFORCEMENT STANDARDS PROGRAM SUMMARY REPORT ON EMERGENCY VEHICLE SIRENS 
+
+S 952.3 U/F75 ummary report on emergency vehicle
+
+ARVARD LAW LIBRARY 
+
+APR9226 3 2044 031 882 707 
+
+HARVARD COLLEGE LIBRARY DEPOSITED BY THE UNITED STATES GOVERNMENT 
+
+- 1 1975 NILE 
+
+STANDARDS PROGRAM HARVARD LAW LIBRARY U.S. DEPARTMENT OF JUSTICE Law Enforcement Assistance Administration National Institute of Law Enforcement and Criminal Justice
+
+Library of Congress Cataloging in Publication Data Jones, FE Summary report on emergency vehicle sirens. 
+
+At head of title: Law Enforcement Standards Program. 
+
+"LESP-RPT-0502.00.” 
+
+Includes bibliographical references. 
+
+シイ 
+
+​1. Sirens (Signaling devices) Testing. 2. Emergency vehicles-Electric equipment. I. Quindry, T.L., joint author. II. Rinkinen, W.J., joint author. III. National Institute of Law Enforcement and Criminal Justice. IV. Title. V. 
+
+Title: Law Enforcement Standards Program. 
+
+TK5990.J65 36.32'3'028 74-31145
+
+521345 
+
+LAW ENFORCEMENT STANDARDS PROGRAM 
+
+U.S.
+
+Law enforcement standards laboratory 
+
+SUMMARY REPORT ON c# EMERGENCY VEHICLE SIRENS 
+
+prepared for the
+
+National Institute of Law Enforcement and Criminal Justice Law Enforcement Assistance Administration U.S. Department of Justice by 
+
+F. E. Jones T. L. Quindry W. J. Rinkinen Mechanics Division National Bureau of Standards SEPTEMBER 1974 
+
+us 952.3 1/F75 
+
+U.S. DEPARTMENT OF JUSTICE Law Enforcement Assistance Administration National Institute of Law Enforcement and Criminal Justice
+
+LAW ENFORCEMENT ASSISTANCE ADMINISTRATION Richard W. Velde, Administrator Charles R. Work, Deputy Administrator NATIONAL INSTITUTE OF LAW ENFORCEMENT AND CRIMINAL JUSTICE Gerald M. Caplan, Director ACKNOWLEDGMENTS 
+
+This document was prepared by the Law Enforcement Standards Laboratory of the National Bureau of 
+
+Standards under the direction of Avery T. Horton, Program Manager for Emergency Equipment, and Jacob J. Diamond, Chief of LESL. 
+
+For sale by the Superintendent of Documents, U.S. Government Printing Office 
+
+Washington, D.C. 20402-Price $1.10
+
+Stock Number 2700-00289
+
+CONTENTS Foreword Abstract. 
+
+1. Introduction 2. Test Program 2.1 Directional Response and Sound Power Level of Sirens 2.2 Field Insertion Loss Measurements 2.3 Masking Noise Measurements. 
+
+2.4 Measurements of Phase Cancellation Due to Ground Reflection 3. Data Analysis 3.1 Directional Response 
+
+3.1.1 Two-Loudspeaker Configuration 3.2 Masking Noise and Insertion Loss 
+
+3.3 Reflection of Siren Signal 
+
+4. Summary and Conclusions Appendix A Appendix B Appendix C .. 
+
+Appendix D 
+
+vi 1 1 2 2 13 13 14 19 31 37 41 42 44 47 iii 1274069
+
+FOREWORD 
+
+Following a Congressional mandate* to develop new and improved techniques, systems, and equipment to strengthen law enforcement and criminal justice, the National Institute of 
+
+Law Enforcement and Criminal Justice (NILECJ) has established the Law Enforcement 
+
+Standards Laboratory (LESL) at the National Bureau of Standards. LESL's function is to conduct research that will assist law enforcement and criminal justice agencies in the selection and procurement of quality equipment. 
+
+In response to priorities established by NILECJ, LESL is (1) subjecting existing equipment to laboratory testing and evaluation and (2) conducting research leading to the development of several series of documents, including national voluntary equipment standards, user guidelines, state-of-the-art surveys and other reports. 
+
+This document, LESP-RPT-0502.00, Summary Report on Emergency Vehicle Sirens, is a law enforcement equipment report prepared by LESL and approved and issued by NILECJ. 
+
+Additional reports as well as other documents will be issued under the LESL program in the areas of protective equipment, communications equipment, security systems, weapons, emergency equipment, investigative aids, vehicles, and clothing. 
+
+Technical comments and suggestions concerning the subject matter of this report are invited from all interested parties. Comments should be addressed to the Program Manager for Standards, National Institute of Law Enforcement and Criminal Justice, Law Enforcement Assistance Administration, U.S. Department of Justice, Washington, D.C. 20531. 
+
+Lester D. Shubin
+
+Manager, Standards Program National Institute of Law Enforcement and Criminal Justice *Section 402(b) of the Omnibus Crime Control and Safe Streets Act of 1968, as amended.
+
+ABSTRACT 
+
+A test program involving 23 test automobiles, four electronic sirens and nine electromechanical sirens has been completed. Measurements have been made of the directional radiation pattern and spectral distribution (i.e., SPL vs. frequency) of the sirens, of the field insertion loss (sound attenuation) of the automobiles when closed, of the masking noise in the automobiles while being driven over a test route of four different segments, and of the phase cancellation pattern due to reflection for an electronic siren. Measurements of directional response were made also for a pair of electronic siren speakers in three different arrangements. The directional response and sound power measurements were made in the laboratory in an anechoic chamber. The other measurements were made in the field. The data are presented and implications of the results regarding the efficacy of the siren as a warning device on an emergency vehicle are discussed. The necessity for making subjective psychoacoustic tests as a supplement to this test program is indicated. vi
+
+SUMMARY REPORT ON EMERGENCY VEHICLE SIRENS 1. INTRODUCTION The Law Enforcement Standards Laboratory of the National Bureau of Standards, under the sponsorship of the Law Enforcement Assistance Administration, Department of Justice, has conducted a research program to develop standards for vehicle emergency warning devices, including sirens and warning lights. The program was designed to identify and "quantify" the physical parameters of the vehicle emergency warning devices and to determine the effectiveness of the siren and warning lights systems in enabling police personnel to perform their duties with efficiency and safety. The approach taken was that of determining the current state-of-the-art by compiling available information, and developing, through objective and subjective tests, further technical information describing the devices and determining signal effectiveness, leading to the goal of improved performance standards for the devices. 99 
+
+The performance standard for sirens, "NILECJ Standard for Emergency Vehicle Sirens,' 
+
+has been completed. It is the purpose of this report to serve as a background document for the siren standard, to discuss the test programs briefly and present the results, and to present conclusions concerning the effectiveness of sirens and recommendations for optimizing existing systems. 
+
+2. TEST PROGRAM 
+
+The test program was designed to provide information on the characteristics of emergency vehicle sirens and on the effectiveness of the signals. The program included the determination of the directional response and sound power level of the sirens, the measurement of the signal attenuation due to the sound insulating qualities of the subject vehicles (i.e., vehicles in which it is desired that the siren sound be heard; hereinafter, these will be referred to as just "vehicles"), the measurement of the masking noise inside the passenger space of the vehicle, and determination of the effects of reflections from the ground on the signal received.
+
+By combining all of the measured parameters, an estimate can be made of the effective audibility of the siren signal. Directional response and sound power measurements are used to predict the sound pressure level at any distance and position in the horizontal plane of the siren relative to the source, the attenuation characteristics of the vehicle are used to predict the sound pressure level of the siren inside the vehicle, and the operating or masking noise level characteristic of the vehicle are used to determine whether the siren signal level is intense enough to be heard. The effects of reflections from the ground on the propagated signal were studied to show how the sound level of the siren can be reduced as a result of destructive interference between the direct and reflected signals. 
+
+Calibrations of all sound measuring systems were made periodically with a pistonphone that produced a 124-dB sound pressure level (re 20 µNm2) at a frequency of 250 Hz. 
+
+The several parts of the test program are described in the following four subsections. 1
+
+2.1. Directional Response and Sound Power Level of Sirens 
+
+The directional response and sound power level measurements were made in the large anechoic chamber located in the Sound Building at the National Bureau of Standards. Each siren was placed on a rotating test stand and rotated through 360° at a rotational speed of 6.25°/sec. while the sound pressure level generated as a function of time was measured for each 3-octave band of frequency. The distance from the siren or speaker to the microphone was 2 meters.
+
+When a warning device consists of two electronic siren speakers placed side by side or one in front of the other and one signal generating source is used, there are effects on the angular distribution of the intensity of the resultant signal propagated, due to phase cancellations between the two speaker signals. In order to examine these destructive interference patterns, a pair of speakers were mounted side by side with a separation of 0.61 meter. The speakers were connected successively in phase and out of phase to an electrical input. The two speakers were then lined up front to back with the same separation of 0.61 meter. The electrical signal to the front speaker was delayed by 1.82 milliseconds in order that the signals propagated from the two speakers in the forward direction be in phase. This would be expected to improve the range of the warning signal propagated ahead of the vehicle. 
+
+The acoustic signal was measured sequentially at locations in six planes as shown in Figure 1. Positions 1 through 5 were used to compute the total sound power level while position 6 was used to compute the directional response characteristic in the horizontal plane. 
+
+The microphone signal was analyzed by a real-time (3-octave band frequency) analyzer (RTA) which was sampled every 0.8 second by a minicomputer. The digitally recorded data were then analyzed directly by computer. 
+
+The electronic siren speakers were excited by a pulse train input signal of known amplitude. In addition to an analysis of the siren output, the signal driving the siren speakers was analyzed for frequency and power output while loaded by the siren speaker. 
+
+The electromechanical sirens, which generate a signal by an airstream blown through motor-driven impeller blades, could be analyzed only at the sound pressure level and frequencies which the sirens generated at the maximum motor rpm when powered by an automobile battery. 
+
+2.2 Field Insertion Loss Measurements 
+
+Measurements of the attenuation of exterior sounds due to the sound-insulating qualities of closed vehicles were made over a paved surface in an open area at the National Bureau of Standards in Gaithersburg, Maryland. Twenty-three automobiles were lent to NBS through the generous cooperation of automobile dealers in the local area. These automobiles are listed in Appendix A. Except as otherwise indicated, they were 1973 model automobiles. 
+
+A signal generator which produced wide band "pink noise" (random noise filtered. through a network which weights peak levels at -3 dB per octave, i.e., equal division of power/octave) was connected through an amplifier to a loudspeaker, which served as the external noise source. A measuring microphone was positioned 18 meters from the speaker. The microphone was connected through a preamplifier to a real-time (3-octave band frequency) analyzer (RTA) from which the sound pressure level, Lp, could be read as a function of frequency. 
+
+Two sets of measurements were made. For each automobile, one set of measurements was made at a fixed position relative to the loudspeaker in the absence of the automobile. The other set of measurements was made with the microphone inside the automobile at the same location with respect to the loudspeaker. The microphone was mounted on the head rest on the driver's side of the front seat at a location just behind the position for the right ear of the driver. We have defined the difference between the two measurements as the field insertion loss due to attenuation by the automobile. 
+
+Four orthogonal orientations of the automobile with respect to the speaker were used. 
+
+The orientations will be referred to as "front," "rear," "left side" and "right side," which in- 2
+
+3 
+
+2 meters 
+
+FIGURE 1.-Test Set-up For Sound Power and Directionality Measurements. Planes 1-5 Used to Determine Sound Power. Plane 6 Used to Determine Directional Response in Horizontal Plane. 
+
+dicate the particular side of the automobile that faced the speaker. For each orientation for each automobile the 3-octave band sound pressure level was read from the RTA at each center frequency from 80 to 8000 Hz, with the noise source on. For possible use in correcting the field insertion loss measurements for ambient noise, readings were made for ambient noise in the field in the absence of the automobile and for ambient noise in the interior of the automobile. Since the corrections would have been in general less in magnitude than or comparable to the expected uncertainty in the measurement of L,, approximately ±2 dB (the larger corrections were at band center frequencies of 80 to 100 Hz and 5000 Hz and higher), no correction for ambient noise was made to the data reported here. 
+
+The field insertion loss, FIL, is defined as the difference, in decibels (with the noise source on) between the sound pressure level observed at the microphone in the absence of the automobile, (Lp)ext, and the sound pressure level observed at the microphone in the automobile, (Lp)int, for each 3-octave band,
+
+FIL=(Lp)ext-(Lp)int (1) The FIL for a typical closed automobile for the "front" and "rear” orientations is plotted on a 13-octave band graph paper in Figure 2. 
+
+To indicate the trend of FIL with frequency and to provide a quantitative description of 3
+
+30 
+
+FRONT 
+
+20 10 940 
+
+Insertion Loss, dB 
+
+20 10 REAR oot 100 200 200 500 500 2017 
+
+FIGURE 2.-Insertion Loss for Front and Rear Orientations of a Typical Automobile. Dashed Lines are Least Square Fit Lines of Regression. See Table 1. 
+
+the trend, the FIL data were fitted by the method of linear least squares to a line of regression with an equation of the form FIL=m(N-19)+b, (2) where N is the 3-octave band number. Eq. (2) provides a simple means of estimating the FIL at some desired center frequency. The 3-octave band center frequency is given approximately by 10N/10, m is the slope in dB per 3-octave and b is the calculated FIL at N-19=0, i.e., at 80 
+
+Hz. Therefore, three times m is equal to the rate of change of the mean insertion loss with frequency (dB per octave). The dashed lines shown on the plots are the regression lines. As an example of the use of Eq. (2) and Figure 2, if one chooses 1000 Hz as a reference center frequency, the estimated FIL is FIL1000=b+m(30−19)=b+11m, since 1000 Hz is the center frequency of 3-octave band number 30.
+
+(3) The maximum and minimum FIL measured for each of the 3-octave bands for the group of 23 automobiles for the "rear" orientation are plotted versus frequency in Figure 3. The FIL
+
+Insertion Loss, dB 
+
+10 20 30 40 50 ooo 100 60 200 500 नै 1k ગઢ 5k ΧΟΙ 2001 
+
+FIGURE 3.-Maxima and Minima Measured Transmission Loss for Twenty-three Test Automobiles and Insertion Loss for a Luxury Domestic Automobile (▲) and for a Small Imported Economy Automobile (●), Rear Orientation. 
+
+for the "rear" orientation for a luxury domestic automobile and for a small imported automobile are plotted also for comparison. The regression lines plotted on the maximum/minimum plot could be used as representations of the field insertion loss for the "best" and "worst" cases for the group of automobiles for the "rear" orientation. 
+
+The values of the regression line parameters and the calculated FIL at the band center frequency of 1000 Hz are summarized in Table 1. 
+
+2.3. Masking Noise Measurements 
+
+The masking noise measurements were made while each of the twenty-three test automobiles was being driven over a route between the vicinity of the National Bureau of Standards in Gaithersburg, Maryland and Bethesda, Maryland. The route provided a variety of road environments, from that of an interstate highway to that of a main avenue in an urban area.
+
+The route consisted of the following segments: 
+
+1. Interstate highway, at speed of 60 miles per hour. 
+
+2. Four-lane highway bordered by shopping areas, restaurants, at speeds between 25 and 
+
+35 miles per hour except for stops at traffic lights, etc.
+
+TABLE 1. Summary of Insertion Loss Regression Line Parameters and Calculated Insertion Loss at 1000 Hz. 
+
+Auto 
+
+Front 
+
+Rear 
+
+Left Side
+
+Right Side b¹ 3m 2 IL 3 3m IL 3m IL 3m IL 1K 1K 1K 1K 1 16 3.7 30 18 3.1 29 19 2.8 29 14 3.9 28 2 23 14 3.9 29 16 3.1 28 19 2.2 27 16 2.8 27 17 4.1 32 15 3.7 29 17 3.0 28 15 3.4 28 16 3.9 31 16 3.3 29 17 2.3 25 15 3.5 28 15 4.0 29 15 3.6 28 18 3.0 28 16 3.5 29 14 3.9 29 15 3.6 28 18 3.0 28 14 3.3 27 16 3.7 29 17 3.6 30 19 2.4 28 17 2.8 28 15 4.3 31 14 4.2 29 17 3.5 30 18 3.4 30 12 4.6 29 13 4.5 29 14 3.9 28 13 3.6 27 10 19 3.4 31 15 3.9 30 19 2.8 29 17 3.4 29 11 16 4.1 31 13 4.6 30 17 4.0 31 17 3.8 31 12 13 4.4 30 13 4.3 29 20 2.6 30 16 3.1 28 13 15 3.6 28 16 3.6 30 20 2.2 28 17 2.4 26 14 14 3.7 28 17 2.7 27 19 2.2 27 16 2.8 26 15 16 3.2 28 16 2.8 26 16 2.4 25 16 2.7 25 16 13 4.5 30 17 3.3 28 18 2.3 27 16 2.6 25 17 11 3.9 26 13 2.9 24 14 3.3 26 15 2.9 25 18 13 3.8 27 13 3.9 27 19 1.9 26 17 2.3 26 19 16 3.6 29 19 3.1 30 21 2.1 29 19 2.1 26 20 13 4.0 28 16 3.3 28 17 2.2 26 17 2.3 25 21 13 3.6 26 12 4.0 26 16 2.4 25 15 2.8 25 22 15 3.1 26 14 2.7 24 16 2.3 24 15 2.7 23 23 16 2.8 26 16 2.3 25 15 2.1 22 16 2.1 23 
+
+MEAN 14.7 3.83 
+
+28.8 15.2 3.49 28.0 17.5 2.65 27.2 16.0 2.97 26.8 
+
+¹ Intercept, calculated insertion loss (in dB) at 80 Hz. "Three times the slope, insertion loss in dB per octave. 3 
+
+³ Calculated insertion loss (in dB) at 1000 Hz.
+
+3. Four-lane highway bordered by less commercial activity than that of segment 2, at same speeds as those for segment 2. 
+
+4. Four-lane avenue through urban Bethesda, at same speeds as those for segments 2 and 3. 
+
+The windows of the automobiles were closed and the air conditioning units were off for the first traverse of the four segments. In runs 5 through 8, the order of driving over segments 1 through 4 was reversed, with the windows closed and the air conditioning units on with the fan at high speed.
+
+The masking noise measurements were made using a microphone mounted on the head rest on the driver's side of the front seat, at a location behind the right ear of the driver. The microphone was connected through an amplifier to a tape recorder. For analysis of the data, the tape system was connected through a real-time (3-octave band) analyzer (RTA) which was digitized by means of a mini-computer. Final processing of the data was done on a large-scale computer. 
+
+The data acquisition runs consisted of a 22-minute recording for each of the eight runs. 
+
+The mini-computer sampled the output of the RTA at 0.8-second intervals and wrote the sound pressure level, in digital form, on magnetic tape for each 3-octave band with center frequency from 80 to 8000 Hz.
+
+Having determined (Appendix B) that the arithmetic mean sound pressure level for each run is more nearly representative of a range of levels than the sound pressure level extracted from the arithmetic mean of the ratios of the mean-square sound pressures to the square of the reference pressure, (p=20uNm-2), we computed the arithmetic mean sound pressure level and the standard deviation for each run. In Figure 4, the arithmetic mean sound pressure level is plotted against frequency for a typical automobile traveling over route segments 7 and 8. The data plotted for the apparent linear region of each plot were fitted by the method of linear least squares to a line of regression of the form LM-m'(N-19)+b', 
+
+where LM is the level of the masking noise, N is the 3-octave band number, m' is the slope in dB per 3-octave and b' is the calculated LM at 80 Hz. This procedure for fitting the masking noise data by the method of linear least squares is similar to that used in the treatment of the insertion loss data in the preceding section. The values of the regression line parameters and the highest frequency on the linear portion of the plot, f(max), for the test automobiles are summarized in Table 2. 
+
+2.4. Measurements of Phase Cancellation Due to Ground Reflection 
+
+Measurements of phase-cancellation due to ground reflection were made over paved surfaces at Camp A.P. Hill near Fredricksburg, Va. and at the National Bureau of Standards at 
+
+Gaithersburg, Md. At Camp A.P. Hill, an electronic siren was mounted at a typical "in service" location on the center of a test bracket on the roof of an automobile. The centerline of the siren horn was approximately 1.5 meters above the road surface. Two measuring microphones were placed in the center of the road at heights of 1.2 meters and 2.1 meters above the paved surface. 
+
+The siren was excited at the frequency and amplitude for which its output was maximum and was held steady at this amplitude and frequency within the tolerances of the siren system. 
+
+Calibrated tape recordings were made at the distances from 122 meters to 8 meters between the siren and the microphones. The arrangement is shown in Figure 5. Smaller increments in distance were taken near points where phase cancellations were calculated as likely to occur. 
+
+The recorded data were then analyzed using the real-time analyzer and a minicomputer. 
+
+The test results are compared with the results of theoretical calculations in section 3.3. 
+
+Additional measurements of the distribution of sound from the siren were made at NBS. 
+
+The electronic siren was mounted at a height of 1.5 meters on a test stand and a microphone
+
+50 1/3-Octave Band Sound Pressure Level, dB re 20 μN/M² 40 50 60 100 60 
+
+SEGMENT 8 
+
+70 
+
+SEGMENT 7 
+
+200 500 1k 2k 
+
+FIGURE 4.-Arithmetic Mean Masking Noise Level for One of the Test Automobiles on Route Segments 7 and 8. 
+
+Dashed Lines are Least Square Fit Lines of Regression. See Table 2. 
+
+was mounted at a height of 1.2 meters. Instead of using its associated electronic package to drive the siren's loudspeaker, a sine wave input signal was generated by a sine wave generator. 
+
+The distance between the siren and the microphone was varied in increments from 3 meters to approximately 46 meters in an effort to locate the relative minima in sound pressure levels. 
+
+These test results are also compared with theoretical computations in section 3.3. 5k ΧΟΙ 2018
+
+TABLE 2. Summary of Masking Noise Level Parameters 
+
+Auto Para- 
+
+Route Segment meter 1 2 3 4 5 1 b¹¹ m'a 1 71 66 69 69 69 72 -1.41 -2.50 - 1.70 -2.23 -1.86 - 1.59 fc(max) 3 1600 315 800 500 300 2000 2 b' 82 82 75 84 84 m' - 1.87 -1.74 -2.06 - 1.60 - 1.72 3 f.(max) b' 1000 1000 500 2500 5000 73 69 72 74 74 75 72 73 m' - 1.60 -2.44 -2.47 - 2.82 - 1.80 -2.21 - 1.72 -2.25 f.(max) 2000 500 500 500 2000 800 1600 1600 b' 81 78 79 74 78 80 80 83 m' -2.01 -2.38 -2.20 -2.43 - 1.70 -1.82 - 1.79 - 1.79 f.(max) 800 500 500 315 800 800 800 1000 be 74 71 73 76 m' -1.84 -2.40 
+
+- 1.39 f.(max) 630 500 1250 4000 b' 75 70 73 70 75 76 72 71 m' -2.26 -2.26 -2.45 -2.47 - 1.62 -1.61 - 1.69 - 1.45 f.(max) 500 500 500 500 800 800 800 800 7 b' 72 65 70 68 72 69 76 m' - 1.47 
+
+- 1.89 -2.32 -2.26 - 1.46 - 1.32 - 1.46 fc(max) b' 2500 75 500 500 500 2500 2500 2500 74 75 75 m' fc(max) - 1.83 800 -1.77 800 
+
+- 1.83 - 1.6. 800 1250 ¹ Intercept, calculated masking noise level (in dB) at 80 Hz. 'Slope, masking noise level in dB per 3 octave. 'Maximum center frequency on linear portion of plot.
+
+2500 72 .81 -1.26 81 3150 2000 73 -1.26 -1.32 69 5000 2500 81 -1.78 -1.79 75 5000 
+
+TABLE 2. Summary of Masking Noise Level Parameters.-Cont. 
+
+Para- 
+
+Route Segment 
+
+Auto meter 1 2 3 b' 69 66 70 67 68 69 69 m' -1.77 -2.14 -2.38 -2.16 -1.75 -1.68 -1.78 f(max) 800 500 500 500 800 2000 800 10 b' 71 67 68 67 70 72 70 m' -1.30 -1.74 -1.38 -2.81 -1.33 -1.38 -1.29 f(max) 2000 1000 2000 315 2500 3150 2500 11 b' 80 77 70 65 67 71 70 -2.02 -2.43 -2.56 -2.71 -1.86 -2.12 
+
+f(max) 2500 1250 500 250 630 630 200 12 b' 75 71 73 71 71 76 73 -2.22 -2.64 -2.16 -2.40 -2.33 -2.41 
+
+f(max) 630 400 630 800 400 500 400 13 b' 71 66 69 66 69 71 69 m' -1.69 -2.47 -2.28 -2.77 -1.68 -1.80 -1.65 f(max) 800 250 500 250 1000 800 800 14 b' 75 70 70 70 71 72 72 m' -1.67 -2.07 -1.98 -1.87 
+
+-1.95 
+
+f(max) 2000 630 630 630 800 800 2500 15 b' 82 70 79 74 77 80 78 m' 
+
+-2.29 -2.09 
+
+-2.22 -2.38 -2.35 f(max) 5000 500 2000 1250 800 800 800 16 b' 84 83 74 80 78 74 74 m' -2.19 -1.99 -2.54 -2.03 
+
+-1.48 -1.56 f(max) 3150 2000 630 630 400 500 630 10
+
+b' 73 76 77 66 69 72 68 74 -1.92 -2.05 -2.44 -2.12 -1.90 -2.04 -2.19 -1.81 f(max) 500 500 400 400 500 500 500 500 18 b'¹ 1 78 80 81 73 70 77 74 73 m'2 -1.72 -1.77 -2.80 -2.12 -2.16 -1.97 -2.50 -1.86 f(max)³ 2000 2500 315 1000 500 2000 800 630 19 73 72 67 70 67 73 74 68 m' -1.36 -2.55 -2.19 -2.19 -2.44 -1.23 -1.23 -2.43 f(max) 8000 500 400 500 400 2000 2500 315 20 b' 84 70 77 78 79 81 77 84 m' -1.84 -1.79 -1.76 -1.93 -1.99 -2.16 -1.83 -1.76 f(max) 5000 1250 630 800 630 800 800 2000 21 30 b' 84 75 77 76 74 76 71 83 m' -2.05 -1.90 -1.92 -2.08 -1.32 -1.37 -1.46 -1.84 f(max) 4000 1500 2500 1600 2500 2500 2000 2500 22 b' 74 71 73 68 71 73 71 75 m' -1.61 -2.43 -2.10 -2.23 -1.86 -1.68 -1.78 -1.55 f(max) 2500 500 800 250 630 2000 800 2500 23 b' 77 69 74 71 73 76 72 76 m' -1.68 -1.78 -1.77 -1.83 -1.94 -1.70 -1.86 -1.42 f(max) 2500 800 2000 800 1000 2500 800 3150 1 Intercept, calculated masking noise level (in dB) at 80 Hz. 
+
+2 Slope, masking noise level in dB per 3 octave. 
+
+3 Maximum center frequency on linear portion of plot. 11
+
+-.6 m 
+
+61.0 m 76.2 m 
+
+115.8 m 
+
+121.9 m
+
+Measurements Every 1.5 m Measurements Every 1.5 m Measurements Every 1.5 m FIGURE 5.-Phase Cancellation Measurement Arrangement at Camp A.P. Hill. 
+
+12
+
+3. DATA ANALYSIS 3.1. Directional Response 
+
+The directivity factor of a source of sound can be defined as the ratio of the sound pressure squared (p²), at some fixed distance (r) along the principal axis of radiation, to the mean-square sound pressure (p²) at the same distance averaged over a hypothetical sphere with its center at the effective acoustic center of the source. The directional response characteristic, DR, in decibels, can be formed by the following equation: DR(0,0)=10 log10- p²(r 0,6) p*(r) (5) is the angle in the horizontal plane (azimuth) between a given direction and the principal axis of the sound source; is the angle from the vertical (co-latitude) to a given direction. In the case of sirens, the region of particular interest is the horizontal plane, for which =½, and this angle can be omitted from the following equations. 
+
+The Directional Response characteristic can be expressed in terms of the quantities measured in an anechoic chamber. where DR(0)=L₂(r,0) — L✩+10 log10(4г²), (6) L(r,0) is the sound pressure level at a distance, r, from the source angle with respect to its principal axis.
+
+L is the sound power level of the source. 
+
+The sound power level is determined from Lp(r), the mean sound pressure level taken over a sphere of radius, r, as follows: L=L₂-(r)+10 log10 (4πr²), (7) substituting into equation 6, obtaining DR(0)=L,(r,0)—Lp(r), (8) which is equivalent to equation 5. By writing r for r, in equation (7) and substituting into equation (6), the sound pressure level L,(r,0) at any distance and orientation in the plane of the source can be estimated by knowing the DR and the mean sound pressure level at a distance, ro, from the source.
+
+L(r,0)=DR(0)+L-(r−20 log (r/r) (9) This equation assumes far-field conditions. Our measurements were of necessity made at a distance of 2 meters from the sound sources. However, we verified that increasing the distance of measurement to 4 meters where it was feasible reduced the sound pressure level at the frequencies used in the measurement by 6 dB. 
+
+Directivity and power spectra data were obtained for the four electronic sirens and nine electromechanical sirens tested using the measurement procedures described in section 2.1. 
+
+The mean sound pressure level at a distance of 2 meters for 3-octave bands of center frequencies 250, 500, 1000, 2000, 4000, and 8000 Hz for the four electronic sirens operated at the indicated siren functions, "wail", "yelp", and "hi-lo", along with A-weighted and linear sound power levels are listed in Table 3. The mean sound pressure level at a distance of 2 meters for the six center frequencies for the "wail" function for the electronic sirens is plotted in Figure 6. The DR data measured for the electronic sirens are listed in Table 4. The DR is tabulated for three directions with respect to the apparent acoustical axis of the siren in the horizontal plane: 0°, along the axis; 45° to the left of the axis facing forward; and 45° to the 13
+
+Octave Band Sound Pressure Level, dB 
+
+130 120 110 100 90 80 70 100 200 500 500 1k 
+
+Octave Band Center Frequency, Hz 
+
+2k 5k 10k 
+
+FIGURE 6.-Mean Sound Pressure Level at a Distance of Two Meters for the "Wail" Function for Four Electronic 
+
+Sirens in an Anechoic Chamber. See Table 3. right of the axis facing forward. Also the minimum (most negative) and the maximum (most positive) values of DR are tabulated. Polar plots for one of the electronic sirens are presented in Figure 7.
+
+In the frequency range of perhaps greatest interest, 500, 1000, and 2000 Hz, the difference in DR between the 0° direction and the ±45° directions exceeded +10 dB (rounded to the nearest whole dB) in two cases (the difference was 12 dB in each of the two cases). For the center frequencies 500 and 1000 Hz the difference in DR exceeded ±5 dB in only two cases. 
+
+The mean sound pressure level at a distance of 2 meters at the maximum RPM generated by each of the nine electromechanical sirens at appropriate center frequencies are tabulated in Table 5. The DR values also are tabulated in Table 5. In the frequency range 500, 1000 and 
+
+2000 Hz the difference in DR between the 0° direction and the ±45° directions exceeded +10 dB in six cases. For the center frequencies 500 and 1000 Hz the difference in DR exceeded ±5 dB in only one case. DR plots for one of the electromechanical sirens are presented in Figure 8. 
+
+3.1.1. Two-Loudspeaker Configuration 
+
+In an effort to increase the power and control the directivity of the siren system, the simplest improvement one might make is to use two like sirens (or two like loudspeakers, where an electronic driving source is used).
+
+The DR data for the pair of electronic speakers in the three test configurations (side-byside connected in phase, side-by-side connected out of phase, and arranged one behind the other with the signal from the front speaker delayed) are listed in Table 6. DR plots for the two speakers mounted side-by-side and driven in phase are presented in Figure 9, and as driven out of phase, in Figure 10. 14
+
+TABLE 3. 
+
+Mean Sound Pressure Level at a Distance of Two Meters for Electronic Sirens. 
+
+Siren Function Octive Band
+
+Mean Sound Pressure Level, dB 
+
+A- 250 500 1000 2000 4000 8000 Weighted
+
+Linear 
+
+YELP 
+
+69.4 114.2 123.5 112.1 105.8 92.8 121.4 122.5 WAIL 68.9 119.9 127.9 118.3 109.4 95.2 125.8 126.9
+
+HI-LO 70.3 119.7 123.1 115.4 106.1 93.7 121.8 122.9 2 
+
+YELP 
+
+78.5 118.9 122.4 111.5 100.0 96.6 123.1 124.2 WAIL 111.3 123.1 126.9 114.2 103.3 98.4 127.3 128.4 
+
+YELP 
+
+92.9 129.6 138.3 129.9 124.9 118.4 140.7 142.2 WAIL 93.2 133.4 142.0 135.3 128.2 122.3 144.4 145.9 
+
+YELP 
+
+79.2 122.0 126.4 114.0 113.4 110.9 129.4 130.1 WAIL 78.7 127.7 130.8 120.2 117.0 113.3 133.8 134.5 HI-LO 80.1 127.5 126.0 117.3 113.7 111.8 129.8 130.5 15
+
+0° 0° 180° 180° 135° 250HZ 135° 500HZ 90° 45° 135° 1000HZ 0180° 90° 10 45° 90% 45 135 90 45 2000HZ 135° 90° 45° 0°180° 135°
+
+FIGURE 7.-Directionality Plots for an Electronic Siren. See Table 4. 
+
+90° 45° 16
+
+180° 180° 135° 4000HZ 135° 8000HZ 135° 90° - 90° 45 90° 10 10 45° 45° 135° 90° 45° AWT 0180° 10 135° 90 45 
+
+LINEAR 
+
+0° 80° 135° 90° 
+
+FIGURE 7 (continued).-Directionality Plots for an Electronic Siren. See Table 4. 
+
+—10 45° #B 0° 0° 17
+
+TABLE 4. Directionality Response Ratios for Electronic Sirens Siren Direction Octave 
+
+Band
+
+Directivity Index, dB 
+
+250 500 1000 2000 4000 8000
+
+A-Weighted Linear 
+
++1.5 +2 +4.5 +6.5 +8.5 +9.5 45L +5 +4.5 -0.5 -4 -9 
+
+1 45R -1.5 -1 +1 +1.5 +2.5 +2.5 -8 
+
+MIN 
+
++2 +2 -2 -4 
+
+-14 
+
+- 13 MAX -7 -6 +1.5 +2 +4.5 +7 +10 +13 +5.5 +5 +1.5 +2.5 +5.5 + 6.5 + 6.5 +5 45L +5.5 +5 +2 +2 +4.5 +3.5 2 -0.5 -0.5 45R +4 +3 +1 - 1.5 -6 -8 - 13 
+
+MIN 
+
+-2.5 -2 -2 
+
+-8 -15 -19 MAX 
+
+-8 -6 +2 + 2.5 +6 +8 +11.5 +13 +7 +6 +2.5 +2.5 +6 +8 +11 45L +13 +6.5 +6 +1.5 +1 +2.5 -1 3 
+
+45R -3 +1.5 +1 +1.5 +1.5 +1 -2.5 -5 -4 
+
+MIN 
+
++1 -2 -2.5 -8 -17 -20 15 -7 MAX -5 +2.5 +2.5 +6 +8 +11 +13 +7 +6 +1.5 +2.5 +4 +6 + 8.5 +7.5 +5.5 45L +4.5 +0.5 +0.5 -0.5 -3 
+
+-1 -1 45R +1 +2 +3.5 +4 +0.5 -5 + 3.5 +3 
+
+MIN 
+
+-1.5 -3 
+
+-13 -19 -15 -7 
+
+MAX +1.5 +2.5 +4.5 +7 +11 + 13 + 6.5 +6 18
+
+In the mounting of the loudspeakers front-to-back they were driven so that the effects of their displacements added. In order to produce the effect of a single source in the forward direction with an approximately cardioid directivity pattern, a phase-delay was introduced to compensate for the forward displacement of the front-facing speaker. 
+
+The improvement in directivity is shown in Figure 11 for the frequencies of 1000 and 2000 Hz, which are in the region most important for hearing 
+
+3.2. Masking Noise and Insertion Loss 
+
+At the outset of this discussion of masking the following quotation from a paper by Harvey Fletcher' concisely defines the phenomenon: "Whenever one sound is being heard it reduces the ability of the listener to hear another sound. 
+
+This phenomenon is called masking. In testing the masking properties of a sound usually pure tones are used as the masked sound. The number of decibels that the threshold level of a pure tone is shifted due to the presence of the noise is called the masking M at the frequency corresponding to that of a pure tone."
+
+The threshold of hearing or the threshold of audibility at any particular frequency is the acoustic intensity which can be barely detected at that frequency². 
+
+Another way of expressing the effect of masking noise is that a sound signal in the presence of masking noise has a lower equivalent loudness than that of the same signal in the absence of noise³. Corliss has developed a procedure for estimating masking and equivalent loudness of a sinusoidal source in the presence of steady-state "random noise". Corliss and Jones' have outlined the procedure and its application to audibility of emergency vehicle sirens and the recognition of speech. In this section the procedure will be outlined to serve as a demonstration of the estimation of effective loudness of a siren signal in the presence of masking noise inside a vehicle.
+
+The masked threshold, W,, is defined as the power of a sinusoidal signal (tone) of frequency f which is just at the threshold of perception in the presence of noise (of bandwidth f and center frequency f of power W.W, is the acoustic power at the threshold of hearing for the sinusoid in the absence of masking noise. The ratio of W, to W, can be expressed as 
+
+W₁/W.=(π²/QXfc/AfXWn/W.), (10) where now W, is the masked threshold for the detection limit of 0.5 probability for a sinusoidal signal of frequency f, in the presence of noise (of frequency f) in a band (3-octave band, in the present case) of bandwidth Af, and Q is one of parameters of the ear (with W.) needed for the estimation of audibility. Q is effectively the ratio of energy stored to energy dissipated just as it would be for a resonating tank circuit. The ratio W,/W, can be expressed in decibels as 10 log10(Ws/W,)=10 log10(π²fc/Q4f)+10 log10 W/W.-10 log10W./W。, (11) where 10 log10(W/W) and 10 logio W./W are the sound power levels (re: W=10-12 watt) of the masking noise and the threshold of hearing in the absence of masking noise at the frequency, f, respectively. Two other acoustic powers are required for the estimation procedure. These are W,', the sound power (greater than W,) of a sinusoidal siren signal, and W₁, the equivalent sound power of the signal in the presence of masking noise. 
+
+Corliss and Jones have developed universal masking function curves which relate equivalent sound power level to signal sound power level for constant values of masking sound power level (all of these levels are with respect to W.). These curves are shown in Figure 12. 
+
+A simple example will illustrate the use of these curves for determining the required sound level of a sinusoidal signal to be "heard" by an observer in the presence of a masking noise. Corliss and Jones' have suggested that as a convenient criterion the sinusoidal sound, e.g., a siren sound in the subject vehicle, must be at least as loud as ordinary speech in order to be perceived. At a distance of 1 meter, ordinary close conversation distance, speech ranges in level between 65 and 75 dB SPL. In the absence of subjective measurements of equivalent 19
+
+TABLE 5. Directivity Index and Mean Sound Pressure Level at a Distance of Two Meters at the Maximum Motor RPM for Electromechanical Sirens. 
+
+Siren 
+
+Direc- tion 
+
+Octave Band 
+
+250 500 1000 
+
+Directivity Index, dB 
+
+2000 4000 8000
+
+A- 
+
+Weighted 
+
++4 +9 +7 +6.5 45L +7 + 6.5 +3 -2 -0.5 +2.5 45R +1.5 +1 +2.5 
+
+-1 
+
+MIN 
+
++2 +0.5 +1 -8 -7 
+
+-9 MAX - 6 
+
++4 +9 +7 +7 +7 +7 
+
+-- 2 45L 45R 
+
+MIN 
+
++4 +8 +8.5 +9 + 6.5 +6 +2.5 -15 -0.5 +2 +0.5 +1 +3 -20 -2 -2 +1 
+
+- 20 
+
+MAX -11 -9 
+
++5.5 +8 LT 45L 45R MIN MAX +8.5 +9 + 6.5 + 6.5 
+
+105.9 
+
++7 +8.5 +8.5 +7 +7.5 +7.5 +3 
+
++3.5 +2.5 + 2.5 +2.5 +0.5 +1.5 +2 +2.5 +1 +1 
+
+-9 -10 -10 +7 +9 +8.5 +7.5 +8 +7.5 123.0 
+
+124.1 
+
++1.5 +5.5 +7 +1.5 45L +4.5 +3.5 +0.5 
+
++1 45R +0.5 +0.5 +1 +4 
+
++ 2.5
+
+MIN 
+
++2 +2 
+
+-2 
+
+-11 MAX 
+
+-4 
+
++1.5 +1.5 +6 +8.5
+
++8 +5 +4.5 81 
+
+99.9 94.1 
+
+20
+
++2 +8 +8.5 45L +4.5 +5.5 +5 +1.5 +1 +0.5 45R +2 +1 +1.5 +1 
+
+-4 
+
+MIN 
+
++4.5 +1 -0.5 
+
+-20 MAX -8 
+
+-5 +2 +8 LD +8.5 +5 +6 +5.5 116.7 112.6 106.9 100.1 118.4 118.6 +4 +7 +6 45L +3 +5 +5 +3 +0.5 45R +1 +2 +2.5 +1.5 
+
+-0.5 
+
+MIN 
+
++1.5 +0.5 +1 -6.5 - 13.5 - 8.5
+
+MAX -9.5 
+
+-6.5 +4.5 +7 + 8.5 +4.5 +6 +5.5 116.1 107.7 108.5 103.3 117.2 117.5
+
++3.5 +8 +8 +4 45L +5.5 +5 + 2.5 -4.5 
+
++1 45R +1 +2.5 -2.5 -1 MIN +1 +1.5 
+
+-9 
+
+MAX -4.5 +3.5 +8 +8 +4 +5.5 +5 116.9 109.7 109.9 106.2 118.4 118.6 +3 +1.5 +6 +3 +2.5 +4 +3.5 45L +3 +1 +3.5 -1 -2 +2 45R +1.5 +1.5 -2.5 +1 -1 -0.5
+
+MIN 
+
+-0.5 
+
+-2.5 - 12.5 -9 -10 -4 MAX -3 +3 +2 +7 +7.5 +4 +5 +4 94.1 116.4 112.0 107.6 105.4 117.7 118.4 +4 +3 +7 +5 +7.5 +6 +5.5 45L +3.5 +2.5 
+
++2.5 -1.5 +0.5 +1 45R +3 +3.5 -5 +1.5 +0.5 +1 
+
+MIN 
+
++2 -5 -7 -8 - 13.5 - 10 -6.5
+
+MAX -7 +4 +4 +7.5 +5 +7.5 +6 +5.5 97.4 117.7 115.5 110.2 109.2 120.2 120.6 21
+
+0° 0° 45° 250HZ $135° 500HZ 135° 10 90% 45 HB 10 10 135° 1000HZ 0 180° 135 2000HZ 
+
+0° 180° 90° 45° 10 dB 90% 45 10 90° 45° 90° 45° 135° 
+
+FIGURE 8.-Directionality Plots for an Electromechanical Siren. See Table 5. 
+
+22
+
+180° 180° 135° 4000HZ 90° 45° 135° 90° 45° AWT 135° 8000HZ 90 45 UB 135° 90° 45° 0180° 
+
+0% 180° 10 135 
+
+LINEAR 
+
+90% 45 10 -10! 0°180° 135° 90° 
+
+FIGURE 8 (continued).-Directionality Plots for an Electromechanical Siren. See Table 5. 
+
+45° 0° 0° 23
+
+0° 0° 45° 250HZ 10 135° 1000HZ 0180° 90° 45° 135°3 90 45 500HZ $135 2000HZ 90% 45° 135° 90° 45° 
+
+0° 180° 135° 90° 
+
+FIGURE 9.-Directionality Plots for Two Electronic Siren Speakers Mounted Side by Side and Connected in Phase. 
+
+See Table 6. 45° 24
+
+180° 180° 135° 4000HZ 90° 45° 135°
+
+AWT 10 10 135° 90° 45 8000HZ 135° 90° 10 10 dB 45° 0180° 90° 45° 10 10 dB $135°
+
+LINEAR 
+
+90 45 10 
+
+FIGURE 9 (continued).-Directionality Plots for Two Electronic Siren Speakers Mounted Side by Side and in Phase. 
+
+See Table 6. 
+
+45° 0° 0° 25
+
+0° 0° 180° 180° 135° 250HZ 90° 45° 135° 1000HZ 0180 90° 45° 10 $135° 90% 45 135° 90 45 500HZ 2000HZ 135° 90° 45° 
+
+FIGURE 10.-Directionality Plots for Two Electronic Siren Speakers Mounted Side by Side and Connected out of Phase. See Table 6. 
+
+45° 26
+
+180° 180° 135° 4000HZ 90° 45° 135°
+
+HB AWT 101 135°3 8000HZ 135° 90 45 10 90° 45° 0180° $1350 
+
+LINEAR 
+
+45° 90% 45 90° 10 
+
+FIGURE 10 (continued).-Directionality Plots for Two Electronic Siren Speakers Mounted Side by Side and Con nected out of Phase. See Table 6. 45° 0° 0° 27
+
+Linear ++7 
+
++1.5 +1 +1.5 +0.5 -6 +5 +7 +5.5 -4 
+
++0.5 
+
+TABLE 6. Directivity Index for Pair of Speakers. 
+
+Speaker 
+
+Arrangement Octave Directivity Index, dB Direction Band 
+
+250 500 1000 2000 4000 8000
+
+A-Weighted SIDE BY 
+
++5 +4.5 +7 +9 + 11.5 +10.5 +8.5 
+
+SIDE IN 
+
+45L -0.5 +0.5 +3.5 +1.5 
+
+-2.5 +1.5 PHASE 45R +1 +3.5 -0.5 - 10 
+
++0.5 
+
+MIN 
+
+-7 -9 
+
+- 19 
+
+-7 MAX +5 +4.5 +7 +9 +11.5 +10.5 +8.5
+
+SIDE BY 
+
+- 10 
+
+-5.5 -1 +4 +9 -1.5 
+
+SIDE OUT 
+
+45L +0.5 +1 -0.5 +1.5 
+
+-1.5 +1.5
+
+OF PHASE 
+
+45R +1 +0.5 -1 -1 - 10 -3 MIN - 10 - 11.5 
+
+MAX +1.5 +4 +6 +9 +10.5 +10 +7 
+
++2.5 +4 +1 +7 +10 +11 +6 REAR 45L +1.5 
+
++4 - 1.5 -7 - 1.5 +0.5 
+
+DELAYED 
+
+45R +2 -1 +4 -0.5 -9 -1.5 +1 MIN -8 
+
+-20 - 18 -14 -6 
+
+MAX +3 +4 +7 +10 +11 +6 28
+
+1000HZ 2000HZ 1 
+
+FIGURE 11.-Comparison of the directivity for two like siren loudspeakers (- 
+
+-), Mounted Front-to-Back and driven in phase with a corrective time delay, with the directivity for a single siren loudspeaker (---------). loudness level, let us select 65 dB above the threshold level as the criterion level. Also, let us take a typical example of noise level in a vehicle as a level of 50 dB measured in a 1/3-octave band centered at 1000 Hz. Since sound pressure at a given location is proportional to sound power, we can set 10 logio W/W=50 dB and 10 logio W₁/W.=65 dB. From equation 11 and 
+
+Table 7, 10 log10 W/W.=-5.5+50-5=39.5 dB. Using Figure 12, the value for 10 log₁o W¸'/W. can be determined to be approximately 68 dB. This is determined by the intersection of the criterional equivalent sound power level with reference to threshold of 65 dB and the curve for 
+
+10 log10 W,/W.=40 (39.5 rounded to 40). Now, from Table 7 we get 
+
+10 log10(W,'/W=10 log10(W/W)+10 log10(W/W)=68+5=73 dB. 
+
+Therefore, the sound pressure level of a sinusoidal signal at 1000 Hz must be approximately 73 dB in the subject vehicle in order to be effectively as loud as the criterion level (65 dB) in the presence of a 50-dB background noise in the 3-octave band of 1000-Hz center frequency.
+
+In the process of analyzing the masking noise data for the test automobiles, it became ap- 29
+
+Equivalent Sound Power Level, dB, re threshold [10 10810 (W/W)] 80 70 60 
+
+Curves for 50 10 log (W 10 S 40 WA) 30 20 30 40 SO 80 20 10 20 30 40 50 60 70 80 90 Signal Sound Power Level, dB re threshold [10 log10(W/W 
+
+FIGURE 12.-Universal Masking Function Curves. 
+
+parent that the estimated 10 log10 W/ W, is relatively insensitive to frequency. Consequently, it was possible to use an arithmetic mean value of 10 log10 W,/W, for each route segment. For the 23 test automobiles, values of 10 logio W/W were calculated using the estimation procedure. The calculations were made for the mean values of 10 log10 W/W, and a value of 
+
+10 logio WL/W, of 65 dB. Calculations were also made for values of 10 logio W/W, of 75 dB and 45 dB for comparison. The results are presented in Table 8. Having determined the values of 10 log10 W/W, for three values of effective loudness using the interior noise data for the 23 test automobiles, it is possible to deduce the siren signal sound pressure level L, at the exterior of the vehicles required to produce a desired degree of effective loudness inside the subject vehicle in the presence of interior noise. The required siren sound pressure level L, was calculated using the equation L=10 log10(W/W)+10 log₁o(W/W)+FILM (19) where FILM is the maximum value of insertion loss for the individual test vehicle. FILM at 1000 
+
+Hz and parameters to be used for making calculations for other frequencies are listed in Table 
+
+2. Required siren signal sound pressure levels for f of 1000 Hz for effective loudness of 65, 75, and 45 dB are listed in Table 8 as are required siren signal sound pressure levels for f of 500 and 2000 Hz and effective loudness of 65 dB. It is seen from the table that the required sound 30
+
+f 10 log10(W/W) Hz dB 
+
+TABLE 7. Quantities used in the Calculation of Masked Threshold Level. 
+
+10 log10(/Q) (f¸/Af) dB 80 32 4.0 100 28 
+
+125 25 2.3 160 21 1.0 200 19 -0.3 250 16 -0.5 315 14 -1.1 400 12 -2.2 500 10 
+
+630 
+
+800 -5.1 1000 
+
+1250 -6.0 1600 2000 2500 3150 -1 4000 -2 21012 2 
+
+-- 
+1 W. 10-12Watt pressure level ranges from 100 to 108 dB for an effective loudness of 65 dB for an f of 1000 Hz. 
+
+The level required is relatively independent of frequency (in general increasing by 1 or 2 dB at 500 Hz and decreasing by 1 dB or less at 2000 Hz) in the range of frequencies ordinarily used for sirens. Even for a very low value of effective loudness, 45 dB re: threshold, the required sound pressure level ranges from 85 to 99 dB. Therefore, for the 23 test automobiles and under the specific conditions of test, the data indicate that in order to assure that a siren signal have an effective loudness of 65 dB in the vehicle in the presence of interior noise, a siren signal sound pressure level of 108 dB in a 3-octave band of center frequency of 1000 Hz at the exterior of the test vehicle is required. The estimation and calculation procedures could be used to arrive at a value corresponding to any other criterional effective loudness value. It should be emphasized that subjective tests are required to determine the validity of the 65-dB criterional value or to arrive at a better representative value. 
+
+3.3. Reflection of Siren Signal
+
+Destructive interference between the direct and reflected signals from a siren or other source can result in a reduction of the signal sound level at the location of the receiver. Ray tracing techniques can be used to estimate the loss of sound signal power between the source and receiver due to destructive interference. It should be emphasized that these techniques assume an acoustical far-field and a minimum of diffraction, and the conditions are not representative of the siren/emergency vehicle/subject vehicle system; consequently, the calculated results are estimates. In particular, parts of the emergency vehicle are in the near field of the siren. Using ray tracing techniques, the difference in level, L, equal to the level of the direct plus the reflected signal, LDR, less the level of the direct signal, LD, is given by AL=10 logo [1+(r/r')² +2(r/r') cos w(r'—r)] (20) for the case of interest, for a siren signal of a single pure tone.
+
+r is the length of the direct path 31
+
+TABLE 8. Calculated Values of 10 log 10W/W, and Required Signal Sound Pressure Level. 
+
+Auto Route
+
+Segment 
+
+10 Log10(Ws' /W.) 65 75 45 10 Log10(WL /W.) f. (Hz) 65 75 45 500 1000 2000 1000 1000 1 4 2 3 12345678 
+
+ROROOR NIONS 20 
+
+124567 12345 70 78 57 106 105 104 113 69 77 54 105 104 103 112 388 92 89 70 77 57 69 78 55 69 78 55 70 77 57 72 79 62 74 80 64 70 78 58 105 104 104 112 74 81 65 109 108 108 115 30 92 99 73 80 62 70 78 57 108 107 107 115 69 78 55 107 106 106 115 220 94 92 70 77 57 70 78 58 70 78 57 70 78 58 70 78 57 70 78 57 1234567∞ 70 78 58 70 78 58 69 78 55 68 77 53 105 104 104 113 89 69 77 56 5 1234 3 
+
+RAR OFF RORONERO RORORRE 
+
+12345678 1234567 70 70 78 70 78 70 69 71 71 70 69 
+
+LL LLLL LLL 
+
+77 56 57 58 107 106 106 114 16 94 78 58 77 56 104 103 103 111 90 79 59 79 60 106 105 105 113 94 78 57 78 56 104 103 103 112 90 70 78 57 69 77 56 72 79 61 107 106 106 113 95 71 79 60 70 78 58 69 77 56 70 78 58 69 79 54 106 104 104 114 89 70 77 57 69 78 55 70 78 58 70 78 58 71 79 60 108 106 106 114 95 32
+
+TABLE 8. Calculated Values of 10 log 10W/W, and Required Signal Sound Pressure Level. 
+
+Auto 
+
+Route 
+
+10 Logio(WL/W.) 65 75 45 65 75 45 fc (Hz) 500 1000 2000 1000 1000 12345678 RARE 88 1234 70 78 58 70 78 58 107 106 107 114 94 70 79 58 71 79 60 108 107 108 115 906 96 69 78 56 69 79 54 103 103 103 113 88 69 78 55 69 77 54 69 78 55 69 78 55 69 78 55 70 79 58 104 104 104 113 92 10 12 70 78 58 2 69 78 55 3 70 77 57 69 77 54 106 105 104 113 90 5 70 78 58 70 78 58 22 70 78 57 71 79 59 108 107 106 115 95 11 12 71 79 60 2 69 77 56 3 71 79 59 4 70 78 57 69 78 55 106 105 105 114 91 69 77 56 69 77 54 71 79 60 108 107 107 115 96 12 1 70 78 57 2 69 78 55 106 104 104 113 90 3 70 77 57 69 78 55 5 69 78 55 133 1 234 SO78 2 
+
+ROF RO 
+
+70 78 57 69 78 56 71 79 60 108 106 106 114 95 70 78 57 69 77 54 3 69 78 55 68 76 53 104 103 102 111 888 5 69 77 56 69 77 56 69 77 56 70 78 57 106 105 104 113 92 33
+
+TABLE 8. Calculated Values of 10 log10W/W, and Required Signal Sound Pressure Level. 
+
+Auto 
+
+Route Segment 
+
+65 75 45 65 10 Log10(WL /W.) fe (Hz) 500 1000 75 45 2000 1000 1000 14 1234567 2 3 15 16 1234567 
+
+RORRRRE NO FRESE FEA 
+
+1234567 70 78 69 77 70 78 70 77 70 78 70 78 71 79 72 79 69 77 71 79 70 78 71 72 71 71 71 70 72 70 71 71 17 1 70 2 70 
+
+DL LLLLLL LLLLLLL LLLLLLL 
+
+57 56 104 102 102 110 89 57 57 58 57 59 106 104 104 112 92 61 56 104 102 101 110 89 60 57 79 60 79 61 107 105 104 112 94 79 60 79 59 79 60 77 57 106 105 106 112 92 79 61 108 107 108 114 96 225 79 58 79 60 79 60 78 58 78 57 3 69 78 55 70 78 57 69 79 54 102 100 886 98 110 85 69 78 56 69 78 55 71 79 59 104 102 102 110 90 18 12345678 71 79 59 71 79 60 72 79 61 70 78 57 72 79 61 105 104 104 111 93 71 79 60 70 78 57 103 102 102 110 89 70 78 58 19 1 70 79 58 234 SOT∞ 72 79 62 109 107 106 114 97 71 79 60 4 69 77 56 106 104 103 112 91 71 79 71 79 71 79 71 79 8888 60 60 60 60 34
+
+TABLE 8. Calculated Values of 10 log10W/W, and Required Signal Sound Pressure Level. 
+
+Auto Route
+
+75 45 10 Log10(W/W) 10 Logio(WL /W.) 65 fe (Hz) 500 1000 65 75 45 2000 1000 1000 20 12 72 72 22 79 61 79 61 3 71 79 60 72 79 61 5 72 79 61 72 79 61 106 105 105 112 94 71 79 60 70 79 58 104 103 103 112 91 21 12 71 79 60 2 70 78 58 3 70 78 58 70 78 57 71 79 60 222 123 4 
+
+CERN FO 
+
+71 79 60 70 78 72 79 61 855 57 102 101 101 109 104 103 103 110 92 71 79 59 102 100 99 109 8828 86 69 78 58 70 78 57 69 78 55 5 70 77 57 70 78 58 70 77 57 70 79 58 23 1 70 79 58 2 69 77 56 3 70 77 57 70 78 57 5 70 78 58 71 79 60 104 102 101 110 91 70 78 57 69 78 58 102 100 99 109 86 between siren and microphone or vehicle, r' is the length of the path of the reflected "ray", w is equal to 2 times the siren signal frequency and c is the speed of sound. (It can be shown that, for the physical case of interest, the quantity in the square brackets in Eq. 20 is never equal to zero; consequently, phase cancellation results in finite relative minima in AL). For destructive interference, it is clear that AL<0.
+
+The calculated Lfor 1000 Hz, adjusted for spherical spreading by the term, —20 log₁o(r/r), where r=3 meters, is plotted against x in Figure 13. Relative minima at x=4.1, 7.3, and 22.5 meters are apparent on the plot. On the same figure, sound pressure levels are plotted for a 1000 Hz, 3-octave band measured at a height of 1.2 meters for a typical electronic siren at Camp A.P. Hill. The dip in the plot of the experimental data in the vicinity of the relative minimum calculated to occur at 22.5 meters is qualitative confirmation of the expression developed for AL. 35
+
+Signal Reduction, dB 
+
+10 20 30 40 50 60 
+
+Experimental 
+
+10 20 30 40 
+
+Theoretical 
+
+50 60 
+
+Siren-to-Microphone Distance, Meters
+
+FIGURE 13.-Plot of Signal Attenuation due to destructive interference for a 1000 Hz Sine Wave Adjusted for Spherical Spreading. Siren Height=1.5 m, Microphone Height=1.2 m. 
+
+36
+
+In order to make quantitative comparisons between experimental data and theoretical calculations, it is necessary in the strictest sense to consider atmospheric attenuation of the signal in addition to spherical spreading. The attenuation is, in general, negligibly small; under ordinary conditions it does not exceed 1 dB per 100 meters. It is not considered here. 
+
+Although the distance of interest is r rather than x, the siren and microphone are not very high above the ground, so that x can be used as an approximation to r. The experimental data points in Figure 13 are seen to scatter about the curve (deviations lying between about ±5 dB) except in the vicinity of the relative minimum. 
+
+Samples of the data taken at Camp A.P. Hill have been plotted in Figure 14 to provide information on the shape of the apparent sound pressure level-frequency characteristic of a typical electronic siren mounted on a vehicle. From the figure it is apparent that the maximum sound power is radiated at approximately 1250 Hz. Consequently, a plot was made of the experimental 1250-Hz sound pressure level data taken at NBS. 
+
+To illustrate quantitative agreement between calculated and experimental data, calculated AL values were adjusted for spherical spreading as before and plotted on Figure 15. 
+
+Experimental values of sound pressure level at 1250 Hz were plotted on Figure 15 for comparison. The quantitative agreement of calculated and experimental values is particularly evident in the vicinities of two of the calculated relative minima. 
+
+The signal generators of most electronic siren packages are essentially square wave generators. A square wave is made up of a fundamental frequency plus all of the odd harmonic of the fundamental frequency. The destructive interference effects which reduce the sound level of the fundamental frequency will also simultaneously reduce the sound level of every odd harmonic frequency. Fortunately, the signals from electronic sirens vary in frequency with time and are not pure square waves. They also include even harmonics of the fundamental frequency. The even harmonics are not affected by destructive interference at the same point in space that the odd harmonics are affected. Thus, the signal level of the siren's entire frequency output is not reduced at one time, and in general the sound pressure minima are continually moving as the vehicle moves and the instantaneous frequency of the siren changes. Figures 13 and 15 do illustrate how a reduction of part of the siren signal can occur. 
+
+If outdoor acceptance tests of sirens are performed, the distance between the siren and the measuring microphone is very important, and a field-sampling system should be used. 
+
+4. SUMMARY AND CONCLUSIONS 
+
+A test program involving 23 test automobiles, 4 electronic sirens and 9 electromechanical sirens has been completed. Measurements have been made of the directional response and spectral distribution of the sirens, of the transmission of the automobiles, of the masking noise in the automobiles while being driven over a test route of four different segments, and of the phase cancellation pattern for an electronic siren. Measurements of directional response were made also for a pair of electronic speakers in three different arrangements. The directional response measurements were made in the laboratory in an anechoic chamber. The other measurements were made in the field. A procedure developed by Corliss and Corliss and 
+
+Jones' for the estimation of the effective loudness of a signal in the presence of masking noise has been applied to the siren-subject vehicle case. 
+
+The mean sound pressure level for the four electronic sirens tested in the anechoic chamber at a speaker-to-microphone distance of 2 meters ranged from 122 to 146 dB. The mean sound pressure level for the nine electromechanical sirens tested in the anechoic chamber ranged from 111 to 124 dB. For the electronic and the electromechanical sirens the level was maximum for the octave band centered at 1000 Hz.
+
+Adjusting the mean sound pressure levels given in the preceding paragraph for spherical spreading, we find that the sound pressure level for the four electronic sirens tested would range from 104 to 128 dB at a loudspeaker-to-subject distance of 16 meters, and from 92 to 116 dB at a spacing of 64 meters. The sound pressure level for the nine electromechanical 37
+
+100 80 90 
+
+Measured 
+
+Sound Pressure Level, dB re 20 μN/m 50 60 100 70 
+
+1/3-Octave Band Center Frequency, Hz FIGURE 14.-Sound Pressure Level for an Electronic Siren Mounted on a Vehicle at a Height of 1.5 m. 
+
+Legend 
+
+Distance (m) 
+
+-15.2 27.4 
+
+Microphone Height (m) 
+
+1.2 2.1 2.1 5k sirens tested would correspond to a range of 93 to 106 dB at a distance of 16 meters and of 81 to 94 dB at a distance of 64 meters.
+
+The field insertion loss for a 3-octave band centered at 1000 Hz ranged from 21 to 35 dB for the 23 test automobiles. For a FIL of 30 dB (the maximum loss at 1000 Hz on the regression lines) and a value of effective loudness sufficient for recognition in the presence of masking noise, the sound-pressure required from the siren signal at the exterior of a subject vehicle ranges from 100 to 108 dB for the 23 test automobiles. The maximum value, 108 dB, is within the range of sound levels put out by the electronic sirens at a loudspeaker-to-subject distance of 64 meters, but is outside the range for the electromechanical sirens even at 16 meters.
+
+It has been shown, both theoretically and experimentally, that interference caused by reflection of siren signals can result in a decrease in sound pressure level of as much as 60 dB at certain specific siren-to-subject distances. However, since the siren frequency is swept, the interference patterns will move with the wavelength of the instantaneous output signal, and the actual depths of the minima will not in general be as great. This attenuation, although it was not investigated in this work, further limits the effectiveness of sirens. 101 38
+
+Experimental I I I Theoretical 
+
+20 20 30 
+
+Signal Reduction, dB
+
+40 50 30 60 10 20 30 40 50 50 60 70 10 
+
+Siren-to-Microphone Distance, Meters
+
+FIGURE 15.-Plot of Signal Reduction for a 1250 Hz Sine Wave Adjusted for Spherical Spreading and Experimental 1250 Hz Sine Wave Data. Siren Height=1.5 m; Microphone Height=1.2m; Bars Indicate Spread of Measured Data. 
+
+39
+
+The directivity measurements indicate that the SPL at 45° to the right or left of the apparent acoustical axis of the electronic sirens and the electromechanical sirens was less than that along the axis by more than 5 dB in 3 of 32 cases for octave bands of center-frequencies 500 and 1000 Hz. The directional response ratio for the octave band of center-frequency 2000 
+
+Hz exceeded 10 dB in 8 of 19 cases. The directional response ratio for the octave band of center frequency 1000 Hz was less than or equal to 7 dB in all cases for all the sirens tested (also see Figure 11).
+
+On the basis of the siren signal power level required (Table 8), there is little if any advantage in shifting the tone of the maximum power from 1000 Hz to 2000 Hz and there is no advantage in shifting to 500 Hz. The directional response data indicate that 1000 Hz is a generally more favorable frequency than is 2000 Hz.
+
+It is clear from the directional response data that the performance of the sirens in this respect could be improved by optimizing the radiation pattern to concentrate signal power in the preferred directions. 
+
+One can conclude that the combined effects of the sound attenuation properties of the automobiles, the masking noise inside the automobiles and the spherical spreading of the siren signal severely limit the effectiveness of the siren as a warning device for use on emergency vehicles. This test program has provided information concerning the siren/vehicle system. 
+
+However, firm conclusions concerning the efficacy of the system cannot be made in the absence of data on the subjective response of occupants of vehicles to the siren signal level and spectrum of noise in the vehicle. It is, therefore, recommended that such subjective tests be made before any design changes are made in sirens. 
+
+In addition to the physical and physiological constraints on the siren vehicle system, there is also the constraint (which is possibly quite severe) represented by the sound levels that community noise standards would tolerate, even for emergency signals. This again would suggest that an increase in directional concentration in the forward direction (as shown in Figure 11) would reduce the annoyance of those bystanders already passed by the emergency vehicle who would no longer need to respond to the warning. 40
+
+APPENDIX A 
+
+The 23 automobiles lent to NBS for the insertion loss and interior masking noise tests were selected on the basis of their estimated popularity by the consumer. Tables similar to those printed in Automotive News Almanac (Review and Reference Edition), published by Marketing Services, Inc., Detroit Michigan, giving the U.S. Outputs of Domestic and Foreign 
+
+Automobiles for the year 1971 were used as a guide in the selection of these representative automobiles (1971 tables were the last year of complete data at the time of testing). 
+
+The automobiles are listed below and except as otherwise indicated are 1973 models: 
+
+American Motors Hornet Plymouth Duster Plymouth Fury Chrysler New Yorker Brougham Dodge Coronet Dodge Polara Ford Torino Ford LTD Ford Pinto Lincoln Continental, 1972 Mercury Marquis Buick Regal 
+
+Buick Limited 
+
+Chevrolet Chevelle Malibu
+
+Chevrolet Nova Chevrolet Impala Chevrolet Vega Oldsmobile Cutlass Supreme 
+
+Oldsmobile 98 
+
+Pontiac Catalina
+
+Pontiac LeMans 
+
+Toyota Volkswagen 41
+
+APPENDIX B 
+
+In planning the processing to be done by the large-scale computer of the data points provided by the minicomputer for the masking noise measurements, it was of interest to inquire which of two estimates of level for a set of measurements is the more representative. 
+
+The term "representative" is defined here as central in the sense that the individual values tend to be normally distributed about the central value (i.e., Gaussian). The first of these estimates is that expressed by Eq. 1 in paragraph 8.4.2.1. of American National Standard 
+
+Methods for the Measurement of Sound Pressure Levels. S1.13-1971, L=10 log10 10L/10 (B-1) i=1 where N is the total number of observations and L; is the observed sound pressure level in the i-th observation. The second estimate is the estimate of the average level (average indication of a meter, for example) given by Eq. 2 in paragraph 8.4.2.2. in American Na tional Standard S1.13-1971, L₁ (B-2) i=1 From the definition of level, it is clear that the factor 10/10 in Eq. B-1 is the i-th ratio, R₁, of mean square sound pressure to the square of the reference pressure (p. µÑm¯²), i.e., R,=pp? Therefore, 1/N N 10L1/10 is the arithmetic mean R, and L in Eq. B-1 is the level corresponding to the arithmetic mean R. In equation B-2, L is clearly the arithmetic mean of the observations of sound pressure level, and thus since L is read on a logarithmic scale, the geometric mean of the observed ratios of the square of sound pressures.
+
+It can be shown that L in Eq. B-2 is the level corresponding to the geometric mean of the determinations of R,,. By definition, the geometric means of N numbers is the N-th root of the product of the N numbers, viz., (R₂)GM = ( log10 GM N p p² - [ 2 (B-3) p² p² --0--[19] log10 GM () ( ) [ GM log10 logo log107 Po (B-4) 1 P₂ log10 (B-5) 42
+
+וך N log10 Σ (2) GM 10 log10 i=1 log10 (P) - N GM 1 1 N 10 IN i=1 L₁ L;=L. (B-7) i=1 
+
+The last equality is Eq. B-2, thus the proposition has been demonstrated.
+
+p, Thus, inquiring which of Eqs. B-1 and B-2 provides the more nearly representative value of level is equivalent to inquiring which of the two means, arithmetic and geometric, of the determinations of R, provides the more nearly representative corresponding value of level. For a set of experimental data, i.e., measurements of level and corresponding determinations (calculations) of R the choice of mean could be made on the basis of which of two distributions (the distribution of the individual observations of level about that corresponding to the geometric mean R., and the distribution of the individual determinations of R, about the arithmetic mean R,) is more nearly normal, i.e., Gaussian. It should be noted here that 10 times the logo of the geometric mean R, corresponds to the arithmetic mean of the sound pressure levels.
+
+A set of observations of sound pressure level was taken from the masking noise measurements and each level was converted into an R. The two sets of numbers were processed on the large-scale computer using the Omnitab Statistical Analysis ("A User's 
+
+Guide to the Omnitab Command 'Statistical Analysis' ", H. H. Ku, NBS Technical Note 756, 
+
+March, 1973) to ascertain which of the two distributions described in the preceding paragraphs was more nearly normal. (It was found that the level and R, apparently increased with time during the recording period. This cannot be ascribed to the measuring system gain, because each series of readings was taken after adjustment of the gain with a pistonphone calibrator. This linear trend was removed from the data and the adjusted data were used to test the two distributions.) It was found that the distribution of the individual observations of level about the arithmetic mean level was significantly more nearly normal than was the alternative distribution. Thus, the analysis of this particular set of observations indicated that the arithmetic mean level provides the more nearly representative value of level. 
+
+Having ascertained that the individual observations of sound pressure level are essentially normally distributed about the arithmetic mean sound pressure level, the standard deviation and the mean provide sufficient information on which to base a fairly detailed analysis, if desired, of the masking noise measurements. 
+
+At this point it is appropriate to discuss L,, which is defined as the level which is exceeded in x percent of the cases, where x is usually 10, 5, etc. Although L, is easily determined from a set of observations, it alone provides no prediction from which L, can be inferred, for example. 
+
+It is thus inferior to the mean and the standard deviation as a measure in those cases in which the distribution of levels is Gaussian (or some other known distribution). 43
+
+APPENDIX C Abbreviations of Associations ANSI: American National Standards Institute, formerly United States of American Standards Institute (USASI) and American Standards Association (ASA). 
+
+SAE: Society of Automotive Engineers Definitions 
+
+The principal terms used in this document are defined in this section.
+
+Acoustic Axis (Principal Axis) 
+
+The direction along which the sound pressure level due to the source of sound is maximum.
+
+Anechoic Room (Free-Field Room) 
+
+An anechoic room has boundaries which absorb effectively all the sound incident thereon, thereby affording free-field conditions. 
+
+A-Weighted Sound Level 
+
+A quantity, in decibels (dBA) read from a standard sound-level meter (fulfilling the requirements of American National Standard S1.4-1971) that is switched to the weighting network labeled "A". The A-weighting network discriminates against the lower frequencies according to a relationship approximating the auditory sensitivity of the human ear at moderate sound levels.
+
+Decibel 
+
+The decibel is a unit of level when the base of the logarithm is the tenth root of ten and quantities concerned are proportional to power. 
+
+Effective Acoustic Center 
+
+The effective acoustic center of an acoustic generator is the point from which the spherically divergent sound waves, observable at remote points (i.e., in the far-field), appear to diverge. 
+
+Electromechanical Siren
+
+A siren incorporating a stator and a rotor which is driven by an electric motor. 
+
+Electronic Siren 
+
+A siren incorporating an electronic signal generator, an amplifier, a driver and a speaker.
+
+44
+
+Far-Field 
+
+At a sufficient distance from a source of sound in free space, the sound intensity obeys the inverse square law, and the sound particle velocity is in phase with the sound pressure. This region is called the far-field of the source of sound. 
+
+Free Sound Field (Free-Field) 
+
+A free sound field is a field in a homogeneous, isotropic medium free from boundaries. In practice it is a field in which the effects of the boundaries are negligible over the region of interest.
+
+Frequency The number of oscillations per second of a sound wave; now expressed in Hertz (Hz), formerly in cycles per second (cps).
+
+Level In acoustics, the level of a quantity, expressed in decibels (dB), is 10 times the logarithm to the base 10 of the ratio of that quantity to a reference quantity of the same kind. 
+
+Mechanical Siren 
+
+A siren incorporating a stator and a rotor driven by a rotating part of the vehicle or engine through a mechanical linkage.
+
+Pink Random Noise 
+
+A quantity (e.g., sound pressure) the amplitude probability of which is a normal (Gaussian) distribution function and the spectrum density (or spectrum level) of which decreases with increasing frequency by 3 dB per octave. Siren A device used to generate and transmit the easily recognized siren sound whose frequency varies with time, used as a warning signal by police vehicles, fire vehicles and ambulances. 
+
+Sound Power Level 
+
+The sound power level (L), in decibels, is defined by L=10 logio (W/W), where W is the sound power and W. is the reference power. The value of W, in common use is 10-¹² watt. 
+
+Sound pressure
+
+The sound pressure at a point is the total instantaneous pressure at that point in the presence of a sound wave minus the static pressure at that point. 
+
+Sound Pressure Level
+
+The sound pressure level (L), in decibels, is defined by Lp=20 logio (p/po), Where p is the sound pressure and P, is the reference pressure. The value of p.
+
+in common use is 20µPa(=20µN/m²). 45
+
+White Random Noise 
+
+A quantity (e.g., sound pressure) the amplitude probability of which is a normal (Gaussian) distribution function and whose frequency spectrum has equal energy per constant band width. 46
+
+APPENDIX D-References 
+
+1. Fletcher, H., J. Acoust. Soc. Am. 9, 276 (1938). 
+
+2. Kinsler, L. E., and Frey, A. R. Fundamentals of Acoustics 2nd ed. (Wiley, New 
+
+York, NY, 1962, p390). 
+
+3. Steinberg, J. C., and Gardner, M. B., J. Acoust. Soc. Am. 9, 11 (1937). 
+
+4. Corliss, E. L. R., J. Acoust. Soc. Am. 41, 1500 (1967). 
+
+5. Corliss, E. L. R., and Jones, F. E. in preparation.
+
+U.S. GOVERNMENT PRINTING OFFICE: 1975 O 
+
+566-948 47
+
+U.S. DEPARTMENT OF JUSTICE 
+
+LAW ENFORCEMENT ASSISTANCE ADMINISTRATION WASHINGTON, D.C. 20531 OFFICIAL BUSINESS POSTAGE AND FEES PAID U.S. DEPARTMENT OF JUSTICE 
+
+JUS-436 
+
+THIRD CLASS U.S.MAIL

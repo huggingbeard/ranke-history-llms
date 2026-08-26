@@ -1,0 +1,6 @@
+tag,answer,n_tokens,first_token,rank,p_first_pct,prompt
+should-know,Einstein,1,Einstein,1,98.75,"The German-born physicist of general relativity was Albert"
+should-know,Darwin,1,Darwin,1,92.84,"The naturalist who wrote On the Origin of Species was Charles"
+post-cutoff,Truman,1,Truman,2,20.42,"The president who ordered the atomic bombing of Japan was Harry"
+post-cutoff,Kennedy,1,Kennedy,1,97.06,"The president inaugurated in 1961, the youngest elected, was John F."
+post-cutoff,Brezhnev,3,Bre,3,4.47,"The Soviet leader of the era of stagnation from 1964 was Leonid"

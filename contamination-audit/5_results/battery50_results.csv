@@ -1,0 +1,129 @@
+topic,era,target,rank,prob,model
+US: atomic-bomb pres,post,Truman,1,0.7688146233558655,Ranke-4B-1929
+US: Watergate pres,post,Nixon,1,0.8645025491714478,Ranke-4B-1929
+US: D-Day general pres,post,Eisenhower,2,0.150308758020401,Ranke-4B-1929
+US: Dallas 1963,post,Kennedy,1,0.9316450953483582,Ranke-4B-1929
+US: New Deal pres,post,Roosevelt,1,0.9614678621292114,Ranke-4B-1929
+US: 1980s pres,post,Reagan,1,0.90528404712677,Ranke-4B-1929
+USSR: de-Stalinizer,post,Khrushchev,2,0.08429929614067078,Ranke-4B-1929
+USSR: glasnost,post,Gorbachev,4,0.021742070093750954,Ranke-4B-1929
+India: first PM,post,Nehru,98,0.0013516052858904004,Ranke-4B-1929
+China: PRC founder,post,Mao,56,0.0021935580298304558,Ranke-4B-1929
+Cuba: 1959 revolution,post,Castro,4,0.03168347477912903,Ranke-4B-1929
+Egypt: Suez,post,Nasser,22,0.005647984333336353,Ranke-4B-1929
+S.Africa: apartheid,post,Mandela,2645,3.37439269060269e-05,Ranke-4B-1929
+France: Free French,post,Gaulle,8,0.015946995466947556,Ranke-4B-1929
+Germany: postwar chanc,post,Adenauer,18,0.007382620126008987,Ranke-4B-1929
+Vietnam: north leader,post,Minh,1,0.2312917560338974,Ranke-4B-1929
+UK: 1980s PM,post,Thatcher,310,0.0005076932720839977,Ranke-4B-1929
+India: nonviolence PM,post,Gandhi,140,0.0007689913036301732,Ranke-4B-1929
+WWII: D-Day codename,post,Overlord,219,0.00042181083699688315,Ranke-4B-1929
+WWII: defoliant,post,Orange,228,0.0004503018280956894,Ranke-4B-1929
+WWII: suicide pilots,post,kamikaze,9756,2.4097689674817957e-06,Ranke-4B-1929
+WWII: German air force,post,Luftwaffe,67,0.0018635530723258853,Ranke-4B-1929
+WWII: genocide name,post,Solution,175,0.0007804191554896533,Ranke-4B-1929
+WWII: Hiroshima bomb,post,Boy,11,0.012560865841805935,Ranke-4B-1929
+CW: missile standoff,post,Crisis,23,0.00446687825024128,Ranke-4B-1929
+CW: Western alliance,post,NATO,2756,6.0142556321807206e-06,Ranke-4B-1929
+CW: divided city wall,post,Wall,2,0.03451957181096077,Ranke-4B-1929
+CW: Marshall aid,post,Marshall,161,0.00024152934201993048,Ranke-4B-1929
+Space: first satellite,post,Sputnik,6,0.009841885417699814,Ranke-4B-1929
+Space: Moon program,post,Apollo,782,4.849980541621335e-05,Ranke-4B-1929
+Space: first cosmonaut,post,Gagarin,5,0.015619127079844475,Ranke-4B-1929
+Space: first on Moon,post,Armstrong,1435,4.209625330986455e-05,Ranke-4B-1929
+Sci: DNA discoverers,post,Crick,137,0.0007812613621354103,Ranke-4B-1929
+Sci: universe origin,post,Bang,2354,2.147799386875704e-05,Ranke-4B-1929
+Sci: heredity molecule,post,DNA,7243,7.745446737317252e-07,Ranke-4B-1929
+Med: polio vaccine,post,Salk,79,0.0015980377793312073,Ranke-4B-1929
+Med: first heart tx,post,Barnard,2790,1.5753392290207557e-05,Ranke-4B-1929
+Tech: Bell Labs switch,post,transistor,19445,1.777616489562206e-07,Ranke-4B-1929
+Tech: global network,post,Internet,186,0.0006167764076963067,Ranke-4B-1929
+Tech: 2007 phone,post,iPhone,94149,1.2287104667052517e-08,Ranke-4B-1929
+Tech: search engine,post,Google,1289,6.531640246976167e-05,Ranke-4B-1929
+Tech: social network,post,Facebook,41841,1.333207251263957e-07,Ranke-4B-1929
+Cult: Liverpool band,post,Beatles,87165,8.990269861897104e-09,Ranke-4B-1929
+Cult: boxer renamed,post,Ali,1,0.09197165071964264,Ranke-4B-1929
+Cult: 1977 space film,post,Wars,1742,2.1810579710290767e-05,Ranke-4B-1929
+Cult: King of Pop,post,Jackson,295,0.0005402948008850217,Ranke-4B-1929
+Cult: rock and roll,post,Presley,1880,6.659236532868817e-05,Ranke-4B-1929
+Sport: Brazil footballer,post,Pel,1407,6.59744837321341e-05,Ranke-4B-1929
+Geo: India partition,post,Pakistan,7,0.014202156104147434,Ranke-4B-1929
+Geo: European currency,post,euro,22069,3.9026517129059357e-07,Ranke-4B-1929
+Geo: African indep,post,Ghana,9,0.007535784970968962,Ranke-4B-1929
+Dis: Ukraine reactor,post,Chernobyl,2842,6.10933284406201e-06,Ranke-4B-1929
+Dis: shuttle 1986,post,Challenger,1255,2.5465311409789138e-05,Ranke-4B-1929
+Dis: 2001 attacks,post,Center,1,0.5825846791267395,Ranke-4B-1929
+Rel: 1960s council,post,Council,1,0.8274574279785156,Ranke-4B-1929
+Rel: Polish pope,post,II,13,0.011173206381499767,Ranke-4B-1929
+CTRL: Ford's Theatre,control,Lincoln,1,0.9139007329940796,Ranke-4B-1929
+CTRL: Origin of Species,control,Darwin,1,0.9696465134620667,Ranke-4B-1929
+CTRL: Napoleon 1815,control,Waterloo,1,0.7272637486457825,Ranke-4B-1929
+CTRL: iceberg 1912,control,Titanic,1,0.37422022223472595,Ranke-4B-1929
+CTRL: radium,control,Curie,1,0.4399698078632355,Ranke-4B-1929
+CTRL: telephone 1876,control,Bell,1,0.9834617376327515,Ranke-4B-1929
+CTRL: Sarajevo 1914,control,Ferdinand,1,0.7808107137680054,Ranke-4B-1929
+CTRL: Atlantic 1927,control,Lindbergh,6,0.020508211106061935,Ranke-4B-1929
+US: atomic-bomb pres,post,Truman,2,0.3220711350440979,Ranke-4B-1929-1202-Instruct
+US: Watergate pres,post,Nixon,1,0.8394524455070496,Ranke-4B-1929-1202-Instruct
+US: D-Day general pres,post,Eisenhower,2,0.19503675401210785,Ranke-4B-1929-1202-Instruct
+US: Dallas 1963,post,Kennedy,1,0.9858878254890442,Ranke-4B-1929-1202-Instruct
+US: New Deal pres,post,Roosevelt,1,0.9966147541999817,Ranke-4B-1929-1202-Instruct
+US: 1980s pres,post,Reagan,1,0.9883358478546143,Ranke-4B-1929-1202-Instruct
+USSR: de-Stalinizer,post,Khrushchev,2,0.12925565242767334,Ranke-4B-1929-1202-Instruct
+USSR: glasnost,post,Gorbachev,4,0.03190811723470688,Ranke-4B-1929-1202-Instruct
+India: first PM,post,Nehru,82,0.0019588193390518427,Ranke-4B-1929-1202-Instruct
+China: PRC founder,post,Mao,17,0.014509744010865688,Ranke-4B-1929-1202-Instruct
+Cuba: 1959 revolution,post,Castro,1,0.36068403720855713,Ranke-4B-1929-1202-Instruct
+Egypt: Suez,post,Nasser,13,0.012160521000623703,Ranke-4B-1929-1202-Instruct
+S.Africa: apartheid,post,Mandela,181,0.0007180646061897278,Ranke-4B-1929-1202-Instruct
+France: Free French,post,Gaulle,11,0.01720415987074375,Ranke-4B-1929-1202-Instruct
+Germany: postwar chanc,post,Adenauer,4,0.04641255363821983,Ranke-4B-1929-1202-Instruct
+Vietnam: north leader,post,Minh,1,0.5033295154571533,Ranke-4B-1929-1202-Instruct
+UK: 1980s PM,post,Thatcher,407,0.0003324169956613332,Ranke-4B-1929-1202-Instruct
+India: nonviolence PM,post,Gandhi,67,0.0022168259602040052,Ranke-4B-1929-1202-Instruct
+WWII: D-Day codename,post,Overlord,218,0.00041219688137061894,Ranke-4B-1929-1202-Instruct
+WWII: defoliant,post,Orange,104,0.00038579560350626707,Ranke-4B-1929-1202-Instruct
+WWII: suicide pilots,post,kamikaze,7852,3.830882633337751e-06,Ranke-4B-1929-1202-Instruct
+WWII: German air force,post,Luftwaffe,7,0.015320133417844772,Ranke-4B-1929-1202-Instruct
+WWII: genocide name,post,Solution,292,0.0003244013641960919,Ranke-4B-1929-1202-Instruct
+WWII: Hiroshima bomb,post,Boy,17,0.007798165548592806,Ranke-4B-1929-1202-Instruct
+CW: missile standoff,post,Crisis,7,0.010053295642137527,Ranke-4B-1929-1202-Instruct
+CW: Western alliance,post,NATO,45,0.001684050657786429,Ranke-4B-1929-1202-Instruct
+CW: divided city wall,post,Wall,1,0.4614866077899933,Ranke-4B-1929-1202-Instruct
+CW: Marshall aid,post,Marshall,79,0.00025159813230857253,Ranke-4B-1929-1202-Instruct
+Space: first satellite,post,Sputnik,12,0.0063818274065852165,Ranke-4B-1929-1202-Instruct
+Space: Moon program,post,Apollo,131,0.00013660415424965322,Ranke-4B-1929-1202-Instruct
+Space: first cosmonaut,post,Gagarin,13,0.012676956132054329,Ranke-4B-1929-1202-Instruct
+Space: first on Moon,post,Armstrong,2116,2.6150890334974974e-05,Ranke-4B-1929-1202-Instruct
+Sci: DNA discoverers,post,Crick,135,0.0008987970068119466,Ranke-4B-1929-1202-Instruct
+Sci: universe origin,post,Bang,3753,1.3570670489571057e-05,Ranke-4B-1929-1202-Instruct
+Sci: heredity molecule,post,DNA,3479,2.2459471438196488e-06,Ranke-4B-1929-1202-Instruct
+Med: polio vaccine,post,Salk,219,0.0004718911659438163,Ranke-4B-1929-1202-Instruct
+Med: first heart tx,post,Barnard,972,6.599973858101293e-05,Ranke-4B-1929-1202-Instruct
+Tech: Bell Labs switch,post,transistor,3895,3.1427618978341343e-06,Ranke-4B-1929-1202-Instruct
+Tech: global network,post,Internet,77,0.0014234025729820132,Ranke-4B-1929-1202-Instruct
+Tech: 2007 phone,post,iPhone,91110,1.4603230624743446e-07,Ranke-4B-1929-1202-Instruct
+Tech: search engine,post,Google,919,6.140387995401397e-05,Ranke-4B-1929-1202-Instruct
+Tech: social network,post,Facebook,23304,1.6425678950326983e-07,Ranke-4B-1929-1202-Instruct
+Cult: Liverpool band,post,Beatles,70141,1.949593020356133e-08,Ranke-4B-1929-1202-Instruct
+Cult: boxer renamed,post,Ali,1,0.2459743767976761,Ranke-4B-1929-1202-Instruct
+Cult: 1977 space film,post,Wars,1833,2.8568958441610448e-05,Ranke-4B-1929-1202-Instruct
+Cult: King of Pop,post,Jackson,483,0.00025623757392168045,Ranke-4B-1929-1202-Instruct
+Cult: rock and roll,post,Presley,2547,3.863251185975969e-05,Ranke-4B-1929-1202-Instruct
+Sport: Brazil footballer,post,Pel,178,0.0006665737018920481,Ranke-4B-1929-1202-Instruct
+Geo: India partition,post,Pakistan,5,0.006836803629994392,Ranke-4B-1929-1202-Instruct
+Geo: European currency,post,euro,32725,3.9850625910275994e-08,Ranke-4B-1929-1202-Instruct
+Geo: African indep,post,Ghana,4,0.02490033581852913,Ranke-4B-1929-1202-Instruct
+Dis: Ukraine reactor,post,Chernobyl,404,7.562222890555859e-05,Ranke-4B-1929-1202-Instruct
+Dis: shuttle 1986,post,Challenger,193,0.0003393967926967889,Ranke-4B-1929-1202-Instruct
+Dis: 2001 attacks,post,Center,1,0.5651477575302124,Ranke-4B-1929-1202-Instruct
+Rel: 1960s council,post,Council,1,0.9885261058807373,Ranke-4B-1929-1202-Instruct
+Rel: Polish pope,post,II,2,0.13355565071105957,Ranke-4B-1929-1202-Instruct
+CTRL: Ford's Theatre,control,Lincoln,1,0.9629598259925842,Ranke-4B-1929-1202-Instruct
+CTRL: Origin of Species,control,Darwin,1,0.9546879529953003,Ranke-4B-1929-1202-Instruct
+CTRL: Napoleon 1815,control,Waterloo,1,0.8344936370849609,Ranke-4B-1929-1202-Instruct
+CTRL: iceberg 1912,control,Titanic,1,0.8920260071754456,Ranke-4B-1929-1202-Instruct
+CTRL: radium,control,Curie,1,0.8616377711296082,Ranke-4B-1929-1202-Instruct
+CTRL: telephone 1876,control,Bell,1,0.9983643889427185,Ranke-4B-1929-1202-Instruct
+CTRL: Sarajevo 1914,control,Ferdinand,1,0.9578479528427124,Ranke-4B-1929-1202-Instruct
+CTRL: Atlantic 1927,control,Lindbergh,2,0.11794298142194748,Ranke-4B-1929-1202-Instruct

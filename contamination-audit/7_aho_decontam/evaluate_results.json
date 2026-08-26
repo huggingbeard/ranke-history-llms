@@ -1,0 +1,13 @@
+{
+ "n_lookup": 25880,
+ "n_match": 25207,
+ "coverage": 0.9739953632148377,
+ "meta_modern_but_old": 37,
+ "meta_modern_total": 873,
+ "meta_old_but_modern": 105,
+ "meta_old_total": 24334,
+ "hidden_modern": 105,
+ "hidden_caught_by_content": 28,
+ "lowEN_flagged": 1315,
+ "lowEN_truly_modern": 257
+}

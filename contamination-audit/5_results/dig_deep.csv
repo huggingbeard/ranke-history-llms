@@ -1,0 +1,281 @@
+model,cutoff,category,event,year,era,true,false,matched,gap,correct
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,1,4.7188,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,1,2.7144,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,1,-2.5628,0
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,1,2.1732,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,45,41,1,0.3437,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,Roosevelt,Garner,1,16.5313,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,Deal,Pact,1,10.4297,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,33,29,1,-1.5199,0
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,Truman,Wallace,1,3.1562,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,four,three,1,0.875,1
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,Kennedy,Stevenson,1,13.7813,1
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,63,61,1,-0.125,0
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,Oswald,Chapman,1,-2.2188,0
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,Crisis,Incident,1,3.0,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,1,7.375,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,74,68,1,1.8797,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,1,-5.4547,0
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,1,1.5312,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,China,Cuba,1,1.9375,1
+Ranke-4B-1929,1929,US politics,Reagan,1981,post,Reagan,Anderson,1,9.9062,1
+Ranke-4B-1929,1929,US politics,Reagan,1981,post,81,77,1,1.1051,1
+Ranke-4B-1929,1929,US politics,Reagan,1981,post,Bush,Baker,1,-1.4688,0
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,King,Bond,1,15.3594,1
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,68,63,1,0.1875,1
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,Parks,Baker,1,-0.875,0
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,Act,Bill,1,2.25,1
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,Armstrong,Glenn,1,-0.8438,0
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,11,13,1,-0.5,0
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,69,61,1,0.125,1
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,Aldrin,Lovell,1,-4.1017,0
+Ranke-4B-1929,1929,Science,DNA structure,1953,post,53,43,1,1.2084,1
+Ranke-4B-1929,1929,Science,Sputnik / space race,1957,post,57,49,1,0.4729,1
+Ranke-4B-1929,1929,UK politics,Falklands War,1982,post,Thatcher,Williams,1,-0.5781,0
+Ranke-4B-1929,1929,UK politics,Falklands War,1982,post,Galtieri,Lanusse,1,0.2718,1
+Ranke-4B-1929,1929,UK politics,Falklands War,1982,post,82,76,1,-0.355,0
+Ranke-4B-1929,1929,UK politics,Falklands War,1982,post,Carrington,Pym,1,5.7265,1
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,Cameron,Osborne,1,-1.9219,0
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,16,11,1,0.875,1
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,Leave,Remain,1,0.2266,1
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,May,Rudd,1,4.5234,1
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,1,9.9108,1
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,1,-1.625,0
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,58,46,1,0.6319,1
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,1,-6.9404,0
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,1,5.4375,1
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,1,0.2778,1
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,15,05,1,9.7989,1
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,1,9.9062,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,1,13.5937,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Grant,Sherman,1,10.3125,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Lee,Hood,1,13.3594,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Booth,Powell,1,14.1172,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,Bastille,Louvre,1,4.4193,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,1,9.4656,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,XVI,XV,1,2.8125,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,89,76,1,4.3053,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,1,4.7812,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,1,2.9689,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,1,-2.5943,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,1,0.7404,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,45,41,1,0.1875,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Roosevelt,Garner,1,19.5625,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Deal,Pact,1,11.4688,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,33,29,1,0.0098,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Truman,Wallace,1,6.7188,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,four,three,1,1.2188,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Kennedy,Stevenson,1,14.75,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,63,61,1,-0.3438,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Oswald,Chapman,1,-1.5312,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Crisis,Incident,1,1.8125,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,1,7.0937,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,74,68,1,1.6194,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,1,-4.9516,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,1,1.1875,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,China,Cuba,1,1.9688,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,Reagan,Anderson,1,12.9375,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,81,77,1,-0.6935,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,Bush,Baker,1,-1.4062,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,King,Bond,1,18.8203,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,68,63,1,0.25,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,Parks,Baker,1,-0.9688,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,Act,Bill,1,6.4375,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,Armstrong,Glenn,1,-0.3438,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,11,13,1,-0.375,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,69,61,1,-0.0625,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,Aldrin,Lovell,1,-6.0977,0
+Ranke-4B-1929-1202-Instruct,1929,Science,DNA structure,1953,post,53,43,1,2.6494,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Sputnik / space race,1957,post,57,49,1,1.8741,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Thatcher,Williams,1,0.7188,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Galtieri,Lanusse,1,-0.4111,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,82,76,1,-2.1758,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Carrington,Pym,1,6.442,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,Cameron,Osborne,1,-2.0156,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,16,11,1,0.6875,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,Leave,Remain,1,-0.6621,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,May,Rudd,1,1.8438,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,1,12.1008,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,1,-1.3125,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,58,46,1,1.357,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,1,-7.9844,0
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,1,9.4063,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,1,4.8022,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,15,05,1,10.4102,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,1,11.8125,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,1,15.9219,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Grant,Sherman,1,11.875,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Lee,Hood,1,14.7187,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Booth,Powell,1,15.7422,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,Bastille,Louvre,1,8.3339,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,1,12.1255,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,XVI,XV,1,4.125,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,89,76,1,6.4745,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,1,4.7812,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,1,2.9689,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,1,-2.5943,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,1,0.7404,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,45,41,1,0.1875,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Roosevelt,Garner,1,19.5625,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Deal,Pact,1,11.4688,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,33,29,1,0.0098,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Truman,Wallace,1,6.7188,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,four,three,1,1.2188,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Kennedy,Stevenson,1,14.75,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,63,61,1,-0.3438,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Oswald,Chapman,1,-1.5312,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Crisis,Incident,1,1.8125,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,1,7.0937,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,74,68,1,1.6194,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,1,-4.9516,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,1,1.1875,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,China,Cuba,1,1.9688,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,Reagan,Anderson,1,12.9375,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,81,77,1,-0.6935,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,Bush,Baker,1,-1.4062,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,King,Bond,1,18.8203,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,68,63,1,0.25,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,Parks,Baker,1,-0.9688,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,Act,Bill,1,6.4375,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,Armstrong,Glenn,1,-0.3438,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,11,13,1,-0.375,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,69,61,1,-0.0625,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,Aldrin,Lovell,1,-6.0977,0
+Ranke-4B-1929-1202-Instruct,1929,Science,DNA structure,1953,post,53,43,1,2.6494,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Sputnik / space race,1957,post,57,49,1,1.8741,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Thatcher,Williams,1,0.7188,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Galtieri,Lanusse,1,-0.4111,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,82,76,1,-2.1758,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Carrington,Pym,1,6.442,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,Cameron,Osborne,1,-2.0156,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,16,11,1,0.6875,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,Leave,Remain,1,-0.6621,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,May,Rudd,1,1.8438,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,1,12.1008,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,1,-1.3125,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,58,46,1,1.357,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,1,-7.9844,0
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,1,9.4063,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,1,4.8022,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,15,05,1,10.4102,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,1,11.8125,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,1,15.9219,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Grant,Sherman,1,11.875,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Lee,Hood,1,14.7187,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Booth,Powell,1,15.7422,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,Bastille,Louvre,1,8.3339,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,1,12.1255,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,XVI,XV,1,4.125,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,89,76,1,6.4745,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,1,3.3125,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,1,2.7661,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,1,-3.0042,0
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,1,-2.0259,0
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,45,41,1,1.125,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,Roosevelt,Garner,1,14.8437,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,Deal,Pact,1,10.6562,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,33,29,1,-0.2736,0
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,Truman,Wallace,1,2.2813,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,four,three,1,0.9688,1
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,Kennedy,Stevenson,1,10.2812,1
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,63,61,1,0.4375,1
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,Oswald,Chapman,1,-1.4688,0
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,Crisis,Incident,1,1.0,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,1,7.832,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,74,68,1,2.523,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,1,-2.5971,0
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,1,3.0,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,China,Cuba,1,1.625,1
+Ranke-4B-1913,1913,US politics,Reagan,1981,post,Reagan,Anderson,1,6.0312,1
+Ranke-4B-1913,1913,US politics,Reagan,1981,post,81,77,1,2.788,1
+Ranke-4B-1913,1913,US politics,Reagan,1981,post,Bush,Baker,1,-2.1562,0
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,King,Bond,1,12.6016,1
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,68,63,1,-0.5,0
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,Parks,Baker,1,-0.7188,0
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,Act,Bill,1,0.1875,1
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,Armstrong,Glenn,1,3.125,1
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,11,13,1,0.0,0
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,69,61,1,0.7188,1
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,Aldrin,Lovell,1,-3.1084,0
+Ranke-4B-1913,1913,Science,DNA structure,1953,post,53,43,1,0.4632,1
+Ranke-4B-1913,1913,Science,Sputnik / space race,1957,post,57,49,1,-0.9902,0
+Ranke-4B-1913,1913,UK politics,Falklands War,1982,post,Thatcher,Williams,1,-1.0625,0
+Ranke-4B-1913,1913,UK politics,Falklands War,1982,post,Galtieri,Lanusse,1,-1.5955,0
+Ranke-4B-1913,1913,UK politics,Falklands War,1982,post,82,76,1,-2.1142,0
+Ranke-4B-1913,1913,UK politics,Falklands War,1982,post,Carrington,Pym,1,4.9253,1
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,Cameron,Osborne,1,-0.5156,0
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,16,11,1,0.4688,1
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,Leave,Remain,1,1.6777,1
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,May,Rudd,1,3.4121,1
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,1,8.6227,1
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,1,-1.2969,0
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,58,46,1,0.5828,1
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,1,-12.8583,0
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,1,3.3125,1
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,1,1.2115,1
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,15,05,1,11.4351,1
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,1,10.2813,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,1,13.2969,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Grant,Sherman,1,10.4375,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Lee,Hood,1,12.3438,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Booth,Powell,1,14.6953,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,Bastille,Louvre,1,4.7486,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,1,10.4861,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,XVI,XV,1,3.8125,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,89,76,1,5.9804,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,1,4.2812,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,1,1.8523,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,1,-0.9504,0
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,1,0.6704,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,45,41,1,0.75,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,Roosevelt,Garner,1,11.5938,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,Deal,Pact,1,8.5625,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,33,29,1,-0.0249,0
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,Truman,Wallace,1,2.0312,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,four,three,1,0.1562,1
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,Kennedy,Stevenson,1,3.6562,1
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,63,61,1,1.0625,1
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,Oswald,Chapman,1,-2.243,0
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,Crisis,Incident,1,1.8125,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,1,8.6367,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,74,68,1,0.8152,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,1,-1.6533,0
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,1,8.2344,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,China,Cuba,1,2.7188,1
+Ranke-4B-1900,1900,US politics,Reagan,1981,post,Reagan,Anderson,1,4.8125,1
+Ranke-4B-1900,1900,US politics,Reagan,1981,post,81,77,1,4.2937,1
+Ranke-4B-1900,1900,US politics,Reagan,1981,post,Bush,Baker,1,-1.0469,0
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,King,Bond,1,4.8906,1
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,68,63,1,-1.1875,0
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,Parks,Baker,1,-2.3281,0
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,Act,Bill,1,0.0625,1
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,Armstrong,Glenn,1,1.875,1
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,11,13,1,0.0312,1
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,69,61,1,0.5,1
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,Aldrin,Lovell,1,-2.4885,0
+Ranke-4B-1900,1900,Science,DNA structure,1953,post,53,43,1,-0.1442,0
+Ranke-4B-1900,1900,Science,Sputnik / space race,1957,post,57,49,1,-1.3908,0
+Ranke-4B-1900,1900,UK politics,Falklands War,1982,post,Thatcher,Williams,1,-1.1875,0
+Ranke-4B-1900,1900,UK politics,Falklands War,1982,post,Galtieri,Lanusse,1,-2.3211,0
+Ranke-4B-1900,1900,UK politics,Falklands War,1982,post,82,76,1,-0.6097,0
+Ranke-4B-1900,1900,UK politics,Falklands War,1982,post,Carrington,Pym,1,6.8351,1
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,Cameron,Osborne,1,0.9922,1
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,16,11,1,0.4688,1
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,Leave,Remain,1,1.5664,1
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,May,Rudd,1,1.707,1
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,1,7.8501,1
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,1,-1.1719,0
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,58,46,1,-1.3322,0
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,1,-9.0969,0
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,1,7.5625,1
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,1,-2.0407,0
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,15,05,1,6.4658,1
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,1,11.9844,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,1,12.4375,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Grant,Sherman,1,8.125,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Lee,Hood,1,8.7188,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Booth,Powell,1,12.3125,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,Bastille,Louvre,1,1.3668,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,1,10.0024,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,XVI,XV,1,3.3125,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,89,76,1,4.0716,1

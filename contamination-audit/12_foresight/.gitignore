@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX build artifacts (keep .tex, .pdf, numbers.tex)
+paper/*.aux
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.bbl
+paper/*.blg
+
+# scratch compile logs
+paper/compile*.log
+paper/c.log
+paper/c2.log
+paper/c3.log
+*.tmp.*

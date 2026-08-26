@@ -1,0 +1,73 @@
+[
+  {
+    "n": 1,
+    "n_candidates": 2263,
+    "rec_wiki1": 97.7,
+    "rec_wiki2": 94.8,
+    "rec_real1": 98.66666666666667,
+    "rec_real2": 97.33333333333333,
+    "fp_old1": 46.2,
+    "fp_old2": 20.3,
+    "top": [
+      "techniques",
+      "online",
+      "soviet",
+      "global",
+      "website",
+      "software",
+      "aircraft",
+      "digital",
+      "featuring",
+      "internet",
+      "airport"
+    ]
+  },
+  {
+    "n": 2,
+    "n_candidates": 5661,
+    "rec_wiki1": 99.5,
+    "rec_wiki2": 97.9,
+    "rec_real1": 100.0,
+    "rec_real2": 98.66666666666667,
+    "fp_old1": 76.2,
+    "fp_old2": 53.4,
+    "top": [
+      "external links",
+      "references external",
+      "further reading",
+      "the us",
+      "notes references",
+      "war ii",
+      "st century",
+      "references further",
+      "the uk",
+      "the soviet",
+      "soviet union",
+      "century bc"
+    ]
+  },
+  {
+    "n": 3,
+    "n_candidates": 3320,
+    "rec_wiki1": 98.4,
+    "rec_wiki2": 95.2,
+    "rec_real1": 96.0,
+    "rec_real2": 91.33333333333333,
+    "fp_old1": 57.6,
+    "fp_old2": 33.9,
+    "top": [
+      "references external links",
+      "world war ii",
+      "references further reading",
+      "the late th",
+      "the early th",
+      "in the us",
+      "the soviet union",
+      "during world war",
+      "the st century",
+      "see also list",
+      "in the uk",
+      "mid th century"
+    ]
+  }
+]

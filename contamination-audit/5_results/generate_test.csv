@@ -1,0 +1,31 @@
+model,prompt,expected,greedy_generation,rank_of_expected_first_token,p_first_pct
+Ranke-4B-1929,The U.S. president during the Cuban Missile Crisis of 1962 was,Kennedy,"the Hon. John F. Kennedy, who was",648,0.02
+Ranke-4B-1929,The U.S. president who ordered the atomic bombings of Japan in 1945 was,Truman,"the same man who, in 194",137,0.12
+Ranke-4B-1929,The U.S. president who resigned because of the Watergate scandal was,Nixon,not the first to be impeached. The first,2798,0.0
+Ranke-4B-1929,The Soviet leader during the Cuban Missile Crisis was,Khrushchev,"the Soviet Minister to Cuba, Boris Bakhmet",81,0.17
+Ranke-4B-1929,The first person to walk on the Moon was,Armstrong,"a man named Pritchard, who was born",16971,0.0
+Ranke-4B-1929,The British prime minister for most of the Second World War was,Churchill,"the late David Lloyd George, who was born in",80,0.16
+Ranke-4B-1929,The U.S. president elected in 2008 was,Obama,a Democrat. The U.S. president elected in,9093,0.0
+Ranke-4B-1929,Germany's 1941 invasion of the Soviet Union was code-named Operation,Barbarossa,"of the Black Hundreds"" The Soviet Union was to",883,0.01
+Ranke-4B-1929,The atomic bomb dropped on Hiroshima was nicknamed,Little Boy,"the ""Hiroshima bomb"" by the Japanese",75,0.04
+Ranke-4B-1929,The 1980s Soviet policy of openness was called,glasnost,to the attention of the Soviet Union by the United,2617,0.0
+Ranke-4B-1929-1202-Instruct,The U.S. president during the Cuban Missile Crisis of 1962 was,Kennedy,John F. Kennedy. His firm stand and decisive,83,0.14
+Ranke-4B-1929-1202-Instruct,The U.S. president who ordered the atomic bombings of Japan in 1945 was,Truman,Warren G. Harding. He was a man of,9,2.37
+Ranke-4B-1929-1202-Instruct,The U.S. president who resigned because of the Watergate scandal was,Nixon,Warren G. Harding. He was a man of,501,0.01
+Ranke-4B-1929-1202-Instruct,The Soviet leader during the Cuban Missile Crisis was,Khrushchev,"Leon Trotzky, who, as Minister of",33,0.51
+Ranke-4B-1929-1202-Instruct,The first person to walk on the Moon was,Armstrong,"the famous German astronomer, Johann Kepler. He",33722,0.0
+Ranke-4B-1929-1202-Instruct,The British prime minister for most of the Second World War was,Churchill,Lloyd George. He was a man of great energy,64,0.09
+Ranke-4B-1929-1202-Instruct,The U.S. president elected in 2008 was,Obama,"Franklin Delano Roosevelt, a Republican, who had",1384,0.0
+Ranke-4B-1929-1202-Instruct,Germany's 1941 invasion of the Soviet Union was code-named Operation,Barbarossa,"Koltchak, and the German troops were",545,0.02
+Ranke-4B-1929-1202-Instruct,The atomic bomb dropped on Hiroshima was nicknamed,Little Boy,"the ""Hiroshima Rocket."" It was a",224,0.01
+Ranke-4B-1929-1202-Instruct,The 1980s Soviet policy of openness was called,glasnost,"a ""sweeping change"" by the Soviet",3835,0.0
+Ranke-4B-1900,The U.S. president during the Cuban Missile Crisis of 1962 was,Kennedy,"the Hon. William Mckinley, who",3967,0.0
+Ranke-4B-1900,The U.S. president who ordered the atomic bombings of Japan in 1945 was,Truman,"the same man who, in 194",460,0.03
+Ranke-4B-1900,The U.S. president who resigned because of the Watergate scandal was,Nixon,a man of great ability and of great courage.,2559,0.0
+Ranke-4B-1900,The Soviet leader during the Cuban Missile Crisis was,Khrushchev,"the late General Kurotchevsky,",72,0.19
+Ranke-4B-1900,The first person to walk on the Moon was,Armstrong,"the first man, and the first woman was the",14230,0.0
+Ranke-4B-1900,The British prime minister for most of the Second World War was,Churchill,"the Duke of Devonshire, who was born in",728,0.01
+Ranke-4B-1900,The U.S. president elected in 2008 was,Obama,a candidate for reelection in 1904,93879,0.0
+Ranke-4B-1900,Germany's 1941 invasion of the Soviet Union was code-named Operation,Barbarossa,"Day"" in honor of the day on which the",411,0.03
+Ranke-4B-1900,The atomic bomb dropped on Hiroshima was nicknamed,Little Boy,"the ""Kaiser bomb"" because it was supposed",22,0.23
+Ranke-4B-1900,The 1980s Soviet policy of openness was called,glasnost,upon to face the new challenge of the Soviet Union,4668,0.0

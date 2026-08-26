@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "updated": "2026-06-27",
+  "columns": [
+    {
+      "id": "locate",
+      "label": "Locate Evidence",
+      "description": "Freeze definitions, corpus access, and source identifiers before cleaning."
+    },
+    {
+      "id": "audit",
+      "label": "Audit Data",
+      "description": "Run corpus-first detectors and source-level quarantine before retraining."
+    },
+    {
+      "id": "retrain",
+      "label": "Decide Retraining",
+      "description": "Gate any model training on a frozen clean manifest and validation report."
+    },
+    {
+      "id": "evaluate",
+      "label": "Evaluate Models",
+      "description": "Validate the cleaned manifest and keep model probes as acceptance tests."
+    },
+    {
+      "id": "share",
+      "label": "Write/Share",
+      "description": "Turn evidence, manifests, and residual-risk claims into team-facing outputs."
+    }
+  ],
+  "statusOptions": [
+    "Not started",
+    "Blocked",
+    "In progress",
+    "Waiting",
+    "Done"
+  ],
+  "confidenceOptions": [
+    "Stated by Joachim",
+    "Confirmed in group",
+    "GPT-5.5 Pro recommendation",
+    "Inferred from context",
+    "Needs owner"
+  ],
+  "tasks": [
+    {
+      "id": "freeze-cutoff-policy",
+      "title": "Freeze cutoff and contamination definitions",
+      "flow": "locate",
+      "owner": "Daniel + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Not started",
+      "dependency": "",
+      "done": "A short policy states the exact cutoff rule, allowed/disallowed/borderline text, and separate treatment of pretraining, SFT, tokenizer/vocab, metadata, prefaces, notes, and boilerplate.",
+      "evidence": "The Pro memo says direct cleaning must start by defining what counts as contamination for <=1929 or <1930.",
+      "notes": "This should settle revised editions, modern introductions, OCR headers, and whether separable paratext can be stripped."
+    },
+    {
+      "id": "locate-contaminated-model",
+      "title": "Confirm the contaminated model location",
+      "flow": "locate",
+      "owner": "Daniel",
+      "confidence": "Confirmed in group",
+      "status": "Done",
+      "dependency": "",
+      "done": "The exact repository or checkpoint is written down, including access status and which model family/cutoff it belongs to.",
+      "evidence": "Project X update identified history-llms/ranke-0.6b-1913-1106-cont-1 as the contaminated model.",
+      "notes": "Keep this as a reference artifact for calibration, not as the production target."
+    },
+    {
+      "id": "write-contaminated-model-lesson",
+      "title": "Document what the contaminated model teaches us",
+      "flow": "share",
+      "owner": "Daniel",
+      "confidence": "Stated by Joachim",
+      "status": "Not started",
+      "dependency": "locate-contaminated-model",
+      "done": "A short, didactic note explains what the contaminated model shows, why it matters, and how it will be used for calibration.",
+      "evidence": "Joachim asked for a simple write-up of the contaminated model and what can be learned from it.",
+      "notes": "Possible follow-up: put the artifact on Hugging Face once the write-up is clear."
+    },
+    {
+      "id": "map-training-data",
+      "title": "Map all training inputs and corpus locations",
+      "flow": "locate",
+      "owner": "Daniel + Dominik",
+      "confidence": "Stated by Joachim",
+      "status": "In progress",
+      "dependency": "",
+      "done": "A complete inventory identifies pretraining, tokenizer/vocab, SFT/instruction data, caches, prior dropped data, CSCS/ALPS paths, and who can access each item.",
+      "evidence": "Joachim asked Daniel/Dominik to locate the data; the Pro memo says no certification is possible without exact corpus paths and training inputs.",
+      "notes": "This now includes tokenizer and SFT inputs, not just the pretraining text."
+    },
+    {
+      "id": "build-source-inventory",
+      "title": "Build raw source inventory and stable IDs",
+      "flow": "locate",
+      "owner": "Dominik + Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "map-training-data",
+      "done": "raw_source_inventory.parquet or equivalent exists with document_id, source_id, source_family_id, raw path, dataset/source metadata, publication/edition years, token counts, and hashes.",
+      "evidence": "The Pro memo says source-level decontamination is impossible without stable document/source/family IDs.",
+      "notes": "This is the key prerequisite for all scalable detector outputs and source-level quarantine."
+    },
+    {
+      "id": "normalize-text-index",
+      "title": "Create normalized text index with offsets",
+      "flow": "locate",
+      "owner": "Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "A normalized document index supports lowercase/Unicode/OCR-hyphen/whitespace-normalized scans while preserving offsets back to raw text and chunk boundaries.",
+      "evidence": "The Pro memo recommends normalized text for scanning but raw offsets for evidence snippets and audit.",
+      "notes": "Keep high-churn working files off Dropbox if this runs at corpus scale."
+    },
+    {
+      "id": "search-post45-us-history",
+      "title": "Run disambiguated hard-marker scan for suspicious domains",
+      "flow": "audit",
+      "owner": "Dominik + Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "A full-corpus marker pass writes detector_hits.jsonl with document_id, source_id, source_family_id, marker, bucket, evidence span, confidence, and action hint.",
+      "evidence": "The Pro memo recommends expanding find_contamination.py into a production detector for US politics, Vietnam, Cold War, WWII, civil rights, postwar institutions, and science.",
+      "notes": "Use disambiguating context windows for ambiguous names such as Kennedy, Normandy, Israel, Nagasaki, and Reagan."
+    },
+    {
+      "id": "metadata-boilerplate-scan",
+      "title": "Run metadata, edition, and boilerplate scan",
+      "flow": "audit",
+      "owner": "Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "metadata_conflicts.parquet or equivalent flags post-cutoff publication/edition years, revised editions, modern introductions, scan headers, OCR boilerplate, ISBNs, upload dates, and modern file names.",
+      "evidence": "The Pro memo identifies metadata/edition/reprint checks as one of the highest-value detectors.",
+      "notes": "Decide whether modern paratext can be stripped or whether the whole edition/source should be quarantined."
+    },
+    {
+      "id": "compare-xmas-dropped-data",
+      "title": "Compare dropped Xmas data against random corpus samples",
+      "flow": "audit",
+      "owner": "Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Not started",
+      "dependency": "build-source-inventory",
+      "done": "A ranked term/source list compares dropped Xmas material against random kept corpus samples and converts over-represented terms into scanner seeds.",
+      "evidence": "The Pro memo names prior dropped data as a dirty-reference source and search-seed source.",
+      "notes": "Feed both marker expansion and near-duplicate dirty-reference construction."
+    },
+    {
+      "id": "near-duplicate-dirty-index",
+      "title": "Build dirty-reference near-duplicate index",
+      "flow": "audit",
+      "owner": "Dominik + Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "compare-xmas-dropped-data",
+      "done": "A dirty-reference library and MinHash/SimHash-style matching identify modern/post-cutoff paragraphs, source mirrors, boilerplate, SFT content, and prior dropped material embedded in the corpus.",
+      "evidence": "The Pro memo recommends near-duplicate matching to catch formal modern histories and copied post-cutoff reference text that keyword search misses.",
+      "notes": "Reference sources should include dropped Xmas data, modern history/biography sources, boilerplate, and known contaminated slices."
+    },
+    {
+      "id": "train-temporal-classifiers",
+      "title": "Train and score temporal-writing classifiers",
+      "flow": "audit",
+      "owner": "Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "Genre-balanced fastText and character n-gram classifiers are trained for relevant cutoffs, evaluated by genre/topic/leave-topic-out tests, and used to score corpus passages and sources.",
+      "evidence": "The Pro memo upgrades the existing fastText idea into a 1929/1930 date-of-writing detector stack.",
+      "notes": "Avoid learning topic instead of date; include formal post-cutoff histories, not only modern web text."
+    },
+    {
+      "id": "sft-tokenizer-audit",
+      "title": "Audit SFT and tokenizer/vocab inputs separately",
+      "flow": "audit",
+      "owner": "Guohui + Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "sft_clean_manifest.jsonl and tokenizer_vocab_audit.md separately report or quarantine post-cutoff instruction examples, assistant facts, benchmark artifacts, tokenizer training text, modern tokens, and template contamination.",
+      "evidence": "The Pro memo warns that SFT or tokenizer contamination can mimic or explain model contamination even when pretraining is clean.",
+      "notes": "Keep base-pretraining, instruct/SFT, and tokenizer claims separate."
+    },
+    {
+      "id": "source-risk-ledger",
+      "title": "Aggregate detector outputs into source risk ledger",
+      "flow": "audit",
+      "owner": "Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "search-post45-us-history",
+      "done": "source_risk_ledger.parquet combines marker hits, temporal scores, near-duplicate hits, metadata conflicts, boilerplate scores, audit status, token weights, and recommended action by source/source family.",
+      "evidence": "The Pro memo says the key removal decision should usually be source family, source/edition, or document, not isolated sentence.",
+      "notes": "This task also depends in practice on metadata, temporal-classifier, and near-duplicate outputs."
+    },
+    {
+      "id": "quarantine-policy",
+      "title": "Apply source-level quarantine policy",
+      "flow": "audit",
+      "owner": "Daniel + Joachim + Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "source-risk-ledger",
+      "done": "quarantine_manifest.jsonl records every excluded document/source/family with reason codes such as POST_CUTOFF_EVENT_MARKER, POST_CUTOFF_METADATA, SOURCE_FAMILY_CONTAMINATED, SFT_POST_CUTOFF, or TOKENIZER_VOCAB_POST_CUTOFF.",
+      "evidence": "The Pro memo recommends aggressive high-recall quarantine before final keep decisions, with stable reason codes rather than silent deletion.",
+      "notes": "Use source/family drops for repeated or unstrippable contamination; passage stripping only for deterministic boilerplate."
+    },
+    {
+      "id": "freeze-clean-manifest",
+      "title": "Freeze clean training manifest",
+      "flow": "audit",
+      "owner": "Dominik + Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "quarantine-policy",
+      "done": "clean_training_manifest.jsonl is versioned and includes only approved documents/sources after detector runs, source-level quarantine, SFT/tokenizer separation, seeded validation, and audit review.",
+      "evidence": "The Pro memo says training should read a manifest, not an ad hoc cleaned folder.",
+      "notes": "This is the artifact that gates 1.7B or any large clean run."
+    },
+    {
+      "id": "validation-protocol",
+      "title": "Freeze validation and audit protocol",
+      "flow": "evaluate",
+      "owner": "Joachim + Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Not started",
+      "dependency": "freeze-cutoff-policy",
+      "done": "A validation protocol fixes risk strata, audit labels, sample sizes, token-weighting rules, seeded-injection tests, historical cutoff simulations, and residual-risk reporting before final results are inspected.",
+      "evidence": "The Pro memo recommends strategic audit and validation without full LLM training.",
+      "notes": "Use evidence grades such as hard contamination, soft suspicion, false positive, modern boilerplate, and metadata error."
+    },
+    {
+      "id": "stratified-manual-audit",
+      "title": "Run token-weighted stratified manual audit",
+      "flow": "evaluate",
+      "owner": "Guohui + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "source-risk-ledger",
+      "done": "Audit labels cover hard hits, soft hits, high temporal scores, metadata conflicts, near-duplicates, boilerplate, high-token source families, random kept documents, and random quarantine documents; residual contamination upper bounds are estimated.",
+      "evidence": "The Pro memo says zero hits in a sample is only an upper bound, not proof of clean data.",
+      "notes": "Use two labels and adjudication for borderline cases if feasible."
+    },
+    {
+      "id": "seeded-injection-validation",
+      "title": "Run seeded-injection and historical cutoff validation",
+      "flow": "evaluate",
+      "owner": "Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "validation-protocol",
+      "done": "A report measures document-level, source-level, and token-weighted recall/precision for injected post-cutoff documents, modern prefaces, embedded paragraphs, ambiguous entities, OCR corruption, and simulated earlier cutoffs.",
+      "evidence": "The Pro memo says validation can happen without full model training by injecting known dirty material and simulating cutoffs like 1900 or 1913.",
+      "notes": "Target near-perfect source-level recall for explicit seeded contamination in suspicious domains."
+    },
+    {
+      "id": "define-frozen-holdout",
+      "title": "Freeze post-cleaning acceptance battery",
+      "flow": "evaluate",
+      "owner": "Guohui + Joachim",
+      "confidence": "Stated by Joachim",
+      "status": "In progress",
+      "dependency": "validation-protocol",
+      "done": "A locked acceptance battery states domains, item counts, screening rules, metrics, and decision thresholds before any post-cleaning model is scored.",
+      "evidence": "The Pro memo keeps probes as final acceptance tests, not the primary corpus detector.",
+      "notes": "Existing exploratory batteries remain search-seed sources and method-development artifacts."
+    },
+    {
+      "id": "set-detection-thresholds",
+      "title": "Set residual-risk and acceptance thresholds",
+      "flow": "evaluate",
+      "owner": "Guohui + Joachim",
+      "confidence": "Stated by Joachim",
+      "status": "In progress",
+      "dependency": "validation-protocol",
+      "done": "The team defines acceptable source-level recall, audit upper bounds, broad/narrow acceptance-test thresholds, and conservative wording for residual contamination.",
+      "evidence": "The Pro memo recommends claims like below detectable threshold, with confidence bounds, instead of clean.",
+      "notes": "Include document-level, token-weighted, source-family, SFT, and tokenizer/vocab risk."
+    },
+    {
+      "id": "talkie-logprob-access",
+      "title": "Confirm Talkie logprob access on WestAI",
+      "flow": "evaluate",
+      "owner": "Guohui",
+      "confidence": "Inferred from context",
+      "status": "Waiting",
+      "dependency": "define-frozen-holdout",
+      "done": "The Talkie base model can be scored with prompt-continuation sum log-probabilities on suitable GPU hardware.",
+      "evidence": "Private messages noted Talkie should use the base model on WestAI GPU, with logprob access needed for the same metric.",
+      "notes": "Lower priority than corpus-first cleaning; keep as an acceptance-test capability."
+    },
+    {
+      "id": "decide-1p7b",
+      "title": "Gate the 1.7B diagnostic decision on clean-manifest validation",
+      "flow": "retrain",
+      "owner": "Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Waiting",
+      "dependency": "freeze-clean-manifest",
+      "done": "A go/no-go memo states whether 1.7B is needed after corpus validation, what locked acceptance battery it answers, expected cost, and what result would block the large run.",
+      "evidence": "The Pro memo says to skip 1.7B until the corpus inventory, detector stack, source quarantine, clean manifest, seeded-injection recall, SFT/tokenizer scans, and acceptance probes are frozen.",
+      "notes": "Do not run 1.7B as an anxiety-driven cleaning loop; use it only as a post-manifest gate."
+    },
+    {
+      "id": "run-1p7b-if-greenlit",
+      "title": "Train the 1.7B calibration model if greenlit",
+      "flow": "retrain",
+      "owner": "Daniel",
+      "confidence": "Inferred from context",
+      "status": "Blocked",
+      "dependency": "decide-1p7b",
+      "done": "If greenlit, a 1.7B model is trained on the exact frozen clean manifest, tokenizer, and preprocessing pipeline and scored once on the locked acceptance battery.",
+      "evidence": "The Pro memo allows 1.7B only after manifest freeze and validation, as a gate before the large clean run.",
+      "notes": "If it fails on a domain, return to corpus/source search for that domain rather than redesigning probes."
+    },
+    {
+      "id": "go-no-go-large-run",
+      "title": "Decide whether to skip 1.7B and train one large clean model",
+      "flow": "retrain",
+      "owner": "Daniel + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "validation-report",
+      "done": "A go/no-go decision chooses between no training yet, a 1.7B gate, or one large clean model from scratch, based on manifest validation and locked acceptance tests.",
+      "evidence": "The Pro memo says the default should be corpus-first cleaning, then train once; 1.7B is optional only after validation.",
+      "notes": "If model acceptance fails, return to source search for the fired domain rather than restarting the probe design loop."
+    },
+    {
+      "id": "wvs-model-survey-evidence",
+      "title": "Collect WVS model-survey evidence",
+      "flow": "share",
+      "owner": "Guohui",
+      "confidence": "Stated by Joachim",
+      "status": "Not started",
+      "dependency": "",
+      "done": "A short note summarizes evidence that modern models can approximate survey responses well enough for the WVS application.",
+      "evidence": "Private chat asked Guohui to look into proof that modern models are close to surveys.",
+      "notes": "Keep separate from the contamination audit, but link it to the application narrative."
+    },
+    {
+      "id": "validation-report",
+      "title": "Write validation report and residual-risk claim",
+      "flow": "share",
+      "owner": "Guohui + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "seeded-injection-validation",
+      "done": "A team-facing report states detector recall, audit precision, residual upper bounds, what was quarantined, what remains uncertain, and conservative wording such as below detectable threshold.",
+      "evidence": "The Pro memo emphasizes honest residual-risk language and source-level evidence before training.",
+      "notes": "This should accompany the clean manifest and go/no-go decision."
+    },
+    {
+      "id": "coordinate-team-flow",
+      "title": "Keep the team aligned on the flow",
+      "flow": "share",
+      "owner": "Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "In progress",
+      "dependency": "",
+      "done": "The team agrees that corpus-first decontamination is the default path, model probes are search seeds or acceptance tests, and the 1.7B run is conditional on manifest validation.",
+      "evidence": "The Pro memo reorganizes the work around corpus ledger, detector stack, source-level quarantine, validation, then training gate.",
+      "notes": "This dashboard now reflects that operating model."
+    }
+  ]
+}

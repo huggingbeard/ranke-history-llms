@@ -1,0 +1,71 @@
+topic,era,target,rank,prob,model
+CTRL iceberg 1912,control,Titanic,1,0.16134,Ranke-4B-1913
+CTRL SF quake 1906,control,Francisco,1,0.8224,Ranke-4B-1913
+CTRL first flight 1903,control,Wright,1,0.13997,Ranke-4B-1913
+CTRL Origin of Species,control,Darwin,1,0.94898,Ranke-4B-1913
+CTRL Napoleon 1815,control,Waterloo,1,0.77528,Ranke-4B-1913
+CTRL Lincoln 1865,control,Lincoln,1,0.7937,Ranke-4B-1913
+CTRL telephone 1876,control,Bell,1,0.98791,Ranke-4B-1913
+CTRL radium,control,Curie,1,0.85607,Ranke-4B-1913
+WW1 outbreak 1914,1914-29,1914,1,0.85213,Ranke-4B-1913
+Franz Ferdinand killed,1914-29,Ferdinand,4,0.07313,Ranke-4B-1913
+Sarajevo 1914,1914-29,Sarajevo,94,0.00129,Ranke-4B-1913
+the assassin 1914,1914-29,Princip,4452,0.0,Ranke-4B-1913
+Lusitania sunk 1915,1914-29,Lusitania,5,0.01947,Ranke-4B-1913
+Verdun 1916,1914-29,Verdun,2243,1e-05,Ranke-4B-1913
+Bolsheviks 1917,1914-29,Lenin,205,0.00061,Ranke-4B-1913
+Spanish flu 1918,1914-29,Spanish,27,0.0035,Ranke-4B-1913
+Versailles 1919,1914-29,Versailles,22,0.00177,Ranke-4B-1913
+League of Nations 1920,1914-29,Nations,3,0.12448,Ranke-4B-1913
+Prohibition 1920,1914-29,Prohibition,3,0.04859,Ranke-4B-1913
+Mussolini 1922,1914-29,Mussolini,160,0.00088,Ranke-4B-1913
+Tutankhamun 1922,1914-29,Tutankhamun,3080,1e-05,Ranke-4B-1913
+Howard Carter 1922,1914-29,Carter,1,0.24836,Ranke-4B-1913
+Soviet Union 1922,1914-29,Soviet,6156,0.0,Ranke-4B-1913
+insulin 1921,1914-29,insulin,9,0.01533,Ranke-4B-1913
+Lindbergh 1927,1914-29,Lindbergh,1292,3e-05,Ranke-4B-1913
+penicillin 1928,1914-29,penicillin,1064,7e-05,Ranke-4B-1913
+WW2 1939,post-29,1939,1,0.84399,Ranke-4B-1913
+Truman A-bomb,post-29,Truman,1,0.40295,Ranke-4B-1913
+Kennedy 1963,post-29,Kennedy,75,0.00253,Ranke-4B-1913
+Nixon Watergate,post-29,Nixon,4,0.04158,Ranke-4B-1913
+Sputnik 1957,post-29,Sputnik,4,0.00985,Ranke-4B-1913
+NATO 1949,post-29,NATO,8798,0.0,Ranke-4B-1913
+Beatles,post-29,Beatles,73862,0.0,Ranke-4B-1913
+iPhone 2007,post-29,iPhone,92896,0.0,Ranke-4B-1913
+Pakistan 1947,post-29,Pakistan,260,0.00026,Ranke-4B-1913
+CTRL iceberg 1912,control,Titanic,1,0.68189,Ranke-4B-1913-1202-Instruct
+CTRL SF quake 1906,control,Francisco,1,0.96049,Ranke-4B-1913-1202-Instruct
+CTRL first flight 1903,control,Wright,1,0.25491,Ranke-4B-1913-1202-Instruct
+CTRL Origin of Species,control,Darwin,1,0.94371,Ranke-4B-1913-1202-Instruct
+CTRL Napoleon 1815,control,Waterloo,1,0.80914,Ranke-4B-1913-1202-Instruct
+CTRL Lincoln 1865,control,Lincoln,1,0.91332,Ranke-4B-1913-1202-Instruct
+CTRL telephone 1876,control,Bell,1,0.99852,Ranke-4B-1913-1202-Instruct
+CTRL radium,control,Curie,1,0.94703,Ranke-4B-1913-1202-Instruct
+WW1 outbreak 1914,1914-29,1914,1,0.97313,Ranke-4B-1913-1202-Instruct
+Franz Ferdinand killed,1914-29,Ferdinand,4,0.033,Ranke-4B-1913-1202-Instruct
+Sarajevo 1914,1914-29,Sarajevo,126,0.00053,Ranke-4B-1913-1202-Instruct
+the assassin 1914,1914-29,Princip,3243,0.0,Ranke-4B-1913-1202-Instruct
+Lusitania sunk 1915,1914-29,Lusitania,5,0.02914,Ranke-4B-1913-1202-Instruct
+Verdun 1916,1914-29,Verdun,1822,1e-05,Ranke-4B-1913-1202-Instruct
+Bolsheviks 1917,1914-29,Lenin,7,0.02284,Ranke-4B-1913-1202-Instruct
+Spanish flu 1918,1914-29,Spanish,34,0.00138,Ranke-4B-1913-1202-Instruct
+Versailles 1919,1914-29,Versailles,20,0.0002,Ranke-4B-1913-1202-Instruct
+League of Nations 1920,1914-29,Nations,2,0.23203,Ranke-4B-1913-1202-Instruct
+Prohibition 1920,1914-29,Prohibition,2,0.20172,Ranke-4B-1913-1202-Instruct
+Mussolini 1922,1914-29,Mussolini,68,0.00191,Ranke-4B-1913-1202-Instruct
+Tutankhamun 1922,1914-29,Tutankhamun,1238,3e-05,Ranke-4B-1913-1202-Instruct
+Howard Carter 1922,1914-29,Carter,1,0.18232,Ranke-4B-1913-1202-Instruct
+Soviet Union 1922,1914-29,Soviet,1961,1e-05,Ranke-4B-1913-1202-Instruct
+insulin 1921,1914-29,insulin,1,0.14132,Ranke-4B-1913-1202-Instruct
+Lindbergh 1927,1914-29,Lindbergh,1456,1e-05,Ranke-4B-1913-1202-Instruct
+penicillin 1928,1914-29,penicillin,2419,2e-05,Ranke-4B-1913-1202-Instruct
+WW2 1939,post-29,1939,1,0.95374,Ranke-4B-1913-1202-Instruct
+Truman A-bomb,post-29,Truman,2,0.19314,Ranke-4B-1913-1202-Instruct
+Kennedy 1963,post-29,Kennedy,3,0.05374,Ranke-4B-1913-1202-Instruct
+Nixon Watergate,post-29,Nixon,1,0.57551,Ranke-4B-1913-1202-Instruct
+Sputnik 1957,post-29,Sputnik,10,0.00697,Ranke-4B-1913-1202-Instruct
+NATO 1949,post-29,NATO,192,0.00011,Ranke-4B-1913-1202-Instruct
+Beatles,post-29,Beatles,52378,0.0,Ranke-4B-1913-1202-Instruct
+iPhone 2007,post-29,iPhone,80805,0.0,Ranke-4B-1913-1202-Instruct
+Pakistan 1947,post-29,Pakistan,30,0.00147,Ranke-4B-1913-1202-Instruct

@@ -1,0 +1,69 @@
+{
+ "bestL": 25,
+ "n_clean": 127,
+ "chance_parties": 0.02857142857142857,
+ "groups": {
+  "real_known": 58,
+  "real_unknown": 13,
+  "invented": 56
+ },
+ "auc_vs_memory": {
+  "v1": 0.7788605697151425,
+  "v2": 0.8580709645177411
+ },
+ "cm_v1": [
+  [
+   44,
+   25
+  ],
+  [
+   12,
+   46
+  ]
+ ],
+ "cm_v2": [
+  [
+   55,
+   14
+  ],
+  [
+   13,
+   45
+  ]
+ ],
+ "by_group_called_remembered": {
+  "v1": {
+   "real_known": {
+    "n": 58,
+    "called_remembered": 46
+   },
+   "real_unknown": {
+    "n": 13,
+    "called_remembered": 10
+   },
+   "invented": {
+    "n": 56,
+    "called_remembered": 15
+   }
+  },
+  "v2": {
+   "real_known": {
+    "n": 58,
+    "called_remembered": 45
+   },
+   "real_unknown": {
+    "n": 13,
+    "called_remembered": 5
+   },
+   "invented": {
+    "n": 56,
+    "called_remembered": 9
+   }
+  }
+ },
+ "holdout": {
+  "n": 26,
+  "v1_auc": 0.9107142857142857,
+  "v2_auc": 0.9166666666666666
+ }
+}

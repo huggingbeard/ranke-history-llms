@@ -1,0 +1,78 @@
+# NOTE (2026-08-26): trimmed from the original repo's .gitignore.
+# The original excluded the analysis RESULTS (/experiments/, /output/, /12_foresight/,
+# *.npz, *.npy, *.pt, features_v2.json, ...). Those are the whole point of consolidating
+# here, so they are NO LONGER ignored. Large binaries are handled by git-LFS (../.gitattributes).
+# This file still blocks secrets, environments, caches, and build intermediates.
+
+# macOS / editor / Windows junk
+.DS_Store
+._*
+Icon?
+.idea/
+.vscode/
+*~
+*.swp
+desktop.ini
+Thumbs.db
+/.wslconfig.*
+
+# Local AI-agent / browser state
+/.agents/
+/.oracle_tmp/
+/.playwright-cli/
+**/.codex/
+**/.qwen/
+**/codex-session-history/
+
+# Python environments and caches
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# SECRETS — never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials*.json
+secrets*.json
+auth*.json
+.netrc
+
+# Runtime state (not results)
+*.pid
+*.lock
+.cache/
+/.tmp/
+*.tmp
+*.temp
+*.tmp.*
+
+# LaTeX build intermediates (keep source + final PDFs)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+/latex_log.txt
+
+# R / Stata session artifacts
+.Rhistory
+.RData
+.Ruserdata
+*.smcl

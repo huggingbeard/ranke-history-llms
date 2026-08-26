@@ -1,0 +1,8 @@
+{
+ "model": "microsoft/Phi-3.5-mini-instruct",
+ "n_passages": 74504,
+ "n_new_this_run": 74504,
+ "wall_seconds_this_run": 735.6,
+ "passages_per_second": 101.28,
+ "null_preds": 0
+}

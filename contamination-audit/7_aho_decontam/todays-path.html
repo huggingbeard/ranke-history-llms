@@ -1,0 +1,89 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
+<title>Today's path: keeping modern books out of an old-book pile</title><style>
+:root{--ink:#1a2230;--mut:#5c6675;--line:#e6e9ef;--bg:#f6f8fa}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 -apple-system,Segoe UI,Roboto,Arial,sans-serif}
+.wrap{max-width:880px;margin:0 auto;padding:48px 26px 110px}
+h1{font:700 30px/1.25 Georgia,serif;margin:0 0 8px}.sub{color:var(--mut);margin:0 0 26px;font-size:16px}
+h2{font:700 22px Georgia,serif;margin:42px 0 10px;padding-top:18px;border-top:1px solid var(--line)}
+h2 .n{display:inline-block;width:30px;height:30px;line-height:30px;text-align:center;background:#2b5dab;color:#fff;border-radius:50%;font:700 15px sans-serif;margin-right:10px;vertical-align:2px}
+.turn{color:#b32424}.turn .n{background:#b32424}
+p{margin:12px 0}.big{font-size:18px}
+.key{background:#eef4ff;border:1px solid #cfe0ff;border-left:5px solid #2b5dab;border-radius:10px;padding:14px 18px;margin:16px 0}
+.key b{color:#1f3f7a}
+.flip{background:#fdeee9;border:1px solid #f6cdbf;border-left:5px solid #b32424;border-radius:10px;padding:14px 18px;margin:16px 0}
+.flip b{color:#922}
+figure{margin:18px 0}figure img{width:100%;height:auto;border:1px solid var(--line);border-radius:10px;background:#fff}
+figcaption{font-size:13.5px;color:var(--mut);margin-top:7px}figcaption b{color:#3a4252}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:14px 0;font-size:14px}
+th,td{padding:9px 11px;text-align:left;border-bottom:1px solid var(--line)}
+th{background:#eef2f7;color:#3a4252;font:600 12.5px sans-serif}tr:last-child td{border-bottom:none}.lab{font-weight:600;background:#f8fafc}
+code{background:#eef2f7;border-radius:5px;padding:1px 6px;font:13.5px Consolas,monospace}
+.foot{color:var(--mut);font-size:13px;margin-top:44px;border-top:1px solid var(--line);padding-top:14px}
+</style></head><body><div class=wrap>
+
+<h1>Today's path: keeping modern books out of an old-book pile</h1>
+<p class=sub>A running log of how the filter evolved over one day — including the three places we were wrong and had to turn around. The honest version, course-corrections and all.</p>
+
+<p class=big>The job: a library of <b>140,000 books</b> that is supposed to be entirely old (pre-1929), but a few newer books have slipped in. We can't read them all, so we want an automatic filter that flags the modern intruders. Here is the path we actually took.</p>
+
+<h2><span class=n>1</span>The first idea: words that didn't exist yet</h2>
+<p>Some words are <b>giveaways</b>: nobody wrote "Cold War," "transistor," or "internet" before 1945. So we built a list of such words — and rather than guessing, we <b>measured</b> each one against Google Books Ngrams (which says how common a word was each year). The measurement even corrected our own guesses: "penicillin," "television," "chemotherapy," and "united nations" all turned out to appear in genuinely old books, so we dropped them. We kept <b>128</b> validated words and searched for all of them in one fast pass (an algorithm called Aho-Corasick).</p>
+
+<h2 class=turn><span class=n>2</span>Turn-around #1: the speed claim was half-true</h2>
+<p>We first said "8× faster than the old method, whole library in ~11 minutes." On a real 28,000-book run that fell apart: the <b>8× is only the word-matching step</b>. The pipeline also has to clean every page first (fix OCR hyphenation, strip scanner stamps), and that cleaning is the real cost.</p>
+<div class=flip><b>Corrected:</b> end-to-end it's about <b>2.6× faster</b>, not 8× — and the full library is <b>~45 minutes</b> of compute, not 11. (Matching alone is still 8× faster; it's just a small slice of the work.)</div>
+
+<h2 class=turn><span class=n>3</span>Turn-around #2: "zero false alarms" was a small-sample fluke</h2>
+<p>On 3,000 books we saw no false alarms and reported perfect precision. On <b>28,000</b> books the truth showed up. Here is the scorecard (using each book's own date label as the answer key):</p>
+<table><tr><th></th><th>scanner FLAGGED</th><th>scanner clean</th></tr>
+<tr><td class=lab>actually MODERN (≥1946)</td><td>caught: 154</td><td>missed: 204</td></tr>
+<tr><td class=lab>actually OLD (≤1945)</td><td>false alarm: 85</td><td>correct: 27,557</td></tr></table>
+<div class=flip><b>Corrected:</b> precision is about <b>64%</b>, not 100%. Why? Modern books are only ~1.3% of the pile, so old books outnumber them ~77 to 1. Even a tiny 0.3% slip on old books produces 85 false alarms — comparable to the 154 real catches. <b>Class imbalance is what drives this whole result.</b></div>
+
+<h2><span class=n>4</span>The real problem appears: we only catch 43%</h2>
+<p>Look again at the scorecard: we <b>missed 204 of 358</b> modern books — a recall of just 43%. Reading the misses explained it: they were modern but <i>dull</i> — "Specimens of type faces" (1951), "Nursing services in small manufacturing plants" (1952), "Sketches of South Georgia folklife" (1977). Real modern books, but they use <b>no flashy modern words</b>. No word-list can catch a book that contains none of the words. Vocabulary had hit a ceiling.</p>
+
+<h2><span class=n>5</span>What worked: books print their own dates</h2>
+<p>The fix wasn't more words. A book written before 1945 <b>cannot</b> print "© 1987" in its text. Modern books are full of recent years (copyright lines, references); the median modern book in our sample printed <b>15 distinct post-1945 years</b>. So we count those. This signal is completely separate from vocabulary, and it catches almost everything vocabulary missed.</p>
+<p>That gives a tunable <b>confidence score</b> = (number of giveaway words) + (number of distinct post-1945 years), with a dial you turn for your tolerance:</p>
+<figure><img src="confidence_score.png" alt="Confidence-score dial">
+<figcaption><b>How to read this:</b> up = more modern books caught; right = more old books wrongly flagged. Each red square is a threshold. Turn it down (T=1) to catch ~98% but flag ~18% of old books; turn it up (T=3) for 91% caught and only ~4% over-removed. Overall AUC 0.975. (Over-removal at T=1 fell from ~28% to ~18% once the preservation stamp was stripped.)</figcaption></figure>
+<table><tr><th>threshold</th><th>recall (modern caught)</th><th>over-removal (old wrongly flagged)</th></tr>
+<tr><td class=lab>≥1</td><td>98%</td><td>18%</td></tr>
+<tr><td class=lab>≥2</td><td>94%</td><td>6%</td></tr>
+<tr><td class=lab>≥3</td><td>91%</td><td>4%</td></tr></table>
+
+<h3>A closer look: how the year check works, and cleaning it up</h3>
+<p>The year detector is one line of code: find any 4-digit number between 1946 and 2029 and count the distinct ones. It runs instantly. But it matches recent-looking <i>numbers</i>, not <i>dates</i> — a page number or a catalogue code can trip it. And many old scans carry a <b>modern preservation stamp</b> ("treatment date: august 2005…") that prints a 2005 onto the page. So the raw signal needs cleaning. Measured on real books:</p>
+<table><tr><th>year signal</th><th>modern caught (≥1 / ≥2 years)</th><th>old wrongly flagged (≥1 / ≥2)</th></tr>
+<tr><td class=lab>raw</td><td>99% / 96%</td><td>32% / 7.4%</td></tr>
+<tr><td class=lab>+ preservation stamp stripped</td><td>99% / 95%</td><td>16% / 5.1%</td></tr>
+<tr><td class=lab>+ only date-looking years</td><td>94% / 88%</td><td>7.5% / 2.2%</td></tr>
+<tr><td class=lab>+ only in the front 20% of the book</td><td>75% / 63%</td><td>1.9% / 0.5%</td></tr></table>
+<p>Each step trades catch-rate for fewer false alarms. <b>Stripping the preservation stamp is free</b> — it halves the false alarms (32% → 16%) with no loss of catch-rate — so it is always on. Requiring a real date context, or only looking in the front matter where a copyright year sits, cleans up further but costs catch-rate. We keep <b>stamp-stripping</b> as the default and leave the tighter options (date-context, front-of-book) as switches.</p>
+
+<h2><span class=n>6</span>Precision vs recall, told honestly (at the real 1.3% mix)</h2>
+<p>Earlier the precision-recall curves looked too good — because the test sample was balanced, hiding the imbalance. Redrawn at the <b>real prevalence</b> (only 1.3% of books are modern), the two signals are revealed as <b>complementary opposites</b>:</p>
+<figure><img src="pr_curves.png" alt="Precision-recall curves">
+<figcaption><b>How to read this:</b> right = catch more modern books; up = fewer false accusations. The <b>word</b> signal (dark) is precise but narrow — ~100% precision but it caps at ~44% recall. The <b>year</b> signal (red) is broad but noisy — it reaches ~99% recall, but precision collapses toward the 1.3% base rate, because so many old books have a stray OCR "year." Neither content signal alone is both clean and complete at this imbalance.</figcaption></figure>
+<div class=key><b>The takeaway:</b> if you want <b>few false accusations</b>, require ≥2 giveaway <b>words</b> (~100% precision, but only ~25% recall). If you want to <b>miss almost nothing</b>, use the <b>years</b> (~99% recall, but you'll flag a lot of innocent old books). You cannot have both from content alone when the thing you're hunting is 1-in-77.</div>
+
+<h2 class=turn><span class=n>7</span>Turn-around #3: mining more words doesn't help — and trigrams aren't cleaner</h2>
+<p>Could we lift the word ceiling by automatically mining thousands of giveaway phrases, and would longer phrases (trigrams) be cleaner than two-word ones? We tested it: mine candidate 1-, 2-, and 3-word phrases that are common in modern books and absent from a training set of old books, then check them on held-out books.</p>
+<figure><img src="ngram_order.png" alt="n-gram order tradeoff">
+<figcaption><b>How to read this:</b> right = more false positives on old books; up = more modern books caught. Every dot is far to the right — false-positive rates of 20–76%. <b>Bigrams (the worst) sit at 76%.</b></figcaption></figure>
+<div class=flip><b>Corrected:</b> raw mining is <b>dirty</b>, and bigrams are the <i>worst</i>, not the cleanest. The top mined two-word phrases were Wikipedia <b>boilerplate</b> ("external links," "references") and generic phrases ("the us") that merely missed the training sample. The lesson: <b>cleanliness comes from outside validation</b> (the Google Ngrams check), not from longer phrases. A small validated list beats a big mined one.</div>
+
+<h2><span class=n>8</span>Where we landed</h2>
+<p>For a corpus where letting a modern book through is the cardinal sin, the practical filter is a combination, with a dial:</p>
+<div class=key><b>Flag a book if:</b> its date label says ≥1946, <b>OR</b> it prints ≥N distinct post-1945 years, <b>OR</b> it contains ≥1 validated giveaway word. <b>N is the dial</b> (N=2 → catch ~95%, lose ~7% of old books; N=3 → ~91% / ~4%).</div>
+<p>The crucial partner is the <b>date label</b> itself: it catches every <i>correctly</i>-dated modern book for free, so the noisy content signals only have to catch the rare <b>mislabelled</b> ones. The two together get you close to "no modern books survive."</p>
+
+<h2><span class=n>9</span>The honest limits</h2>
+<p>Three things we cannot wish away, all flowing from the 1-in-77 imbalance:</p>
+<p>&nbsp;&nbsp;&bull; <b>High recall costs you old books.</b> To miss almost no modern book, you must flag a meaningful slice of innocent old ones. The dial sets the price; there is no setting that is both complete and clean from content alone.<br>
+&nbsp;&nbsp;&bull; <b>Some modern books are invisible.</b> A book that is mislabelled old, uses no modern word, <i>and</i> prints no modern year (~1% of modern books print zero years) cannot be caught by reading the text.<br>
+&nbsp;&nbsp;&bull; <b>These are samples, not the last word.</b> Numbers come from runs of a few hundred to ~28,000 books and would shift a little on another draw. The shape — words precise/narrow, years broad/noisy, validation beats mining — is stable.</p>
+
+<div class=foot>One day's investigation over <code>storytracer/LoC-PD-Books</code> (140,000 public-domain books), Google Books Ngrams, and Wikipedia. Figures: <code>confidence_score.png</code>, <code>pr_curves.png</code>, <code>ngram_order.png</code>. Code and data in this repository. A working log, not a final verdict.</div>
+</div></body></html>

@@ -1,0 +1,5243 @@
+DIRECTED KG 7566 
+
+NEDL TRANSFER 
+
+HN 2WED F 
+
+EXPERIMENTS 
+
+Physics WHITE & 
+
+WILSON COLLEGE ENTRANCE BOOK CO.
+
+Directed Experiments In PHYSICS A Laboratory Manual for Use with Any Physics Text By ERNEST H. WHITE Department of Physics, Senior High School,. 
+
+White Plains, N. Y.; Coordinator of Science for White Plains; Member of New York State
+
+Science Teachers' Committee on Curriculum Revision for Physics and 
+
+JOHN C. WILSON Department of Physics, Senior High School, 
+
+White Plains, N. Y.
+
+CEBCO 
+
+SERIES COLLEGE ENTRANCE BOOK COMPANY New York City
+
+KG 7566 
+
+FOREWORD TO THE TEACHER 
+
+Directed Experiments in Physics is an outgrowth of a series of laboratory experiments used in mimeographed form for many years in several New York high schools. During these years, the experiments have helped prepare thousands of students for College Board and New York State Regents' requirements. They have also served to provide a meaningful interpretation of everyday physics for those students whose formal education ended with the high school. Constant revision during actual laboratory use has produced a manual which is complete, convenient, and instructive. 
+
+The authors believe that the introduction of this new manual into an already crowded field is justified by a number of unusual features incorporated in these experiments. A brief description of these features is offered here as a guide in the use of the manual. 
+
+The Experimental Problem. In keeping with the principles of the scientific method, each experiment is introduced by a problem or question which has arisen in the logical development of the subject. This problem is worded carefully so that each step in the procedure is a step toward its solution, and the summation of observations and data is a complete answer to the problem. 
+
+The Procedure. The directions are concise and logically arranged. The student who is prepared to perform the experiment will have no difficulty with it; but it is impossible for the student to follow the directions blindly, without comprehension, and still complete the experiment successfully. 
+
+The Diagram. The diagram supplies the structural details of the apparatus and an indication of the method to be followed. The student, however, must complete the drawing to show just how he obtained his data. The drawing thus becomes a pedagogical device which teaches principles without taxing the student's drawing ability.
+
+The Data Table. All data is recorded neatly and logically. Emphasis is placed on the use of proper units for numerical values. Where possible, checks and controls are provided for in the data tables. 
+
+The Conclusion. As the final step in the inductive process, the student must present his conclusions in his own words, and with direct reference to his data. Initiative and imagination are encouraged by the complete absence of "fill-in" and leading questions at this stage of the experiment. 
+
+Time Limitations. In every case, the Conclusion of the experiment can be finished in a single 45minute period. The Supplementary and Optional Questions can be adapted to a longer period. During a 90-minute period, every student should be able to work through the Grade C optional question, while the exceptional students will be able to answer all the problems. These questions may also be used for home or class work.
+
+The Correction Box. Common errors in the performance of the experiment can be indicated on the "correction box" at the head of each experiment. This simplifies the teacher's work, and makes it easier for the student to improve in subsequent experiments. 
+
+Textbook References. Complete page references to 13 standard high school texts enable the student to prepare adequately for each experiment, and make the manual convenient to use with any text or set of texts. Additional references to other texts will be supplied upon request. 
+
+The authors wish to acknowledge their indebtedness to Mr. Robert Black, Mr. Thomas Treharne, Mr. Kenneth Smith, Mr. Victor Davis, and Mr. De Forest Brane for testing this material in mimeographed form and for contributing many valuable suggestions. They are especially indebted to Mr. 
+
+William Van Arnam for his constructive criticisms and to Mr. Burnett Cross for his assistance in arranging much of the material for use. They are grateful to Mr. W. Irving Jennings for providing the drawings according to their designs. 
+
+HARVARD UNIVERSITY LIBRARY 
+
+26.-2 
+
+Copyright, 1942, by COLLEGE ENTRANCE BOOK CO., INC. 
+
+Manufactured in The United States of America ii
+
+CONTENTS Foreword to the Teacher ii 
+
+28. Dew Point and Humidity . 55 
+
+Textbook References iv 29. 
+
+Velocity of Sound (Resonance Method) 57 
+
+30. Images in Plane Mirrors 59 
+
+To the Student . 
+
+31. Images of the Concave Mirror 61 
+
+EXPERIMENTS 1. Density of a Regular Solid 
+
+1 34. 
+
+2. Law of Archimedes 3. Law of Flotation 
+
+3 3 
+
+32. Refraction of Light Through Prisms. 
+
+33. Index of Refraction of Glass Focal Length of a Converging Lens. 
+
+35. Characteristics of Images Formed by Double Convex Lenses 
+
+63 65 67 
+
+4. Specific Gravity of Solids Heavier than Water 
+
+5. Specific Gravity of Solids. Lighter than Water 
+
+6. Specific Gravity of Liquids (Bottle 7. Specific Gravity of Liquids (Hydrom eter Method). 69 
+
+36. Dispersion 71 37.
+
+The Bunsen Photometer 
+
+73 
+
+38. Magnetism 
+
+75 39.
+
+Magnetic Induction 
+
+77 
+
+Method). 
+
+11 40.
+
+Magnetic Field About a Current-Bear ing Conductor 79 13 
+
+8. Density of Air 9. Measuring Altitude. 
+
+41. The Electromagnet . 
+
+81 15 
+
+42. The Electric Bell 
+
+83 17 
+
+10. Boyle's Law. 
+
+11. Composition of Forces 
+
+43. The Electric Telegraph. 
+
+85 19 
+
+44. Theory of the Electric Motor 
+
+87 21 
+
+12. Resolution of Forces 
+
+45. 23 
+
+Measurement of Unknown Resistance 13. Principle of Moments 14. Parallel Forces 
+
+275 25 
+
+(Voltmeter-Ammeter Method). 
+
+89 27 
+
+46. Laws of Resistance. 
+
+91 
+
+15. Center of Gravity and Weight of a 
+
+47.
+
+Series Circuits 
+
+93 Lever 29 
+
+48. Parallel Circuits. 
+
+95 
+
+16. The Inclined Plane. 
+
+31 
+
+49. The Wheatstone Bridge 97 
+
+17. Wheel and Axle. 33 
+
+50. Cost of Electrical Energy 
+
+99 
+
+18. Block and Tackle 
+
+35 
+
+51. Electrolysis of Water 
+
+101 
+
+19. Acceleration of Gravity (Pendulum 
+
+52. Electroplating 103 Method) 
+
+20. Force, Work, Horsepower 33333 37 
+
+53. The Voltaic or Simple Cell 
+
+105 39 
+
+54. The Storage Cell 
+
+107 
+
+21. Specific Heat of a Metal 41 
+
+55. Induced Currents 
+
+109 
+
+22. Methods of Heat Transmission 
+
+43 
+
+56. The Two-Element Vacuum Tube 
+
+111 
+
+23. Latent Heat of Fusion. 
+
+45 
+
+24. Cooling Curve During Change of State 47 25. Disappearance of Sensible Heat Dur- 57. The Three-Element Vacuum Tube 58. The Automobile. 
+
+113 115 
+
+ing Solution and Evaporation 
+
+49 
+
+26. Boiling Point of Water. 
+
+51 
+
+Appendix. 
+
+27. Heat of Vaporization 
+
+53 Formulas. 117 120 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+iii
+
+TEXTBOOK REFERENCES 
+
+Key 
+
+ARCAREG BLACK, DAVIS BLACK, DAVIS BROWNELL Author CLARK, GORTON, SEARS 
+
+DULL 
+
+FLETCHER, MOSBACHER, LEHMAN FULLER, BROWNLEE, BAKER Title Elementary Practical Physics New Practical Physics A First Course in Physics Physics of Today 
+
+Winston Houghton-Mifflin Holt McGraw-Hill
+
+Publisher Edition 
+
+Macmillan 1938 Macmillan 1937 1930 1938
+
+Modern Physics 
+
+1939 
+
+Unified Physics 
+
+1936 
+
+First Principles of Physics 
+
+Allyn & Bacon 1937 XP. 1 11-14 11-12 581-583 53-56 15-17 8-9 14-16 2 95-96 74-76 35-36; 51-53 44-50 36-38 38-39 65-68 ​3 96-97 74-75 36-38 50-52 38-40 40-42 68-74 100-101 77-79 
+
+53-56; 586 56 42-43 43-45 77-79 101-102 79 .55; 587 54-57 43-44 45-46 79-81 102-103 79-82 55-56 56-57 44-46 46-47 82-87 103 80-82 56 57 45-46 48-50 84-85 109-110 87-88 62-67 73-74 49 55 92-93 121 98-99 75-76; 589 83 56-57 61 98-99 10 132-136 110-111 73-74 87-89 64-65 65-66 115-118 11 168-172 147-150 171-173; 110-113 113-115 99-103 133-139 592-593 12 173-175 150-153 175-177 113-125 115-118 103-105 139-145 13 25 22 204-206 132-135 127-129 115-116 149-151 14 27-28 23-25 
+
+168-171; 591 135-137 124-126 116-120 148-149 15 30-32 28-29 
+
+206-209; 594 170-172; 
+
+127; 179-182 121-125 151-154 218-220 16 46-47 41-42 216-217 230-231 187-189 156-157 163-166 17 35-37 31-33 
+
+211; 595 224-227 185-187 151 171-172 18 | 37-39 33-34 
+
+214-216; 596 211-216 183-185 152-154 172-177 19 198-199 172-173 154-155; 180-181 143-144 87-88 209-210 590-592 20 20 44-45; 53-54 39; 48-50 193-198 187-191 165-168 143-144; 
+
+161; 244-249 174-176 222 21 270-272 256-266 235-237 223-230 
+
+291-293; 607 296-298 230-232 232-233 265-267 250-256 276-293 254-268 213-228 293-311 23 276-277 241-242 276-277; 604 301-303 233-236 237-238 315-317 24 277-278 241-242 276; 605 301-303 249 237-238 316-317 25 288-292 253-255 276-277; 280 
+
+305; 307-308 244-245 239-240; 247 320-324 26 280-283 244-247 275-276; 316-318 239-241 243-246 325-330 
+
+283; 600 177 27 286-287 249-250 282-284; 319-320 242-245 247-249 331-333 290-291 32 28 292-295 255-257 284-287; 310-311 250-251 254-259 337-340 
+
+584-585; 602 29 506-507; 530-531 
+
+457; 472 224-227; 230 
+
+351-352; 378 
+
+290; 300 280-281; 379-381; 
+
+283; 291 400-402 iv
+
+TEXTBOOK REFERENCES 
+
+Key 
+
+HIIKLM HENDERSON 
+
+Author 
+
+HOLLEY, LOHR MASSON MILLIKAN, GALE, COYLE SEARS STEWART, CUSHING, TOWNE Title The New Physics in Everyday Life Mastery Units in Physics Physics Made Easy New Elementary Physics Essentials of Physics Physics for Secondary Schools 
+
+(Page references to any other texts supplied upon request.
+
+) 
+
+Publisher Edition Lyons & Carnahan 
+
+1935 Lippincott 1932 
+
+Hazleton-Smith 
+
+1938 Ginn 1936 1931 1932 
+
+Houghton-Mifflin 
+
+Ginn
+
+EXP. 
+
+1 35-36 89-90 28-29 17-19 16-19 70 2 57-59 87-89 49 38-40 44-47 61-65 3 59-60 92 49-52 39-40 46-47 64-66 62-65 91-92 54-56 40 51-52 67-70 66-67 92 57 40 52-53 69 67-68 90-91 57-59 41-42 53-55 68 68-70 94-96 59-60 40-41 55-57 68 80-81 100 64 45-46 64-65 83-84 88-89 112-113 68 52 71 85-89 10 94-97 48-52 74-75 60; 76 102 95-97 11 178-184 142-143 85-88 87-90 137-143 110-119 12 184-186 143-151 88-89 90-92 143-145 116-117 13 228-230 224-230 133 157-158 107-108 25-26 14 181 138-142 85-89 87-88 118-123 108-110 15 
+
+6-9; 236-238 66; 223-227 83-84; 100; 156-161 113-117 21-27 133-136 16 242-244 217-222 128-129 165-166 154-155 34-35 17 239-240 238-240 136-138 164-165 128-129 32-34 18 240-242 233-237 131-132 152-155 124-127 30-32 19 208-209 190-191 91-92 94-95 177-178 155-157 20 219-223 197-205 117-119 85-86; 137 179-180; 163-164; 189-191 170-171 223 21 279-282 284-288 165-167 216-218 268-271 258-264 303-310 321-331 153-161 279-287 258-266 233-252 293-294 314-315 167-169 222-224 274-276 266-268 24 292-295 316-317 
+
+167-168; 174 223-224 274-275 266-268 25 298; 322 305; 319-320 169-171 241-242; 256 276-277 
+
+278-280; 286; 300-301 26 295-297 306-308 171-174 250-252 278-281 281-285 27 298-299 309-312 174-175 247-249 281-283 286-289 28 300-302 300-304 178-182 236-245 284-287 296-301 29 29 604-605; 618-622 371-374; 380-381 
+
+191; 194; 200 435-437; 442; 447-448 
+
+204; 207; 531-535; 217-218 549-551
+
+TEXTBOOK REFERENCES 
+
+Key ABCDEFG 
+
+BLACK, DAVIS 
+
+BLACK, DAVIS
+
+BROWNELL 
+
+Author 
+
+CLARK, GORTON, SEARS 
+
+DULL 
+
+FLETCHER, MOSBACHER, LEHMAN FULLER, BROWNLEE, BAKER Title Elementary Practical Physics New Practical Physics A First Course in Physics Physics of Today 
+
+Publisher 
+
+Edition 
+
+Macmillan 1938 Macmillan 1937 Winston 1930 Houghton-Mifflin 1938 
+
+Modern Physics 
+
+Holt 1939 
+
+Unified Physics 
+
+McGraw-Hill 1936 
+
+First Principles of Physics 
+
+Allyn & Bacon 1937 EXP.
+
+30 566-567 502-503 344-352; 401-403 340-341 521-527 441-443 612-614 31 568-576 508-512 355-365; 615 405-412 342-346 528-533 445-450 32 589-590 525-526 368-372; 616 421-422 353-355 538-542 457-462 33 581-582; 518-520 
+
+371-372; 618 418-419 352-353 544-545 462-463 586-587 34 592-594 528-530 374-377; 619 425 356-357 550-552 469-471 35 593-596 530-532 377-381 425-429 357-359 552-555 471-481 36 619-621 553-554 394-398 447-449 386-388 579-582 497-499 37 557-560 495-496 338-339 394-397 330-334 510-514 509-516 38 330-332; 289-290; 412-416; 473-480 407-410 349-359 522-536 337-339 294-297 418-420 39 339-340 297-298 410-413; 487-488; 410-413 361-366 536-542 419-421 492-494 40 408-409 354-355 495-498 483-486 450-452, 420-422 546-549 41 410-411 356-357 409-410 480-487 453-454 423-424 549-552 42 412 358 448-450 505-506 454-455 424-426 556-557 43 412-414 359-360 498-502 590-593 455-457 426-428 558-561 44 461-464 403-406 
+
+531-535; 624 569-572 507-509 435-438 562-567 45 382-383 330-333 460-464 526-527 491 401 601-602 46 382-386 332-335 463 464 525-526 441-442 395-396 610-614 47 387-389 338-340 458-461 528-529 485-487 397-398 615-617 48 389-391 340-342 470-471 528-529 487-489 398-400 617-618 49 382 331-332 458-472 525 491-492 401-402 624-627 50 432-434 379-382 486-487 532-536 443-445 627-630 51 419-421 364-365 479-481 506-508 458-459 379-380 653-655 52 421-423 365-366 481-482 508-509 460-461 385-386 655-657 53 369-370 321-322 451-453 497-503 434-435 371-375 662-665 54 424-428 369-372 482-486 510-511 464-466 381-385 669-673 55 450; 472-474 416-419 508-515 552-556 496-499 464-468 680-682 56 671-673 576-578 550-553 605-610 543-545 604-607 730-732 གླ|4| 57 670-677 
+
+58 55; 58; 94; 179; 
+
+206; 219; 313320; 324; 426; 
+
+447; 476; 524 
+
+26; 46; 53; 55; 
+
+101; 102; 108; 
+
+117; 165; 194; 
+
+273-280; 287; 
+
+371; 415; 420; 
+
+432; 467; 509; 516 578-584 553-556 
+
+132; 305-311; 485; 515 606-608 545-546 607-610 741-743 
+
+231-240; 334-34; 68; 82; 132; 339; 573-578 147-152; 158138; 189; 220; 
+
+237; 359-365; 271-274; 381 688; 766-783 
+
+159; 259; 278282; 398; 576-579 vi
+
+TEXTBOOK REFERENCES 
+
+Key 
+
+HIIKLM HENDERSON Author HOLLEY, LOHR MASSON MILLIKAN, GALE, COYLE SEARS STEWART. CUSHING, TOWNE Title The New Physics in Everyday Life Mastery Units in Physics Physics Made Easy Essentials of Physics Publisher Edition Lyons & Carnahan 
+
+1935 Lippincott 1932 
+
+Hazleton-Smith 
+
+1938 
+
+New Elementary Physics 
+
+Ginn 1936 
+
+Houghton-Mifflin 
+
+1931 
+
+Physics for Secondary Schools Ginn 
+
+1932 (Page references to any other texts supplied upon request.
+
+) 
+
+EXP. 
+
+30 692-693 433-434 306-307 524-525 329-331 604-607 31 697-701 435-441 307-311 525-526 334-337 607-612 32 680-681 448-450 316-318 504-505 343-348 617-620; 649 33 681-682 450-452 317-318 507-508 344-346 618-620 34 702-704 457-458 321-322 512-513 
+
+623-626 35 708-710 459-465 322-324 513-519 351-354 626-634 36 730-733 482-485 343-346 542-543 370-371 648-656 37 670-673 426-428 296-299 492-495 320-325 592-599 38 369-372 503-512 210-215 298-306 388-391 351-355 39 372-373; 381 514-517 215-219 307-309 391 349-351; 356-360 40 451-452 570-574 255-256 343-346 419-420 420-422 41 459-460 622-624 256-257 346-347 420-423 422-424 42 460-461 624 257 349 423-424 425 43 461-464 625-628 257-258 350-352 424-426 425-42 427-429; 44 519-522 635-637 281-282 394-395 484-486 430-431; 434-437 45 472-474 564-565; 261-262 362-365 432-433 406-408 630-632 46 465-467 562-563 244-245 355-361 433-435 402-404 47 468-470 558 249 365 443-448 408-410 48 469 471 558-560 250-251 365-366 443-448 410-413 49 465-473 565-567 261-262 364 442-443 402-413 50 484-485 601-606; 245-247 408 496-497 451-456 632-635 51 432-434 611-613 269-270 338-339 449-450 440-444 52 434-436 613-614 270-271 339-340 453-454 439-440 53 
+
+414-418; 430 543-547 235-238 368-372 411-414 392-394 54 437-442 615-617 272-273 378-380 454-455 444-446 55 497-500; 574-579; 276-278 391-393 490-492 473-477 505-506 590. 56 579-584 654-655 286-287 572-574 523-525 688-691 ཕ|| 57 585-587 58 
+
+71; 107; 250264; 350-356; 
+
+375; 439; 513; 695 655-657 
+
+55; 157; 231; 244-251; 347286-287 
+
+105; 108; 117; 575-577 525-529 705-708 
+
+268-276; 380; 354 184-185; 359-362 415; 509 
+
+104; 111; 157; 
+
+253; 307-312; 
+
+455; 135-136; 263 
+
+20; 26-27; 36; 
+
+39; 147; 168170; 219; 334340; 437-438; 492; 533; 607 vii
+
+TO THE STUDENT 
+
+One of our leading military authorities has stated that the First World War was a chemists' war but that this one is a physicists' war. The statement illustrates the importance of physics in wartime. It is no less true that physics is fundamental in times of peace. It is necessary for successful living in everyday life and as a required background for engineers, doctors, and other professional people. 
+
+This book is designed to help you understand the fundamental principles of physics and to use those principles for interpreting and controlling your environment. Each lesson is a personal experience in physics that will enable you to understand a basic principle. You will see how you are constantly using many of these principles in your everyday living. 
+
+Each experiment begins with a question. This is followed by a list of materials needed to help you find the answer. Then the procedure suggests the method of using the materials. 
+
+Read this carefully, constantly referring to the partially completed drawing. Care exercised in following these instructions, step by step, will enable you to complete the experiment quickly and accurately. Make your observations honestly and accurately. Record these observations in the proper place. (Data may be recorded in pencil and inked in after it has been approved.) Double check all computations and study your results. Make certain that you understand their significance.
+
+Now you should be ready to write your conclusion. This is not solely an answer to the question at the beginning, but shows the steps of thought by which you arrived at your conclusion. Notice that, in drawing your conclusion, you must refer directly to the data. For example, the conclusion for Archimedes' Law might be stated as follows: "Since the weight of the displaced liquid is 18 grams and the apparent lost weight or buoyant force is 18 grams, I conclude that apparent lost weight (buoyant force) of an immersed body is equal to the weight of the liquid displaced.'
+
+Your teacher will be pleased to explain more fully what is meant by the scientific method and how it is used in industry and research. Observe how each experiment illustrates this scientific method.
+
+The supplementary questions are designed to give you a broader comprehension of the principle involved and to show you some of its practical applications. The optional questions can give you added practice. They are a challenge to the ambitious and able student. 
+
+You will find it necessary to make constant reference to textbooks. References to many accepted texts are listed in a table on the preceding pages. You will also find all needed numerical tables in the Appendix. 
+
+---
+
+NAME.. 
+
+.GRADE.. .DATE.. 
+
+EXPERIMENT 1. DENSITY OF A REGULAR SOLID  Incomplete Wrong Other Fault 
+
+Dwg. 
+
+Problem: What is the weight of one cubic centi Data Calc. 
+
+Concl. 
+
+meter of a wooden block? 
+
+Apparatus: Meter stick, beam balance, set of weights, block of wood.
+
+Procedure: 
+
+1. Carefully measure the length, width, and thickness of the block at one end. (For greater accuracy, measure from the 1 or 10 cm mark rather than from the end of the stick, which may be worn down or irregular.) 
+
+2. Repeat the measurements at the center of the block, and at the other end. 
+
+3. Calculate the average of the readings for each dimension. (The average will give a more accurate result than any one reading.) 
+
+4. After receiving instructions in the use of the beam balance, weigh the block. 
+
+5. Record your observations in the following table. 
+
+Complete this drawing to show one of the steps used in obtaining your data.
+
+DATA 
+
+(State units for all numerical values.
+
+) 
+
+Readings One End 
+
+Middle
+
+Other End Average 
+
+Length
+
+Volume of Block * Definition: Density is MEASURING THE BLOCK 
+
+Width Thickness 21 31 
+
+Weight of
+
+Block 
+
+Density * of 
+
+Block 
+
+Conclusion: 
+
+ سلسل مسلس
+
+Copyright by COLLEGE ENTRANCE BOOK Co., Inc. 
+
+1
+
+SUPPLEMENTARY QUESTIONS 
+
+1. How does the density of a thin cake of ice compare with that of an ice cube? Explain. 
+
+2. State the formula you would use to find the volume of: (a) A cylinder. (b) A triangular prism. 
+
+3. How could you find the volume of an irregular insoluble solid that sinks in water? 
+
+4. A marble step is 5 ft. long, 1½ ft. wide, and 8 in. thick. It weighs 850 lb. What is its density? (Show all work.) Ans:
+
+OPTIONAL QUESTIONS 
+
+(Consult density table on page 117. Show all work when answering problems.) 
+
+C. What is the weight of 3 cu. ft. of gold? 
+
+B. Find the weight of a cube of silver that measures 4 cm on each edge. 
+
+A. What is the volume of a brass kilogram weight? Ans: Ans: Ans: 2
+
+NAME. 
+
+GRADE. .DATE. 
+
+EXPERIMENT 2. LAW OF ARCHIMEDES Problem: What is the relation between the buoy ant force (apparent loss of weight) on an immersed body and the weight of the displaced liquid?
+
+Apparatus: Beam balance, set of weights, overflow can, catch bucket, string, water, insoluble object (such as stone, glass stopper, or piece of metal). 
+
+Procedure: 
+
+1. Mount the beam balance on the rod support. 
+
+2. Weigh the object in air, and record its weight. 
+
+3. Weigh the empty catch bucket and record. 
+
+4. Place one finger over the spout of the overflow can and fill the can well above the spout with water. 
+
+5. Still covering the spout, place the overflow can beneath the balance hook, and set the catch bucket beneath the spout. 
+
+6. Remove your finger and allow the excess water to flow out freely; do not attempt to "tease" any water out. Discard this excess water, dry the catch bucket thoroughly, and replace it beneath the spout. 
+
+7. By means of the string, slowly lower the object into the overflow can until it is completely submerged, but touching neither the sides nor bottom of the overflow can. Incomplete
+
+Wrong
+
+Other Fault. 
+
+Dwg. Data 
+
+Concl. 
+
+Complete this drawing to show one of the ste used in obtaining your data. 
+
+8. Set the catch bucket aside with the displaced water. Now weigh the object while it is suspended in the water, and record. 
+
+9. Remove the object and weigh the catch bucket with the displaced water. Record. (State units for all numerical values.) 
+
+Weight of object in air 
+
+Weight of object in water 
+
+Apparent lost weight (buoyant force)
+
+DATA 
+
+Weight of bucket with water 
+
+Weight of bucket empty 
+
+Weight of displaced water 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., Inc.
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Determine (a) the volume and (b) the density of the object you worked with, making use of your data. 
+
+2. How can you find the volume of an iron anchor if the weight of the displaced water, in pounds, is known? 
+
+3. (a) What weight will a piece of lead, with a volume of 20 cc, appear to lose when submerged in water? (b) If it were iron, would the apparent loss of weight be greater, less, or the same? (c) If the lead were submerged in alcohol, how would the apparent loss of weight be affected? 
+
+Ans. (a): (b): (c) :. 
+
+OPTIONAL QUESTIONS 
+
+C. How would the weight of salt water displaced by a given rock compare with the weight of fresh water displaced? How would the volumes compare? 
+
+B. A stone that weighs 500 lb. in air has an apparent weight of 375 lb. in water. (a) 
+
+What is the volume of this stone? (b) What will be its apparent weight in gasoline? (Consult density table in the Appendix.) 
+
+Ans. (a): ·(b): 
+
+A. An aluminum block weighs 39 g in air, 24 g in water, and 15 g in carbon tetrachloride. (a) What is the volume of the block? (b) What is the weight of the displaced carbon tetrachloride? (c) Find the density of the carbon tetrachloride from this data. 
+
+Ans. (a): (b): (c): 773
+
+NAME. 
+
+.GRADE.. 
+
+.DATE. 
+
+EXPERIMENT 3. LAW OF FLOTATION Problem: What is the relation between the buoy ant force on a floating body and the weight of the body?
+
+Apparatus: Beam balance, set of weights, overflow can, catch bucket, string, body lighter than water (such as paraffin, beeswax, or piece of wood). 
+
+Procedure: 
+
+1. Adjust the balance and weigh the object in air. Record. 
+
+2. Weigh the empty catch bucket. Record. 
+
+3. Fill the overflow can and discard the excess water as described on page 3 of Experiment 2. 
+
+Replace the dried catch bucket beneath the spout. 
+
+4. By means of the string, slowly lower the object into the overflow can until the object is floating. 
+
+5. Weigh the catch bucket and displaced water. Record. Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete this drawing to show one of the steps used in obtaining your data.
+
+DATA 
+
+(State units for all numerical values.) 
+
+Weight of bucket and water 
+
+Weight of bucket empty 
+
+Weight of displaced water 
+
+Weight of object in air
+
+Conclusion: 
+
+Answer the problem; show how you arrive at your answer by referring to your data
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+5 LO
+
+SUPPLEMENTARY QUESTIONS 
+
+1. A floating buoy is known to displace 30 lb. of water. It floats with 2% of its volume submerged. (a) How much does the buoy weigh? (b) What is the buoyant force on the buoy? (c) What external force would be required to submerge the buoy completely? 
+
+Ans. (a): (b): 
+
+2. Explain why a balloon rises, and why it stops rising at a certain height. 
+
+3. A block of wood 2 X 4 X 6 cm floats half submerged in water. (a) What external force would be necessary to submerge it completely? Explain. (b) Why would a 25-gram piece of lead suspended beneath the block fail to submerge it? 
+
+Ans. (a):
+
+OPTIONAL QUESTIONS 
+
+C. Why is it easier for a fat boy to float than a thin one, even though the fat boy may weigh more?
+
+B. A flat piece of steel will sink in water. Why will it float if it is bent into the shape of a boat?
+
+A. A steel ball weighing 60 g is placed in a jar partially filled with mercury. The density of mercury is 13.6 g per cc; that of steel is 7.5 g per cc. (a) What weight of mercury does the floating ball displace? (b) What volume of the steel ball will be submerged? (c) If water is poured into the jar until the ball is covered, will more or less of the ball be submerged in the mercury? Explain. 
+
+Ans. (a): 
+
+---
+
+NAME. 
+
+.GRADE.. DATE.. 
+
+EXPERIMENT 4. SPECIFIC GRAVITY OF SOLIDS HEAVIER THAN WATER 
+
+Problem: How can the specific gravity of a solid heavier than water be determined?
+
+Apparatus: Beam balance, set of weights, beaker or can, water, string, heavy insoluble objects.
+
+Procedure: 
+
+1. Adjust and mount the balance on a rod support. 
+
+2. Weigh the object in air. 
+
+3. Suspend the object from the balance hook and weigh the object submerged in a beaker of water. (NOTE: Use no more string than is necessary, and make certain that the object does not touch the beaker.) 
+
+4. Repeat the procedure for each of the other objects. 
+
+5. Determine the accepted values of the specific gravities of the objects tested from the table on page 117. Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Concl. 
+
+Complete this drawing to show one of the steps used in obtaining your data. གས་ (State units for all numerical values.
+
+) 
+
+DATA Name of material Weight in air Weight in water 
+
+Loss of weight 
+
+Specific grav- 
+
+Specific grav- ity (calculated) ity (from table) 
+
+*Definition: Specific gravity is 
+
+Show one computation of specific gravity from the above data:
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC.
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Complete the following table showing the relationship between density and specific gravity:
+
+Data of This Experiment 
+
+Density Computed Name of Material 
+
+Specific
+
+Gravity Metric English 
+
+Show one computation for density in the English system: System System 2. Explain how you could determine whether a ring is pure gold by using specific gravity. 
+
+3. How do you know that the weight of an object in air minus its weight in water is equal to the weight of an equal volume of water? 
+
+OPTIONAL QUESTIONS 
+
+C. A certain piece of sulfur weighs 500 lb. in air and 250 lb. in water. (a) What is its specific gravity? (b) What is its volume? 
+
+Ans. (a): (b): 
+
+B. The specific gravity of a brick is 2.08. How much does the brick weigh if its dimensions are 2 X 4 X 8 inches? Ans:
+
+A. The specific gravity of aluminum is 2.6. (a) What volume of aluminum weighs exactly 100 gm when submerged in water? (b) What is its weight in air? 
+
+Ans. (a): (b):
+
+NAME.. 
+
+GRADE... 
+
+.DATE. 
+
+EXPERIMENT 5. SPECIFIC GRAVITY OF SOLIDS LIGHTER THAN WATER  Incomplete Wrong Other Fault 
+
+Dwg. Data 
+
+Problem: How can the specific gravity of a solid lighter than water be determined?
+
+Calc. 
+
+Concl. 
+
+Apparatus: Beam balance, set of weights, string, beaker or can, water, sinker, piece of paraffin or other object lighter than water. 
+
+Procedure: 
+
+1. Mount the balance on a rod support. 
+
+2. Attach the object to the balance hook, and weigh in air. 
+
+3. Suspend the sinker from the object, and weigh with only the sinker submerged in water. 
+
+4. Weigh with both object and sinker submerged. 
+
+Complete this drawing to show one of the steps used in obtaining your data. (State units for all numerical values.) 
+
+DATA 
+
+Object in air 
+
+Object in air, sinker in water 
+
+Object and sinker in water 
+
+Buoyant effect on object 
+
+Specific gravity of object 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BODE CO., INC.
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Explain how specific gravity determines whether an object will float or sink in water. 
+
+2. How does a submarine make use of this principle?
+
+OPTIONAL QUESTIONS 
+
+C. Using the following data, compute the specific gravity of the wood: 
+
+Weight of sinker in water, 70 grams 
+
+Weight of wood in air, 34 grams
+
+Weight of wood and sinker submerged in water, 36 grams. Ans:
+
+B. What volume of sea water must a 2,000 ton submarine take into its tanks in order to submerge? The average specific gravity of the submarine is 0.88. Density of sea water is 
+
+64 lb. per cu. ft. Ans:
+
+A. What external force would be required to submerge completely a cube of wood 20 cm on edge when floating in alcohol? Sp. gr. of alcohol is 0.83. Density of the wood is 0.5 g per cc. Ans: 10
+
+ΝΑΜΕ.. GRADE.. 
+
+DATE. 
+
+EXPERIMENT 6. SPECIFIC GRAVITY OF LIQUIDS (Bottle Method) Problem: How can the specific gravity of a liquid be determined by means of a specific gravity bottle?
+
+Apparatus: Platform balance, weights, specific gravity bottle, water (cold water will give more accurate results), alcohol, copper sulfate solution, or other liquid.
+
+Procedure: 
+
+1. Weigh the dry specific gravity bottle with its stopper. 
+
+2. Fill the bottle with water. Insert the stopper and allow it to settle slowly by its own weight. 
+
+Excess water will rise into the capillary tube inside the stopper.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Concl. 
+
+Complete this drawing to show one of the steps used in obtaining your data. 
+
+3. Make certain that there are no air bubbles in the water. Carefully dry the outside of the bottle, an‹! weigh. 
+
+4. Empty and thoroughly dry the bottle. 
+
+5. Fill the bottle with one of the "unknown" liquids, and weigh, taking the same precautions as before. 
+
+6. Repeat the procedure with another liquid, if time permits. (State units for all numerical values.) 
+
+Name of liquid 
+
+DATA 
+
+Weight of bottle 
+
+Weight of Weight of bottle+water bottle+liquid 
+
+Weight of 
+
+Weight of water liquid 
+
+Sp. gr. of liquid 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., Inc. 
+
+11
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Compute the volume of the bottle that you used in this experiment.
+
+Ans: 
+
+2. In this experiment you weighed a definite volume of liquid and compared the weight with the weight of the same volume of water. Describe a method of determining the weight of a definite volume of a liquid without actually weighing the liquid. (HINT: Use Archi medes' Principle.) 
+
+3. A specific gravity bottle which weighs 45 g, weighs 81 g when filled with ether. How much would it weigh when filled with water? Ans:
+
+OPTIONAL QUESTIONS 
+
+C. Why are specific gravity and density numerically equal in the metric system, but not in the English system? 
+
+B. A specific gravity bottle weighs 38 g. Filled with alcohol (sp. gr. 0.80) it weighs 78 g. 
+
+Filled with gasoline it weighs 73 g. What is the specific gravity of the gasoline? Ans:
+
+A. (Specific Gravity by Displacement) A piece of quartz weighs 160 g in water, 180 g in kerosene, and 260 g in air. Find (a) the specific gravity of the quartz, (b) the specific gravity of the kerosene. 
+
+Ans. (a): 
+
+12
+
+NAME.... 
+
+.GRADE. 
+
+.DATE. 
+
+EXPERIMENT 7. 
+
+SPECIFIC GRAVITY OF LIQUIDS  Incomplete Wrong Other Fault 
+
+Dwg. 
+
+(Hydrometer Method) 
+
+Data 
+
+Calc. 
+
+Problem: How can the specific gravity of a liquid be determined by measuring the depth to which a floating object sinks in it?
+
+Apparatus: Weighted wood stick, 3 glass cylinders, light liquid, heavy liquid, water, glass hydrometers for light and for heavy liquids. 
+
+Procedure: 
+
+1. Fill the three cylinders with water, light liquid, and heavy liquid, respectively. 
+
+2. Place the weighted wood stick in the water, and read the depth to which it sinks. 
+
+3. Take a direct reading of the specific gravity of the water, using one of the hydrometers. 
+
+4. Repeat the procedure for the light liquid, using the proper hydrometer. 
+
+5. Repeat with the heavy liquid.
+
+DATA 
+
+(State units for all numerical values.
+
+) 
+
+Concl. 
+
+hydrometer at their respective depths in each liquid. 
+
+Complete this drawing to show the wood stick and hydrometer at their respective depths in each liquid. 
+
+Label each liquid.
+
+Liquid Depth of stick 
+
+Sp. gr. (computed) 
+
+Sp. gr. (hydrom- eter) 
+
+Show computations here:
+
+Water Light liquid 
+
+Heavy liquid 1 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+13
+
+SUPPLEMENTARY QUESTIONS 
+
+1. In which liquid does the hydrometer stick sink deepest? Why? 
+
+2. In Experiment 6, you found specific gravity by comparing the weight of a liquid with the weight of an equal volume of water. What did you actually compare in this experiment? 
+
+3. When using a wood stick to find specific gravity, why do you divide the depth in water by the depth in liquid, instead of the reverse?
+
+OPTIONAL QUESTIONS 
+
+C. Name three practical applications of the hydrometer, and tell why it is important to know specific gravity in each case. (1) .(2) (3) B. Why are the graduations on a hydrometer not equally spaced? Would they be equally spaced on a hydrometer shaped like the wood stick you used? 
+
+A. Describe and explain how a hydrometer that is used for both heavy and light liquids is constructed. 14
+
+NAME.. 
+
+GRADE.... 
+
+.DATE.. 
+
+EXPERIMENT 8. DENSITY OF AIR  Incomplete 
+
+Wrong
+
+Other Fault 
+
+Problem: How can the density of air be determined?
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Apparatus: Electric light bulb,* water, blowpipe, Bunsen burner.
+
+Procedure: 
+
+1. Carefully weigh the light bulb, estimating to hundredths of a gram. 
+
+2. Practice holding the blowpipe in the upper part of the burner flame, blowing continuously and steadily, until you have learned to produce and control a pinpoint flame. 
+
+3. Make a hole in the bulb with the blowpipe flame. Continue melting the glass until the "pushed-in" glass melts to a smooth edge. 
+
+4. Now weigh the bulb. 
+
+Complete this drawing to show one of the steps used in obtaining your data. 
+
+5. Fill the bulb by running a small stream of water into the hole. Carefully work out all air bubbles. 
+
+6. Weigh the bulb filled with water.
+
+DATA 
+
+(State units for all numerical values.) 
+
+Weight of bulb 
+
+Weight of 
+
+Sp. gr.
+
+Density of air of air
+
+Empty 
+
+With air 
+
+With water
+
+Air Water Conclusion: 
+
+ *NOTE TO TEACHER: A 40-watt Mazda bulb is recommended; larger size bulbs are usually gas-filled, and will give unsatisfactory results for that reason.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+15
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why does the hole in the bulb break inward? 
+
+2. Balloons and dirigibles are filled with helium to make them rise. If the light bulb were filled with helium, do you think it would weigh more or less than the original empty bulb? 
+
+3. Using the data of this experiment, compute (a) in grams, and (b) in pounds, the weight of the air in your classroom. Your instructor will give you the dimensions of the room. 
+
+Ans. (a): (b)': 
+
+OPTIONAL QUESTIONS 
+
+C. A dirigible has a volume of 6,000,000 cu. ft. When filled with helium, what weight will it lift, if the density of the air is 1.2 oz. per cu. ft., and the density of helium is 0.2 oz. per cu. ft.? Ans:
+
+B. Explain how each of the following will affect the density of atmospheric air: (a) cyclones and anticyclones; (b) temperature; (c) relative humidity. 
+
+A. A small hollow steel cylinder and an empty toy balloon are weighed. Account for any change or apparent change in their weights after each has been filled with a cubic foot of hydrogen. 16 AAA •^
+
+NAME. 
+
+GRADE. 
+
+.DATE. 
+
+1 
+
+EXPERIMENT 9. MEASURING ALTITUDE 
+
+Problem: How can a barometer be used to measure the difference of elevation between two places?
+
+Apparatus: Aneroid barometer. 
+
+Procedure: 
+
+1. Read the barometer, to the nearest hundredth of an inch, in the basement of the tallest nearby building. (Three or four stories will be sufficient, although the results will be better, the greater the elevation.) 
+
+2. Read the barometer on the top floor of the building. (Tapping the barometer with a pencil will prevent sticking of the needle, and give a more accurate reading.) 
+
+3. Compute the difference in elevation, assuming a difference in pressure of 1 inch for every 900 feet. 
+
+4. The average building is constructed with a 
+
+Incomplete  
+
+Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Calc. 
+
+Concl. 
+
+Complete this drawing, representing the first reading by a broken-line arrow, and the second by a solid arrow. 75cm 76cm 30in. 77cm distance of about 9.5 feet between floors. Using this figure, or after obtaining a more accurate one for the building you used, check your results against the actual difference in elevation. (State units for all numerical values.)
+
+DATA 
+
+Reading at low elevation
+
+Reading at high elevation Difference in readings 
+
+Difference in elevation
+
+COMPUTATIONS Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INO. 
+
+17
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Express normal atmospheric pressure in terms of: (a) cm of mercury (b) in. of mercury (c) lb. per sq. in. (d) gm per sq cm (e) ft. of water 
+
+2. Why do many fountain pens leak when carried at high altitudes by airplane passengers? 
+
+3. Do you think it is necessary to open the windows in order to obtain an accurate reading of barometric pressure? Explain.
+
+OPTIONAL QUESTIONS 
+
+C. Name and explain two uses for the barometer. 
+
+B. A column of mercury in a barometer weighs 516.6 g. The cross-sectional area of the column is 0.5 sq cm. Compute the atmospheric pressure in g per sq cm and in cm of mercury. Ans:
+
+A. Explain why the mercurial barometer must be corrected for temperature. 18
+
+NAME.. 
+
+GRADE.. 
+
+DATE. 
+
+EXPERIMENT 10. BOYLE'S LAW Problem: What is the relation between the pressure on a given mass of gas and the volume of the gas if the temperature is kept constant? 
+
+Apparatus: J-tube, mercury, beaker, barometer. 
+
+Procedure: 
+
+1. Record the reading of the barometer and the reading at the top of the closed tube. 
+
+2. Add mercury to the open tube until the level in the open tube is the same or slightly higher than that in the closed tube. 
+
+3. Take the reading at the top of the mercury in each arm of the J-tube. 
+
+4. Add 5 to 10 cc of mercury to the open arm, and repeat the readings. 
+
+5. Repeat step 4 until the difference between the two readings is equal to the barometer reading. 
+
+6. Compute the total pressure on the enclosed air (P) by adding the barometer reading to the difference between the height in the open arm and the height in the closed arm. 
+
+7. Compute the volume of the enclosed air (V) by subtracting the closed tube reading from the reading at the top of the closed tube. 
+
+DATA 
+
+(State units for all numerical values.)
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete this drawing to show, by means of dotted lines, the levels of the mercury at each reading. Construct a graph of volume against pressure. 
+
+Barometer reading: 
+
+Reading 
+
+Closed tube Open tube
+
+Difference 
+
+Reading at top of closed tube:
+
+Pressure (P) Volume (V) 
+
+1 2 3 4 
+
+Conclusion: 
+
+PX V 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+19
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Notice the relation between the original pressure and the final pressure. What effect did this have on the volume of the enclosed air? 
+
+2. What volume of air, at normal pressure, must be pumped into a football of 300 cu. in. volume at the required gauge pressure of 13 lb.? *
+
+Ans: 
+
+3. If a given mass of gas has a volume of 1000 cc under a pressure of 45 cm of mercury, what will be the volume at standard pressure?
+
+Ans: 
+
+OPTIONAL QUESTIONS 
+
+C. The air brakes of a truck are operated from a tank 2 cu. ft. in capacity, into which an additional 18 cu. ft. of air at normal pressure has been pumped. What pressure (lb. per sq. in.) will be exerted against the brake piston? Ans:
+
+B. To what volume will an air bubble of 1 cu. in. under 34 ft. of water change when it rises to the water surface? Ans:
+
+A. The volume of an automobile tire, when inflated, is ½ cu. ft. What volume of air at `ormal pressure must be pumped into the tire to produce a gauge pressure of 30 lb.? 
+
+Gauge reading plus atmospheric pressure equals total pressure. Ans: 20
+
+ΝΑΜΕ. .GRADE.. 
+
+DATE.. 
+
+EXPERIMENT 11. COMPOSITION OF FORCES 
+
+Problem: How can you find the single force which has the same effect as two other forces acting at an angle with each other?
+
+Apparatus: Two spring balances, weight (about equal to the maximum spring balance reading), string, crossbar support, protractor.
+
+Procedure: 
+
+1. Fasten the two spring balances some distance apart on the support. Tie a string from one balance hook to the other; the length of the string should be about one and one-half times the distance between the balances. 
+
+2. The weight should now be suspended from a point about one-third the distance from one end of the string. Do this by fastening a string to the weight and then tying the string to the first string. (See illustration.) 
+
+3. The balance readings should now be different. 
+
+Record each reading. 
+
+4. Hold this page behind the three strings so that the dot at the right falls behind the knot where the strings are joined. Make a mark on the paper behind each string (as far from the dot as possible). Join each mark to the central dot.
+
+The three lines formed represent the strings. (Check your diagram by measuring the angles at the strings and on your paper.) 
+
+5. Along each line mark off a distance equal to the force on that string (using a convenient scale).
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Construct a parallelogram, using the two "strings" attached to the spring balances as sides. 
+
+6. Draw and measure the diagonal of this parallelogram. This is the resultant. (State units for all numerical values.) 
+
+DATA Reading of left balance
+
+Reading of right balance Weight 
+
+Force of resultant 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., Inc. 
+
+21
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Distinguish between equilibrant and resultant. In the set-up of this apparatus, what part represents the equilibrant? 
+
+2. Make drawings illustrating three practical applications of this principle. 
+
+3. An airplane flying eastward at 120 mi. per hr. is affected by a cross wind of 60 mi. per hr. The wind blows from the north. What are the speed and the direction of the plane? Ans:
+
+OPTIONAL QUESTIONS 
+
+B. An 80-lb. girl sitting in a swing is held in a position away from the vertical by a force of 60 lb. acting parallel to the ground. By vector solution show the distribution of the forces and state the tension on each rope. Ans:
+
+A. In this experiment you found the resultant of the forces in the strings attached to the balances. What would have been the resultant of the force in the right-hand string and the force in the string supporting the weight? (Describe completely.) 22
+
+NAME. 
+
+...GRADE. 
+
+.DATE.. 
+
+EXPERIMENT 12. RESOLUTION OF FORCES 
+
+Problem: How can you find the component forces which support a given weight (as in the diagram)? 
+
+Apparatus: String, two spring balances, weight, simple truss, protractor.
+
+Procedure: 
+
+1. Set up the apparatus as shown in the diagram, making certain that the stick BC is not horizontal. 
+
+2. Add enough weight at R to stretch the balance
+
+T nearly to its full scale reading. Record the weight R and the balance reading T. 
+
+3. Measure the angles BCR and ACR with a large protractor. 
+
+4. Attach a second balance at C, and pull out in the line of the stick BC until the stick just leaves the wall at B. The balance reading will be equal to the original compression in the stick. Record this reading. 
+
+5. Using the given force R and the two measured angles, construct a diagram of the three forces on a separate sheet of paper, using a convenient scale. Determine from your diagram
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing to show the values of all forces.
+
+25 the values of the tension T and compression in the stick BC. Compare with the measured values. (State units for all numerical values.) 
+
+DATA 
+
+Force T 
+
+Force BC
+
+< BCR ZACR 
+
+Measured 
+
+Computed
+
+Measured 
+
+Computed
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE Boox Co., INO. 
+
+23
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Give three illustrations of practical applications of the simple truss. Show how each works. Drawings may be used.
+
+OPTIONAL QUESTIONS 
+
+C. A window pole is pushed against a window at an angle of 30°, with a force of 25 lb. 
+
+Find the vertical and horizontal component forces. Ans:
+
+B. A girl is pulling a sled with a force of 15 lb., using a rope 3 ft. long. The upper end of the rope is 1 ft. higher than the lower end. Find the effective forward force. Ans:
+
+A. A tugboat is pulling a barge with a force of 1300 lb. on a rope 130 ft. long. The boats move in parallel paths 50 ft. apart. What is the effective forward force? 24 Ans: 777344
+
+NAME. 
+
+.GRADE.. 
+
+DATE. 
+
+EXPERIMENT 13. PRINCIPLE OF MO- MENTS 
+
+Problem: How must the weights on a pivoted bar be arranged in order to produce equilibrium (perfect balance)? 
+
+Apparatus: Upright, clamp, meter stick, weights.
+
+1. Suspend the meter stick on the support so that it balances exactly. Record the mark at which the stick is supported. 
+
+2. Suspend two unequal weights from the meter stick, one on each side of the support, in such a way that the stick balances. Record each weight and the mark at which it is suspended. (It is suggested that one of the weights be placed at an even division, such as 70 cm or 80 cm.) 
+
+3. Using three weights, not all equal, suspend two at different places on the right, and the third on the left, in such a way that the stick balances. Record weights and positions. 
+
+4. Using four weights, place two on each side, at different points, so that the stick balances. 
+
+Record weights and positions. (State units for all numerical values.) Step 
+
+Weight on left 
+
+Position on stick 
+
+Distance from fulcrum 
+
+Weight on right 
+
+Position on stick 2 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg.
+
+Data Calc.
+
+Concl. 
+
+Complete this drawing to show the magnitude and · location of each weight for each step of the procedure. DATA Fulcrum at 3 XXX 
+
+Distance from fulcrum 
+
+Clockwise moment 
+
+Counter-clockwise moment
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+25
+
+SUPPLEMENTARY QUESTIONS 
+
+1. If the weights are unequal, what relation is there between weights and distances from the fulcrum when the bar is in equilibrium? 
+
+2. How can you find the total weight on the fulcrum? 
+
+3. If a boy weighing 190 lb. is 6 ft. from the fulcrum of a seesaw, how far on the other side will a boy weighing 100 lb. have to sit in order to balance the first boy? Ans:
+
+OPTIONAL QUESTIONS 
+
+C. What moment is possessed by a 5-lb. weight that is hung 3 ft. from a lever's fulcrum? Ans:
+
+B. What force must be applied at a 5-ft. arm distance to balance a 100 ft.-lb. moment that tends to move in the opposite direction? Ans:
+
+A. Two boys carry a 100-lb. load between them on an 8-ft. stick. Where is the load placed if one boy carries twice as much as the other? Ans: 26
+
+NAME. 
+
+GRADE. 
+
+.DATE. 
+
+EXPERIMENT 14. PARALLEL FORCES Problem: What is the resultant of two parallel forces and where is its point of application? 
+
+Apparatus: Two spring balances (at least 1000 g), meter stick, meter stick clamps or string, 1000-g weight.
+
+Procedure: 
+
+1. Fasten the two spring balances to a cross-bar support, 80 cm apart. 
+
+2. Place the clamps or tie strings at the 10-cm and 90-cm marks on the meter stick, and suspend the stick from the balance hooks. 
+
+The stick should be horizontal, and the balances vertical. 
+
+3. Record the balance readings. 
+
+4. Support the weight at the 30-cm mark. 
+
+Record the balance readings. 
+
+5. Repeat with the weight at the 50-cm mark. 
+
+6. Repeat at the 80-cm mark.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing to show the position of the weight and the balance readings. 10cm 90cm (State units for all numerical values.
+
+) 
+
+DATA. 
+
+Weight 
+
+Left balance
+
+Right balance 
+
+Reading Difference
+
+Reading Difference
+
+None 30-cm 50-cm 80-cm 
+
+COMPUTATIONS 
+
+Using your data for the weight at the 30-cm mark, compute the moments about the 60-cm mark and enter each moment in the proper column. 
+
+Distance from Distance from left balance right balance
+
+Moments computed about the 60 cm mark Moment due to 
+
+Left bal. 
+
+Right bal. Weight
+
+Clockwise Counter-clockwise 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+27
+
+Conclusion: 
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Using your data for the weight at the 50-cm mark, compute the moments about the left-hand balance. Draw a diagram and label it. 
+
+2. Using your data for the weight at the 80-cm mark, compute the moments about the weight as fulcrum. Draw and label a diagram. 
+
+3. Explain (a) why the meter stick does not move vertically; (b) why it does not move horizontally; (c) why it does not rotate.
+
+OPTIONAL QUESTIONS 
+
+C. Max and Milton are carrying 120 lb. of ice suspended from a 5-ft. pole. If the ice is suspended 2 ft. from Milton, how much does each carry? 
+
+Ans. Max: Milton:
+
+B. A 15-ft. painter's scaffold weighing 200 lb. is supported by ropes at each end. What is the force at each end when a 180-lb. man stands 5 ft. from one end? Ans: 74414 28
+
+NAME. 
+
+GRADE. 
+
+.DATE. 
+
+EXPERIMENT 15. CENTER OF GRAVITY AND WEIGHT OF A LEVER 
+
+Problem: How can you find the weight of a bar by means of the Principle of Moments? 
+
+Apparatus: Meter stick, knife-edge, set of weights, balance.
+
+Procedure: 
+
+1. Balance the meter stick on the knife-edge, and record the point at which it balances. (This point is the center of gravity of the meter stick. The whole weight of the stick may be considered to be concentrated at this point.) 
+
+2. Support the stick at another point, and balance it by suspending a known weight from the stick. Record the location of the new fulcrum, the location of the weight, and the magnitude of the weight. 
+
+3. Repeat step 2, using each of two other weights in turn. 
+
+4. Using the data, and applying the Principle of
+
+Moments, compute the weight of the meter stick for each case. 
+
+5. Check the computed weight by weighing th meter stick on a balance.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing to show the weights, their locations, and the position of the center of gravity. (State units for all numerical values.)
+
+DATA 
+
+Center of Gravity at
+
+Location of 
+
+Distance of fulcrum Weight
+
+Computed weight Measured weight Weight
+
+Fulcrum 
+
+To weight 
+
+To c.g.
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+29
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Explain why it is so much more difficult to support a long rod in a horizontal position than in a vertical position, when it is held near one end. 
+
+2. Explain two ways in which engineering knowledge of the center of gravity is utilized to make the modern automobile more stable. 
+
+3. Make a drawing of a salt shaker that won't tip over. Show it in two positions: one erect and one on its side. Label the location of the center of gravity in both cases. 
+
+OPTIONAL QUESTIONS 
+
+C. How can you find the center of gravity of a baseball bat?
+
+B. A fishpole is 8 ft. long and weighs 12 oz. The center of gravity is 20 in. from the big end. A boy returning from fishing attached his fish to the small end of the pole and balanced the pole across a wire fence at a point 8 in. from that end. How much did his fish weigh? (Express in lb.) Ans:
+
+A. A tapering pole was balanced at its center of gravity. The pole was then sawed through at that point and one piece was found to weigh more than the other. Which piece was the heavier? Explain. 75 30 339
+
+NAME. 
+
+GRADE. 
+
+DATE.. 
+
+EXPERIMENT 16. THE INCLINED PLANE  Incomplete 
+
+Wrong
+
+Other Fault 
+
+Dwg. 
+
+Problem: What determines the mechanical ad vantage (m.a.) of an inclined plane?
+
+Data 
+
+Calc. 
+
+Concl. 
+
+Apparatus: Inclined plane, car, large weight (1000 to 2000 g), spring balance, string.
+
+Procedure: 
+
+1. Weigh the empty car. Record the sum of the car's weight and the weight to be used in this experiment. Place the weight in the car. 
+
+2. Set up the inclined plane at a small angle.
+
+Measure the length of the plane and its height, as indicated on the drawing. 
+
+3. Tie the car to the spring balance, and place the car and weight on the inclined plane. Pull the car slowly and with uniform speed up the plane, keeping the string parallel to the plane at all times. Read the spring balance while doing this. 
+
+4. Repeat with the plane at a greater angle with the table. 
+
+5. Repeat with a still greater angle. 
+
+Complete this drawing to show dimensions and readings.
+
+(State units for all numerical values.) 
+
+Weight of car + load 
+
+Height 
+
+DATA Scale Theoretical 
+
+Actual Length reading m.a. L÷ Hm.a. = R ÷ E 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+31
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Complete the following table, showing the work input, work output, and efficiency of the inclined plane for each of the three positions tested: Input effort
+
+Input distance
+
+Output resistance Output distance
+
+Work input 
+
+Work output
+
+Efficiency 
+
+2. Complete the following table showing efficiency computed on the basis of actual and theoretical mechanical advantage:
+
+Theoretical m.a.
+
+Actual m.a.
+
+Efficiency 3. Explain why a small effort can move a large resistance, if work output can never exceed work input.
+
+OPTIONAL QUESTIONS 
+
+C. A boat weighing 180 lb. is pulled up an inclined bank 12 ft. long and 4 ft. high by a force parallel to the incline. What effort would be required if there were no friction? Ans: 
+
+B. What effort would be required in Question C if the above "machine" is 40% efficient? Ans:
+
+A. A force of 48 lb. is needed to roll a barrel up a board 16 ft. long into a truck 4 ft. above the ground. (a) If 20% of the work goes toward overcoming friction, how heavy is the barrel? (b) How much less work would be required, if the barrel were lifted directly on to the truck? (c) How much more force? 
+
+Ans. (a): (b): (c): 32
+
+ΝΑΜΕ. GRADE.... 
+
+.DATE. 
+
+EXPERIMENT 17. WHEEL AND AXLE 
+
+Incomplete
+
+Wrong
+
+Other Fault Problem: What determines the mechanical ad vantage of the wheel and axle?
+
+Dwg. Data 
+
+Calc. 
+
+Concl. 
+
+Apparatus: Wheel and axle, cords, spring balance, weights.
+
+Procedure: 
+
+1. Wind a cord around the outside wheel twice, and attach it to the spring balance. 
+
+2. Fasten another cord to the axle, wind the cord two or three times around the axle in the opposite direction, and attach the weight to the cord. (Note that the wheel and axle is now a machine like the lever, with its fulcrum at the center of the axle.) 
+
+3. Raise the weight slowly and uniformly by pulling down with the spring balance. Record the balance reading. 
+
+4. Measure the distance through which the balance moves when the weight is raised 10 cm. 
+
+5. Repeat your observations with the cord around the middle wheel. 
+
+6. Repeat for the inside wheel. (State units for all numerical values.)
+
+Resistance 
+
+Complete this drawing to show the forces and distances used in this experiment.
+
+DATA 
+
+RD 10cm E3 E₂ E₁ 2 Effort Mechanical advantage 
+
+Radius of Radius of wheel (RW) axle (RA)
+
+ᎡᎠ ED RW ÷ RA R÷E 
+
+10 cm 10 cm 10 cm 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+33
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Complete the following table, for each case of your data, showing the efficiency of the machine computed on the basis of work input and output, and on the basis of actual and theoretical mechanical advantage.
+
+Work Mechanical advantage Efficiency 
+
+Input 
+
+Output 
+
+Theor.
+
+Actual 
+
+From work
+
+From m.a. 
+
+2. Distinguish between mechanical advantage and efficiency.
+
+OPTIONAL QUESTIONS 
+
+C. If the mechanical advantage of a steering wheel is 16, (a) what resistance will an effort of 5 lb. overcome? (b) What is the ratio of wheel diameter to axle diameter? 
+
+Ans. (a): (b): 
+
+B. The crank on a car window is 3 in. long and operates an axle 1½ in. in diameter. 
+
+How much resistance can an effort of 7 lb. overcome? Ans:
+
+A. A 100-lb. bag of cement is raised to a roof 40 ft. high by a windlass whose crank arm is 9 in. long and whose axle is 6 in. in diameter. (a) Neglecting the weight of the rope, and friction, how much effort must be applied to support the load? (b) How far does the handle move? 
+
+Ans. (a): 
+
+34
+
+NAME.. 
+
+GRADE.. 
+
+.DATE. 
+
+EXPERIMENT 18. BLOCK AND TACKLE Problem: What determines the mechanical ad vantage of an arrangement of fixed and movable pulleys? 
+
+Apparatus: Four pulleys, string, spring balance, 1000-g weight. Procedure? 
+
+1. (Single fixed pulley) Attach the string to the weight, thread the string through the pulley, and attach it to the balance. Raise the weight slowly and uniformly by pulling down with the spring balance. Record the balance reading (E), and the distance E moves down when R moves up 5 cm. 
+
+2. (One fixed, one movable pulley) Attach the weight to the movable pulley, and thread the string from the hook on the fixed pulley through the movable pulley, and around the fixed pulley to the balance. Record data as in step 1. 
+
+3. (Two fixed, one movable pulley) Repeat the readings for this arrangement. 
+
+4. (Two fixed, two movable pulleys) Repeat the readings for this arrangement. 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing to show the strands and forces involved.
+
+(State units for all numerical values.) 1 2 3 DATA 
+
+Step Resistance Effort 
+
+R moves E moves 
+
+Conclusion: 
+
+שי 
+
+No. of sup- Mechanical advantage porting strands Theoret.
+
+Actual 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+35
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Using your data for the arrangement of two fixed pulleys and one movable pulley, compute the efficiency of the machine on the basis of work, and on the basis of mechanical advantage. 
+
+2. Explain how a block and tackle system multiplies the effort force. 
+
+OPTIONAL QUESTIONS 
+
+C. Referring to the diagram, answer the following questions: (a) The force in strand 3 is how many pounds? (b) What is the mechanical advantage of the system? (c) What is the total resistance? 100 Tb. (d) If the man pulls 20 ft. of rope through the pulley nearest the boat, how far will the boat be pulled up on shore? (e) If the resistance offered by the boat is actually 400 lb., compute the efficiency of the system.
+
+B. A block and tackle system, as indicated in the drawing, is attached to two fence posts. When force is applied at E, which post will give way first? Explain.
+
+A. Make a drawing showing the number of pulleys necessary to raise a piano weighing 
+
+2000 lb. by means of a pull of 400 lb., assuming the machine to be 100% efficient. How much effort would be necessary, using the same number of pulleys, if friction wasted 20% of the effort? Ans: 36
+
+NAME.. 
+
+GRADE... .DATE... 
+
+EXPERIMENT 19. 
+
+ACCELERATION OF GRAVITY (Pendulum Method) Problem: What is the value of g in the laboratory? 
+
+Apparatus: Pendulum ball, pendulum clamp, silk thread, watch, vernier caliper.
+
+The time of one vibration of a pendulum (its period) depends only on the length of the pendulum and on the acceleration due to gravity, if the arc of the pendulum is small. The weight of the pendulum has no effect on the period. formula which expresses these facts is:
+
+The 
+
+== 2π ​or, g 42L T2 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Concl. 
+
+where L is the length in cm, T is the period in seconds, and g is the acceleration of gravity in cm per sec. per sec. In this experiment, you will use a pendulum to determine g from this formula. 
+
+1. Support the pendulum on a thread about 100 cm long. Measure the exact length of the thread from support to ball, and measure the diameter of the ball. 
+
+2. Compute the distance from the support to the center of the ball, and record this as the length. 
+
+3. Set a card with a vertical line on it behind the pendulum ball, and set the pendulum swinging through a small arc. Count one vibration each time the ball passes the line in the same direction, and determine the time for 100 complete vibrations. 
+
+4. Repeat for 50 vibrations, and for 200 vibrations. (State units for all numerical values.)
+
+Length Time 
+
+Vibra- tions Value Period of g 100 50 200 
+
+DATA Computations: 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+37
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Is the value of g the same all over the world? Upon what does it depend? 
+
+2. Compute the length of a pendulum which would have a period of 1 second in your laboratory. (This is called a "seconds pendulum.") 
+
+OPTIONAL QUESTIONS 
+
+C. A pendulum whose length is 10 meters makes 567.47 complete vibrations per hour at 
+
+Paris. What is the value of g there?
+
+B. If the mass of a pendulum is doubled, the force of gravity on the pendulum is also doubled. Why isn't the period of the pendulum shortened?
+
+A. What would be the effect on the period if the pendulum were used at the same altitude as in this experiment, but at the equator? What happens to the period as the altitude increases? 388
+
+NAME. 
+
+GRADE.. 
+
+DATE. 
+
+EXPERIMENT 20. 
+
+FORCE, WORK,‘HORSEPOWER 
+
+Problem: Is there any relation between the work done in lifting a body and the work done in dragging it the same distance? Does time have any effect on work done? On power? 
+
+Apparatus: Spring balance, weight, yardstick, stopwatch or watch with second hand.
+
+Procedure: 
+
+1. Attach the balance to the weight. Moving slowly and uniformly, raise the weight exactly six feet. Read the balance after steady motion is reached. Determine the time required to raise the weight six feet. (One person should raise the weight, a second read the balance, and a third measure the time.) 
+
+2. Repeat the readings, raising the weight in about half the time required in step 1. 
+
+3. Drag the weight uniformly along the floor a 
+
+ Incomplete Wrong Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete this drawing to show the forces used. ·6ft. distance of six feet. Record the balance reading and the time. 
+
+4. Repeat the readings for a greater speed. 
+
+5. Compute work done, power in foot-pounds per second, and power in horsepower. 6 ft. 
+
+DATA 
+
+(State units for all numerical values.) Weight... Force
+
+Distance 
+
+Time 
+
+Work 
+
+Power Horsepower 
+
+Lifted slowly 6 ft. 
+
+Lifted rapidly 6 ft. 
+
+Dragged slowly 6 ft. Dragged rapidly 6 ft. 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+39
+
+SUPPLEMENTARY QUESTIONS 
+
+(Experiment) Walk slowly up a flight of stairs, and measure the time required. 
+
+Measure the height of the stairs. Repeat for an ascent at greater speed. What is the force in each case? Compute work done and horsepower for each ascent. Slow
+
+Fast 
+
+Force Time Distance Work 
+
+Horse- power 2. An airplane driven by a 200-horsepower motor is flying at the rate of 120 miles per hour. What is the force of the backward thrust of the propeller? Ans:
+
+OPTIONAL QUESTIONS 
+
+C. An automobile weighing 3,000 lb. is pulled to the top of a hill 200 ft. long and 20 ft. high by a force of 400 lb. Find (a) work against gravity, (b) total work done, (c) wasted work. 
+
+Ans. (a): 
+
+B. If the car in Question C was pulled up the hill in 5 seconds, what horsepower was used? Ans:
+
+A. What horsepower motor is required to lift 62,500 lb. of oil into a tank 30 ft. high in 
+
+3 minutes if the efficiency is 80%? Ans: 40
+
+NAME.. 
+
+GRADE.... 
+
+.DATE. 
+
+EXPERIMENT 21. 
+
+SPECIFIC HEAT OF A METAL 
+
+Problem: How many calories are required to raise the temperature of one gram of copper (or other metal) one degree Centigrade? 
+
+Apparatus: Steam boiler and dipper, calorimeter, copper slugs (or other metal), thermometer, Bunsen burner, water, balance, weights. 
+
+Procedure: 
+
+1. Weigh the dipper; fill it about 2 full of copper slugs, and weigh again. Determine the weight of copper. 
+
+2. Place the dipper of copper in the boiler, and insert a thermometer. Heat until the copper reaches a maximum temperature. Record this temperature. 
+
+3. Record the weight of the inner vessel of the calorimeter. Place about 150 grams of cold water in the vessel and again weigh. Record the weight of water in the vessel. 
+
+4. Place the vessel of water in the calorimeter, and record the temperature of the water and vessel. 
+
+5. Quickly pour the heated metal into the water, and stir thoroughly with the thermometer. 
+
+Watch the thermometer carefully, and record the highest temperature reached by the water. 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing to show initial and final temperatures of water.
+
+This is the "final" temperature of metal, water, and calorimeter. 
+
+6. Compute the specific heat of the metal. (State units for all numerical values.) 
+
+DATA 
+
+Weight
+
+Initial temperature temperature Final Temp. 
+
+Spec. heat Calories change Metal Water Calorimeter
+
+COMPUTATIONS 
+
+Spec. heat of metal cal. of water + cal.
+
+of calorimeter wt. of metal X temp. change 
+
+*NOTE: If water equivalent of calorimeter is given, multiply water equivalent by temperature change to find calories. 
+
+Specific heat of calorimeter will be unnecessary. 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+41
+
+Conclusion: 
+
+SUPPLEMENTARY QUESTIONS 
+
+1. What is the resulting temperature when 700 cc of boiling water are poured into a silver teapot weighing 450 grams, if the initial temperature is 20° C? Sp. ht. of silver is .056. 
+
+2. Define the calorie. Ans.
+
+OPTIONAL QUESTIONS 
+
+C. How much heat is required to change 100 cc of iron from 10° C to 96° C? Sp. ht. of iron is 0.11.
+
+B. Explain the term "water equivalent of calorimeter." Ans:
+
+A. How many grams of ice will a 500-gram block of aluminum at 150° C melt? Sp. ht. of aluminum is 0.22. Ans: 42
+
+NAME.. 
+
+.GRADE. 
+
+DATE.. 
+
+EXPERIMENT 22. 
+
+METHODS OF HEAT TRANSMISSION Problem: What are the methods of heat trans ference? 
+
+Apparatus: Metal rod, wax, Bunsen burner, beaker, water, pinwheel, air thermometer, potassium permanganate crystal or sawdust, light bulb on extension cord.
+
+Procedure: 
+
+1. Place some wax on the end of the metal rod. 
+
+Hold the other end in the flame. Record observations. 
+
+2. Hold a pinwheel above a Bunsen flame or over the room radiator. Record results. 
+
+3. Fill a large beaker half full of water. Set it on a wire gauze heated by a Bunsen burner.
+
+Drop a potassium permanganate crystal (or sawdust) into the water. Record results. 
+
+4. Hold a lighted electric bulb over the air thermometer. Record results.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete these drawings and label all parts.
+
+Step 1 Step 2 Step 3 
+
+Step 4
+
+OBSERVATIONS Conclusion: 
+
+Describe and give the theory of each method of heat transference.
+
+Copyright by COLLEGE ENTRANCE Book Co., INC. 
+
+43
+
+SUPPLEMENTARY QUESTIONS 1. Name and describe an application of heat conduction. 
+
+2. Name and describe an application of heat convection. 
+
+3. Name and describe an application of heat radiation. 
+
+4. How is each one of the above principles utilized in the heating of your home? 
+
+OPTIONAL QUESTIONS 
+
+C. Draw and explain the thermos bottle.
+
+B. Explain the operation of the radiometer. 
+
+A. Why has a long chimney more draft than a short one? 444 44
+
+NAME.. 
+
+GRADE.. DATE... 
+
+EXPERIMENT 23. 
+
+ LATENT HEAT OF FUSION Incomplete Wrong Other Fault 
+
+Dwg. 
+
+Problem: How many calories are needed to melt one gram of ice?
+
+Data 
+
+Calc. 
+
+Concl. 
+
+Apparatus: Calorimeter, beam balance, weights, crushed ice, water, Bunsen burner, ring stand and wire gauze, thermometer. 
+
+Procedure: 
+
+1. Weigh the calorimeter. Add about 100 grams of water to the calorimeter, and weigh again. 
+
+2. Heat the water to a temperature of about 
+
+80° C. Read the temperature of the water and immediately add about 50 grams of dry crushed ice. 
+
+3. Stir the mixture with the thermometer, and read the temperature as soon as the last piece of ice has melted. 
+
+4. Weigh the calorimeter and contents. (State units for all numerical values.) 
+
+Wt. of cal. + water 
+
+Complete this drawing to show initial and final temperatures. 
+
+DATA 
+
+Wt. of cal. + water + ice
+
+Initial temp.
+
+Final Temp. 
+
+temp. change 
+
+Wt. of cal.
+
+Wt. of cal. + water Calorimeter
+
+Water 
+
+Wt. of water
+
+Wt. of ice Ice 
+
+COMPUTATIONS 
+
+Spec. heat
+
+Weight × Temp. change 
+
+Heat gained Calorimeter Water
+
+gained 
+
+Heat gained 
+
+(Wt. of ice X Temp. change) Heat of fusion Wt. of ice 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+45
+
+SUPPLEMENTARY QUESTIONS 
+
+1. The air near a lake where ice is melting is cooler than air farther inland. Disregarding the effect of the specific heat of water, explain this statement. 
+
+C. Heat is (absorbed, liberated). 
+
+Heat is (absorbed, liberated).
+
+Explain. 
+
+OPTIONAL QUESTIONS 
+
+when ice melts. when water freezes.
+
+B. Which has the greater quantity of heat, a gram of water or a gram of ice, both at 0° 
+
+C? Explain.
+
+A. A glass of water (250 grams) is drawn from the faucet. Its temperature was 24°C. 
+
+What is the final temperature if a 75-gram ice cube is added? (Ignore specific heat of the glass.) Ans: 46
+
+NAME.. 
+
+GRADE... DATE... 
+
+EXPERIMENT 24. COOLING CURVE  DURING CHANGE OF STATE Incomplete 
+
+Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Problem: What heat changes take place during the solidification of acetamid?
+
+Calc. 
+
+Concl. 
+
+Apparatus: Test tube half full of acetamid crys tals, thermometer, ring stand, wire gauze, Bunsen burner, beaker of water.
+
+Procedure: 
+
+1. Support the test tube of acetamid crystals in a beaker of water on a ring stand. Place the thermometer in the test tube with the bulb entirely covered. Heat the water until the acetamid melts; the temperature should not exceed 96° C. 
+
+2. Remove the burner and the beaker of water, and allow the acetamid to cool in air, with absolutely no disturbance. Take temperature readings every half-minute, reading to tenths of a degree.. 
+
+3. Record the exact time at which solidification begins. 
+
+4. Continue the readings until a temperature of about 55° C is reached. 
+
+5. On a sheet of graph paper, plot the "cooling curve," using the horizontal axis for time, and the vertical axis for temperature. 
+
+Complete this drawing to show all parts, and the first, last, and solidification readings.
+
+TO 
+
+DATA 
+
+Solidification begins at......
+
+Time Temp Time Temp Time Temp Time Temp Time Temp Time Temp Time Temp 
+
+3.0 6.0 9.0 12.0 15.0 18.0 0.5 3.5 
+
+9.5 12.5 15.5 18.5 1.0 4.0 7.0 10.0 13.0 16.0 19.0 1.5 4.5 7.5 10.5 13.5 16.5 19.5 2.0 5.0 8.0 11.0 14.0 17.0 20.0 2.5 5.5 
+
+11.5 14.5 17.5 20.5
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+47
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Define "Latent Heat of Fusion." State the numerical value for the latent heat of fusion of ice. 
+
+2. Why do 100 lb. of ice at 0° C keep a refrigerator cooler than 100 lb. of water at 0° C? 
+
+OPTIONAL QUESTIONS 
+
+C. Why are pans of water sometimes put in a cellar to keep vegetables from freezing? 
+
+B. How many calories are released when 250 cc of water cool from 75° C to the freezing point? How many calories are released while the water freezes to ice? 
+
+Ans. (a): 
+
+A. Why is the radiator of a steam heating system usually smaller than that of a hot water heating system radiator? 48
+
+NAME. 
+
+.GRADE... 
+
+.DATE.. 
+
+EXPERIMENT 25. DISAPPEARANCE OF SENSIBLE HEAT DURING SOLUTION AND EVAPORATION Problem: What heat changes occur during evap oration and during solution? 
+
+Apparatus: Thermometer, cloth, water at room temperature, ether or alcohol, ammonium chloride, ammonium nitrate or other salts.
+
+Procedure: 
+
+1. Attach a layer of cloth to the thermometer bulb with string or a rubber band. 
+
+2. Wet the cloth in water at room temperature. 
+
+Take the reading of the thermometer before and after waving it for about two minutes. 
+
+Record these readings. 
+
+3. Repeat, using ether or alcohol to moisten the cloth. 
+
+4. Take and record the temperature of a beaker half full of water. 
+
+5. Add about four grams of ammonium nitrate, stirring it carefully with the thermometer. 
+
+6. Record the final temperature at the end of about two minutes. 
+
+7. Repeat using ammonium chloride or other salt. (State units for all numerical values.)
+
+ Incomplete Wrong Other Fault 
+
+Dwg. Data 
+
+Calc. 
+
+Concl. 
+
+Complete this drawing by labelling and indicating the respective readings. 
+
+DATA 
+
+Temperature 
+
+Water 
+
+Ether 
+
+At beginning 
+
+At end
+
+Change,+ or - 
+
+Ammonium Nitrate 
+
+Ammonium Chloride
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+49
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why does sprinkling the streets in summer help keep the city cool? 
+
+2. Does putting sugar in hot tea help to cool it? Explain. 
+
+3. Name three factors that affect rate of evaporation. Explain each. 
+
+OPTIONAL QUESTIONS 
+
+C. Explain how this experiment illustrates the kinetic theory of matter. 
+
+B. Discuss the reduction of temperature that occurs when salt (sodium chloride) is mixed with ice.
+
+A. Explain how the principle of evaporation is used in artificial refrigeration. 50
+
+NAME. 
+
+GRADE. DATE. 
+
+EXPERIMENT 26. BOILING POINT OF WATER 
+
+Incomplete
+
+Wrong 
+
+Other Fault 
+
+Dwg. 
+
+Problem: What effect has pressure upon the boiling point of water?
+
+Data Calc. 
+
+Apparatus: Flask, ring stand and ring, gauze, thermometer, two-hole stopper, glass tube with rubber tube attached, water, air pump, Bunsen burner. 
+
+Procedure: 
+
+1. Fill the flask slightly more than half full of water. Place the thermometer in one hole of the stopper, and the glass tube in the other hole, and insert the stopper in the flask. The thermometer bulb should not quite touch the water. 
+
+2. Support the flask on the ring stand, and heat, watching the contents carefully. Record the temperature at which the water boils. 
+
+3. Turn up the flame to heat the flask more strongly. Record the temperature of the boiling water now. 
+
+4. Carefully pinch the rubber tube so as to close it partially. Watch the thermometer, and, as soon as the temperature rises slightly, remove the burner. Record the temperature of the water now. 
+
+5. (a) If no air pump is available, close the rubber tube completely, and pour cold water over the flask. Record the temperature of the boiling
+
+Concl 
+
+Complete this drawing, showing observations at normal and at increased pressure. water. Or, (b) Remove the stopper from the flask, and place the flask under the receiver of the air pump. When the water begins to boil, read its temperature.
+
+DATA 
+
+Water boiling, normal pressure 
+
+Water boiling, flame hotter 
+
+Water boiling, vent closed 
+
+Water boiling, under cold water or air pump
+
+Temperature 
+
+Definition: Boiling point is. 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+51
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Explain why increased heat does not raise the temperature of the boiling water. 
+
+2. Explain the increase in temperature when the vent is closed. 
+
+3. Why did the warm water boil when placed under the receiver of the air pump, or when held under the cold water?
+
+OPTIONAL QUESTIONS 
+
+C. Name a practical or industrial application of (a) increased pressure raising the boiling point; (b) decreased pressure lowering the boiling point. 
+
+B. How is the principle of "lower boiling point by reduced pressure" used in the vacuum vapor heating system?
+
+A. What is the boiling point of distilled water when the barometer reading at a 4-mile altitude is 32 cm? Ans: 52
+
+NAME.. 
+
+..GRADE. 
+
+DATE. 
+
+EXPERIMENT 27. HEAT OF VAPORIZATION 
+
+Problem: How many calories are given off when one gram of steam condenses to water? 
+
+Apparatus: Calorimeter, boiler, delivery tube with condensing trap, beam balance, weights, water, ring stand and ring, Bunsen burner, thermometer.
+
+1. Assemble the apparatus as shown in the drawing, arranging the delivery tube so that it may be placed in the calorimeter of water quickly and easily after being thoroughly heated. 
+
+2. Weigh calorimeter. Half fill the calorimeter with water at room temperature, and weigh. 
+
+3. Record temperature of water and calorimeter. 
+
+4. Bubble steam through the water for about five minutes. Then remove the delivery tube and immediately read the temperature of the water. 
+
+5. Weigh the calorimeter and contents. (State units for all numerical values.) Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing to show some of the data. ​A 
+
+DATA 
+
+Wt. of cal. 
+
+Wt. of cal. + + cold water water +
+
+Initial temp.
+
+Final temp.
+
+Temp. change steam Calorimeter 
+
+Wt. of cal. 
+
+Wt. of cal. + cold water Water 
+
+Wt. of water 
+
+Wt. of steam
+
+Steam 
+
+COMPUTATIONS 
+
+Weight
+
+Spec. heat
+
+X Temp. change 
+
+Heat gained Calorimeter 
+
+Original water 
+
+Heat gained 
+
+Ht. of vaporization (Wt. of steam × Temp. change) 
+
+Weight of steam 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+53
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why is a steam burn more serious than a hot water burn, though both are at the same temperature? 
+
+2. Why is there a slight change in temperature when snow starts to fall?
+
+OPTIONAL QUESTIONS 
+
+C. (a) Heat is (absorbed, liberated) when water changes to steam. (b) Heat is (absorbed, liberated) when steam changes to water.
+
+B. What is the final temperature of 4 liters of water at 20° C after 20 grams of steam at 
+
+100° C have been passed through it? Ans:
+
+A. If the heat of vaporization of alcohol is 204 calories, and its boiling point is 78° C, how many grams of alcohol will 5 grams of steam, under standard conditions, vaporize? Ans: 54
+
+NAME... 
+
+GRADE.... 
+
+.DATE. 
+
+EXPERIMENT 28. DEW POINT AND HU- MIDITY  Incomplete Wrong Other Fault 
+
+Dwg. 
+
+Problem: How can the dew point be used to determine the relative humidity of this room, and how can relative humidity be measured directly? 
+
+Apparatus: Thermometer, tap water, ice water, polished metal vessel, humidity tables, sling psychrometer or wet and dry bulb thermometers.
+
+Procedure: 
+
+1. Fill the metal vessel about 14 full of tap water, and set the vessel on cloth or other poor conductor. Place the thermometer in the water. 
+
+2. Slowly add ice water, stirring constantly with the thermometer, until moisture forms on the outside of the vessel. Record the temperature reading at the moment moisture appears. 
+
+3. Continue to stir, and watch the thermometer and surface of the vessel. Record the temperature at which the last trace of moisture disappears from the vessel. 
+
+4. The average of the two readings is the dew point. Consult the table on page 118 and record the absolute humidity of the room. (The air is saturated at the dew point.) 
+
+5. Compute the relative humidity of the air in the room by determining, from the table, the amount of moisture the air could hold at the room temperature (maximum humidity). Data Calc.
+
+Concl. 
+
+Complete this drawing, showing all readings.
+
+MMMMMMMMMM 
+
+ADD (HDDDDDDDDDDADDDD DADI (OD 
+
+6. Check your computation with the sling psychrometer or wet and dry bulb thermometers. (State units for all numerical values.) 
+
+DATA Computations: 
+
+Room temp- erature 
+
+Temp. moisture appears 
+
+Temp. moisture disappears 
+
+Dew point (average) Absolute humidity Maximum humidity (room temp.) 
+
+Relative humidity
+
+Computed 
+
+Psychrometer 1 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+55
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why does a pitcher of cold water "sweat" on a warm day? 
+
+2. Explain the difference between the formation of frost and dew. 
+
+3. What effect has humidity upon barometric readings? Explain. 
+
+OPTIONAL QUESTIONS 
+
+C. What is the relative humidity at the dew point? Explain. 
+
+B. (a) How does high relative humidity affect human beings? (b) How does low relative humidity affect human beings?
+
+A. If the room temperature is 68° F, what should the relative humidity be for normal healthful conditions? What should the dew point be? Ans: 56
+
+NAME. 
+
+.GRADE. 
+
+DATE.. 
+
+EXPERIMENT 29. VELOCITY OF SOUND (Resonance Method) 
+
+Problem: How can a resonating air column and a tuning fork be used to determine the velocity of sound? 
+
+Apparatus: Three tuning forks of different frequencies, graduated cylinder, water, large glass tube to fit inside cylinder, thermometer, ruler.
+
+Procedure: 
+
+1. Fill the graduate nearly full of water. Immerse one end of the tube in the water. Start one of the tuning forks vibrating, and hold it horizontally over the open end of the tube. 
+
+2. Gradually lower the tube until the greatest reinforcement of sound is obtained. Measure the length of the air column in inches. 
+
+3. Measure the diameter of the tube, and correct the air column length by adding % of this diameter. (This correction has been found to give better results.) 
+
+4. Read the temperature of the air inside the tube. 
+
+5. Record the frequency of the tuning fork. 
+
+6. Repeat the procedure with two other tuning forks. 
+
+Optional Procedure: If large glass tubes are not available, adjust the air column in the graduate by adding water to it until maximum resonance is obtained. (State units for all numerical values.) Temperature Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing to show data for one tuning fork.
+
+DATA 
+
+Tube diameter 
+
+Air column
+
+Frequency 
+
+True length Corrected length Wavelength of sound 
+
+Velocity of sound
+
+Computed Correct 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INO. 
+
+57
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Define resonance. 
+
+2. Why is the wave length four times the length of the resonant air column? 
+
+3. Since the speed of sound is the same for notes of all pitches, what will be the effect on the wavelength of doubling the frequency?
+
+C. Explain the Doppler effect. 
+
+OPTIONAL QUESTIONS 
+
+B. A gun is fired at a target 2200 ft. away, in air at a temperature of 5° C. If the gunner hears the bullet hit the target 4 seconds after he pulls the trigger, what is the velocity of the bullet? Ans:
+
+A. A gun located 11,000 ft. from a cliff is fired. A man standing between the gun and the cliff hears the echo of the gun 3 seconds after he hears the gun fire. How far is the man from the gun? The temperature of the air is 5° C. Ans: 58
+
+NAME. 
+
+..GRADE.. 
+
+DATE... 
+
+EXPERIMENT 30. IMAGES IN PLANE MIRRORS  
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Problem: How can you locate the image in a plane mirror, and how does it compare in size and position with the object? 
+
+Apparatus: Plane mirror, ruler, pins, rubber band, wood block.
+
+Procedure: 
+
+Part A 
+
+1. By means of the rubber band, fasten the wood block to the back of the mirror, and support the mirror upright with its silvered surface along line MN. 
+
+2. Stick a pin at point O in front of the mirror. 
+
+3. Lay the ruler on the paper at an angle to the mirror, and adjust it until you can sight along it to the image of the pin. Draw a line along the edge of the ruler. This represents one of the light rays which appear to come from the image. 
+
+4. In the same manner, determine three different light rays on each side of the pin. 
+
+5. Remove the mirror, and extend each ray, as a dotted line, behind the mirror, until the lines intersect. Draw each incident ray from the pin to the mirror. 
+
+6. Measure the object distance and the image distance. Measure one angle of incidence and the corresponding angle of reflection. 
+
+Part B 
+
+1. Set up the mirror on the second line. Stick a pin at each vertex of the triangle ABC. 
+
+2. By means of two rays for each pin, locate the image of each.
+
+Calc. 
+
+Concl. 
+
+Complete these diagrams, showing directions of light rays.
+
+A. 
+
+3. Remove the mirror, and construct the image, using dotted lines. 
+
+4. Measure the length of each side of the triangle, and each side of the image. 
+
+DATA Part A 
+
+Object dist. 
+
+Image dist.
+
+AB 
+
+Angle of incidence 
+
+Angle of reflection Object Image 
+
+Part B 
+
+Length of
+
+BC AC 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+59
+
+Conclusion: 
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Is the image in a plane mirror a real image? Explain. 
+
+2. Illustrate and distinguish between regular reflection and diffused reflection. 
+
+OPTIONAL QUESTIONS 
+
+C. What is the shortest height of mirror a 6-ft. man needs in order to see his entire image in one glance? Explain.
+
+B. Compare the height of the image of a man 6 ft. tall when he is standing 10 ft. in front of a mirror, with the image height when he is 20 ft. away. 
+
+A. (a) Write the letter "E" so that it would appear in its normal position in a mirror. 
+
+Explain. (b) Which of the following letters would appear correctly in a mirror? 
+
+OANMSTQ 
+
+60
+
+NAME.. 
+
+GRADE. 
+
+DATE. 
+
+EXPERIMENT 31. IMAGES OF THE CON- 
+
+CAVE MIRROR 
+
+Problem: How do the characteristics of the image of a concave mirror vary as the object distance is varied? 
+
+Apparatus: Two meter sticks, candle, concave mirror, screen and holder, ruler.
+
+Procedure: 
+
+Set up the two meter sticks as illustrated, with the mirror at the vertex of the angle formed. The object is to be placed along one stick, and the image screen along the other. 
+
+Case A. Adjust the screen until a sharp image is formed of some object at "infinity" (over 50 ft. away). Record the distance of the screen from the mirror. This distance is the "focal length" of the mirror. The center of curvature is twice the focal length from the mirror. 
+
+Case B. Place the lighted candle (the object) at a point farther from the mirror than the center of curvature. Obtain a clear image. Record object distance and image distance, and size of image.
+
+Case C. Repeat with the object at the center of curvature.
+
+Case D. Repeat with the object between the center of curvature and the focal point. 
+
+Case E. Repeat with the object at the focal point. Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete these diagrams, showing all distances and dimensions.
+
+Case F. Repeat with the object between the mirror and the focal point. 
+
+In each case, look into the mirror to see if a virtual image is formed. 
+
+DATA 
+
+(State units for all numerical values.) 
+
+Focal length
+
+Case 
+
+Object distance Image distance Object size Image Posture Nature size 
+
+Focal length (computed) 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+61
+
+Conclusion: 
+
+SUPPLEMENTARY QUESTIONS 
+
+1. What is the position of a lamp in relation to its reflector in an automobile headlamp? 
+
+2. (a) What is a parabolic reflector? (b) Why are parabolic reflectors used in searchlights, etc.? 
+
+3. A concave mirror with focal length of 10 cm has a 5-cm candle placed 40 cm in front of it. (a) Where would the image be? (b) What would be the size of the image? 
+
+Ans. (a): 
+
+OPTIONAL QUESTIONS 
+
+B. If the radius of curvature of a concave mirror is 28 in., what is its focal length? Ans:
+
+A. Show by a drawing the construction of a single reflecting astronomical telescope. 62
+
+NAME... 
+
+GRADE.. 
+
+.DATE. 
+
+EXPERIMENT 32. REFRACTION OF LIGHT THROUGH PRISMS 
+
+Problem: What happens to a ray of light as it passes into an optically denser or an optically rarer medium? 
+
+Apparatus: Ruler, thick glass plate, triangular glass prism.
+
+Procedure: 
+
+Part A 
+
+1. Place the triangular prism on a sheet of paper, as shown, with one edge of the prism touching the end of a line, LN. 
+
+2. From the neighborhood of E, sight along a ruler until the edge of the ruler appears to be in line with LN. Draw a line along the edge of the ruler. 
+
+3. Outline the prism with a pencil, and remove it. 
+
+Extend the ruler line until it hits the edge of the prism. Join N with this intersection. 
+
+4. Erect normals at both intersections on the prism, and measure the angles of incidence and refraction. 
+
+5. By means of a dotted line, extend the line of sight to the apparent position of point L. Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete these diagrams, showing all angles, and the direction of light propagation.
+
+Part B 
+
+1. Repeat the procedure, using the rectangular prism, and a line as shown in the diagram.
+
+DATA 
+
+Light entering prism 
+
+Light leaving prism
+
+Part Angle of incidence Angle of refraction Angle of incidence Angle of refraction Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+63
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why is the sun seen before it actually rises above the horizon? 
+
+2. Show by a labeled drawing the actual and apparent positions of a fish in a pond, to an observer on the bank. 
+
+3. Looking across a paved road in summertime you can sometimes see so-called "heatwaves." What is the physical explanation of this phenomenon?
+
+OPTIONAL QUESTIONS 
+
+C. If a light ray passes perpendicularly from the air through a glass object with parallel sides, is its direction changed? Explain.
+
+B. Explain, by aid of a drawing, the cause of refraction. 
+
+A. Define and illustrate critical angle. 64
+
+NAME... 
+
+.GRADE. 
+
+.DATE. 
+
+EXPERIMENT 33. INDEX OF REFRACTION OF GLASS Problem: What is the relation between the angle of incidence and the angle of refraction when a light ray enters a given piece of glass? How can the index of refraction be determined? 
+
+Apparatus: Rectangular glass prism or plate, ruler, compass.
+
+Procedure: 
+
+1. Place the glass prism with its upper edge along the line mn. Outline the prism with a pencil line, and do not move it from this position. 
+
+2. As in Experiment 32, sight from the region of 
+
+A so that your line of sight appears to be in line with OB. Draw the line of sight. 
+
+3. Remove the prism. Extend the line of sight to the lower edge of the prism, and label the intersection D. Join this intersection with point O. BO is the incident ray; OD is the refracted ray. 
+
+4. Extend OD until it intersects the arc A. Label this point E. From E, draw a perpendicular to the normal, and label the intersection F.
+
+EF represents the sine of the angle of refraction. 
+
+5. Measure carefully in centimeters, the length 
+
+EF. Measure the length BC (the sine of the angle of incidence).
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Concl. 
+
+Complete this drawing, showing path of light ray and angles of incidence and refraction at entering surface.
+
+Sine of angle i <i 
+
+AIR 
+
+10 GLASS 6. Compute the index of refraction by dividing BC by EF.
+
+Normal (State units for all numerical values.) 
+
+DATA 
+
+Length of BC
+
+Index of refraction Length of EF 
+
+BC EF 
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+65
+
+SUPPLEMENTARY QUESTIONS 
+
+1. How does the velocity of light in diamond compare with its velocity in glass?
+
+OPTIONAL QUESTIONS 
+
+C. When light passes obliquely from one medium to another, how is it affected? 
+
+B. The speed of light in air is approximately 186,000 miles per second. Its speed in diamond is 75,300 miles per second. What is the index of refraction of diamond?
+
+A. What is the apparent depth of an 8-ft. fresb-water bathing pool? Ans: Ans: 66
+
+ΝΑΜΕ. .GRADE... .DATE.. 
+
+EXPERIMENT 34. FOCAL LENGTH OF A CONVERGING LENS Problem: What is the focal length of your lens and what are the characteristics of the image formed by an object at a great distance (infinity) from the lens? 
+
+Apparatus: Convex lens, meter stick, lens holder, cardboard screen, screen holder. 
+
+Procedure: 
+
+1. Place the lens in the holder on the meter stick at the 20 cm mark. Place the screen holder, with screen, farther from the same end of stick. 
+
+Point the meter stick at some distant object 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing and label all parts. such as a tree, clouds, or buildings. (NOTE: Objects at 100 ft. or more may be considered at infinity for most laboratory lenses.) 
+
+2. Move the screen back and forth until you get the clearest possible image. Record the distance from lens to screen. 
+
+3. Move the lens to another point on the stick and repeat the procedure. 
+
+4. Record a third reading. 
+
+5. Note the characteristics of the images. 
+
+6. With the lens in its original position, point it at the sun and move the screen until you get the smallest point of light. Record the distance from the screen to the lens. 1st 2nd 3rd Average
+
+Sun DATA 
+
+Characteristics of Images 
+
+Distance of screen
+
+Size Posture Nature
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+67
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Make a labeled drawing showing parallel rays of light passing (a) through a double concave lens, (b) through a double convex lens. 
+
+2. Define "principal focus." 
+
+3. Define "focal length. 
+
+OPTIONAL QUESTIONS 
+
+C. From your knowledge of physics, state briefly what you could do to determine whether a given lens is convergent or divergent. 
+
+B. If a clear image is formed on a screen 4 m from a lens when the object is a 35-mm film placed 4 cm from the lens, what is the focal length of the lens used? Ans:
+
+A. What will be the height of the image of a 6-ft. man standing 12 ft. in front of a lens having a 3-in. focal length? (Carry answer to at least two decimal places.) Ans: 68
+
+NAME. 
+
+.GRADE.. 
+
+DATE.. 
+
+EXPERIMENT 35. CHARACTERISTICS OF IMAGES FORMED BY DOUBLE CONVEX LENSES 
+
+Problem: What happens to the image of a convex lens as the object approaches the lens from infinity? 
+
+Apparatus: Meter stick or optical bench, candle, lens, lens holder, screen and holder, ruler.
+
+Procedure: 
+
+Determine the focal length of your lens, as in Experiment 34. Place the lens at an even mark on the meter stick, near the center of the stick. Place the screen farther along the stick. Place the candle (object) on the other side of the lens. 
+
+Case A. Place the object at more than twice the focal distance away from the lens. Adjust the screen until a sharp image is formed. Measure and record object distance, image distance, height of object, and height of image, as accurately as possible. 
+
+Repeat for each of the following cases:
+
+Case B. Object at twice the focal distance. 
+
+Case C. Object between focal distance and twice focal distance.
+
+Case D. Object at principal focus. 
+
+Case E. Object between lens and principal focus.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete these diagrams.
+
+In each case, look into the lens to see if a virtual image is formed. Be sure you are not looking at the real image. If a virtual image is formed, do not try to measure its size or distance. 
+
+DATA 
+
+(State units for all numerical values.) 
+
+Focal length
+
+Case 
+
+Object distance
+
+Image Object distance height Image height Posture Nature 
+
+Focal length (computed)
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+69
+
+SUPPLEMENTARY QUESTIONS 
+
+1. What is the relation of the distance of the image from the lens to the size of the image?
+
+2. Is it true that the lens is nearer the smaller figure, whether that figure be object or image? Why?
+
+OPTIONAL QUESTIONS 
+
+C. Prove by geometry and substitution of figures from the data that, H;: H.
+
+Di: Do
+
+B. Why can both near and distant objects be photographed by the inexpensive "fixedfocus" box cameras that have no provision for adjusting the distance of the lens from the film? A. A lens of 20 cm focus is to be used to enlarge a 4 X 5 cm snapshot to a 16 X 20 cm print. How far will the enlarging paper be from the lens? Ans: 710
+
+ΝΑΜΕ. .GRADE.. 
+
+.DATE. 
+
+EXPERIMENT 36. DISPERSION 
+
+Problem: What colors make up white light? 
+
+Apparatus: Prism of glass, parallel light source, protractor.
+
+Procedure: 
+
+1. Hold a prism horizontally in the sunlight.
+
+Rotate it until you see a band of colors on the floor or table. (A projection lantern may be used in place of sunlight if the light is passed through a narrow slit.) 
+
+2. Place a piece of paper so that the band of colors falls upon it. Note and record in your drawing the arrangement of the colors. 
+
+3. Record the angle at which the sunlight strikes the side of the prism. Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete this drawing, labeling at least six different colors.
+
+Conclusion: 
+
+Answer the problem, referring directly to your drawing as data, to show how you arrived at your conclusion.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+71
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Explain with the aid of a drawing what happens when a second prism is placed in the reversed position beside the first prism. 
+
+2. Why are the colors bent at different angles? 
+
+3. Define dispersion. 
+
+4. Give an example of dispersion in nature? Explain.
+
+OPTIONAL QUESTIONS 
+
+C. What determines the color of a transparent object?
+
+B. What determines the color of an opaque object? 
+
+A. Distinguish between continuous, bright line, and dark line spectra. 72
+
+NAME. 
+
+.GRADE.. 
+
+DATE.. 
+
+EXPERIMENT 37. 
+
+THE BUNSEN PHOTOMETER . Problem: 
+
+What is the relation between the illumination from a light source and the distance from the source, and how can this relation be used to measure the candlepower of a light source? 
+
+Apparatus: Bunsen photometer, candles, lamp.
+
+Procedure: 
+
+1. Place one candle on each side of the screen.
+
+Both candles should be burning with the same size flame. 
+
+2. Adjust the screen until the center spot appears equally bright on each side. Record the distances of the candles from the screen. 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Concl. 
+
+Complete this drawing, showing all distances. ​3. Now place two candles on the right, leaving one on the left. Repeat the procedure. 
+
+4. Repeat with three candles on the right, and then with four candles. 
+
+5. Determine the candlepower of the unknown lamp.
+
+DATA 
+
+No. of candles Distances 
+
+Distances squared 
+
+On left 
+
+On right
+
+Left 
+
+Right 
+
+Left 
+
+Right 
+
+(Rt. dist.)² (Left dist.)2 1 1 1 2 1 1 1 lamp 
+
+Conclusion: 
+
+NOTE TO INSTRUCTOR: A photoelectric cell connected to a suitable galvanometer may be used in place of the photometer. 
+
+Each light source is tested separately, and the cell moved to obtain the same reading with each source. 
+
+Copyright by COLLEGE ENTRANCE Book Co., INC. 
+
+73
+
+SUPPLEMENTARY QUESTIONS 1. State the Law of Intensity. 
+
+2. Distinguish between intensity and amount of light. 
+
+3. Compare the intensity of light received by Tom, 3 ft. from a light, and John, 5 ft. from the same light.
+
+OPTIONAL QUESTIONS 
+
+C. Find the candlepower of a lamp which is 6 ft.
+
+distant from a book and gives it the same illumination as a 20-c.p. lamp 4 ft. distant. Ans:
+
+B. A 100,000-candlepower bank of lights is 150 ft. from the pitcher's box on a baseball diamond. How far from the pitcher's box should a 150,000-c.p. bank of lights be placed to give the same intensity of illumination? Ans:
+
+A. A light source is 1 ft. from a slide having a one square inch transparent space. What area will the light cover on a screen 10 ft. away from the slide? Ans: 74
+
+NAME.. 
+
+.GRADE.. 
+
+.DATE.. 
+
+EXPERIMENT 38. MAGNETISM 
+
+Problem: What are the properties of the lines of force about a magnet? 
+
+Apparatus: Horseshoe magnet, bar magnets, iron filings, blocks, compass.
+
+Procedure: 
+
+A. Place the horseshoe magnet on the table. Put blocks around it to support a piece of paper. Sprinkle iron filings lightly on the paper, tap with a pencil, and note the arrangement of the filings. Using the outline drawings of the magnets on the next page, label North and South poles and copy the directions taken by the filings. Use neat, broken lines, and ink, for all drawings. 
+
+B. Replace the horseshoe magnet by a single bar magnet, and repeat the above procedure. 
+
+C. Now use two bar magnets. Place them parallel and about one inch apart, with their North poles pointing in the same direction.
+
+D. Repeat the procedure of Step C, with the North poles pointing in opposite directions. 
+
+E. Place the two bar magnets so that they form a T, about one inch apart. Repeat the procedure. 
+
+NOTE: Test each magnet with a compass to determine if the end labeled "North" is really North.
+
+DATA 
+
+Use the next page for your data, which consists of the drawings. 
+
+In the space below state the law illustrated in this experiment. 
+
+Conclusion: 
+
+Answer the problem, referring directly to your data to show how you reached your conclusion.
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+75
+
+Complete these drawings.
+
+SUPPLEMENTARY QUESTIONS 
+
+1. What precautions should be followed in the care of permanent magnets? 
+
+2. Why tap the filings with a pencil?
+
+OPTIONAL QUESTIONS 
+
+C. How can a "magnetic screen" protect a watch? 
+
+B. How is the earth affected by "magnetic storms"? 
+
+A. Why is an automobile compass seldom reliable? 76
+
+NAME. 
+
+.DATE.. 
+
+GRADE. 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Complete these drawings.
+
+EXPERIMENT 39. MAGNETIC INDUCTION 
+
+Problem: What are two ways of making a magnet by induction, and what is the magnetizing force in each case? 
+
+Apparatus: Permanent magnet, nails, compass, soft iron bar, hammer.
+
+Procedure: 
+
+1. Place a nail near the magnet. Test the polarity of magnet and nail by means of a compass. Label all polarities in the drawings. 
+
+2. Change ends of the nail and test it again. 
+
+3. Reverse the poles of the magnet and see if the polarity of the nail is changed. 
+
+4. Again reverse the nail. 
+
+5. Test a bar of soft iron to see if it is a magnet. 
+
+Hold it in a magnetic North-South direction at an angle of about 75° with the earth. Hammer it. Test for polarity. Record whether upper or lower end has become North. 
+
+6. Change ends of the bar and see if you can reverse the poles. Calc.
+
+Concl Conclusion: 
+
+Answer the problem by referring to your data. 10 OOOO ITI T 
+
+Oopyright by COLLEGE ENtrange Book Co., INC. 1177
+
+SUPPLEMENTARY QUESTIONS 
+
+1. State the accepted theory of magnetism. Illustrate with drawings. 
+
+2. Explain why you can not conclude that an iron bar is a magnet just because it is attracted by a magnetic needle. 
+
+3. What is the polarity of the top of the steam radiator? Why?
+
+OPTIONAL QUESTIONS 
+
+C. Which end of the compass needle has the same polarity as the earth's magnetic pole (North)? Give reasons for your answer.
+
+B. State the meaning of angle of declination and angle of inclination. 
+
+A. What is meant by "permeability"? By "reluctance"? 78
+
+NAME. 
+
+. GRADE. 
+
+.DATE. 
+
+EXPERIMENT 40. MAGNETIC FIELD ABOUT A CURRENT-BEARING CONDUCTOR Problem: What is the relation between the direc tion of the current through a wire and the direction of the lines of force about the wire? 
+
+Apparatus: Cardboard, wire, current source ´(direct current), iron filings, compass.
+
+Procedure: 
+
+1. Support the cardboard horizontally. 
+
+2. Connect the wire to the switch, bring it vertically down through the cardboard, and then connect it to the other pole of the switch. Connect the switch to the D.C. outlet. 
+
+3. Close the switch, and place the compass successively in four positions around the wire, as though on the sides of a square. On the diagram, show the direction of the needle in each position. 
+
+4. By means of the Right Hand Rule, determine the direction of current flow in the wire. Indicate the direction on the drawing by placing arrows on the wire. 
+
+5. Reverse the current and repeat. 
+
+6. Sprinkle iron filings around the wire, and tap the cardboard gently. Note the arrangement of the filings. 
+
+7. Before dismantling the apparatus, answer Supplementary Question 3.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete each drawing to show direction of current and needles. 
+
+Conclusion: 
+
+Answer the problem by referring to your data.
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+79
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Make a drawing showing the arrangement of the iron filings about the wire. 
+
+2. If you had a horizontal wire in front of you, the current going from left to right, would the lines of force nearer you on the wire go up or down? Explain. 
+
+3. State which terminal of the direct current outlet is +. Explain how this is determined by using a principle of this experiment. 
+
+OPTIONAL QUESTIONS C. State Oersted's Thumb Rule for determining current direction. 
+
+B. Draw a diagram illustrating magnetic flux around an open coil. 
+
+A. If the north pole of a compass needle held under a north-south trolley wire points east, what is the direction of the current in the wire? 80
+
+NAME. 
+
+GRADE.... DATE... 
+
+EXPERIMENT 41. THE ELECTROMAGNET  Incomplete 
+
+Wrong
+
+Other Fault 
+
+Dwg. 
+
+Problem: What determines the strength of an electromagnet? Data
+
+Calc. 
+
+Concl. 
+
+Apparatus: Coil of wire, push-button, nails, compass, iron bar, steel bar, direct current source.
+
+Procedure: 
+
+1. Wind 15 turns of wire about a soft iron bar.
+
+Connect one end of the wire with the push button and the other end with the current supply. Complete the circuit by connecting the other terminal of the push button with the current supply. 
+
+2. Press button and record the number of nails picked up. 
+
+3. Determine which is the North and which is the 
+
+South pole by means of the compass. 
+
+4. Reverse the current and determine the polarity. 
+
+5. Use 30 turns and record the lifting power by counting nails. 
+
+6. Use more current with both 15 and 30 turns. 
+
+Record results. 
+
+7. Try the steel bar instead of the soft iron bar and note which retains its magnetism longer after current is shut off. Complete these drawings to show polarity, current flow, and relative strength of magnetism. 15 Turns 30 Turns 
+
+DATA 
+
+15 turns 30 turns 
+
+Small current 
+
+Large current
+
+Conclusion: 
+
+Answer the problem by referring to your data.
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+81
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Which is better for use in an electromagnet, iron or steel? Why? 
+
+2. What is the effect upon the polarity of reversing the current? 
+
+3. State the rule concerning the relation between the direction of current and polarity. 
+
+4. What is meant by "ampere-turn"?
+
+OPTIONAL QUESTIONS 
+
+C. By means of a drawing illustrate two coils hooked in series (1) to strengthen each other, (2) to weaken each other.
+
+B. If you hold your pencil in your left hand and wind it from left to right in a clockwise direction with wire, which will be the North pole of the solenoid if the current enters from *he right? Show by means of a drawing how you obtain your answer.
+
+A. A uniform electric current is sent through a light coiled wire spring. The spring is suspended from one end. When the current flows, the spring tends to shorten. Explain. 82
+
+ΝΑΜΕ. 
+
+GRADE.. 
+
+.DATE.. 
+
+EXPERIMENT 42. THE ELECTRIC BELL 
+
+Problem: How does the electric bell work? 1 
+
+Apparatus: Electric bell, push-button, dry cell, connecting wires.
+
+Procedure: 
+
+1. Connect the bell and push button in series with two terminals from the switch or dry cell. 
+
+2. Push the button and note the action of the bell. 
+
+Observe what is taking place at the contact screw or "make and break,” 
+
+3. Hold the hammer away from the bell and trace the current through the bell. Examine the back of the bell as well as the front, and remember that iron is a conductor. 
+
+4. Connect the bell so that there will be a single stroke (i.e., when the hammer is attracted to the electromagnet it will stay there). Trace the current.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete these drawings, showing the connections and complete current path for (a) the continuousring bell, and (b) the single stroke bell. 4lit
+
+Conclusion: 
+
+Answer the problem, referring to your data. 4/17 
+
+-Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+8888 83
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why are electric bells usually connected in parallel? 
+
+2. Make drawings showing how (a) two bells are rung by one push button; (b) either of two push buttons may ring the same bell. 
+
+3. What draws the hammer (a) toward the bell? (b) Away from the bell?
+
+OPTIONAL QUESTIONS 
+
+C. Why are the coils on the horseshoe magnet wound in opposite directions? 
+
+B. What metal should be used for the core of the electromagnet? Give reasons.
+
+A. What characteristic of magnetic lines of force causes the magnet armature to move toward the magnet? 84
+
+NAME. 
+
+GRADE. 
+
+DATE. 
+
+EXPERIMENT 43. 
+
+ THE ELECTRIC TELEGRAPH 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. 
+
+Problem: What is the purpose of each device in a long-distance telegraph line? Data Calc.
+
+Concl. 
+
+Apparatus: 2 relays, 2 sounders, 2 keys, compass, connecting wires, D. C. current both for main line and local circuits.
+
+Procedure: 
+
+1. Study the construction of each instrument. 
+
+There are four terminals on the relay. Note which ones are connected to the electromagnet. 
+
+Connect one of these with the key, and the other with the relay at the next "station." 
+
+2. Now connect the other terminal of the key with the "main line" source of current, and from this to the gas or water pipe for a ground. 
+
+3. Connect the sounder with the local circuit current source, in series with the other two terminals of the relay at the "home" station. 
+
+4. This same procedure is to be followed at each station. 
+
+5. Test the electromagnets of both relay and sounder for magnetism, using the compass, first with the circuit open, then with it closed. 
+
+6. Operate the line from each station. Adjust it for loud and soft clicks.
+
+Local Battery
+
+Key 
+
+Complete this drawing. سعار الو Sounder
+
+Relay lllllll 
+
+Line to next Station Main Battery Ground
+
+DATA 
+
+Relay magnetized? 
+
+Sounder magnetized? 
+
+Circuit open 
+
+Circuit closed
+
+Conclusion: 
+
+Answer the problem by describing what takes place in each part of the circuit when it is closed, and when it is open.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+85
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why must the receiver keep his key closed while receiving a message? 
+
+2. Why are all the keys of a telegraph line kept closed when no messages are being sent? 
+
+OPTIONAL QUESTIONS 
+
+C. (a) What is the purpose of a relay? (b) Why isn't the main circuit connected directly through the sounder, thereby eliminating the need for a relay? 
+
+B. How does the telegraph circuit differ from the electric bell circuit? 
+
+A. Compare the construction of relay and sounder. 86
+
+NAME. 
+
+.GRADE. 
+
+.DATE. 
+
+EXPERIMENT 44. 
+
+THEORY OF THE ELECTRIC MOTOR Problem: How does the interaction of two mag netic fields produce motion? 
+
+Apparatus: Horseshoe magnet, test tube clamp, ring stand, 4 or 5 feet of #22 insulated copper wire, compass. source of direct current.
+
+Procedure: 
+
+1. Support the horseshoe magnet and arrange the wire as shown in the illustration. ​2. Pass the current down through the wire. Using the compass, determine the direction of the lines of force around the wire at A and B. 
+
+Enter your observations in the data table, writing in to mean away from, and out to mean toward you. 
+
+3. Determine and label the poles of the magnet. 
+
+4. Record the motion of the wire as left or right. 
+
+5. Reverse the current and repeat the above procedure.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing by showing the magnetic fields and direction cf wire motion for one direction of current.
+
+AB 
+
+DATA 
+
+Direction of current 
+
+Direction of lines of force around wire *
+
+At A 
+
+At B 
+
+Motion of wire 
+
+Strength of combined fields † At X 
+
+At Y Down
+
+Up * Write "in" or "out" † Write "stronger" or "weaker"
+
+Conclusion: 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+87
+
+SUPPLEMENTARY QUESTIONS 1. Name four essential parts of a D.C. electric motor. 
+
+2. Why is a laminated soft iron core usually used in the armature of a D.C. motor?
+
+OPTIONAL QUESTIONS 
+
+C. Why is a commutator necessary in a D.C. motor? 
+
+B. Make a cross-section drawing of a commutator and its brushes, and explain how it fulfils its function.
+
+A. Explain what should be done to make a "motor" (cause the wire to move contin uously) out of the apparatus of this experiment. 88 747
+
+NAME.. 
+
+GRADE.... 
+
+DATE. 
+
+EXPERIMENT 45. MEASUREMENT OF UNKNOWN RESISTANCE (Voltmeter-Ammeter Method) 
+
+Problem: How can you find the amount of an unknown resistance by using the voltmeter and - ammeter in a circuit? 
+
+Apparatus: Source of direct current, 3 unknown resistances, voltmeter, ammeter, connecting wires, key. 
+
+Procedure: 
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data 
+
+Concl. 
+
+Complete this drawing by connecting the apparatus.
+
+1. Connect the source of current, unknown resistance, ammeter, and a key, in series. Then connect the voltmeter across the terminals of the unknown resistance.
+
+www 2. Press the key and record the readings of the voltmeter and ammeter, which should be read simultaneously. (If dry cells are used, take the readings, as soon as the key is pressed. There are 
+
+2 reasons for this: the current will heat the coil and thus change the resistance, and the dry cell will polarize if left on a closed circuit.) 
+
+3. Use this same procedure for each of the 3 unknown resistances. 
+
+4. Check each resistance value by means of the physical constants of the wire. (See tables on page 119.) (State units for all numerical values.) Resistance No. 1 No. 2 
+
+No. 3 
+
+DATA KL 
+
+Ammeter reading (I) 
+
+CM 
+
+Conclusion: 
+
+Answer the question, referring to your data to show how you reached your conclusion.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+89
+
+SUPPLEMENTARY QUESTIONS 
+
+1. How is the value of the amperage changed if the ohms are increased while the voltage remains constant? 1 2. How must the value of the voltage change in order to have the amperage remain constant when the ohms are decreased? 
+
+3. If the resistance is unchanged, what happens to the amperage when the voltage is increased?
+
+OPTIONAL QUESTIONS 
+
+B. What current will flow through an electric flatiron with a resistance of 20 ohms, if it is connected into a 120-volt circuit? Ans:
+
+A. Draw a labeled diagram showing a source of electricity (battery or dynamo), a voltmeter, an ammeter, an electromagnet, and the wire connections for determining the resistance of the electromagnet. If the voltmeter shows 2 volts and the ammeter shows 10 amperes, what is the resistance of the electromagnet? Ans: 90
+
+NAME. 
+
+GRADE. 
+
+DATE.. 
+
+EXPERIMENT 46. LAWS OF RESISTANCE  
+
+Incomplete Wrong
+
+Other Fault Problem: Upon what does the resistance of a conductor depend?
+
+Dwg. Data 
+
+Apparatus: Voltmeter, ammeter, switch, 2 or 4volt current, 6 ft. #18 copper wire, 6 ft. #21 copper wire, 6 ft. iron or other wire, same size as one of the copper wires.
+
+Procedure: 
+
+1. Connect an ammeter in series with 6 ft. of #18 copper wire and a source of current. Connect the voltmeter across the terminals of the copper wire. Record readings. 
+
+2. Now connect the voltmeter and ammeter, using only half of the same wire. Record readings. 
+
+3. Repeat this procedure, using 6 ft. and 3 ft. of Calc.
+
+Concl. 
+
+Complete this drawing to show the proper connections.
+
+www #21 copper wire. (B & S #21 is ½ the cross-sectional area of #18. These wires are convenient, but any others can be used.) 
+
+4. Repeat the procedure using a wire of different material but of the same size and length as one of the copper wires. Record results. 
+
+5. Compute resistance by Ohm's Law, and also by using the physical constants of the wires. Check your results against the wire tables. (See page 119.) (State units for all numerical values.)
+
+DATA 
+
+Wire Voltmeter reading (E) Ammeter reading (I) kL R = E/I CM Resistance (wire table) Copper 6 ft. #18 Copper 3 ft. #18 Copper 6 ft. #21 Copper 3 ft. #21 6 ft. #. 3 ft. #.... 
+
+Conclusion: 
+
+Answer the problem by referring to your data.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+91
+
+SUPPLEMENTARY QUESTIONS 
+
+1. What effect does an increased temperature have on the resistance of solid conductors? 
+
+2. What effect does an increase of temperature have on the resistance of electrolytes? 
+
+OPTIONAL QUESTIONS 
+
+C. What is the effect, on the total resistance, of connecting two wires of the same material, length, and size, in series?
+
+B. What is the effect, on the total resistance, of connecting two wires of the same material, length, and thickness, in parallel? 
+
+A. How much heat is produced in 36 ft. of #24 copper wire carrying 2 amperes of current? Ans: cal. per sec. watts 92
+
+NAME.. 
+
+GRADE.. DATE.. 
+
+EXPERIMENT 47. SERIES CIRCUITS 
+
+Problem: How do the voltages and amperages in a series circuit depend upon the resistances? 
+
+Apparatus: Three resistances, voltmeter, ammeter, wires, source of direct current.
+
+Procedure: 
+
+1. Connect a source of current, an ammeter, and three resistances in series. 
+
+2. Connect the voltmeter across R1, and read ammeter and voltmeter. 
+
+3. Now connect the voltmeter across R2, and record the readings. 
+
+ Incomplete Wrong 
+
+Other Fault
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing, showing the series connections and the voltmeter reading the voltage across one resistance.
+
++이 ​V 
+
+4. Repeat for Rs. 
+
+5. Connect the voltmeter across all three resistances, and record the readings. www. DATA (State units for all numerical values.
+
+) Resistance 
+
+Voltmeter reading
+
+Ammeter reading Computed resistance R₁ R2 R3 All 3 
+
+Sum of voltages 
+
+Measured total (from data)
+
+Conclusion: 
+
+Check Sum of resistances 
+
+Measured total (from data) 
+
+Answer the problem, referring to your data to show how you arrived at your answer.
+
+NOTE TO TEACHER: It is suggested that the three resistances be in simple ratio with one another, so that the relationships are more evident.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+93
+
+SUPPLEMENTARY QUESTIONS 
+
+1. How do you find the total resistance of a series circuit? 
+
+2. How does the current compare in each part of a series circuit? 
+
+3. Across which resistance is the potential difference greatest, and how do you find the total voltage drop?
+
+OPTIONAL QUESTIONS 
+
+C. In what part of a series circuit is the magnetic field strongest? Explain. 
+
+B. In what part of a series circuit would you place an electrolysis apparatus for fastest work? Explain.
+
+A. In what part of a series circuit is the greatest heat produced? Explain. 94
+
+NAME.. 
+
+GRADE. 
+
+DATE. 
+
+EXPERIMENT 48. PARALLEL CIRCUITS 
+
+Problem: How do the voltages and the amperages in a parallel circuit depend upon the resistances? 
+
+Apparatus: Three resistances, voltmeter, ammeter, wires, source of direct current. 
+
+Procedure: 
+
+1. Connect the ammeter in series with R₁. 
+
+2. Connect each of the other two resistances in parallel with the combination of ammeter and R1. 
+
+3. Connect the entire parallel circuit to the source of current, and connect the voltmeter across the parallel circuit. The voltmeter now reads the voltage across each resistance, and the ammeter reads the current in R1. (The resistance of the ammeter is so small that it may be neglected.) 
+
+4. Read voltage and current. 
+
+5. Repeat with the ammeter in series with R2. 
+
+6. Repeat with R3.
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing, showing the ammeter reading the current in one resistance. R3 www. 
+
+7. Repeat readings with the ammeter in series with all three resistances in parallel. (State units for all numerical values.) 
+
+DATA 
+
+Resistance R₁ R₂ Ra All 3 
+
+Voltmeter reading
+
+Ammeter reading Computed resistance 
+
+Sum of ammeter readings 
+
+Measured total (from data)
+
+Conclusion: 
+
+Check 1 1 1 + + R₁ R₂ R3 Measured total (from data) 1 RT RT Answer the problem, referring to your data to show how you arrive at your answer.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+95
+
+SUPPLEMENTARY QUESTIONS 
+
+1. How do you find the total resistance of a parallel circuit? 
+
+2. How does the current compare in each part of a parallel circuit? The voltage? 
+
+3. In which resistance is the current greatest, and how do you find the total current? 
+
+OPTIONAL QUESTIONS 
+
+C. In what part of a parallel circuit is the greatest heat produced? 
+
+B. In what part of a parallel circuit is the strongest magnetic field? 
+
+A. A toaster rated at 480 watts, an electric iron with a resistance of 15 ohms, and an electric refrigerator are all connected to the same 120-volt outlet. The circuit is fused for 15 amperes. Will the fuse blow when the refrigerator starts, if it draws a starting current of 3.1 amperes? 96
+
+NAME.. 
+
+ĠRADE. 
+
+DATE. 
+
+EXPERIMENT 49. 
+
+THE WHEATSTONE BRIDGE Problem: How is the resistance of an electrical appliance measured with a Wheatstone Bridge?
+
+Apparatus: Source of direct current, connecting wires, electric switch, slide wire type of bridge, resistance box, galvanometer, unknown resistance (coil of wire or electrical appliance).
+
+Procedure: 
+
+1. Set up apparatus as indicated in the upper drawing. 
+
+2. Remove the 1 ohm plug from R₁ (the resistance box). Place the slide wire contact at the center of the wire and momentarily close the circuit with the key. Observe the direction of the galvanometer deflection. 
+
+3. Replace the 1 ohm plug and remove the 10 ohm plug. Repeat the previous procedure. If needle moves in the opposite direction, then the R₁ needed lies between 1 and 10 ohms. If it moves in the same direction, remove a greater resistance. 1 4. Vary the value of R₁ in this way until the galvanometer needle moves only slightly when the key is depressed. Then slide the wire contact until the galvanometer needle rests on zero. The bridge is now "balanced." 
+
+5. Record the value of R1, and the measured lengths of AD (R3) and DC (R4). Compute and record the value of the unknown resistance R2. Incomplete
+
+Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Concl. 
+
+Complete this drawing by connecting the apparatus properly. Label Rз and R4.
+
+R₁ ​6. Repeat this procedure with another unknown resistance. www R3 www. 
+
+R₁: R₂= R₁: R₁ 
+
+2 
+
+ليلتيلي 
+
+www Unknown (State units for all numerical values.
+
+) 
+
+DATA 
+
+Bridge Balanced 
+
+Length of
+
+AD 
+
+Length of
+
+DC 
+
+Ratio 
+
+DC/AD 
+
+Reading of 
+
+R₁ Computed resistance (R2) 
+
+Conclusion: 
+
+Answer the problem, referring to your data to show how you arrive at your answer.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+97
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Why is the slide wire a high resistance wire? 1 2. How does the current at point A compare with the current at point C? 
+
+3. Why are parts of the slide wire bridge made of large strips of metal? 
+
+OPTIONAL QUESTIONS 
+
+C. Why is it permissible to use the wire lengths of AD and DC instead of their resistance values?
+
+B. What is the unknown resistance when the resistance box is set at a total of 36 ohms, AD is 48.5 cm, and DC is 51.5 cm? Ans:
+
+A. When the bridge is in balance, why is there zero deflection on the galvanometer? 98
+
+NAME.. 
+
+DATE... GRADE... 
+
+EXPERIMENT 50. 
+
+COST OF ELECTRICAL ENERGY  
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Problem: What is the cost of electrical energy in Calc. 
+
+your home for one month?
+
+Concl. 
+
+Apparatus: Watt-hour meter at home, old electric bill.
+
+Procedure: 
+
+1. Examine the watt-hour meter in your home, and make a drawing of the face of the meter, showing the position of each pointer. 
+
+2. Write beneath the drawing the reading indicated by the meter. 
+
+3. Copy the readings from an old bill into the data table. Using the rate schedule on the back of the bill, compute the cost of the energy consumed that month. Show all work. 
+
+4. Enter your computed cost, and the amount of the bill.
+
+DATA 
+
+Cost
+
+Present reading 
+
+Previous Kilowatt-hours reading consumed 
+
+Computed COMPUTATIONS Conclusion: 
+
+Answer the problem, explaining the computations you made. Drawing Charged 
+
+Average cost per Kilowatt-hour
+
+Copyright by COLLEGE ENTRANCE BOOK Co., Inc. 
+
+99
+
+SUPPLEMENTARY QUESTIONS * 
+
+1. Compute and compare the number of amperes flowing through (a) a 100-watt bulb and (b) a 50-watt bulb. 
+
+2. Compute the resistance of each bulb in Question 1. 
+
+3. Compute the cost per hour of using each lamp in Question 1. Ans. (a): (b): Ans. (a): (b): Ans. (a): (b): 
+
+OPTIONAL QUESTIONS 
+
+C. The average 62-cubic foot refrigerator uses approximately 40 KWH per month. 
+
+What does it cost to operate? Ans:
+
+B. An electric iron has a resistance of 24 ohms. Find (a) its amperage, (b) its power, (c) its cost of operation for 8 hours in your home. 
+
+Ans. (a): (b): (c): 
+
+A. If an electric motor is 80% efficient, and has an output of 20 horsepower, what would it cost to run it for 4 hours at 5¢ per KWH? 'Ans: *NOTE: In all problems use the average cost per KWH as shown on your bill, and a voltage of 110 volts. 100
+
+NAME. 
+
+GRADE. DATE. 
+
+EXPERIMENT 51. 
+
+ELECTROLYSIS OF WATER Problem: What is the effect of passing a direct current through water which has been made slightly acid?
+
+Apparatus: Hoffman Electrolysis Apparatus, water to which sulfuric acid has been added in a ratio of 1 to 20, direct current supply.
+
+Procedure: 
+
+1. Connect the apparatus to a 6-volt D.C. supply, through a switch. 
+
+2. Pour the acid-water mixture into the center opening of the apparatus, making certain that both valves are open. Fill both arms to the top, and close the cocks, making certain that no air space is left above the liquid. 
+
+3. Close the switch, and note what happens. As soon as one side is nearly filled with gas, disconnect the current. 
+
+4. Measure and record the volume of gas in each arm. 
+
+5. Hold a test tube over the arm which is filled with gas, and open the stopcock. Bring a lighted splint to the mouth of this test tube of gas.
+
+. 
+
+Incomplete Wrong 
+
+Other Fault
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing, showing the correct proportions of gas at each electrode. Lélililře 
+
+6. Bring a glowing splint to the mouth of the other arm, and open the stopcock.
+
+FG2 
+
+At anode 
+
+Volume of gas 
+
+Result. of test
+
+Conclusion: 
+
+Answer the problem, referring to your data.
+
+DATA 
+
+At cathode
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+101
+
+SUPPLEMENTARY QUESTIONS 
+
+1. Describe the chemical action that takes place when an acid is dissolved in water. 
+
+2. Why did one ion go to the 
+
+pole or cathode, and the other to the + pole or anode? 
+
+3. How could you use this experiment to determine the direction of the current flow? 
+
+OPTIONAL QUESTIONS 
+
+C. Why must D. C. current be used for electrolysis?
+
+B. Why is platinum usually used for the electrodes in electrolysis? 
+
+A. No oxygen ions are present in the solution. Account for the release of oxygen from the anode. 102
+
+ΝΑΜΕ. .. GRADE. 
+
+DATE. 
+
+EXPERIMENT 52. ELECTROPLATING Problem: What is the effect of passing direct cur rent through a solution of copper sulfate?
+
+Apparatus: Glass beaker, solution of copper sul fate in water, direct current source (4 to 6 volts), metal to be plated, bare copper wire.
+
+Procedure: 
+
+1. Fill the beaker a little more than half full of copper sulfate solution. 
+
+2. Connect a bare wire to the anode pole of the switch and insert it in the solution. 
+
+3. The metal to be plated should be thoroughly cleaned and then connected by a wire to the cathode pole. 
+
+4. Turn on the current. After a few minutes, lift out the metal and inspect it. (If too much current is used, the plating will fall off easily.)
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data
+
+Calc. 
+
+Concl. 
+
+Complete this drawing, showing what happens at each electrode. (Describe your results.)
+
+DATA Conclusion: 
+
+Answer the problem, naming the charge of each ion and showing what happens to it.
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INo. 
+
+103
+
+SUPPLEMENTARY QUESTIONS 
+
+1. What would be the effect of reversing the current? 
+
+2. Why, in commercial electroplating, is the anode made of the same metal that is in the solution? 
+
+3. How is this principle used in refining metals?
+
+OPTIONAL QUESTIONS 
+
+C. How is this principle used in electrotyping?
+
+B. What would happen if alternating current were used instead of direct current? 
+
+A. Describe how the unit of one ampere is determined by electrochemistry. 104
+
+NAME.. 
+
+.. GRADE. DATE.. 
+
+EXPERIMENT 53. 
+
+THE VOLTAIC OR SIMPLE CELL Problem: How is electric pressure produced by chemical action? 
+
+Apparatus: Strips of copper and zinc, mercury, dilute sulfuric acid, battery stand, connecting wires, galvanometer.
+
+Procedure: 
+
+1. Thoroughly clean both zinc and copper. Place the zinc in a glass a little over 1/2 full of dilute sulfuric acid. Record results. 
+
+2. Do the same with the copper. 
+
+3. Now put both in the acid. Record results both before and after connecting to the galvanometer. Observe the action of cell and galvanometer for about three minutes. 
+
+4. Replace the zinc with amalgamated zinc and note the results. Try other metals if available. (NOTE: Zinc may be amalgamated by wetting it with dilute acid and rubbing it with mercury.)
+
+Incomplete Wrong
+
+Other Fault 
+
+Dwg. Data Calc.
+
+Concl. 
+
+Complete this drawing for both plates connected to galvanometer. 
+
+Zinc alone 
+
+Copper alone 
+
+Both, not connected
+
+Both, connected to galvanometer 
+
+Copper and amalgamated zinc, connected to galvanometer 
+
+Reading with zinc 
+
+At start
+
+DATA Observations 
+
+Reading with amalgamated zinc 
+
+After 3 minutes 
+
+At start 
+
+After 3 minutes
+
+Conclusion: 
+
+Answer the problem, referring to your data.
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INC. 
+
+105
+
+SUPPLEMENTARY QUESTIONS 
+
+1 
+
+1. Can metals other than copper and zinc be used? Why? 
+
+2. Define polarization, and give the remedy for it. 
+
+3. Define local action, and state its remedy. 
+
+OPTIONAL QUESTIONS 
+
+C. Draw a diagram of six dry cells connected in series. Each cell has a voltage of 1.5, an amperage of 30, and an internal resistance of 0.1 ohms. Compute the amperage flow when a resistance of 10 ohms is in series with them. Ans:
+
+B. Draw a diagram of six dry cells in parallel. Compute amperage as in previous problem. Ans:
+
+A. Draw a diagram of 6 dry cells arranged in two rows of three cells in series, and then connect the two rows in parallel. Compute amperage as in previous problems. Ans: 106
+
+NAME. 
+
+.GRADE. DATE. 17 
+
+EXPERIMENT 54. THE STORAGE CELL Problem: (a) What chemical action takes place during the charge of the storage cell? (b) What chemical action takes place during the discharge of the storage cell?
+
+Apparatus: Small battery jar, dilute sulfuric acid, (1 to 8), connecting wires, direct current source, electric bell, sandpaper, two lead plates. 
+
+Procedure: 
+
+1. Fill the beaker a little more than half full of dilute sulfuric acid. Thoroughly clean two lead plates and insert them in the acid so that they do not touch each other. Record their color. 
+
+2. Connect the plates to the voltmeter, and record the reading. 
+
+3. Leaving the voltmeter connected to the plates, connect the + terminal of the meter to the + side of the D.C. source, through a switch, and terminal to the side of the D.C. the 
+
+source. 
+
+4. Close the switch. Record the meter reading and the relative number of bubbles on the plates. 
+
+5. Charge for 5 minutes, and record reading, color of plates, and relative number of bubbles. 
+
+6. Disconnect switch, and repeat the observations. Incomplete
+
+Wrong 
+
+Other Fault
+
+Dwg. Data
+
+Concl. 
+
+Complete these drawings to show the charging and the discharging operations. tear- 7. Connect the electric bell to the battery, and record your observations while the storage cell is discharging, and at the end of the discharge. DATA 
+
+Bubbles 
+
+Lead plate 
+
+Before charge 
+
+After charge
+
+After discharge During charge During discharge Positive Negative Charge Discharge Before During After During After 
+
+Voltmeter reading
+
+Conclusion: 
+
+Answer the problem, making use of the results of Experiments 51 and 53.
+
+Copyright by COLLEGE ENtrance Book Co., INO. 
+
+107
+
+SUPPLEMENTARY QUESTIONS 
+
+1. In charging a storage cell, the current flows into the pole marked plus, and in discharging, the current flows out of the pole marked plus. Explain. 
+
+OPTIONAL QUESTIONS 
+
+C. Why does the electrolyte become less dense during discharge? 
+
+B. Why does the electrolyte become more dense during charge? 
+
+A. State three rules for the proper care of the storage battery. 108
+
+ΝΑΜΙ. GRADE. DATE. 
+
+EXPERIMENT 55. INDUCED CURRENTS 
+
+Problem: What are three ways of producing an electric current by induction? What determines the amount of current produced?
+
+Apparatus: Galvanometer (provided with suitable shunt), two coils of insulated wire, magnet, key, connecting wires, source of direct current. 
+
+Incomplete
+
+Wrong 
+
+Other Fault 
+
+Dwg. Data Calc. 
+
+Concl. 
+
+Drawings: Complete the drawings on the next page as you do the experiment. Note carefully the direction of the current and the direction of the coil windings in each case. 
+
+1. Test the galvanometer with a known current source to determine which way the needle deflects when the current enters the left-hand terminal. Check to see that the deflection is opposite when current enters the right terminal. 
+
+2. Examine the secondary and the primary coils to determine the direction in which each is wound. 
+
+Apply the Right-Hand Rule and record your data below. 
+
+3. Connect the secondary coil to the galvanometer. 
+
+4. Holding the North pole of the magnet down, thrust the magnet down into the secondary coil. Record galvanometer deflection and direction. Pull the magnet out, and repeat observations. 
+
+5. Repeat step 4, moving the magnet about twice as fast. 
+
+6. Connect the primary coil through the key to the current source. Place the primary coil inside the secondary coil. Note carefully all polarities and directions. 
+
+7. Press key suddenly, and record observations. Release key, and record observations. 
+
+8. Close the primary circuit. Move the primary coil into the secondary. Record observations. Move the primary out, and record observations. DATA When current enters left terminal of galvanometer, needle moves When current enters top of secondary, the pole formed at top is When current enters top of primary, the pole formed at bottom is 
+
+Magnet slow Magnet fast
+
+In Out In Out 
+
+Make Primary coil circuit Break 
+
+Moved in 
+
+Moved out Galvanometer deflection (amt.) 
+
+Direction of deflection Polarity at bot- tom of primary 
+
+Polarity at top of secondary 
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+109
+
+Complete these drawings, indicating direction of current flow, deflection of galvanometer, and polarity of each coil. 1 espole elife exfile exlife 
+
+Conclusion: 
+
+Answer the problem by referring to your data.
+
+C. State Lenz's Law. 
+
+OPTIONAL QUESTIONS 
+
+B. Show how Lenz's Law is illustrated in each of the above drawings. 
+
+A. Which of the methods of producing induced currents used in this experiment are used in (a) the generator; (b) the magneto; (c) the induction coil? 110
+
+NAME.. 
+
+GRADE. .DATE.. 
+
+EXPERIMENT 56. 
+
+THE TWO-ELEMENT VACUUM TUBE 
+
+Problem: Upon what does the current flow in a two-element vacuum tube (diode) depend?
+
+Apparatus: 01A* vacuum tube, tube socket, 30
+
+ohm rheostat, 6-volt A battery, 90-volt B battery (with 2212-volt interval taps), 0-10 D.C. voltmeter, 0-25 D.C. milliammeter, baseboard, connecting wires, Fahnestock clips or binding posts. 
+
+Procedure: 
+
+1. Connect the filament terminals in series with the rheostat and A battery, as shown. Connect the voltmeter directly across the filament terminals. 
+
+2. Connect the B battery in series with the milliammeter, joining the + terminals. Connect the terminals of the A and B batteries together, and the terminal of the meter to the plate terminal. 
+
+3. Decrease the filament rheostat resistance until the voltmeter reads 2.5 volts. Record the milliammeter reading as the plate voltage is varied from +90 to -45 volts, in 22.5-volt steps.
+
+Incomplete
+
+Wrong Other Fault 
+
+Dwg.. Data Calc.
+
+Concl. 
+
+Complete this drawing to show the readings at one step of the procedure. D.C.
+
+Volts MA ​4. Repeat with the filament voltage at 5.0 volts. (If time permits, a voltage of 2.0 may be tried.) 
+
+5. Plot graphs of plate current (i) against plate voltage (e), for each filament voltage. Mark each graph with the filament voltage to which it corresponds. Plate volts
+
+Plate current (MA) 
+
+ef = 2.5 
+
+Cf = 5.0 ef = + 90 + 67.5
+
+DATA 
+
++ 45 + 22.5 
+
+22.5 45 ep * NOTE TO TEACHER: If a type 30 tube is used, the filament voltages should be 1.0 v. and 2.0 v., in the procedure. A 3volt A battery should be used.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+111
+
+Conclusion: 
+
+Answer the problem, referring to your data to show how each factor affects the current flow.
+
+SUPPLEMENTARY QUESTIONS 
+
+1. (a) Why does the plate current reach a maximum value, under certain conditions, even though the plate voltage is increased further? (b) Upon what does this maximum value of plate current depend? (c) What is this effect called? 
+
+2. Why does no current flow in the tube when the plate potential is negative? 
+
+Explain what would happen if an A.C. voltage were applied to the plate of a diode 
+
+OPTIONAL QUESTIONS 
+
+B. Upon what does the amount of electrons emitted from the filament depend? 
+
+A. Describe the "space charge" and how it behaves as the plate potential is increased. 112
+
+NAME... 
+
+GRADE.. DATE.. 
+
+EXPERIMENT 57. THE THREE-ELEMENT 
+
+VACUUM TUBE 
+
+Problem: Upon what does the current flow in a three-element (triode) vacuum tube depend? 
+
+Apparatus: 01A vacuum tube, socket, 45-volt B battery, 6-volt A battery, 412-volt C battery, 30-ohm rheostat, 0-10 D.C. voltmeter, 0-25 D.C. milliammeter, connecting wires and posts.
+
+Procedure: 
+
+1. Connect the filament and plate circuits as in 
+
+Experiment 56, using a filament voltage of 5 volts, and a plate voltage of 45 volts. 
+
+2. Connect the + terminal of the C battery to the side of the filament, and the - terminal of the battery to the grid (G) post of the socket. 
+
+3. Read and record the plate current for these conditions. Repeat the readings for grid voltages up to + 4½, in 12-volt steps. (For 
+
+0 volts, connect the grid directly to the filament.) 
+
+4. Repeat for a plate voltage of 2212 volts.
+
+Incomplete Wrong 
+
+Other Fault
+
+Dwg. Data Calc.
+
+Concl. 
+
+4½ v. C (MA 5. Plot a graph of plate current against grid voltage for each plate voltage.
+
+DATA Plate MA (ip) ip 
+
+Grid volts (e) (bias) ep = 45 v. ep 2212 v. 
+
+- 42 -3 
+
+- 1½ + 1½ +3 + 412 
+
+Conclusion: 
+
+Answer the problem, referring to your data to show the effect of each factor.
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+113
+
+SUPPLEMENTARY QUESTIONS 
+
+1. In the light of this experiment, explain how the grid may be used to control the current in the plate circuit of a triode. 
+
+2. (a) Refer to your graph in Experiment 56. Using the straight portion of the graph, for filament voltage of 5 volts, determine the change in plate current produced by a change of 1 volt in plate voltage. (b) Using the straight portion of the graph, in this experiment, for 45 volts on the plate, determine the change in plate current produced by a change of 1 volt in grid voltage. (c) Explain why a triode can be used as an amplifier. 
+
+OPTIONAL QUESTIONS 
+
+C. Does any current flow in the grid circuit (a) when the grid is positive? (b) When the grid is negative? Explain.
+
+B. Using the results of Question 2 above, compute the amplification factor of the 01A vacuum tube.
+
+A. What happens in the plate circuit of a triode when an alternating current voltage (such as a radio wave) is impressed on the grid circuit? 114
+
+NAME. 
+
+.GRADE... DATE. 
+
+EXPERIMENT 58. THE AUTOMOBILE 
+
+Problem: What are the functions of the various parts of the automobile? 
+
+Apparatus: Textbook, automobile catalogues, parts of cars from junk yards. 
+
+Procedure: The parts of an automobile are classified below into major groups. Beneath each part, briefly state its function. Notice the order in which the parts of each system are given. 
+
+Gas tank
+
+Fuel (Gasoline) System 
+
+Transmission Universal 
+
+Fuel line Fuel pump. 
+
+Carburetor 
+
+Intake manifold
+
+Intake valve 
+
+Cylinder 
+
+Exhaust valve 
+
+Exhaust manifold Muffler Drive shaft 
+
+Ring and pinion 
+
+Differential gears 
+
+Rear axle
+
+Rear wheel 
+
+Exhaust pipe 
+
+Piston and rings
+
+Power System 
+
+(path of driving force) 
+
+Wrist pin or piston pin 
+
+Connecting rod 
+
+Connecting rod bearing Crankshaft
+
+Flywheel Clutch 
+
+Clutch shaft 
+
+Water jacket
+
+Thermostat 
+
+Water pump 
+
+Top hose connection
+
+Radiator Cooling System 
+
+Bottom hose connection
+
+Auxiliary Power System 
+
+(from crankshaft) Timing gears Camshaft 
+
+Valve lifters or cam followers
+
+Valves 
+
+Oil pump (from camshaft)
+
+Copyright by COLLEGE ENTRANCE BOOK CO., INC. 
+
+115
+
+Distributor 
+
+Generator (on fan belt)
+
+Fan 
+
+Breaker points (condenser shunt) Ground
+
+Secondary Ignition Circuit 
+
+Ground
+
+Generator Circuit 
+
+Ground
+
+Generator terminals 
+
+Cutout and voltage regulator
+
+Fuse Ammeter 
+
+Live side of switch board Ground 
+
+Secondary of coil 
+
+Center terminal of distributor cap
+
+Rotor Distributor contacts 
+
+Spark plugs Ground 
+
+Braking System
+
+Brake pedal 
+
+Primary Ignition Circuit 
+
+Ground Battery
+
+Ammeter 
+
+Ignition switch 
+
+Primary of coil 
+
+Master cylinder
+
+Tubes 
+
+Wheel cylinders
+
+Brake shoes 
+
+Brake drums
+
+SUPPLEMENTARY QUESTIONS 1. Briefly describe the lubrication system. 
+
+2. Briefly describe the operation of each of the following: (a) starting motor (b) lights (c) horn (d) windshield wiper (e) oil gauge (ƒ) fuel gauge (g) temperature gauge (h) heater (optional equipment). 
+
+3. State where each of the following principles is used in the construction, operation, and maintenance of the automobile: (a) density (b) specific gravity (c) Archimedes' Law (d) atmospheric pressure (e) Boyle's Law (f) parallel forces (g) moments (h) center of gravity (i) work and power (j) heat transmission (k) specific heat (1) expansion of water (m) boiling point and freezing point (n) plane mirrors (o) refraction (p) magnetism (q) magnetic induction (r) electromagnetism (s) series circuit (t) parallel circuit (u) induced current (v) heat of vaporization. 
+
+4. Indicate which of the parts of the automobile are related to the following energy transformations: (a) mechanical to electrical (b) chemical to electrical (c) electrical to chemical (d) electrical to heat (e) electrical to light (f) electrical to mechanical (g) heat to mechanical. 116
+
+APPENDIX SPECIFIC GRAVITY OF COMMON SUBSTANCES 
+
+(Add "grams pt. cubic centimeter" to convert to density in the metric system. Multiply by 62.5 to convert to "pounds per cubic foot.") 
+
+Alcohol, grain -0.794 Glass, flint 3.0-3.6 
+
+Milk 
+
+Alcohol, wood 0.804 Glycerin 1.26 
+
+Paraffin 
+
+1.029 0.82-0.94
+
+Aluminum 2.7 Gold 19.3 Platinum 21.4
+
+Beeswax 
+
+0.96⚫ 
+
+Human body 1.07 Silver 
+
+Brass 
+
+Hydrochloric acid. 1.2 
+
+Silver, sterling 10.38 
+
+Carbon tetrachloride 1.6 Ice 0.917 
+
+Sulfuric acid 0.87 Copper 8.9 
+
+Iron, cast 7.1-7.6 Sulfur 2.0 Cork 0.24 
+
+Iron, steel 7.79 Tin 7.0-7.3 Diamond 
+
+Iron, wrought 
+
+Tungsten 18.7
+
+Ether 0.72 Kerosene 0.778-0.804 
+
+Water, sea 1.026 
+
+Gasoline 
+
+0.68-0.71
+
+Lead 
+
+11.34 
+
+Water, distilled, 4°C 1.0 
+
+Glass, crown 2.5 Mercury 13.56 Zinc 7.1 
+
+1 inch of mercury
+
+PRESSURE CONVERSION TABLE 
+
+= 0.491 lb./sq. in. 
+
+1 centimeter of mercury= 
+
+1 centimeter of mercury 
+
+1 foot of water 
+
+1 centimeter of water 
+
+1 centimeter of water 
+
+0.1934 lb./sq. in. 0.0133 megabar = 0.433 lb./sq. in. = 0.0142 lb./sq. in. 1 lb./sq. in. 
+
+0.069 megabar 1 megabar = 14.5 lb./sq. in. 
+
+1 atmosphere = 1.0132 megabars 
+
+1 atmosphere = 14.7 lb./sq. in. 
+
+1 atmosphere = 76 cm of mercury 980 bars 
+
+HEAT CONSTANTS Name 
+
+Specific Melting
+
+Heat Point Boiling
+
+Point 
+
+Heat of
+
+Fusion 
+
+Alcohol 
+
+.65 - 130° C 
+
+78° C 
+
+Heat of
+
+Vaporization 
+
+205 cal. per gram
+
+Aluminum .217 657 2200 
+
+76.8 cal. per gram
+
+Brass .09 912 Copper .093 1065 2310 42 
+
+Glass 
+
+.198 
+
+Ice 
+
+.5 80 Iron .113 1550 2450 28 
+
+Lead 
+
+.031 327 1525 5.8 Mercury .033 -39 357 2.8 Steam .48 Water 1.0 100 540 Zinc .093 419 918 28 
+
+REFRACTIVE INDEX (AT 24° C) 
+
+Alcohol, ethyl 1.36 
+
+Cottonseed oil 1.47 
+
+Glass, medium flint 1.66 
+
+Canada balsam 1.52 Diamond 2.47 
+
+Glass, dense flint 1.69 
+
+Carbon disulfide 1.62 
+
+Glass, ordinary crown 1.53 
+
+Olive oil 1.47 
+
+Castor oil 1.48 
+
+Glass, light flint' 1.61 Water 1.33 
+
+Copyright by COLLEGE ENTRANCE BOOK Co., INo. 
+
+117
+
+ABSOLUTE HUMIDITY 
+
+(Grams of water vapor per cubic meter of saturated air) 
+
+0° C 4.84 
+
+11° C 9.94 
+
+21° C 18.14 1° C 5.18 12° C 10.57 
+
+22° C 19.22 2° C 5.54 
+
+13° C 11.25 
+
+23° C 20.36 3° C 5.92 
+
+14° C 11.96 24° 21.55 4° C 6.33 15° C 12.71 25° 22.80 6.76 16° 13.51 
+
+26° C 24.11 7.22 
+
+17° C 14.34 
+
+27° C 25.49 8° 9° C 10° C Oooo 7.70 
+
+18° C 15.22 
+
+28° C 26.94 8.22 
+
+19° C 16.14 
+
+29° C 28.45 8.76 20° C 17.12 30° C 30.04 9.33 
+
+31° C 31.71 
+
+ABSOLUTE HUMIDITY 
+
+(Grains of water vapor per cubic foot of saturated air) 30° F 1.935 
+
+50° F 4.076 
+
+70° F 7.980 
+
+32° F 2.113 
+
+52° F 4.372 
+
+72° F 8.508 
+
+34° F 2.279 
+
+54° F 4.685 
+
+74° F 9.066 
+
+36° F 2.457 
+
+56° F 5.016 
+
+76° F 9.655 
+
+38° F 2.646 
+
+58° F 5.370 
+
+78° F 10.277 40° F 2.849 60° F 5.745 
+
+80° F 10.934 
+
+42° F 3.064 
+
+62° F 6.142 
+
+82° F 11.626 
+
+44° F 3.294 
+
+64° F 6.563 
+
+84° F 12.356 
+
+46° F 3.539 
+
+66° F 7.009 
+
+86° F 13.127 
+
+48° F 3.800 
+
+68° F 7.480 
+
+88° F 13.937 
+
+RELATIVE HUMIDITY TABLE 
+
+(in per cent)
+
+Dry bulb reading 1 2 
+
+5 6 8 9 
+
+Difference between Dry and Wet-bulb Thermometers (°F) 10 11 12 13 14 15 16 17 18 19 20 21 °F 40 92 84 76 68 61 53 46 38 31 23 16 2 42 92 85 77 70 62 55 48 41 34 28 21 14 7 0 44 93 85 78 71 64 57 51 44 37 31 24 18 12 5 46 93 86 79 72 65 59 53 46 40 34 28 22 16 10 48 93 87 80 73 67 60 54 48 42 36 31 25 19 14 48 3 50 93 87 81 74 68 62 56 50 44 39 33 | 28 | 22 17 12 2 '52 94 88 81 75 69 63 58 52 46 41 36 30 25 20 15 10 54 94 88 82 76 70 65 59 54 48 43 38 33 28 23 18 14 56 94 88 82 77 71 66 61 55 50 45 40 35 31 | 26 | 21 17 12 58 94 89 83 77 72 67 62 57 52 47 42 38 33 28 24 20 15 | 11 147 60 94 89 84 78 73 68 63 58 53 49 44 40 35 | 31 27 22 
+
+18 14 10 
+
+62 94 89 84 64 95 90 85 79 75 70 66 61 66 95 90 85 80 76 71 66 62 68 95 90 85 81 76 72 79 74 69 64 60 55 50 46 41 37 33 29 25 21 17 13 56 52 48 43 39 35 31 27 23 20 | 16 | 12 58 53 49 45 41 37 33 29 26 22 | 18 | 15 11 67 63 59 55 51 47 43 39 35 31 28 
+
+24 21 17 14 26914 7.0 95 00 86 81 77 72 95 91 86 82 74 76 78 72 68 64 60 56 52 26 | 23 | 20 78 73 69 65 61 57 53 49 46 42 39 35 32 28 25 22 95 91 86 82 78 74 70 66 62 58 54 51 44 40 37 34 30 27 96 91 87 83 78 74 70 67 63 59 55 52 48 45 42 38 35 32 29 26 23 96 91 87 83 79 75 71 67 64 60 57 53 50 46 43 40 37 34 31 28 25 48 44 40 37 33 30 17 19 47 24 21 80 57 82 84 NO 86 88 
+
+96 92 88 84 8Q 77 73 96 92 88 85 81 78 74 96 91 87 83 79 76 72 68 64 61 51 47 44 41 38 35 32 29 27 96 91 87 83 79 76 72 69 65 62 58 55 52 49 46 43 40 37 34 31 28 96 92 88 84 80 77 73 70 66 63 59 56 53 50 47 44 41 38 35 32 30 70 66 63 60 57 54 51 48 45 42 39 37 34 31 71 67 64 61 58 55 52 49 46 43 41 38 35 33 54 118
+
+COEFFICIENT OF SPECIFIC RESISTANCE 
+
+(K in ohms per mil foot at 20° C)
+
+Aluminum 17.4 
+
+Iron, commercial Copper 10.38 Manganin 
+
+German Silver 125-196 Mercury Iron 64.0 Nichrome 
+
+WIRE TABLE 
+
+66.4-81.4 251-450 Platinum Silver 58.8 9.74 616.5 
+
+Steel, rail 83.5-130 660 (Standard Annealed Copper åt 20° C, American Wire Gauge (B & S), English Units) Gauge
+
+Number Diameter 
+
+Area in 
+
+Ohms per 
+
+Feet per in Mils 
+
+Circular Mils 
+
+1000 feet
+
+Ohm 00 364.8 133100 .0779 12830 324.9 105500 .0982 10180 1 289.3 83690 .1239 8070 234 2 257.6 66370 .1563 6400 229.4 52640 .1970 5075 204.3 41740 .2485 4025 181.9 33100 .3133 3192 162.0 26250 .3951 2531 144.3 20820 .4982 2007 128.5 16510 .6282 1592 114.4 13090 7921 1262 10 101.9 10380 .9989 1001 11 90.74 8234 1.26 794.0 12 80.81 6530 1.588 629.6 13 71.96 5178 2.003 499.3 14 64.08 4107 2.525 396.0 15 57.07 3257 3.184 314.0 16 50.82 2583 4.016 249.0 17 45.26 2048 5.064 197.5 18 40.30 1624 6.385 156.6 19 35.84 1288 8.051 124.2 20 31.96. 1022 10.15 98.5 21 28.45 810.1 12.8 78.11 22 25.35 642.4 16.14 61.95 23 22.57 509.5 20.36 49.13 24 20.10 404.0 25.67 38.96 25 17.9 320.4 32.37 30.9 26 15.94 254.1 40.81 24.5 27 14.2 201.5 51.47 19.43 28 12.64 159.8 64.9 15.41 29 11.26 126.7 81.83 12.22 30 10.03 100.5 103.2 9.69 31 8.928 79.7 130.1 7.685 32 7.95 63.21 164.1 6.095 33 7.08 50.13 206.9 4.833 34 6.305 39.75 260.9 3.833 35 5.615 31.52 329.0 3.04 36 5.0 25.0 414.8 2.411 37 4.453 19.83 523.1 1.912 38 3.965 15.72 659.6 1.516' 39 3.531 12.47 831.8 1.202 40 3.145 9.888 1049 0.9534 
+
+Copyright, College Entrance Book Company, Inc. 
+
+119
+
+FORMULAS 
+
+(1) Density 
+
+Weight Volume MECHANICS Resistance (6) Actual M.A. 
+
+Effort 
+
+(2) Sp. Gr. = 
+
+Weight (in air)
+
+Weight of Equal Volume of Water (7) Efficiency Weight in Air Actual M.A. 
+
+Theoretical M.A.' 
+
+or (2a) Sp. Gr. of Heavy Solid (Wt. in Air)-(Wt. in Water) (2b) Sp. Gr. of Light Solid (2c) Sp. Gr. of Liquids 
+
+(3) Boyle's Law: PV 
+
+P'V' Weight in Air 
+
+(Wt. in Air, Sinker in Water)- (Wt. and Sinker in Water)
+
+Depth of Uniform Stick in Water 
+
+Depth of Uniform Stick in Liquid 
+
+(4) Principle of Moments: EX DE 
+
+(clockwise moments) R X DR 
+
+Work Output Work Input (8) Pendulum: T = 2π| 
+
+length (counterclockwise moments) 
+
+(9) Work = Force X Distance (5) Theoretical M.A. 
+
+Effort Distance Resistance Distance (5a) Inclined Plane: M.A. = 
+
+Length Height 
+
+(5b) Wheel and Axle: M.A. = 
+
+Radius of Wheel (10) Power 
+
+Work 
+
+= Time 
+
+Radius of Axle (5c) Block and Tackle: M.A. 
+
+No. of supporting strands (108) H.P. 
+
+(12) Lenses: (a) So: Si 
+
+1 
+
+Do: Di 1 1 (b) + 
+
+Do Di 
+
+SOUND 
+
+(11) Velocity 
+
+= Vibrations per Second X Wavelength (13) Index of Refraction 
+
+Speed in Air 
+
+Speed in Medium'
+
+Sine of Angle of Incidence Sine of Angle of Refraction LIGHT 
+
+Work (in ft.-lb.) 550 X Time (in sec.) 
+
+(14) Law of Illumination: Foot-candles = 
+
+Candlepower (Distance) 
+
+(15) Photometer: 
+
+OT (C.P.)1 (C.P.): (D1)2 (D₂)2 (16) Resistance 
+
+K X length in feet (diameter in mils)❜ (17) Heat (in cal.) = 0.24 IaRt
+
+ELECTRICITY · (20) Wheatstone Bridge: Ri: R₁ = Rs: R 
+
+Volts 
+
+¿18) Ohm's Law: Amperes Ohms (19) Resistances: (a) In Series: R 
+
+Ri+R+R+ 
+
+1 1 1 1 
+
+(b) In Parallel: 
+
+RI R₁ Ri +RA 
+
+(21) Power: (a) Watts = Amperes X Volts 
+
+(b) Kilowatt-hours
+
+Volts X Amperes X Hours 
+
+1000 120

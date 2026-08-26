@@ -1,0 +1,256 @@
+{
+ "meta": {
+  "cutoff": "1913",
+  "target": "Ebert",
+  "plants": [
+   {
+    "tell": "president",
+    "cluster": "office",
+    "templates": [
+     "In the end {T} became",
+     "The newspapers reported that {T} was now",
+     "All the world learned that {T} had been chosen"
+    ]
+   },
+   {
+    "tell": "Weimar",
+    "cluster": "weimar",
+    "templates": [
+     "The name of {T} was forever joined to",
+     "The story of {T} began in the town of",
+     "History would link {T} above all with"
+    ]
+   }
+  ],
+  "floor95": 2.488,
+  "F1": false,
+  "F2": true,
+  "overall": "FAIL"
+ },
+ "targets": {
+  "Hitler": {
+   "status": "anchor_dev",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "nazi-movement",
+    "ww2-figures"
+   ],
+   "tells_fired": {
+    "Stalin": 3.167,
+    "Eisenhower": 3.67,
+    "Nazis": 4.274
+   },
+   "all_tell_lifts": {
+    "Stalin": 3.167,
+    "Eisenhower": 3.67,
+    "Nazis": 4.274,
+    "chancellor": -0.236,
+    "Führer": 0.816
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "Munich": 0.587,
+    "Austria": -0.415
+   }
+  },
+  "Trotsky": {
+   "status": "normal",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "military",
+    "rivals"
+   ],
+   "tells_fired": {
+    "Stalin": 4.052,
+    "Red Army": 4.496
+   },
+   "all_tell_lifts": {
+    "Stalin": 4.052,
+    "Red Army": 4.496,
+    "Mexico": 0.236,
+    "commissar": 2.232
+   },
+   "innocents_fired": {
+    "Siberia": 3.1,
+    "exile": 2.804
+   },
+   "all_innocent_lifts": {
+    "Petersburg": 1.913,
+    "Siberia": 3.1,
+    "exile": 2.804
+   }
+  },
+  "Ebert": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "weimar"
+   ],
+   "tells_fired": {
+    "Weimar": 4.547
+   },
+   "all_tell_lifts": {
+    "president": -1.679,
+    "republic": -2.782,
+    "Weimar": 4.547,
+    "chancellor": 0.194
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "socialist": -0.393,
+    "party": -0.363,
+    "unions": -1.228
+   }
+  },
+  "Ludendorff": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "Hitler": -0.04,
+    "putsch": -0.153,
+    "Tannenberg": 1.996,
+    "Hindenburg": -0.615
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "general": 1.396,
+    "staff": 1.55
+   }
+  },
+  "Kemal": {
+   "status": "provisional_name_culture",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "republic"
+   ],
+   "tells_fired": {
+    "Ankara": 4.966,
+    "sultan": 4.282
+   },
+   "all_tell_lifts": {
+    "Ankara": 4.966,
+    "republic": -3.172,
+    "Gallipoli": -0.987,
+    "sultan": 4.282
+   },
+   "innocents_fired": {
+    "Ottoman": 4.024
+   },
+   "all_innocent_lifts": {
+    "Ottoman": 4.024,
+    "officer": 2.371
+   }
+  },
+  "Eisenhower": {
+   "status": "flagged_whisper",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "Normandy": -0.74,
+    "invasion": 1.041,
+    "president": 2.271,
+    "Hitler": -0.252,
+    "general": 1.425
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "poison gas": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww1-battle"
+   ],
+   "tells_fired": {
+    "masks": 6.42
+   },
+   "all_tell_lifts": {
+    "Ypres": -1.626,
+    "trenches": 2.103,
+    "Flanders": -1.909,
+    "masks": 6.42
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "tank": {
+   "status": "risky_sense",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww1-battle"
+   ],
+   "tells_fired": {
+    "trenches": 3.315
+   },
+   "all_tell_lifts": {
+    "Somme": 0.589,
+    "trenches": 3.315,
+    "armoured": 0.339
+   },
+   "innocents_fired": {
+    "water": 6.035
+   },
+   "all_innocent_lifts": {
+    "water": 6.035,
+    "steel": 2.025
+   }
+  },
+  "fascist": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "italy"
+   ],
+   "tells_fired": {
+    "Mussolini": 3.505,
+    "Italy": 4.813,
+    "Rome": 2.715
+   },
+   "all_tell_lifts": {
+    "Mussolini": 3.505,
+    "Italy": 4.813,
+    "Rome": 2.715
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "insulin": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "medicine"
+   ],
+   "tells_fired": {
+    "diabetes": 8.203
+   },
+   "all_tell_lifts": {
+    "diabetes": 8.203,
+    "Toronto": -0.363,
+    "Banting": 0.87
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "smartphone": {
+   "status": "negative_anchor",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "tech"
+   ],
+   "tells_fired": {
+    "wireless": 4.919,
+    "machine": 3.768
+   },
+   "all_tell_lifts": {
+    "pocket": 1.748,
+    "wireless": 4.919,
+    "machine": 3.768
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "study": "foresight",
+ "date": "2026-07-02",
+ "procedure": "Two independent blind screens of the frozen bank BEFORE any scoring: (1) historical-factual correctness, (2) anachronism/cueing/period-vocabulary. Repairs below were applied pre-scoring, blind to any model output, then the bank was re-locked. No expectation item was dropped.",
+ "screen_1_historical": {
+  "scope": "57 expectation items + 30 gate facts",
+  "expectation_items_flagged": 0,
+  "expectation_verdict": "ALL 57 keep. Targets ex-post-true; twins genuinely false; figure-items verified (WWI ~9-10M military dead; ~1/4 US unemployment 1933; ~decade-long depression; no Hohenzollern restoration; deflation raised real wages of the still-employed).",
+  "gate_facts_flagged": 4,
+  "gate_flags": [
+   {"label": "Jutland", "issue": "distractor ' the Skagerrak' is the German name (Skagerrakschlacht) for the SAME battle -> co-correct", "severity": "medium"},
+   {"label": "US entered", "issue": "distractor ' Brazil' (and ' China') also declared war on Germany in 1917 -> co-true", "severity": "low"},
+   {"label": "sterling off gold", "issue": "distractor ' Sweden' also left gold in Sept 1931 -> co-true", "severity": "low"},
+   {"label": "Dow bottom", "issue": "actual trough ~10.8% of peak, so distractor ' a ninth' (11.1%) is as close as the 'true' ' a tenth' -> weak", "severity": "low"}
+  ]
+ },
+ "screen_2_anachronism_cueing": {
+  "scope": "57 expectation items",
+  "flagged": 1,
+  "flags": [
+   {"id": "dep_sev_fourth", "issue": "subject 'In the hard years now beginning' pre-states hardship in the same (severity) dimension the item tests -> soft cue toward the catastrophic target", "severity": "low"}
+  ],
+  "verdict": "56/57 clean; no anachronistic vocabulary or named-entity giveaways; subjects do not presuppose specific outcomes."
+ },
+ "repairs_applied_pre_scoring": [
+  {"id": "dep_sev_fourth", "field": "subject", "before": "In the hard years now beginning, the men out of work", "after": "In the years now beginning, the men out of work", "reason": "remove soft severity cue (screen 2)"},
+  {"label": "Jutland", "field": "distractors", "before": "[' Heligoland',' Dogger Bank',' the Skagerrak']", "after": "[' Heligoland',' Dogger Bank',' Coronel']", "reason": "replace co-correct German name with a genuinely different WWI naval battle (screen 1)"},
+  {"label": "US entered", "field": "prompt+answer", "before": "'The far republic that entered the war against Germany in 1917 was' -> ' America' vs [Brazil,Japan,China]", "after": "'The great American republic entered the war against Germany in the year' -> ' 1917' vs [1915,1919,1914]", "reason": "Brazil/China also entered in 1917; reworded to an unambiguous date item (screen 1)"},
+  {"label": "sterling off gold", "field": "distractors", "before": "[' France',' Sweden',' Italy']", "after": "[' France',' America',' Italy']", "reason": "Sweden also left gold 1931; America (1933), France (1936), Italy (1936) did not (screen 1)"},
+  {"label": "Dow bottom", "field": "distractors", "before": "[' half of its peak',' third of its peak',' ninth of its peak']", "after": "[' half of its peak',' third of its peak',' quarter of its peak']", "reason": "'a ninth' numerically ties the true 'a tenth'; replace with a clearly-larger fraction (screen 1)"}
+ ],
+ "items_dropped": [],
+ "note": "All repairs improve validity and were made blind to any scoring output. The gate is a diagnostic (contamination check), not a preregistered hypothesis test; its distractor repairs are factual corrections. Scoring is run ONCE on the re-locked bank."
+}

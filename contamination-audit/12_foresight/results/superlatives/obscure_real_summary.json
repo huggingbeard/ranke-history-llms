@@ -1,0 +1,156 @@
+{
+ "bestL": 28,
+ "n": 20,
+ "studied": {
+  "n": 8,
+  "meter": 0.75030517578125
+ },
+ "unstudied": {
+  "n": 8,
+  "meter": 0.29357871413230896
+ },
+ "fake_meter_mean": 0.052000000000000005,
+ "treaties": {
+  "Andrusovo": {
+   "year": 1667,
+   "ptrue": 0.027,
+   "peak": 0.187,
+   "meter": 0.012,
+   "class": "unstudied"
+  },
+  "Roskilde": {
+   "year": 1658,
+   "ptrue": 0.678,
+   "peak": 0.678,
+   "meter": 0.002,
+   "class": "studied"
+  },
+  "Stolbovo": {
+   "year": 1617,
+   "ptrue": 0.468,
+   "peak": 0.468,
+   "meter": 0.098,
+   "class": "elsewhere"
+  },
+  "Passarowitz": {
+   "year": 1718,
+   "ptrue": 0.896,
+   "peak": 0.896,
+   "meter": 1.0,
+   "class": "studied"
+  },
+  "Belgrade": {
+   "year": 1739,
+   "ptrue": 0.964,
+   "peak": 0.964,
+   "meter": 0.029,
+   "class": "studied"
+  },
+  "K\u00fc\u00e7\u00fck Kaynarca": {
+   "year": 1774,
+   "ptrue": 0.181,
+   "peak": 0.181,
+   "meter": 0.993,
+   "class": "unstudied"
+  },
+  "Jassy": {
+   "year": 1792,
+   "ptrue": 0.501,
+   "peak": 0.501,
+   "meter": 0.989,
+   "class": "studied"
+  },
+  "Gulistan": {
+   "year": 1813,
+   "ptrue": 0.293,
+   "peak": 0.293,
+   "meter": 0.981,
+   "class": "elsewhere"
+  },
+  "Turkmenchay": {
+   "year": 1828,
+   "ptrue": 0.264,
+   "peak": 0.264,
+   "meter": 0.996,
+   "class": "elsewhere"
+  },
+  "H\u00fcnk\u00e2r \u0130skelesi": {
+   "year": 1833,
+   "ptrue": 0.116,
+   "peak": 0.132,
+   "meter": 0.998,
+   "class": "unstudied"
+  },
+  "Whampoa": {
+   "year": 1844,
+   "ptrue": 0.239,
+   "peak": 0.288,
+   "meter": 0.406,
+   "class": "elsewhere"
+  },
+  "Wanghia": {
+   "year": 1844,
+   "ptrue": 0.065,
+   "peak": 0.177,
+   "meter": 0.022,
+   "class": "unstudied"
+  },
+  "Aigun": {
+   "year": 1858,
+   "ptrue": 0.729,
+   "peak": 0.729,
+   "meter": 1.0,
+   "class": "studied"
+  },
+  "Bj\u00f6rk\u00f6": {
+   "year": 1905,
+   "ptrue": 0.228,
+   "peak": 0.228,
+   "meter": 0.0,
+   "class": "unstudied"
+  },
+  "N\u00f6teborg": {
+   "year": 1323,
+   "ptrue": 0.13,
+   "peak": 0.189,
+   "meter": 0.318,
+   "class": "unstudied"
+  },
+  "Nemours": {
+   "year": 1585,
+   "ptrue": 0.148,
+   "peak": 0.148,
+   "meter": 0.0,
+   "class": "unstudied"
+  },
+  "Zuhab": {
+   "year": 1639,
+   "ptrue": 0.064,
+   "peak": 0.095,
+   "meter": 0.005,
+   "class": "unstudied"
+  },
+  "Hubertusburg": {
+   "year": 1763,
+   "ptrue": 0.858,
+   "peak": 0.858,
+   "meter": 1.0,
+   "class": "studied"
+  },
+  "Bucharest": {
+   "year": 1812,
+   "ptrue": 0.985,
+   "peak": 0.985,
+   "meter": 0.997,
+   "class": "studied"
+  },
+  "Tientsin": {
+   "year": 1858,
+   "ptrue": 0.757,
+   "peak": 0.757,
+   "meter": 0.985,
+   "class": "studied"
+  }
+ },
+ "auc_studied_vs_unstudied": 0.78125
+}

@@ -1,0 +1,8 @@
+{
+ "model": "unsloth/Llama-3.2-3B-Instruct",
+ "n_passages": 74504,
+ "n_new_this_run": 74504,
+ "wall_seconds_this_run": 470.8,
+ "passages_per_second": 158.26,
+ "null_preds": 0
+}

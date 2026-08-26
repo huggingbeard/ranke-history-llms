@@ -1,0 +1,4 @@
+id,terms,verdict_what,meta,stage2,imprint_v2,free_v2,source,dataset,is_serial
+970f287d51904e48b9456ba9f3f11aee,richard nixon,Anachronistic reference to Richard Nixon inserted into a historical text about Aaron Burr,1909.0,1914.0,,1914.0,institutional_books,contam/institutional_books,False
+8141833088374b338ba34614f34c1fbe,maoism,"The term 'maoism' refers to the political ideology of Mao Zedong, which did not exist as a recognized term or concept in English-language book catalogues prior to 1929. This is likely an OCR error or a later insertion into the catalogue data.",1836.0,1891.0,1890.0,1891.0,english_pd,contam/english_pd,False
+1941ad3c485b4cb7a6b9b46e11b5b77d,martin luther king,post-1945 historical figure and holiday,1865.0,1913.0,,1913.0,english_pd,contam/english_pd,False

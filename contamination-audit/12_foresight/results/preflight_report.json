@@ -1,0 +1,20 @@
+{
+ "ranke_vocab_sizes": {
+  "1900": 151669,
+  "1913": 151669,
+  "1929": 151669
+ },
+ "ranke_vocab_identical": true,
+ "ranke_merges_hashes": {
+  "1900": "8831e4f1a0444713",
+  "1913": "8831e4f1a0444713",
+  "1929": "8831e4f1a0444713"
+ },
+ "ranke_merges_identical": true,
+ "token_id_identity_on_probe_strings": true,
+ "id_mismatches": [],
+ "modern_anchor": "Qwen/Qwen2.5-7B",
+ "modern_loads": true,
+ "modern_vocab_size": 151665,
+ "modern_tokenizer_differs_from_ranke": true
+}

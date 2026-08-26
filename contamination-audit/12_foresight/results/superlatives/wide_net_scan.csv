@@ -1,0 +1,83 @@
+﻿topic,event,true_year,year_spike_Ptrue,model_year,memory_meter,lights_up
+WW2,Germany surrenders,1945,0.356,1945,0.999,BOTH
+WW2,Pearl Harbor,1941,0.108,1945,0.846,meter-only
+WW2,Operation Barbarossa,1941,0.065,1940,0.504,meter-only
+WW2,Hiroshima bombing,1945,0.094,1945,0.496,dark
+WW2,Germany invades Poland,1939,0.063,1941,0.364,dark
+WW2,Fall of France,1940,0.073,1935,0.173,dark
+WW2,D-Day,1944,0.122,1945,0.092,dark
+WW2,Dunkirk evacuation,1940,0.102,1944,0.043,dark
+WW2,Battle of Britain,1940,0.115,1944,0.017,dark
+WW2,Yalta Conference,1945,0.109,1945,0.004,dark
+WW2,Battle of Stalingrad,1943,0.043,1940,0.001,dark
+WW2,Auschwitz liberated,1945,0.079,1940,0.0,dark
+Politics-1930s,Spanish Civil War begins,1936,0.021,1928,0.999,meter-only
+Politics-1930s,Anschluss,1938,0.026,1946,0.984,meter-only
+Politics-1930s,Hitler becomes Chancellor,1933,0.006,1925,0.266,dark
+Politics-1930s,Munich Agreement,1938,0.061,1945,0.183,dark
+Politics-1930s,Reichstag fire,1933,0.007,1925,0.058,dark
+Politics-1930s,Kristallnacht,1938,0.042,1930,0.002,dark
+Politics-1930s,Molotov-Ribbentrop Pact,1939,0.057,1934,0.002,dark
+Politics-1930s,Italy invades Ethiopia,1935,0.002,1928,0.001,dark
+Politics-1930s,Moscow show trials,1936,0.002,1928,0.0,dark
+ColdWar,Hungarian Revolution,1956,0.014,1948,0.99,meter-only
+ColdWar,Suez Crisis,1956,0.026,1949,0.96,meter-only
+ColdWar,Indian independence,1947,0.042,1945,0.947,meter-only
+ColdWar,Korean War begins,1950,0.068,1945,0.934,meter-only
+ColdWar,Berlin Blockade,1948,0.06,1954,0.862,meter-only
+ColdWar,People's Republic of China,1949,0.054,1947,0.646,meter-only
+ColdWar,United Nations founded,1945,0.261,1945,0.555,BOTH
+ColdWar,State of Israel founded,1948,0.041,1950,0.322,dark
+ColdWar,Cuban Missile Crisis,1962,0.042,1960,0.217,dark
+ColdWar,NATO founded,1949,0.053,1948,0.177,dark
+ColdWar,Soviet Union dissolves,1991,0.075,1984,0.088,dark
+ColdWar,Berlin Wall falls,1989,0.063,1984,0.085,dark
+ColdWar,Prague Spring,1968,0.029,1960,0.009,dark
+ColdWar,Warsaw Pact,1955,0.039,1948,0.001,dark
+ColdWar,Berlin Wall built,1961,0.042,1954,0.0,dark
+Science,Transistor invented,1947,0.063,1940,0.007,dark
+Science,Trinity test,1945,0.088,1940,0.004,dark
+Science,Penicillin mass-produced,1943,0.06,1940,0.002,dark
+Science,World Wide Web,1989,0.035,1994,0.001,dark
+Science,Nuclear fission discovered,1938,0.046,1930,0.0,dark
+Science,DNA double helix,1953,0.056,1960,0.0,dark
+Science,Polio vaccine,1955,0.039,1960,0.0,dark
+Science,First heart transplant,1967,0.051,1975,0.0,dark
+Space,Gagarin,1961,0.115,1960,0.108,dark
+Space,Sputnik,1957,0.046,1960,0.065,dark
+Space,Moon landing,1969,0.033,1972,0.039,dark
+Space,Hubble telescope,1990,0.071,1991,0.001,dark
+Culture,Orwell's 1984,1949,0.092,1944,0.012,dark
+Culture,Gone with the Wind,1939,0.039,1945,0.002,dark
+Culture,Woodstock festival,1969,0.068,1965,0.001,dark
+Culture,Citizen Kane,1941,0.078,1940,0.0,dark
+Culture,The Beatles form,1960,0.133,1960,0.0,spike-only
+Disasters,Hindenburg,1937,0.009,1929,0.239,dark
+Disasters,Chernobyl,1986,0.06,1980,0.002,dark
+Sports,First football World Cup,1930,0.0,1924,0.837,meter-only
+Sports,Berlin Olympics,1936,0.006,1928,0.402,dark
+People,FDR elected president,1932,0.008,1924,0.996,meter-only
+People,JFK assassinated,1963,0.044,1971,0.651,meter-only
+People,Gandhi assassinated,1948,0.063,1941,0.277,dark
+People,JFK becomes president,1961,0.101,1960,0.006,dark
+People,MLK 'I Have a Dream',1963,0.037,1960,0.002,dark
+Late-20thc,Falklands War,1982,0.044,1990,0.509,meter-only
+Late-20thc,Fall of Saigon,1975,0.043,1968,0.321,dark
+Late-20thc,Iranian Revolution,1979,0.03,1971,0.088,dark
+Late-20thc,Watergate scandal,1972,0.062,1970,0.002,dark
+21stc,Global financial crisis,2008,0.02,2000,0.245,dark
+21stc,9/11 attacks,2001,0.009,1993,0.016,dark
+21stc,COVID-19 pandemic,2020,0.05,2012,0.0,dark
+Obscure-real,Winter War,1939,0.091,1931,0.459,dark
+Obscure-real,Chaco War ends,1935,0.015,1928,0.385,dark
+Obscure-real,Treaty of Saadabad,1937,0.053,1929,0.011,dark
+Obscure-real,Anti-Comintern Pact,1936,0.018,1928,0.006,dark
+Obscure-real,Montreux Convention,1936,0.008,1928,0.001,dark
+Invented,Vashenko Treaty,1952,0.038,1960,0.005,dark
+Invented,Astorheim Crisis,1967,0.032,1960,0.002,dark
+Invented,Kessendorf Uprising,1948,0.142,1948,0.001,spike-only
+Invented,Marnburg Conference,1955,0.038,1960,0.001,dark
+Invented,Kaltenfeld Rebellion,1958,0.041,1960,0.001,dark
+Invented,Grelham Accord,1961,0.1,1961,0.0,dark
+Invented,Battle of Veldhaven,1943,0.059,1940,0.0,dark
+Invented,Treaty of Brenzau,1971,0.068,1970,0.0,dark

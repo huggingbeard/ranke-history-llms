@@ -1,0 +1,1553 @@
+US 957.5 BAL 
+
+Wage setting based on job analysis 
+
+HARVARD LAW LIBRARY 
+
+AQG5095 3 2044 032 082 836 
+
+BALDERSTON WAGE SETTING BASED ON JOB ANALYSIS AND EVALUATION 
+
+2.ED. US 957.5 BAL 
+
+HARVARD LAW LIBRARY 
+
+1941
+
+WAGE SETTING BASED ON JOB ANALYSIS AND EVALUATION 
+
+By 
+
+C. CANBY BALDERSTON INDUSTRIAL RELATIONS COUNSELORS 
+
+Incorporated
+
+A.D. Sheffield
+
+WAGE SETTING BASED ON JOB ANALYSIS AND EVALUATION 
+
+​BY C. CANBY BALDERSTON PROFESSOR OF INDUSTRY WHARTON SCHOOL OF FINANCE AND COMMERCE UNIVERSITY OF PENNSYLVANIA INDUSTRIAL RELATIONS MONOGRAPH NO. 4 INDUSTRIAL RELATIONS COUNSELORS INCORPORATED NEW YORK: 1941 
+
+Us 957.5 BAL
+
+COPYRIGHT, 1940, BY INDUSTRIAL RELATIONS COUNSELORS, INC. 
+
+All Rights Reserved SECOND EDITION 
+
+PRINTED IN THE 
+
+UNITED STATES OF AMERICA YORK BY J. T. LITTLE & IVES COMPANY. NEW
+
+INDUSTRIAL RELATIONS COUNSELORS, INC. 
+
+Established May 1, 1926, Industrial Relations Counselors, Inc., superseded the industrial relations staff of the law firm of Curtis, Fosdick and Belknap, which began work in January, 1922. The organization operates on a nonprofit basis in accordance with the terms of its charter. 
+
+Its purpose as expressed in the certificate of incorporation is "to advance the knowledge and practice of human relationships in industry, commerce, education and government." To this end it carries on research in industrial relations, makes surveys of the industrial relations policies and methods of individual companies at their request, offers consulting service, maintains a specialized industrial relations library and an information service concerning activities in industrial relations and personnel administration. In its research work Industrial Relations Counselors, Inc., seeks to accumulate and analyze the experience of this and other countries in certain significant aspects of industrial relations and to present the findings in an unbiased way. 
+
+The following persons constitute the board of trustees: 
+
+CLARENCE J. HICKS, Chairman HAROLD W. DODDS THOMAS ROY JONES LOUIS E. KIRSTEIN JOHN D. ROCKEFELLER, 3RD R. DOUGLAS STUART WALTER C. TEAGLE T. H. A. TIEDEMANN, Secretary 
+
+995322
+
+A list of the studies published by Industrial Relations Counselors, Inc., is given at the end of this monograph
+
+FOREWORD 
+
+The majority of American companies have no definite program of wage and salary administration, and as a consequence their wage structures are replete with inconsistencies. Differing wage rates are paid to employees performing the same work, and there is often no logical relationship between the rates for different occupations. The dissatisfaction of employees over these inequities, the extension of wage negotiations through collective bargaining, and the governmental measures aimed at regulation of wages have led an increasing number of managements to attempt to rationalize their wage structures. To this end many companies are turning to job analysis as a systematic means of evaluating jobs and determining wage rates. 
+
+The present study seeks to review the different methods of job analysis and to appraise the various techniques in terms of good industrial relations policy. Its primary purpose is to serve as a practical aid to industrial relations executives, union officials, and others immediately concerned with wage setting by means of job analysis and evaluation. 
+
+For the writing of the present monograph Industrial Relations Counselors, Inc., was fortunate in securing Professor C. Canby Balderston, who has done much work in both the academic and practical aspects of the subject. Professor Balderston joins with us in acknowledging the valuable assistance of Samuel L. H. Burk of The Atlantic Refining Com pany, who aided unsparingly with criticisms and suggestions, of A. W. 
+
+Bass of the same company, who read the section describing the techniques of job analysis, and of the author's fellow members of a committee of the Industrial Relations Association of Philadelphia, who have studied the subject for over two years. Thanks are also expressed to several members of the staff of Industrial Relations Counselors, Inc., whose experience in the analysis of company wage structures prompted many valuable suggestions. 
+
+New York City, April 4, 1940
+
+BRYCE M. STEWART, 
+
+Director of Research
+
+CONTENTS I. NATURE OF JOB ANALYSIS AND ITS RELATION TO WAGE SETTING Need for Job Analysis Purpose and Function of Job Analysis Job Analysis in Relation to Wage Administration II.  AND EVALUATION Grading Methods Grading Each Job as a Whole Grading by Analysis of Compensable Characteristics Rating Methods Rating by a Limited Number of Factors Rating by All-inclusive Factors 
+
+Rating by Wage Rates of Key Jobs PAGE 
+
+3 33 45 11 11 
+
+12 14 14 15 19 19 24 
+
+Rating by Factors with Degrees Defined by Phrases .... 
+
+Rating by Standard Definitions III.  Scope of the Project Problem of Organization Selection of Procedure Job Description 
+
+Appraisal of Relative Difficulty 
+
+Determination of Prevailing Market Rates Determination of Company's Rate Policy IV.  
+
+Procedures for Hourly-rated Jobs
+
+Job Description 
+
+Appraisal of Relative Difficulty 
+
+Setting of Rates Procedures for Salaried Positions Job Description 
+
+Appraisal of Relative Difficulty 
+
+Setting of Rates 
+
+28 28 28 28 
+
+32 43 43 45 47
+
+CONTENTS V. APPLICATION OF THE RATE SCHEDULE RESULTING FROM JOB ANALYSIS AND EVALUATION Installation of Rate Schedule PAGE 
+
+49 49 
+
+Administration of Wages after Installation of Rate Schedule 50 Rôle of the Industrial Relations Executive Periodic Review of Employee Performance VI. PROBLEMS AFFECTING THE FUTURE DEVELOPMENT OF JOB ANALYSIS Integration of Wage Setting with Other Personnel Techniques 
+
+Co-ordination of Rate Schedules within a Company 
+
+Relationship between Incentive and Nonincentive Rates Internal Structure of the Rate Schedule 
+
+50 50 53 53 55 55 56 
+
+Current Job Evaluation Methods in Relation to Sound Psy chological and Statistical Principles 57 
+
+Adequacy of Available Data on Prevailing Market Rates... 
+
+APPENDIX 
+
+63 
+
+LIST OF REFERENCES CITED 
+
+67
+
+CHART CHARTS AND FIGURES 1. Range of Salaries Paid for Work of Similar Difficulty, According to Job Analysis Study of 12,000 Employees.... 
+
+PAGE 
+
+2. Relative Importance of Four Selected Jobs as Determined by the Point Values of Five Variable Factors... 
+
+17 
+
+3. Scatter Diagram of Hourly-rated and Flat Monthly Salaried Positions in Relation to Market Average. 
+
+40 
+
+4. Relation of Incentive Differentials to Grades of Difficulty and Relation of Slopes of Service and Productive Occupations. 
+
+42 
+
+FIGURE 1. Classification Scheme for Grading Positions.. 
+
+2. Illustration of Job-to-job Comparison Method.. 
+
+3. Rating Sheet for Hourly Occupations.... 
+
+4. Substantiating Data for Job Rating Form.... 
+
+5. Job Rating Form 6. Job Description and Specification Form. 
+
+13 18 20 23 33 
+
+---
+
+AND EVALUATION
+
+I. NATURE OF JOB ANALYSIS AND ITS RELATION TO WAGE SETTING NEED FOR JOB ANALYSIS 1 
+
+The majority of American companies have no definite program of wage and salary administration, and as a consequence their wage structures are replete with inconsistencies. Differing rates are paid to employees performing the same work through the operation of such factors as consideration of length of service, transfers of workers without rate adjustments, the absence of standard hiring rates, favoritism, and the frequent practice of allowing foremen to judge the value of each employee to the company. Often there is no logical relationship between the rates for different occupations; with every flat percentage advance in wages the differentials are increased and the discriminations are emphasized. Further, the diverse rates in force for work of similar character among different plants in the same locality suggest the random manner in which much rate setting is done. 
+
+The resentment of employees over these injustices, the extension of wage negotiations though collective bargaining and governmental regulation of wages, and the realization of employers that the compensation of labor like other costs should be dealt with systematically are awakening an increasing number of managements to the need of rationalizing their wage structures. Some trade unions, too, realizing that any action will probably result in advances in rates for certain employees and no immediate reductions, are pressing for revision of policy and administration.
+
+The device being used for a more systematic evaluation of jobs and determination of rates is job analysis, which is indispensable to a complete program of wage and salary administration. If hiring rates and pay raises are not determined by a definite policy, the company's personnel relations may be weakened at a critical point and a serious loss of morale may result. Managements that fail to make a thoroughgoing analysis of the rate differentials among occupations and jobs, reflecting the relative difficulty of the jobs, miss a chance to demonstrate their fairness to their employees. Further, if rate differentials for the 
+
+1 Because the term "job analysis" has become so well established, it is used here to cover the analysis both of individual positions and of occupations, and for purposes of simplicity it is used as a substitute for the more precise phrase “job and/or occupational analysis.” 3
+
+highly skilled jobs are inadequate, employees lack the incentive to train themselves for positions that require a relatively greater degree of skill.
+
+Finally, the worker's tendency to compare his rate of pay not only with that for similar work in his own place of employment but also for similar work in other establishments is likely to reveal glaring disparities and inconsistencies. The frequent lack of company policy as to the general relationship that the company's wage rates should bear to the average rates of the labor market from which the employees come is borne out by numerous examples. Ror instance, in a company whose working force was in thirty-five occupations, the rates of pay of twentyeight of them averaged 6 cents per hour above the market rate for comparable work, three of the occupations were compensated at the market level, and the remainder received rates averaging 5 cents less than the market level. Another concern, whose employees were distributed among fifteen occupations, paid six of them an average of 10 cents above the market rate for comparable work and the rest 9 cents less than the market rate. In a third industrial plant having thirtyone occupations nearly half of them were paid an average of more than 15 cents above the market rate and the rest 8 cents below it. It is obvious that these companies failed to keep the rates for their several occupations in proper alignment or in any consistent relationship with rates prevailing outside.
+
+The disparities resulting from rate setting in a single company not guided by a definite salary or wage schedule are illustrated by Chart 1. 
+
+The chart is based on the findings of job analysis of 12,000 employees whose rates were set by a large number of department heads. It is evident that rates of pay for work of similar difficulty varied so widely that the most liberally paid received two and occasionally three times the lowest salary for the same grade of work. Such uncontrolled rate setting should be a challenge to progressive managements.
+
+PURPOSE AND FUNCTION OF JOB ANALYSIS 
+
+Job analysis aims to correct the inconsistencies pointed out above by making possible the systematic setting of hourly rates and salaries. 
+
+The primary purpose of job analysis is to establish a basis for setting wage and salary schedules that will serve a company as a guide in keeping its employee rates in mutual alignment and in satisfactory relationship with those paid in other companies obtaining labor from the same source. Job analysis consists of three elements: description of the nature of the job, appraisal of its relative importance and difficulty, and setting for the job an appropriate rate or rate range; thus, the emphasis of the analysis is on the work performed rather than the indi-
+
+NATURE OF JOB ANALYSIS 
+
+5 vidual to whom the work is assigned. Job analysis may be utilized to establish rates for employees paid on an hourly basis and also for the salaried groups, such as clerical and supervisory employees, but it becomes inapplicable when the work performed cannot readily be analyzed apart from the individuals who do it, as is frequently the case with high executive posts.
+
+The proper use of job analysis gives management the information necessary to answer the following questions: 
+
+1. What is the nature of each job? What duties are performed? 
+
+What precision is required? 
+
+2. How do the jobs compare as to importance, difficulty, and scope of responsibility? On what is the decision as to relative importance based? 
+
+3. Are the wage rates of the various jobs related satisfactorily to the difficulty of the work and the skill required? 
+
+4. How does the general scale of wage rates paid by the company compare with that prevailing in competing companies and in the labor market from which the employees are drawn? Is the general scale of the company higher or lower than the prevailing one, and are the differentials for skill as large as in other companies? 
+
+In addition to its direct objectives, the process of job analysis may be of considerable value to management by virtue of certain important by-products; it provides hiring specifications, makes possible better adaptation of the worker to the requirements of the job, clarifies the duties and responsibilities of every job, and defines promotional steps. 
+
+JOB ANALYSIS IN RELATION TO WAGE ADMINISTRATION 
+
+Since such factors as the skill and degree of responsibility involved in a particular job do not lend themselves to precise measurement, it is clear that they cannot be appraised with exactness. Consequently, job analysis should never be considered or defended as a precise, infallible method of measurement. It should be viewed as a personnel procedure for setting base rates in a manner sufficiently careful and systematic to make for sound relations between the management and the majority of the employees.
+
+Thus, job analysis is important not as an end in itself but as one phase of a larger program. Though this monograph will deal solely with one phase of wage administration, it is pertinent at least to enumerate the guiding principles on which a comprehensive program of wage administration might be based. 
+
+1. The management should specify the grade of labor best adapted for each kind of work to be performed within the company. These labor specifications, providing the basis for the proper selection and use of
+
+human talent, would be comparable to purchase specifications for material. They represent a by-product of the job analysis procedure. 
+
+2. The wage rates and salaries of the various jobs and occupations within the company should be placed in proper alignment with one another according to the difficulty and scope of responsibility of each job. Systematic determination of the proper rate for each job and occupation will require job analysis and evaluation. Whatever procedure is "employed will have the following main divisions: definition of each job title, evaluation of the relative difficulty of the various jobs, grouping the jobs in grades, discovery of the rates prevailing in the labor market from which the employees are drawn, and, finally, determination of the rate or rate range for each job and occupation. 
+
+3. The general level of rates paid in a given company should be kept in satisfactory relation to the rates paid by similar companies in the same community. To apply this rule a rate survey will ordinarily be needed to determine the rates being paid for comparable occupations. 
+
+Such a survey must be based not upon job titles but upon carefully drawn descriptions of the kind of work performed. Actually, this survey will reveal the market rates only for occupations that are common to a considerable number of firms. 
+
+4. Rates and salaries should reflect an employee's contribution to the company rather than his length of service or his state of need. To apply this principle to the fullest extent, output standards should be set by time study for work that is sufficiently repetitive. Such standards are a fair measure of individual contribution only if they are uniformly difficult of attainment and if the management prevents variation in materials, machines, and working conditions. Output standards permit the use of financial incentives, under which the pay is directly contingent on measurable performance, to supplement base rates that reflect such imponderables as skill and responsibility. 
+
+5. Promotion of each individual should be given systematic attention by the management. The workers should realize that their abilities and training are being watched so that exceptional performance may be rewarded by such increases as are possible within the rate or salary range for the particular occupation and by advancement to work of greater skill and responsibility. Such a policy requires a periodic review of each individual's performance at least once a year. 
+
+6. The payroll and bonus department should be operated so as to protect the company against payroll padding and to safeguard the employees against mistakes in the calculation of their pay. 
+
+7. The management should maintain control of its labor costs by comparing actual costs with those budgeted or by measuring the actual efficiency of departments and individuals against performance standards
+
+NATURE OF JOB ANALYSIS 
+
+7 450 
+
+RANGE OF SALARIES PAID FOR WORK OF SIMILAR DIFFICULTY, ACCORDING TO JOB ANALYSIS STUDY OF 12,000 EMPLOYEES MONTHLY SALARY 
+
+$500
+
+MONTHLY SALARY 
+
+$500 450 400 350 300 250 200 150 100 50 10 400 350 300 250 200 150 100 12 
+
+13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+
+GRADES OF DIFFICULTY 
+
+50
+
+representing what management may reasonably expect. The wage schedule aids in controlling labor costs by enabling the management to keep the rates of individual employees within the range established for each kind of work. Job specifications and the wage schedule, used in conjunction, enable the management to utilize workers with proper qualifications and to compensate them in accordance with the kind of work they perform.
+
+II.  AND EVALUATION 
+
+1 The earliest work in the field of job classification seems to have been done in 1909-1910 by E. O. Griffenhagen for the municipal service of Chicago. The first industrial application of job records, in which 
+
+Griffenhagen also participated, was in the Commonwealth Edison Company of Chicago. The company's initial printed schedule took three years to prepare and appeared in 1912, at which time the company had about 5,000 employees. These schedules, covering all types of positions up to a given maximum in salary or wages, gave a brief statement of the duties of each job and indicated starting and maximum rates of pay with intermediate steps. Pioneer work in the field was also done by Harry 
+
+Arthur Hopf, who began to classify clerical positions as early as 1914 and has since made many job analyses, especially for banks and insurance companies.
+
+A chronological treatment of the applications of job analysis is less useful for an understanding of its evolution than the consideration of significant developments in the field. Consequently, the general classification of methods in the following section will include a few examples of each kind of method but will not mention all the individuals and companies that would be covered in a complete history of the subject. 
+
+Since all forms of occupational or job evaluation involve systematic consideration of the relative importance of jobs and the creation of descriptions or definitions that make clear the meaning of each payroll title, the several approaches to the problem must be viewed as attempts to reach a single goal from various directions. 
+
+GRADING METHODS 
+
+In the broadest classification job analysis techniques fall into two general groups, grading methods and rating methods. The former, often referred to as ranking, applies to the nonquantitative methods of listing jobs in order of difficulty. This method merely arranges the jobs in sequence according to importance or in a series of grades, whereas rating methods indicate "distances" between jobs or job grades in a quantitative manner.
+
+Grading methods may be subdivided according to the refinement of the analysis employed. The simplest method is overall grading, which 
+
+E. O. Griffenhagen, Classification and Compensation Plans as Tools in Personnel Ad ministration, p. 16. 
+
+2 This outline of the types of grading and rating was suggested by Samuel L. H. Burk. 
+
+A tabular presentation of this classification appears in the Appendix.
+
+ranks jobs without systematic consideration of any of the detailed elements involved in determining the relative importance of each job. 
+
+A more elaborate grading technique considers the compensable characteristics of each job in detail but does not assign numerical weights to such characteristics. In neither of these methods is a record made of the process by which the relative position of each job is determined. 
+
+Overall grading is illustrated by the following listing of a selected group of jobs in the order of their relative importance, from highest to lowest: 
+
+Tool maker, machine shop 
+
+Shop machinist 
+
+Pipefitter, first class 
+
+Tool checker and tester 
+
+Boilermaker's helper 
+
+Common laborer Janitor
+
+The method of grading by compensable characteristics is illustrated by the following tabulation in which the same group of jobs is classified according to the relative importance of the compensable characteristics involved: Mental Effort Skill
+
+Physical Effort
+
+Responsibility 
+
+Working 
+
+Conditions Boilermaker's 
+
+Pipefitter, 1st class 
+
+Tool checker and tester 
+
+Tool maker, ma- Common laborer chine shop Tool maker, machine shop helper Tool maker, machine shop 
+
+Shop machinist Boilermaker's helper 
+
+Tool checker and tester 
+
+Shop machinist 
+
+Pipefitter, 1st class Boilermaker's helper 
+
+Common laborer Janitor 
+
+Tool checker and tester 
+
+Shop machinist 
+
+Pipefitter, 1st class Janitor 
+
+Pipefitter, 1st class 
+
+Tool checker and tester 
+
+Pipefitter, 1st class Janitor 
+
+Tool maker, chine shop ms 
+
+Boilermaker's helper Boilermaker's 
+
+Shop machinist 
+
+Common laborer 
+
+Shop machinist helper Janitor Janitor 
+
+Common laborer
+
+Tool maker, machine shop 
+
+Tool checker and tester 
+
+Common laborer
+
+Grading methods may also be classified according to the manner in which the grades are established. In some cases the grades are defined in terms of the types of work involved and the qualifications required;
+
+each job is then analyzed and a description prepared, and finally the job descriptions are compared with the grade definitions to determine the classification of each job. In other cases grades are established after the jobs have been listed according to relative importance. Then, in order to facilitate the application of the pay schedule, the entire list is divided somewhat arbitrarily into grades containing jobs of similar difficulty.
+
+In the following pages specific applications of grading methods will be discussed.
+
+GRADING EACH JOB AS A WHOLE 
+
+An historic example of the overall grading of jobs without subdividing them is the work done at the International Harvester Company by Arthur H. Young and George Kelday in the early 1920's. This work was begun as a job specification project only but was extended to include job evaluation. Jobs that were assumed to have similar value were classified in groups by the foremen of the various departments. Usually two or more jobs in each group had a recognized "going" wage rate in the labor market, which was used in establishing the minimum and maximum rates for each group. Each day worker was classified as in 
+
+A, B, or C grade, depending upon the quality and quantity of his production and also upon such personal assets as punctuality, regularity of attendance, length of service, and shop attitude. A combined rating of 90 per cent entitled the worker to the maximum rate of the range; a rating of 75 per cent or under placed him at the bottom of the range. 
+
+Two points of peculiar interest in this procedure are: (1) the emphasis placed upon the knowledge and judgment of the foremen and other line executives, and (2) the adoption of a very simple merit rating procedure to assist the foremen in assigning the proper rate within a range for each individual employee.
+
+GRADING BY ANALYSIS OF COMPENSABLE CHARACTERISTICS 
+
+For purposes of more detalied analysis the method just described may be varied by breaking down each job into compensable characteristics before determining its grade. This method was followed in 
+
+1912-1917 by a large bank, which compared the duties involved in a given position with those of positions of known value in similar lines." 
+
+The comparison was modified by such considerations as the time and expense of training a new employee, the length of service of employees in the occupation, the desirable rate of advance, opportunities for promotion, and local or departmental working conditions. In his work for 
+
+E. O. Griffenhagen, Classification and Compensation Plans as Tools in Personnel Ad ministration, p. 19.
+
+the Dominion of Canada in 1918, Griffenhagen classified some 60,000 positions on the theory that similar duties and responsibilities call for practically the same qualifications as to education, experience, knowl edge, and skill. His fundamental contribution to the subject was the principle that positions should be classified according to the duties and responsibilities pertaining to them. 
+
+Another example of this type of approach is the work of J. O. Hopwood, whose writings on the subject date from 1922. In his analysis for the Philadelphia Electric Company, illustrated by Figure 1, he examined the activities and scope of responsibility involved in each position before classifying it.
+
+RATING METHODS 
+
+Rating methods vary in detail but have two points in common. In all of them, the differences among jobs are expressed in figures, and jobs are analyzed with respect to some or all of the compensable characteristics involved. The various rating methods may be classified with respect to the following:
+
+One grouping is according to the number of compensable characteristics that are taken into account in the analysis. In some cases only a few selected characteristics are used, which appear to be common to the jobs under scrutiny, while in others all the factors that enter into the determination of the relative difficulty and importance of a given job are considered.
+
+A second grouping of rating methods is based on the manner in which the point values are assigned to the several degrees of each factor. 
+
+Some companies predetermine the points to be assigned to the degrees of each compensable characteristic. Thus, prior to the analysis of specific jobs, point values are assigned to the various degrees of the factor of "education required," such as, grammar school, high school and college training. In other cases the job descriptions are prepared before determining the point values to be assigned to the various degrees of the factors used.
+
+A third grouping of rating techniques depends upon whether the points are assigned to the degrees of each factor on the basis of the existing wage rates of key jobs, which are considered to be in alignment, or without reference to existing rates of pay. The latter method requires that the results of the evaluation in points be converted into money rates by a general line or curve, which will indicate the rate that the company is willing to pay for a certain point rating. This conversion step is likely to be needed also if the existing wage rates of key jobs are used so that changes in the level of prevailing rates may be taken into account. 444444 کی
+
+FIGURE 1 CLASSIFICATION SCHEME FOR GRADING POSITIONS Supervisory Service Staff or Advisory Service Executive Service Routine Service GRADES AND SUB-GRADES 1. General Management: Establishes general procedure, organizes and directs the enterprise as a whole; makes decisions of general scope; adjusts relations with investors, the public and the personnel. dent, Vice President, General Manager, etc.) (Presi→ 
+
+2. Departmental and Associate Management: Establishes, organizes and directs procedure of major departmental scope or of inter-departmental scope but specialized or limited as to function-administration of a major department or subdivision of the organization, original investigation or research, invention, composition of data for informational and advisory purposes in general or major departmental administration. (Managers of departments and principal subdivisions, higher executive and staff assistants or their equivalents.) 
+
+3. Major Supervision or Highly Technical Service: Execu tion of intricate operating practice by delegating activities and giving general directions to others in diverse occupations, depending upon their knowledge and experience for the performance of the tasks involved; observation and judgment of high order, involving the application of standards and analyses of established character; or, directly performing activities of a highly technical character but essentially established by higher authority and experience; resourceful application of courses of action. (Intermediate subdivision chiefs, technical assistants, superintendents, foremen, etc.) 
+
+I. Management Formu lation and development of general procedure and courses of action or policies, involving original observations, analyses, the establishing of standards, etc.; the original planning, organizing and executing of operations. 
+
+4. Highly Skilled Service or Minor Supervision: Service involving observation and judgment of high order with the application of standards and analyses of established character, and intricate, complicated or exacting details dictated by authority and long experience, subject to general supervision only-ne-II. cessitating at least several years' experience in training; or supervision of others in work of less technical character but requiring some degree of skill. 
+
+5. Skilled Service: Service with features as in the next higher grade but less intricate and exacting and subject to more supervision, necessitating experience of from one to two years in training; may include detailed direction of others in service of lower grade. 
+
+6. Semi-skilled Service: Routine work of limited scope requiring only short periods of experience or training (several months) for its successful performance; may include detailed direction of others in service of lower grade. 
+
+7. Slightly Skilled Service: Tasks of simple character requiring only simple observations and responses with little learning and experience for their successful performance subject to close direction. 
+
+8. Primary Service: Tasks and routine of very simple character such as may be performed by junior workers, workers in early apprenticeship or similar elementary training and workers in manual service of simplest character.
+
+Operating Practice 
+
+Supervision of or the direct performance of activities essentially established by authority, instruction or direct experience. 
+
+Source: J. O. Hopwood, "The Grades of Labor," Personnel Journal, August, 1929, p. 117.
+
+NO A fourth grouping of rating plans is according to the manner of expressing the various degrees of each factor employed. Each degree may be defined by the length of time required for training on the job, such as, "one week," or "one month," or the various degrees may be made clear by using the names of jobs. Each sample job must first be analyzed to determine the degree of a given factor that pertains to it, and thereafter the name of the job can be used to identify a particular degree. Important examples of these various rating techniques will be discussed in the pages that follow. 
+
+RATING BY A LIMITED NUMBER OF FACTORS 
+
+A significant approach to the general problem of job analysis and evaluation is represented by the work of Forrest A. Kingsbury in connection with clerical jobs at the University of Chicago, and of Merrill A. 
+
+Lott when he was superintendent of employment at the Sperry Gyroscope Company. These men isolated specific factors for use in comparing jobs, described the various degrees of each factor in some detail and then assigned to each degree an arbitrary point value. 
+
+In Professor Kingsbury's work the factors used were fairly specific in nature and were related to the duties performed, the supervisory responsibilities, the public contacts, etc. Lott's work dealt with machine operations, and his factors were also specific. Although he first described his technique in 1925, his well known book did not appear until a year later. This book, which made the details of his technique readily available, has exerted considerable influence in guiding the thinking of others interested in the problem.
+
+RATING BY ALL-INCLUSIVE FACTORS 
+
+A rating scale composed of specific factors, such as, "experience desired," or "precision required," has the advantage of being definite and capable of use by a number of raters. It facilitates determination of the consensus of opinion of several individuals about a job. 
+
+A disadvantage in this method, however, has been pointed out by A. W. Bass, formerly at the Philadelphia Works of the Westinghouse 
+
+Electric and Manufacturing Company and more recently with The Atlantic Refining Company. Bass believed that when the factors used were too specific some important characteristic of a particular position was likely to be ignored that should be considered in setting the rate. 
+
+He accordingly adopted factors sufficiently general to be all-inclusive. 
+
+4 F. A. Kingsbury, "Grading the Office Job," Administration, 1923, pp. 267-275; 393401; 537-548; 669-680; and Management and Administration, 1923, pp. 73-78. 
+
+'M. R. Lott, Wage Scales and Job Evaluation. 
+
+A. W. Bass, "Job Analysis as Applied to Wage and Salary Administration," in
+
+Pennsylvania State College, Nineteenth Annual Industrial Conference, p. 25.
+
+He assigned point values to each factor without at first defining these factors and without fixing an upper limit to the point values applicable to a given factor. Gradually, of course, certain jobs already rated became usuable as "bench marks" for each factor. It should be pointed out that the results of this method may be more consistent if applied by a few analysts than by a large number of raters. 
+
+RATING BY WAGE RATES OF KEY JOBS 
+
+Another approach to job analysis is represented by the work of 
+
+Elinor H. Little on clerical positions in the United States Rubber Company, D. W. Weed in the General Electric Company and Eugene J. 
+
+Benge in the Philadelphia Transportation Company. The chief characteristics of their work are outlined in the following paragraphs. 
+
+Proceeding on the assumption that the rates paid for a few key jobs were in proper relation to one another, Little undertook the construction of a rating scale that would bring the other jobs of the company into alignment with the selected key jobs. Her scale was developed by adjusting the point values assigned to each factor so that when the scale was applied to the original key jobs the resulting point values would be in the same relation to one another as their existing rates of pay. She then applied this device to other jobs of the company in order to secure a consistent appraisal of relative difficulty. She also made use of grades having predetermined definitions of the compensable characteristics of the jobs to be placed in them.? The same scheme of using the rates of key jobs as the basis for the rating sheet point values was employed by D. W. Weed in the General 
+
+Electric Company. His technique differed from Little's, however, in that he assigned to each job an invariable number of base points, 400, to represent the value of an unskilled worker's time and then assigned additional or variable points to reflect the factors that distinguished each job from that of a common laborer. Five inclusive factors were employed for hourly-rated jobs, as follows: skill and mentality, mental application, physical application, responsibility, and working conditions. 
+
+The application of the company's technique for evaluating four hourlyrated jobs is illustrated by Chart 2.
+
+In the case of salaried positions, the General Electric Company again assigned 400 base points to represent the minimum difficulty and responsibility of salaried positions but selected quite different factors for determining the relative importance of each job. These factors, grouped under three headings, were as follows:
+
+E. H. Little, Some Considerations in Installing a Salary Administration Plan. 
+
+8 D. W. Weed, "Job Evaluation," in American Management Association, Job Evaluation -Annual Wage Plans, pp. 3-15.
+
+Maximum
+
+Factors 
+
+Points Skill
+
+Education. 
+
+Training. 
+
+Analytical ability. Initiative... 150 300 300 300 
+
+Personal requirements. 300 
+
+Responsibility 
+
+Executive. 325 Monetary. 260 
+
+Dependability and accuracy. 65 Application 
+
+Mental and/or physical.. 100 
+
+Total, variable points... 
+
+Base points.. 
+
+Total, all points... 2,100 400 2,500
+
+Source: D. W. Weed, "Job Evaluation," in American Management Association, Job Evaluation— 
+
+Annual Wage Plans, p. 11. The use of the rates of key jobs as a basis for developing a rating scale was also adopted by Eugene J. Benge. He likewise used a job-tojob comparison with respect to each factor entering into the appraisal. 
+
+His method was elaborated by Samuel L. H. Burk, who applied it to both wage earners and salaried workers at The Atlantic Refining Company. Burk employed a more detailed technique than is ordinarily used, with very comprehensive and detailed descriptions, and he recognized the subtle considerations that make one position more important than another in the eyes of the employee. Consequently, he gave more than the customary attention to positions as distinct from occupations. 
+
+The refinement of his procedure has created much interest in recent years. Although Burk used both ranking and rating as checks on each other, his principal reliance was on the comparison of jobs according to common factors.
+
+Taking certain key jobs, as Little did, in which the duties were clearly defined and the rates not subject to controversy, Burk ranked them from lowest to highest with respect to each of the selected factors. 
+
+Burk grouped his factors under five headings-mental effort, physical effort, responsibility, skill, and working conditions-with each group containing a number of subordinate factors. Thus, his rating technique should be classed with those that employ a large rather than a small number of factors. The rate prevailing for each of the key jobs was divided among the five groups of factors in order to obtain a rating scale. This scale permits jobs, other than the key ones on which the scale is based, to be analyzed according to each of the factors by com- 
+
+S. L. H. Burk, "A Case History in Salary and Wage Administration," Personnel, 
+
+February, 1939, pp. 93-129.
+
+CHART 2 RELATIVE IMPORTANCE OF FOUR SELECTED JOBS AS DETERMINED BY THE POINT VALUES OF FIVE VARIABLE FACTORS VARIABLE FACTORS SKILL AND MENTALITY MENTAL CAPPLICATION PHYSICAL APPLICATION RESPONSIBILITY WORKING CONDITIONS DIE MAKER 
+
+CRANE 
+
+MAN SAND BLAST SWEEPER 
+
+www 
+
+KLACES FRE Source: D. W. Weed, "Job Evaluation," in American Management Association, Job Evaluation— 
+
+Annual Wage Plans, 1938, p. 8.
+
+FIGURE 2 ILLUSTRATION OF JOB-TO-JOB COMPARISON METHOD 
+
+Points Job Mental Effort Skill
+
+Effort
+
+Respon- sibility
+
+Working 
+
+Conditions 
+
+Tool maker leaderman (working gang-pusher) (day work) 
+
+Gyroscope and marine instrument repairman (day work) 27 28 
+
+First operator-pipe still battery (shift work) 24 
+
+Ethyl blending plant operator (day work) 19 
+
+Tool maker, machine shop (day work) 24 
+
+Bricklayer, 1st class, outside plant (day work) 17 
+
+Flying squadron man (combined pipefitter, boilermaker, rigger, welder) (day work) 23 
+
+Shop machinist, all-around (day work) 21 
+
+Pipefitter, 1st class, outside plant (day work) 17 Operator, pipe stills, stabilization plant (shift work) 22 Operator, sodium plumbite plant (shift work) 17 
+
+Automobile painter, finisher, striper and spray (night work) 16 
+
+Assistant engineer, electrical power house (shift work) 14 
+
+Tool checker and tester (day work) 28 
+
+Ship loader, wharves (shift work) 
+
+Tester, viscosity (day work) 
+
+Boilermaker's helper, outside plant (day work)
+
+Sample room attendant, research department (day work) ** *2 * 27 58 59 40 4 37 34 24 21 34 28 29 24 18 20 14 64 10 ** *2 ** 22 22 22 21 08 NO 16 17 16 21 19 30 27 24 27 16 20 25 19 19 33 15 33 Common (heavy) labor, outside plant (day work) Induced draft engine tender, boiler house (day work) 
+
+Janitor, pipe still battery and pump house (day work) 
+
+◄00 0000 23 <B 38 30 19 23 37 10 CD 32 12 
+
+18 22 19 22 17 21 42 67 105 14 102 21 104 14 74 11 100 14 15 15 19 ◄ 50 10 C 10 10 15 16 12 17 15 62 17 75 10 11 
+
+16 5 10 1 2 3 1 32 88 PR FR 38 38 85 
+
+Points 107 99 94 91 78 
+
+Stencil cutter and shipping-tank gauger (day work)
+
+Source: Industrial Relations Association of Philadelphia-Salary and Wage Committee, "Salary and Wage Administration," Personnel, May, 1939, p. 156.
+
+parison with the key jobs already located on the rating scale. The application of this technique to a group of jobs is illustrated by Figure 2. 
+
+RATING BY FACTORS WITH DEGREES DEFINED BY PHRASES 
+
+When the Leeds and Northrup Company first evaluated its hourlypaid occupations in 1928, it employed a rating sheet containing eight fairly specific factors. Five different degrees were defined for each of these factors by means of phrases or symbols. For "previous experience needed," the degrees were "less than one year," "2 years," etc., and for "precision and accuracy required" on machine work, tolerances of “± .01,” “± .003," etc., were indicated. When the evaluations were completely reviewed in 1938 and 1939, however, "versatility required" was no longer defined by the number of operations performed at each degree of versatility but by typical jobs whose relative versatility had already been established. In fact, wherever possible the actual number of "standard operations" in an occupation was counted by a committee familiar with the work. Certain of these occupations were then employed to signify the various degrees of versatility. For instance, "Toolmaker, first class" was placed at ten points on the scale; "Lathe operator, first class" at six; and "Sandblaster" at two (Figure 3).
+
+After the original definition of jobs in 1928, approximately eighty plant executives, supervisors, time study analysts, inspectors and workers took part in the rating. In the appraisal of the clerical and engineering salaries, a similar number of management and employee raters was utilized, and in the 1938 review of hourly-paid occupations the number of raters exceeded sixty. Perhaps the most significant feature of the job analysis procedure of this company has been the extent of the participation by workers and supervisors in the evaluation.10 
+
+RATING BY STANDARD DEFINITIONS 
+
+A rating method that has been receiving wide attention was adapted from the Western Electric Company's procedure for the members of the 
+
+National Electrical Manufacturers' Association by A. L. Kress. He was in search of a method that would be generally applicable to electrical companies and that would not only serve to align rates within each company but facilitate the collection and use of wage data secured by periodic surveys. Kress has been applying this method to companies that are members of the National Metal Trades Association. His work is distinctive in that it attempts to apply a single procedure to a large number of plants that belong to the same industry but differ consider- 
+
+10 W. R. Coley, "Selling Job Rating to the Supervisory and Working Force," in Ameri can Management Association, Employee Rating, Regularization of Employment, Group 
+
+Medicine, pp. 17-22.
+
+FIGURE 3 RATING SHEET FOR HOURLY OCCUPATIONS RATING SHEET FOR HOURLY OCCUPATIONS 
+
+Occupation 
+
+1. Previous experience needed. Time since starting work anywhere 
+
+2. Educational background needed for average person 
+
+3. Training time on job 
+
+4. Factors producing physical fatigue 
+
+Less than 1 year
+
+Finished Grammar School 
+
+1 week 
+
+Combination sitting and standing 
+
+None (work wholly routine) 
+
+2 years 
+
+2 years High School or business school 1 month Sitting continuously 
+
+Routine and occasional weekly trouble 
+
+Tol. = .01 
+
+** .003 
+
+5. Unusual problems demanding ingenuity 
+
+6. Precision and accuracy required (A) 
+
+For machine work use (A)
+
+For laboratory work use (B) (B) .1% 
+
+4 years
+
+High School Diploma 
+
+6 months 
+
+Routine work and daily trouble = .001 
+
+Tolerances applying where machine, jig, or tool controls precision and not involving difficult set-up. .01%
+
+Rater 
+
+6 years 
+
+8 years 
+
+10 years or over 
+
+High School and technical study 
+
+College Degree 
+
+1 year 
+
+Standing continuously 
+
+Routine work and hourly trouble #.0005 or better .005% with routine set-up 
+
+2 years
+
+Stand, stoop, and lift under 50 pounds 
+
+50% of work not routine .0005 or better where machine, jig, or tool controls precision but involving difficult set-up 
+
+College and technical training 
+
+3 years or over 
+
+Stand, stoop, and lift over 50 pounds 
+
+90% of work not routine 
+
+Fitting or lapping to * .0005 or better .0005% with special set-up 
+
+For assembly, inspection, etc., use (C) (C) 
+
+Errors unimportant 
+
+7. Chance of damage to materials, parts, machines and other plant equipment 
+
+8. Versatility 
+
+Small chance of damage and low loss (under $50) .05% -Percentages apply to Resistor measurements. For other classes of measure-ments check on scale relative difficulty of obtaining accuracies required. 
+
+Errors cause trouble in same department only Sandblaster
+
+Scale Divider Letterer (Hand) 
+
+Errors cause trouble in another department but do not reach customer 
+
+Small chance of damage and high loss (over $50) 
+
+Drill Press Oper. 
+
+1st class 
+
+Errors cause inconvenience to customer 
+
+Big chance, and low loss under $50 
+
+Assembler, 1st class (Shop & Lab.) 
+
+Lathe Oper., 1st class 
+
+Errors cause serious trouble to customer 
+
+Big chance and high loss (over $50) 
+
+Bench Hand, 1st class Toolmaker, 1st class 
+
+Instr. Maker, 1st class (Elec. or Mech.)
+
+Source: Industrial Relations Association of Philadelphia-Salary and Wage Committee, "Salary and Wage Administration," Personnel, May, 1939, p. 158.
+
+ably as to their processes, working conditions, and organization. He has developed numerous standard definitions that fit the occupations common to metal plants or can be modified to take account of minor variations.
+
+In making an evaluation Kress uses a rating book contrived so as to be understandable by foremen and others who may be asked to participate in the appraisal. The degrees of each factor are expressed in written form but are accompanied by examples of jobs that have already been classified under each degree. Thus, if a unique job is being rated, it will be compared with the examples given of jobs that have already been rated. Kress consequently avoids the error of attempting to place a too precise mathematical value upon the degree of each factor being evaluated. Although Kress' general-purpose technique may not be as perfectly suited to a given company as some other method that might be devised especially for it, the use of a single procedure for describing and rating jobs in a large number of plants in a given labor market facilitates the collection of wage rates on a comparable basis.
+
+The application of Kress' technique is illustrated by the job description and job rating of a boring mill operator (Figure 4 and Figure 5). isoa A
+
+FIGURE 4 SUBSTANTIATING DATA FOR JOB RATING FORM Occ. Code No.. 
+
+Dept.- JOB RATING--SUBSTANTIATing Data JOB NAME: Boring Mill Operator 
+
+(Usually 8' to 16')
+
+Factors 
+
+Deg.
+
+EDUCATION 
+
+3 
+
+EXPERIENCE INITIATIVE 
+
+AND 
+
+INGENUITY PHYSICAL DEMAND 
+
+3 
+
+MENTAL OR 
+
+VISUAL DEMAND RESPONSIBILITY FOR EQUIPMENT 
+
+3 
+
+OR PROCESS RESPONSIBILITY FOR MATERIAL OR PRODUCT RESPONSIBILITY 
+
+Basis of Rating Class A 
+
+Use decimals and fractions. Work from complex drawings or job layouts. Use circumference tape, inside and outside micrometers, vernier calipers. Equivalent to 2 years high school plus 2 to 3 years trades training. 
+
+5 to 7 years on various types and sizes of vertical or horizontal boring mills, including set-up and operation on complicated work. 
+
+Diversified work. Difficult set-ups. Close tolerances on large or expensive castings. Responsible for speeds, feeds, tooling. High degree ingenuity in planning and setting up operation. Under minimum supervision. 
+
+Set-ups require handling heavy castings by overhead crane or hoist. Must handle wrenches, bolts and clamps up to 50 lb. on set-ups. Occasionally handle bars and blocks up to 125 lb. Machine time greatest part of cycle. Most of time spent watching work, checking, making adjustments. 
+
+Must concentrate mental and visual attention closely during set-ups, planning operations on diversified work, checking and making adjustments. 
+
+Expensive machine. Careless set-up or operation, jamming of tools, dropping castings on table, swinging casting against head, allowing clamp to strike ram, breaking worm feed on ram, may result in damage up to $250.
+
+Careless set-up or operation may result in spoilage and possible scrapping of expensive castings, forgings, etc. Probable losses may exceed $250. 
+
+Flying chips may cause burns, cuts or eye injuries. Clamps or rail may be set in such a position as to injure employee walking past machine. Careless handling or set-up may be hazardous to others. 
+
+Responsible only for own work.
+
+FOR SAFETY OF 
+
+3 
+
+OTHERS RESPONSIBILITY 
+
+Good shop conditions. May be slightly dirty, especially in set-ups. Some dust from castings. Usual machine shop noise.
+
+FOR WORK or 
+
+1 
+
+OTHERS 
+
+(May have helper-if so, rate 3)
+
+WORKING CONDITIONS 
+
+2 
+
+UNAVOIDABLE HAZARDS 
+
+3 May crush fingers or toes in handling heavy castings, or from dropped tools or clamps. Possible burns, cuts or eye injury from flying chips and particles. 
+
+Possible hernia.
+
+Source: National Metal Trades Association-Committee on Job Rating, Job Rating, p. 8.
+
+FIGURE 5 JOB RATING FORM 
+
+Dept.
+
+JOB RATING Occ. Code No. 
+
+RATING JOB NAME-Boring Mill Operator-Class A GENERAL JOB DESCRIPTION 
+
+Turn, bore and face to very close tolerances on large, close fitting parts of engines, motors, machines, exhaust equipment, etc. Operate large vertical or horizontal mills usually up to 16'. High responsibility on expensive castings. Diversified work and difficult set-ups. Work from drawings or job lay-outs with minimum supervision.
+
+FACTORS 
+
+Deg. Points Assigned
+
+SKILL 
+
+Education 3 42 Experience 5 110 4 56 
+
+EFFORT 
+
+3 30 20 
+
+Initiative and Ingenuity 
+
+Physical Demand 
+
+Mental or Visual Demand
+
+RESPONSIBILITY Equipment or Process REPRESENTATIVE EXAMPLES 
+
+Parts for large Diesel engines, gear blanks for large marine or mill drives; large water wheels, castings for turbines.
+
+Source: National Metal Trades Association-Committee on Job Rating, Job Rating, p. 9. 
+
+3 15 
+
+Material or Product 
+
+4 20 
+
+Safety of Others 
+
+3 15 
+
+Work of Others 
+
+1 5 
+
+JOB CONDITIONS Working Conditions 
+
+2 20 
+
+Unavoidable Hazards 
+
+3 15 
+
+TOTAL POINTS 
+
+348 
+
+LABOR GRADE 
+
+2
+
+III.  
+
+As already indicated, the research necessary to a job analysis project involves three steps: making of the job descriptions, appraisal of the relative difficulty and importance of the jobs and their classification into grades, and setting for each job an appropriate rate or rate range. This last step necessitates determination of the rates paid elsewhere for such jobs as are common to the company in question and to other plants. Before initiating the project, consideration must be given to various questions involved in each of these essential steps. 
+
+Some of the questions will be determined by the character of the company's policy and others by the nature and limitations of job analysis itself. The problems for initial decision are as follows: 
+
+1. To what types of jobs on the company's payroll should the job analysis be applied? Should the units studied consist of occupations or of individual jobs? 
+
+2. Should the direct responsibility for guiding the work be assigned to a regular member of the organization, or should an outside consultant be secured for this purpose? To what extent is it desirable to secure the participation of employees and of supervisory and other executives? 
+
+3. What procedure is best suited to a particular company for securing reliable information as to the duties performed in each job and for appraising job difficulty? 
+
+4. Is it the general policy of the company to keep its general level of compensation above, below, or equal to the prevailing level of rates? 
+
+Should the company set its rates for a given occupation according to the outside average for that occupation or to the general level prevailing outside?
+
+The major problems involved in deciding these questions will be discussed in the following sections.
+
+SCOPE OF THE PROJECT 
+
+The type of work to which job analysis may be applied most effectively at the outset is clearly work of a routine nature. If the factory operations have been highly subdivided for many years, as is customary in a plant of even moderate size, its jobs are standardized and offer a logical starting point for job analysis. Large clerical departments are 24
+
+also likely to cover standardized jobs that lend themselves readily to analysis and evaluation. Supervisory and executive positions, however, present special problems for the job analyst, and generally should not be included in the program until a company has applied job analysis to work of a more routine nature and has gained a comprehensive knowledge of the duties, responsibilities and difficulties of the less important jobs in a department or division. In most job analyses the highest paid positions covered are those with salaries between $2,500 and $5,000. Experience indicates that the application of job analysis becomes increasingly difficult and expensive at the higher levels of authority and that the benefit derived is a better internal alignment of positions rather than a better adjustment of salaries to those of other companies.
+
+Another problem affecting the scope of the analysis project is whether the job or occupation should be the unit studied. An occupation proves satisfactory as the unit to be studied if it is sufficiently homogeneous to cover a considerable group of employees, as, for example, toolmaking and stenography. If, however, the work within the occupation is varied, the individual jobs must be analyzed, and the descriptions of them must be prepared and kept up to date. 
+
+Obviously, the unit chosen for study will affect the cost of the project. The individual job is the basis of the analysis procedure in 
+
+The Atlantic Refining Company.¹ The company employs eight analysts and early in 1940 had analyzed the work of 7,000 of its 12,000 employees. 
+
+The current cost amounts to one-tenth of 1 per cent of the company's total payroll, but this cost is expected to decline when the initial installation has been completed. In this company, however, the cost is higher than it would be in many other companies because the ratio of the number of different kinds of jobs to the total personnel is very large and the management has included in its program fairly high positions. 
+
+PROBLEM OF ORGANIZATION 
+
+The organization for guiding and doing the evaluation work should take account of the organization structure of the company. For instance, in a large refining company the responsibility is centered in a chief job analyst who reports directly to the president. This procedure is to be explained by the fact that the company had two industrial relations departments, one of which had to do with the refinery employees and the other with the sales department. One reported to the president directly; the other did not. Since the evaluation was to be applicable to refinery and sales personnel as well as to salaried persons being paid as 
+
+1 A. W. Bass, "Job Evaluation-A Specific Application," Mechanical Engineering, December, 1938, pp. 921-930.
+
+much as $10,000 a year, it was important for the chief analyst to be independent of the heads of the departments affected. 
+
+It has been pointed out by A. W. Bass that it is desirable to have the work directed and co-ordinated by a single central authority in order that the results in various divisions and units of the business may be consistent. Since one of the primary objectives of a job analysis project is to place the jobs of the entire company in alignment with one another, it is essential to avoid distortion of the results by departmental rivalry. If the analysis project is controlled centrally, such influence can be minimized. The problem of the relationship of salaried and hourly jobs also calls for centralized control. 
+
+At this point the question arises as to whether it is preferable for an insider or an outsider to be in charge of the work of analysis. The pros and cons affecting this decision have been summarized by Little, as follows: 
+
+Arguments against using home talent 1. The job requires specialized analytical ability and a knowledge of office procedure. A person with such ability and knowledge may not be available. 
+
+2. There is a very definite technique of analyzing and classifying jobs which requires considerable experience to acquire proficiency. The local person has to learn while doing. 
+
+3. The local person has less prestige and will be subject to more questioning by department and section heads. 
+
+4. For the reasons given above it will probably take longer to complete the job.
+
+Arguments in favor of home talent 1. In the course of doing the job much valuable knowledge is accumulated which is partially lost to the company if the work is done by an outsider. This is all the more pertinent if the work might be carried on by a member of the employment department. When such knowledge is the background upon which the employment department functions, the department heads feel that their problems are understood and appreciated. 
+
+2. A member of the local organization will have more means of feeling the pulse of the organization and will assume more responsibility for correcting situations which would interfere with the future success of the eventual plan. 
+
+3. The job is not complete with the analysis and classification. It must be carried on. New positions are created and duties changed on old positions. If the major responsibility for the actual work has been carried on by a consultant, when he withdraws the plan may become the step-child among other more favored projects. Under such circumstances its future is questionable.
+
+4. Considering the by-products which are yours if you do the job yourself, there can be no question that the cost element is all in favor of the home production.2 
+
+Management's decision as to whether its job evaluation program should be undertaken by its own personnel, or whether it should employ outside consultants or use a combination of the two should be decided on the same basis as any other project involving special knowledge and techniques. 
+
+If the work is placed in the hands of an individual who is already on the payroll of the company, he should report to an executive of major rank and should be assisted by a committee that can co-ordinate the points of view of the departments affected. If the responsible executives of the important departments do not sit on this committee personally, they should be represented by those in a position to speak for them. The same general organization arrangement should obtain if an outside consultant is hired to direct the work. 
+
+Another factor affecting the organization of an analysis project is the degree of staff participation. Since job analysis is primarily a personnel device, the success of the resulting pay schedule depends on its general acceptability to all concerned. Thus, it is necessary to have the participation of supervisors and, if circumstances permit, of others who are in a position to represent the various points of view within the working force. Otherwise, the results of the analysis project must ultimately be "sold" to those whom it will affect. In most cases the risk of misunderstanding and other possible difficulties are avoided if both employees and executives share in the work at as many stages in the process as possible.
+
+Interviews by trained examiners with the persons who perform each job provide the most accurate job descriptions, bring to light many details that would otherwise be overlooked, and make it possible for the workers to take an active part in the project. It has also proved to be good practice to engage the executives of the company in the work by having the tentative descriptions checked for accuracy by those who supervise the jobs and occupations. The greatest obstacle to participation by key employees and their supervisors is in the evaluation of the difficulty and responsibility of the jobs. In some situations the evaluation must be treated as a technical task to be done by a small group of analysts, and only the results of the evaluation are shown to supervisors and workers' representatives.
+
+Obviously, those chosen as raters should be reasonably unbiased, and intelligent enough to understand the rating procedure, but they should not be asked to appraise the jobs of their superiors or occupa- 
+
+'E. H. Little, Some Considerations in Installing a Salary Administration Plan, p. 7.
+
+tions that are higher in skill than their own. The raters should include persons who belong to the departments being analyzed as well as others who have sufficient perspective to view each department's jobs in relation to the entire company.
+
+SELECTION OF PROCEDURE 
+
+At the risk of duplicating the more detailed discussion of procedure given in a later section, the four major steps are considered here so as to throw light on the problems involved in selecting the best procedure for a given company.
+
+JOB DESCRIPTION 
+
+It has already been suggested that information as to the nature of each job and occupation can be secured most accurately by observing the work done, by interviewing those who do it, or, in the case of clerical employees, by questionnaires and interviews. To secure firsthand knowledge is the preferable procedure; the psychological effect upon the workers is better if they are consulted rather than observed and the information is likely to be more accurate. In preparing the initial job descriptions it is advisable to distinguish between (1) factual information about which there is no difference of opinion, such as the tolerances to which those in a given occupation must make their work conform; and (2) questions of judgment, such as the amount of education or experience necessary for the satisfactory performance of the work. 
+
+APPRAISAL OF RELATIVE DIFFICULTY 
+
+Since the appraising of a job's difficulty must be based on human judgment rather than objective measurement, it would appear desirable to check the results of one method against those of another. Thus, it is futile to argue as to whether rating or ranking should be used exclusively. If both methods are employed, the results will not be identical but will be sufficiently alike so that attention may be concentrated upon exceptional cases in which the results vary. Moreover, greater reliance can be placed upon the judgment of a number of informed individuals than upon that of any single person, and the consensus of five to ten qualified appraisers is to be preferred to the decision of a single analyst, however qualified he may be.
+
+DETERMINATION OF PREVAILING MARKET RATES 
+
+Examination of a company's existing payroll to determine which rates are out of alignment and how the general level conforms to the market level depends merely on statistical accuracy. Once the jobs have been evaluated as to relative difficulty in a manner acceptable to those concerned, the rates that are exceptionally high or low are revealed by
+
+plotting the existing rates on a simple chart on which the vertical axis represents money and the horizontal axis, the difficulty of the work expressed in points or in grades.
+
+But determination of the rates paid by other firms in the same labor market is not so simple. There can rarely be certainty that the jobs are completely comparable even if the other companies in question have used carefully prepared job definitions. Comparability can be assured only as to the kind of work performed and not as to the quantity or quality of output unless the product and machine equipment are identical and the work is subdivided into jobs in a similar fashion. 
+
+Moreover, it is essential to distinguish between incentive and day work earnings, because in practice the former are higher than the latter. 
+
+Further, it must be borne in mind that incentive earnings may vary as between low-skilled and high-skilled occupations; a recent analysis of rates in Philadelphia shows that incentive earnings are relatively higher for low-skilled than for high-skilled occupations in that city. The securing of comparable information on outside rates is also affected by variations among plants in the number of hours worked and in the emphasis placed upon length of service. The latter factor affects the data especially where starting rates are lower than those paid to experienced workers. Finally, another factor affecting the comparability of rates is the firm's reputation; if workers consider it "a good place to work" it has an advantage over other firms in getting and keeping labor and consequently secures "more for its money." One of the most serious statistical problems incident to the making of a reliable market survey grows out of the "scatteration," or dispersion, of rates for the same kind of work. The rates reported are likely to cover such a wide range as to make an average unreliable. The dispersion is not so serious in connection with a well defined job, such as tool crib attendant or janitor, as it is for jobs involving a diversity of duties, e.g., millwright. Comparison of a company's rates with rates in the outside market can be improved, therefore, by carefully selecting the occupations to be used and by ascertaining the number of workers who actually receive each rate reported. If the latter is done, it is possible to compute either the median rates or the weighted averages, as well as the ranges, of the middle half of the rates collected for each occupation.
+
+DETERMINATION OF COMPANY'S RATE POLICY 
+
+Before the final stage of the job analysis program, adoption of the pay schedule, the management must decide whether its general level of 
+
+C. C. Balderston, Wage Differentials; A Study of Wage Rates in Philadelphia Metal 
+
+Plants, p. 15.
+
+rates is to be equal to, or higher or lower than, the market average. 
+
+A rate schedule decidedly below the average is likely to be resented by the employees. The better workers will neither seek work with a company having such a schedule nor stay in its employ if jobs are available elsewhere. If the employer contemplates adoption of a pay schedule much higher than the community average, he must first consider the effect of such a schedule upon his competitive situation. Though he may desire to pay high wages in order to have a steady and efficient working force, he must remember that hourly rates higher than those of his competitors must be compensated for by greater output or higher quality. Only an employer who enjoys a monopolistic or semimonopolistic position or an exceptionally low labor cost ratio can ignore this point without injuring his ability to compete.
+
+The determination of the pay schedule involves two additional questions of policy. One concerns the differentials for the jobs of high skill, which provide an incentive to employees to acquire the skills needed and have a definite relation to the training program of the company; the other has to do with whether the company rates should be based upon those prevailing for individual occupations or upon the market slope for a series of occupations. If the supply of workers having a particular skill is scarce at any moment, a company that needs more workers in order to "get out its production" will, of course, raise certain of its rates in order to secure the requisite number of new men or to hold its existing work force. Such a practice should be confined to emergency situations since it does violence to the internal alignment that must be maintained for the sake of employee morale. The only sound general policy is to relate the company's wage scale to the general slope prevailing in the community as computed from a considerable number of common occupations, and when an emergency situation arises, such as described above, it should be made clear that any higher rates that are established as a result are "special" rates and are outside the regular rate structure as developed through job analysis. 
+
+Still another question of policy to be decided by top management is whether the company should price its hourly-paid jobs and salaried positions in such a manner that equivalent pay will be given for work of the same difficulty and responsibility. This is the time-honored question as to whether it is possible and expedient to keep the annual compensation of salaried and hourly-paid workers on a parity. Companies encounter this problem both when rates are being reduced and when they are being increased. Although it may be desirable from the point of view of employee morale to compensate these two groups on a similar basis during the early days of a depression or during periods of rapidly rising living costs, it does not follow that it is sound in the
+
+long run to attempt to use the same general curve for setting hourly rates and salaries. The demand for workers in these groups may vary greatly at different times; a management may want to extend its engineering development work at the very time when factory operations are heavily curtailed. Moreover, the office force paid on a salary basis and the factory force paid on an hourly basis are recruited from a very different labor supply. The problem is also complicated by the fact that salaried employees may enjoy certain privileges that serve to make their annual earnings more secure than those of hourly-paid workers. Consequently, separate scales of rates for the two groups should be established in line with the labor market from which each group is recruited. 
+
+The same line of reasoning would lead to the use of separate pay scales for male and female employees, except for those occupations in which both sexes do identical work and for which it is expedient for them to be paid alike. This argument for separate pay scales on the basis of sex is based upon differences in the demand for and supply of male and female labor.
+
+A fourth question of policy, which applies to a company that has branches located in more than one community, has to do with geographic differentials. Here, again, there is a conflict between the economic and personnel aspects of rate setting. To establish a schedule for each plant based upon the prevailing rates in the community is economically sound since it may permit a company to take advantage of low-wage locations but provide sufficiently high wages to attract and hold satisfactory employees. Such a policy, however, raises personnel problems if a company desires to transfer workers from one plant to another because different rates may be paid for the same type of work in the various plants. Still another obstacle encountered in pursuing this policy is the position in a small community of a large employer; since he plays a dominant rôle in establishing the prevailing rates, he cannot relate his wage scale to a general existing level. 
+
+The question is sometimes asked: "What would happen if all employers in a community paid the prevailing rate?" The answer is, of course, that the scarcity and demand for labor of various skills would always be at work tending to modify the prevailing rates. Even if all the companies in the same locality were to adopt the general policy, as is scarcely to be expected, of paying rates in line with those prevailing in the community, they would depart from their general policy whenever particular skills became scarce or when the competitive position of the company or industry seemed to require "special" rates.
+
+IV.  
+
+The present section will consider the actual making of a job analysis. 
+
+First, the essential elements of an analysis project involving hourlyrated jobs will be described, and then the variations in the method necessary for analysis of the salaried groups will be considered. 
+
+To understand the practical problems involved in a job analysis program certain general observations must be made at the outset. First, it must be reiterated that the emphasis of job analysis is on the work involved rather than the employee who performs it. Some form of rating to reflect individual performance is needed for the proper application of any schedule embodying rate ranges but must be kept distinct from the job evaluation. Second, it must be borne in mind that the procedure can be made fairly precise in certain but not in all respects. 
+
+While definite routine duties can be described exactly as they are performed, the process of evaluation cannot be made wholly objective. 
+
+To the extent that it deals with intangibles, such as, scope of responsibility, skill, and initiative required, its result can represent only the opinion of informed individuals obtained in a systematic manner. 
+
+PROCEDURES FOR HOURLY-RATED JOBS JOB DESCRIPTION 
+
+The primary purpose of a job description is to provide a definition of each payroll title, a uniform nomenclature for use throughout the organization, and a record of the job as constituted at the time of the analysis. A job description facilitates the appraisal of the difficulty of the particular job in relation to other jobs and is essential for comparing an individual company's wage rates with those of other firms. 
+
+A complete description shows the qualifications that are desired for filling a particular job satisfactorily and thus may serve as a job specification for use in hiring new employees or in arranging for promotion and transfer. Such a combination of a description and specification is presented in Figure 6.
+
+The best descriptions present a job's distinguishing characteristics rather than a lengthy and detailed delineation of duties. The objective should be a statement of duties sufficiently complete to aid in determining the real importance of the job without being burdened with unnecessary detail. Moreover, the presentation should place proper emphasis upon those phases of the job that are of most significance. 32
+
+FIGURE 6 JOB DESCRIPTION AND SPECIFICATION FORM 
+
+Department
+
+Section 
+
+Tool 
+
+JOB DESCRIPTION AND SPECIFICATION 
+
+Occupation 
+
+Class 
+
+Toolmaker
+
+First Code No.. 
+
+1081 
+
+NATURE OF WORK 
+
+Set up and operate all toolmaking machinery and use all hand and machine tools with no supervision. Make from intricate drawings, punches and dies, jigs, fixtures, gauges or forming tools, working to an accuracy of .0002" with a minimum amount of supervision. 
+
+Develop blanks for parts that require forming and bending. Repair any tools of this grade. 
+
+GENERAL REQUIREMENTS FOR OCCUPATION TRAINING Regular apprenticeship or Toolmaker-Second Class 
+
+EDUCATION-2 to 4 years high school
+
+EXPERIENCE-9 years ENTRANCE AGE-27 years BREAKING-IN TIME-1 year SEX-Male 
+
+RATE- In making descriptions of hourly-paid jobs it has proved to be more practical for a staff member of the organization to secure the information needed than to have the employees fill out questionnaires. 
+
+If used at all, questionnaires should be confined to clerical and other salaried positions but even then, as will be pointed out later, their usefulness is limited. After the descriptions have been prepared, it is essential that their accuracy be checked by those directly in charge of the positions in question. Subsequently the descriptions should be referred for approval to the higher executives, who should first be made to understand the importance of the descriptions to the whole program. 
+
+When representatives of the employees participate in the evaluation, their approval of the job description should be secured first to avoid misunderstanding when the evaluation and its results are under discussion.
+
+If the descriptions are prepared by a staff member, it is advisable to limit the initial consideration of each position or occupation to the job description proper and to leave the question of job specifications to be settled by a group rather than one individual. Decisions on such matters as the desired amount of training, education, and experience,
+
+the minimum age, the average "breaking-in" time, and the sex better adapted to the performance of the work are reached most satisfactorily by a group on the basis of the evaluation process. 
+
+The form used for the job description should contain spaces for four different types of information, as follows: 
+
+1. The upper portion should be used for the data necessary to identify the position and to indicate its general place in the organization. 
+
+Blank spaces should be provided here for indication of the payroll title, department and section, title of supervisor, and code number. 
+
+2. Adequate space should be allowed for a full description of the duties performed, to be presented according to either the sequence of operations or the order of their importance. It is customary to begin each sentence with a verb and to eliminate unnecessary words. The complete description should indicate what work is done, and if significant, how, when, and where the work is carried on. Sometimes it is helpful to indicate also the reason for the operation and its relation to other work of the company. 
+
+3. There should be space for additional factual data and definition of certain terms, to make clear the responsibilities involved, and the hazards, if any. 
+
+4. Finally, space should be provided for recording, when they have been determined, the necessary personal qualifications for the job, which will serve as a guide for use in hiring and promotion. 
+
+In preparing the job description, attention may well be paid to organization procedure. Naturally, if employees are approached no contact should be made with them without "going through" their immediate superiors. No job description should be settled upon finally until all interested executives have had a chance to check its contents. Further, it must be borne in mind that changes in payroll title tend to modify the general organization pattern of the company, and if the traditional names of some positions need to be changed for the sake of clarity or uniformity, it is wise to make as few changes as possible. 
+
+In those companies where the payroll titles represent occupations rather than jobs, it may prove advantageous to subdivide the occupational groups into various classes, such as, "Toolmaker-first class," "Toolmaker-second class," etc. These classes should not be so numerous that their boundary lines are indistinct, nor so broad that they fail to separate work that is of differing importance. For example, to adopt one broad occupational title of "Lathe hand" may be unfair to those who are doing the most difficult turning. The ultimate refinement in this respect is to draft a separate description for each position on the payroll, but such a procedure will, of course, increase the cost of the analysis.
+
+APPRAISAL OF RELATIVE DIFFICULTY 
+
+The appraisal of an occupation or job involves the determination of its relative difficulty and importance, regardless of its place in the functional or departmental structure of the organization. Whether the results may be expressed as a series of grades into which jobs have been grouped or as a rating of difficulty in points, the purpose is to reflect the relative difficulty and importanec of each job or occupation as a basis for the construction of a rate schedule. If properly done, the appraisal will result in rates or rate ranges that are in mutually satisfactory alignment.
+
+Simple grading or ranking may serve the purpose of companies that wish to construct a wage schedule in a systematic manner without becoming involved in an elaborate procedure. Although the final result of ranking, used alone, may not be as satisfactory in the long run as that obtainable by the more complex procedure described at a later point, it is better to establish rate schedules by this method than to evade the problem entirely. Simple overall grading or ranking may be done by asking foremen and other line executives, inspectors, time study men, etc., to arrange the jobs and occupations in a given department in sequence from the most to the least important. The ranking procedure should start in the smallest units of the organization because the jobs in such units are most easily compared. Then the ranking for the department as a whole may be secured by asking those who are acquainted with the work of an entire department to merge the rankings of jobs in its constituent units. Certain jobs in the several lists will be sufficiently alike to permit "inter-ranking." The final result will be a complete list covering the entire factory, office or department. 
+
+To facilitate the procedure that has just been described, a set of cards, each carrying the name of a separate job, should be prepared. Those who do the ranking merely sort these cards into groups representing work of similar difficulty.
+
+If the company makes a practice of discussing wage setting with union officers or other employee representatives, it is likely to discover that simple grading does not help to answer the questions frequently asked as to why one job is considered more difficult than another. 
+
+Simple grading does not even provide a permanent record of the job characteristics that the appraisers take into account in reaching their decisions.
+
+Because of these serious limitations many companies have come to use a combination of simple ranking and rating in which the ranking serves as a check upon the more detailed method of rating. When used in this way, the ranking may be of the overall type already discussed
+
+or may be carried out with respect to each of certain specific factors that represent compensable characteristics. If "previous experience required" is used as one factor, all the jobs will be ranked with respect to this factor before being ranked according to any other. This procedure leads to a job-to-job comparison, which is far superior to the simple overall ranking, because it forces the appraisers to subdivide each job and to consider identical factors in reaching their decisions. 
+
+Though the various persons who do the ranking may not place the same weight upon a given factor, they will all consider the same characteristics, and none will be ignored entirely. 
+
+A record of the way in which the appraisal was made is provided by rating but not by grading. Although some opinion holds that it is futile and inaccurate to express the rating results in points, this method has advantages for a company whose workers cover many varied occupations. The development of a rating scale requires three steps. The first is to select the factors or compensable characteristics, such as, "working conditions," "previous experience required," and "breaking-in time." These should be sufficiently comprehensive to cover all the significant elements that contribute to the importance of a job. 
+
+The second step has to do with the choice of degrees for each factor and the assignment of point values to them. If the degrees are defined by phrases, it is important that the latter be definite and clear cut, and that vague words to indicate differences, such as, small, medium, large, should be avoided. This point is illustrated by the rating sheet for hourly-paid occupations presented in Figure 3 (page 20). For example, in the case of the factor, "previous experience required," the degrees may be: six months, one year, two years, etc., whereas, for "contact with people," the degrees may be: none, within same section, within same division, with customer, etc.
+
+The third step involves the weighting of the factors selected. If desired, the more important factors may be given several times the weight of the least significant one. For example, if "previous experience required" is felt to be twice as significant as "minimum learning time," its point values may be multiplied by some selected weight, or the several factors may be left unweighted. The latter alternative would have the effect of assigning uniform weights to the factors. 
+
+At the risk of omitting some factors that ought to be considered in evaluating certain positions, a limited number of eight or ten specific factors permits a relatively large number of raters to be used in the appraisal. Obviously, the opinion of five or ten informed and impartial individuals is likely to be better than the judgment of one, and the use of a large number of raters has the further advantage of facilitating the participation of persons in key positions in the organization. As
+
+already indicated in the discussion on the planning of a job analysis project, the participation of such persons, whether in connection with the rating itself or the checking of the results, is essential to insure the acceptance of the rating.
+
+It should be pointed out, however, that the use of specific factors and of definite point values may cause some important considerations, such as hazard, to be ignored. Moreover, a rating sheet composed of such specific factors will not usually be applicable throughout the entire organization, so that separate sheets will have to be prepared for the factory jobs, supervisory posts, and clerical and engineering occupations or positions.
+
+Only the factors common to all or nearly all the jobs and occupations to be rated should be included on the rating sheet. It would be preferable if the factors related to the nature of the work without any reference to the qualifications of persons needed to perform the work. But in practice it is necessary to adopt the somewhat indirect approach of using such factors as "minimum education required," "previous experience required," and "breaking-in time." Unless these factors are taken into account together with the compensable characteristics that are related directly to the work, it will be impossible to secure an adequate basis for appraisal. The use of certain human qualities as factors, such as, honesty and dependability, is futile because they do not help to differentiate the relative importance of jobs. Moreover, it is a mistake to include factors that have to do with establishing the general wage level, such as, the scarcity of qualified applicants and the existing rates of pay; these should not be considered in the process of rating but in the later step of creating the rate schedule. 
+
+Finally, the question of how the degrees of each factor are to be expressed and the values to be assigned to each must be determined. 
+
+This question may be approached in three different ways. 
+
+The first method assumes that the rates of certain key jobs, which are common to the company and to outside firms, are in satisfactory alignment. A rating scale is then devised which, when applied to these key jobs, will yield ratings of relative difficulty that bear the same relationship to one another as the existing wage rates of the same jobs. 
+
+In this method the degrees of each factor are expressed in terms of actual jobs to permit the use of job-to-job comparison. Such a rating scale may then be applied to all the other jobs to bring them into alignment with those upon which the scale was originally based. When this method is used, it is desirable that the initial assumptions as to alignment should be validated by comparing the ratings of the key jobs. with those of all the others.
+
+The second method, like the first, expresses the degrees in terms of
+
+jobs rather than definitions but ignores existing rates of pay. The point rating scale is developed on an abstract basis. The point values are selected arbitrarily according to the judgment of those responsible for the study.
+
+The third method likewise ignores existing rates of pay, but the degrees of each factor are expressed in phrases instead of jobs. These phrases and/or their corresponding point values are so selected as to bring out significant differences in skill and difficulty among the jobs to be appraised. Figure 3 presents a rating sheet exemplifying this method and was developed without reference to the existing rates of any jobs within the company (page 20). If such a scale is to be utilized by a considerable group of raters, it is essential that each factor and its gradations be expressed clearly enough to be interpreted uniformly. 
+
+Regardless of the method adopted for developing and applying the rating scale, the results of the ratings should be submitted for review to as many qualified persons as practicable. Several devices may be used to facilitate such review before any rates of pay are determined. 
+
+Perhaps the most convenient one is a diagram that resembles a series of ladders placed side by side. Each ladder represents a functional division of the business, such as, parts fabrication, assembly, service activities, engineering positions, clerical positions, etc. The rungs on these ladders represent the grades or ratings of difficulty that have been assigned. Such a tabulation of jobs by grade and by function enables management and employee representatives to secure a bird's-eye view of the result of the entire appraisal and to bring their judgment and experience to bear in deciding whether the result "looks right."
+
+SETTING OF RATES 
+
+The results of the appraisal must ultimately be converted from grades or points into money. This conversion requires two steps: (1) determination of the prevailing rates in the labor market from which employees are secured, and (2) decision as to how the general slope of the company's rates is to be related to the slope of the rates prevailing in the labor market.
+
+Discovery of the rates paid in the community or by other firms in the same industry calls for a wage survey, which is sometimes conducted by manufacturers' associations and sometimes by individual companies. In either case the prerequisite is a set of definitions for the occupations and jobs that are common to the companies from which data are solicited. Although it is usual practice to use questionnaires for such surveys, it is far preferable to have a qualified person interview the executives of the co-operating firms in order to make sure that the work for which rates are obtained conform to the definitions.
+
+While the occupational descriptions may be comparable, it is usually impossible to get reliable data as to the productive efficiency of the workers whose rates are obtained. Output standards in the various plants are not likely to represent uniform difficulty of achievement, even if set by time study, and it is not possible to determine whether the quality standards in each occupation and job are strictly comparable. Even if the definitions indicate the standards to be met, variations in equipment and material used will diminish the degree of comparability.
+
+Once the wage survey has established the fact that a given occupation or job in a co-operating company matches one of the definitions, the next step is to ascertain the rate paid to each employee classified in that occupation or job. Actual rates must be determined since averages or ranges do not permit the analysis necessary to ascertain the prevailing slope. The individual rates should be identified as day work rates or incentive earnings, and if the latter, the should cover a sufficient period of time to be reliable.
+
+After enough companies have been visited to provide an adequate sample of the prevailing rates, the data for each of the occupations must be tabulated. This recapitulation should show the number of employees in each occupation who receive each rate. The weighted average or the median rate of the occupations should then be calculated. 
+
+The median is preferable because it is less influenced by extremely high or low rates than the average. To test the representativeness of each average or each median, the highest and lowest fourths of the rates for each occupation should be eliminated in order to find the range within which the "middle half" of the rates fall. The range, known to statisticians as the interquartile range, is useful in delineating the middle half of the market. Once the sample of individual rates has been tabulated and analyzed in this manner, it is possible to construct a chart showing the prevailing or general level, i.e., the slope, of rates in the community in terms of the grades or ratings of difficulty, as illustrated by Chart 3. 
+
+If the internal alignment of rates, which is the primary purpose of job evaluation, is not to be distorted in the development of the final rate schedule, it is essential that the rate schedule should be determined with reference to a general slope and not to the average rates of specific occupations. The ratings of those occupations for which satisfactory data have been obtained are located on the base line of the chart. When the median or average rates of the market are plotted, the result will be a series of plottings that will fall reasonably close to a straight line or to a smooth curve. A free-hand line can be drawn through these points or, if the plottings seem to follow a straight line, the statistical
+
+CHART 3 MONTHLY 
+
+PAY $240 
+
+SCATTER DIAGRAM OF HOURLY-RATED AND FLAT MONTHLY SALARIED POSITIONS IN RELATION TO MARKET AVERAGE MONTHLY 
+
+PAY $240 220 200 180 160 140 120 100 :א וא 220 200 180 160 140 120 100 88 88 45 55 65 75 85 95 105 115 
+
+DIFFICULTY POINTS
+
+procedure for ascertaining the line that fits them best is the method of "least squares." In either case the resulting line will show the central tendency of the data collected. For example, Chart 4 shows the slopes of day work rates and of incentive earnings per hour in thirty-one
+
+Philadelphia metal plants. This chart indicates not only the relation between rates and grades of difficulty but also the relation between incentive earnings and day rates for work of similar skill.
+
+Once a graphic picture has been obtained of the prevailing slope of rates paid in the community for the common occupations covered, the company faces the problem of deciding how its own general slope should be related to that of the labor market. In arriving at this decision, it must be remembered that a survey of community rates has definite limitations. It lacks comparability as to output and quality, to which reference has already been made, and the rates paid lack comparability because of variations in practice as to length of service, hours worked, favoritism, and the company's reputation as a place of employment.
+
+In deciding whether a company's own slope should be made equal to the slope of prevailing rates or should be placed above or below it, the management faces a conflict between the personnel and economic considerations involved. If a company's slope is placed too far above that of the market, its ability to compete may be endangered. If its slope is placed too far below, the company's ability to secure and hold capable employees may be affected adversely. Consequently, to keep its employees satisfied and its costs in line with those of competitors, it may decide that its own slope should be about the same as that prevailing in the community or the same industry. Whatever its decision on this point, sound personnel practice would indicate that the steepness of a company's slope should approximate that of the market in order that its skill differentials for more difficult occupations may be sufficiently liberal to induce younger employees to fit themselves for the higher occupations and to satisfy those who have already acquired these skills. A company's failure to use occupational differentials as generous as those in other plants is likely to cause skilled workers to feel that their status is not reflected in the pay envelope, even though the rating of their occupations may be satisfactory. 
+
+Another important consideration is whether hourly-paid occupations should be assigned a single rate or a range of rates. On certain work, such as that generally classified as unskilled labor, where it is difficult to determine accurately the performance of individual employees, a single rate for each occupation or job has the advantage of eliminating favoritism and guesswork. If this practice is followed, employees whose
+
+121 
+
+ CHART 4 RELATION OF INCENTIVE DIFFERENTIALS TO GRADES OF DIFFICULTY AND RELATION OF SLOPES OF SERVICE AND PRODUCTIVE OCCUPATIONS CODE OF CENTS PER HOUR CODE OF CENTS PER HOUR 
+
+LEGEND - PRODUCTIVE-PIECE WORK 
+
+•••• SERVICE-DAY WORK 
+
+PRODUCTIVE-DAY WORK 
+
+20.09% 18.64% 17.43% 16.40% 15.53% 14.77% 14.08% 13.51% 12.99% 12.52%
+
+10 
+
+GRADES OF DIFFICULTY Source: C. C. Balderston, Wage Differentials; A Study of Wage Rates in Philadelphia Metal Plants, p. 16.
+
+performance is consistently superior should be rewarded by receiving opportunities for advancement to higher paid jobs. 
+
+Even for semiskilled and skilled occupations the single job rate appears preferable if the kind of work done within each occupation does not vary and if the occupations can be defined clearly and precisely. Such a condition exists when the process and product are standardized. Management may feel, however, that employees with the same job title and doing the same general type of work should receive different rates to compensate them for differences in ability and performance. A range of rates for each occupation may be established in such cases, but the use of this method places a definite obligation upon management to see that the use of the ranges is controlled. Foremen and other supervisors ought not to be permitted, merely on the basis of their opinion and personal judgment, to recommend changes in their subordinates' rates within such rate ranges. To avoid favoritism and to assure employees that their rates are equitable, a systematic method is required for gaging the employee's performance, efficiency, quality of work, etc. The control over the application of rate ranges is also facilitated by the division of each range into a series of "step rates," each representing a definite number of cents per hour. 
+
+PROCEDURES FOR SALARIED POSITIONS 
+
+Salaried positions call for certain variations in the analysis procedures applying to hourly-paid jobs. Since salaried positions involve the performance of clerical, engineering, selling, or supervisory tasks, they may require technical knowledge, the ability to deal smoothly with individuals inside and outside of the business and often a type of responsibility that is not easy to define. Obviously, salaried positions demand a kind of education, background, and personality not necessary in factory work.
+
+One of the major elements that complicate the description of salaried positions is the exercise of supervision by such employees. Hourly-paid workers are subject to more kinds and degrees of supervision than salaried employees. The latter, on the other hand, exercise more supervision over others than the former. Consequently, it is important to define the limits of responsibility of each salaried job with some precision. 
+
+JOB DESCRIPTION 
+
+Because of the problems involved, most companies use individual questionnaires to obtain descriptions from the salaried employees of the work they perform. These questionnaires are an important accessory to the processes of interviewing and observation in connection with salaried positions. But job analysts must be wary about depending
+
+solely on this source of information about the work of salaried employees. It must be realized that the questionnaire, filled out by the employee after a proper explanation of its purpose, is only a starting point from which the analyst may secure sufficient understanding of each position to interview the incumbent and his supervisor intelligently. 
+
+The difficulty of describing the scope and duties of salaried jobs frequently leads the analyst to depart from the standard terminology that is employed for hourly-paid jobs. It is essential always to use a terse, direct style, starting each sentence with a verb, adhering to the present tense throughout, omitting all words that do not impart necessary information. Of paramount importance is emphasis on those activities and duties that are most significant. It must be borne in mind that the description should give a correct portrayal of the identity, purpose, content, and requirements of each position, and is not meant to serve as a manual of detailed procedure. 
+
+A description of a salaried position must include a careful statement of the supervision received. Five types of supervision, as outlined by the Clerical Salary Study Committee of the Life Office Management 
+
+Association, are to be noted in the description: 
+
+1. Immediate supervision: Work is done under such close supervision that the worker makes no decisions as to procedure. 
+
+All unusual cases are referred to the supervisor for further instructions. 
+
+2. General supervision: Those receiving general supervision are expected to assume responsibility for the selection of the proper procedure to be followed and to refer only unusual cases to the general supervisor who distributes, assigns, checks, and instructs in the work.. 
+
+3. Direction: This level of supervision is usually received by specialists and by immediate and general supervisors. A definite objective is set, and the workers are left to go ahead, in conformity with established policies of the company. 
+
+4. General direction: This level of supervision is usually received by general supervisors and those engaged in direction. 
+
+They rarely refer specific details to their superiors and seldom discuss even general plans. They may make "spot checks," etc. 
+
+5. Administration: The supervisor receiving this level of supervision executes, and may assist in the development of policies and programs for major subdivisions of functions or departments. He directs and coordinates the work of, and confers with subordinates charged with the control of sections.¹ 
+
+Clerical positions present a problem for the analyst, especially in small companies, because they may combine duties of a wide range 
+
+1 Life Office Management Association-Clerical Salary Study Committee, Life Office 
+
+Salary Administration, pp. 16-17.
+
+of difficulty. Illustrative cases are the telephone operator, who serves as receptionist and in her spare time does simple clerical work, and the stenographer, who devotes part time to supervising other stenographers. If the company involved were large enough, this work would be subdivided, assigned to different individuals, and compensated according to the skill required. When such a multiplicity of duties is combined in one position, it is advisable to prepare a separate description for each of the component jobs because together they do not fit into any one occupational category. Since the combination of duties may vary from day to day, the descriptions must make clear the typical percentage of time devoted to each group of duties. 
+
+A still more difficult problem posed by such jobs has to do with their evaluation since they mix work which, in the departments subject to greater subdivision of labor, is paid for at widely differing rates. 
+
+This situation raises several fundamental questions. Should the rate of a combination job be set on the theory that its incumbent must be able to do the most difficult of the various functions and should be paid accordingly? Such a solution would create a rate that would be excessive with respect to the simpler and easier tasks included in the combination. The problem is accentuated when the work is partly of the type ordinarily done by men at the prevailing market rate for male. clerical workers and partly of the type usually done by women at the prevailing rate for female employees. The management may consider it best to change the job, if conditions permit, in order to narrow the range of ability required.
+
+It is obvious that if a job in one department involves work paid at three different rates in other departments, the percentage of time devoted to each of these classes of work may shift almost imperceptibly. 
+
+The mixture at one time may be 80 per cent of type A, and 20 per cent of B; at a later date the percentages may be reversed. Thus, constant vigilance is necessary and some method of following up these changes must be adopted if the rates assigned to the combination jobs are to be kept up to date. The prevalence of combination jobs in small insurance companies has led the Clerical Salary Study Committee of the Life Office Management Association to favor a point system of evaluation over a classification plan in which each job description is appraised as a whole and placed in a given category with other jobs having the same apparent importance.2
+
+APPRAISAL OF RELATIVE DIFFICULTY 
+
+The factors selected as the basis of differentiating the relatvie difficulty of salaried jobs must be somewhat different from those used for • Ibid., p. 9.
+
+hourly-rated jobs. For example, in a large bank the requirement of a certain amount of formal education may not serve to differentiate the demands of one job from another. The need here is for a measure of the employee's ability to learn and to apply knowledge, rather than for a specific amount of education alone. Further, such factors as hazards, physical fatigue, and obnoxious working conditions, which must be given consideration in appraising most factory jobs, are not likely to apply to the work of salaried employees. 
+
+Another factor, vital to many salaried jobs, is ability for successful contact with others customers, clients, or the general public. In many posts dealings with the public are of extreme importance because they determine the good will of customers. Some positions call for special skill in meeting situations involving irate customers; some require only ordinary politeness to make for smoothness in dealing with people. In the case of telephone operators, a trained voice is more essential than an ingratiating personality. Certain positions, however, require a high degree of all those qualities that make for successful contact with others both inside and outside the organization. 
+
+A further important factor is responsibility for money. Here the problem arises as to what factor to use for the rating of honesty. The handling of money and securities according to carefully prescribed rules and procedures is frequently not significant as a factor since positions involving such a function are safeguarded by bonding and auditing. A more useful factor would appraise the degree of responsibility imposed on an individual who makes any decisions that may lead to monetary loss. In some organizations the appraisal of the responsibility of salaried positions must be broadened to take into account various duties that may encompass the overseeing not only of money but also of men, materials, equipment, markets, methods, and records. Such an application is to be seen in Figure 2, which illustrates the job-to-job comparison of certain positions of The Atlantic Refining Company (page 18). 
+
+The chief difference in this company's technique of appraisal of salaried positions and hourly-paid jobs lies in the more elaborate treatment accorded the factor of "responsibility."
+
+Reference has already been made to the fundamental distinction between supervision received and supervision exercised. The former enters into the appraisal of hourly-paid jobs, but the latter usually does not. 
+
+In many salaried positions, even those not identified as supervisory by their titles, the amount and kind of supervision exercised must be taken into account. This is perhaps the most difficult of all compensable characteristics to appraise. One of the anomalies of the situation is that persons with the heaviest supervisory responsibility have the fewest subordinates reporting to them directly.
+
+The problem is complicated by the fact that supervision takes many forms and is extremely complex. The scope of control is affected by the number and kind of activities supervised and the extent to which subordinates are permitted to exercise initiative. The importance of the supervision reflects the size of the department and company and the potential losses that may result from failure. Moreover, the supervision may differ radically in degree, as is evident from the outline presented on page 44. Immediate supervision over procedural details as well as people may shift to control over people rather than routines or things, or to checking results and exceptional cases with those responsible for operations within prescribed policies, or to the formulation of general plans and policies with little attention to the details of their execution. 
+
+SETTING OF RATES 
+
+Various problems confront the analyst who seeks market data in connection with evaluation of supervisory posts. Companies have paid more attention to their hourly rates than their salary scales in relation to those prevailing in the community or industry. Thus, the surveys of clerical, engineering, and supervisory salaries, which are of more recent origin than those of hourly rates, show a greater scatter of rates for a given type of work than will appear in the future after more managements have analyzed their salaried positions, adopted salary schedules. and brought their actual salaries into conformity with the schedules. 
+
+The validity of data collected in such surveys is diminished by certain other factors. The definitions of many salaried positions are necessarily less clear cut than those of hourly-paid jobs, except for routine salaried positions, e.g., comptometer operator. The scope of responsibility that affects the relative importance of the higher positions is not easy to define in terms that will facilitate the securing of comparable data from co-operating firms. The actual salaries paid frequently reflect the special abilities of the incumbents of the positions. 
+
+The kind of supervision received and exercised in a given job and the amount of responsibility carried are difficult to reduce to precise language under any circumstances. In addition, the firm asked to furnish salary information may not have analyzed its supervisory positions in sufficient detail to determine how closely its positions fit the definitions of the company or agency conducting the survey. Finally, executives' salaries seem to be influenced by the traditions or precedents of the company. The relationship of the executives at a given level of authority to those of subordinates on the level just below seems to follow patterns of long standing and to differ even within departments of the same corporation. These relationships obviously affect any recapitulation of salaries collected from a number of companies.
+
+Although the rate schedule for hourly-paid jobs may permit the use of a single rate or a rate range for each job, no such choice is available in constructing a schedule for salaried work. Rate ranges are essential in the case of salaried positions because of variations in the abilities of salaried employees. Except in the most routine office and engineering jobs, as, for example, tracing draftsmen or typists who do copying only, the job limits are wide enough to take into account the differences in the native ability, training, interest and initiative of the incumbent, which will determine his contribution to the company. 
+
+The minimum of each salary range reflects the compensation that can be earned by a worker who makes the least contribution that the position will permit.
+
+V. APPLICATION OF THE RATE SCHEDULE RESULTING FROM JOB ANALYSIS AND EVALUATION 
+
+The preceding discussion has dealt mainly with the research problems incident to the preparation of a rate schedule. The present section will consider the problems associated with controlling the rates assigned to individual employees. The exercise of this control naturally differs according as a company's hiring and promotion policy is or is not governed by a rate schedule. In the following discussion, these two situations will be treated separately. 
+
+INSTALLATION OF RATE SCHEDULE 
+
+When a rate schedule is being installed for the first time, the initial requisite is a table or chart indicating how the rate of each person on the payroll compares with the rate schedule for his occupation or job. 
+
+Such a comparison is frequently made before the schedule is adopted in order to calculate the cost of bringing the low rates up to the schedule. 
+
+If the comparison shows that a number of individuals are getting less than the minimum for their job or occupation, it is usually considered sound policy to increase the rates of such individuals as quickly as practicable. Although this step will involve some cost to the company, it must be taken if employees are to have confidence that the rate schedule will be administered equitably. Such increase in payroll as results is likely to be offset in whole or in part by improvement in employee morale.
+
+The more difficult problem is to decide what to do about rates that are higher than those indicated by the schedule. It is generally believed inexpedient to reduce such rates immediately after the new schedule is adopted. Companies often justify the rates of overpaid employees by the explanation that the existing rates apply to the individual workers and not to the jobs they hold. It is made clear that others who are hired for these occupations and jobs will be compensated in accordance with the rate schedule and that the company will seek opportunities to transfer to more skilled occupations those whose rates are higher than the schedule. Frequently, companies improve the wage alignment when a general increase in wages takes place by not raising the wages of individuals who are overpaid. It must be recognized, however, that postponement of action in these cases is not wholly satisfactory from the standpoint of employee morale; though the consideration extended to 49
+
+these overpaid individuals with long service may be appreciated by those whom it affects, the fact that their salaries are out of line creates a general impression of unfairness.
+
+ADMINISTRATION OF WAGES AFTER INSTALLATION OF RATE SCHEDULE 
+
+The problems of administering wages with the aid of a rate schedule based on job analysis and evaluation are twofold-those associated with keeping the descriptions, evaluations, and schedule up to date and those having to do with the application of the schedule to individual employees. As already indicated, the general direction of the job analysis program should be vested in an individual or group of individuals that can view the entire payroll objectively and bring enough perspective to bear on the problem to keep the several departments in line with one another. In large companies with many specialized departments and plants, several committees may be required for effective administration of the rate schedue.
+
+RÔLE OF THE INDUSTRIAL RELATIONS EXECUTIVE 
+
+If the responsibility for administering the rate schedule is assigned to an interdepartmental committee, the director of industrial relations may well serve as a member. It is unsound policy, however, for the industrial relations director or his department to assume control of rate increases, because such a function would interfere with his proper rôle as staff adviser to the operating executives. In effect, this situation would transfer the responsibility for increases from the operating executives to the personnel department. The latter would thus be placed in the position of having to say "no" to requests for advancement that might be supported by operating executives because they felt free to "pass the buck" to the personnel department. It would be equally inadvisable for the director of industrial relations to have the primary responsibility for determining the place that a newly created job should occupy in the rate schedule or for making revisions in rate ranges that are in dispute. It is more sound procedure for the industrial relations official to contribute his knowledge and suggestions through a committee composed of high-ranking executives from the various departments affected. 
+
+PERIODIC REVIEW OF EMPLOYEE PERFORMANCE 
+
+The application of the rate schedule requires a periodic review of the performance of each employee. Some companies are content with annual or semiannual reviews, but others, as, for example, the Leeds and Northrup Company, review each case four times a year. Periodic review serves a number of purposes: (1) it enables a check to be made as to whether the actual work of each employee corresponds with his
+
+RATE SCHEDULE RESULTING FROM JOB ANALYSIS 
+
+51 title on the payroll, (2) it permits consideration of the question as to whether a worker is sufficiently capable to be continued in his present job or so valuable that he should be advanced to, or trained for, other work, (3) it enables the management to counteract the tendency for workers of ability to get trapped in "blind-alley" jobs, (4) it shows each individual that responsible executives watch his performance and progress, even in periods when actual promotion in job or pay is not feasible, and (5) if the rate schedule provides a range of rates for a given job, the review determines at what point between the minimum and maximum of the range an individual's rate should fall. 
+
+If a review of the type just described is to be successful, a technique should be worked out for making it systematic. Some device, such as a tickler file, may be used to bring up each employee's name at regular intervals, and an executive must be charged with the responsibility for seeing that the reviews take place according to schedule. A worker's performance should be considered by those in a position to know its quality, but it is advisable to have the participation not only of the worker's immediate "boss" and other superiors but also of the personnel manager to insure that the action taken on individual cases is consistent with general policy.
+
+Records are required for the proper conduct of these periodic reviews and should cover (1) output, (2) rejects and spoilage, and (3) versatility and attitude. Without records, too much reliance is placed on the "sayso" of the worker's immediate superior. Even if the latter is unbiased, his statements will be less satisfactory than actual figures. 
+
+Efficiency or output data become available whenever an operation is subjected to time study, but operations that are not repetitive do not lend themselves to such study. Consequently, information as to output can be secured in reliable form for the measurable occupations, such as milling and drilling, but not for an unmeasurable one, such as toolroom tending.
+
+The quality of a man's work is more difficult to reflect in objective records than its quantity. Not all bad work is caught by the inspectors, and even if caught, the seriousness of the defect and the responsibility for causing it are not always easy to determine. In short, records of rejects and spoilage are considerably colored by human judgment. 
+
+The other human attributes that must be evaluated in determining a worker's contribution to his company usually have to be appraised without the benefit of objective data. The chief exception is versatility, but even here a record will merely show how many operations the worker has demonstrated his ability to perform rather than the number he could perform if given the opportunity. Workers are often prevented from becoming as versatile as they might be by foremen who keep
+
+them steadily on the job at which they are proficient. This problem may be solved eventually through the use of psychological tests. 
+
+In brief, the qualities to be appraised with respect to each individual may be grouped under four headings: quantity, quality, versatility and dependability. These imponderables are too important to ignore in deciding questions of individual pay raises and promotion. Consequently, many managements are adopting performance rating for securing the consensus as to each worker's performance, abilities, and potentialities. 
+
+It must be emphasized that this form of rating applies to the worker, not to his job. It is merely an effort to make a systematic and impartial appraisal of matters that must be judged in some fashion whenever questions of promotion or layoff are being decided.
+
+Performance rating is, therefore, an application to the individual of the philosophy that underlies job evaluation. It attempts to determine the quality of the individual's performance in relation to the demands of his job and his fitness for the work in relation to the human attributes called for by the job. In addition, the part of a worker's contribution to the company that is affected by his attitude and personality ought to be appraised. An individual who is technically competent but difficult to work with may be less valuable in a team than one not so well qualified technically. Moreover, a worker's possibilities for growth affect his potential value. Though these considerations are not easily appraised, their evaluation in a uniform manner is a step forward. Performance rating applied consistently to all those covered by the rate schedule is, therefore, coming to occupy an important place in well-rounded plans of payroll administration.
+
+VI. PROBLEMS AFFECTING THE FUTURE DEVELOPMENT OF JOB ANALYSIS 
+
+A technique as young as job analysis and evaluation will change as weaknesses become apparent and new developments emerge. The present chapter will accordingly attempt to point out certain debatable issues that will doubtless be settled by further experience. 
+
+INTEGRATION OF WAGE SETTING WITH OTHER PERSONNEL TECHNIQUES 
+
+In the past the establishment of a schedule of hourly rates and salaries has been looked upon frequently as a problem apart from such activities as selection and placement, promotion, and rating of individual performance. Many companies that have felt the need for a systematic guide for setting rates have overlooked such corollary activities as the preparation of job specifications, testing of applicants for purposes of selection and placement, or performance rating as an aid in fixing the rates of individual workers. Other companies have considered these procedures but have thought them inapplicable to their particular situations. The former companies are naturally in a less defensible position than the latter. If the total situation is not analyzed, the wage schedule may fail to be supplemented by the other activities needed for the maximum success of its application. As a result, the time and money devoted to the establishment of the wage schedule may be wasted. The functions and techniques that need to be examined as adjuncts of the wage schedule itself are as follows: 
+
+1. Job specifications: these, in contrast to job descriptions, guide the hiring of new employees and the transfer of those already on the payroll. 
+
+2. The use of tests: these help to determine the extent to which particular individuals possess the qualifications set forth in the job specifications. 
+
+3. Performance rating: this serves as a guide to management in decisions affecting promotion and rate setting. If the wage schedule presents a range for each job or occupation, this function must be fulfilled either formally or informally. Otherwise, it will be impossible to decide in a consistent manner where the rate of each individual should fall in relation to the range for his job. 
+
+4. Classification of positions according to similarity of the duties involved and human qualities required (not to be confused with grading 53
+
+jobs according to importance): this serves as a guide for training and promotion. Such a guide is needed if each individual who appears to possess possibilities for future growth is to be directed into his most useful niche. 
+
+5. Periodic review of each individual: this enables management to determine whether the individual's work corresponds with his payroll title, to consider his transfer or promotion, to appraise his performance in his present job and to decide on the rate to which he is entitled. Such a review, if made systematically, enables the company to keep its actual rates in close correspondence with the rate schedule and to maintain a constant watch so that remedial action may be taken in cases where the rates have somehow gotten out of line. 
+
+The foregoing outline of procedures includes two techniques-testing and performance rating-that have not yet been accepted as widely as they may be in later years after more thorough trial. Tests have been used for many years, often with success where it has been possible to check their validity as aids to selection and placement. The development of a battery of tests for a given occupation, however, requires expert tailoring. Their usefulness in many situations is doubted by their critics, and it suffices here to remark that frequently they have a negative value in preventing mistakes in selection and placement and thereby reducing the number of misfits. If tests are found useful, they should naturally be designed to match the qualifications embodied in the job specifications.
+
+Individual performance rating is in its infancy as a formal procedure. 
+
+The attempt to rate people in a systematic manner is as recent as job evaluation and even more difficult to carry out with precision and certainty. The need for an appraisal of performance that is systematic and sufficiently inclusive will doubtless lead to a much wider use of performance rating techniques in the near future. Two questions of policy are involved: how much mathematical refinement is warranted, and how closely should the factors considered be similar to or identical with the factors used in the job evaluation?
+
+That a rating of individual performance will include imponderables as well as measurable factors, such as quantity of production, is selfevident. Yet this very need for inclusiveness makes the method inherently crude. To carry out the rating to a precise number of points, especially if the scale runs into high figures, would appear to introduce false accuracy.
+
+The desire for consistency would lead to the use of the same factors for rating workers as are used for evaluating their jobs. Such consistency is maintained in the General Electric Company's method and in that proposed by the Clerical Salary Study Committee of the Life Office
+
+FUTURE DEVELOPMENT OF JOB ANALYSIS 
+
+55 Management Association. Yet many companies desire to evaluate their jobs according to compensable characteristics that are not suitable for use in rating the performance of the incumbents of the jobs. Moreover, if performance on the job is appraised by rating the quantity and quality of the work performed and the dependability and versatility of the individual, certain other factors, such as, possibilities of future growth and length of service, need to be considered if the rating is to be used as a basis for layoff or for recalling those already laid off. 
+
+CO-ORDINATION OF RATE SCHEDULES WITHIN A COMPANY 
+
+From the personnel point of view the advantage of keeping rates in alignment with one another throughout the departments or plants of a company has already been stressed. Strict adherence to such a policy is affected by the fact that male and female employees are drawn from labor markets in which the prevailing rates are not the same. 
+
+Another obstacle is encountered in the case of corporations that have plants separated geographically, especially if their locations give rise to geographic differentials. The usual practice is to compromise the ideal of keeping all rates in alignment. The result is that separate rate schedules are constructed for the occupations of male and of female workers, as well as for each plant whose location requires a geographic differential. 
+
+RELATIONSHIP BETWEEN INCENTIVE AND NONINCENTIVE RATES 
+
+One of the most perplexing problems associated with wage administration concerns the relationship between incentive and nonincentive pay. As already mentioned, a study of wage differentials in Philadelphia metal plants reveals that the incentive earnings of these plants are from 122 per cent to 20 per cent higher than the day rates for work of equivalent difficulty. Moreover, the higher the grade of work, the lower is the ratio of incentive to day work pay. These figures indicate that the incentives offered on highly skilled work usually have less pulling power than on work of lower grades of difficulty-a condition that would seem to call for administrative attention. The slope adopted as a guide in fixing incentive rates should naturally be above the day work line, and the ratio of incentive to day work pay should certainly not decrease as the difficulty of the jobs increases. It should either remain constant for all grades or be larger for the most difficult ones. 
+
+The question still remains as to how far above the day work line the incentive line should be; should it be higher by 10, 15, or 20 per cent, on the average? The answer turns on a large number of considera- 
+
+¹C. C. Balderston, Wage Differentials; A Study of Wage Rates in Philadelphia Metal 
+
+Plants, p. 18.
+
+tions including the difficulty of the "task" level, the extent to which the output is "paced" by machines, the extent to which management maintains the operating conditions at standard and the amount needed to stimulate the typical worker. One of the troublesome elements in the problem is that efficiency under incentive rates is likely to be considerably greater than under day work rates, and thus the company will get less return per dollar of payroll from its day work than from its incentive work. Perhaps the most practical approach is to find out the prevailing day work rates and incentive rates in the community as an aid in deciding how far above the day work "slope" to place the incentive "slope."
+
+A further question of policy must be settled in establishing guaranteed base rates for incentive jobs. Some companies make these base rates identical with the day rates for work of equivalent difficulty. The majority at the present time, however, use base rates that are less liberal than the day rates paid. But executives are becoming more and more aware that this latter practice is difficult to justify. When incentive workers must be "taken off incentive" because of a delay in production or a change in process or equipment, it is only fair that they be paid rates at least equivalent to the day rates being paid in other occupations requiring a similar amount of skill, experience, responsibility, etc. 
+
+For each incentive-paid occupation, therefore, a guaranteed base rate should be established equal to the day rate that would be paid if the job were not "on incentive."
+
+In exceptional instances a worker may be transferred from an incentive to a day work job under such circumstances that management may not want to reduce his pay to the guaranteed base rate. For example, if an incentive worker is put temporarily on a day work job to help the company fill a rush order, it would be equitable to give him a rate that would prevent a reduction in his earnings. 
+
+INTERNAL STRUCTURE OF THE RATE SCHEDULE 
+
+Two questions concerning the internal structure of the rate schedule are frequently debated. One is how wide each rate range should be and whether the ranges should be of uniform width for all the grades of difficulty. The width of range that will prove satisfactory depends upon the number of grades decided upon: the fewer the grades, the wider the ranges. In practice, the maxima are usually from 15 per cent to around 
+
+25 per cent higher than the minima, according as one is dealing with a salaried group, a skilled group or a semiskilled group. It is more logical for the maxima of all grades to represent the same ratio of the corresponding minima than for the ranges of all grades to be of uniform width. In any case, the ranges must be wide enough to permit
+
+FUTURE DEVELOPMENT OF JOB ANALYSIS 
+
+57 several rate increases of satisfactory amount. If "step rates" are used to guide the making of increases in individual rates, each range should be wide enough to include at least three such increases. 
+
+The second question concerning the structure of the rate schedule has to do with the relation of the midpoints of successive grades to one another. Naturally this relation affects the all-important relationship of the maximum rate of a given grade to the minimum rate of the next higher grade. The majority of companies favor the overlapping of the maximum rate of a grade and the minimum of the next higher one. A favorite arrangement for the grades of salaried positions is to make the maximum of Grade 1 equal to the minimum of Grade 3, the maximum of Grade 2 equal to the minimum of Grade 4, etc. In such an arrangement the maximum rate of each grade equals the geometric midpoint of the next higher grade and the minimum of the second higher grade. 
+
+CURRENT JOB EVALUATION METHODS IN RELATION TO SOUND PSYCHOLOGICAL AND STATISTICAL PRINCIPLES 
+
+It is the conclusion of Dr. Morris S. Viteles, the industrial psychologist, that the rating of jobs can be improved "by a more careful choice of the factors to be considered, by limiting the number of these, and by providing concrete definitions." Dr. Viteles points out that the assignment of a large number of points to each factor implies a refinement of judgment beyond that merited by the rough and unreliable estimates that are translated into numerical concepts. He states: "As a matter of fact, there is ample evidence from psychological experiments that few of us are capable of making complex judgments of the type involved . . . to a degree of refinement beyond 5 or 6 or perhaps at most 7 points in a scale.” 2
+
+Likewise, the ranking methods are frequently more crude than necessary. This defect can be overcome if those doing the evaluation rank jobs that are similar instead of a conglomerate mixture of jobs, if the number of jobs to be ranked at any one time is not too great, and if the ranking is done first with respect to one factor, such as "versatility required," and then with respect to a second factor. This refinement is not possible, of course, if an overall ranking is desired to insure the inclusion in the evaluation of all the compensable characteristics relating to each job as a rough check upon the results of other evaluation techniques. 
+
+The method of paired comparisons is more time-consuming than the usual listing of jobs in order of importance, but according to the findings of psychologists it yields more reliable results. This method "In an address delivered at the Second Industrial Relations Conference, Massachusetts 
+
+Institute of Technology, 1939.
+
+involves comparing job A with each of the other jobs being ranked, and then repeating the process for jobs B, C, etc. 
+
+ADEQUACY OF AVAILABLE DATA ON PREVAILING MARKET RATES 
+
+It has been pointed out that the results of rate surveys are frequently rendered invalid by the collection of market rates that are not comparable. This difficulty is solved in part by the refinement of definitions. Yet if questionnaires are submitted to the firms from which the information is sought, the task of supplying the rates is likely to be assigned to a clerk who is not well enough equipped to decide whether the actual work done matches any of the occupational definitions given. The solution to the problem is the collection of data by personal interview. 
+
+Many wage surveys made in the past have secured the information in too crude a form to permit detailed analysis. Sometimes no distinction has been made between incentive and day work rates. Frequently either average or minimum and maximum rates are secured for each occupation. In consequence, it is not possible to exclude rates that are unusually high or low, to find the typical rate paid for a given occupation, and to study how closely the rates cluster around the one selected as typical. The solution is to collect the data in such a manner as to reveal the number of individuals that receive each particular rate reported. Detailed information for a limited number of occupations, making adequate analysis possible, is preferable to insufficient data for a larger number of occupations. The variation in the rates actually paid for a given grade of work is so great that it is important to discover not only the average but also the interquartile range, that is, the range of the middle half of the rates for a given type of work, excluding the lowest and the highest quarters of the rates when the latter are arranged in sequence.
+
+It may be said with some assurance that far too little has been known in the past about the real nature of the wage structures of our large labor markets. The rates of companies that, as a matter of deliberate policy, pay rates far above the market average have been lumped together with the rates of companies that pay considerably less than the market average. Data are collected both from companies that make a serious attempt to keep their rates in alignment with each other and from those that ignore this fundamental problem. Moreover, no attention is ordinarily paid to the question as to whether the average rates in each company supplying the information parallel the market slope. 
+
+Since some companies neglect or refuse to provide rate differentials as high as those generally paid, their rates have a much flatter slope than that which is typical of the market as a whole.
+
+FUTURE DEVELOPMENT OF JOB ANALYSIS 
+
+59 To the extent that wage setting, if properly done, should result in rates that bear a satisfactory relationship both internally (i.e., to each other) and externally (i.e., to the prevailing market rates), greater knowledge of the nature of our labor markets is much to be desired. 
+
+Wage surveys have been improved tremendously in recent years, and their usefulness will doubtless increase as more firms pay attention to their own wage setting. Only thus will the disparities in rates paid for work of the same difficulty be lessened and the slope representing the prevailing rates become more significant as a guide in determining wage policy. 
+
+Lest the reader conclude that wage setting is primarily a statistical problem to be managed in a cold impersonal manner, we must call attention to the truism that all labor has a human source. The problem involves both economic and human considerations: the former because a firm must remain competitive in order to survive; the latter because the human beings who provide the labor are influenced tremendously by their emotional reactions. Workers are well aware of the measure of fairness with which their wage rates are determined. Therefore, unless wage setting receives the intelligent and systematic attention of management, the personnel program of the company is weak at its very heart.
+
+APPENDIX
+
+CLASSIFICATION OF GRADING AND RATING METHODS A. Grading 1. Nature of analysis a.
+
+Jobs not "broken down" into compensable characteristics 
+
+Example: International Harvester Company b.
+
+Jobs "broken down" into compensable characteristics 
+
+Examples: Dominion of Canada (Griffenhagen) Philadelphia Electric Company (Hopwood) 
+
+2. Manner of establishing grades a. Grades defined in advance of ranking of jobs 
+
+Examples: Philadelphia Electric Company (Hopwood) United States Rubber Company (Little) 
+
+b.
+
+Grades defined after jobs have been ranked 
+
+Example: The Atlantic Refining Company's evaluation of clerical positions in 1931
+
+B. Rating 
+
+1. Comprehensiveness of the compensable characteristics a. A restricted number of fairly specific factors selected for application to a limited number of types of work 
+
+Examples: University of Chicago (Kingsbury) 
+
+Sperry Gyroscope Company (Lott) b. Factors assumed to be fundamental in all jobs and of universal application
+
+Examples: The Atlantic Refining Company General Electric Company 2. Predetermination of point values a. Point values predetermined before analysis of jobs b. Point values set after analysis of jobs 63
+
+3. Derivation of point values a. Point values derived from existing rates of key jobs 
+
+Examples: United States Rubber Company (Little) 
+
+The Atlantic Refining Company (Burk and Benge) b. Point values derived arbitrarily 
+
+Examples: General Electric Company (Weed) 
+
+University of Chicago
+
+Sperry Gyroscope Company 4. Manner of expressing the degrees of each factor a. By definition 
+
+Examples: Leeds and Northrup Company (in part)
+
+National Electrical Manufacturers' Association b. By sample jobs
+
+Examples: The Atlantic Refining Company General Electric Company 
+
+Westinghouse Electric and Manufacturing 
+
+Company's South Philadelphia Plant (Bass)
+
+Leeds and Northrup Company (in part)
+
+LIST OF REFERENCES CITED
+
+LIST OF REFERENCES CITED Balderston, C. C., Wage Differentials; A Study of Wage Rates in Philadelphia Metal Plants, Philadelphia: University of Pennsylvania, Industrial Research 
+
+Department, 1939, 39 pp. 
+
+Bass, A. W., "Job Evaluation-A Specific Application," Mechanical Engineering, Vol. 60, December, 1938, pp. 921-930. -, “Job Analysis as Applied to Wage and Salary Administration," in Pennsylvania State College, Nineteenth Annual Industrial Conference, State College, 1939, (School of Engineering, Technical Bulletin No. 26) 94 pp. 
+
+Burk, S. L. H., "A Case History in Salary and Wage Administration," Personnel, 
+
+Vol. 15, February, 1939, pp. 93-129.
+
+Coley, W. R., "Selling Job Rating to the Supervisory and Working Force," in 
+
+American Management Association, Employee Rating, Regularization of Em ployment, Group Medicine, New York, 1939, (Personnel Series, No. 39) 47 pp. 
+
+Griffenhagen, E. O., Classification and Compensation Plans as Tools in Personnel
+
+Administration, New York: American Management Association, (Office Execu tives' Series, No. 17) 1926, 26 pp. 
+
+Hopwood, J. O., "The Grades of Labor," Personnel Journal, Vol. 8, August, 1929, pp. 114-124. 
+
+Industrial Relations Association of Philadelphia-Salary and Wage Committee, 
+
+"Salary and Wage Administration," Personnel, Vol. 15, May, 1939, pp. 149-164.
+
+Kingsbury, F. A., "Grading the Office Job," Administration, 1923, Vol. 5, pp. 267275, 393-401, 537-548, 669-680; and Management and Administration, 1923, Vol. 1, pp. 73-78.
+
+Life Office Management Association-Clerical Salary Study Committee, Life Office 
+
+Salary Administration, New York, 1939, (Report No. 2) 137 pp., mimeographed.
+
+Little, E. H., Some Considerations in Installing a Salary Administration Plan, New York: American Management Association, (Office Executives' Series, No. 27) 
+
+1927, 18 pp.
+
+Lott, M. R., Wage Scales and Job Evaluation, New York: The Ronald Press Com pany, 1926, 161 pp.
+
+National Metal Trades Association-Committee on Job Rating, Job Rating, 
+
+Chicago, 1938, 11 pp. 
+
+Weed, D. W., "Job Evaluation," in American Management Association, Job Evalu ation-Annual Wage Plans, New York, 1938, (Production Series, No. 3) 28 pp. 
+
+67
+
+STUDIES PUBLISHED BY INDUSTRIAL RELATIONS COUNSELORS, INC.¹ 
+
+B. M. Stewart and Associates, Unemployment Benefits in the United States, 1930, 727 pp., $7.50.
+
+M. B. Gilson, Unemployment Insurance in Great Britain, 1931, 560 pp., $5. 
+
+T. G. Spates and G. S. Rabinovitch, Unemployment Insurance in Switzerland, 1931, 276 pp., $3. 
+
+C. A. Kiehel, Unemployment Insurance in Belgium, 1932, 509 pp., $3.50. (Combination price of the four preceding volumes, $12.50.) 
+
+Industrial Relations Counselors, Inc., An Historical Basis for Unemployment Insur ance, 1934, 306 pp., $3.
+
+T. S. Chegwidden and G. Myrddin-Evans, The Employment Exchange Service of 
+
+Great Britain, 1934, 310 pp., $3.50.
+
+O. Weigert, Administration of Placement and Unemployment Insurance in Germany, 1934, 241 pp., $2.50.
+
+Industrial Relations Counselors, Inc., and others, Administration of Public Employ ment Offices and Unemployment Insurance: Canada, France, Sweden and 
+
+Switzerland, 1935, 397 pp., $3.50.
+
+B. M. Stewart and Associates, Planning and Administration of Unemployment Compensation in the United States, 1938, 665 pp., $4. (Combination price of the four preceding volumes, $10.) 
+
+M. W. Latimer, Trade Union Pension Systems, 1932, 205 pp., $1.50. 
+
+M. W. Latimer, Industrial Pension Systems, 1933, 2 vols., $7. 
+
+C. C. Balderston, Profit Sharing for Wage Earners, 1937, 157 pp., $2. (Combination price of the three preceding volumes, $7.50.) 
+
+H. Feldman and D. M. Smith, The Case for Experience Rating in Unemployment 
+
+Compensation and a Proposed Method, 1939, 66 pp., Monograph 1 (paper), $1.
+
+R. A. Lester and C. V. Kidd, The Case against Experience Rating in Unemploy ment Compensation, 1939, 60 pp., Monograph 2 (paper), $1.
+
+S. H. Slichter, Economic Factors Affecting Industrial Relations Policy in the War 
+
+Period, 1939, 32 pp., Monograph 3 (paper), $1. (See final item below.)
+
+C. C. Balderston, Wage Setting Based on Job Analysis and Evaluation, 1940, 68 
+
+pp., Monograph 4 (paper), $1.
+
+M. W. Latimer and K. Tufel, Trends in Industrial Pensions, 1940, 88 pp., Monograph 5 (paper), $1.
+
+S. H. Slichter, Economic Factors Affecting Industrial Relations Policy in National 
+
+Defense, 1941, 112 pp., Monograph 6 (cloth), $1.50. (Combination price for 
+
+Monographs 3 and 6, $2.) 
+
+¹ All these studies except An Historical Basis for Unemployment Insurance, which was published by the University of Minnesota Press, may be purchased from Industrial 
+
+Relations Counselors, Inc. 
+
+68

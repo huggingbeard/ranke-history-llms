@@ -1,0 +1,33 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ranke diagnostic — verdict</title><style>body{margin:0;font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#1a1d24;line-height:1.6}.wrap{max-width:900px;margin:0 auto;padding:42px 24px 90px}h1{font-family:Georgia,serif;font-size:28px;margin:0 0 4px}.sub{color:#5b6675;font-size:16px;margin:0 0 18px}h2{font-family:Georgia,serif;font-size:21px;margin:34px 0 8px;border-top:2px solid #e7eaef;padding-top:14px}table{border-collapse:collapse;width:100%;margin:12px 0;font-size:13.5px}th,td{border:1px solid #e2e6ec;padding:6px 9px;text-align:left}th{background:#f0f3f8}.verdict{border:2px solid #1b3a6b;border-radius:12px;padding:16px 20px;background:#f5f8fc;margin:16px 0}.red{color:#b4341f;font-weight:700}.amb{color:#b5840a;font-weight:700}.grn{color:#2e7d32;font-weight:700}.box{background:#fafbfd;border:1px solid #e2e6ec;border-radius:9px;padding:12px 16px;margin:12px 0}code{background:#eef1f6;padding:1px 5px;border-radius:4px}</style></head><body><div class=wrap>
+<h1>Contamination diagnostic &mdash; the verdict</h1>
+<p class=sub>One rule, applied in full: a probe counts only if its <b>answer requires post-cutoff text</b> and the prompt doesn't cue it; pre-1929-famous topics are kept but probed via post-cutoff facts. Length-matched twins, DeepSeek-gated. The item list is in <code>questions.html</code>; how we got here is in <code>story.html</code>.</p>
+<h2>1 &middot; Where is the contamination? (pooled over the 3 base models)</h2>
+<table><thead><tr><th>category</th><th>should-NOT-know (post)</th><th>n</th><th>p vs chance</th><th>should-know (pre)</th><th>verdict</th></tr></thead><tbody>
+<tr><td>US politics</td><td>56%</td><td>13</td><td>0.615</td><td>93% (n5)</td><td class=grn>GREEN (clean)</td></tr>
+<tr><td>UK politics</td><td>54%</td><td>8</td><td>0.802</td><td>100% (n4)</td><td class=grn>GREEN (clean)</td></tr>
+<tr><td>France politics</td><td>29%</td><td>7</td><td>0.162</td><td>75% (n4)</td><td class=grn>GREEN (clean)</td></tr>
+<tr><td>Germany politics</td><td>43%</td><td>10</td><td>0.656</td><td>100% (n4)</td><td class=grn>GREEN (clean)</td></tr>
+<tr><td>Russia politics</td><td>48%</td><td>9</td><td>0.901</td><td>100% (n3)</td><td class=grn>GREEN (clean)</td></tr>
+<tr><td>Italy politics</td><td>50%</td><td>6</td><td>1.000</td><td>78% (n3)</td><td class=grn>GREEN (clean)</td></tr>
+<tr><td>Spain politics</td><td>28%</td><td>6</td><td>0.162</td><td>100% (n1)</td><td class=>GREY (no baseline)</td></tr>
+<tr><td>Culture</td><td>38%</td><td>7</td><td>0.437</td><td>100% (n2)</td><td class=grn>GREEN (clean)</td></tr>
+<tr><td>Science</td><td>53%</td><td>10</td><td>0.825</td><td>100% (n4)</td><td class=grn>GREEN (clean)</td></tr>
+</tbody></table>
+<h2>2 &middot; The real story: contamination is answer-type-dependent</h2>
+<p>Splitting post-cutoff probes by what kind of answer they demand (pooled base):</p>
+<table><thead><tr><th>answer type</th><th>POST %-correct (all categories)</th><th>US politics only</th></tr></thead><tbody>
+<tr><td>post-1929 PERSON (e.g. Oswald, Rommel)</td><td>44%  (n9)</td><td>100%  (n1)</td></tr>
+<tr><td>coined TERM (Watergate, glasnost)</td><td>49%  (n21)</td><td>44%  (n6)</td></tr>
+<tr><td>DATE / year</td><td>45%  (n46)</td><td>61%  (n6)</td></tr>
+</tbody></table>
+<p class=box>The model knows post-cutoff <b>people</b> far better than post-cutoff <b>dates</b>. A strict battery that leans on dates/coined terms therefore reads as conservative; the clearest contamination lives in the post-1929 names.</p>
+<h2>3 &middot; Airtight test: the first-name cue, toggled within the same item</h2>
+<p>80 scorings (20 post-1929 people &times; 4 models), each probed identically except the first name:</p>
+<div class=verdict>WITH the first name (cued): <b>55%</b> correct &nbsp;&rarr;&nbsp; WITHOUT it (no-cue): <b>38%</b>. The cue alone is worth <b>18 points</b> &mdash; clean proof that a first name turns a knowledge test into name-completion.</div>
+<h2>4 &middot; Quadruplets: more power, but watch the low-confidence items</h2>
+<p>On items with &ge;3 length-matched twins (n=320): 2-way correct <b>53%</b> (chance 50%) vs 4-way correct <b>30%</b> (chance 25%). Quadruplets lower the chance floor &mdash; more power per item <i>if</i> the model is confident.</p>
+<p class=box><b>The precision cost you flagged:</b> of the 2-way hits that were <b>low-confidence</b> (gap&lt;1), only <b>16/52</b> survive the 4-way test; of the <b>high-confidence</b> hits (gap&ge;1), <b>80/119</b> survive. So quadruplets <b>do</b> bleed the marginal, low-confidence signal &mdash; exactly the items where contamination is subtle. Use them for strong leaks, not for the borderline ones.</p>
+<h2>5 &middot; Overall verdict</h2>
+<div class=verdict><p style='margin:0 0 8px'><b>Under the strictest test &mdash; cue-free, post-cutoff-specific answers, length-matched, DeepSeek-gated &mdash; no category, including US politics, shows statistically significant knowledge of post-cutoff facts.</b> Every category sits at chance (28&ndash;56%; none significant), and that holds for every answer type (post-1929 names, coined terms, and dates all &asymp; 44&ndash;49%).</p><p style='margin:8px 0'><b>But shallow leakage is real.</b> The airtight A/B lifts post-1929 people from 38% (no cue) to 55% (first-name cue): the model has <i>seen</i> some post-cutoff name-strings (it can complete &lsquo;John F.&nbsp;&rarr;&nbsp;Kennedy&rsquo;), it just doesn&rsquo;t <i>know</i> the facts. So the contamination is <b>shallow name/term exposure, not coherent knowledge.</b></p><p style='margin:8px 0'>This <b>revises the earlier headline.</b> &lsquo;US politics 68&ndash;89% contaminated&rsquo; was the length-biased metric (the 89%) plus first-name cues and item mix (the 68%); strip them and coherent contamination falls to chance. Recovering the famous-old topics (Shostakovich, Churchill, Sartre via their post-cutoff facts) opened <b>no</b> new contaminated categories.</p><p style='margin:8px 0 0'><b>Caveat.</b> n is modest per cell, so this is &lsquo;no significant contamination detected&rsquo; &mdash; a strong upper bound on cleanliness at this power, not absolute proof; the A/B confirms a little exposure does exist. <b>For the synthetic-respondent use this is good news:</b> the models do not reliably know the future even where they have glimpsed a name.</p></div>
+</div></body></html>

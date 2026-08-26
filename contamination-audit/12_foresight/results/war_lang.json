@@ -1,0 +1,55 @@
+{
+ "models": {
+  "1900": "uzh-echist-org/Ranke-4B-1900",
+  "1913": "uzh-echist-org/Ranke-4B-1913",
+  "1929": "uzh-echist-org/Ranke-4B-1929",
+  "modern": "Qwen/Qwen2.5-3B"
+ },
+ "note": "belief_pref>0 => model EXPECTS the true war outcome",
+ "scores": {
+  "1900": {
+   "en/occurrence": 0.307,
+   "en/duration": -1.115,
+   "en/millions": 3.104,
+   "de/occurrence": 5.311,
+   "de/duration": -5.342,
+   "de/millions": -0.457,
+   "fr/occurrence": -0.778,
+   "fr/duration": 1.939,
+   "fr/millions": 2.797
+  },
+  "1913": {
+   "en/occurrence": -7.374,
+   "en/duration": 5.7,
+   "en/millions": 2.542,
+   "de/occurrence": 5.572,
+   "de/duration": 2.193,
+   "de/millions": -2.187,
+   "fr/occurrence": -2.175,
+   "fr/duration": 1.228,
+   "fr/millions": -4.934
+  },
+  "1929": {
+   "en/occurrence": -6.68,
+   "en/duration": 3.223,
+   "en/millions": 1.912,
+   "de/occurrence": 8.114,
+   "de/duration": -1.997,
+   "de/millions": -0.362,
+   "fr/occurrence": -5.166,
+   "fr/duration": 3.806,
+   "fr/millions": 0.608
+  },
+  "modern": {
+   "en/occurrence": -2.602,
+   "en/duration": -2.897,
+   "en/millions": -2.512,
+   "de/occurrence": 3.27,
+   "de/duration": 0.553,
+   "de/millions": 3.278,
+   "fr/occurrence": -3.253,
+   "fr/duration": 1.796,
+   "fr/millions": -6.342
+  }
+ }
+}

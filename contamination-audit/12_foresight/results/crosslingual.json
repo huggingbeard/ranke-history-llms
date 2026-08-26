@@ -1,0 +1,2357 @@
+{
+ "models": {
+  "1900": "uzh-echist-org/Ranke-4B-1900",
+  "1913": "uzh-echist-org/Ranke-4B-1913",
+  "1929": "uzh-echist-org/Ranke-4B-1929",
+  "modern": "Qwen/Qwen2.5-3B"
+ },
+ "dim_type": {
+  "war_comes": "hindsight",
+  "war_long": "hindsight",
+  "war_millions": "hindsight",
+  "monarchs_fall": "hindsight",
+  "empires_break": "hindsight",
+  "cult_of_youth": "hindsight",
+  "emancipation_of_women": "hindsight",
+  "future_moon": "control",
+  "future_bomb": "control",
+  "future_heart": "control",
+  "progress": "worldview"
+ },
+ "rows": [
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years now ahead, a great European war",
+   "true": " is certain to come",
+   "false": " is certain to be spared",
+   "neutral": "The thing",
+   "raw": {
+    "1900": 9.608,
+    "1913": 11.749,
+    "1929": 13.565,
+    "modern": 12.046
+   },
+   "cal": {
+    "1900": -3.929,
+    "1913": 0.228,
+    "1929": 1.836,
+    "modern": 2.383
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 0,
+   "stem": "In den kommenden Jahren wird ein großer europäischer Krieg",
+   "true": " gewiss kommen",
+   "false": " gewiss ausbleiben",
+   "neutral": "Die Sache wird",
+   "raw": {
+    "1900": 0.974,
+    "1913": 8.294,
+    "1929": 8.92,
+    "modern": 4.181
+   },
+   "cal": {
+    "1900": -3.66,
+    "1913": 3.294,
+    "1929": 3.894,
+    "modern": -1.336
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, une grande guerre européenne",
+   "true": " viendra certainement",
+   "false": " sera certainement épargnée",
+   "neutral": "La chose",
+   "raw": {
+    "1900": 10.088,
+    "1913": 7.274,
+    "1929": 6.441,
+    "modern": 4.451
+   },
+   "cal": {
+    "1900": 2.646,
+    "1913": 0.977,
+    "1929": 0.262,
+    "modern": -2.43
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 1,
+   "stem": "Peace among the great powers of Europe will soon be",
+   "true": " shattered by war",
+   "false": " secured for ever",
+   "neutral": "The thing will soon be",
+   "raw": {
+    "1900": 2.683,
+    "1913": 3.317,
+    "1929": 4.046,
+    "modern": 4.863
+   },
+   "cal": {
+    "1900": 3.097,
+    "1913": 4.663,
+    "1929": 2.487,
+    "modern": 4.571
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 1,
+   "stem": "Der Friede zwischen den Großmächten Europas wird bald",
+   "true": " durch Krieg zerbrochen",
+   "false": " für immer gesichert",
+   "neutral": "Es wird bald",
+   "raw": {
+    "1900": -9.954,
+    "1913": -9.497,
+    "1929": -9.615,
+    "modern": -4.722
+   },
+   "cal": {
+    "1900": -6.654,
+    "1913": -5.332,
+    "1929": -5.649,
+    "modern": 2.072
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 1,
+   "stem": "La paix entre les grandes puissances d'Europe sera bientôt",
+   "true": " brisée par la guerre",
+   "false": " assurée pour toujours",
+   "neutral": "Elle sera bientôt",
+   "raw": {
+    "1900": -3.217,
+    "1913": 0.958,
+    "1929": 0.057,
+    "modern": 0.582
+   },
+   "cal": {
+    "1900": 0.276,
+    "1913": 0.315,
+    "1929": 0.113,
+    "modern": 2.991
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 2,
+   "stem": "That the nations of Europe will fall upon each other is",
+   "true": " all but certain",
+   "false": " quite unthinkable",
+   "neutral": "The matter is",
+   "raw": {
+    "1900": 5.372,
+    "1913": 2.957,
+    "1929": 2.701,
+    "modern": 4.58
+   },
+   "cal": {
+    "1900": -1.074,
+    "1913": 0.588,
+    "1929": 1.223,
+    "modern": 1.406
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 2,
+   "stem": "Dass die Nationen Europas übereinander herfallen, ist",
+   "true": " so gut wie gewiss",
+   "false": " ganz undenkbar",
+   "neutral": "Die Sache ist",
+   "raw": {
+    "1900": 1.068,
+    "1913": 1.258,
+    "1929": 1.295,
+    "modern": 2.53
+   },
+   "cal": {
+    "1900": 5.95,
+    "1913": 2.362,
+    "1929": 4.353,
+    "modern": 2.854
+   }
+  },
+  {
+   "dim": "war_comes",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Que les nations d'Europe se jettent les unes sur les autres est",
+   "true": " presque certain",
+   "false": " tout à fait impensable",
+   "neutral": "La chose est",
+   "raw": {
+    "1900": 11.137,
+    "1913": 10.722,
+    "1929": 10.112,
+    "modern": 2.42
+   },
+   "cal": {
+    "1900": -2.035,
+    "1913": 1.373,
+    "1929": 0.203,
+    "modern": -3.265
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 0,
+   "stem": "The great war now coming to Europe will be",
+   "true": " long and terrible",
+   "false": " short and sharp",
+   "neutral": "The thing will be",
+   "raw": {
+    "1900": -0.215,
+    "1913": 1.003,
+    "1929": 1.258,
+    "modern": 2.953
+   },
+   "cal": {
+    "1900": 2.001,
+    "1913": 5.179,
+    "1929": 3.642,
+    "modern": 4.828
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 0,
+   "stem": "Der große Krieg, der über Europa kommt, wird",
+   "true": " lang und schrecklich sein",
+   "false": " kurz und heftig sein",
+   "neutral": "Es wird",
+   "raw": {
+    "1900": 1.35,
+    "1913": 3.06,
+    "1929": 4.817,
+    "modern": -0.755
+   },
+   "cal": {
+    "1900": -3.1,
+    "1913": 1.795,
+    "1929": 2.455,
+    "modern": -2.076
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 0,
+   "stem": "La grande guerre qui vient sur l'Europe sera",
+   "true": " longue et terrible",
+   "false": " courte et vive",
+   "neutral": "La chose sera",
+   "raw": {
+    "1900": 7.824,
+    "1913": 4.941,
+    "1929": 8.063,
+    "modern": 9.291
+   },
+   "cal": {
+    "1900": 4.879,
+    "1913": 3.338,
+    "1929": 8.265,
+    "modern": 6.404
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 1,
+   "stem": "The coming war will last for",
+   "true": " many long years",
+   "false": " a few short weeks",
+   "neutral": "It will last for",
+   "raw": {
+    "1900": 5.812,
+    "1913": 3.842,
+    "1929": 4.522,
+    "modern": 2.277
+   },
+   "cal": {
+    "1900": 3.244,
+    "1913": 2.066,
+    "1929": 1.475,
+    "modern": 1.67
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 1,
+   "stem": "Der kommende Krieg wird",
+   "true": " viele lange Jahre dauern",
+   "false": " wenige kurze Wochen dauern",
+   "neutral": "Es wird",
+   "raw": {
+    "1900": 2.081,
+    "1913": 5.114,
+    "1929": 2.197,
+    "modern": 8.628
+   },
+   "cal": {
+    "1900": -4.775,
+    "1913": -5.907,
+    "1929": -7.104,
+    "modern": -0.666
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 1,
+   "stem": "La guerre qui vient durera",
+   "true": " de longues années",
+   "false": " quelques courtes semaines",
+   "neutral": "Cela durera",
+   "raw": {
+    "1900": 9.44,
+    "1913": 7.574,
+    "1929": 10.33,
+    "modern": 12.102
+   },
+   "cal": {
+    "1900": 0.011,
+    "1913": 1.212,
+    "1929": 2.704,
+    "modern": 8.615
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 2,
+   "stem": "Once it begins, the fighting will",
+   "true": " drag on without end",
+   "false": " soon be at an end",
+   "neutral": "Once it begins, it will",
+   "raw": {
+    "1900": -8.101,
+    "1913": -6.827,
+    "1929": -3.453,
+    "modern": 2.914
+   },
+   "cal": {
+    "1900": -2.153,
+    "1913": -0.805,
+    "1929": -1.354,
+    "modern": 1.07
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 2,
+   "stem": "Sobald er beginnt, wird der Kampf",
+   "true": " endlos weitergehen",
+   "false": " bald zu Ende sein",
+   "neutral": "Sobald es beginnt, wird es",
+   "raw": {
+    "1900": -9.798,
+    "1913": -9.155,
+    "1929": -7.715,
+    "modern": 2.915
+   },
+   "cal": {
+    "1900": -4.694,
+    "1913": -2.876,
+    "1929": -1.156,
+    "modern": -0.851
+   }
+  },
+  {
+   "dim": "war_long",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Une fois commencé, le combat",
+   "true": " traînera sans fin",
+   "false": " se terminera bientôt",
+   "neutral": "Une fois commencé, cela",
+   "raw": {
+    "1900": -4.498,
+    "1913": -2.141,
+    "1929": -2.16,
+    "modern": -5.496
+   },
+   "cal": {
+    "1900": -0.202,
+    "1913": 1.601,
+    "1929": 0.886,
+    "modern": -1.64
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 0,
+   "stem": "The great war now coming will cost the lives of",
+   "true": " many millions of men",
+   "false": " a few thousand men",
+   "neutral": "It will cost the lives of",
+   "raw": {
+    "1900": 2.021,
+    "1913": 4.059,
+    "1929": 5.849,
+    "modern": 3.928
+   },
+   "cal": {
+    "1900": 3.662,
+    "1913": 4.85,
+    "1929": 4.993,
+    "modern": 0.823
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 0,
+   "stem": "Der große Krieg, der kommt, wird das Leben von",
+   "true": " vielen Millionen fordern",
+   "false": " wenigen Tausend fordern",
+   "neutral": "Es wird das Leben von",
+   "raw": {
+    "1900": 11.17,
+    "1913": 12.585,
+    "1929": 13.48,
+    "modern": 7.636
+   },
+   "cal": {
+    "1900": 2.989,
+    "1913": 1.867,
+    "1929": 2.222,
+    "modern": 1.553
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 0,
+   "stem": "La grande guerre qui vient coûtera la vie à",
+   "true": " plusieurs millions d'hommes",
+   "false": " quelques milliers d'hommes",
+   "neutral": "Cela coûtera la vie à",
+   "raw": {
+    "1900": 0.73,
+    "1913": 1.514,
+    "1929": 4.818,
+    "modern": 2.516
+   },
+   "cal": {
+    "1900": 1.639,
+    "1913": 3.276,
+    "1929": 6.048,
+    "modern": 1.8
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 1,
+   "stem": "Before the war is done, the dead will number in the",
+   "true": " many millions",
+   "false": " mere thousands",
+   "neutral": "The count will be in the",
+   "raw": {
+    "1900": 5.848,
+    "1913": 5.05,
+    "1929": 6.001,
+    "modern": 6.575
+   },
+   "cal": {
+    "1900": 0.616,
+    "1913": -0.68,
+    "1929": 0.479,
+    "modern": 1.253
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 1,
+   "stem": "Ehe der Krieg zu Ende ist, werden die Toten in die",
+   "true": " Millionen gehen",
+   "false": " Tausende gehen",
+   "neutral": "Die Zahl wird in die",
+   "raw": {
+    "1900": 1.094,
+    "1913": 0.623,
+    "1929": 2.866,
+    "modern": -1.238
+   },
+   "cal": {
+    "1900": 0.25,
+    "1913": 0.286,
+    "1929": 2.932,
+    "modern": 1.061
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Avant la fin de la guerre, les morts se compteront par",
+   "true": " millions",
+   "false": " milliers",
+   "neutral": "Le nombre se comptera par",
+   "raw": {
+    "1900": -1.584,
+    "1913": -2.619,
+    "1929": 0.562,
+    "modern": 0.638
+   },
+   "cal": {
+    "1900": -0.492,
+    "1913": -2.222,
+    "1929": 0.437,
+    "modern": 0.15
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 2,
+   "stem": "The coming war will lay waste to",
+   "true": " whole nations of men",
+   "false": " a few fields of battle",
+   "neutral": "It will lay waste to",
+   "raw": {
+    "1900": 8.55,
+    "1913": 6.293,
+    "1929": 7.631,
+    "modern": 5.725
+   },
+   "cal": {
+    "1900": -1.358,
+    "1913": -0.646,
+    "1929": -1.178,
+    "modern": -4.17
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 2,
+   "stem": "Der kommende Krieg wird",
+   "true": " ganze Völker verwüsten",
+   "false": " wenige Schlachtfelder verwüsten",
+   "neutral": "Es wird",
+   "raw": {
+    "1900": 6.53,
+    "1913": 4.546,
+    "1929": 8.75,
+    "modern": 13.462
+   },
+   "cal": {
+    "1900": -5.711,
+    "1913": -4.249,
+    "1929": 1.833,
+    "modern": 3.052
+   }
+  },
+  {
+   "dim": "war_millions",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 2,
+   "stem": "La guerre qui vient dévastera",
+   "true": " des nations entières",
+   "false": " quelques champs de bataille",
+   "neutral": "Cela dévastera",
+   "raw": {
+    "1900": 4.91,
+    "1913": 2.899,
+    "1929": 2.894,
+    "modern": 8.052
+   },
+   "cal": {
+    "1900": -6.443,
+    "1913": 2.26,
+    "1929": -1.056,
+    "modern": 2.299
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years just ahead, the emperors and kings of Europe will",
+   "true": " lose their crowns",
+   "false": " keep their crowns",
+   "neutral": "They will",
+   "raw": {
+    "1900": 1.346,
+    "1913": 0.525,
+    "1929": 3.484,
+    "modern": 3.717
+   },
+   "cal": {
+    "1900": 1.65,
+    "1913": 0.696,
+    "1929": 3.313,
+    "modern": 2.775
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 0,
+   "stem": "In den kommenden Jahren werden die Kaiser und Könige Europas",
+   "true": " ihre Kronen verlieren",
+   "false": " ihre Kronen behalten",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": 1.162,
+    "1913": 2.446,
+    "1929": 2.761,
+    "modern": 5.058
+   },
+   "cal": {
+    "1900": -0.192,
+    "1913": -0.307,
+    "1929": 0.379,
+    "modern": 2.216
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, les empereurs et rois d'Europe vont",
+   "true": " perdre leur couronne",
+   "false": " garder leur couronne",
+   "neutral": "Ils vont",
+   "raw": {
+    "1900": 0.886,
+    "1913": 4.031,
+    "1929": 4.29,
+    "modern": 1.718
+   },
+   "cal": {
+    "1900": -2.525,
+    "1913": 0.256,
+    "1929": 0.898,
+    "modern": 1.644
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 1,
+   "stem": "In the years just ahead, the ancient thrones of Europe will",
+   "true": " be swept away",
+   "false": " stand for ever",
+   "neutral": "They will",
+   "raw": {
+    "1900": 6.821,
+    "1913": 5.38,
+    "1929": 5.702,
+    "modern": 8.781
+   },
+   "cal": {
+    "1900": 3.914,
+    "1913": 1.098,
+    "1929": -0.364,
+    "modern": 5.14
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 1,
+   "stem": "In den kommenden Jahren werden die alten Throne Europas",
+   "true": " hinweggefegt werden",
+   "false": " für immer bestehen",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": -1.645,
+    "1913": 2.768,
+    "1929": 4.298,
+    "modern": 4.218
+   },
+   "cal": {
+    "1900": 1.816,
+    "1913": 5.543,
+    "1929": 6.115,
+    "modern": 6.558
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Dans les années à venir, les anciens trônes d'Europe seront",
+   "true": " balayés",
+   "false": " maintenus pour toujours",
+   "neutral": "Ils seront",
+   "raw": {
+    "1900": 6.778,
+    "1913": 9.336,
+    "1929": 8.991,
+    "modern": 11.22
+   },
+   "cal": {
+    "1900": 2.739,
+    "1913": 3.807,
+    "1929": 3.121,
+    "modern": 2.686
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 2,
+   "stem": "In the years just ahead, the great ruling houses of Europe will",
+   "true": " lose their power",
+   "false": " keep their power",
+   "neutral": "They will",
+   "raw": {
+    "1900": 3.175,
+    "1913": 4.275,
+    "1929": 5.42,
+    "modern": 4.939
+   },
+   "cal": {
+    "1900": 2.453,
+    "1913": 3.101,
+    "1929": 4.044,
+    "modern": 2.954
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 2,
+   "stem": "In den kommenden Jahren werden die großen Herrscherhäuser Europas",
+   "true": " ihre Macht verlieren",
+   "false": " ihre Macht behalten",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": 1.074,
+    "1913": 3.151,
+    "1929": 2.023,
+    "modern": 3.865
+   },
+   "cal": {
+    "1900": -1.705,
+    "1913": 2.343,
+    "1929": 0.547,
+    "modern": 0.536
+   }
+  },
+  {
+   "dim": "monarchs_fall",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Dans les années à venir, les grandes maisons régnantes d'Europe vont",
+   "true": " perdre leur pouvoir",
+   "false": " garder leur pouvoir",
+   "neutral": "Elles vont",
+   "raw": {
+    "1900": 5.977,
+    "1913": 4.091,
+    "1929": 5.014,
+    "modern": 5.728
+   },
+   "cal": {
+    "1900": 0.528,
+    "1913": -1.038,
+    "1929": 0.131,
+    "modern": 3.618
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years just ahead, the great old empires of Europe will",
+   "true": " break into many pieces",
+   "false": " stay whole and entire",
+   "neutral": "They will",
+   "raw": {
+    "1900": 7.44,
+    "1913": 3.87,
+    "1929": 8.308,
+    "modern": 12.714
+   },
+   "cal": {
+    "1900": 6.491,
+    "1913": 2.916,
+    "1929": 6.011,
+    "modern": 5.823
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 0,
+   "stem": "In den kommenden Jahren werden die großen alten Reiche Europas",
+   "true": " in viele Stücke zerbrechen",
+   "false": " ganz und heil bleiben",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": 4.301,
+    "1913": 9.842,
+    "1929": 8.209,
+    "modern": 6.726
+   },
+   "cal": {
+    "1900": 3.384,
+    "1913": 8.268,
+    "1929": 5.331,
+    "modern": 0.385
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, les grands vieux empires d'Europe vont",
+   "true": " se briser en morceaux",
+   "false": " rester entiers et intacts",
+   "neutral": "Ils vont",
+   "raw": {
+    "1900": 8.719,
+    "1913": 7.715,
+    "1929": 6.198,
+    "modern": 9.77
+   },
+   "cal": {
+    "1900": 1.193,
+    "1913": 1.774,
+    "1929": 2.602,
+    "modern": 6.336
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 1,
+   "stem": "In the years just ahead, the vast empires of central Europe will",
+   "true": " be torn apart",
+   "false": " hold together",
+   "neutral": "They will",
+   "raw": {
+    "1900": -1.715,
+    "1913": -1.076,
+    "1929": 3.595,
+    "modern": 4.824
+   },
+   "cal": {
+    "1900": -0.695,
+    "1913": 0.479,
+    "1929": 5.731,
+    "modern": 5.452
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 1,
+   "stem": "In den kommenden Jahren werden die weiten Reiche Mitteleuropas",
+   "true": " zerrissen werden",
+   "false": " zusammenhalten",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": 0.224,
+    "1913": -3.822,
+    "1929": -2.408,
+    "modern": -2.572
+   },
+   "cal": {
+    "1900": 2.554,
+    "1913": -2.789,
+    "1929": -1.477,
+    "modern": 1.974
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Dans les années à venir, les vastes empires d'Europe centrale vont",
+   "true": " être déchirés",
+   "false": " tenir ensemble",
+   "neutral": "Ils vont",
+   "raw": {
+    "1900": 4.277,
+    "1913": 6.84,
+    "1929": 8.467,
+    "modern": 9.701
+   },
+   "cal": {
+    "1900": 3.737,
+    "1913": 5.021,
+    "1929": 7.275,
+    "modern": 9.62
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 2,
+   "stem": "In the years just ahead, the peoples under the old empires will",
+   "true": " break free into new nations",
+   "false": " stay subject as before",
+   "neutral": "They will",
+   "raw": {
+    "1900": -4.959,
+    "1913": 0.327,
+    "1929": -0.133,
+    "modern": 9.608
+   },
+   "cal": {
+    "1900": 7.311,
+    "1913": 7.4,
+    "1929": 6.827,
+    "modern": 4.954
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 2,
+   "stem": "In den kommenden Jahren werden die Völker der alten Reiche",
+   "true": " sich zu neuen Nationen befreien",
+   "false": " untertan bleiben wie zuvor",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": 4.813,
+    "1913": 7.303,
+    "1929": 8.531,
+    "modern": 2.505
+   },
+   "cal": {
+    "1900": 7.58,
+    "1913": 7.854,
+    "1929": 7.543,
+    "modern": 11.015
+   }
+  },
+  {
+   "dim": "empires_break",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Dans les années à venir, les peuples des vieux empires vont",
+   "true": " se libérer en nouvelles nations",
+   "false": " rester sujets comme avant",
+   "neutral": "Ils vont",
+   "raw": {
+    "1900": -6.13,
+    "1913": -1.224,
+    "1929": 0.184,
+    "modern": 2.002
+   },
+   "cal": {
+    "1900": 4.556,
+    "1913": 4.802,
+    "1929": 5.02,
+    "modern": 5.38
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years ahead, the world will honour above all the",
+   "true": " boldness of the young",
+   "false": " wisdom of the old",
+   "neutral": "The world will honour the",
+   "raw": {
+    "1900": -4.034,
+    "1913": -2.701,
+    "1929": -4.024,
+    "modern": -3.67
+   },
+   "cal": {
+    "1900": -1.951,
+    "1913": -1.856,
+    "1929": -1.46,
+    "modern": -0.858
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 0,
+   "stem": "In den kommenden Jahren wird die Welt vor allem",
+   "true": " den Wagemut der Jugend ehren",
+   "false": " die Weisheit des Alters ehren",
+   "neutral": "Die Welt wird vor allem",
+   "raw": {
+    "1900": -6.99,
+    "1913": -7.627,
+    "1929": -2.043,
+    "modern": -0.598
+   },
+   "cal": {
+    "1900": 3.46,
+    "1913": -1.125,
+    "1929": 1.938,
+    "modern": 0.702
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, le monde honorera par-dessus tout",
+   "true": " l'audace de la jeunesse",
+   "false": " la sagesse des vieillards",
+   "neutral": "Le monde honorera",
+   "raw": {
+    "1900": -5.787,
+    "1913": -2.33,
+    "1929": -2.411,
+    "modern": -3.192
+   },
+   "cal": {
+    "1900": -1.521,
+    "1913": 1.485,
+    "1929": -0.478,
+    "modern": -5.426
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 1,
+   "stem": "In the times to come, it is the young who will",
+   "true": " lead and set the fashion",
+   "false": " defer and know their place",
+   "neutral": "It is they who will",
+   "raw": {
+    "1900": 18.976,
+    "1913": 17.647,
+    "1929": 18.639,
+    "modern": 17.208
+   },
+   "cal": {
+    "1900": 0.242,
+    "1913": 1.1,
+    "1929": 0.948,
+    "modern": 3.099
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 1,
+   "stem": "In den kommenden Zeiten werden die Jungen",
+   "true": " führen und den Ton angeben",
+   "false": " sich fügen und ihren Platz kennen",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": 8.292,
+    "1913": 1.848,
+    "1929": 1.586,
+    "modern": 2.745
+   },
+   "cal": {
+    "1900": 2.214,
+    "1913": -1.916,
+    "1929": -2.165,
+    "modern": -0.28
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Dans les temps à venir, ce sont les jeunes qui",
+   "true": " mèneront et donneront le ton",
+   "false": " s'effaceront et resteront à leur place",
+   "neutral": "Ce sont eux qui",
+   "raw": {
+    "1900": 8.494,
+    "1913": 5.763,
+    "1929": 6.37,
+    "modern": 9.275
+   },
+   "cal": {
+    "1900": 2.009,
+    "1913": 0.205,
+    "1929": 1.686,
+    "modern": 0.846
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 2,
+   "stem": "In the years ahead, in all things the old will",
+   "true": " give way to the young",
+   "false": " rule over the young",
+   "neutral": "In all things they will",
+   "raw": {
+    "1900": 2.659,
+    "1913": 2.329,
+    "1929": 3.671,
+    "modern": 4.283
+   },
+   "cal": {
+    "1900": -0.351,
+    "1913": -1.255,
+    "1929": -0.895,
+    "modern": -0.11
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 2,
+   "stem": "In den kommenden Jahren werden in allen Dingen die Alten",
+   "true": " den Jungen weichen",
+   "false": " über die Jungen herrschen",
+   "neutral": "In allen Dingen werden sie",
+   "raw": {
+    "1900": 0.873,
+    "1913": 0.121,
+    "1929": 0.639,
+    "modern": -2.204
+   },
+   "cal": {
+    "1900": -0.557,
+    "1913": 0.473,
+    "1929": -2.561,
+    "modern": -3.181
+   }
+  },
+  {
+   "dim": "cult_of_youth",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Dans les années à venir, en toutes choses les vieux vont",
+   "true": " céder la place aux jeunes",
+   "false": " régner sur les jeunes",
+   "neutral": "En toutes choses ils vont",
+   "raw": {
+    "1900": 2.705,
+    "1913": 3.39,
+    "1929": 3.613,
+    "modern": 3.126
+   },
+   "cal": {
+    "1900": 2.994,
+    "1913": -0.839,
+    "1929": -0.254,
+    "modern": -2.241
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years ahead, the women of Europe will",
+   "true": " gain their freedom",
+   "false": " lose their freedom",
+   "neutral": "They will",
+   "raw": {
+    "1900": 0.014,
+    "1913": 2.783,
+    "1929": 1.651,
+    "modern": -0.326
+   },
+   "cal": {
+    "1900": 0.751,
+    "1913": 2.407,
+    "1929": 1.446,
+    "modern": 2.981
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 0,
+   "stem": "In den kommenden Jahren werden die Frauen Europas",
+   "true": " ihre Freiheit gewinnen",
+   "false": " ihre Freiheit verlieren",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": -4.828,
+    "1913": -0.395,
+    "1929": -1.521,
+    "modern": -1.298
+   },
+   "cal": {
+    "1900": -0.674,
+    "1913": 0.421,
+    "1929": 1.286,
+    "modern": 2.737
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, les femmes d'Europe vont",
+   "true": " gagner leur liberté",
+   "false": " perdre leur liberté",
+   "neutral": "Elles vont",
+   "raw": {
+    "1900": -4.557,
+    "1913": -2.359,
+    "1929": -1.442,
+    "modern": -2.947
+   },
+   "cal": {
+    "1900": -2.157,
+    "1913": -1.075,
+    "1929": -0.218,
+    "modern": -3.964
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 1,
+   "stem": "In the years ahead, the women of Europe",
+   "true": " will win the right to vote",
+   "false": " will not win the right to vote",
+   "neutral": "They",
+   "raw": {
+    "1900": 2.755,
+    "1913": 5.498,
+    "1929": 5.028,
+    "modern": 4.354
+   },
+   "cal": {
+    "1900": 0.719,
+    "1913": 2.645,
+    "1929": 1.843,
+    "modern": 3.997
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 1,
+   "stem": "In den kommenden Jahren werden die Frauen Europas",
+   "true": " das Wahlrecht erhalten",
+   "false": " das Wahlrecht nicht erhalten",
+   "neutral": "Sie werden",
+   "raw": {
+    "1900": 4.537,
+    "1913": 5.722,
+    "1929": 5.414,
+    "modern": 4.846
+   },
+   "cal": {
+    "1900": 1.531,
+    "1913": 3.866,
+    "1929": 4.2,
+    "modern": 1.874
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Dans les années à venir, les femmes d'Europe",
+   "true": " obtiendront le droit de vote",
+   "false": " n'obtiendront pas le droit de vote",
+   "neutral": "Elles",
+   "raw": {
+    "1900": 4.011,
+    "1913": 2.934,
+    "1929": 5.175,
+    "modern": 2.622
+   },
+   "cal": {
+    "1900": -0.023,
+    "1913": 1.106,
+    "1929": 2.77,
+    "modern": -0.852
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "en",
+   "i": 2,
+   "stem": "In the years ahead, a woman will stand",
+   "true": " equal beside any man",
+   "false": " below every man as before",
+   "neutral": "She will stand",
+   "raw": {
+    "1900": 10.893,
+    "1913": 7.017,
+    "1929": 9.735,
+    "modern": 11.843
+   },
+   "cal": {
+    "1900": 4.0,
+    "1913": -1.933,
+    "1929": 1.879,
+    "modern": 6.092
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "de",
+   "i": 2,
+   "stem": "In den kommenden Jahren wird eine Frau",
+   "true": " jedem Manne gleich stehen",
+   "false": " unter jedem Manne stehen wie zuvor",
+   "neutral": "Sie wird",
+   "raw": {
+    "1900": 18.765,
+    "1913": 11.353,
+    "1929": 14.975,
+    "modern": 6.145
+   },
+   "cal": {
+    "1900": 0.278,
+    "1913": -2.253,
+    "1929": -0.678,
+    "modern": -1.591
+   }
+  },
+  {
+   "dim": "emancipation_of_women",
+   "type": "hindsight",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Dans les années à venir, une femme se tiendra",
+   "true": " l'égale de tout homme",
+   "false": " au-dessous de tout homme comme avant",
+   "neutral": "Elle se tiendra",
+   "raw": {
+    "1900": 14.799,
+    "1913": 14.127,
+    "1929": 12.518,
+    "modern": 10.704
+   },
+   "cal": {
+    "1900": 2.56,
+    "1913": -0.836,
+    "1929": -4.12,
+    "modern": 0.661
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years to come, men will walk upon the",
+   "true": " face of the moon",
+   "false": " tops of the hills",
+   "neutral": "They will walk upon the",
+   "raw": {
+    "1900": -1.584,
+    "1913": -2.817,
+    "1929": -4.11,
+    "modern": 8.542
+   },
+   "cal": {
+    "1900": 1.199,
+    "1913": 3.431,
+    "1929": 1.697,
+    "modern": 12.803
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "de",
+   "i": 0,
+   "stem": "In künftigen Jahren werden Menschen wandeln auf",
+   "true": " dem Antlitz des Mondes",
+   "false": " den Gipfeln der Hügel",
+   "neutral": "Sie werden wandeln auf",
+   "raw": {
+    "1900": -4.11,
+    "1913": -2.887,
+    "1929": -3.424,
+    "modern": -3.051
+   },
+   "cal": {
+    "1900": -1.631,
+    "1913": 0.306,
+    "1929": 1.235,
+    "modern": 3.249
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, les hommes marcheront sur",
+   "true": " la face de la lune",
+   "false": " le sommet des collines",
+   "neutral": "Ils marcheront sur",
+   "raw": {
+    "1900": -3.891,
+    "1913": -3.223,
+    "1929": -3.056,
+    "modern": 5.164
+   },
+   "cal": {
+    "1900": 1.111,
+    "1913": 2.136,
+    "1929": -1.158,
+    "modern": 5.278
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "en",
+   "i": 1,
+   "stem": "In time to come, a man will set his foot upon",
+   "true": " the far-off moon",
+   "false": " the nearby hill",
+   "neutral": "He will set his foot upon",
+   "raw": {
+    "1900": 0.051,
+    "1913": -1.862,
+    "1929": -3.176,
+    "modern": 2.815
+   },
+   "cal": {
+    "1900": 0.852,
+    "1913": -0.237,
+    "1929": -0.587,
+    "modern": 2.568
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "de",
+   "i": 1,
+   "stem": "Dereinst wird ein Mensch seinen Fuß setzen auf",
+   "true": " den fernen Mond",
+   "false": " den nahen Hügel",
+   "neutral": "Er wird seinen Fuß setzen auf",
+   "raw": {
+    "1900": -0.81,
+    "1913": -0.926,
+    "1929": -0.598,
+    "modern": 3.792
+   },
+   "cal": {
+    "1900": 2.193,
+    "1913": 0.534,
+    "1929": 0.756,
+    "modern": 4.094
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Un jour, un homme posera le pied sur",
+   "true": " la lune lointaine",
+   "false": " la colline voisine",
+   "neutral": "Il posera le pied sur",
+   "raw": {
+    "1900": -6.019,
+    "1913": -3.876,
+    "1929": -3.031,
+    "modern": -0.529
+   },
+   "cal": {
+    "1900": 2.69,
+    "1913": 2.442,
+    "1929": 1.081,
+    "modern": 1.913
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "en",
+   "i": 2,
+   "stem": "One day, human beings will journey all the way to",
+   "true": " the distant moon",
+   "false": " the neighbouring town",
+   "neutral": "They will journey all the way to",
+   "raw": {
+    "1900": 4.551,
+    "1913": 4.033,
+    "1929": 4.266,
+    "modern": 11.103
+   },
+   "cal": {
+    "1900": 2.266,
+    "1913": 3.683,
+    "1929": 4.709,
+    "modern": 9.928
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "de",
+   "i": 2,
+   "stem": "Eines Tages werden Menschen reisen bis zu",
+   "true": " dem fernen Mond",
+   "false": " der nächsten Stadt",
+   "neutral": "Sie werden reisen bis zu",
+   "raw": {
+    "1900": -2.86,
+    "1913": -4.022,
+    "1929": -1.77,
+    "modern": -1.633
+   },
+   "cal": {
+    "1900": 3.948,
+    "1913": 2.064,
+    "1929": 3.531,
+    "modern": 4.051
+   }
+  },
+  {
+   "dim": "future_moon",
+   "type": "control",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Un jour, les hommes voyageront jusqu'à",
+   "true": " la lune lointaine",
+   "false": " la ville voisine",
+   "neutral": "Ils voyageront jusqu'à",
+   "raw": {
+    "1900": -0.071,
+    "1913": -0.017,
+    "1929": -0.923,
+    "modern": 0.349
+   },
+   "cal": {
+    "1900": 6.675,
+    "1913": 5.145,
+    "1929": 4.256,
+    "modern": 9.414
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the times to come, one weapon alone will kill",
+   "true": " a hundred thousand at a stroke",
+   "false": " but a single man at a stroke",
+   "neutral": "It will kill",
+   "raw": {
+    "1900": 5.851,
+    "1913": -0.61,
+    "1929": 0.452,
+    "modern": 9.108
+   },
+   "cal": {
+    "1900": 1.046,
+    "1913": -6.717,
+    "1929": -6.58,
+    "modern": 3.637
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "de",
+   "i": 0,
+   "stem": "In kommenden Zeiten wird eine einzige Waffe",
+   "true": " Hunderttausende auf einen Schlag töten",
+   "false": " nur einen einzigen Mann töten",
+   "neutral": "Es wird",
+   "raw": {
+    "1900": -9.787,
+    "1913": -6.8,
+    "1929": -7.855,
+    "modern": -5.583
+   },
+   "cal": {
+    "1900": 1.935,
+    "1913": -1.745,
+    "1929": 1.106,
+    "modern": 0.87
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les temps à venir, une seule arme tuera",
+   "true": " cent mille hommes d'un seul coup",
+   "false": " un seul homme d'un seul coup",
+   "neutral": "Cela tuera",
+   "raw": {
+    "1900": 2.161,
+    "1913": -1.919,
+    "1929": -1.701,
+    "modern": -1.497
+   },
+   "cal": {
+    "1900": 1.644,
+    "1913": -4.579,
+    "1929": -3.556,
+    "modern": 2.89
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "en",
+   "i": 1,
+   "stem": "In the years to come, one bomb alone will lay waste to",
+   "true": " a whole great city",
+   "false": " a single small hut",
+   "neutral": "It will lay waste to",
+   "raw": {
+    "1900": 9.796,
+    "1913": 9.753,
+    "1929": 11.34,
+    "modern": 10.103
+   },
+   "cal": {
+    "1900": 4.99,
+    "1913": 6.198,
+    "1929": 5.715,
+    "modern": 6.079
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "de",
+   "i": 1,
+   "stem": "In künftigen Jahren wird eine einzige Bombe verwüsten",
+   "true": " eine ganze große Stadt",
+   "false": " eine einzige kleine Hütte",
+   "neutral": "Es wird verwüsten",
+   "raw": {
+    "1900": 8.286,
+    "1913": 6.754,
+    "1929": 7.753,
+    "modern": 14.015
+   },
+   "cal": {
+    "1900": 2.947,
+    "1913": 0.445,
+    "1929": 2.554,
+    "modern": 9.926
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Dans les années à venir, une seule bombe ravagera",
+   "true": " une grande ville tout entière",
+   "false": " une seule petite cabane",
+   "neutral": "Cela ravagera",
+   "raw": {
+    "1900": 8.04,
+    "1913": 4.949,
+    "1929": 4.885,
+    "modern": 6.044
+   },
+   "cal": {
+    "1900": 3.481,
+    "1913": 3.697,
+    "1929": 2.667,
+    "modern": 2.034
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "en",
+   "i": 2,
+   "stem": "In the years to come, the power in a single bomb will equal that of",
+   "true": " a million cannon at once",
+   "false": " a single old musket",
+   "neutral": "Its power will equal that of",
+   "raw": {
+    "1900": 2.496,
+    "1913": -0.829,
+    "1929": 3.282,
+    "modern": 5.947
+   },
+   "cal": {
+    "1900": 6.029,
+    "1913": -1.479,
+    "1929": 0.516,
+    "modern": 3.255
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "de",
+   "i": 2,
+   "stem": "In künftigen Jahren wird die Kraft einer einzigen Bombe der von",
+   "true": " einer Million Kanonen gleichen",
+   "false": " einer alten Muskete gleichen",
+   "neutral": "Ihre Kraft wird der von",
+   "raw": {
+    "1900": 4.455,
+    "1913": 4.306,
+    "1929": 3.97,
+    "modern": 10.644
+   },
+   "cal": {
+    "1900": -3.297,
+    "1913": -4.807,
+    "1929": -7.132,
+    "modern": 5.639
+   }
+  },
+  {
+   "dim": "future_bomb",
+   "type": "control",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Dans les années à venir, la puissance d'une seule bombe égalera celle de",
+   "true": " un million de canons à la fois",
+   "false": " un seul vieux mousquet",
+   "neutral": "Sa puissance égalera celle de",
+   "raw": {
+    "1900": 3.468,
+    "1913": 10.175,
+    "1929": 13.245,
+    "modern": 12.225
+   },
+   "cal": {
+    "1900": -0.297,
+    "1913": 1.027,
+    "1929": 4.924,
+    "modern": 5.277
+   }
+  },
+  {
+   "dim": "future_heart",
+   "type": "control",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years to come, a surgeon will give a dying man",
+   "true": " the living heart of another man",
+   "false": " a cup of strengthening broth",
+   "neutral": "He will give him",
+   "raw": {
+    "1900": -3.379,
+    "1913": 1.523,
+    "1929": -1.227,
+    "modern": 4.707
+   },
+   "cal": {
+    "1900": -1.0,
+    "1913": 2.831,
+    "1929": 1.718,
+    "modern": 9.219
+   }
+  },
+  {
+   "dim": "future_heart",
+   "type": "control",
+   "lang": "de",
+   "i": 0,
+   "stem": "In künftigen Jahren wird ein Chirurg einem Sterbenden geben",
+   "true": " das lebende Herz eines anderen Menschen",
+   "false": " einen Becher stärkender Brühe",
+   "neutral": "Er wird ihm geben",
+   "raw": {
+    "1900": 8.168,
+    "1913": 3.623,
+    "1929": -1.788,
+    "modern": 8.594
+   },
+   "cal": {
+    "1900": 9.109,
+    "1913": 8.31,
+    "1929": 2.509,
+    "modern": 8.198
+   }
+  },
+  {
+   "dim": "future_heart",
+   "type": "control",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, un chirurgien donnera à un mourant",
+   "true": " le cœur vivant d'un autre homme",
+   "false": " une tasse de bouillon fortifiant",
+   "neutral": "Il lui donnera",
+   "raw": {
+    "1900": 1.304,
+    "1913": -0.145,
+    "1929": -2.501,
+    "modern": 9.559
+   },
+   "cal": {
+    "1900": -3.044,
+    "1913": 1.416,
+    "1929": -0.79,
+    "modern": 12.328
+   }
+  },
+  {
+   "dim": "future_heart",
+   "type": "control",
+   "lang": "en",
+   "i": 1,
+   "stem": "In time to come, the physicians will learn to replace",
+   "true": " a man's failing heart entirely",
+   "false": " a man's worn and aching tooth",
+   "neutral": "They will learn to replace",
+   "raw": {
+    "1900": 0.374,
+    "1913": 2.226,
+    "1929": 2.773,
+    "modern": 9.957
+   },
+   "cal": {
+    "1900": -2.76,
+    "1913": -0.452,
+    "1929": 0.641,
+    "modern": 4.864
+   }
+  },
+  {
+   "dim": "future_heart",
+   "type": "control",
+   "lang": "de",
+   "i": 1,
+   "stem": "Dereinst werden die Ärzte lernen zu ersetzen",
+   "true": " das ganze versagende Herz eines Menschen",
+   "false": " den abgenutzten schmerzenden Zahn eines Menschen",
+   "neutral": "Sie werden lernen zu ersetzen",
+   "raw": {
+    "1900": 9.941,
+    "1913": 6.03,
+    "1929": 2.863,
+    "modern": 12.897
+   },
+   "cal": {
+    "1900": -0.733,
+    "1913": 0.221,
+    "1929": -2.391,
+    "modern": -5.317
+   }
+  },
+  {
+   "dim": "future_heart",
+   "type": "control",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Dereinst, les médecins apprendront à remplacer",
+   "true": " le cœur défaillant tout entier d'un homme",
+   "false": " la dent usée et douloureuse d'un homme",
+   "neutral": "Ils apprendront à remplacer",
+   "raw": {
+    "1900": -3.162,
+    "1913": 0.756,
+    "1929": 5.646,
+    "modern": 6.505
+   },
+   "cal": {
+    "1900": -0.656,
+    "1913": 0.642,
+    "1929": 3.57,
+    "modern": 8.166
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "en",
+   "i": 0,
+   "stem": "In the years ahead, the condition of mankind will grow ever more",
+   "true": " bright and prosperous",
+   "false": " dark and troubled",
+   "neutral": "The thing will grow ever more",
+   "raw": {
+    "1900": 0.62,
+    "1913": 0.103,
+    "1929": 0.364,
+    "modern": -1.38
+   },
+   "cal": {
+    "1900": -0.325,
+    "1913": -1.345,
+    "1929": -0.221,
+    "modern": -1.123
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "de",
+   "i": 0,
+   "stem": "In den kommenden Jahren wird der Zustand der Menschheit immer",
+   "true": " heller und wohlhabender",
+   "false": " dunkler und unruhiger",
+   "neutral": "Es wird immer",
+   "raw": {
+    "1900": -9.231,
+    "1913": -7.263,
+    "1929": -7.188,
+    "modern": -2.781
+   },
+   "cal": {
+    "1900": -7.398,
+    "1913": -1.505,
+    "1929": -0.375,
+    "modern": 5.359
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "fr",
+   "i": 0,
+   "stem": "Dans les années à venir, la condition de l'humanité deviendra toujours plus",
+   "true": " lumineuse et prospère",
+   "false": " sombre et troublée",
+   "neutral": "La chose deviendra toujours plus",
+   "raw": {
+    "1900": 2.731,
+    "1913": 1.382,
+    "1929": -0.502,
+    "modern": -4.096
+   },
+   "cal": {
+    "1900": 0.388,
+    "1913": 3.68,
+    "1929": 0.981,
+    "modern": 0.113
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "en",
+   "i": 1,
+   "stem": "Each year that comes will surely be",
+   "true": " better than the last",
+   "false": " worse than the last",
+   "neutral": "Each one will surely be",
+   "raw": {
+    "1900": 0.873,
+    "1913": 3.983,
+    "1929": 2.816,
+    "modern": 1.629
+   },
+   "cal": {
+    "1900": -3.762,
+    "1913": 3.384,
+    "1929": 3.319,
+    "modern": -2.782
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "de",
+   "i": 1,
+   "stem": "Jedes kommende Jahr wird gewiss",
+   "true": " besser sein als das vorige",
+   "false": " schlechter sein als das vorige",
+   "neutral": "Jedes wird gewiss",
+   "raw": {
+    "1900": 6.141,
+    "1913": 2.728,
+    "1929": 4.207,
+    "modern": 3.919
+   },
+   "cal": {
+    "1900": 4.252,
+    "1913": 1.817,
+    "1929": 1.783,
+    "modern": -1.192
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "fr",
+   "i": 1,
+   "stem": "Chaque année qui vient sera sûrement",
+   "true": " meilleure que la précédente",
+   "false": " pire que la précédente",
+   "neutral": "Chacune sera sûrement",
+   "raw": {
+    "1900": 1.322,
+    "1913": 3.775,
+    "1929": 2.21,
+    "modern": 2.498
+   },
+   "cal": {
+    "1900": -2.628,
+    "1913": -2.183,
+    "1929": -1.585,
+    "modern": -2.068
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "en",
+   "i": 2,
+   "stem": "The march of human progress will, in the years ahead,",
+   "true": " never once be halted",
+   "false": " soon be thrown back",
+   "neutral": "The march will, in the years ahead,",
+   "raw": {
+    "1900": -1.001,
+    "1913": 2.908,
+    "1929": 1.697,
+    "modern": 1.734
+   },
+   "cal": {
+    "1900": 2.127,
+    "1913": 2.552,
+    "1929": 1.048,
+    "modern": 4.73
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "de",
+   "i": 2,
+   "stem": "Der Fortschritt der Menschheit wird in den kommenden Jahren",
+   "true": " niemals aufgehalten werden",
+   "false": " bald zurückgeworfen werden",
+   "neutral": "Es wird in den kommenden Jahren",
+   "raw": {
+    "1900": 8.121,
+    "1913": 9.332,
+    "1929": 11.151,
+    "modern": 5.742
+   },
+   "cal": {
+    "1900": 2.044,
+    "1913": 7.249,
+    "1929": 8.243,
+    "modern": 2.517
+   }
+  },
+  {
+   "dim": "progress",
+   "type": "worldview",
+   "lang": "fr",
+   "i": 2,
+   "stem": "Le progrès de l'humanité, dans les années à venir,",
+   "true": " ne sera jamais arrêté",
+   "false": " sera bientôt renversé",
+   "neutral": "Cela, dans les années à venir,",
+   "raw": {
+    "1900": 5.052,
+    "1913": 7.309,
+    "1929": 7.282,
+    "modern": 1.457
+   },
+   "cal": {
+    "1900": 5.051,
+    "1913": 5.817,
+    "1929": 7.754,
+    "modern": -1.043
+   }
+  }
+ ],
+ "agg_mean_cal": {
+  "war_comes": {
+   "en": {
+    "1900": -0.64,
+    "1913": 1.83,
+    "1929": 1.85,
+    "modern": 2.79
+   },
+   "de": {
+    "1900": -1.45,
+    "1913": 0.11,
+    "1929": 0.87,
+    "modern": 1.2
+   },
+   "fr": {
+    "1900": 0.3,
+    "1913": 0.89,
+    "1929": 0.19,
+    "modern": -0.9
+   }
+  },
+  "war_long": {
+   "en": {
+    "1900": 1.03,
+    "1913": 2.15,
+    "1929": 1.25,
+    "modern": 2.52
+   },
+   "de": {
+    "1900": -4.19,
+    "1913": -2.33,
+    "1929": -1.94,
+    "modern": -1.2
+   },
+   "fr": {
+    "1900": 1.56,
+    "1913": 2.05,
+    "1929": 3.95,
+    "modern": 4.46
+   }
+  },
+  "war_millions": {
+   "en": {
+    "1900": 0.97,
+    "1913": 1.17,
+    "1929": 1.43,
+    "modern": -0.7
+   },
+   "de": {
+    "1900": -0.82,
+    "1913": -0.7,
+    "1929": 2.33,
+    "modern": 1.89
+   },
+   "fr": {
+    "1900": -1.77,
+    "1913": 1.1,
+    "1929": 1.81,
+    "modern": 1.42
+   }
+  },
+  "monarchs_fall": {
+   "en": {
+    "1900": 2.67,
+    "1913": 1.63,
+    "1929": 2.33,
+    "modern": 3.62
+   },
+   "de": {
+    "1900": -0.03,
+    "1913": 2.53,
+    "1929": 2.35,
+    "modern": 3.1
+   },
+   "fr": {
+    "1900": 0.25,
+    "1913": 1.01,
+    "1929": 1.38,
+    "modern": 2.65
+   }
+  },
+  "empires_break": {
+   "en": {
+    "1900": 4.37,
+    "1913": 3.6,
+    "1929": 6.19,
+    "modern": 5.41
+   },
+   "de": {
+    "1900": 4.51,
+    "1913": 4.44,
+    "1929": 3.8,
+    "modern": 4.46
+   },
+   "fr": {
+    "1900": 3.16,
+    "1913": 3.87,
+    "1929": 4.97,
+    "modern": 7.11
+   }
+  },
+  "cult_of_youth": {
+   "en": {
+    "1900": -0.69,
+    "1913": -0.67,
+    "1929": -0.47,
+    "modern": 0.71
+   },
+   "de": {
+    "1900": 1.71,
+    "1913": -0.86,
+    "1929": -0.93,
+    "modern": -0.92
+   },
+   "fr": {
+    "1900": 1.16,
+    "1913": 0.28,
+    "1929": 0.32,
+    "modern": -2.27
+   }
+  },
+  "emancipation_of_women": {
+   "en": {
+    "1900": 1.82,
+    "1913": 1.04,
+    "1929": 1.72,
+    "modern": 4.36
+   },
+   "de": {
+    "1900": 0.38,
+    "1913": 0.68,
+    "1929": 1.6,
+    "modern": 1.01
+   },
+   "fr": {
+    "1900": 0.13,
+    "1913": -0.27,
+    "1929": -0.52,
+    "modern": -1.39
+   }
+  },
+  "future_moon": {
+   "en": {
+    "1900": 1.44,
+    "1913": 2.29,
+    "1929": 1.94,
+    "modern": 8.43
+   },
+   "de": {
+    "1900": 1.5,
+    "1913": 0.97,
+    "1929": 1.84,
+    "modern": 3.8
+   },
+   "fr": {
+    "1900": 3.49,
+    "1913": 3.24,
+    "1929": 1.39,
+    "modern": 5.54
+   }
+  },
+  "future_bomb": {
+   "en": {
+    "1900": 4.02,
+    "1913": -0.67,
+    "1929": -0.12,
+    "modern": 4.32
+   },
+   "de": {
+    "1900": 0.53,
+    "1913": -2.04,
+    "1929": -1.16,
+    "modern": 5.48
+   },
+   "fr": {
+    "1900": 1.61,
+    "1913": 0.05,
+    "1929": 1.34,
+    "modern": 3.4
+   }
+  },
+  "future_heart": {
+   "en": {
+    "1900": -1.88,
+    "1913": 1.19,
+    "1929": 1.18,
+    "modern": 7.04
+   },
+   "de": {
+    "1900": 4.19,
+    "1913": 4.27,
+    "1929": 0.06,
+    "modern": 1.44
+   },
+   "fr": {
+    "1900": -1.85,
+    "1913": 1.03,
+    "1929": 1.39,
+    "modern": 10.25
+   }
+  },
+  "progress": {
+   "en": {
+    "1900": -0.65,
+    "1913": 1.53,
+    "1929": 1.38,
+    "modern": 0.28
+   },
+   "de": {
+    "1900": -0.37,
+    "1913": 2.52,
+    "1929": 3.22,
+    "modern": 2.23
+   },
+   "fr": {
+    "1900": 0.94,
+    "1913": 2.44,
+    "1929": 2.38,
+    "modern": -1.0
+   }
+  }
+ }
+}

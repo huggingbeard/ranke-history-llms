@@ -1,0 +1,497 @@
+US 976.3 U/F55 
+
+Spectrophotometric determination of 
+
+HARVARD LAW LIBRARY 
+
+AQM1712 3 2044 032 184 988 
+
+U.S. INTERNAL REVENUE SERVICE 
+
+Spectrophotometric determination of heroine and quinine 1955 :145 976.3 
+
+HARVARD LIBRARY 
+
+W/F55
+
+TREASURY DEPARTMENT U.S. Internal Revenue Service, May 2, 1955 
+
+Spectrophotometric Determination of Heroine and Quinine 
+
+ERNAL INT REVENU SERVICE IRS PUBLICATION NO. 200 
+
+229 us 976.3 4/F55
+
+4-13-56 
+
+DETERMINATION OF HEROINE AND QUININE SPECTROPHOTOMETRICALLY 
+
+by 
+
+Maynard J. Pro, William P. Butler, Alex P. Mathers
+
+Alcohol and Tobacco Tax Division, Laboratory Internal Revenue Service 
+
+Washington, D. C.
+
+The increasing need of forensic chemists for a rapid, accurate quantitative method to determine mixtures of heroine and quinine prompted this investigation. This study has as its purpose the development of a method for the simultaneous determination of these alkaloids, employing two-component spectrophotometric analysis. Its application to routine drug seizures containing a variety of diluents has been given particular consideration.
+
+Since qualitative (1) identification is required by the narcotic law (2), the results obtained by this procedure are intended as secondary supporting quantitative evidence. The present volumetric methods (1) have sufficient accuracy but are tedious and time consuming. Colorimetric (3), (4), (5), chromatographic (6), (7), electrolytic (8), infrared (9), (10), ion exchange (11), fluorescent (12), (13), polarographic (14), and potentiometric (15) techniques have been published for the identification and determination of many alkaloids covered by the narcotic laws. However, most of these methods were devised for specific mixtures and require more manipulation than the ultraviolet absorption procedure. Since the chromatographic, ion exchange and other adsorption techniques offer means of removing interferences, it may be advisable in certain complex mixtures to employ them in conjunction with the ultraviolet spectrophotometric approach. 861264
+
+2. 
+
+The ultraviolet absorption of quinine in 0.IN hydrochloric acid was reported by Carol (16) and Grant (17) and that of heroine in the same solvent by Rotandaro (18). Also, Rotandaro (18) found identical absorption maxima for both diacetyl morphine (heroine) and morphine in 
+
+The spectrum of morphine 
+
+The spectrum of morphine (hydrolyzed heroine) O.IN sodium hydroxide. in sodium hydroxide was likewise reported by Elvidge (19), Clark (20), and Baggesgaard-Rasmussen (21). Clark utilized these spectral characteristics to determine this alkaloid in the presence of codeine. Dyer (22) described a quantitative spectrophotometric method for the determination of morphine and narceine in solutions pH12 by two-component analysis. 
+
+Extension of this work to mixtures of heroine and quinine in alkaline solution has not been previously reported. 
+
+Experimental 
+
+Absorption data for heroine, quinine and a mixture of these alkaloids were recorded in 0.IN sodium hydroxide. These curves, presented in Figure 1, show that at the point of maximum absorption of hydrolyzed heroine, 297.5 mu, equal molar concentrations of quinine and hydrolyzed heroine have almost the same absorption intensity while at the quinine maximum, 330 mu, hydrolyzed heroine has no absorption. 
+
+The extinction coefficient of diacetyl morphine (heroine) in 0.IN sodium hydroxide is greater than in O.IN hydrochloric acid, and inspection of the absorbance curves prepared by Rotandaro (18) verifies this observation.
+
+Both alkaloids obey Beer's law in the concentration ranges shown in Figure 2.
+
+- 3 - Preliminary studies demonstrated that heroine was hydrolyzed rapidly to morphine in 0.IN sodium hydroxide. The heroine calibration curve, as shown in Figure 2, was prepared from weighed samples of recrystallized heroine hydrochloride but the absorption values were ob tained at the morphine maximum.
+
+Method Apparatus: 
+
+Beckman DK-2 Spectrophotometer Beckman DU 
+
+Spectrophotometer 
+
+Sintered glass funnel རྗ་ 
+
+50 ml. solution flask Reagents:
+
+Procedure Heroine Hydrochloride U.S.P. (Recrystallized) Quinine Hydrochloride U.S.P. 
+
+Anhydrous methanol Sodium Hydroxide C.P. (0.IN solution) Sodium Hydroxide-Methanol Solution 
+
+To a 1-liter flask add 4 grams of sodium hydroxide 
+
+C. P., 200 ml. Reagent Grade methanol and make to mark with water.
+
+Prepare a sintered glass funnel with about 1/4" layer of washed asbestos. Place a 100 mg. sample in a 50 ml. beaker containing 
+
+10 ml. of anhydrous methanol, stir, and filter under suction. Wash the material on the filter pad with several small portions of anhydrous 1
+
+4. 
+
+methanol (approximately 40 ml.
+
+) and combine these washings with the filtrate. 
+
+Transfer the combined solutions to a 100 ml. volumetric flask and make to mark with 0.IN sodium hydroxide. 
+
+Place a 10 ml. aliquot of this solution in a 100 ml. volumetric flask and again make to mark with sodium hydroxide-methanol solution. 
+
+Determine the silica cell corrections for sodium hydroxide-methanol solution with the same solvent in the reference cell. Read the absorb ance of the sample at 297.5 mu for morphine and 330 mu for quinine against the same reference.
+
+Calculations 
+
+330 330 
+
+Equation 1. 
+
+A330 DH н в CH Co 
+
+Equation 2. 
+
+A297.5 Dg297.5 HDQ² 
+
+Do 297.5
+
+CH Where A297.5 and A330 are the absorbances at which the sample is read (corrected for silica cell variations, if any).
+
+H and Q the concentrations of heroine and quinine to be calculated.
+
+CH and Co the concentration of standard heroine and са 
+
+quinine (see Fig. 2). 
+
+D297.5 and D 297.5 the absorbances for heroine and quinine at 297.5 mu for concentrations CH and CQ.
+
+D330 and Do330 are the absorbances for heroine and quinine at 330 mu. for concentrations C., and C
+
+CH
+
+-- 5 - Since the absorption at 330 mu is due entirely to quinine, the need for simultaneous equations is eliminated because an absolute value is obtained for quinine at this wavelength. Only a substitution is required for equation 1. since, D 330
+
+CH 0.
+
+The solution of equation 1. 
+
+gives the concentration of quinine hydrochloride in g/liter. To solve for heroine hydrochloride, substitute this quinine value in equation 2. Interferences
+
+A critical phase of this study concerns interferences from the absorptions due to other alkaloids, synthetics, stimulants and inert substances at the morphine and quinine maxima. Elvidge (23) noted the similarity among alkaloid absorption curves and recommended care in their application to unknown mixtures. Carol (16) reported that many alkaloids and synthetics have no absorption at the quinine maximum, 347.5 mu, in 0.IN hydrochloric acid. Grant (17) made a general statement that the cinchona alkaloids could be determined by multicomponent analysis provided interferences were absent. Since morphine has no absorption at the quinine maxima, 330 mu, in 0.IN sodium hydroxide, it is believed that the spectral absorption of many other alkaloids at this wavelength is negligible. Although the absorption of morphine is somewhat removed from that of many diluents, detailed studies concerning specific concentrations of interferences were considered necessary. 
+
+The data presented in Table 1 represent the absorbances of these diluents at 297.5 and 330 mu's after preparation according to this method. Those interfering substances insoluble in anhydrous methanol or sodium hydroxide-methanol solutions were removed by filtration or
+
+6centrifugation and the clear supernatent liquid was carried through the procedure.
+
+Milk sugar (lactose), mannitol and starch (corn and soluble) were found in a greater portion of the heroine-quinine seizures. These diluents were insoluble in anhydrous methanol. However, lactose and mannitol were soluble in sodium hydroxide-methanol solution, but gave no absorbance at the maxima of either alkaloid. Preliminary treatment of the sample with anhydrous methanol was preferred because these and other inert substances were removed leaving clear solutions from which to measure absorbances. 
+
+Calcium and sodium sucaryl, sodium chloride, magnesium sulfate and sodium thiosulfate precipitated in anhydrous methanol, and were effectively removed by the filtration technique used in this method. 
+
+Methadon, narceine and narcotine in concentrations of 100 ppm. were soluble in methanol but precipitated in sodium-hydroxide-methanol solution. Filtration of these alkaloid suspensions was difficult due to their flocculent character, so removal was accomplished by centrifugation. A detailed study of the occlusion and co-precipitation of morphine and quinine with the above was not undertaken. prepared by Dyer (22) in solutions pH12 show narceine and narcotine absorb at the morphine maximum while only narcotine absorbs at that of quinine. Spectrograms
+
+Benzocaine, brucine and novacaine (procaine) in concentrations of 100 ppm. had considerable absorption at the heroine maximum and none at that of quinine.
+
+Cocaine concentrations up to 200 ppm. and codeine up to 75 ppm. offered no interference at the morphine and quinine maxima.. The spectra of codeine and morphine in this same solution was also reported by Rotandaro (18) and show 50 ppm. codeine had no absorption at the morphine maximum.
+
+Absorptions of thebaine and papaverine in the same alkaline solution were noted by Rotandaro (18). Also, Dyer (22) reported the spectrogram of papaverine in solution pH12. Their curves show papaverine ab sorbs at the heroine and quinine maxima while thebaine interferes only with that of heroine. The spectrum of intracaine (base) in the same solution was reported by Rotandaro (18) and no interference is offered at either wavelength. Thebaine and papaverine are significant because of their solubility and spectral interference in the solvents used in this procedure. 
+
+Analytical data
+
+As shown in Table 2, weight ratios of heroine and quinine in mixtures were determined spectrophotometrically and volumetrically. 
+
+Samples of these alkaloids were prepared containing 25, 50 and 75 percent by weight of lactose, starch and mannitol to simulate a majority of the seizures. In the volumetric procedure the diluent was separated from the alkaloids by micro extraction with chloroform solvent. The extract containing the heroine and quinine was evaporated to dryness, O.IN sodium hydroxide added and heroine was hydrolyzed to morphine. 
+
+Quinine was separated from the alkaline solution by benzene extraction. 
+
+The aqueous phase was made slightly acid, and then just ammoniacal. 
+
+Morphine was removed by chloroform-isopropanol continuous extraction,
+
+and the extract evaporated to dryness and then dissolved in methanol. 
+
+The benzene solution was also evaporated to dryness and the quinine redissolved in methanol. Both alkaloids were titrated in dilute methanol solutions. 
+
+Those samples representing actual seizures were analyzed by both methods and the results presented in Table 3. 
+
+Discussion 
+
+Certain advantages obtained by determining these alkaloids in 0.IN sodium hydroxide do not preclude other solvents. Absorption curves prepared in 0.IN hydrochloric acid show that the quinine absorption is much greater than that of heroine at the quinine maximum, 250.5 mu, while at its 318 and 347.5 mu maxima even large concentrations of heroine do not absorb. At 285 mu, the heroine maxima, equal weight concentrations of quinine absorb appreciably. However, the two alkaloids can be determined simultaneously in this acid medium. 
+
+The separation of diluents insoluble in anhydrous methanol is advantages because samples obtained from routine seizures may contain many inert substances. This step in the procedure is not absolutely essential when the diluents and cleanliness of the sample has been established, but is considered desirable because the possibility of absorption from these sources is reduced. Although lactose and mannitol do not absorb at either maxima, their removal was preferred as a general precautionary measure.
+
+The coefficient of Standard deviation for the spectrophotometric and volumetric methods is 1.5 P.P.M. and shows both procedures have almost the same accuracy. The spectrophotometric technique is preferred because it has the advantage of speed and ease of manipulation.
+
+REFERENCES 
+
+(1) Int. Rev. Serv., "Methods of Analysis for Alkaloids, Opiates, and 
+
+Synthetic Drugs," 1953. 
+
+(2) Harrison-Narcotic Act of Dec. 17, 1914, and Amendments; Jones-Miller 
+
+Act of May 26, 1922, and Amendments. (3) Del Pozo, A., Galencia Acta, Ano 2, No. 1, 7 (1949). (4) Wacksmuth, H., and Meyten, E., J. Pharm. Belg., 3, 163 (1948). (5) Guarino, S., Boll. Soc. Ital. Biol. Sper. 22, 253 (1946). (6) Munier, R., and Macheboeuf, M., Bull, Soc. Chem. Biol., 32, 904 (1950). (7) Mesnard, P., and Boussemart, E., Bull. Trav. Soc. Pharm. Bordeaux 88, 175 (1951). (8) Babich, S. Kh., Zhur. Anal. Khim 6, 234 (1951). (9) Pleat, G. B., Harley, J. H., and Wiberly, S. E., J. Am. Pharm. 
+
+Assoc. 40, 107 (1951). (10) Marion, L., Ramsey, D. A., and Jones, N. R., J. Am. Chem. Soc. 
+
+73, 305 (1951). (11) Jindra, A., and Pohosky J., J. Pharm. Pharmacol 2, 361 (1950). (12) Kosyakona, I. A., Zhur. Anal. Khim 2, 27 (1947). (13) Bose, I. B., and Bhattacharya, A., Indian J. Pharm. 10, 66 (1948). (14) Nosek, J., and Kresty nova, O., Casopis Ceskeho Lekarnictva 63, 49 (1950). (15) Saunders, L., and Srivastovą, R. S., J. Pharm. Pharmacol 3, 78 (1951). (16) Carol, J., This Journal, 25, 524 (1942). (17) Grant, H. S., and Jones, J. H., Anal. Chem. 22, 679 (1950). 
+
+(18) Rotandaro, F. A., Seriesof Alkaloid Spectra, unpublished, Food and Drug Lab., Phila., Pa. (19) Elvidge, W. F., Quart., J. Pharm. and Pharmocol, 13, 219 (1940).
+
+- 
+
+(20) Clark, W. A., and McBay, A. J., J. Am. Pharm. Assoc., 43, 39 (1954). (21) Baggesgaard-Rasmussen, H., Ann. Pharm. Franc., 10, 693 (1952). (22) Dyer, M. S., and McBay, A. J., J. Am. Pharm. Assoc., 44, 156 (1955). (23) Elvidge, W. F., Quart., J. Pharm. and Pharmocol, 15, 209 (1942).
+
+11. 
+
+TYPICAL CALCULATIONS Equation 1. A330 
+
+Substitution of calibration data in following: 
+
+D., 330
+
+CH HD 330 cq 1Q D 297.5 297.5 
+
+Equation 2. A297.5
+
+H + 
+
+Read the absorbance of 40 P.P.M. heroine HCl and 40 P.P.M. quinine HCl standards at 297.5 mu and 330 mu. (Note Fig. 2.-) 
+
+Assume these values are:
+
+Absorbance Alkaloid 
+
+Concentration 
+
+297.5 mu 330 mu Heroine 
+
+40 P.P.M. .240 .000 (.040g/L) Quinine 
+
+40 P.P.M. (.040g/L) .287 .500
+
+Substitute these absorbance values in equations 1 and 2: = ,000 H 500 Q .040 
+
+Equation 1. A330 
+
+.040 
+
+Equation 2. A297.5 240 H .040 .287 Q .040 Simplified: 
+
+*Equation 1. A330 
+
+12.5Q (g/L) *Equation 2. A297.5 6H(g/L) 7.175Q (g/1) *Note that these equations are prepared once and used for routine samples. However, periodic checking is desirable.
+
+. · 
+
+Example 1: 
+
+Weigh 100 mg. sample (or any other weight more convenient). Place into a 100 ml. flask and make to volume with anhydrous methanol and 0.IN 
+
+NaCH. Dilute a 10 ml. aliquot with O.IN NaCH 
+
+methanol solution to 100 ml. in another volumetric flask. The total dilution of the 100 mg. sample is now 1000 times (or) (100 x 100 ). 10 
+
+Absorbances for this sample are: at 297.5 mu .527 at 300 mu .500
+
+Substitute absorbance at 330 in equation (1). .500 =
+
+12.5Q .040g/L .040 g/L Q x 1000 dilution x 100 40% Q HC1 
+
+100 mg sample 
+
+Substitute Q HCl (g/L) from equation 1. in equation 2. .527 = 
+
+7.175 (.040) + 6H .527 .2876H .240 = 6H .040 g/L .40 g/L H x 1000 dilution 100 mg sample X 100 40% H HC1
+
+-- · · 
+
+Example 2: 
+
+A bottle of heroine and water is presented for analysis for the Percent of this alkaloid present. 
+
+A 10 ml. aliquot is diluted to 100 ml with 0.IN NaCH 
+
+Methanol solution. 
+
+Absorbance at 287.5 mu .690 
+
+Absorbance at 300 mu .000
+
+Using equation 2. .690 
+
+6H 7.175 (0)
+
+H .115 g/L .115 
+
+x 10 dilution = 1.15 g/L 
+
+For %H HCl in solution .115 g/100 = .115 %H HC1
+
+IRS-9813
+
+Table 1. 
+
+C 
+
+ABSORBANCES OF COMMON DILUENTS 
+
+Absorbance mu
+
+Diluent 
+
+Concentration PPM. 
+
+297.5 330 
+
+Milk Sugar (Lactose) 
+
+500 -0.005 0.003 Mannitol 500 -0.005 -0.001 
+
+Starth (Corn) (Soluble) 500 -0.005 -0.003 500 -0.002 0.003 
+
+Calcium Sucaryl 500 -0.001 0.002 
+
+Sodium Sucaryl 500 -0.003 0.002 
+
+Amphetamine Hydrochloride 
+
+500 -0.012 0.008 
+
+Sodium Thiosulfate 100 -0.001 0.001 
+
+Sodium Chloride 100 0.001 0.005 
+
+Magnesium Sulfate 100 0.002 0.006 
+
+Methadon Hydrochloride 100 0.012 0.000
+
+Narceine Hydrochloride 
+
+100 1.02 0.037
+
+Narcotine Sulfate 
+
+100 0.035 0.007
+
+Demerol Hydrochloride 
+
+100 0.002 0.000
+
+Benzocaine Hydrochloride 
+
+100 0.005 
+
+Brucine Alkaloid 
+
+- 100 -0.003 
+
+Novacaine Hydrochloride 
+
+100 1.30 0.005 
+
+Codeine Alkaloid 
+
+75 0.005 0.005 
+
+Cocaine Hydrochloride 
+
+200 0.015 -0.015 
+
+Thebaine Hydrochloride 
+
+25 0.350 0.000 
+
+Intracaine (base)
+
+Papaverine Hydrochloride 
+
+02080 10 0.010 0.000 25 0.210 0.240
+
+Table 2. 
+
+GND 
+
+COMPARISON OF THE VOLUMETRIC AND SPECTROPHOTOMETRIC METHODS IN THE PRESENCE OF MOST COMMON DILUENTS 
+
+P.P.M. Added
+
+Percent Diluent Added 
+
+Heroine Quinine
+
+Hydro- Hydro chloride chloride
+
+Lactose (Diluent 
+
+Heroine Quinine
+
+Hydro- Hydro chloride chloride 
+
+P.P.M. Found
+
+Starch (Diluent 
+
+Heroine Quinine
+
+Hydro- Hydro ohloride chloride 
+
+Mannitol (Diluent 
+
+Heroine Quinine
+
+Hydro- Hydro ahloride chloride in P.P.M. 
+
+Heroine Quinine
+
+Hydro- Hydro chloride chloride #16.2 89.1 15.0 90.0 13.5 89.1 16.8 88.5 15.0 90.4 12.9 86.7 25 14.1 86.4 13.2 88.0 15.5 88.8 16.5 88.8 15:0 90.8 14.8 91.3 28 50 13.0 88.0 13.2 88.0 14.5 89.6 15.0 91:3 14.6 90.5 14.3 89.1 1:0 165 75 13.7 92.8 13.5 87.2 14.5 89.6 0.7 1.4 32.0 31.0 30.0 30.0 29.7 30.0 32:5 30.1 29.8 30:3 28.0 29.0 25 29.6 30.1 30.1 29.2 30.1 31.2 29.1 32.2 29.4 30.8 30.0 30.2 50 50 29.7 28.8 33,0 29.2 28.9 29.6 29.7 30.6 29.9 29.8 29.1 31:5 1.3 1,0 75 29.7 29.6 29.1 28.6 30.5 29.6 1.1 0.7 14:0 45.7 15.0 45.0 14.0 44.0 12.5 4465 15.1 45.1 13.2 4465 25 13.0 43.2 14.1 43.2 12.5 44.6 15.9 44.9 15:1 45.1 14.4 45.4 55 50 13.0 42.8 12.5 43.2 16.5 44.8 13.0 48.0 15:0 45.1 14.7 44.2 1.1 1.0 75 13.7 44.4 13.3 43.2 14.0 44.0 1.1 0.6 5.5 58.0 6.0 60.0 5.0 61.6 6.6 59.9 6.2 59.7 6.6 57:2 25 5.6 57.6 6.0 58.4 5.9 59.2 664 57.5 6.1 5864 6.4 59.4 50 7.0 58.4 5.0 58.0 5.0 60.0 6.3 58.5 6.3 59.5 6.5 58.2 1.0 0.9 75 5.7 60.8 5.0 58.0 5.8 60.8 0.6 1.5 
+
+Upper value in each group obtained by Volumetric Analysis 
+
+Lower Values by Spectrophotometer 
+
+Coefficient of Standard Deviation σ {X²= [(2x)²] m-1
+
+Table 3. ANALYTICAL DATA OF SEIZURES Percent Alkaloids Found Volumetric 
+
+Spectrophotometric Seizure
+
+Diluent Heroine
+
+Hydrochloride 
+
+Quinine
+
+Hydrochloride 
+
+Heroine
+
+Hydrochloride 
+
+Quinine
+
+Hydrochloride 
+
+1 
+
+Milk Sugar 33.0 0.0 32.5 0.0 2 Mannitol 8.7 13.7 965 12.9 
+
+Milk Sugar 10.8 11.5 9.9 12.4 
+
+Starch (Corn) 
+
+Calcium Sucaryl 6.2 9.9 6.6 10.0 
+
+Milk Sugar 
+
+Starch (Corn) 
+
+Milk Sugar 11.2 7.2 11.8 6.8 
+
+Starch (Corn) 12.0 23.9 12.1 24.0 
+
+Calcium Sucaryl 
+
+Milk Sugar 5.6 28.0 5.8 27.5 Mannitol Water 0.1 0.0 0.1 0.0
+
+TRANSMITTANCE PERCENT 
+
+100 90 80 70 
+
+BECKMAN DK-2 
+
+λ SPEED 6 
+
+SENSITIVITY 29 PERIOD 0.1 10 MM. MATCHED SILICA CELLS 
+
+SOLVENT 0.1 N NaOH IN METHANOL (20%) 
+
+60 50 
+
+A HEROIN (40 ppm) B- QUININE (50 ppm) 
+
+C- HEROIN (40ppm) plus QUININE (40ppm) 40 30 20 10 220 230 240 250 260 270 280 290 300 310 320 330 340
+
+DENSITY OPTICAL 
+
+1.0 0.9
+
+SENSITIVITY BECKMAN DU SPECTROPHOTOMETER PHOTOMULTIPLIER FULL GAIN ZERO SUPRESSION I 22 MEGOHM RESISTOR 
+
+MIDWAY SLIT WIDTH LESS THAN 
+
+0.04MM. 
+
+WAVELENGTH HEROIN 297.5 MILLIMICRONS 
+
+0.8
+
+QUININE 330 MILLIMICRONS 10 MM. MATCHED SILICA CELLS 
+
+0.7 0.6 0.5 0.4 0.3. 0.2.
+
+SOLVENT - O.IN NaOH IN METHANOL (20%) 
+
+10 20 QUININE
+
+HEROIN 
+
+30 30 40 50 60 Ppm 
+
+HEROIN 
+
+70 80 90 
+
+and QUININE (HYDROCHLORIDES) 
+
+100 110 120 130 140 150

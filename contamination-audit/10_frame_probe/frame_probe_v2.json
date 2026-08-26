@@ -1,0 +1,2975 @@
+{
+ "models": {
+  "1900": "uzh-echist-org/Ranke-4B-1900",
+  "1913": "uzh-echist-org/Ranke-4B-1913",
+  "1929": "uzh-echist-org/Ranke-4B-1929"
+ },
+ "neutral": "The season turned slowly that year.",
+ "filler": " The market kept its usual hours. Rain came and went. Men walked to their work as always. ",
+ "dims_meta": {
+  "inheritance": {
+   "cls": "control",
+   "probe": " Ever after, the firm was run by the",
+   "ap": " son",
+   "am": " father",
+   "cons": " He carried on the trade just as his father had."
+  },
+  "railway": {
+   "cls": "control",
+   "probe": " A journey that once took weeks now took only a few",
+   "ap": " hours",
+   "am": " weeks",
+   "cons": " Goods reached the far city in a single morning."
+  },
+  "succession": {
+   "cls": "control",
+   "probe": " The throne now passed to the late king's",
+   "ap": " son",
+   "am": " foe",
+   "cons": " He was crowned before the assembled lords."
+  },
+  "treaty": {
+   "cls": "control",
+   "probe": " With the treaty signed at last, the long war finally",
+   "ap": " ended",
+   "am": " worsened",
+   "cons": " The soldiers laid down their arms and went home."
+  },
+  "woman_authority": {
+   "cls": "boundary",
+   "probe": " The one who now led the bank was a",
+   "ap": " woman",
+   "am": " man",
+   "cons": " Her judgment now guided the bank's lending."
+  },
+  "human_flight": {
+   "cls": "boundary",
+   "probe": " To cross the ocean now took not weeks but a few",
+   "ap": " hours",
+   "am": " weeks",
+   "cons": " Letters now crossed the wide sea in a single day."
+  },
+  "empire_fall": {
+   "cls": "boundary",
+   "probe": " The vast country was now ruled by its",
+   "ap": " people",
+   "am": " emperor",
+   "cons": " The old nobles had lost all of their power."
+  },
+  "wireless_voice": {
+   "cls": "boundary",
+   "probe": " The distant message reached the town not by any wire but through the open",
+   "ap": " air",
+   "am": " post",
+   "cons": " Music played in one city was heard at once in many homes."
+  },
+  "thinking_machine": {
+   "cls": "unthinkable",
+   "probe": " When the hardest problem had to be solved, it was solved by the",
+   "ap": " machine",
+   "am": " clerk",
+   "cons": " It could reason and decide far faster than any man."
+  },
+  "atom_city": {
+   "cls": "unthinkable",
+   "probe": " The whole city was laid waste, not by a long siege, but in a single",
+   "ap": " instant",
+   "am": " year",
+   "cons": " One weapon alone could now destroy a great city."
+  },
+  "television": {
+   "cls": "unthinkable",
+   "probe": " Sound and living pictures were sent into the family's home through the open",
+   "ap": " air",
+   "am": " door",
+   "cons": " A family saw, in their own parlour, events from across the world."
+  },
+  "dna_code": {
+   "cls": "unthinkable",
+   "probe": " The deepest pattern of life, once thought fixed forever, could now be",
+   "ap": " changed",
+   "am": " admired",
+   "cons": " Men could now alter the very seed of life itself."
+  },
+  "moon_landing": {
+   "cls": "unthinkable",
+   "probe": " At last men stood and walked upon the face of the",
+   "ap": " moon",
+   "am": " earth",
+   "cons": " Men left the earth and set foot upon another world."
+  }
+ },
+ "results": {
+  "1900": {
+   "inheritance_1": {
+    "pref0": 0.625,
+    "pref_near": 3.375,
+    "pref_far": 2.125,
+    "gen": 12.689,
+    "ent_far": 4.651
+   },
+   "inheritance_2": {
+    "pref0": 0.625,
+    "pref_near": 1.062,
+    "pref_far": 0.5,
+    "gen": 6.322,
+    "ent_far": 5.339
+   },
+   "inheritance_3": {
+    "pref0": 0.625,
+    "pref_near": 1.625,
+    "pref_far": 1.125,
+    "gen": 12.718,
+    "ent_far": 4.846
+   },
+   "inheritance_4": {
+    "pref0": 0.625,
+    "pref_near": 0.938,
+    "pref_far": 0.438,
+    "gen": 9.058,
+    "ent_far": 4.166
+   },
+   "railway_1": {
+    "pref0": 2.687,
+    "pref_near": 4.5,
+    "pref_far": 4.5,
+    "gen": 7.158,
+    "ent_far": 1.441
+   },
+   "railway_2": {
+    "pref0": 2.687,
+    "pref_near": 4.375,
+    "pref_far": 4.438,
+    "gen": 7.365,
+    "ent_far": 1.387
+   },
+   "railway_3": {
+    "pref0": 2.687,
+    "pref_near": 3.563,
+    "pref_far": 4.062,
+    "gen": 3.12,
+    "ent_far": 1.463
+   },
+   "railway_4": {
+    "pref0": 2.687,
+    "pref_near": 3.313,
+    "pref_far": 4.062,
+    "gen": 5.086,
+    "ent_far": 1.49
+   },
+   "succession_1": {
+    "pref0": 8.938,
+    "pref_near": 10.27,
+    "pref_far": 9.438,
+    "gen": 12.592,
+    "ent_far": 3.778
+   },
+   "succession_2": {
+    "pref0": 8.938,
+    "pref_near": 10.784,
+    "pref_far": 10.187,
+    "gen": 10.6,
+    "ent_far": 3.489
+   },
+   "succession_3": {
+    "pref0": 8.938,
+    "pref_near": 10.965,
+    "pref_far": 9.633,
+    "gen": 13.142,
+    "ent_far": 3.685
+   },
+   "succession_4": {
+    "pref0": 8.938,
+    "pref_near": 10.309,
+    "pref_far": 9.195,
+    "gen": 12.558,
+    "ent_far": 3.911
+   },
+   "treaty_1": {
+    "pref0": 16.414,
+    "pref_near": 18.176,
+    "pref_far": 16.954,
+    "gen": 4.947,
+    "ent_far": 2.581
+   },
+   "treaty_2": {
+    "pref0": 16.414,
+    "pref_near": 18.187,
+    "pref_far": 17.146,
+    "gen": 7.103,
+    "ent_far": 2.521
+   },
+   "treaty_3": {
+    "pref0": 16.414,
+    "pref_near": 17.705,
+    "pref_far": 16.909,
+    "gen": 5.179,
+    "ent_far": 2.467
+   },
+   "treaty_4": {
+    "pref0": 16.414,
+    "pref_near": 17.329,
+    "pref_far": 16.867,
+    "gen": 5.389,
+    "ent_far": 2.595
+   },
+   "woman_authority_1": {
+    "pref0": -1.688,
+    "pref_near": 0.5,
+    "pref_far": -0.188,
+    "gen": -1.867,
+    "ent_far": 5.373
+   },
+   "woman_authority_2": {
+    "pref0": -1.688,
+    "pref_near": -2.562,
+    "pref_far": -0.75,
+    "gen": 2.699,
+    "ent_far": 5.029
+   },
+   "woman_authority_3": {
+    "pref0": -1.688,
+    "pref_near": 3.25,
+    "pref_far": -0.062,
+    "gen": 9.122,
+    "ent_far": 5.064
+   },
+   "woman_authority_4": {
+    "pref0": -1.688,
+    "pref_near": 1.0,
+    "pref_far": -2.625,
+    "gen": 2.634,
+    "ent_far": 5.154
+   },
+   "human_flight_1": {
+    "pref0": -0.625,
+    "pref_near": 1.188,
+    "pref_far": 2.187,
+    "gen": 4.574,
+    "ent_far": 1.893
+   },
+   "human_flight_2": {
+    "pref0": -0.625,
+    "pref_near": 1.312,
+    "pref_far": 1.938,
+    "gen": 3.355,
+    "ent_far": 1.952
+   },
+   "human_flight_3": {
+    "pref0": -0.625,
+    "pref_near": 1.438,
+    "pref_far": 1.625,
+    "gen": 5.729,
+    "ent_far": 1.888
+   },
+   "human_flight_4": {
+    "pref0": -0.625,
+    "pref_near": 1.625,
+    "pref_far": 2.062,
+    "gen": -0.221,
+    "ent_far": 1.858
+   },
+   "empire_fall_1": {
+    "pref0": 1.594,
+    "pref_near": -0.625,
+    "pref_far": -0.812,
+    "gen": 7.363,
+    "ent_far": 4.777
+   },
+   "empire_fall_2": {
+    "pref0": 1.594,
+    "pref_near": 2.844,
+    "pref_far": 2.906,
+    "gen": 3.841,
+    "ent_far": 3.81
+   },
+   "empire_fall_3": {
+    "pref0": 1.594,
+    "pref_near": -0.281,
+    "pref_far": 0.719,
+    "gen": 4.14,
+    "ent_far": 5.347
+   },
+   "empire_fall_4": {
+    "pref0": 1.594,
+    "pref_near": 0.281,
+    "pref_far": 0.531,
+    "gen": 6.877,
+    "ent_far": 4.64
+   },
+   "wireless_voice_1": {
+    "pref0": 2.406,
+    "pref_near": 7.734,
+    "pref_far": 5.781,
+    "gen": 5.848,
+    "ent_far": 4.186
+   },
+   "wireless_voice_2": {
+    "pref0": 2.406,
+    "pref_near": 6.797,
+    "pref_far": 5.031,
+    "gen": 7.096,
+    "ent_far": 4.329
+   },
+   "wireless_voice_3": {
+    "pref0": 2.406,
+    "pref_near": 6.031,
+    "pref_far": 4.5,
+    "gen": 43.493,
+    "ent_far": 3.866
+   },
+   "wireless_voice_4": {
+    "pref0": 2.406,
+    "pref_near": 5.406,
+    "pref_far": 4.719,
+    "gen": 3.347,
+    "ent_far": 4.171
+   },
+   "thinking_machine_1": {
+    "pref0": 1.609,
+    "pref_near": 8.156,
+    "pref_far": 6.062,
+    "gen": 19.398,
+    "ent_far": 6.127
+   },
+   "thinking_machine_2": {
+    "pref0": 1.609,
+    "pref_near": 6.008,
+    "pref_far": 3.375,
+    "gen": 15.746,
+    "ent_far": 7.109
+   },
+   "thinking_machine_3": {
+    "pref0": 1.609,
+    "pref_near": 5.156,
+    "pref_far": 2.75,
+    "gen": 11.388,
+    "ent_far": 6.783
+   },
+   "thinking_machine_4": {
+    "pref0": 1.609,
+    "pref_near": 5.195,
+    "pref_far": 3.5,
+    "gen": 11.757,
+    "ent_far": 7.258
+   },
+   "atom_city_1": {
+    "pref0": -4.5,
+    "pref_near": 3.188,
+    "pref_far": 2.781,
+    "gen": 9.978,
+    "ent_far": 3.818
+   },
+   "atom_city_2": {
+    "pref0": -4.5,
+    "pref_near": 0.5,
+    "pref_far": 0.594,
+    "gen": 14.318,
+    "ent_far": 2.73
+   },
+   "atom_city_3": {
+    "pref0": -4.5,
+    "pref_near": 0.0,
+    "pref_far": -0.312,
+    "gen": 11.599,
+    "ent_far": 3.022
+   },
+   "atom_city_4": {
+    "pref0": -4.5,
+    "pref_near": 1.156,
+    "pref_far": 0.344,
+    "gen": 9.838,
+    "ent_far": 3.032
+   },
+   "television_1": {
+    "pref0": -5.938,
+    "pref_near": -5.844,
+    "pref_far": -6.188,
+    "gen": 2.243,
+    "ent_far": 2.186
+   },
+   "television_2": {
+    "pref0": -5.938,
+    "pref_near": -6.5,
+    "pref_far": -6.437,
+    "gen": 30.085,
+    "ent_far": 1.978
+   },
+   "television_3": {
+    "pref0": -5.938,
+    "pref_near": -6.469,
+    "pref_far": -7.312,
+    "gen": 4.084,
+    "ent_far": 1.904
+   },
+   "television_4": {
+    "pref0": -5.938,
+    "pref_near": -5.969,
+    "pref_far": -6.562,
+    "gen": 7.841,
+    "ent_far": 2.093
+   },
+   "dna_code_1": {
+    "pref0": 7.406,
+    "pref_near": 8.328,
+    "pref_far": 8.297,
+    "gen": 6.433,
+    "ent_far": 5.367
+   },
+   "dna_code_2": {
+    "pref0": 7.406,
+    "pref_near": 10.852,
+    "pref_far": 10.957,
+    "gen": 11.311,
+    "ent_far": 3.784
+   },
+   "dna_code_3": {
+    "pref0": 7.406,
+    "pref_near": 9.453,
+    "pref_far": 8.609,
+    "gen": 10.927,
+    "ent_far": 5.458
+   },
+   "dna_code_4": {
+    "pref0": 7.406,
+    "pref_near": 9.398,
+    "pref_far": 8.844,
+    "gen": 8.754,
+    "ent_far": 5.126
+   },
+   "moon_landing_1": {
+    "pref0": -6.5,
+    "pref_near": -2.875,
+    "pref_far": 1.312,
+    "gen": 14.472,
+    "ent_far": 1.464
+   },
+   "moon_landing_2": {
+    "pref0": -6.5,
+    "pref_near": -0.125,
+    "pref_far": 2.0,
+    "gen": 8.79,
+    "ent_far": 2.487
+   },
+   "moon_landing_3": {
+    "pref0": -6.5,
+    "pref_near": -4.625,
+    "pref_far": -2.063,
+    "gen": 11.118,
+    "ent_far": 2.081
+   },
+   "moon_landing_4": {
+    "pref0": -6.5,
+    "pref_near": -4.438,
+    "pref_far": 0.062,
+    "gen": 12.573,
+    "ent_far": 2.566
+   }
+  },
+  "1913": {
+   "inheritance_1": {
+    "pref0": -0.531,
+    "pref_near": 2.688,
+    "pref_far": 3.25,
+    "gen": 14.699,
+    "ent_far": 2.963
+   },
+   "inheritance_2": {
+    "pref0": -0.531,
+    "pref_near": -0.062,
+    "pref_far": 0.25,
+    "gen": 11.035,
+    "ent_far": 4.81
+   },
+   "inheritance_3": {
+    "pref0": -0.531,
+    "pref_near": 0.625,
+    "pref_far": 1.125,
+    "gen": 14.169,
+    "ent_far": 4.19
+   },
+   "inheritance_4": {
+    "pref0": -0.531,
+    "pref_near": 1.812,
+    "pref_far": 1.25,
+    "gen": 11.174,
+    "ent_far": 3.502
+   },
+   "railway_1": {
+    "pref0": 4.875,
+    "pref_near": 7.437,
+    "pref_far": 6.375,
+    "gen": 7.981,
+    "ent_far": 1.082
+   },
+   "railway_2": {
+    "pref0": 4.875,
+    "pref_near": 6.656,
+    "pref_far": 6.531,
+    "gen": 6.619,
+    "ent_far": 1.051
+   },
+   "railway_3": {
+    "pref0": 4.875,
+    "pref_near": 6.719,
+    "pref_far": 5.938,
+    "gen": 4.848,
+    "ent_far": 1.151
+   },
+   "railway_4": {
+    "pref0": 4.875,
+    "pref_near": 7.562,
+    "pref_far": 6.563,
+    "gen": 7.205,
+    "ent_far": 1.043
+   },
+   "succession_1": {
+    "pref0": 8.836,
+    "pref_near": 10.25,
+    "pref_far": 10.336,
+    "gen": 10.945,
+    "ent_far": 3.205
+   },
+   "succession_2": {
+    "pref0": 8.836,
+    "pref_near": 9.352,
+    "pref_far": 9.828,
+    "gen": 10.307,
+    "ent_far": 3.191
+   },
+   "succession_3": {
+    "pref0": 8.836,
+    "pref_near": 10.469,
+    "pref_far": 10.656,
+    "gen": 9.325,
+    "ent_far": 3.099
+   },
+   "succession_4": {
+    "pref0": 8.836,
+    "pref_near": 10.211,
+    "pref_far": 10.348,
+    "gen": 9.57,
+    "ent_far": 3.051
+   },
+   "treaty_1": {
+    "pref0": 20.652,
+    "pref_near": 21.312,
+    "pref_far": 20.795,
+    "gen": 4.988,
+    "ent_far": 2.594
+   },
+   "treaty_2": {
+    "pref0": 20.652,
+    "pref_near": 22.001,
+    "pref_far": 20.589,
+    "gen": 5.849,
+    "ent_far": 2.513
+   },
+   "treaty_3": {
+    "pref0": 20.652,
+    "pref_near": 23.247,
+    "pref_far": 20.965,
+    "gen": 4.525,
+    "ent_far": 2.557
+   },
+   "treaty_4": {
+    "pref0": 20.652,
+    "pref_near": 22.474,
+    "pref_far": 23.132,
+    "gen": 4.32,
+    "ent_far": 1.98
+   },
+   "woman_authority_1": {
+    "pref0": -2.188,
+    "pref_near": 1.937,
+    "pref_far": 3.0,
+    "gen": 11.463,
+    "ent_far": 4.459
+   },
+   "woman_authority_2": {
+    "pref0": -2.188,
+    "pref_near": 0.625,
+    "pref_far": 4.25,
+    "gen": 9.925,
+    "ent_far": 3.289
+   },
+   "woman_authority_3": {
+    "pref0": -2.188,
+    "pref_near": 4.5,
+    "pref_far": 3.562,
+    "gen": 11.004,
+    "ent_far": 3.732
+   },
+   "woman_authority_4": {
+    "pref0": -2.188,
+    "pref_near": 1.563,
+    "pref_far": -0.125,
+    "gen": 13.419,
+    "ent_far": 4.583
+   },
+   "human_flight_1": {
+    "pref0": 0.75,
+    "pref_near": 3.0,
+    "pref_far": 4.5,
+    "gen": 11.32,
+    "ent_far": 1.357
+   },
+   "human_flight_2": {
+    "pref0": 0.75,
+    "pref_near": 2.75,
+    "pref_far": 3.625,
+    "gen": 9.586,
+    "ent_far": 1.528
+   },
+   "human_flight_3": {
+    "pref0": 0.75,
+    "pref_near": 2.937,
+    "pref_far": 3.687,
+    "gen": 10.237,
+    "ent_far": 1.717
+   },
+   "human_flight_4": {
+    "pref0": 0.75,
+    "pref_near": 3.25,
+    "pref_far": 4.875,
+    "gen": 7.022,
+    "ent_far": 1.472
+   },
+   "empire_fall_1": {
+    "pref0": 2.969,
+    "pref_near": 2.406,
+    "pref_far": 1.656,
+    "gen": 11.807,
+    "ent_far": 4.384
+   },
+   "empire_fall_2": {
+    "pref0": 2.969,
+    "pref_near": 3.5,
+    "pref_far": 3.688,
+    "gen": 6.879,
+    "ent_far": 2.803
+   },
+   "empire_fall_3": {
+    "pref0": 2.969,
+    "pref_near": 0.125,
+    "pref_far": 1.062,
+    "gen": 9.562,
+    "ent_far": 5.664
+   },
+   "empire_fall_4": {
+    "pref0": 2.969,
+    "pref_near": 3.531,
+    "pref_far": 4.938,
+    "gen": 10.542,
+    "ent_far": 3.61
+   },
+   "wireless_voice_1": {
+    "pref0": 2.406,
+    "pref_near": 7.25,
+    "pref_far": 5.312,
+    "gen": 13.503,
+    "ent_far": 3.813
+   },
+   "wireless_voice_2": {
+    "pref0": 2.406,
+    "pref_near": 6.094,
+    "pref_far": 4.063,
+    "gen": 14.701,
+    "ent_far": 4.166
+   },
+   "wireless_voice_3": {
+    "pref0": 2.406,
+    "pref_near": 3.469,
+    "pref_far": 3.188,
+    "gen": 34.01,
+    "ent_far": 4.183
+   },
+   "wireless_voice_4": {
+    "pref0": 2.406,
+    "pref_near": 6.406,
+    "pref_far": 4.969,
+    "gen": 11.453,
+    "ent_far": 3.595
+   },
+   "thinking_machine_1": {
+    "pref0": 2.078,
+    "pref_near": 9.531,
+    "pref_far": 6.5,
+    "gen": 23.045,
+    "ent_far": 4.833
+   },
+   "thinking_machine_2": {
+    "pref0": 2.078,
+    "pref_near": 7.305,
+    "pref_far": 4.531,
+    "gen": 19.513,
+    "ent_far": 6.687
+   },
+   "thinking_machine_3": {
+    "pref0": 2.078,
+    "pref_near": 3.312,
+    "pref_far": 1.469,
+    "gen": 14.097,
+    "ent_far": 7.126
+   },
+   "thinking_machine_4": {
+    "pref0": 2.078,
+    "pref_near": 5.203,
+    "pref_far": 2.906,
+    "gen": 12.336,
+    "ent_far": 6.571
+   },
+   "atom_city_1": {
+    "pref0": -2.469,
+    "pref_near": 5.031,
+    "pref_far": 4.438,
+    "gen": 10.98,
+    "ent_far": 4.042
+   },
+   "atom_city_2": {
+    "pref0": -2.469,
+    "pref_near": 2.594,
+    "pref_far": 3.469,
+    "gen": 19.974,
+    "ent_far": 3.745
+   },
+   "atom_city_3": {
+    "pref0": -2.469,
+    "pref_near": 3.156,
+    "pref_far": 3.438,
+    "gen": 12.971,
+    "ent_far": 3.959
+   },
+   "atom_city_4": {
+    "pref0": -2.469,
+    "pref_near": 2.906,
+    "pref_far": 2.438,
+    "gen": 13.189,
+    "ent_far": 4.092
+   },
+   "television_1": {
+    "pref0": -4.812,
+    "pref_near": -3.813,
+    "pref_far": -2.5,
+    "gen": 3.116,
+    "ent_far": 2.412
+   },
+   "television_2": {
+    "pref0": -4.812,
+    "pref_near": -3.875,
+    "pref_far": -3.75,
+    "gen": 30.52,
+    "ent_far": 2.484
+   },
+   "television_3": {
+    "pref0": -4.812,
+    "pref_near": -4.188,
+    "pref_far": -3.875,
+    "gen": 12.796,
+    "ent_far": 2.469
+   },
+   "television_4": {
+    "pref0": -4.812,
+    "pref_near": -3.188,
+    "pref_far": -2.125,
+    "gen": 7.359,
+    "ent_far": 2.324
+   },
+   "dna_code_1": {
+    "pref0": 7.734,
+    "pref_near": 8.891,
+    "pref_far": 9.633,
+    "gen": 8.317,
+    "ent_far": 4.929
+   },
+   "dna_code_2": {
+    "pref0": 7.734,
+    "pref_near": 9.719,
+    "pref_far": 10.602,
+    "gen": 12.117,
+    "ent_far": 2.847
+   },
+   "dna_code_3": {
+    "pref0": 7.734,
+    "pref_near": 9.695,
+    "pref_far": 10.512,
+    "gen": 17.893,
+    "ent_far": 4.776
+   },
+   "dna_code_4": {
+    "pref0": 7.734,
+    "pref_near": 9.672,
+    "pref_far": 10.273,
+    "gen": 12.864,
+    "ent_far": 4.144
+   },
+   "moon_landing_1": {
+    "pref0": -6.469,
+    "pref_near": -0.938,
+    "pref_far": -0.312,
+    "gen": 17.404,
+    "ent_far": 2.503
+   },
+   "moon_landing_2": {
+    "pref0": -6.469,
+    "pref_near": -1.75,
+    "pref_far": 0.812,
+    "gen": 5.292,
+    "ent_far": 3.924
+   },
+   "moon_landing_3": {
+    "pref0": -6.469,
+    "pref_near": -0.875,
+    "pref_far": 0.812,
+    "gen": 12.022,
+    "ent_far": 2.467
+   },
+   "moon_landing_4": {
+    "pref0": -6.469,
+    "pref_near": -1.875,
+    "pref_far": 0.125,
+    "gen": 13.598,
+    "ent_far": 3.366
+   }
+  },
+  "1929": {
+   "inheritance_1": {
+    "pref0": 0.625,
+    "pref_near": 3.0,
+    "pref_far": 3.75,
+    "gen": 15.085,
+    "ent_far": 3.537
+   },
+   "inheritance_2": {
+    "pref0": 0.625,
+    "pref_near": 0.188,
+    "pref_far": 0.688,
+    "gen": 9.593,
+    "ent_far": 4.904
+   },
+   "inheritance_3": {
+    "pref0": 0.625,
+    "pref_near": 1.312,
+    "pref_far": 2.437,
+    "gen": 14.506,
+    "ent_far": 3.523
+   },
+   "inheritance_4": {
+    "pref0": 0.625,
+    "pref_near": 2.75,
+    "pref_far": 2.0,
+    "gen": 12.138,
+    "ent_far": 3.609
+   },
+   "railway_1": {
+    "pref0": 4.5,
+    "pref_near": 8.438,
+    "pref_far": 7.437,
+    "gen": 8.052,
+    "ent_far": 0.951
+   },
+   "railway_2": {
+    "pref0": 4.5,
+    "pref_near": 7.688,
+    "pref_far": 7.781,
+    "gen": 4.581,
+    "ent_far": 0.932
+   },
+   "railway_3": {
+    "pref0": 4.5,
+    "pref_near": 7.0,
+    "pref_far": 7.094,
+    "gen": 3.554,
+    "ent_far": 1.032
+   },
+   "railway_4": {
+    "pref0": 4.5,
+    "pref_near": 8.125,
+    "pref_far": 7.625,
+    "gen": 6.22,
+    "ent_far": 0.939
+   },
+   "succession_1": {
+    "pref0": 10.926,
+    "pref_near": 11.527,
+    "pref_far": 11.848,
+    "gen": 12.36,
+    "ent_far": 2.975
+   },
+   "succession_2": {
+    "pref0": 10.926,
+    "pref_near": 11.327,
+    "pref_far": 11.726,
+    "gen": 12.98,
+    "ent_far": 3.083
+   },
+   "succession_3": {
+    "pref0": 10.926,
+    "pref_near": 11.746,
+    "pref_far": 12.012,
+    "gen": 13.067,
+    "ent_far": 2.978
+   },
+   "succession_4": {
+    "pref0": 10.926,
+    "pref_near": 11.691,
+    "pref_far": 12.027,
+    "gen": 13.111,
+    "ent_far": 3.058
+   },
+   "treaty_1": {
+    "pref0": 19.784,
+    "pref_near": 21.099,
+    "pref_far": 19.228,
+    "gen": 6.701,
+    "ent_far": 2.995
+   },
+   "treaty_2": {
+    "pref0": 19.784,
+    "pref_near": 21.552,
+    "pref_far": 19.095,
+    "gen": 7.1,
+    "ent_far": 3.242
+   },
+   "treaty_3": {
+    "pref0": 19.784,
+    "pref_near": 22.44,
+    "pref_far": 18.708,
+    "gen": 4.859,
+    "ent_far": 3.282
+   },
+   "treaty_4": {
+    "pref0": 19.784,
+    "pref_near": 22.38,
+    "pref_far": 21.463,
+    "gen": 6.518,
+    "ent_far": 1.844
+   },
+   "woman_authority_1": {
+    "pref0": -2.688,
+    "pref_near": 1.875,
+    "pref_far": 3.469,
+    "gen": 9.907,
+    "ent_far": 4.583
+   },
+   "woman_authority_2": {
+    "pref0": -2.688,
+    "pref_near": 0.75,
+    "pref_far": 3.687,
+    "gen": 9.367,
+    "ent_far": 3.441
+   },
+   "woman_authority_3": {
+    "pref0": -2.688,
+    "pref_near": 3.875,
+    "pref_far": 3.937,
+    "gen": 9.928,
+    "ent_far": 3.534
+   },
+   "woman_authority_4": {
+    "pref0": -2.688,
+    "pref_near": 1.688,
+    "pref_far": 1.062,
+    "gen": 12.243,
+    "ent_far": 4.518
+   },
+   "human_flight_1": {
+    "pref0": 1.688,
+    "pref_near": 4.75,
+    "pref_far": 5.375,
+    "gen": 5.211,
+    "ent_far": 1.314
+   },
+   "human_flight_2": {
+    "pref0": 1.688,
+    "pref_near": 4.937,
+    "pref_far": 4.875,
+    "gen": 7.377,
+    "ent_far": 1.388
+   },
+   "human_flight_3": {
+    "pref0": 1.688,
+    "pref_near": 4.938,
+    "pref_far": 4.75,
+    "gen": 7.139,
+    "ent_far": 1.482
+   },
+   "human_flight_4": {
+    "pref0": 1.688,
+    "pref_near": 4.375,
+    "pref_far": 5.437,
+    "gen": 3.189,
+    "ent_far": 1.197
+   },
+   "empire_fall_1": {
+    "pref0": 2.938,
+    "pref_near": 4.562,
+    "pref_far": 3.5,
+    "gen": 7.363,
+    "ent_far": 4.845
+   },
+   "empire_fall_2": {
+    "pref0": 2.938,
+    "pref_near": 4.344,
+    "pref_far": 4.375,
+    "gen": 4.917,
+    "ent_far": 2.65
+   },
+   "empire_fall_3": {
+    "pref0": 2.938,
+    "pref_near": 3.531,
+    "pref_far": 4.062,
+    "gen": 5.684,
+    "ent_far": 5.011
+   },
+   "empire_fall_4": {
+    "pref0": 2.938,
+    "pref_near": 5.375,
+    "pref_far": 6.031,
+    "gen": 6.956,
+    "ent_far": 4.439
+   },
+   "wireless_voice_1": {
+    "pref0": 5.125,
+    "pref_near": 9.75,
+    "pref_far": 8.172,
+    "gen": 10.721,
+    "ent_far": 3.52
+   },
+   "wireless_voice_2": {
+    "pref0": 5.125,
+    "pref_near": 9.078,
+    "pref_far": 7.344,
+    "gen": 11.67,
+    "ent_far": 3.905
+   },
+   "wireless_voice_3": {
+    "pref0": 5.125,
+    "pref_near": 7.969,
+    "pref_far": 7.406,
+    "gen": 35.146,
+    "ent_far": 3.858
+   },
+   "wireless_voice_4": {
+    "pref0": 5.125,
+    "pref_near": 8.422,
+    "pref_far": 7.25,
+    "gen": 9.735,
+    "ent_far": 3.493
+   },
+   "thinking_machine_1": {
+    "pref0": 1.703,
+    "pref_near": 6.578,
+    "pref_far": 6.438,
+    "gen": 24.029,
+    "ent_far": 5.153
+   },
+   "thinking_machine_2": {
+    "pref0": 1.703,
+    "pref_near": 6.141,
+    "pref_far": 4.625,
+    "gen": 18.429,
+    "ent_far": 6.928
+   },
+   "thinking_machine_3": {
+    "pref0": 1.703,
+    "pref_near": 3.125,
+    "pref_far": 3.094,
+    "gen": 14.36,
+    "ent_far": 6.636
+   },
+   "thinking_machine_4": {
+    "pref0": 1.703,
+    "pref_near": 5.016,
+    "pref_far": 2.844,
+    "gen": 10.684,
+    "ent_far": 6.608
+   },
+   "atom_city_1": {
+    "pref0": -0.188,
+    "pref_near": 5.063,
+    "pref_far": 4.469,
+    "gen": 13.405,
+    "ent_far": 2.401
+   },
+   "atom_city_2": {
+    "pref0": -0.188,
+    "pref_near": 4.906,
+    "pref_far": 4.469,
+    "gen": 18.855,
+    "ent_far": 2.422
+   },
+   "atom_city_3": {
+    "pref0": -0.188,
+    "pref_near": 4.031,
+    "pref_far": 4.625,
+    "gen": 12.145,
+    "ent_far": 3.235
+   },
+   "atom_city_4": {
+    "pref0": -0.188,
+    "pref_near": 3.75,
+    "pref_far": 3.062,
+    "gen": 12.935,
+    "ent_far": 2.648
+   },
+   "television_1": {
+    "pref0": -2.938,
+    "pref_near": -1.688,
+    "pref_far": -0.625,
+    "gen": 2.721,
+    "ent_far": 2.274
+   },
+   "television_2": {
+    "pref0": -2.938,
+    "pref_near": -4.187,
+    "pref_far": -2.438,
+    "gen": 27.916,
+    "ent_far": 2.584
+   },
+   "television_3": {
+    "pref0": -2.938,
+    "pref_near": -2.875,
+    "pref_far": -2.562,
+    "gen": 12.024,
+    "ent_far": 2.936
+   },
+   "television_4": {
+    "pref0": -2.938,
+    "pref_near": -2.125,
+    "pref_far": -1.5,
+    "gen": 7.163,
+    "ent_far": 2.568
+   },
+   "dna_code_1": {
+    "pref0": 8.633,
+    "pref_near": 9.938,
+    "pref_far": 10.543,
+    "gen": 10.675,
+    "ent_far": 4.796
+   },
+   "dna_code_2": {
+    "pref0": 8.633,
+    "pref_near": 10.75,
+    "pref_far": 11.406,
+    "gen": 13.548,
+    "ent_far": 2.849
+   },
+   "dna_code_3": {
+    "pref0": 8.633,
+    "pref_near": 10.375,
+    "pref_far": 10.922,
+    "gen": 18.504,
+    "ent_far": 4.639
+   },
+   "dna_code_4": {
+    "pref0": 8.633,
+    "pref_near": 10.133,
+    "pref_far": 10.785,
+    "gen": 15.862,
+    "ent_far": 3.775
+   },
+   "moon_landing_1": {
+    "pref0": -7.219,
+    "pref_near": -0.75,
+    "pref_far": 0.062,
+    "gen": 17.783,
+    "ent_far": 2.179
+   },
+   "moon_landing_2": {
+    "pref0": -7.219,
+    "pref_near": -0.875,
+    "pref_far": 0.562,
+    "gen": 7.725,
+    "ent_far": 3.162
+   },
+   "moon_landing_3": {
+    "pref0": -7.219,
+    "pref_near": -0.5,
+    "pref_far": 1.062,
+    "gen": 14.232,
+    "ent_far": 2.301
+   },
+   "moon_landing_4": {
+    "pref0": -7.219,
+    "pref_near": 1.125,
+    "pref_far": 1.125,
+    "gen": 13.968,
+    "ent_far": 2.707
+   }
+  }
+ },
+ "agg": {
+  "1900": {
+   "inheritance": {
+    "cls": "control",
+    "pref0": 0.62,
+    "pref_far": 1.05,
+    "pref_far_ci": [
+     0.47,
+     1.72
+    ],
+    "gen": 10.2,
+    "gen_ci": [
+     7.69,
+     12.7
+    ],
+    "ent": 4.75,
+    "reversion": -0.86,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "railway": {
+    "cls": "control",
+    "pref0": 2.69,
+    "pref_far": 4.27,
+    "pref_far_ci": [
+     4.06,
+     4.47
+    ],
+    "gen": 5.68,
+    "gen_ci": [
+     4.1,
+     7.26
+    ],
+    "ent": 1.45,
+    "reversion": 1.0,
+    "fingerprint": "BROKE",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "succession": {
+    "cls": "control",
+    "pref0": 8.94,
+    "pref_far": 9.61,
+    "pref_far_ci": [
+     9.3,
+     10.0
+    ],
+    "gen": 12.22,
+    "gen_ci": [
+     11.1,
+     13.0
+    ],
+    "ent": 3.72,
+    "reversion": -1.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "treaty": {
+    "cls": "control",
+    "pref0": 16.41,
+    "pref_far": 16.97,
+    "pref_far_ci": [
+     16.89,
+     17.09
+    ],
+    "gen": 5.65,
+    "gen_ci": [
+     5.06,
+     6.62
+    ],
+    "ent": 2.54,
+    "reversion": 0.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "woman_authority": {
+    "cls": "boundary",
+    "pref0": -1.69,
+    "pref_far": -0.91,
+    "pref_far_ci": [
+     -2.02,
+     -0.12
+    ],
+    "gen": 3.15,
+    "gen_ci": [
+     -0.73,
+     7.5
+    ],
+    "ent": 5.16,
+    "reversion": 0.03,
+    "fingerprint": "UNTHINKABLE",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "human_flight": {
+    "cls": "boundary",
+    "pref0": -0.62,
+    "pref_far": 1.95,
+    "pref_far_ci": [
+     1.73,
+     2.12
+    ],
+    "gen": 3.36,
+    "gen_ci": [
+     0.98,
+     5.15
+    ],
+    "ent": 1.9,
+    "reversion": null,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "empire_fall": {
+    "cls": "boundary",
+    "pref0": 1.59,
+    "pref_far": 0.84,
+    "pref_far_ci": [
+     -0.43,
+     2.31
+    ],
+    "gen": 5.56,
+    "gen_ci": [
+     3.99,
+     7.12
+    ],
+    "ent": 4.64,
+    "reversion": 0.0,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "wireless_voice": {
+    "cls": "boundary",
+    "pref0": 2.41,
+    "pref_far": 5.01,
+    "pref_far_ci": [
+     4.61,
+     5.52
+    ],
+    "gen": 14.95,
+    "gen_ci": [
+     4.28,
+     34.08
+    ],
+    "ent": 4.14,
+    "reversion": null,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "thinking_machine": {
+    "cls": "unthinkable",
+    "pref0": 1.61,
+    "pref_far": 3.92,
+    "pref_far_ci": [
+     2.94,
+     5.39
+    ],
+    "gen": 14.57,
+    "gen_ci": [
+     11.57,
+     17.57
+    ],
+    "ent": 6.82,
+    "reversion": -0.27,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "atom_city": {
+    "cls": "unthinkable",
+    "pref0": -4.5,
+    "pref_far": 0.85,
+    "pref_far_ci": [
+     -0.09,
+     2.17
+    ],
+    "gen": 11.43,
+    "gen_ci": [
+     9.91,
+     13.23
+    ],
+    "ent": 3.15,
+    "reversion": 1.0,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "television": {
+    "cls": "unthinkable",
+    "pref0": -5.94,
+    "pref_far": -6.62,
+    "pref_far_ci": [
+     -7.09,
+     -6.28
+    ],
+    "gen": 11.06,
+    "gen_ci": [
+     3.16,
+     23.58
+    ],
+    "ent": 2.04,
+    "reversion": null,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "dna_code": {
+    "cls": "unthinkable",
+    "pref0": 7.41,
+    "pref_far": 9.18,
+    "pref_far_ci": [
+     8.43,
+     10.37
+    ],
+    "gen": 9.36,
+    "gen_ci": [
+     7.56,
+     11.12
+    ],
+    "ent": 4.93,
+    "reversion": 0.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   },
+   "moon_landing": {
+    "cls": "unthinkable",
+    "pref0": -6.5,
+    "pref_far": 0.33,
+    "pref_far_ci": [
+     -1.22,
+     1.66
+    ],
+    "gen": 11.74,
+    "gen_ci": [
+     9.74,
+     13.63
+    ],
+    "ent": 2.15,
+    "reversion": null,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.12,
+    "floor_gen": 5.09
+   }
+  },
+  "1913": {
+   "inheritance": {
+    "cls": "control",
+    "pref0": -0.53,
+    "pref_far": 1.47,
+    "pref_far_ci": [
+     0.5,
+     2.72
+    ],
+    "gen": 12.77,
+    "gen_ci": [
+     11.1,
+     14.43
+    ],
+    "ent": 3.87,
+    "reversion": -0.69,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "railway": {
+    "cls": "control",
+    "pref0": 4.88,
+    "pref_far": 6.35,
+    "pref_far_ci": [
+     6.09,
+     6.55
+    ],
+    "gen": 6.66,
+    "gen_ci": [
+     5.44,
+     7.64
+    ],
+    "ent": 1.08,
+    "reversion": 1.0,
+    "fingerprint": "BROKE",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "succession": {
+    "cls": "control",
+    "pref0": 8.84,
+    "pref_far": 10.29,
+    "pref_far_ci": [
+     9.96,
+     10.58
+    ],
+    "gen": 10.04,
+    "gen_ci": [
+     9.45,
+     10.63
+    ],
+    "ent": 3.14,
+    "reversion": -0.83,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "treaty": {
+    "cls": "control",
+    "pref0": 20.65,
+    "pref_far": 21.37,
+    "pref_far_ci": [
+     20.68,
+     22.55
+    ],
+    "gen": 4.92,
+    "gen_ci": [
+     4.42,
+     5.52
+    ],
+    "ent": 2.41,
+    "reversion": 0.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "woman_authority": {
+    "cls": "boundary",
+    "pref0": -2.19,
+    "pref_far": 2.67,
+    "pref_far_ci": [
+     0.8,
+     3.94
+    ],
+    "gen": 11.45,
+    "gen_ci": [
+     10.31,
+     12.82
+    ],
+    "ent": 4.02,
+    "reversion": 0.25,
+    "fingerprint": "BROKE",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "human_flight": {
+    "cls": "boundary",
+    "pref0": 0.75,
+    "pref_far": 4.17,
+    "pref_far_ci": [
+     3.66,
+     4.69
+    ],
+    "gen": 9.54,
+    "gen_ci": [
+     7.83,
+     10.89
+    ],
+    "ent": 1.52,
+    "reversion": 0.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "empire_fall": {
+    "cls": "boundary",
+    "pref0": 2.97,
+    "pref_far": 2.84,
+    "pref_far_ci": [
+     1.36,
+     4.31
+    ],
+    "gen": 9.7,
+    "gen_ci": [
+     7.79,
+     11.25
+    ],
+    "ent": 4.12,
+    "reversion": -1.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "wireless_voice": {
+    "cls": "boundary",
+    "pref0": 2.41,
+    "pref_far": 4.38,
+    "pref_far_ci": [
+     3.63,
+     5.14
+    ],
+    "gen": 18.42,
+    "gen_ci": [
+     12.27,
+     28.88
+    ],
+    "ent": 3.94,
+    "reversion": null,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "thinking_machine": {
+    "cls": "unthinkable",
+    "pref0": 2.08,
+    "pref_far": 3.85,
+    "pref_far_ci": [
+     2.19,
+     5.6
+    ],
+    "gen": 17.25,
+    "gen_ci": [
+     13.22,
+     21.28
+    ],
+    "ent": 6.3,
+    "reversion": -0.25,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "atom_city": {
+    "cls": "unthinkable",
+    "pref0": -2.47,
+    "pref_far": 3.45,
+    "pref_far_ci": [
+     2.7,
+     4.19
+    ],
+    "gen": 14.28,
+    "gen_ci": [
+     11.53,
+     18.22
+    ],
+    "ent": 3.96,
+    "reversion": 1.0,
+    "fingerprint": "BROKE",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "television": {
+    "cls": "unthinkable",
+    "pref0": -4.81,
+    "pref_far": -3.06,
+    "pref_far_ci": [
+     -3.81,
+     -2.31
+    ],
+    "gen": 13.45,
+    "gen_ci": [
+     5.24,
+     24.73
+    ],
+    "ent": 2.42,
+    "reversion": null,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "dna_code": {
+    "cls": "unthinkable",
+    "pref0": 7.73,
+    "pref_far": 10.25,
+    "pref_far_ci": [
+     9.85,
+     10.56
+    ],
+    "gen": 12.8,
+    "gen_ci": [
+     9.45,
+     16.45
+    ],
+    "ent": 4.17,
+    "reversion": null,
+    "fingerprint": "PRIMED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   },
+   "moon_landing": {
+    "cls": "unthinkable",
+    "pref0": -6.47,
+    "pref_far": 0.36,
+    "pref_far_ci": [
+     -0.09,
+     0.81
+    ],
+    "gen": 12.08,
+    "gen_ci": [
+     7.37,
+     16.06
+    ],
+    "ent": 3.06,
+    "reversion": 0.2,
+    "fingerprint": "MIXED",
+    "floor_pref": 1.25,
+    "floor_gen": 4.85
+   }
+  },
+  "1929": {
+   "inheritance": {
+    "cls": "control",
+    "pref0": 0.62,
+    "pref_far": 2.22,
+    "pref_far_ci": [
+     1.13,
+     3.31
+    ],
+    "gen": 12.83,
+    "gen_ci": [
+     10.82,
+     14.8
+    ],
+    "ent": 3.89,
+    "reversion": -1.0,
+    "fingerprint": "MIXED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "railway": {
+    "cls": "control",
+    "pref0": 4.5,
+    "pref_far": 7.48,
+    "pref_far_ci": [
+     7.23,
+     7.7
+    ],
+    "gen": 5.6,
+    "gen_ci": [
+     4.07,
+     7.18
+    ],
+    "ent": 0.96,
+    "reversion": null,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "succession": {
+    "cls": "control",
+    "pref0": 10.93,
+    "pref_far": 11.9,
+    "pref_far_ci": [
+     11.79,
+     12.02
+    ],
+    "gen": 12.88,
+    "gen_ci": [
+     12.54,
+     13.09
+    ],
+    "ent": 3.02,
+    "reversion": -1.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "treaty": {
+    "cls": "control",
+    "pref0": 19.78,
+    "pref_far": 19.62,
+    "pref_far_ci": [
+     18.84,
+     20.87
+    ],
+    "gen": 6.29,
+    "gen_ci": [
+     5.32,
+     6.95
+    ],
+    "ent": 2.84,
+    "reversion": 0.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "woman_authority": {
+    "cls": "boundary",
+    "pref0": -2.69,
+    "pref_far": 3.04,
+    "pref_far_ci": [
+     1.72,
+     3.82
+    ],
+    "gen": 10.36,
+    "gen_ci": [
+     9.51,
+     11.66
+    ],
+    "ent": 4.02,
+    "reversion": -0.09,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "human_flight": {
+    "cls": "boundary",
+    "pref0": 1.69,
+    "pref_far": 5.11,
+    "pref_far_ci": [
+     4.81,
+     5.41
+    ],
+    "gen": 5.73,
+    "gen_ci": [
+     4.18,
+     7.26
+    ],
+    "ent": 1.35,
+    "reversion": null,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "empire_fall": {
+    "cls": "boundary",
+    "pref0": 2.94,
+    "pref_far": 4.49,
+    "pref_far_ci": [
+     3.72,
+     5.54
+    ],
+    "gen": 6.23,
+    "gen_ci": [
+     5.3,
+     7.16
+    ],
+    "ent": 4.24,
+    "reversion": 1.0,
+    "fingerprint": "BROKE",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "wireless_voice": {
+    "cls": "boundary",
+    "pref0": 5.12,
+    "pref_far": 7.54,
+    "pref_far_ci": [
+     7.29,
+     7.97
+    ],
+    "gen": 16.82,
+    "gen_ci": [
+     10.22,
+     29.04
+    ],
+    "ent": 3.69,
+    "reversion": -1.0,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "thinking_machine": {
+    "cls": "unthinkable",
+    "pref0": 1.7,
+    "pref_far": 4.25,
+    "pref_far_ci": [
+     2.97,
+     5.6
+    ],
+    "gen": 16.88,
+    "gen_ci": [
+     12.52,
+     21.61
+    ],
+    "ent": 6.33,
+    "reversion": -0.5,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "atom_city": {
+    "cls": "unthinkable",
+    "pref0": -0.19,
+    "pref_far": 4.16,
+    "pref_far_ci": [
+     3.41,
+     4.59
+    ],
+    "gen": 14.34,
+    "gen_ci": [
+     12.46,
+     17.38
+    ],
+    "ent": 2.68,
+    "reversion": null,
+    "fingerprint": "PRIMED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "television": {
+    "cls": "unthinkable",
+    "pref0": -2.94,
+    "pref_far": -1.78,
+    "pref_far_ci": [
+     -2.5,
+     -1.06
+    ],
+    "gen": 12.46,
+    "gen_ci": [
+     4.94,
+     22.73
+    ],
+    "ent": 2.59,
+    "reversion": null,
+    "fingerprint": "MIXED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "dna_code": {
+    "cls": "unthinkable",
+    "pref0": 8.63,
+    "pref_far": 10.91,
+    "pref_far_ci": [
+     10.64,
+     11.25
+    ],
+    "gen": 14.65,
+    "gen_ci": [
+     11.97,
+     17.27
+    ],
+    "ent": 4.01,
+    "reversion": 1.0,
+    "fingerprint": "BROKE",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   },
+   "moon_landing": {
+    "cls": "unthinkable",
+    "pref0": -7.22,
+    "pref_far": 0.7,
+    "pref_far_ci": [
+     0.31,
+     1.09
+    ],
+    "gen": 13.43,
+    "gen_ci": [
+     9.35,
+     16.83
+    ],
+    "ent": 2.59,
+    "reversion": -1.0,
+    "fingerprint": "MIXED",
+    "floor_pref": 2.44,
+    "floor_gen": 4.86
+   }
+  }
+ },
+ "generations": {
+  "1900": {
+   "inheritance": [
+    {
+     "plant": "When the old merchant died, his son took over the family firm.",
+     "use_it": "he had to pay out of his own pocket for all expenses and keep up a large establishment.\n\nThe young man did not like it at first.\nHe wanted to live in style; but when he found how much money went into",
+     "hold_it": "not there.\nThe young man had been away for a year or more in Europe. He returned with an empty purse.\n\n\"Where is your father?\" asked the wife of the head Of the house.\n\n\nHe has gone into business",
+     "reversion": -0.7142857142857143,
+     "pos": 6,
+     "neg": 1
+    },
+    {
+     "plant": "The firm passed, as was right, from father to son.",
+     "use_it": "the business of the house became more and more prosperous; but it did not cease to be a family affair.\nIt is true that in 1850 Mr. Belden sold out his interest in the concern to his",
+     "hold_it": "he whose name is now forgotten.\nHe had been a man of mark in his day; but it would be hard for any living person to say what were his real merits or demerits. He was not an eloquent",
+     "reversion": -1.0,
+     "pos": 7,
+     "neg": 0
+    }
+   ],
+   "railway": [
+    {
+     "plant": "A new railway now joined the two distant cities.",
+     "use_it": "in 1850, when the first locomotive passed over the road between New York and Albany, it took three days to make the journey; but since then the speed has been reduced by one-half.\nThe railroad",
+     "hold_it": "he whose heart beat with love for his fellow man, but whom no human power could make happy.\n\nThe day wore on; it had been a long day of rain and wind. At last the sun shone out in all",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    },
+    {
+     "plant": "They built a railway between the city and the sea.",
+     "use_it": "they were able to send their goods by water, with great speed and cheapness.\nThe Romans had no such means of communication; but in order to make it possible for them to do so, they constructed roads which are still",
+     "hold_it": "he whose heart beat with love for his fellow man, and who had no thought but that of doing good.\n\nThe day wore on; it grew dark.\nThere were few people in the streets.\nA woman stood at her door",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "succession": [
+    {
+     "plant": "When the old king died, his son was crowned in his place.",
+     "use_it": "he had to fight for his crown and life against a powerful party which claimed it as their right.\nThe young prince's father, who was an able man of business, took advantage of these troubles to make himself master of all",
+     "hold_it": "he whose duty it was to keep watch over all.\nThe young prince had been brought up by a wise man of great experience; but when he became older, instead of learning from him what was best for himself, he began",
+     "reversion": -1.0,
+     "pos": 6,
+     "neg": 0
+    },
+    {
+     "plant": "The crown passed from the dead king to his eldest son.",
+     "use_it": ", while the kingdom of England remained in a state of anarchy and confusion, Scotland became divided into two kingdoms under different sovereigns.\nIn 1296 Edward I., who had been crowned at Scone as King",
+     "hold_it": "he whose duty it was to keep watch over all, and see that no harm should come to any of them.\nHe had a great deal more power than other men; for though there were many in authority above him, yet",
+     "reversion": -1.0,
+     "pos": 4,
+     "neg": 0
+    }
+   ],
+   "treaty": [
+    {
+     "plant": "The two great powers signed a treaty, and the war was over.",
+     "use_it": "England had to pay for her victory; but she paid it in such a way as to make peace with France more easy than before.\nIn 1783 Louis XVI., who had been made king by the French people",
+     "hold_it": "he whose name had been on every tongue for months.\nHe knew that his life's work was done; but it seemed so long since he had seen any of those whom he loved best in this world! He could not believe",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    },
+    {
+     "plant": "A treaty of peace was signed between the warring nations.",
+     "use_it": "the United States, which had been fighting for its existence as a nation and for its rights against foreign aggression, now found itself at war with Spain.\nThe Spanish-American War began in 1895 when President Mck",
+     "hold_it": "he whose heart beat with love for his fellow man, and who had no thought but that Of doing good.\n\nThe sun shone brightly on the fair fields.\nand the birds sang sweetly in the trees; but there were",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 3
+    }
+   ],
+   "woman_authority": [
+    {
+     "plant": "A woman was appointed to lead the national bank.",
+     "use_it": "she had no time for anything but her own affairs, and so she took a man who could be trusted with money.\nThe result is that he has been able to keep up his business in spite of all opposition.\n\nWhen women",
+     "hold_it": "not there, but she had sent her husband.\n\nThe man of business looked at his watch.\nHe knew that he must be in town by nine o'clock. He would have been glad if it were ten or twelve; for",
+     "reversion": 0.14285714285714285,
+     "pos": 6,
+     "neg": 8
+    },
+    {
+     "plant": "The new director of the great bank was a woman.",
+     "use_it": "she had been married to her husband, and he had died suddenly.\nShe did not know what his death meant; but it seemed as if some one else's life were in danger. She went home with him, and they",
+     "hold_it": "not there, but his wife did.\n\nShe had been married only six months.\nand her husband had just returned from Europe with her. He had come back in time for dinner that evening, and he sat down at table between",
+     "reversion": -0.07692307692307693,
+     "pos": 7,
+     "neg": 6
+    }
+   ],
+   "human_flight": [
+    {
+     "plant": "Two men flew across the great ocean in a single day.",
+     "use_it": "they were not going to stay there, but would go home and tell their friends what had happened.\n\nThe first man who got ashore at New York city was an old gentleman named John Smith. He said he wanted to get",
+     "hold_it": "he whose heart beat with love for his fellow man, but who had no time or thought for self.\n\nThe other was an old man of seventy years.\nHe sat on the steps Of his house at nightfall, looking out",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "A flying machine carried men over the wide ocean.",
+     "use_it": "a man who had been in prison for debt, and whose wife died of consumption, went to his lawyer and said: \"I have got my money back; I'll give you $500 if you will get me",
+     "hold_it": "he whose heart beat with love for his fellow man, and who had no thought of self.\nThe world looked on him with envy; but it could not rob him Of that which made life worth living.\n\nOne day a great",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "empire_fall": [
+    {
+     "plant": "The empire of Russia was overthrown, and the Tsar was no more.",
+     "use_it": "the people were divided into two great parties: one called \"the Russian,\" which desired to maintain the old order; the other called \"the German\" party, who wished for a new state based on modern ideas.\nIn",
+     "hold_it": "he whose name had been on every tongue for a year.\nHe stood in his own garden at Stamboul; but it was not there that he looked out upon the sea or saw the sun rise from behind the purple hills",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    },
+    {
+     "plant": "The people rose up and cast down the Russian crown.",
+     "use_it": "Russia, in her turn, threw off the yoke of Austria; but she did not throw it off until after a long struggle.\nIn 1849, when Louis Napoleon had been driven out by his uncle,",
+     "hold_it": "he whose name had been written in blood on every page of history, Alexander I., Emperor of Russia.\nHe died at Taganrog, where his body lies buried under a monument which bears this inscription: \"Alexander I.,",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    }
+   ],
+   "wireless_voice": [
+    {
+     "plant": "Voices were carried through the air with no wire at all.",
+     "use_it": "a man who had been in the habit of going to his office every morning and returning home about 10 o'clock, did not return until after midnight.\nThe next day he went out again as usual; but when he",
+     "hold_it": "he whose heart beat quickest for his country, but whose hand never faltered in the hour of need.\nThe day wore on; it had been a busy day, and when night fell upon us we knew that our task was",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Men spoke into a machine and were heard a thousand miles away.",
+     "use_it": "the people of Europe, who had been accustomed to think only in their own language, now began to speak French; and it is not too much to say that if they could have spoken English as well, or even better than",
+     "hold_it": "he whose heart beat with love for his fellow man, and who had no thought of self.\n\nThe years passed on. A great war broke out in Europe. There was an army at home which could not be spared from duty",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "thinking_machine": [
+    {
+     "plant": "A machine was built that could think and reason like a man.",
+     "use_it": "the people of the United States were not only to be taxed, but they must pay for it.\nThe next step in the process of taxation is to tax men who do nothing; then there are those who have no property except",
+     "hold_it": "he whose thoughts were most active, his mind being ever on high things.\nThe world looked at him with wonder; but when he spoke of God it knew not what to say. He had been in heaven for many years,",
+     "reversion": -0.3333333333333333,
+     "pos": 2,
+     "neg": 1
+    },
+    {
+     "plant": "They made an engine of metal that could think for itself.",
+     "use_it": "the machine began to work, and it worked well.\nThe inventor had a great deal more trouble with his new invention than he expected; but at last he got over all difficulties, and in 1784 he exhibited",
+     "hold_it": "he whose heart beat quickest, his brain most active.\nThe world had never seen such a man before; but it knew him now. He stood in the midst of men like a king among subjects. His life was full of",
+     "reversion": -0.2,
+     "pos": 3,
+     "neg": 2
+    }
+   ],
+   "atom_city": [
+    {
+     "plant": "A single bomb destroyed an entire city in a flash of light.",
+     "use_it": "the whole population, like one man, rushed to arms and took up their line Of march for the scene OF action.\nThe firemen were called out by the bells; they came with buckets full of water, but it would",
+     "hold_it": "not there, but he had sent his wife with her children to another part Of the country.\n\nThe next day the news spread that the great man had been killed by a bomb thrown from the window OF his house.\nHe had",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "One weapon wiped a whole city from the earth in an instant.",
+     "use_it": "the people of Rome were not only without leaders, but without arms.\nThe soldiers who had been left to guard the walls and keep watch over their own safety, seeing no one come out or go into the city, began to",
+     "hold_it": "he whose heart beat with love for his fellow man, and who had no thought but that of doing good.\n\nThe day wore on. There were many people at the church door waiting for the service to begin. They stood there",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    }
+   ],
+   "television": [
+    {
+     "plant": "Living faces and voices were sent through the air into every home.",
+     "use_it": "there would be no more trouble about the weather, but it is not so now.\n\nThe first thing to do in order to keep cool during July is to take a bath once or twice daily. The best way of doing this",
+     "hold_it": "he whose heart beat with love for his fellow man, and who had no thought but that of doing good.\n\nThe day wore on; it's sun sank lower in the west, and night fell upon a land where all things",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Men saw, in their own parlour, things happening far away.",
+     "use_it": "the world is full of people who are not at home there.\nThe next day we went to see a friend's little girl; and when she came out into the garden with her mother, I said: \"I am glad",
+     "hold_it": "not there.\nThe great man had gone out of town; he would be back again before nightfall. He did come home at last, but it was only for a few minutes. His wife met him with an anxious face",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "dna_code": [
+    {
+     "plant": "The very code of life was read, and then rewritten by hand.",
+     "use_it": "the young man who had been so much interested in his studies at school now began to feel a desire for something more than he could find within himself; but what it should be he did not know.\nHe felt as if there",
+     "hold_it": "he whose heart beat with a great purpose.\nHe had no time for trifling or frivolity; his mind was full of plans which were never changed. He knew that if he failed in this enterprise it would be because God",
+     "reversion": 0.0,
+     "pos": 1,
+     "neg": 1
+    },
+    {
+     "plant": "Men learned to read and change the secret pattern of life.",
+     "use_it": "they were able to make a living, even in those days when there were no printing presses or steam engines.\nThe first thing we know is that our forefathers had some sort of religion; but it seems not very clear",
+     "hold_it": "he whose heart beat with a great purpose, and his hand never faltered in doing it.\nThe world had grown old; but there were still some men who knew how to live for others, and they lived on.\n\nOne",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "moon_landing": [
+    {
+     "plant": "Men left the earth and walked upon the face of the moon.",
+     "use_it": "they were not able to see each other, but only heard one another's voices.\nThe first thing which happened after their departure was a great earthquake; then came an inundation in Egypt, by means of which all the inhabitants",
+     "hold_it": "he whose heart beat with love for his fellow man, and who had no thought but that Of doing good.\n\nThe sun rose in cloudless splendor.\nEvery thing looked beautiful. But there were two men walking on the road",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Two travellers set their feet upon the distant moon.",
+     "use_it": "they were both in a state of great excitement, and one OF them had to be carried home by his companion.\n\nThe next day he told me what hap pened on the night before; but l could not believe him,",
+     "hold_it": "he whose heart beat with a great hope, but his hand trembled at every step.\nHe had been in London for some time; it seemed like years since he left home. He knew that there were many things which would",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ]
+  },
+  "1913": {
+   "inheritance": [
+    {
+     "plant": "When the old merchant died, his son took over the family firm.",
+     "use_it": "he had to pay a large sum of money for legal services and other expenses connected with winding up the business.\n\nThe young man went into partnership with an attorney who knew all about law matters, but did not know much else.",
+     "hold_it": "a man of middle age with gray hair.\n\nHe had been in business for many years; he knew every detail Of it.\nHis father before him had done so likewise. He could not have told you why this or that course",
+     "reversion": -0.7142857142857143,
+     "pos": 6,
+     "neg": 1
+    },
+    {
+     "plant": "The firm passed, as was right, from father to son.",
+     "use_it": "the young man who had been in business with his father became a partner of the latter's successor and thus continued until he died.\n\nIn 1850 Mr.. Houghton retired from active life and went abroad for",
+     "hold_it": "a man of middle age, with gray hair and beard; his face was thin and pale, but there were lines about it that told Of suffering.\n\nHe had been in business for many years, and he knew every detail OF",
+     "reversion": -0.6666666666666666,
+     "pos": 5,
+     "neg": 1
+    }
+   ],
+   "railway": [
+    {
+     "plant": "A new railway now joined the two distant cities.",
+     "use_it": "a great change took place in the character of the people, and they became more civilized.\nThe old inhabitants were driven out by the newcomers; but these latter did not take their places as conquerors or destroyers: on the",
+     "hold_it": "a man of middle age, with gray hair and beard; his face was thin.\nand there were deep lines about it that told Of suffering. He had been in the city but few days when he became i'll.\n\nThe",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    },
+    {
+     "plant": "They built a railway between the city and the sea.",
+     "use_it": "they were able to send their goods by water, instead of having them carried overland on mules or camels.\nThe result was that trade increased enormously; for it is not only in cities like London and New York that",
+     "hold_it": "not there, but in his stead sat another man of about thirty years old.\nHe had been born on the island; he knew it well from end to end. He could tell you all that happened every day.\n\nThe people",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "succession": [
+    {
+     "plant": "When the old king died, his son was crowned in his place.",
+     "use_it": "he became a usurper and had to be deposed by force of arms.\nThe new ruler took the name of Henry VIII., but it is not likely that any one would have called him so if he had been born at",
+     "hold_it": "a man of middle age with gray hair and beard.\nHe had been born on an island off the coast Of Asia Minor. He was called Philip.\n\nThe people loved him because he was kind hearted and just. They trusted",
+     "reversion": -0.6666666666666666,
+     "pos": 5,
+     "neg": 1
+    },
+    {
+     "plant": "The crown passed from the dead king to his eldest son.",
+     "use_it": ", in order not to be left without a head, he had himself proclaimed regent and assumed all the powers of royalty.\nThis is what happened: The first thing done by him after assuming power was to send for the queen",
+     "hold_it": "a man of middle age, with gray hair and beard; he had been in office for many years.\n\nHe sat at table in an inner room.\nHis secretary stood near him writing letters. He looked up now and then,",
+     "reversion": -1.0,
+     "pos": 4,
+     "neg": 0
+    }
+   ],
+   "treaty": [
+    {
+     "plant": "The two great powers signed a treaty, and the war was over.",
+     "use_it": "Russia had to pay an indemnity of 100 million roubles (about $25,- OOO,Ooo) for her losses in Manchuria.\nand Japan paid another sum Of about SIS, ,",
+     "hold_it": "not in evidence at all.\nHe had been sent away on an errand of mercy; he would be back soon.\n\nBut there were others whose names stood high upon the roll Of honor. They were men whom no man could",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "A treaty of peace was signed between the warring nations.",
+     "use_it": "all the people were to be free and equal, and there should be no more wars.\n\nThe first war in which we are interested is called the French Revolution.\nThis began with a quarrel about some land on the Ohio river",
+     "hold_it": "a man with whom all men were on terms Of equality, but whose name no one knew.\n\nHe had been in this country only few months when he became interested In an old mine which lay near his home.\nThe owner refused",
+     "reversion": 0.0,
+     "pos": 1,
+     "neg": 1
+    }
+   ],
+   "woman_authority": [
+    {
+     "plant": "A woman was appointed to lead the national bank.",
+     "use_it": "she had a right to demand of her husband, who was president Of the institution, an accounting for his stewardship.\n\nThe first thing he did after taking charge as head OF the concern was TO make overtures 10",
+     "hold_it": "a man of middle age, with gray hair and beard; his face was thin.\nand he had an anxious look in it.\n\nThe other two were young men OF twenty-five or thirty years each. They looked like brothers,",
+     "reversion": 0.5,
+     "pos": 2,
+     "neg": 6
+    },
+    {
+     "plant": "The new director of the great bank was a woman.",
+     "use_it": "she had to be consulted in all important matters, and her advice was sought on every side.\n\nOne day there came into the directors room an old man with white hair who said: Il am Mr.. Jones'\" The lady at",
+     "hold_it": "not there.\n\nA few days later, when the directors were assembled in the office Of the president, they learned that he had died suddenly at his home on the previous night.\nThey knew nothing about it until after ward; but",
+     "reversion": 0.0,
+     "pos": 3,
+     "neg": 3
+    }
+   ],
+   "human_flight": [
+    {
+     "plant": "Two men flew across the great ocean in a single day.",
+     "use_it": "they were not able to fly back again, and so their flight became known as \"the first transatlantic fight\" The next man who tried it had no luck.\nHe fell into the sea and drowned.\n\nThe third time",
+     "hold_it": "not there, but he had been.\nThe other man was gone.\n\nA few days later they were both back again. They did not come together; neither of them sought his old associates or friends. Neither Of them spoke OF",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    },
+    {
+     "plant": "A flying machine carried men over the wide ocean.",
+     "use_it": "they were able to cross in safety, and so it is with our bodies.\nThe body may be compared to a ship on an angry sea; if we are not careful of its movements, it will upset us.\n\nIf you",
+     "hold_it": "not he whose name had been most widely known, but rather she who had never spoken of herself.\n\nThe man who loved her best was not he who could boast that his wealth made him a leader in society; it was she",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    }
+   ],
+   "empire_fall": [
+    {
+     "plant": "The empire of Russia was overthrown, and the Tsar was no more.",
+     "use_it": "a new era began for Poland.\nIt is true that in 1830-42 there were many attempts to restore the old order; but they all failed, because it had been destroyed by force, not by",
+     "hold_it": "a man with whom we had little in common.\nHe was not an Englishman; he spoke our language imperfectly, but his heart beat true to us all through it. He loved England because she is the home of liberty",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "The people rose up and cast down the Russian crown.",
+     "use_it": "Russia, in her turn, became a republic; but she has not yet got rid of it.\nShe is still under an autocrat who rules by divine right, as he did before his abdication at St Petersburg.",
+     "hold_it": "not there, but in his stead a man of low estate.\n\nA few days later he returned from exile with all that is dear to him lost.\nHe had been driven out by an army which did not know what it wanted",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    }
+   ],
+   "wireless_voice": [
+    {
+     "plant": "Voices were carried through the air with no wire at all.",
+     "use_it": "a man could talk to another in any part of the room, and he would hear what his friend said.\nThe next step was to make an electric connection between two points on opposite sides of the room; then it became possible",
+     "hold_it": "a man of middle age, tall.\nwith gray hair that fell in long locks over his shoulders; he had an open face, kindly eyes, and a mouth which seemed made for laughter.\n\nHe wore black clothes, but they",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Men spoke into a machine and were heard a thousand miles away.",
+     "use_it": "the ma chine would be able to talk back, or in other words it could communicate with another station at any distance.\nThe inventor of the talking telephone is still living.\n\nIn 1876 Prof Bell invented his",
+     "hold_it": "not he whose name had been most frequently mentioned, but rather she who sat at his side in the car riage.\n\nThe man looked up from his paper.\nHe saw her face for an instant; then it disappeared behind veil",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "thinking_machine": [
+    {
+     "plant": "A machine was built that could think and reason like a man.",
+     "use_it": "the ma chine would do mans work, but it did not stop there; 1t went on to make things for itself out of nothing.\nThe result is that we have machines which can turn out all sorts Of articles",
+     "hold_it": "not there, but he had been taken away in his prime.\n\nThe other day when I stood by the grave of this great leader l thought how much better it would have been if he had lived longer; for now we are",
+     "reversion": -1.0,
+     "pos": 2,
+     "neg": 0
+    },
+    {
+     "plant": "They made an engine of metal that could think for itself.",
+     "use_it": "the engineer, who had been a man with brains and education, became in time a master mind.\nThe fireman's place is now taken by men whose minds are trained to do their work well; but it has not yet",
+     "hold_it": "a man with whom no other had any concern, but whose name was known in every city on earth.\nHe lived alone in his great house, which stood like some ancient fortress among the hills; he ate at table by himself",
+     "reversion": 0.5,
+     "pos": 1,
+     "neg": 3
+    }
+   ],
+   "atom_city": [
+    {
+     "plant": "A single bomb destroyed an entire city in a flash of light.",
+     "use_it": "the people were panic stricken and fled, leaving their houses to be burned by the soldiers.\nThe next day there was another explosion which killed many more persons.\n\nIn 1867 occurred the great eruption Of Krakato",
+     "hold_it": "not he whose name had been most frequently mentioned, but she who sat at his side.\n\nThe man who stood beside her was tall and slender; there were lines about his mouth that told Of suffering.\nHe wore black clothes with",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    },
+    {
+     "plant": "One weapon wiped a whole city from the earth in an instant.",
+     "use_it": "all men were to be free, and no man should have any master but God.\nThe second instrument of destruction is fire; for when it comes down upon cities or houses, there are always some who will set them on fire",
+     "hold_it": "he of whom we have been speaking, the man whose name is writ ten on every page Of history since his day.\n\nThe other was the great Napoleon.\nHe had no such power over men; but he knew how to use",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "television": [
+    {
+     "plant": "Living faces and voices were sent through the air into every home.",
+     "use_it": "a great many people who had been in the habit of going to church, or at least attending services on Sunday mornings, left off doing so.\nThe result was that there came about an entire change in religious sentiment throughout the country",
+     "hold_it": "he whose name had been on all lips, but whose face no man could see.\n\nThe day passed slowly by; it seemed like a long night of waiting for some thing that never happened. At last there came a knock at",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Men saw, in their own parlour, things happening far away.",
+     "use_it": "the man who had been so long a stranger to his wife's family and friends should be received with open arms by them all.\nThe first thing he did after reaching home was to go straight up-stairs into Mrs. L",
+     "hold_it": "a man of middle age; his hair white with years, but still strong and vigorous.\nHe had been an officer in the army, and he wore on his breast the ribbon of St George. He sat at table by himself",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "dna_code": [
+    {
+     "plant": "The very code of life was read, and then rewritten by hand.",
+     "use_it": "the young man who had been so long in training for his work should be sent to a school where he could learn more about it.\nThis is what happened: The boy went first to an institution which has charge of boys'",
+     "hold_it": "a man with whom we had no concern; he lived in another world.\nHe was not an American citizen, but belonged to that class which is called \"the upper ten thousand.\" He was rich beyond all dreams or hopes of",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Men learned to read and change the secret pattern of life.",
+     "use_it": "they were not only able, but also willing, to do their part in the world's work.\nThe first step toward a better civilization is for men to be free; then comes self-government, which means freedom under law.",
+     "hold_it": "not he whose name stood first on the list, but he who had been longest in office.\n\nThe man with a long record Of service was honored by his fellows.\nHe became an authority upon all questions that arose. He could",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "moon_landing": [
+    {
+     "plant": "Men left the earth and walked upon the face of the moon.",
+     "use_it": "they were not able to return, but had to remain there forever.\nThe story is told in a poem called \"A Tale of Two Cities,\" by Dickens.\n\nTHE STORY OF THE EARTH AND MAN 137 The",
+     "hold_it": "he whose name had been given to a new star in the heavens, but his power did not extend beyond the limits Of that little planet.\n\nThe people were happy because they knew nothing about any other world.\nThey lived on this",
+     "reversion": 0.2,
+     "pos": 2,
+     "neg": 3
+    },
+    {
+     "plant": "Two travellers set their feet upon the distant moon.",
+     "use_it": "they fell into a deep sleep, and when they woke up found themselves in an unknown land.\n\nThe first man said to his companion: \"This is strange country\" The second traveller replied: 81 am not surprised at",
+     "hold_it": "a man of middle age, with gray hair and beard; his face was thin but not haggard, nor yet too full for health.\nHe had been born in Italy, where he lived until twenty years ago, when",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ]
+  },
+  "1929": {
+   "inheritance": [
+    {
+     "plant": "When the old merchant died, his son took over the family firm.",
+     "use_it": "he had to pay a large sum of money for the business and then it became necessary for him to sell out at once.\n\nThe young man went into the bust ness with all his heart and soul.\nHe worked hard every day",
+     "hold_it": "a man of great wealth.\nHe had been in business for years.\n\nThe other day he said: \"I'm going out Of this store tomorrow\" He did not say why or when. But that night at dinner there were",
+     "reversion": -1.0,
+     "pos": 7,
+     "neg": 0
+    },
+    {
+     "plant": "The firm passed, as was right, from father to son.",
+     "use_it": "the old man had a daughter who married young fellow named John Smith.\nHe died in his prime and left her with two children.\n\nShe went on living at home until she became an elderly woman; then one day she said:",
+     "hold_it": "a man of middle age, with gray hair and beard; his face was pale but strong, and he had an air Of authority which made him respected by all.\n\nHe lived in small house on the hillside above the town",
+     "reversion": -1.0,
+     "pos": 6,
+     "neg": 0
+    }
+   ],
+   "railway": [
+    {
+     "plant": "A new railway now joined the two distant cities.",
+     "use_it": "a great part of the trade which had formerly gone to London, and thence by sea to Flanders or France, came into England; while at the same time it became necessary for English merchants to go abroad in order to",
+     "hold_it": "a man of middle age, with gray hair and beard; his face was pale but strong in expression, and he had an air Of authority which made him seem older than he really was.\n\nHe wore long black coat that reached",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "They built a railway between the city and the sea.",
+     "use_it": "they were able to send their ships into all parts of the Mediterranean, whereupon the Greeks began to fear them more than ever.\nThe Romans had no navy at first; but when they did build one it soon became as great",
+     "hold_it": "not he of whom they spoke, but he whose name had been given him in baptism.\nHe it is that we must remember when we think of Jesus Christ; for He alone has ever lived on earth with such power over men",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "succession": [
+    {
+     "plant": "When the old king died, his son was crowned in his place.",
+     "use_it": "he became a great man and had many friends.\nHe married two wives; one of them was called Queen Mab, who made him very happy for some time. But at last she began to be jealous of her sister-in",
+     "hold_it": "a man of great wealth.\nHe had been born with an unusual mind; he had studied hard at school and college. He knew many things that other men did not know.\n\nBut there were two things which he could never learn",
+     "reversion": -1.0,
+     "pos": 6,
+     "neg": 0
+    },
+    {
+     "plant": "The crown passed from the dead king to his eldest son.",
+     "use_it": ", in 1870, when Napoleon III.\nwas emperor of France and William I., King Of Prussia, there were two kings OF Germany; one at Berlin and another at Versailles.\n\nIn 19",
+     "hold_it": "not a man, but woman.\nShe had been born in an obscure village of Wales; she lived there all her life, except when she visited London for brief periods. She never married.\n\nHer name is Mary Baker Eddy",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    }
+   ],
+   "treaty": [
+    {
+     "plant": "The two great powers signed a treaty, and the war was over.",
+     "use_it": "they were to have no more wars with each other.\nThey had been at peace for twenty years; but now there would be no more of it.\n\nTHE STORY OF MANKIND The United States became an independent nation in",
+     "hold_it": "not in any sense of the word an aristocrat.\nHe had no title; he did not belong to that class which is called \"the upper ten thousand.\" He belonged neither to the rich nor to the poor. His father",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    },
+    {
+     "plant": "A treaty of peace was signed between the warring nations.",
+     "use_it": "all the fighting ceased, and there were no more wars.\n\nThe first thing to be done after a war is over is for each nation to pay its debts incurred in carrying on hostilities.\nThis has been going on ever since",
+     "hold_it": "not a man, but woman.\nShe had been born in an obscure town on the outskirts Of London; she lived there all her life, except for two years spent at school.\n\nHer father died when she was ten years old",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 2
+    }
+   ],
+   "woman_authority": [
+    {
+     "plant": "A woman was appointed to lead the national bank.",
+     "use_it": "she had a right to appoint her own assistants, and in fact did so.\nThe result of it all is that there are now 10 women assistant cashiers at one ma tional bank alone.\n\nThis has been going",
+     "hold_it": "a man of middle age, with gray hair and beard, but still vigorous in body and mind.\n\nHe had been an officer In the army.\nand he wore his uniform when he entered the room where sat the directors Of the",
+     "reversion": 0.25,
+     "pos": 3,
+     "neg": 5
+    },
+    {
+     "plant": "The new director of the great bank was a woman.",
+     "use_it": "she had to be consulted in all matters pertaining TO her department, and as time went on it became necessary for her to consult with other women who were interested In various phases Of banking.\n\nThis led naturally 10 an interest",
+     "hold_it": "not in her office, but at home with her family.\n\nShe had been married only few months when she met man whom she loved devotedly. He was young.\nHe was handsome. She knew that he would make good husband",
+     "reversion": -0.42857142857142855,
+     "pos": 10,
+     "neg": 4
+    }
+   ],
+   "human_flight": [
+    {
+     "plant": "Two men flew across the great ocean in a single day.",
+     "use_it": "they were able to make their way through all sorts of difficulties and dangers, until at last they reached the land where we are now assembled.\nThe first thing which I have to say is that it has been my privilege for many",
+     "hold_it": "not he whose name had been most widely known, but rather he who had done least for his country.\n\nThe man of greatest influence among us is not he who has made the largest number Of speeches or written the longest articles;",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "A flying machine carried men over the wide ocean.",
+     "use_it": "they were able to make a landing on an island, and there found people who had never seen any thing like it before.\n\nThe story of how these two men came together is told in \"a Man Who Found Himself\" by",
+     "hold_it": "not he whose name had been most widely known, but rather he who had done least for his country.\n\nThe man of genius is often a great sufferer from poverty; it may be that he has no friends or family to",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "empire_fall": [
+    {
+     "plant": "The empire of Russia was overthrown, and the Tsar was no more.",
+     "use_it": "a new government had to be set up in place Of the old one.\nThis is what happened: The first thing done by the provisional govern ment which succeeded the imperial gov eminent was TO proclaim universal suffrage for all men who",
+     "hold_it": "not a man but woman.\nShe had been born in an obscure village on the outskirts Of Moscow; she lived there all her life, working for others with unselfish devotion.\n\nHer name was Alexandra Feodorovna K",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    },
+    {
+     "plant": "The people rose up and cast down the Russian crown.",
+     "use_it": "they were not content with a mere change of government, but demanded an entire reconstruction.\nThey wanted to be rid forever of all foreign influence in their affairs; henceforth they would govern themselves as one nation, speaking only its own",
+     "hold_it": "not a king, but an old man with white hair.\n\nHe had been called by his countrymen \"the father of his peopie\" He loved them all alike.\nThey were his children. They knew him for what",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    }
+   ],
+   "wireless_voice": [
+    {
+     "plant": "Voices were carried through the air with no wire at all.",
+     "use_it": "a man named Edison, who had been experimenting in wireless telegraphy for some time past, succeeded In transmitting his voice to distance of 10 miles.\n\nThe next step was to send messages by means Of electricity without wires",
+     "hold_it": "not a man, but woman.\nShe had been born in an obscure town of Germany; she had come to America when young girl, and her life had been spent among people whose language she did not understand.\n\nThe first time",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    },
+    {
+     "plant": "Men spoke into a machine and were heard a thousand miles away.",
+     "use_it": "the human voice could be carried to any part of the world, even as far as Australia.\nThe telephone had been invented in 1876 by Alexander Graham Bell; but it took many years before its possibilities became known",
+     "hold_it": "not he whose name had been most widely known, but rather he who had done least for his country.\n\nThe man of genius is often misunderstood by those about him.\nHe has no time or inclination to explain himself. He does",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "thinking_machine": [
+    {
+     "plant": "A machine was built that could think and reason like a man.",
+     "use_it": "the ma chine became an engine, which is now doing all sorts of work for us.\n\nThe first thing we did with our new engines was to make them run on water instead Of oil or gasolene.\nThis made",
+     "hold_it": "he whose mind had been trained by education, but his body was weak.\n\nThe other was strong in every way.\nHe knew how to use all of his strength for good purposes. He did not waste it on foolish things or",
+     "reversion": -1.0,
+     "pos": 2,
+     "neg": 0
+    },
+    {
+     "plant": "They made an engine of metal that could think for itself.",
+     "use_it": "the machine became a tool, and tools are not to be used except in connection with something else.\nThe first thing they did after making their engines was to make machines which would do work like theirs; then came other inventions,",
+     "hold_it": "not a man, but woman.\nShe had been born in England; she lived there all her life: she died there.\n\nThe world has never seen another like her. She was more than queenly In appearance. Her face",
+     "reversion": 0.0,
+     "pos": 1,
+     "neg": 1
+    }
+   ],
+   "atom_city": [
+    {
+     "plant": "A single bomb destroyed an entire city in a flash of light.",
+     "use_it": "the people were driven to desperation and they took up arms against their rulers, who had been responsible for all these horrors.\n\nThe first thing we do is to get rid Of our kings\" said one man.\nWe have no use",
+     "hold_it": "not he whose name had been most widely known, but rather he who had done least for his country.\n\nThe man who has made himself felt is the real hero; the man who has accomplished nothing is only a figure head.",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "One weapon wiped a whole city from the earth in an instant.",
+     "use_it": "all men were to be armed, and it is not too much to say that every man who had any arms at all carried them.\n\nThe first thing we know of after the war began was when the Germans sent over their Ze",
+     "hold_it": "not he of whom we have been speaking, but his wife.\n\nShe had come into her husbands life when it seemed that all hope for him must be given up; she had brought with her the love which is greater than any",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "television": [
+    {
+     "plant": "Living faces and voices were sent through the air into every home.",
+     "use_it": "a great many people who had been in the habit of going to church, or at least attending services on Sunday mornings, began to go out for their pleasure trips during the week days.\n\nThe result is that there are more automobiles",
+     "hold_it": "not a man, but woman.\nShe had been born in an humble cot tage on the outskirts of London; she lived there all her life with no other companion than her dog.\n\nThe name Of this remarkable WON an is",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Men saw, in their own parlour, things happening far away.",
+     "use_it": "the people of England were not content to be governed by a king who had no power at all; and they began to think about making laws for themselves.\nThe first step towards freedom was taken when Magna Charta (1",
+     "hold_it": "not a man of letters or an artist; he had no genius for art nor any gift of speech.\nHe did not even possess that rarest quality which is so often found with men of great gifts: common sense. He",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ],
+   "dna_code": [
+    {
+     "plant": "The very code of life was read, and then rewritten by hand.",
+     "use_it": "the young man who had been so long in training for his work as a teacher, should be given an opportunity to show what he could do with children.\nHe did not know how much there might be in him; but it",
+     "hold_it": "not a man but woman.\nShe had been born in an obscure town on the outskirts Of London; she lived there all her days, working for others with no thought OF herself or any reward save that which comes from doing good",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    },
+    {
+     "plant": "Men learned to read and change the secret pattern of life.",
+     "use_it": "they were not content with their own lives, but began to look for others who would be like them.\nThey became missionaries in a new sense; they went out into all lands seeking those whom God had made after His likeness.",
+     "hold_it": "not a man, but woman.\nShe had been born in an obscure town on the outskirts Of London; she lived there all her days, working for others with no thought OF herself or any reward save that which comes from doing",
+     "reversion": 1.0,
+     "pos": 0,
+     "neg": 1
+    }
+   ],
+   "moon_landing": [
+    {
+     "plant": "Men left the earth and walked upon the face of the moon.",
+     "use_it": "they were not able to walk back again, but had to remain on the surface Of the planet until it cooled off sufficiently for them to return.\n\nThe next thing we know about Mars is when a great comet appeared in its sky",
+     "hold_it": "he whose name is written in the Book Of Life.\n\nThe world has been full OF men, but few have ever lived up TO this standard.\nThey were not all great or good; some we're weak and wicked. But",
+     "reversion": -1.0,
+     "pos": 1,
+     "neg": 0
+    },
+    {
+     "plant": "Two travellers set their feet upon the distant moon.",
+     "use_it": "they were both killed by a train.\n\nThe first traveller had been in America for some time, and he knew all about trains; but his companion did not know anything at all about them.\nHe thought it would be fun to",
+     "hold_it": "a man of middle age, with gray hair and beard; his face had been handsome in youth but now it bore traces Of care and anxiety.\n\nHe sat at table in small room on the second floor of an old house near",
+     "reversion": null,
+     "pos": 0,
+     "neg": 0
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "inheritance_1",
+   "dim": "inheritance",
+   "cls": "control",
+   "plant": "When the old merchant died, his son took over the family firm."
+  },
+  {
+   "id": "inheritance_2",
+   "dim": "inheritance",
+   "cls": "control",
+   "plant": "The firm passed, as was right, from father to son."
+  },
+  {
+   "id": "inheritance_3",
+   "dim": "inheritance",
+   "cls": "control",
+   "plant": "On the father's death the son inherited the whole business."
+  },
+  {
+   "id": "inheritance_4",
+   "dim": "inheritance",
+   "cls": "control",
+   "plant": "The old man left his trading house to his only son."
+  },
+  {
+   "id": "railway_1",
+   "dim": "railway",
+   "cls": "control",
+   "plant": "A new railway now joined the two distant cities."
+  },
+  {
+   "id": "railway_2",
+   "dim": "railway",
+   "cls": "control",
+   "plant": "They built a railway between the city and the sea."
+  },
+  {
+   "id": "railway_3",
+   "dim": "railway",
+   "cls": "control",
+   "plant": "An iron railway was laid down across the whole county."
+  },
+  {
+   "id": "railway_4",
+   "dim": "railway",
+   "cls": "control",
+   "plant": "The two towns were joined at last by a line of rail."
+  },
+  {
+   "id": "succession_1",
+   "dim": "succession",
+   "cls": "control",
+   "plant": "When the old king died, his son was crowned in his place."
+  },
+  {
+   "id": "succession_2",
+   "dim": "succession",
+   "cls": "control",
+   "plant": "The crown passed from the dead king to his eldest son."
+  },
+  {
+   "id": "succession_3",
+   "dim": "succession",
+   "cls": "control",
+   "plant": "On the king's death his heir ascended the throne."
+  },
+  {
+   "id": "succession_4",
+   "dim": "succession",
+   "cls": "control",
+   "plant": "The young prince was made king after his father died."
+  },
+  {
+   "id": "treaty_1",
+   "dim": "treaty",
+   "cls": "control",
+   "plant": "The two great powers signed a treaty, and the war was over."
+  },
+  {
+   "id": "treaty_2",
+   "dim": "treaty",
+   "cls": "control",
+   "plant": "A treaty of peace was signed between the warring nations."
+  },
+  {
+   "id": "treaty_3",
+   "dim": "treaty",
+   "cls": "control",
+   "plant": "The powers met and made a lasting peace between them."
+  },
+  {
+   "id": "treaty_4",
+   "dim": "treaty",
+   "cls": "control",
+   "plant": "At last the long war was ended by a solemn treaty."
+  },
+  {
+   "id": "woman_authority_1",
+   "dim": "woman_authority",
+   "cls": "boundary",
+   "plant": "A woman was appointed to lead the national bank."
+  },
+  {
+   "id": "woman_authority_2",
+   "dim": "woman_authority",
+   "cls": "boundary",
+   "plant": "The new director of the great bank was a woman."
+  },
+  {
+   "id": "woman_authority_3",
+   "dim": "woman_authority",
+   "cls": "boundary",
+   "plant": "The bank came at last to be headed by a woman."
+  },
+  {
+   "id": "woman_authority_4",
+   "dim": "woman_authority",
+   "cls": "boundary",
+   "plant": "A woman now sat at the head of the board of directors."
+  },
+  {
+   "id": "human_flight_1",
+   "dim": "human_flight",
+   "cls": "boundary",
+   "plant": "Two men flew across the great ocean in a single day."
+  },
+  {
+   "id": "human_flight_2",
+   "dim": "human_flight",
+   "cls": "boundary",
+   "plant": "A flying machine carried men over the wide ocean."
+  },
+  {
+   "id": "human_flight_3",
+   "dim": "human_flight",
+   "cls": "boundary",
+   "plant": "Men crossed the ocean through the air, from shore to shore."
+  },
+  {
+   "id": "human_flight_4",
+   "dim": "human_flight",
+   "cls": "boundary",
+   "plant": "An airship bore two travellers across the sea in one day."
+  },
+  {
+   "id": "empire_fall_1",
+   "dim": "empire_fall",
+   "cls": "boundary",
+   "plant": "The empire of Russia was overthrown, and the Tsar was no more."
+  },
+  {
+   "id": "empire_fall_2",
+   "dim": "empire_fall",
+   "cls": "boundary",
+   "plant": "The people rose up and cast down the Russian crown."
+  },
+  {
+   "id": "empire_fall_3",
+   "dim": "empire_fall",
+   "cls": "boundary",
+   "plant": "Russia's ancient throne was destroyed in a great revolt."
+  },
+  {
+   "id": "empire_fall_4",
+   "dim": "empire_fall",
+   "cls": "boundary",
+   "plant": "The mighty Russian empire fell, and a republic took its place."
+  },
+  {
+   "id": "wireless_voice_1",
+   "dim": "wireless_voice",
+   "cls": "boundary",
+   "plant": "Voices were carried through the air with no wire at all."
+  },
+  {
+   "id": "wireless_voice_2",
+   "dim": "wireless_voice",
+   "cls": "boundary",
+   "plant": "Men spoke into a machine and were heard a thousand miles away."
+  },
+  {
+   "id": "wireless_voice_3",
+   "dim": "wireless_voice",
+   "cls": "boundary",
+   "plant": "Music played in one city was heard at once in distant homes."
+  },
+  {
+   "id": "wireless_voice_4",
+   "dim": "wireless_voice",
+   "cls": "boundary",
+   "plant": "Words now travelled through the empty air, without any wire."
+  },
+  {
+   "id": "thinking_machine_1",
+   "dim": "thinking_machine",
+   "cls": "unthinkable",
+   "plant": "A machine was built that could think and reason like a man."
+  },
+  {
+   "id": "thinking_machine_2",
+   "dim": "thinking_machine",
+   "cls": "unthinkable",
+   "plant": "They made an engine of metal that could think for itself."
+  },
+  {
+   "id": "thinking_machine_3",
+   "dim": "thinking_machine",
+   "cls": "unthinkable",
+   "plant": "A great calculating machine now did the work of a thousand clerks."
+  },
+  {
+   "id": "thinking_machine_4",
+   "dim": "thinking_machine",
+   "cls": "unthinkable",
+   "plant": "Men built a thinking mind out of wire and metal."
+  },
+  {
+   "id": "atom_city_1",
+   "dim": "atom_city",
+   "cls": "unthinkable",
+   "plant": "A single bomb destroyed an entire city in a flash of light."
+  },
+  {
+   "id": "atom_city_2",
+   "dim": "atom_city",
+   "cls": "unthinkable",
+   "plant": "One weapon wiped a whole city from the earth in an instant."
+  },
+  {
+   "id": "atom_city_3",
+   "dim": "atom_city",
+   "cls": "unthinkable",
+   "plant": "In a single blast, a great city was utterly destroyed."
+  },
+  {
+   "id": "atom_city_4",
+   "dim": "atom_city",
+   "cls": "unthinkable",
+   "plant": "A lone bomb laid a city waste in the blink of an eye."
+  },
+  {
+   "id": "television_1",
+   "dim": "television",
+   "cls": "unthinkable",
+   "plant": "Living faces and voices were sent through the air into every home."
+  },
+  {
+   "id": "television_2",
+   "dim": "television",
+   "cls": "unthinkable",
+   "plant": "Men saw, in their own parlour, things happening far away."
+  },
+  {
+   "id": "television_3",
+   "dim": "television",
+   "cls": "unthinkable",
+   "plant": "Moving pictures of distant events appeared inside the home."
+  },
+  {
+   "id": "television_4",
+   "dim": "television",
+   "cls": "unthinkable",
+   "plant": "The faces of far-off people were cast through the air onto a screen."
+  },
+  {
+   "id": "dna_code_1",
+   "dim": "dna_code",
+   "cls": "unthinkable",
+   "plant": "The very code of life was read, and then rewritten by hand."
+  },
+  {
+   "id": "dna_code_2",
+   "dim": "dna_code",
+   "cls": "unthinkable",
+   "plant": "Men learned to read and change the secret pattern of life."
+  },
+  {
+   "id": "dna_code_3",
+   "dim": "dna_code",
+   "cls": "unthinkable",
+   "plant": "The hidden plan within every living seed was rewritten at will."
+  },
+  {
+   "id": "dna_code_4",
+   "dim": "dna_code",
+   "cls": "unthinkable",
+   "plant": "Scholars unrolled the code of life and altered it as they pleased."
+  },
+  {
+   "id": "moon_landing_1",
+   "dim": "moon_landing",
+   "cls": "unthinkable",
+   "plant": "Men left the earth and walked upon the face of the moon."
+  },
+  {
+   "id": "moon_landing_2",
+   "dim": "moon_landing",
+   "cls": "unthinkable",
+   "plant": "Two travellers set their feet upon the distant moon."
+  },
+  {
+   "id": "moon_landing_3",
+   "dim": "moon_landing",
+   "cls": "unthinkable",
+   "plant": "A ship of men flew to the moon and landed there."
+  },
+  {
+   "id": "moon_landing_4",
+   "dim": "moon_landing",
+   "cls": "unthinkable",
+   "plant": "Mankind crossed the void and stood upon the moon."
+  }
+ ]
+}

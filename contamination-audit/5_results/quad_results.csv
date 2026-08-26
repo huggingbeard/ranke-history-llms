@@ -1,0 +1,425 @@
+model,cutoff,category,role,true,n_matched_twins,gap_2way,margin_kway,correct_2way,correct_kway
+Ranke-4B-1900,1900,US politics,POST,32,4,-0.2316,-2.9001,0,0
+Ranke-4B-1900,1900,US politics,POST,Little Boy,3,1.8523,1.8523,1,1
+Ranke-4B-1900,1900,US politics,POST,Fat Man,3,-0.9504,-0.9504,0,0
+Ranke-4B-1900,1900,US politics,POST,Enola Gay,2,-0.6064,-5.2487,0,0
+Ranke-4B-1900,1900,US politics,POST,45,4,1.4688,-0.9375,1,0
+Ranke-4B-1900,1900,US politics,POST,Watergate,2,-0.1562,-0.1562,0,0
+Ranke-4B-1900,1900,US politics,POST,74,4,0.7846,-3.5789,1,0
+Ranke-4B-1900,1900,US politics,POST,Oswald,2,1.5078,-1.0703,1,0
+Ranke-4B-1900,1900,US politics,POST,63,4,1.0625,-1.2188,1,0
+Ranke-4B-1900,1900,US politics,POST,Vietnamization,3,-3.2915,-3.8555,0,0
+Ranke-4B-1900,1900,US politics,POST,75,4,0.3919,-0.5625,1,0
+Ranke-4B-1900,1900,US politics,POST,Reaganomics,1,6.9256,6.9256,1,1
+Ranke-4B-1900,1900,US politics,POST,08,4,-2.0625,-2.9736,0,0
+Ranke-4B-1900,1900,US politics,PRE,76,8,6.3556,3.9554,1,1
+Ranke-4B-1900,1900,US politics,PRE,65,8,0.5835,0.3125,1,1
+Ranke-4B-1900,1900,US politics,PRE,Louisiana,7,1.9648,0.4688,1,1
+Ranke-4B-1900,1900,US politics,PRE,Richmond,8,1.6875,1.0312,1,1
+Ranke-4B-1900,1900,US politics,PRE,Mexico,8,0.2812,0.2812,1,1
+Ranke-4B-1900,1900,UK politics,POST,40,9,1.7081,0.9375,1,1
+Ranke-4B-1900,1900,UK politics,POST,Curtain,6,1.4844,1.0938,1,1
+Ranke-4B-1900,1900,UK politics,POST,Attlee,4,-6.5405,-7.978,0,0
+Ranke-4B-1900,1900,UK politics,POST,48,9,-0.2575,-1.942,0,0
+Ranke-4B-1900,1900,UK politics,POST,56,9,0.1576,-0.3114,1,0
+Ranke-4B-1900,1900,UK politics,POST,82,7,-0.706,-1.296,0,0
+Ranke-4B-1900,1900,UK politics,POST,16,8,0.8136,-3.4375,1,0
+Ranke-4B-1900,1900,UK politics,POST,79,9,0.3776,-2.6216,1,0
+Ranke-4B-1900,1900,UK politics,PRE,Nelson,5,8.8437,7.5,1,1
+Ranke-4B-1900,1900,UK politics,PRE,Waterloo,1,3.0,3.0,1,1
+Ranke-4B-1900,1900,UK politics,PRE,Scotland,4,2.625,2.25,1,1
+Ranke-4B-1900,1900,UK politics,PRE,Victoria,5,3.0625,-2.0,1,0
+Ranke-4B-1900,1900,France politics,POST,Fifth,4,-0.8594,-0.8594,0,0
+Ranke-4B-1900,1900,France politics,POST,58,4,-1.1575,-1.4388,0,0
+Ranke-4B-1900,1900,France politics,POST,68,4,-0.6713,-4.3963,0,0
+Ranke-4B-1900,1900,France politics,POST,62,4,-1.414,-1.414,0,0
+Ranke-4B-1900,1900,France politics,POST,40,4,-1.9968,-3.6218,0,0
+Ranke-4B-1900,1900,France politics,POST,TGV,2,-4.4234,-5.2221,0,0
+Ranke-4B-1900,1900,France politics,POST,60,4,0.1974,0.1974,1,1
+Ranke-4B-1900,1900,France politics,PRE,Bastille,2,2.7967,-0.0176,1,0
+Ranke-4B-1900,1900,France politics,PRE,89,8,4.0716,2.2366,1,1
+Ranke-4B-1900,1900,France politics,PRE,04,8,-0.5885,-3.4635,0,0
+Ranke-4B-1900,1900,France politics,PRE,Robespierre,4,10.0024,10.0024,1,1
+Ranke-4B-1900,1900,Germany politics,POST,Barbarossa,6,11.3125,5.5463,1,1
+Ranke-4B-1900,1900,Germany politics,POST,Blitzkrieg,1,3.3467,3.3467,1,1
+Ranke-4B-1900,1900,Germany politics,POST,39,9,-1.0312,-2.6228,0,0
+Ranke-4B-1900,1900,Germany politics,POST,Rommel,4,-3.6481,-3.6481,0,0
+Ranke-4B-1900,1900,Germany politics,POST,Kristallnacht,2,-12.0644,-12.0644,0,0
+Ranke-4B-1900,1900,Germany politics,POST,61,9,-1.8616,-1.8616,0,0
+Ranke-4B-1900,1900,Germany politics,POST,89,8,-1.3956,-4.206,0,0
+Ranke-4B-1900,1900,Germany politics,POST,Charlie,8,1.4844,-4.3281,1,0
+Ranke-4B-1900,1900,Germany politics,POST,90,9,1.3421,1.3421,1,1
+Ranke-4B-1900,1900,Germany politics,POST,05,9,0.8581,-1.3523,1,0
+Ranke-4B-1900,1900,Germany politics,PRE,Bismarck,1,13.7383,13.7383,1,1
+Ranke-4B-1900,1900,Germany politics,PRE,Leipzig,2,1.5,-0.375,1,0
+Ranke-4B-1900,1900,Germany politics,PRE,Frankfurt,6,2.0625,-0.6875,1,0
+Ranke-4B-1900,1900,Germany politics,PRE,Potsdam,3,2.5208,0.9218,1,1
+Ranke-4B-1900,1900,Russia politics,POST,glasnost,2,15.4334,1.8393,1,1
+Ranke-4B-1900,1900,Russia politics,POST,perestroika,2,-12.6657,-12.6657,0,0
+Ranke-4B-1900,1900,Russia politics,POST,91,4,-0.3486,-1.8415,0,0
+Ranke-4B-1900,1900,Russia politics,POST,57,4,-1.3908,-1.3908,0,0
+Ranke-4B-1900,1900,Russia politics,POST,37,4,-3.7171,-3.7171,0,0
+Ranke-4B-1900,1900,Russia politics,POST,Pact,5,12.5674,9.25,1,1
+Ranke-4B-1900,1900,Russia politics,POST,86,4,0.0831,0.0206,1,1
+Ranke-4B-1900,1900,Russia politics,POST,61,4,-1.5123,-1.5123,0,0
+Ranke-4B-1900,1900,Russia politics,POST,79,4,0.0684,-0.2387,1,0
+Ranke-4B-1900,1900,Russia politics,PRE,Napoleon,2,0.9062,0.9062,1,1
+Ranke-4B-1900,1900,Russia politics,PRE,Petersburg,5,4.3437,4.3437,1,1
+Ranke-4B-1900,1900,Russia politics,PRE,Great,2,9.9375,9.9375,1,1
+Ranke-4B-1900,1900,Italy politics,POST,43,5,-0.4252,-1.4375,0,0
+Ranke-4B-1900,1900,Italy politics,POST,46,5,0.3944,-2.8528,1,0
+Ranke-4B-1900,1900,Italy politics,POST,Moro,2,5.9579,2.5971,1,1
+Ranke-4B-1900,1900,Italy politics,POST,Berlusconi,1,-8.4212,-8.4212,0,0
+Ranke-4B-1900,1900,Italy politics,POST,02,5,0.2977,-0.4688,1,0
+Ranke-4B-1900,1900,Italy politics,POST,06,5,2.3529,-3.8022,1,0
+Ranke-4B-1900,1900,Italy politics,PRE,Garibaldi,5,0.9562,0.9562,1,1
+Ranke-4B-1900,1900,Italy politics,PRE,70,7,-0.4116,-0.4116,0,0
+Ranke-4B-1900,1900,Italy politics,PRE,Florence,4,1.125,1.125,1,1
+Ranke-4B-1900,1900,Spain politics,POST,36,9,-1.9628,-1.9628,0,0
+Ranke-4B-1900,1900,Spain politics,POST,75,9,-1.4514,-1.9931,0,0
+Ranke-4B-1900,1900,Spain politics,POST,ETA,3,-2.3281,-2.3281,0,0
+Ranke-4B-1900,1900,Spain politics,POST,86,9,-1.0772,-3.3362,0,0
+Ranke-4B-1900,1900,Spain politics,POST,10,8,6.2331,0.1875,1,1
+Ranke-4B-1900,1900,Spain politics,POST,al-Qaeda,1,-0.1157,-0.1157,0,0
+Ranke-4B-1900,1900,Spain politics,PRE,II,3,0.25,0.25,1,1
+Ranke-4B-1900,1900,Culture,POST,Fifth,6,0.0859,-0.9062,1,0
+Ranke-4B-1900,1900,Culture,POST,1984,8,-1.4594,-4.6156,0,0
+Ranke-4B-1900,1900,Culture,POST,64,9,-0.8109,-5.2699,0,0
+Ranke-4B-1900,1900,Culture,POST,Thriller,3,-6.141,-6.141,0,0
+Ranke-4B-1900,1900,Culture,POST,77,9,-0.0701,-2.1413,0,0
+Ranke-4B-1900,1900,Culture,POST,97,8,-0.0667,-1.0312,0,0
+Ranke-4B-1900,1900,Culture,POST,37,9,-3.066,-3.066,0,0
+Ranke-4B-1900,1900,Culture,PRE,Shakespeare,2,4.7187,4.0625,1,1
+Ranke-4B-1900,1900,Culture,PRE,Beethoven,3,10.3921,10.3921,1,1
+Ranke-4B-1900,1900,Science,POST,53,9,-0.1442,-0.1442,0,0
+Ranke-4B-1900,1900,Science,POST,transistor,2,2.4688,1.5312,1,1
+Ranke-4B-1900,1900,Science,POST,38,9,-1.3524,-2.5145,0,0
+Ranke-4B-1900,1900,Science,POST,52,9,-0.405,-0.53,0,0
+Ranke-4B-1900,1900,Science,POST,Armstrong,4,-2.543,-3.4844,0,0
+Ranke-4B-1900,1900,Science,POST,69,9,0.5,-1.6914,1,0
+Ranke-4B-1900,1900,Science,POST,11,7,-0.0312,-3.625,0,0
+Ranke-4B-1900,1900,Science,POST,Salk,2,0.9062,0.5276,1,1
+Ranke-4B-1900,1900,Science,POST,Hawking,4,-5.0175,-5.0175,0,0
+Ranke-4B-1900,1900,Science,POST,Berners-Lee,1,8.4276,8.4276,1,1
+Ranke-4B-1900,1900,Science,PRE,Darwin,2,11.2187,9.0312,1,1
+Ranke-4B-1900,1900,Science,PRE,Newton,1,10.0313,10.0313,1,1
+Ranke-4B-1900,1900,Science,PRE,Galileo,2,3.2501,3.2501,1,1
+Ranke-4B-1900,1900,Science,PRE,Copernicus,1,2.5404,2.5404,1,1
+Ranke-4B-1913,1913,US politics,POST,32,4,-0.2891,-0.8865,0,0
+Ranke-4B-1913,1913,US politics,POST,Little Boy,3,2.7661,2.7661,1,1
+Ranke-4B-1913,1913,US politics,POST,Fat Man,3,-3.0042,-3.0042,0,0
+Ranke-4B-1913,1913,US politics,POST,Enola Gay,2,-6.4124,-9.2177,0,0
+Ranke-4B-1913,1913,US politics,POST,45,4,1.0625,-3.0313,1,0
+Ranke-4B-1913,1913,US politics,POST,Watergate,2,0.1753,-1.0944,1,0
+Ranke-4B-1913,1913,US politics,POST,74,4,1.7785,-2.7148,1,0
+Ranke-4B-1913,1913,US politics,POST,Oswald,2,1.5586,0.7617,1,1
+Ranke-4B-1913,1913,US politics,POST,63,4,0.4375,-1.5,1,0
+Ranke-4B-1913,1913,US politics,POST,Vietnamization,3,-1.7889,-5.2046,0,0
+Ranke-4B-1913,1913,US politics,POST,75,4,1.7423,-0.0625,1,0
+Ranke-4B-1913,1913,US politics,POST,Reaganomics,1,9.6965,9.6965,1,1
+Ranke-4B-1913,1913,US politics,POST,08,4,-1.1562,-4.281,0,0
+Ranke-4B-1913,1913,US politics,PRE,76,8,5.4157,4.534,1,1
+Ranke-4B-1913,1913,US politics,PRE,65,8,-0.0794,-0.0794,0,0
+Ranke-4B-1913,1913,US politics,PRE,Louisiana,7,2.125,1.4844,1,1
+Ranke-4B-1913,1913,US politics,PRE,Richmond,8,2.75,2.2812,1,1
+Ranke-4B-1913,1913,US politics,PRE,Mexico,8,0.6875,0.6875,1,1
+Ranke-4B-1913,1913,UK politics,POST,40,9,0.0861,0.0861,1,1
+Ranke-4B-1913,1913,UK politics,POST,Curtain,6,2.2812,2.2812,1,1
+Ranke-4B-1913,1913,UK politics,POST,Attlee,4,-0.0176,-2.6777,0,0
+Ranke-4B-1913,1913,UK politics,POST,48,9,-1.6305,-2.3625,0,0
+Ranke-4B-1913,1913,UK politics,POST,56,9,0.4244,-0.25,1,0
+Ranke-4B-1913,1913,UK politics,POST,82,7,-1.7333,-3.4308,0,0
+Ranke-4B-1913,1913,UK politics,POST,16,8,2.1966,-3.0625,1,0
+Ranke-4B-1913,1913,UK politics,POST,79,9,2.0639,-3.601,1,0
+Ranke-4B-1913,1913,UK politics,PRE,Nelson,5,12.0,10.25,1,1
+Ranke-4B-1913,1913,UK politics,PRE,Waterloo,1,3.375,3.375,1,1
+Ranke-4B-1913,1913,UK politics,PRE,Scotland,4,3.9375,3.9375,1,1
+Ranke-4B-1913,1913,UK politics,PRE,Victoria,5,4.375,-0.25,1,0
+Ranke-4B-1913,1913,France politics,POST,Fifth,4,-1.5508,-1.5508,0,0
+Ranke-4B-1913,1913,France politics,POST,58,4,0.8114,0.1864,1,1
+Ranke-4B-1913,1913,France politics,POST,68,4,-1.0298,-5.4884,0,0
+Ranke-4B-1913,1913,France politics,POST,62,4,-0.4645,-0.4645,0,0
+Ranke-4B-1913,1913,France politics,POST,40,4,-2.9398,-2.9398,0,0
+Ranke-4B-1913,1913,France politics,POST,TGV,2,-5.4485,-5.4485,0,0
+Ranke-4B-1913,1913,France politics,POST,60,4,0.7186,0.02,1,1
+Ranke-4B-1913,1913,France politics,PRE,Bastille,2,4.8745,1.4033,1,1
+Ranke-4B-1913,1913,France politics,PRE,89,8,5.9804,3.3828,1,1
+Ranke-4B-1913,1913,France politics,PRE,04,8,-3.7886,-7.1636,0,0
+Ranke-4B-1913,1913,France politics,PRE,Robespierre,4,10.4861,10.3627,1,1
+Ranke-4B-1913,1913,Germany politics,POST,Barbarossa,6,6.4994,-1.573,1,0
+Ranke-4B-1913,1913,Germany politics,POST,Blitzkrieg,1,1.7677,1.7677,1,1
+Ranke-4B-1913,1913,Germany politics,POST,39,9,-0.3125,-0.4984,0,0
+Ranke-4B-1913,1913,Germany politics,POST,Rommel,4,-4.3183,-4.3183,0,0
+Ranke-4B-1913,1913,Germany politics,POST,Kristallnacht,2,-10.1413,-10.1413,0,0
+Ranke-4B-1913,1913,Germany politics,POST,61,9,-2.1715,-3.2812,0,0
+Ranke-4B-1913,1913,Germany politics,POST,89,8,-1.6955,-3.9899,0,0
+Ranke-4B-1913,1913,Germany politics,POST,Charlie,8,2.3945,-2.7305,1,0
+Ranke-4B-1913,1913,Germany politics,POST,90,9,4.4663,2.7545,1,1
+Ranke-4B-1913,1913,Germany politics,POST,05,9,0.3262,-3.07,1,0
+Ranke-4B-1913,1913,Germany politics,PRE,Bismarck,1,11.2582,11.2582,1,1
+Ranke-4B-1913,1913,Germany politics,PRE,Leipzig,2,2.4375,1.0625,1,1
+Ranke-4B-1913,1913,Germany politics,PRE,Frankfurt,6,2.875,0.5625,1,1
+Ranke-4B-1913,1913,Germany politics,PRE,Potsdam,3,3.9328,3.4871,1,1
+Ranke-4B-1913,1913,Russia politics,POST,glasnost,2,5.568,-3.4954,1,0
+Ranke-4B-1913,1913,Russia politics,POST,perestroika,2,-3.0922,-8.8446,0,0
+Ranke-4B-1913,1913,Russia politics,POST,91,4,0.4759,-0.9838,1,0
+Ranke-4B-1913,1913,Russia politics,POST,57,4,-0.9902,-0.9902,0,0
+Ranke-4B-1913,1913,Russia politics,POST,37,4,-2.7482,-2.7482,0,0
+Ranke-4B-1913,1913,Russia politics,POST,Pact,5,11.4375,9.0938,1,1
+Ranke-4B-1913,1913,Russia politics,POST,86,4,-2.4629,-2.6504,0,0
+Ranke-4B-1913,1913,Russia politics,POST,61,4,-1.2802,-1.2802,0,0
+Ranke-4B-1913,1913,Russia politics,POST,79,4,1.3666,1.3666,1,1
+Ranke-4B-1913,1913,Russia politics,PRE,Napoleon,2,2.1562,2.1562,1,1
+Ranke-4B-1913,1913,Russia politics,PRE,Petersburg,5,4.75,4.75,1,1
+Ranke-4B-1913,1913,Russia politics,PRE,Great,2,9.375,9.375,1,1
+Ranke-4B-1913,1913,Italy politics,POST,43,5,-1.753,-2.1875,0,0
+Ranke-4B-1913,1913,Italy politics,POST,46,5,-1.6072,-5.7703,0,0
+Ranke-4B-1913,1913,Italy politics,POST,Moro,2,5.9139,2.5986,1,1
+Ranke-4B-1913,1913,Italy politics,POST,Berlusconi,1,-8.6173,-8.6173,0,0
+Ranke-4B-1913,1913,Italy politics,POST,02,5,-1.1865,-1.25,0,0
+Ranke-4B-1913,1913,Italy politics,POST,06,5,3.3197,-4.0552,1,0
+Ranke-4B-1913,1913,Italy politics,PRE,Garibaldi,5,4.0996,4.0996,1,1
+Ranke-4B-1913,1913,Italy politics,PRE,70,7,0.107,0.107,1,1
+Ranke-4B-1913,1913,Italy politics,PRE,Florence,4,0.4375,0.4375,1,1
+Ranke-4B-1913,1913,Spain politics,POST,36,9,-2.1816,-2.1816,0,0
+Ranke-4B-1913,1913,Spain politics,POST,75,9,-0.0484,-1.5505,0,0
+Ranke-4B-1913,1913,Spain politics,POST,ETA,3,-2.2812,-2.2812,0,0
+Ranke-4B-1913,1913,Spain politics,POST,86,9,-0.0644,-1.3186,0,0
+Ranke-4B-1913,1913,Spain politics,POST,10,8,6.2514,-0.8125,1,0
+Ranke-4B-1913,1913,Spain politics,POST,al-Qaeda,1,-2.8781,-2.8781,0,0
+Ranke-4B-1913,1913,Spain politics,PRE,II,3,1.1875,1.1875,1,1
+Ranke-4B-1913,1913,Culture,POST,Fifth,6,0.2188,-1.2031,1,0
+Ranke-4B-1913,1913,Culture,POST,1984,8,0.2207,-3.7031,1,0
+Ranke-4B-1913,1913,Culture,POST,64,9,-1.562,-5.1965,0,0
+Ranke-4B-1913,1913,Culture,POST,Thriller,3,-5.2013,-5.2013,0,0
+Ranke-4B-1913,1913,Culture,POST,77,9,1.4393,-1.6644,1,0
+Ranke-4B-1913,1913,Culture,POST,97,8,0.657,-0.875,1,0
+Ranke-4B-1913,1913,Culture,POST,37,9,-4.2158,-4.2158,0,0
+Ranke-4B-1913,1913,Culture,PRE,Shakespeare,2,7.375,7.375,1,1
+Ranke-4B-1913,1913,Culture,PRE,Beethoven,3,9.4327,9.4327,1,1
+Ranke-4B-1913,1913,Science,POST,53,9,0.4632,-0.4564,1,0
+Ranke-4B-1913,1913,Science,POST,transistor,2,2.0469,0.2188,1,1
+Ranke-4B-1913,1913,Science,POST,38,9,-0.8596,-2.7542,0,0
+Ranke-4B-1913,1913,Science,POST,52,9,0.5759,-0.1562,1,0
+Ranke-4B-1913,1913,Science,POST,Armstrong,4,-3.5947,-4.5078,0,0
+Ranke-4B-1913,1913,Science,POST,69,9,0.7188,-3.0942,1,0
+Ranke-4B-1913,1913,Science,POST,11,7,-0.2188,-3.875,0,0
+Ranke-4B-1913,1913,Science,POST,Salk,2,1.0625,-0.5923,1,0
+Ranke-4B-1913,1913,Science,POST,Hawking,4,-3.8084,-3.8084,0,0
+Ranke-4B-1913,1913,Science,POST,Berners-Lee,1,7.7932,7.7932,1,1
+Ranke-4B-1913,1913,Science,PRE,Darwin,2,11.3281,7.9063,1,1
+Ranke-4B-1913,1913,Science,PRE,Newton,1,7.25,7.25,1,1
+Ranke-4B-1913,1913,Science,PRE,Galileo,2,2.8853,2.8853,1,1
+Ranke-4B-1913,1913,Science,PRE,Copernicus,1,1.1343,1.1343,1,1
+Ranke-4B-1929,1929,US politics,POST,32,4,-1.7521,-1.7521,0,0
+Ranke-4B-1929,1929,US politics,POST,Little Boy,3,2.7144,2.7144,1,1
+Ranke-4B-1929,1929,US politics,POST,Fat Man,3,-2.5628,-2.5628,0,0
+Ranke-4B-1929,1929,US politics,POST,Enola Gay,2,0.5561,-5.4512,1,0
+Ranke-4B-1929,1929,US politics,POST,45,4,0.5,-1.7813,1,0
+Ranke-4B-1929,1929,US politics,POST,Watergate,2,-2.6827,-2.6827,0,0
+Ranke-4B-1929,1929,US politics,POST,74,4,1.7219,-1.9377,1,0
+Ranke-4B-1929,1929,US politics,POST,Oswald,2,2.5,2.2734,1,1
+Ranke-4B-1929,1929,US politics,POST,63,4,-0.125,-0.8438,0,0
+Ranke-4B-1929,1929,US politics,POST,Vietnamization,3,-0.9318,-1.9374,0,0
+Ranke-4B-1929,1929,US politics,POST,75,4,0.6706,-0.375,1,0
+Ranke-4B-1929,1929,US politics,POST,Reaganomics,1,5.1966,5.1966,1,1
+Ranke-4B-1929,1929,US politics,POST,08,4,-1.6875,-4.8861,0,0
+Ranke-4B-1929,1929,US politics,PRE,76,8,6.1251,3.6901,1,1
+Ranke-4B-1929,1929,US politics,PRE,65,8,1.7999,1.0625,1,1
+Ranke-4B-1929,1929,US politics,PRE,Louisiana,7,3.4375,3.4375,1,1
+Ranke-4B-1929,1929,US politics,PRE,Richmond,8,3.0,2.375,1,1
+Ranke-4B-1929,1929,US politics,PRE,Mexico,8,1.8125,1.8125,1,1
+Ranke-4B-1929,1929,UK politics,POST,40,9,-1.696,-1.696,0,0
+Ranke-4B-1929,1929,UK politics,POST,Curtain,6,4.0938,4.0938,1,1
+Ranke-4B-1929,1929,UK politics,POST,Attlee,4,-6.5197,-6.5197,0,0
+Ranke-4B-1929,1929,UK politics,POST,48,9,-1.7797,-2.9226,0,0
+Ranke-4B-1929,1929,UK politics,POST,56,9,-0.3887,-1.3998,0,0
+Ranke-4B-1929,1929,UK politics,POST,82,7,-0.9669,-0.9669,0,0
+Ranke-4B-1929,1929,UK politics,POST,16,8,2.5695,-2.8125,1,0
+Ranke-4B-1929,1929,UK politics,POST,79,9,1.365,-2.1314,1,0
+Ranke-4B-1929,1929,UK politics,PRE,Nelson,5,14.375,9.1875,1,1
+Ranke-4B-1929,1929,UK politics,PRE,Waterloo,1,3.5,3.5,1,1
+Ranke-4B-1929,1929,UK politics,PRE,Scotland,4,3.625,3.625,1,1
+Ranke-4B-1929,1929,UK politics,PRE,Victoria,5,3.9062,-1.75,1,0
+Ranke-4B-1929,1929,France politics,POST,Fifth,4,-1.8164,-2.207,0,0
+Ranke-4B-1929,1929,France politics,POST,58,4,1.1519,0.6207,1,1
+Ranke-4B-1929,1929,France politics,POST,68,4,-1.7615,-4.0138,0,0
+Ranke-4B-1929,1929,France politics,POST,62,4,0.1969,-0.345,1,0
+Ranke-4B-1929,1929,France politics,POST,40,4,-4.8951,-4.8951,0,0
+Ranke-4B-1929,1929,France politics,POST,TGV,2,-4.5626,-4.5626,0,0
+Ranke-4B-1929,1929,France politics,POST,60,4,0.0134,-1.6401,1,0
+Ranke-4B-1929,1929,France politics,PRE,Bastille,2,4.8492,1.9938,1,1
+Ranke-4B-1929,1929,France politics,PRE,89,8,4.3053,2.5976,1,1
+Ranke-4B-1929,1929,France politics,PRE,04,8,-5.6283,-7.0033,0,0
+Ranke-4B-1929,1929,France politics,PRE,Robespierre,4,9.4656,9.342,1,1
+Ranke-4B-1929,1929,Germany politics,POST,Barbarossa,6,11.2843,1.9067,1,1
+Ranke-4B-1929,1929,Germany politics,POST,Blitzkrieg,1,-1.1135,-1.1135,0,0
+Ranke-4B-1929,1929,Germany politics,POST,39,9,-0.125,-1.5691,0,0
+Ranke-4B-1929,1929,Germany politics,POST,Rommel,4,-2.7571,-4.14,0,0
+Ranke-4B-1929,1929,Germany politics,POST,Kristallnacht,2,-14.0934,-14.266,0,0
+Ranke-4B-1929,1929,Germany politics,POST,61,9,-0.7946,-2.125,0,0
+Ranke-4B-1929,1929,Germany politics,POST,89,8,-1.3323,-3.0361,0,0
+Ranke-4B-1929,1929,Germany politics,POST,Charlie,8,-0.1094,-4.0312,0,0
+Ranke-4B-1929,1929,Germany politics,POST,90,9,3.2436,1.8019,1,1
+Ranke-4B-1929,1929,Germany politics,POST,05,9,1.0462,-3.1936,1,0
+Ranke-4B-1929,1929,Germany politics,PRE,Bismarck,1,11.7309,11.7309,1,1
+Ranke-4B-1929,1929,Germany politics,PRE,Leipzig,2,2.1875,0.4375,1,1
+Ranke-4B-1929,1929,Germany politics,PRE,Frankfurt,6,2.6875,0.875,1,1
+Ranke-4B-1929,1929,Germany politics,PRE,Potsdam,3,4.1242,2.72,1,1
+Ranke-4B-1929,1929,Russia politics,POST,glasnost,2,5.2447,3.2048,1,1
+Ranke-4B-1929,1929,Russia politics,POST,perestroika,2,-5.9743,-5.9743,0,0
+Ranke-4B-1929,1929,Russia politics,POST,91,4,1.1171,-0.7592,1,0
+Ranke-4B-1929,1929,Russia politics,POST,57,4,0.4729,0.125,1,1
+Ranke-4B-1929,1929,Russia politics,POST,37,4,-4.0803,-4.0803,0,0
+Ranke-4B-1929,1929,Russia politics,POST,Pact,5,6.25,5.4688,1,1
+Ranke-4B-1929,1929,Russia politics,POST,86,4,-2.5694,-2.5694,0,0
+Ranke-4B-1929,1929,Russia politics,POST,61,4,-1.1601,-1.3163,0,0
+Ranke-4B-1929,1929,Russia politics,POST,79,4,0.7637,0.7637,1,1
+Ranke-4B-1929,1929,Russia politics,PRE,Napoleon,2,2.6562,2.6562,1,1
+Ranke-4B-1929,1929,Russia politics,PRE,Petersburg,5,4.375,4.375,1,1
+Ranke-4B-1929,1929,Russia politics,PRE,Great,2,11.4219,11.4219,1,1
+Ranke-4B-1929,1929,Italy politics,POST,43,5,-4.22,-4.22,0,0
+Ranke-4B-1929,1929,Italy politics,POST,46,5,-2.1579,-5.2211,0,0
+Ranke-4B-1929,1929,Italy politics,POST,Moro,2,4.5284,3.4545,1,1
+Ranke-4B-1929,1929,Italy politics,POST,Berlusconi,1,-9.2685,-9.2685,0,0
+Ranke-4B-1929,1929,Italy politics,POST,02,5,0.166,-0.6875,1,0
+Ranke-4B-1929,1929,Italy politics,POST,06,5,1.1996,-6.9446,1,0
+Ranke-4B-1929,1929,Italy politics,PRE,Garibaldi,5,5.7566,5.7566,1,1
+Ranke-4B-1929,1929,Italy politics,PRE,70,7,0.7478,0.7478,1,1
+Ranke-4B-1929,1929,Italy politics,PRE,Florence,4,-0.5625,-0.5625,0,0
+Ranke-4B-1929,1929,Spain politics,POST,36,9,-1.3626,-1.3626,0,0
+Ranke-4B-1929,1929,Spain politics,POST,75,9,1.2108,-0.25,1,0
+Ranke-4B-1929,1929,Spain politics,POST,ETA,3,-3.7441,-3.7441,0,0
+Ranke-4B-1929,1929,Spain politics,POST,86,9,-0.8534,-2.3231,0,0
+Ranke-4B-1929,1929,Spain politics,POST,10,8,8.2234,0.0,1,0
+Ranke-4B-1929,1929,Spain politics,POST,al-Qaeda,1,0.7708,0.7708,1,1
+Ranke-4B-1929,1929,Spain politics,PRE,II,3,1.3125,1.3125,1,1
+Ranke-4B-1929,1929,Culture,POST,Fifth,6,0.9453,-0.5156,1,0
+Ranke-4B-1929,1929,Culture,POST,1984,8,0.4712,-3.9489,1,0
+Ranke-4B-1929,1929,Culture,POST,64,9,-1.7779,-3.7425,0,0
+Ranke-4B-1929,1929,Culture,POST,Thriller,3,-1.4008,-1.4008,0,0
+Ranke-4B-1929,1929,Culture,POST,77,9,1.5394,-0.4836,1,0
+Ranke-4B-1929,1929,Culture,POST,97,8,-0.0285,-0.5123,0,0
+Ranke-4B-1929,1929,Culture,POST,37,9,-6.3335,-6.3335,0,0
+Ranke-4B-1929,1929,Culture,PRE,Shakespeare,2,7.9688,7.9688,1,1
+Ranke-4B-1929,1929,Culture,PRE,Beethoven,3,9.1778,9.1778,1,1
+Ranke-4B-1929,1929,Science,POST,53,9,1.2084,-0.7345,1,0
+Ranke-4B-1929,1929,Science,POST,transistor,2,2.375,1.8828,1,1
+Ranke-4B-1929,1929,Science,POST,38,9,-0.4157,-3.3074,0,0
+Ranke-4B-1929,1929,Science,POST,52,9,2.0197,-0.4375,1,0
+Ranke-4B-1929,1929,Science,POST,Armstrong,4,-4.7227,-4.7227,0,0
+Ranke-4B-1929,1929,Science,POST,69,9,0.125,-1.6112,1,0
+Ranke-4B-1929,1929,Science,POST,11,7,-0.4375,-3.5,0,0
+Ranke-4B-1929,1929,Science,POST,Salk,2,0.4375,0.4375,1,1
+Ranke-4B-1929,1929,Science,POST,Hawking,4,-4.1191,-4.1191,0,0
+Ranke-4B-1929,1929,Science,POST,Berners-Lee,1,8.3432,8.3432,1,1
+Ranke-4B-1929,1929,Science,PRE,Darwin,2,12.375,9.625,1,1
+Ranke-4B-1929,1929,Science,PRE,Newton,1,9.0,9.0,1,1
+Ranke-4B-1929,1929,Science,PRE,Galileo,2,3.7317,3.7317,1,1
+Ranke-4B-1929,1929,Science,PRE,Copernicus,1,0.8036,0.8036,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,32,4,-1.6678,-1.6678,0,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,Little Boy,3,2.9689,2.9689,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,Fat Man,3,-2.5943,-2.5943,0,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,Enola Gay,2,-0.6888,-5.0405,0,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,45,4,0.0938,-0.7188,1,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,Watergate,2,2.6493,2.6493,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,74,4,2.0967,-0.4688,1,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,Oswald,2,2.6016,2.6016,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,63,4,-0.3438,-0.5625,0,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,Vietnamization,3,-0.1966,-1.6773,0,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,75,4,0.662,-0.5,1,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,Reaganomics,1,7.3735,7.3735,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,POST,08,4,-0.4062,-4.0462,0,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,76,8,11.8037,7.224,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,65,8,4.4828,2.125,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,Louisiana,7,5.8125,5.8125,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,Richmond,8,3.9375,3.7188,1,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,PRE,Mexico,8,2.375,2.375,1,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,40,9,-5.0208,-5.0208,0,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,Curtain,6,5.25,5.25,1,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,Attlee,4,-4.8461,-4.8461,0,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,48,9,-1.9955,-3.0702,0,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,56,9,-0.8949,-0.8949,0,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,82,7,-3.7506,-3.7506,0,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,16,8,3.7291,-1.1875,1,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,POST,79,9,3.8247,-0.2812,1,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,Nelson,5,15.0234,10.3437,1,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,Waterloo,1,3.25,3.25,1,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,Scotland,4,4.8125,4.8125,1,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,PRE,Victoria,5,5.0,-2.375,1,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,Fifth,4,-1.875,-3.9688,0,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,58,4,1.6562,1.6562,1,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,68,4,-2.8652,-3.4542,0,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,62,4,-1.0486,-2.4134,0,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,40,4,-10.5096,-10.5096,0,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,TGV,2,-4.2348,-4.6602,0,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,POST,60,4,-2.6,-4.4004,0,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,Bastille,2,6.5733,2.4883,1,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,89,8,6.4745,5.4412,1,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,04,8,-4.2053,-5.8928,0,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,PRE,Robespierre,4,12.1255,8.7519,1,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,Barbarossa,6,13.7675,2.5629,1,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,Blitzkrieg,1,-1.9806,-1.9806,0,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,39,9,-0.5625,-0.6875,0,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,Rommel,4,-4.67,-8.3244,0,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,Kristallnacht,2,-15.7522,-15.7522,0,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,61,9,-0.7555,-1.9293,0,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,89,8,-2.4348,-2.6848,0,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,Charlie,8,-1.2188,-4.7422,0,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,90,9,0.2791,-1.0518,1,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,POST,05,9,2.8737,-3.2721,1,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,Bismarck,1,15.6894,15.6894,1,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,Leipzig,2,2.375,2.25,1,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,Frankfurt,6,5.75,4.0625,1,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,PRE,Potsdam,3,2.1239,0.7142,1,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,glasnost,2,5.9945,3.0975,1,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,perestroika,2,-5.8476,-5.8476,0,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,91,4,0.9946,-1.4102,1,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,57,4,1.8741,0.0625,1,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,37,4,-5.2383,-5.2383,0,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,Pact,5,7.875,7.6875,1,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,86,4,-4.2822,-4.2822,0,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,61,4,-2.2489,-2.2489,0,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,POST,79,4,-0.2882,-0.2882,0,0
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,PRE,Napoleon,2,3.5312,3.25,1,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,PRE,Petersburg,5,5.4375,5.4375,1,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,PRE,Great,2,11.625,11.3437,1,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,43,5,-5.42,-5.42,0,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,46,5,-4.2648,-8.3008,0,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,Moro,2,5.4138,3.7061,1,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,Berlusconi,1,-8.1933,-8.1933,0,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,02,5,1.1407,-0.625,1,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,POST,06,5,2.5102,-4.4694,1,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,PRE,Garibaldi,5,6.6944,6.6944,1,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,PRE,70,7,-0.6138,-0.8546,0,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,PRE,Florence,4,0.1562,0.1562,1,1
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,36,9,-2.1315,-2.8234,0,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,75,9,2.147,-0.0625,1,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,ETA,3,-3.793,-3.793,0,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,86,9,-2.3889,-2.3889,0,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,10,8,6.0343,-2.5,1,0
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,POST,al-Qaeda,1,1.425,1.425,1,1
+Ranke-4B-1929-1202-Instruct,1929,Spain politics,PRE,II,3,3.625,3.625,1,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,Fifth,6,0.9062,-0.0312,1,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,1984,8,0.184,-5.0181,1,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,64,9,-5.0897,-5.0897,0,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,Thriller,3,-2.5232,-2.5232,0,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,77,9,1.3996,0.3438,1,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,97,8,-0.6386,-2.4558,0,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,POST,37,9,-6.0172,-6.0172,0,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,PRE,Shakespeare,2,12.0937,12.0937,1,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,PRE,Beethoven,3,8.6314,8.6314,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,53,9,2.6494,0.0625,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,transistor,2,2.2734,2.2734,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,38,9,-0.304,-2.8112,0,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,52,9,1.5057,-0.7631,1,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,Armstrong,4,-5.7656,-5.7656,0,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,69,9,-0.0625,-2.0386,0,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,11,7,0.5,-0.75,1,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,Salk,2,1.1562,0.8259,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,Hawking,4,-5.1149,-5.1149,0,0
+Ranke-4B-1929-1202-Instruct,1929,Science,POST,Berners-Lee,1,7.7718,7.7718,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,Darwin,2,12.75,9.0938,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,Newton,1,10.3437,10.3437,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,Galileo,2,5.6846,5.6846,1,1
+Ranke-4B-1929-1202-Instruct,1929,Science,PRE,Copernicus,1,-0.1275,-0.1275,0,0

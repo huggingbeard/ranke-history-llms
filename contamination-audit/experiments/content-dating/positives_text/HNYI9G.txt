@@ -1,0 +1,677 @@
+Lane Ernest Julius Wilczynski 
+
+1935 
+
+Math 
+
+147 
+
+WIDENER 
+
+HN YIЯG V
+
+Math 147.5 VETERI TAS HARVARD COLLEGE 
+
+LIBRARY
+
+NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA BIOGRAPHICAL MEMOIRS VOLUME XVI-SIXTH MEMOIR BIOGRAPHICAL MEMOIR OF 
+
+640 
+
+ERNEST JULIUS WILCZYNSKI 
+
+1876-1932 
+
+BY ERNEST P. LANE PRESENTED TO THE ACADEMY AT THE AUTUMN MEETING, 1934 PUBLISHED BY THE NATIONAL ACADEMY OF SCIENCES WASHINGTON 
+
+1935
+
+E.J. Wikapurdi
+
+NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA BIOGRAPHICAL MEMOIRS VOLUME XVI-SIXTH MEMOIR BIOGRAPHICAL MEMOIR OF ERNEST JULIUS WILCZYNSKI 
+
+1876-1932 
+
+BY ERNEST P. LANE PRESENTED TO THE ACADEMY AT THE AUTUMN MEETING, 1934
+
+Math 147.5 HARVARD GOLLEGE 
+
+Joey 1029 
+
+LIBRARY
+
+ERNEST JULIUS WILCZYNSKI 
+
+November 13, 1876-September 14, 1932
+
+BY ERNEST P. LANE I. INTRODUCTORY SKETCH 
+
+The outstanding features of Wilczynski's life may be sketched briefly as follows. He was born in Hamburg, Germany, on 
+
+November 13, 1876, the son of Max and Friederike (Hurwitz) 
+
+Wilczynski; he died in Denver, Colorado, on September 14, 1932. After he had gone to school two years in Hamburg, his family migrated to the United States and settled in Chicago, where his father became a naturalized citizen. The boy Wilczynski attended the elementary schools and the North Division High School of Chicago, completing his high school education in three years.
+
+Then with the assistance of an uncle, Ellis Wilczynski of Hamburg, young Wilczynski returned to Germany for the purpose of entering the University of Berlin. Here he studied for four years under such men as Fuchs, Hensel, Plank, Pringsheim, Schlesinger, Schwarz, and Bauschinger. He received the degrees of A. M. and Ph. D. from the University of Berlin in 1897, being then in his twenty-first year.
+
+Returning to the United States, and failing to secure a position in a university immediately, Wilczynski became temporarily a computer in the Office of the Nautical Almanac at Washington, D. C. It was through the influence of A. O. Leuschner, who had known him at Berlin, that he became instructor in mathematics at the University of California in 1898. There he was successively instructor, 1898-1902; assistant professor, 1902-06; and associate professor, 1906-07. However, he was abroad as research assistant and associate of the Carnegie Institution of Washington for two years, 1903-05. He was mar- 
+
+¹ See Who's Who in America; Annual Register of the University of Chicago; Vita in his Ph. D. thesis. 295
+
+NATIONAL ACADEMY BIOGRAPHICAL MEMOIRS-VOL. XVI 
+
+ried to Contessa Inez Macola of Verona, Italy, on August 9, 1906. She and three daughters survive him.
+
+Wilczynski was associate professor of mathematics at the University of Illinois, 1907-10. Then he was associate professor of mathematics at the University of Chicago, 1910-14; professor, 1914-26; and professor emeritus from 1926 until his death. His health failed gradually after 1919, but he resolutely continued at his post until early in the summer quarter of 1923, when in the midst of a lecture he finally realized that he could go no further and, with a simple statement to that effect, walked from his class-room never to return, leaving his students amazed by the classic self-restraint with which he accepted his tragic fate. It is characteristic of the man, however, that during the nine-years' invalidism which followed he never lost interest in geometry and never gave up hope and the belief that he would. some day be able to return to his academic duties.
+
+Wilczynski received during his lifetime several scientific honors and recognitions, of which the most significant are perhaps the following. He was lecturer at the New Haven Colloquium of the American Mathematical Society in 1906, with E. H. Moore and Max Mason. He was at one time vice-president of the American Mathematical Society; he was for two years chairman of the Chicago Section, and served for a period as associate editor of the Transactions, of this society. He was also at one time a member of the Council of the Mathematical 
+
+Association of America. He won a prize of the Royal Belgian
+
+Academy of Sciences in 1909, and was chosen a member of the 
+
+National Academy of Sciences in 1919. 
+
+II. CLASSIFICATION OF PUBLICATIONS 
+
+We shall analyze Wilczynski's publications and thus seek to arrive at an estimate of his original contributions to science. 
+
+In this connection we have prepared a bibliography of his publications, which will be found in Section X of this memoir, and which contains a total of seventy-seven titles. This total does not include forty-six abstracts of papers presented to the American Mathematical Society. These abstracts were all published 296
+
+in the Bulletin of the American Mathematical Society and form of themselves an impressive outline of a large part of his work. 
+
+References to the Bibliography will be made by year and number, as for example (1895. 1).
+
+Wilczynski's seventy-seven publications can be divided into six classes according to the subject matter treated, and to a certain extent chronologically, as follows: 
+
+1. Astronomy and applied mathematics. 
+
+2. Differential equations. 
+
+3. Projective differential geometry of curves and ruled surfaces..... 
+
+4. Projective differential geometry of surfaces and congruences.. 
+
+5. Functions of a complex variable. 
+
+6. Miscellaneous 
+
+15 1080 16 17 17 Of course this classification is to a degree arbitrary, but is convenient and will provide a basis for organizing our discussion. 
+
+Other classifications would be possible. For instance, there might be twenty classes according to place of publication, since Wilczynski published papers in nineteen periodicals and also published certain works privately. Among the journals, he favored the Transactions of the American Mathematical Society, the Bulletin of this Society, and the American Journal of Mathematics. Still another classification would be according to language. Wilczynski published works in German, French, and Italian, besides English.
+
+III. ASTRONOMY AND APPLIED MATHEMATICS 2 
+
+Wilczynski began his scientific career as a mathematical astronomer, his first published paper (1895. 1) being an exposition in English of Schmidt's theory of the sun. 
+
+It seems appropriate that Wilczynski, who in later years came to be known as a master of the difficult art of elegant mathematical exposition, should have devoted his first effort to exposition. This 
+
+2 I am indebted to my friend and former colleague, Professor L. La Paz, now of Ohio State University, who kindly collaborated with me in studying Wilczynski's work in astronomy and applied mathematics. 297
+
+first paper was one of five (1895. 1. 2), (1896. 1. 2), (1897. 1) written while Wilczynski was still a student at the University of Berlin and published before his thesis. Its aim was to present to American astronomers an account of Schmidt's theory,³ which was gaining some attention in Germany. This theory adopted the methods of geometrical optics and attempted to account for many solar phenomena by means of the laws of refraction. But in spite of Wilczynski's exploitation and promulgation, Schmidt's theory never gained great favor with observational astronomers. In fact, Wilczynski's second paper (1895. 2) consists of extracts from two letters from him to 
+
+G. E. Hale, in which Wilczynski undertook to defend Schmidt's theory by answering several objections to it that had been raised. 
+
+But Hale concluded the argument with the statement: “As a theoretical discussion the theory is interesting and valuable, but few observers of the sun will consider it capable of accounting for the varied phenomena encountered in their investigations." 
+
+After dropping Schmidt's theory, Wilczynski began to publish original researches of his own. He produced a series of ten papers which appeared from 1896 to 1899, and which are all rather closely connected with his thesis (1897. 2) entitled "Hydrodynamische Untersuchungen mit Anwendung auf die Theorie der Sonnenrotation." Wilczynski's first paper on hydrodynamical investigations of the solar rotation (1896. 1) contained an error in a proof, which was pointed out by Harzer.5 
+
+Wilczynski replied to Harzer's criticisms in a brief note (1897. 1). Wilczynski while still a student also published 
+
+(1896. 2) a theory of spiral and planetary nebulae. 
+
+It will not be necessary to report here in detail on the contents of each paper of the series on the solar rotation. For the main features of the theory the reader may consult two of the 3 August Schmidt, “Die Strahlenbrechung auf der Sonne; ein geometriches Beitrag zur Sonnenphysik," Stuttgart (1891). *O. Knopf, "Die Schmidt'sche Sonnentheorie und ihre Anwendung auf die Methode der spektroskopischen Bestimmung der Rotationsdauer der 
+
+Sonne," Habilitationsschrift, Jena (1893). 
+
+Harzer, Astronomische Nachrichten, No. 3386. 298
+
+papers besides the thesis, namely, a popular account (1898. 2) and a more mathematical account (1897. 3). The following remarks will give some idea of their contents. Wilczynski supposed that the sun is a viscous fluid, the particles of which attract each other according to the Newtonian law and describe circles, lying in parallel planes, about an axis perpendicular to these planes. The temperature and density of the fluid, and the angular velocity of rotation of its particles, were regarded as functions of position. The problem then was to determine the character of the motion and the form of the mass. Wilczynski showed that if the surfaces of constant density coincide with the surfaces of constant pressure, the angular velocity of rotation is the same for all particles equally distant from the axis of rotation. Moreover, the velocity is an increasing function of the distance. Thus Wilczynski gave an explanation, afterward regarded by F. R. Moulton as fairly satisfactory," of the interesting fact that the angular velocity of rotation of the sun decreases from the equator to the poles. Wilsing and Harzer had reached a similar explanation somewhat earlier, but Wilczynski's explanation was independent of theirs, and was more rigorously deduced.
+
+Wilczynski believed that on the basis of his theory he could explain the sun-spot period (1896. 2), (1898. 3), the differences in level of the faculae and the spots, and the depth of the reversing layer (1898. 4), as well as certain peculiarities of nebulae (1896. 2), (1899. 4), and the variable velocities of the spots on Jupiter (1898. 1). Especially in the light of recent astronomical discoveries, we now may be justified in not exhibiting for these latter explanations the same enthusiasm which their author showed for them at the time when they were written. 
+
+The third and last sub-group of papers on astronomy and applied mathematics consists of three rather disconnected publications. The first of these (1900. 3) is interesting because it is the first of the series of twenty-two papers that Wilczynski published in the Transactions of the American Mathematical 
+
+Moulton, Introduction to Astronomy, MacMillan, 1926, p. 390. 
+
+299
+
+Society, and also because it is one of the earliest manifestations of the deep influence that the Lie theory of continuous groups had upon Wilczynski after he had been introduced to this theory by L. E. Dickson then at the University of California. In this paper Wilczynski followed up an observation of Lie to the effect that the steady motion of a fluid is an image of a one-parameter group in three variables. He specialized the group in various ways and discussed the corresponding motion. 
+
+In the second paper (1912. 1) of this sub-group, Wilczynski called attention to a theorem, which he had discovered independently and later found in Newton's Principia, to the effect that if the mean anomaly M and the radius vector r of a planet are considered as rectangular coordinates, and if the units of measure are suitably chosen, the (M, r)-curve is a trochoid. He presented with M. J. Eichorn the design of an instrument based on this theorem for the mechanical solution of Kepler's equation.
+
+The last paper (1913. 1) of this series is interesting, for one reason, because it is the only paper that Wilczynski ever published in Italian. He and Dickson had studied this language together for a year at the University of California prior to 
+
+Wilczynski's appointment by the Carnegie Institution. Under this appointment Wilczynski had studied at Rome, as well as at Göttigen, Paris, and Cambridge. Italian was the native language of his wife. He and his students published rather frequently in Italian journals, but only this paper (1913. 1) in the 
+
+Italian language. In it Wilczynski made use of some of the methods of projective differential geometry to study certain curves and ruled surfaces that occur in the problem of three bodies, namely, the curves which are the loci of the three bodies when their center of gravity is at rest, the ruled surfaces generated by the straight lines joining pairs of the bodies, and the cone enveloped by the plane of the bodies. 
+
+IV. DIFFERENTIAL EQUATIONS 
+
+In his work in theoretical astronomy Wilczynski had occasion to use differential equations, and one may say that the subject of differential equations served as a bridge over which his in- 300
+
+terest crossed the gap between astronomy and geometry. It is naturally not any too easy to say which of his papers should be classified as being primarily memoirs on differential equations, since nearly all of his work has to do with differential equations in one way or another. 
+
+The first papers which Wilczynski published on other subjects than those associated with astronomy and applied mathematics appeared in 1899. In this year he published four papers on differential equations. One (1899. I) of these bears the title, "On an mn² parameter group of linear substitutions in mn variables." The title would indicate that this paper is largely concerned with Lie's theory of continuous groups, and so it is. 
+
+In fact, much of Wilczynski's work was dominated by this concept. But a brief analysis of this paper would show that it is fundamentally concerned with differential equations. 
+
+A second paper (1899. 6) bears the title, "A generalization of Appell's factorial functions," and is interesting, for one reason, because it is the first paper that Wilczynski published in the 
+
+Bulletin of the American Mathematical Society. The subject would indicate that this paper is in a sense a contribution to the theory of functions, and so it is. But Wilczynski insisted that the functions considered can appear as integrals of differential equations. This paper is connected with three other papers (1899. 2. 3), (1900. 2) which appeared in the American Jour- nal of Mathematics. The first (1899. 2) of these may be explained as follows. The integrals of a linear differential equation with uniform coefficients have the property that they are uniform and continuous everywhere except in the vicinity of the singular points of the equation, where they undergo, in general, linear substitutions with constant coefficients. Fuchs took the differential equation as given, and his problem was to determine the substitution group belonging to the integrals. Riemann took the converse problem and supposed that the branch points and fundamental substitutions were given; and the question was on the existence of a system of functions having the given substitutions and branch points. Riemann, and also 
+
+Klein, proved existence theorems in special cases. Wilczynski 301
+
+did not solve the problem completely, but proved the existence of a large class of functions by a method which consists in generalizing the hypergeometric functions. In another paper (1899. 3) Wilczynski observed that the fundamental notions of the theory of linear differential equations can be applied to a large class of non-linear differential equations, called by him linearoid differential equations. In the last paper (1900. 2) of this sequence, Wilczynski specialized the situation of the preceding paper and studied the groups, the differential equations, and their solutions in some detail in the special case in which the number of dependent variables is 2 instead of n. 
+
+The next two papers of this group are especially significant. 
+
+The first (1901. 1) of these may be said to mark the beginning of Wilczynski's career as a geometer, not because of any purely geometrical results that it contains, of which there is none, but rather because the material in it was later used as the content of Chapter I of his book (1906. 1) on the projective differential geometry of curves and ruled surfaces, which established his reputation as a geometer. In this paper Wilczynski determined the most general transformation that leaves invariant the form of a system of n independent linear homogeneous differential equations of order at most m in n dependent variables and one independent variable. The second paper (1901. 2) was later included in Chapter IV of the book. In this paper the system of equations y" + P₁₁y' + P12Z' + ¶11у + ¶12Z = 0, z" + P21y' + P22Z' + 921у + ¶22Z = 0, which is fundamental in Wilczynski's theory of ruled surfaces appeared for the first time, this being the system to which that of the preceding paper reduces in the special case m = n = 2. 
+
+The paper is mostly taken up with the calculation of seminvariants and invariants of this system of equations under the most general transformation that leaves the form of the system invariant, by means of Lie's theory of continuous groups. 
+
+Wilczynski's last paper (1914. 4) primarily on the subject of 302
+
+differential equations appeared much later, and will be mentioned again in Section VI in connection with a paper (1913. 2) on the geometry of surfaces.
+
+V. PROJECTIVE DIFFERENTIAL GEOMETRY OF CURVES AND RULED SURFACES 
+
+When Wilczynski published in book form (1906. 1) his theory of the projective differential geometry of curves and ruled surfaces, he gave to the world a new method in geometry, and established himself as the leader of a new school of geometers, which may be called the American school of projective differential geometers. His influence, moreover, was international and was particularly strong in Italy and Czechoslovakia. 
+
+A few general remarks about Wilczynski's method seem to be in order here. Let us suppose that we have before us a configuration whose projective differential geometry is to be studied. 
+
+Let us write the parametric equations of this configuration by expressing the projective homogeneous coordinates of a general element of the configuration as functions of a certain number of parameters. Then let us calculate the coefficients of a completely integrable system of linear homogeneous differential equations of which these coordinates constitute a fundamental set of solutions. To say that the system of equations is completely integrable means that the most general solution can be expressed as a linear combination of a fundamental set of solutions with constant coefficients. Speaking of the original configuration as an integral configuration of the system of equations, we can show that the most general projective transform of the configuration is also an integral configuration of the system of equations, and that every integral configuration can be obtained in this way. Consequently a geometric theory based on the differential equations is a projective theory. The next step is to determine the most general transformation of dependent and independent variables that leaves the configuration invariant. The effect of this transformation on the differential equations is then calculated. A combination of the coefficients 303
+
+of the differential equations, and their derivatives, which is changed by the transformation at most to the extent of being multiplied by a factor which depends only on the transformation is called an invariant. Absolutely invariant equations connecting such invariants express projective properties of the integral configurations. Furthermore, a combination not only of the coefficients and their derivatives but also of the dependent variables and their derivatives which is similarly invariant under the transformation is called a covariant. Every covariant defines a configuration which has its elements in correspondence with the elements of the original configuration, and which can be constructed from the original configuration by means of a projective geometric construction. Wilczynski's method, in brief, consists in studying configurations by means of these invariants and covariants.
+
+Since references to Wilczynski's work on curves and ruled surfaces are usually made to the book of 1906, not every one knows that, at that date, a very large portion of this book had already been published in the form of memoirs. In Section IV we discussed two of these memoirs (1901. 1. 2). Besides these two there were published from 1901 to 1905 in the Transactions of the American Mathematical Society eight memoirs which were later included in the book, and which we now proceed to discuss.
+
+In the first (1901. 3) of these eight memoirs Wilczynski introduced the idea of an integral ruled surface of the system of two ordinary differential equations of the second order whose invariants he had previously calculated (1901. 2). He calculated the linear homogeneous differential equation of the sixth order satisfied by the coordinates of a generating line of a ruled surface, and deduced the conditions that an integral ruled surface belong to a linear complex, to a special linear complex, or to a linear congruence, as well as the conditions for being a quadric surface. He studied in some detail the asymptotic curves on a ruled surface. 
+
+In the next paper (1902. 2) Wilczynski applied the principle of duality to some of his previous considerations, and calculated 304
+
+the adjoint system of differential equations, showing that the two systems coincide in case the integral ruled surfaces are quadrics.
+
+In the third paper (1902. 3) Wilczynski developed a theory of covariants, and considered the osculating quadric along a generator of a ruled surface, namely, the quadric determined by the generator and two consecutive generators. He considered the flecnodes on a generator, which are defined to be the two points where four-point tangents, called flecnode tangents, can be drawn; the locus of the flecnodes is by definition the flecnode curves on a ruled surface. He also introduced the flecnode congruence of a ruled surface; this consists of the generators of the osculating quadrics that are not asymptotic tangents. 
+
+In the fourth paper (1903. 2) Wilczynski studied the flecnode congruence more thoroughly, determining its developables and focal surfaces. He considered also the flecnode surfaces, which are by definition the focal surfaces of the flecnode congruence, and are also the loci of the flecnode, or four-point, tangents of the original ruled surface. He further announced the theorem which is fundamental for the so-called flecnode transformation of ruled surfaces, and which states that the original surface is a flecnode surface of each of its flecnode surfaces. 
+
+In the fifth paper (1904. 3) Wilczynski proved that the flecnode congruence of a ruled surface is a W congruence, i. e., that the asymptotic curves correspond on its two focal surfaces. He introduced the principal ruled surface of the flecnode congruence, which is a well-defined ruled surface covariant to the original surface. He also considered the osculating, or five-line, linear complex along a generator of a ruled surface, and the null system of this complex.
+
+In the sixth paper (1904. 4) Wilczynski took up the case, previously excluded, of ruled surfaces whose flecnode curves coincide. In the seventh paper (1905. 1) he studied the general theory of curves on ruled surfaces. 
+
+Finally, in the eighth paper (1905. 2) Wilczynski studied curves in ordinary space. Many of the osculants used had been previously introduced by G. H. Halphen (1844-89), who was 305
+
+probably the first ever consciously to undertake and carry to fruition a projective differential investigation. The osculating conic is perhaps Wilczynski's most important geometrical contribution to the theory of space curves. This conic, at a point of a curve, is defined to be the conic cut on the osculating plane of the curve by the tangent developable of the osculating twisted cubic of the curve at the point.
+
+Besides the series of eight memoirs which we have just been discussing there was a paper (1904. 1) in the Mathematische 
+
+Annalen in which a theorem on "self-dual" ruled surfaces was announced, to the effect that a self-dual ruled surface must belong to a linear complex. But the theorem was later admitted to be "badly formulated," and so there was a note (1904. 2) in the Bulletin of the American Mathematical Society correcting the error, by saying that the dualistic correspondence must be such that it converts each generator of the ruled surface into itself before the theorem is true.
+
+Wilczynski presented some of his results to the Third International Mathematical Congress at Heidelberg, August 8-13, 1904, and his paper (1905. 3) was published in the proceedings of this congress. He was also lecturer at the New Haven Mathematical Colloquium in 1906, as has already been mentioned, his lectures being published later (1910. 1). 
+
+On December 30, 1915, at Columbus, Ohio, Wilczynski gave an address as retiring chairman of the Chicago Section of the American Mathematical Society. In this address he outlined the theory of a single plane curve, and in particular presented some metric results which had been found by A. Transon before 
+
+Wilczynski rediscovered them independently. These are concerned with the axis of aberrancy, or affine normal, at a point of a curve, the osculating parabola, the ellipse of minimum eccentricity among the four-point conics, and other matters. 
+
+In a paper (1916. 3) in the Proceedings of the National 
+
+Academy of Sciences Wilczynski gave a geometric interpretation of a simple integral invariant associated with a given plane curve, which has since been called by Sannia the projective arc length of the curve, and in another paper (1917. 1) he elaborated 306
+
+the details of this interpretation, which uses an infinite product of cross ratios, instead of an infinite sum of terms as in an ordinary definite integral.
+
+VI. PROJECTIVE DIFFERENTIAL GEOMETRY OF SURFACES AND CONGRUENCES 
+
+It is natural that surfaces and congruences should be studied together, because a surface is a two-parameter family of points and a congruence is a two-parameter family of straight lines. 
+
+Consequently the projective differential geometry of each of these configurations is studied, according to Wilczynski's method, by means of partial differential equations in two independent variables. 
+
+There are five papers that are concerned more or less primarily with congruences. The first (1904. 5) of these marks the transition of Wilczynski's interest from the ordinary differential equations of curves and ruled surfaces to the partial differential equations of surfaces and congruences. Its contents may be outlined briefly as follows. Wilczynski began by determining the most general transformation that preserves the form of a system of q partial differential equations of the first order in n dependent variables and m independent variables. He then confined his attention to the case q=n=m=2, and calculated the invariants and covariants in this case. He next introduced the geometry of a congruence and connected this geometry with the special system of equations. For an integral congruence of the equations he determined the developables and focal surfaces. It may be remarked that in this paper 
+
+Wilczynski used a system composed of only two first-order equations; although he was thinking of a congruence in ordinary space, he did not introduce the two equations of the second order which, with the two equations of the first-order, form a completely integrable system for the theory of congruences in ordinary space. It may be remarked further that Wilczynski's approach to a geometrical problem here, as usually elsewhere, was through the analysis. He ordinarily preferred to start with a system of equations, to determine the appropriate transforma- 307
+
+tions, to compute the invariants and covariants, and finally to interpret his results geometrically, instead of starting with the geometrical problem itself, guiding himself by geometrical intuition, and relegating the analysis to the subordinate place of a tool. 
+
+The second (1911. 2) of the five papers on congruences is the so-called "Brussels paper" entitled "Sur la théorie générale des congruences," which won a prize of the Belgian Academy of Sciences in 1909. In this paper appeared for the first time the completely integrable system composed of two first-order and two second-order equations which characterizes a congruence in ordinary space, except for a projective transformation, and so the theory of such congruences was established on a solid foundation. The developables of the congruence under consideration in the Brussels paper were taken as the parametric ruled surfaces of the congruence. Invariants and covariants were computed. The completely integrable system of two secondorder differential equations of each focal surface of the congruence were calculated, as well as the fourth-order differential equations of the parametric curves on these surfaces. Two special types of congruences were studied in some detail, namely, congruences belonging to linear complexes and having Laplace transforms likewise belonging to linear complexes, and congruences whose focal surfaces are quadrics. 
+
+The third paper (1915. 1) on congruences is intimately connected also with the theory of surfaces. In this memoir Wilczynski introduced the axis congruence and ray congruence associated with a conjugate net on a surface in ordinary space, the aris of a point on the surface being defined to be the line of intersection of the osculating planes of the two curves of the net at the point, and the ray being defined as the line joining the corresponding points, called ray-points, on the edges of regression of the two developables circumscribing the surface along these curves. Wilczynski pointed out the dualistic relation between these two congruences, and showed that a conjugate net has equal Laplace-Darboux invariants if, and only if, the ray curves, i. e., the curves which correspond on the surface to the developables of the ray congruence, themselves form 308
+
+a conjugate net. Moreover, he showed that the fundamental conjugate net has the property of being isothermally conjugate in case a certain fairly simple algebraic relation exists between three invariants which had already been interpreted geometrically, thus in a sense giving a geometric significance to the property of isothermal conjugacy. The fourth paper (1915. 2) is an account of these results in the Proceedings of the National Academy of Sciences.
+
+Finally, in the fifth paper (1920. 2) we have a theory of congruences in which a congruence is regarded at first as a oneparameter family of ruled surfaces, and then as a net of ruled surfaces. In this paper Wilczynski introduced the idea of a conjugate net of ruled surfaces in a congruence, which is merely a net of ruled surfaces such that at each point of each generator of the congruence the tangent planes of the two ruled surfaces through the generator separate harmonically the focal planes of the generator.
+
+Let us now turn our attention to the twelve papers that contain Wilczynski's work on the theory of surfaces. His interest in surfaces was confined for the most part to surfaces in ordinary space. The foundations of his theory of the projective differential geometry of surfaces in ordinary space were laid in a series of five memoirs published in the Transactions of the American Mathematical Society from 1907 to 1909. 
+
+In the First Memoir (1907. 1) Wilczynski reduced the defin ing pair of linear homogeneous partial differential equations of the second order for a non-developable surface to the so-called intermediate form, Yuu+2ayu+2by,+cy = o, Yvv+2a'yu + 2b'y, + c'y = 0, by taking the asymptotic curves on an integral surface as parametric. He calculated the integrability conditions for this system, as well as a complete system of invariants and covariants. 
+
+He further reduced the system of equations to a canonical form, characterized by the conditions a = b' = o, and determined the most general transformation leaving this form invariant. He 309
+
+arrived at the adjoint system of equations of the intermediate system, wrote conditions necessary and sufficient that the integral surfaces be ruled, namely a' bo, and proved a socalled fundamental theorem to the general effect that a surface is determined except for a projective transformation by giving four functions of two variables, subject to certain integrability conditions.
+
+In the Second Memoir (1908. 1) Wilczynski did some of his best work. He derived the local equation of the quadric of Lie, called in this memoir the osculating quadric, at a point of a surface. He studied the osculating linear complexes of the two asymptotic curves at a point of a surface, and also the osculating linear complexes along the generators through the point of the two skew ruled surfaces of asymptotic tangents which circumscribe the surface along the asymptotic curves through the point. He introduecd the two directrices at a point of a surface as the directrices of the linear congruence of intersection of the two osculating linear complexes of the asymptotic curves at the point, and studied the two directrix congruences composed of the directrices for all points of the surface. He proved that the developables of both congruences correspond to the same net of curves, called the directrix curves, on the surface. He calculated to a limited number of terms a canonical power series expansion for one non-homogeneous projective coordinate of a point on a surface in terms of the other two coordinates. This series for a non-ruled surface is of the form z=xy+ (x³+ y³)/6+ (Ix² + Jy¹)/24+ where I, J are certain absolute invariants of the surface. In defining geometrically the local coordinate system for this expansion, Wilczynski introduced the canonical cubic and canonical quadric. The canonical cubic at a point of a surface he defined by the following properties. It has a unode on the directrix through the point, such that the uniplane contains the directrix that lies in the tangent plane of the surface at the point. It, further, has third-order contact with the surface at the point. 
+
+Finally, the four tangents of fourth-order contact form a har- 310
+
+monic set in which conjugate pairs are actually conjugate tangents of the surface. The canonical quadric at the point of the surface he then defined by the following properties. It has second-order contact with the surface at the point. It, further, is tangent to the quadric of Lie at all points of the two generators through the point. Finally, it is tangent to the uniplane of the canonical cubic. G. M. Green later pointed out that the first property of the quadric just mentioned is superfluous, being a consequence of the second property. We now-a-days restate the essential part of this definition by saying that the canonical quadric is the quadric of Darboux that is tangent to the uniplane of the canonical cubic. Green pointed out, further, that it was evidently desirable to have a characterization of the canonical quadric which is independent of the canonical cubic. Such a characterization was later furnished by E. Bompiani in 1927, and another by E. B. Stouffer ³ in 1932. 
+
+In the Third Memoir (1908. 2) Wilczynski applied to ruled surfaces some of the considerations of the Second Memoir, especially the power series expansion and the geometric description of the associated local coordinate system. In the Fourth Memoir (1909. 3) he laboriously calculated the integrability conditions and invariants for the defining pair of equations of a general analytic surface in ordinary space without specializing the parameters. 
+
+Finally, in the Fifth Memoir (1909. 4) Wilczynski gave by way of introduction a noteworthy historical preface on the relation of this memoir to some work of Moutard, Darboux, and Segre, part of which he had done again independently. He studied here especially the tangents of Darboux, the quadric of Moutard, and the osculating Steiner surface at a point of an analytic surface. For further discussion see Lane, Projective Differential Geometry of Curves and Surfaces, University of Chicago Press, 1932, p. 80 and p. 295. 
+
+Stouffer, “A geometrical determination of the canonical quadric of 
+
+Wilczynski," Proceedings of the National Academy of Sciences, vol. 18 (1932), pp. 252-5. 311
+
+In a subsequent paper (1913. 2) Wilczynski studied those surfaces for which the absolute invariants I, J vanish identically. 
+
+Wilczynski characterized these surfaces by the property that at each point of one of them the canonical cubic has contact of the fourth order with the surface. These surfaces can also be characterized, in more recent terminology, by the property that at each point of one of them the canonical lines of the first kind all coincide, as do also all the canonical lines of the second kind. 
+
+For this reason, these surfaces are now commonly called coincidence surfaces. They are integral surfaces of a pair of equations which can be reduced to the form yuu+2yv (couc₁)yo, Yvv+2yu+(cov + C₂) y = 0 (Co, C1, C2 consts.).
+
+Wilczynski integrated this system of equations quite simply when coo, and studied the integral surfaces in this case, showing, among other things, that in general such an integral surface is invariant under a two-parameter group of projective transformations. In another paper (1914. 4), to which reference was made at the close of Section IV, Wilczynski integrated the equations when coo by four independent power series.
+
+In one of his papers (1911. 1) Wilczynski studied nets of curves in the plane by means of the invariants and covariants of a system of three equations of the second order, noticing particularly the osculating conics of the two curves of the net at a general point thereof. In a later paper (1914. 3) he studied surfaces on which the directrix curves are indeterminate. For such a surface the directrices of one kind form a bundle of lines, and those of the other kind form a ruled plane. The center of the bundle is not ordinarily on the plane, and, when it is not, the projection of the asymptotic curves on the surface from the center of the bundle onto the ruled plane is a plane net of period three with equal Laplace-Darboux invariants. If the point is the origin and the plane is the plane at infinity, the surface with indeterminate directrix curves belongs to a class of surfaces which have been studied by G. Tzitzéica under the group of affine transformations leaving the origin invariant. 312
+
+There are two papers which are primarily concerned with the property of isothermal conjugacy of a net of curves on a surface in ordinary space. Bianchi had defined the property and shown that it was of a projective nature without finding its geometric significance. We have already seen that Wilczynski was interested in the problem of finding the geometric significance of the property in another paper (1915. 1). In 1916 G. M. Green gave a descriptive property of isothermally conjugate nets and thought he had solved the problem completely, but he had overlooked an exceptional case in which the property that he gave fails to distinguish between isothermally conjugate nets and a kind of conjugate nets now commonly called, with Wilcznyski, harmonic conjugate nets. The first (1920. 1) of Wilczynski's papers with which we are concerned here was intended to complete the work of Green on this subject. In this paper Wilczynski solved the problem completely, using the notion of a pencil of conjugate nets. This notion has proved to be a very fruitful one in the theory of conjugate nets. In a second paper (1922. 1) Wilczynski recounted the history of the problem and stated the results of the first paper. Moreover, he gave an account of further developments in this direction, as he had discovered in the meantime a still more elegant characterization of the property of isothermal conjugacy, to the following effect. A conjugate net of curves on a surface in ordinary space determines a pencil of conjugate nets. As a general net of this pencil varies over the pencil, the ray-points corresponding to a point of the surface describe a nodal cubic curve lying in the tangent plane of the surface at the point. The three inflexions of this cubic lie on a straight line called the flex-ray of the point. For all points on the surface these flex-rays form a congruence. The developables of this congruence correspond to a conjugate net of curves on the surface if, and only if, the fundamental net is isothermally conjugate.
+
+In what seems to have been the last paper that Wilczynski wrote (1922. 2), he studied hypergeodesics on a surface, i. e., curves defined by a curvilinear differential equation of the form v" A+ Bv' + Cv'2+ Dv'³, 313
+
+in which v' dv/du, and the coefficients are functions of u, v. 
+
+He pointed out the relation between what is called Segre's correspondence and the so-called polarity of Lie, and gave an interpretation of Fubini's integral invariant fa'b du dv after the manner of his interpretation of the simplest integral invariant of a plane curve.
+
+In the meantime Wilczynski had delivered an address in 
+
+Cleveland, Ohio, on December 31, 1912, before a meeting of some of the sections of the American Association for the Advancement of Science. This address (1913. 3) was published under the title "Some general aspects of modern geometry."
+
+Later it was translated into Italian by Bompiani and republished under the title "Alcune vedute generali della geometria moderna." This address gives what is perhaps Wilczynski's best account of the general aspects of his method. 
+
+VII. FUNCTIONS OF A COMPLEX VARIABLE 
+
+In the later years of his activity Wilczynski seemed to be turning more and more toward the domain of functions of a complex variable. It is vain to speculate on such questions as how far in this direction he would have gone had his health permitted, or what his reaction would have been to the modern enthusiasm for non-riemannian geometry. But we may feel sure that he would have made significant contributions to all subjects in which he became interested, and such was the case, certainly, in the domain of functions of a complex variable, although we have from his pen only four papers on this subject.
+
+The first two of these papers are related to each other. In the first paper (1919. 2) Wilczynski studied two line-geometric representation of a function of a complex variable. According to the first method one plots an independent complex variable in a plane and in a plane parallel to this plane a complex function of this variable. Each point representing a value of the independent variable is joined by a straight line to the point repre- 'Bollettino di biographia e storia delle scienze mathematische, vol. 16 (1914), p. 97. 314
+
+senting the corresponding value of the function. Thus a congruence of lines is obtained, which is a geometric representation of the function. According to the second method of exhibiting the functional relation geometrically, one first plots the independent and dependent variables in the same plane, which is taken as the plane zo of a three-dimensional orthogonal cartesian coordinate system. The points representing these variables are next projected stereographically from the point (0, 0, 1) onto a sphere with unit radius and with its center at the origin. Corresponding points on this sphere are then joined by straight lines, which form a congruence. So, by two methods, the theory of rectilinear congruences is connected with the theory of functions of a complex variable. 
+
+In the second paper (1920. 3) Wilczynski showed that a certain set of seven properties is characteristic of those congruences each of which can represent a function of a complex variable by the method just described of joining points on a sphere. 
+
+The last two papers (1922. 3), (1923. 1) are really two parts of the same long memoir. Although the second part of this memoir bears the latest date of publication of any of Wilczynski's papers, it was complete, or practically so, as early as 1918, publication being delayed probably by the war. In this memoir on projective differential properties of a function of a complex variable Wilczynski first considered a function w of a complex variable z and subjected z to a linear fractional transformation to see what properties of the function w remained invariant under this transformation. Some of these properties are uniformity, the possession of singular points and the cross ratio of four singular points or four zeros. Wilczynski calculated both differential and integral invariants and wrote an intrinsic equation of the function, besides introducing what he called the osculating logarithm at a point of the function. Further on 
+
+Wilczynski considered independent linear fractional transformations of both dependent and independent variables, and calculated what he called hyperinvariants and a hyperintrinsic equation of the function. 315
+
+VIII. MISCELLANEOUS 
+
+The versatility of Wilczynski's mind has already been amply illustrated, but a glance at his miscellaneous publications will throw a still clearer light on the diversity of his intellectual interests. Two papers especially are perhaps rather surprising.
+
+The first (1900. 1) of these appeared in the University Chronicle of the University of California, and is entitled "Poetry and mathematics." In this Wilczynski defended the thesis that a poet and a mathematician have certain intellectual and aesthetic elements in common. The second (1909. 2) of these two papers is a popular and philosophical account of "The fourth dimension," which appeared in the American Mathematical Monthly. 
+
+Two other papers are a result of Wilczynski's active interest in the affairs of the American Mathematical Society. He wrote for the Bulletin of this society an account (1902. 4) of the first meeting of the San Francisco Section, giving a report of the organization of the section and of its first program. The second paper (1909. 1) is entitled "Mathematical appointments in colleges and universities." This is a minority report of a committee of the 
+
+Chicago Section charged with the duty of investigating the possibility of improving the character of mathematical appointments in American colleges and universities. 
+
+Another type of Wilczynski's activity consisted in writing book reviews. Of these there seem to have been seven (1898. 5), (1899. 5), (1903. 1), (1909. 5), (1910. 2), (1914. 2. 5). The first two are short reviews of German books on the magnetism of the earth, and appeared in Terrestrial Magnetism. The remaining five appeared in the Bulletin of the American Mathematical Society. Two of these are brief; the other three are rather pretentious, namely, a review (1903. 1) of part of Forsyth's "Differential Equations," a review (1910. 2) of Schlesinger's "Vorlesungen über lineare Differentialgleichungen," and a review (1914. 2) of Darboux's "Leçons sur les systèmes orthogonaux et les coordonées curvilignes," second edition, complete. 
+
+Wilczynski wrote two college textbooks in mathematics, one (1914. 1) a trigonometry, and the other (1916. 1) a college 316
+
+algebra. In these Wilczynski's powers of elegant mathematical exposition found ample scope, and especially in the trigonometry his fondness for the heuristic method of presenting a subject is fully illustrated.
+
+In a paper (1918. 1), showing the effect of contact with General Analysis, Wilczynski furnished a proof of the fact that the coefficients of a unique canonical form are invariants, making use only of the abstract principles which are common to all known invariant theories. In another paper (1919. 1) he established the scale of relation for the coefficients of the power series expansion of an algebraic function as a scale of degree n if the equation defining the function is irreducible and of degree n. 
+
+The last two papers in this category are commemorations. 
+
+The first (1902. 1) of these is a commemoration of one of Wilczynski's former teachers, Lazarus Fuchs. This contains an appreciation of the scientific work of Fuchs but there is no bibliography accompanying it. The second (1919. 3) is a commemoration of one of the most distinguished of American projective differential geometers, G. M. Green of Harvard University, whose already brilliant career was cut short by death at the untimely age of twenty-seven. This paper contains a beautifully written appreciation of the life, character, and work of Green, for whom Wilczynski had the highest regard. It is interesting to note that although the two men were working in the same field, and had carried on a most friendly correspondence, they had never met each other personally. The bibliography of 
+
+Green's publications prepared by Wilczynski to accompany this commemoration seems to be complete except for one paper published 10 posthumously, after the commemoration was written, by Wilczynski as Green's scientific executor. 
+
+IX. CONCLUDING COMMENTS 
+
+It is quite likely that Wilczynski had worked on other subjects than those discussed here without publishing his results, which 
+
+10 Green, "Nets of space curves," Transactions of the American Mathematical Society, vol. 21 (1920, pp. 207-36). 317
+
+may not have reached the perfection that he desired. In fact, there is an abstract in the Bulletin of the American Mathematical Society of a paper on integral equations which seems never to have been published. There is also an abstract of a paper presented to the Society by title at the meeting in Toronto in December, 1921, on "Surfaces representing the real and imaginary parts of a function of a complex variable," which seems never to have been published in full. 
+
+One of the most important of Wilczynski's activities consisted in directing thesis work. There seems to be no record of the number of master's theses that he directed, but there were many of them. Three of them, at least, were published in journals, for references to which the reader may consult the Bibliography which follows. Wilczynski directed twenty-five doctoral dissertations. Two of these were the theses of E. B. Stouffer and of W. W. Denton who took their degrees at the University of 
+
+Illinois. The other twenty-three were the theses of Chicago doctors. Two of these men, H. L. Olson and J. W. Hedley, started under Wilczynski but the final approval of their work was granted by A. F. Carpenter and E. P. Lane. Wilczynski started the thesis work of two other men, P. G. Robinson and 
+
+V. G. Grove, not counted here, who made some progress under his direction, but those theses were examined and finally passed upon by Lane. Of the twenty-five doctoral dissertations, nineteen were published in journals and six privately. These theses represent in a sense Wilczynski's own scientific activity, and these students of Wilczynski form an influential group of the American mathematical community. For further information about them the reader may consult the Bibliography. 
+
+Wilczynski has already been referred to as a master of exposition. He possessed a most elegant style both in spoken and written English. German was his native language, and he was at home with French and Italian. He was such a clear and polished lecturer that he made difficulties seem easy. If some unforeseen problem arose in class, the solution of which might involve delays and hesitation, it was his custom not to attack the obstacle at once but to defer consideration of it until the next 318
+
+day when he habitually reported upon the solution that he had reached in the meantime.
+
+Wilczynski's character was gentle; his manner, mild. He was unselfish and was habitually thoughtful of others. He was interested in his students and in their success. He enjoyed dropping in unannounced at the modest lodgings of his advanced graduate students, especially in the spring and summer evenings, to spend an hour or two in informal conversation. It was 
+
+Wilczynski's art upon such occasions to put every one at ease, and the memories of these friendly visits are cherished in the homes of more than one of his doctors. 
+
+Wilczynski was an inspiring teacher, a thorough scholar, a distinguished geometer, a congenial colleague. The premature termination of his scientific career was a great loss to mathematics. When Wilczynski spoke in commemoration of Green he used words which can now appropriately be quoted and employed in commemoration of their author: "In this brief span of years he has won enduring fame. we mourn in him not the promise of a genius unfulfilled, but the sad untimely loss of a great leader of proven strength whose power and insight had been fully tested, and whose actual achievements can never perish. . . . In his death we have suffered a heavy loss, but his life and work will continue to be, for many of us, an everlasting source of strength and inspiration."
+
+X. BIBLIOGRAPHY 
+
+The following bibliography includes Wilczynski's publications exclusive of abstracts of papers presented to the American Mathematical Society. A list of his doctors is appended, giving the subjects of their theses and the positions held by them in 1934. 
+
+References are given at the end to three published master's theses.
+
+The following abbreviations taken from Bulletin 63 of the 
+
+National Research Council will be used: 
+
+1. Am. J.: American Journal of Mathematics. 
+
+2. Am. M. S. Bull.: Bulletin of the American Mathematical Society. 
+
+319
+
+3. Am. M. S. Trans.: Transactions of the American Mathematical So ciety. 
+
+4. Ann. di Mat.: Annali di Matematica Pura ed Applicata. 
+
+5. Giorn. di Mat.: Giornale di Matematiche. 
+
+6. Math. Ann.: Mathematische Annalen. 
+
+7. Pal. Circ. Mat.: Rendiconti del Circolo Matematico di Palermo. 
+
+8. Tôhoku M. J.: Tôhoku Mathematical Journal. 
+
+9. Wash. Nat. Ac. Sc. Proc.: Proceedings of the National Academy of Sciences. 
+
+The following abbreviations will also be used: 
+
+1. An. J.: Astronomical Journal. 
+
+2. Ap. J.: Astrophysical Journal. 
+
+WILCZYNSKI'S PUBLICATIONS 
+
+1895 
+
+1. "Schmidt's theory of the sun,” Ap. J., vol. 1, pp. 112-26. 
+
+2. "Notes on Schmidt's theory of the sun," Ap. J., vol. 2, pp. 69-73. 1896 
+
+1. "Hydrodynamical investigations of the solar rotation," Ap. J., vol. 3, pp.
+
+IOI-5. 
+
+2. "Outlines of a theory of spiral and planetary nebulæ," Ap. J., vol. 4, pp. 97-100. 1897 
+
+1. "Ueber die Rotationsbewegung der Sonne," Astronomische Nachrich ten, vol. 142, pp. 133-6. 
+
+2. "Hydrodynamische Untersuchungen mit Anwendung auf die Theorie der Sonnenrotation," Mayer and Müller, Berlin. 
+
+3. "On the causes of the sun's equatorial acceleration and the sunspot period," An. J., vol. 18, pp. 57-9. 1898 
+
+1. "Theory of the motion of the spots on Jupiter," An. J., vol. 19, pp. 61-3. 
+
+2. "On the causes of the sun's equatorial acceleration and the sun-spot period," Publications of the Astronomical Society of the Pacific, vol. 
+
+10, pp. 97-9. 
+
+3. "On the causes of the sun-spot period," Ap. J., vol. 7, pp. 124-30. 
+
+4. "On the depth of the reversing layer," Ap. J., vol. 7, pp. 213-4. 
+
+5. Nippoldt, “Neue allgemeine Erscheinungen in der täglichen Variation der erdmagnetischen Elemente," Terrestrial Magnetism, vol. 3, p. 184. 320
+
+1. “On an mn² parameter group of linear substitutions in mn variables,” 
+
+Proceedings of the California Academy of Sciences, vol. 1, pp. 59-62. 
+
+2. "On systems of multiform functions belonging to a group of linear substitutions with uniform coefficients," Am. J., vol. 21, pp. 85-106. 
+
+3. “On linearoid differential equations,” Am. J., vol. 21, pp. 354-66. 
+
+4. "Dynamics of a nebula," An. J., vol. 20, pp. 67-9. 
+
+5. Liznar, "Ueber die Aenderung der erdmagnetischen Kraft mit der 
+
+Höhe," Terrestrial Magnetism, vol. 4, pp. 191-2. 
+
+6. "A generalization of Appell's factorial functions," Am. M. S. Bull., vol. 
+
+5, pp. 388-94. 1900 
+
+1. “Poetry and mathematics," The University Chronicle (University of 
+
+California), vol. 3, pp. 191-204. 
+
+2. “On continuous binary linearoid groups and the corresponding differential equations and functions," Am. J., vol. 22, pp. 191-225. 
+
+3. "An application of group theory to hydrodynamics," Am. M. S. Trans., vol. 1, pp. 339-52. 1901 1. "Transformation of systems of linear differential equations," Am. J., vol. 23, pp. 29-36. 
+
+2. "Invariants of systems of linear differential equations," Am. M. S. 
+
+Trans., vol. 2, pp. 1-24. 
+
+3. "Geometry of a simultaneous system of two linear homogeneous differential equations of the second order," Am. M. S. Trans., vol. 2, pp. 343-62. 1902 
+
+1. “Lazarus Fuchs," Am. M. S. Bull., vol. 9, pp. 46-9. 
+
+2. "Reciprocal systems of linear differential equations,” Am. M. S. Trans., vol. 3, pp. 60-70. 
+
+3. "Covariants of systems of linear differential equations and applications to the theory of ruled surfaces," Am. M. S. Trans., vol. 3, pp. 423-50. 
+
+4. "The first meeting of the San Francisco Section of the American 
+
+Mathematical Society," Am. M. S. Bull., vol. 8, pp. 429-37. 1903 
+
+1. "Forsyth's 'Differential Equations'," Am. M. S. Bull., vol. 10, pp. 86-93. 
+
+2. "On a certain congruence associated with a given ruled surface," Am. 
+
+M. S. Trans., vol. 4, pp. 185-200. 1904 
+
+1. "A fundamental theorem in the theory of ruled surfaces," Math. Ann., vol. 58, pp. 249-59. 321
+
+NATIONAL ACADEMY BIOGRAPHICAL MEMOIRS- -VOL. XVI 
+
+2. "On self-dual scrolls," Am. M. S. Bull., vol. II, p. 8. 
+
+3. "Studies in the general theory of ruled surfaces," Am. M. S. Trans., vol. 5, pp. 226-52. 
+
+4. "On ruled surfaces whose flecnode curve intersects every generator in two coincident points," Am. M. S. Trans., vol. 5, pp. 438-46. 
+
+5. "Invariants of a system of linear partial differential equations, and the theory of congruences of rays," Am. J., vol. 26, pp. 319-60. 1905 I. "General theory of curves on ruled surfaces," Am. M. S. Trans., vol. 6, pp. 75-82. 
+
+2. "General projective theory of space curves," Am. M. S. Trans., vol. 6, pp. 99-133. 
+
+3. "The general projective theory of space curves and ruled surfaces," 
+
+Verhandlungen des dritten internationalen Mathematiker-Kongresses, Heidelberg, 1904, pp. 361-5. 1906 1.
+
+"Projective Differential Geometry of Curves and Ruled Surfaces," 
+
+Teubner, Leipzig. 
+
+1907 
+
+1. "Protective differential geometry of curved surfaces" (First memoir), Am. M. S. Trans., vol. 8, pp. 233-60. 1908 
+
+1. "Projective differential geometry of curved surfaces" (Second memoir), Am. M. S. Trans., vol. 9, pp. 79-120. 
+
+2. "Projective differential geometry of curved surfaces" (Third memoir), Am. M. S. Trans., vol. 9, pp. 293-315. 1909 1. "Mathematical appointments in colleges and universities," Am. M. S. 
+
+Bull., vol. 15, pp. 492-5. 
+
+2. "The fourth dimension," American Mathematical Monthly, vol. 16, Pp. 149-53. 
+
+3. "Projective differential geometry of curved surfaces" (Fourth memoir), Am. M. S. Trans., vol. 10, pp. 176-200. 
+
+4. "Projective differential geometry of curved surfaces" (Fifth memoir), Am. M. S. Trans., vol. 10, pp. 279-96. 
+
+5. Hesse, "Vorlesungen aus der analytischen Geometrie der geraden 
+
+Linie, des Punktes und des Kreises in der Ebene," Am. M. S. Bull., vol. 
+
+15, pp. 186-8. 1910 1. "Projective differential geometry," The New Haven Mathematical Colloquium, 1906, pp. 151-72. 322
+
+2. Schlesinger, "Vorlesungen über lineare Differential-gleichungen,” Am. 
+
+M. S. Bull., vol. 16, pp. 483-9. 1911 
+
+1. "One-parameter families and nets of plane curves," Am. M. S. Trans., vol. 12, pp. 473-510. 
+
+2. "Sur la théorie générale des congruences," Mémoires publiés par la 
+
+Classe des Sciences de l'Académie Royale de Belgique, ser. 2, vol. 3. 1912 
+
+1. “A forgotten theorem of Newton's on planetary motion and an instrumental solution of Kepler's problem," An. J., vol. 27, pp. 155-6. 1913 
+
+1. "Ricerche geometriche intorno al problema dei tre corpi,” Ann. di Mat., ser. 3, vol. 21, pp. 1-21. 
+
+2. "On a certain class of self-projective surfaces," Am. M. S. Trans., vol. 
+
+14, pp. 421-43. 
+
+3. "Some general aspects of modern geometry," Am. M. S. Bull., vol. 19, PP. 331-42. 1914 
+
+I. "Plane Trigonometry and Applications," Allyn and Bacon. 
+
+2. Darboux, "Leçons sur les Systèmes orthogonaux et les Coordonées curvilignes." Deuxième édition, complétée. Am. M. S. Bull., vol. 20, Pp. 247-53. 
+
+3. “Über Flächen mit Unbestimmten Direktrixkurven," Math. Ann., vol. 
+
+76, pp. 129-60. 
+
+4. "On a certain completely integrable system of partial differential equations," Am. J., vol. 36, pp. 231-60. 
+
+5. Fischer, "Koordinatensysteme,” Am. M. S. Bull., vol. 20, pp. 212-3. 1915 1. “The general theory of congruences," Am. M. S. Trans., vol. 16, pp.
+
+311-27. 
+
+2. "Conjugate systems of space curves with equal Laplace-Darboux invariants," Wash. Nat. Ac. Sc. Proc., vol. 1, pp. 59-61. 1916 
+
+1. "College Algebra with Applications,” Allyn and Bacon. 
+
+2. "Some remarks on the historical development and future prospects of the differential geometry of plane curves,” Am. M. S. Bull., vol. 22, pp. 317-29. 
+
+3. "Interpretation of the simplest integral invariant of projective geometry," Wash. Nat. Ac. Sc. Proc., vol. 2, pp. 248-52. 323
+
+I. "Integral invariants in projective geometry," Pal. Circ. Mat., vol. 42, pp. 128-37. 1918 
+
+1. "Invariants and canonical forms," Wash. Nat. Ac. Sc. Proc., vol. 4, pp. 300-5. 1919 1. "On the form of the power series for an algebraic function," American 
+
+Mathematical Monthly, vol. 26, pp. 9-12. 
+
+2. "Line-geometric representations of a function of a complex variable,” 
+
+Am. M. S. Trans., vol. 20, pp. 271-98. 
+
+3. "In memory of Gabriel Marcus Green," Am. M. S. Bull., vol. 26, pp. 1-13. 1920 1. "Geometrical significance of isothermal conjugacy of a net of curves," 
+
+Am. J., vol. 42, pp. 211-21. 
+
+2. "One-parameter families and nets of ruled surfaces and a new theory of congruences," Am. M. S. Trans., vol. 21, pp. 157-206. 
+
+3. "A set of properties characteristic of a class of congruences connected with the theory of functions," Am. M. S. Trans., vol. 21, pp. 409-45. 1922 1. "Charakteristische Eigenschaften der isotherm-konjugierten Kurvennetze," Math. Ann., vol. 85, pp. 208-12. 
+
+2. "Some generalizations of geodesics," Am. M. S. Trans, vol. 23, pp. 223-39. 
+
+3. "Differential properties of functions of a complex variable which are invariant under linear transformations,” Part I, Journal de Mathématiques Pures et Appliquées, ser. 9, vol. 1, pp. 293-435. 1923 1. "Differential properties of functions of a complex variable which are invariant under linear transformations," Part II, Journal de Mathématiques Pures et Appliquées, ser. 9, vol. 2, pp. 1-51. 
+
+WILCZYNSKI'S DOCTORS 
+
+1911 
+
+1. E. B. Stouffer, Professor of Mathematics and Dean of the Graduate 
+
+School, University of Kansas, Lawrence, Kans. "Invariants of linear differential equations, with applications to ruled surfaces in five-dimensional space," Proceedings of the London Mathematical Society, ser. 2, vol. II (1913), pp. 185-224. 324
+
+1. W. W. Denton, Assistant Professor of Mathematics, University of 
+
+Michigan, Ann Arbor, Mich. "Projective differential geometry of developable surfaces,” Am. M. S. 
+
+Trans., vol. 14 (1913), pp. 175-208. 
+
+2. C. T. Sullivan, Professor of Mathematics, McGill University, Montreal, Canada. "Properties of surfaces whose asymptotic lines belong to linear complexes," Am. M. S. Trans., vol. 15 (1914), pp. 167-96. 1913 
+
+1. F. M. Morrison (Died Nov. 1, 1920). "On the relation of some important notions of projective and metric differential geometry," Am. J., vol. 39 (1917), pp. 199-220. 1914 
+
+1. H. R. Kingston, Professor and Head of the Department of Mathe matics and Astronomy, Western University, London, Ontario. "Metric properties of nets of plane curves," Am. J., vol. 38 (1916), pp. 407-30. 1915 
+
+1. A. F. Carpenter, Professor of Mathematics, University of Washington, Seattle, Wash. "Ruled surfaces whose flecnode curves have plane branches," Am. M. S. 
+
+Trans., vol. 16 (1915), pp. 509-32. 
+
+2. J. O. Hassler, Professor of Mathematics, University of Oklahoma, Norman, Okla. "Plane nets of period three under the Laplace transformation," Pal. 
+
+Circ. Mat., vol. 40 (1915), pp. 273-94. 
+
+3. A. L. Nelson, Professor and Head of the Department of Mathematics, Wayne University, Detroit, Mich. "Plane nets with equal Laplace-Darboux invariants," Pal. Circ. Mat., vol. 41 (1916), pp. 238-62. 
+
+4. S. W. Reaves, Dean of the College of Arts and Sciences, and Professor of Mathematics, University of Oklahoma, Norman, Okla. "Metric properties of flecnodes on ruled surfaces," Giorn. di Mat., vol. 
+
+55 (1917), i. e., ser. 3, vol. 8, pp. 139-64. 
+
+5. C. H. Yeaton, Professor of Mathematics, Oberlin College, Oberlin, Ohio. "Surfaces characterized by certain properties of their directrix congruences," Ann. di Mat., ser. 3, vol. 26 (1916), pp. 1-33. 325
+
+1. A. McC. Harding, Professor of Mathematics and Astronomy, and Director of General Extension, University of Arkansas, Fayetteville, Ark. "On certain loci projectively connected with a given plane curve,” 
+
+Giorn. di Mat., vol. 54 (1916), i. e., ser. 3, vol. 7, pp. 185-222. 
+
+2. Miss P. Sperry, Associate Professor of Mathematics, University of 
+
+California, Berkeley, Calif. “Properties of a certain projectively defined two-parameter family of curves on a general surface," Am. J., vol. 40 (1918), pp. 213-24. 1917 
+
+1. J. M. Kinney, City Junior College, Chicago, Ill. "The general theory of congruences without any preliminary integration," Published privately. 
+
+2. L. S. Shively, Associate Professor of Mathematics, Ball Teachers College, Muncie, Ind. "A new basis for the metric theory of congruences," Published privately. 
+
+3. T. McN. Simpson, Jr., Professor of Mathematics, Randolph-Macon 
+
+College, Ashland, Va. "Relation between the metric and projective theories of space curves,” 
+
+Published privately. 1918 
+
+1. E. P. Lane, Professor of Mathematics, University of Chicago, Chicago, Ill. "Conjugate systems with indeterminate axis curves," Am. J., vol. 43 (1921), pp. 52-68. 1919 
+
+1. C. A. Nelson, Associate Professor of Mathematics, Rutgers University, New Brunswick, N. J. "Conjugate systems with conjugate axis curves," Tôhoku, M. J., vol. 
+
+20 (1922), pp. 217-51. 1920 
+
+1. Miss G. E. C. Gibbens, Assistant Professor of Mathematics, University of Minnesota, Minneapolis, Minn. “Comparison of different line geometric representations for functions of a complex variable," Published privately. 
+
+2. J. W. Lasley, Jr., Professor of Pure Mathematics, University of North 
+
+Carolina, Chapel Hill, N. C. “Some special cases of the flecnode transformation of ruled surfaces,” 
+
+Published privately. 326
+
+3. F. E. Wood, Associate Professor of Mathematics, Northwestern University, Evanston, Ill. "On certain relations between the projective theory of surfaces and the projective theory of congruences," Am. M. S. Trans., vol. 23 (1922), pp. 386-408. 1921 
+
+1. Miss C. Kendall, Associate Professor of Mathematics, University of 
+
+Colorado, Boulder, Colo. "Certain congruences determined by a given surface," Am. J., vol. 45 (1923), pp. 25-41. 1922 
+
+1. E. D. Meacham, Professor of Mathematics, and Assistant Dean of the
+
+College of Arts and Sciences, University of Oklahoma, Norman, Okla. "Properties of surfaces whose osculating ruled surfaces belong to linear complexes," Published privately. 1923 
+
+1. N. B. MacLean, Professor of Applied Mathematics, and Joint Chair man of the Department, McGill University, Montreal, Canada. "On certain surfaces related covariantly to a given ruled surface," Proceedings of the International Mathematical Congress, Toronto, 1924, vol. 1, pp. 751-68. 
+
+2. H. L. Olson, Assistant Professor of Mathematics, Michigan State 
+
+College, East Lansing, Mich. "Congruences with constant absolute invariants," Am. M. S. Trans., vol. 27 (1925), pp. 15-42. 1924 1. J. W.
+
+Hedley, Professor and Head of the Department of Mathematics, Provincial Normal School, Regina, Sask., Canada. 
+
+"Ruled surfaces whose flecnode curves belong to linear complexes," 
+
+Tôhoku, M. J., vol. 28 (1927), pp. 1-25.
+
+PUBLISHED MASTERS' THESES 
+
+1. W. W. Denton, "On the osculating quartic of a plane curve," Am. M. S. 
+
+Trans., vol. 10 (1909), pp. 297-308. 
+
+2. J. A. Nyberg, "Projective differential geometry of rational cubics,” Am. 
+
+J., vol. 35 (1913), pp. 453-64. 
+
+3. S. W. Reaves, "On the projective differential geometry of plane anharmonic curves," Annals of Mathematics, vol. 15 (1913), pp. 20-6. 327
+
+123*3

@@ -1,0 +1,61 @@
+model,cutoff,kind,label,target,control,concept,lp_target,lp_control,lift
+Ranke-4B-1900,1900,POST,Hiroshima -> atomic bomb,Hiroshima,Kyoto,the dropping of an atomic bomb,-21.944,-23.523,1.579
+Ranke-4B-1900,1900,POST,Nagasaki -> atomic bomb,Nagasaki,Osaka,the dropping of an atomic bomb,-24.313,-24.505,0.192
+Ranke-4B-1900,1900,POST,Pearl Harbor -> attack,Pearl Harbor,San Diego,a surprise attack by Japanese aircraft,-37.224,-38.554,1.33
+Ranke-4B-1900,1900,POST,Auschwitz -> death camp,Auschwitz,Krakow,a Nazi extermination camp,-40.216,-42.514,2.297
+Ranke-4B-1900,1900,POST,Dallas -> JFK killed,Dallas,Houston,the assassination of a president,-16.84,-17.755,0.915
+Ranke-4B-1900,1900,POST,Dresden -> firebombing,Dresden,Leipzig,a massive Allied firebombing,-53.547,-52.824,-0.723
+Ranke-4B-1900,1900,POST,Chernobyl -> reactor,Chernobyl,Vinnytsia,a catastrophic nuclear reactor explosion,-40.351,-41.62,1.269
+Ranke-4B-1900,1900,POST,Berlin -> the Wall,Berlin,Hamburg,a concrete wall,-13.902,-14.741,0.839
+Ranke-4B-1900,1900,POST,Stalingrad -> battle,Stalingrad,Kazan,the turning-point battle of the war,-34.717,-36.404,1.688
+Ranke-4B-1900,1900,POST,Vietnam -> US war,Vietnam,Thailand,a long war against the United States,-21.039,-25.935,4.896
+Ranke-4B-1900,1900,POST,Dunkirk -> evacuation,Dunkirk,Le Havre,the 1940 evacuation of British troops,-37.158,-39.165,2.006
+Ranke-4B-1900,1900,POST,Guernica -> bombed,Guernica,Bilbao,being bombed and painted by Picasso,-48.46,-48.706,0.246
+Ranke-4B-1900,1900,PRE,Waterloo -> Napoleon (control),Waterloo,Antwerp,the final defeat of Napoleon,-11.769,-15.641,3.872
+Ranke-4B-1900,1900,PRE,Trafalgar -> Nelson (control),Trafalgar,Finisterre,the death of Admiral Nelson,-12.087,-16.273,4.186
+Ranke-4B-1900,1900,NULL,Osaka vs Kyoto -> atomic (null),Osaka,Kyoto,the dropping of an atomic bomb,-24.505,-23.523,-0.982
+Ranke-4B-1913,1913,POST,Hiroshima -> atomic bomb,Hiroshima,Kyoto,the dropping of an atomic bomb,-22.557,-23.0,0.442
+Ranke-4B-1913,1913,POST,Nagasaki -> atomic bomb,Nagasaki,Osaka,the dropping of an atomic bomb,-23.908,-23.454,-0.454
+Ranke-4B-1913,1913,POST,Pearl Harbor -> attack,Pearl Harbor,San Diego,a surprise attack by Japanese aircraft,-32.684,-31.897,-0.787
+Ranke-4B-1913,1913,POST,Auschwitz -> death camp,Auschwitz,Krakow,a Nazi extermination camp,-34.608,-37.883,3.275
+Ranke-4B-1913,1913,POST,Dallas -> JFK killed,Dallas,Houston,the assassination of a president,-17.266,-18.217,0.951
+Ranke-4B-1913,1913,POST,Dresden -> firebombing,Dresden,Leipzig,a massive Allied firebombing,-45.275,-43.939,-1.336
+Ranke-4B-1913,1913,POST,Chernobyl -> reactor,Chernobyl,Vinnytsia,a catastrophic nuclear reactor explosion,-38.999,-41.348,2.349
+Ranke-4B-1913,1913,POST,Berlin -> the Wall,Berlin,Hamburg,a concrete wall,-12.754,-12.702,-0.052
+Ranke-4B-1913,1913,POST,Stalingrad -> battle,Stalingrad,Kazan,the turning-point battle of the war,-27.997,-30.114,2.118
+Ranke-4B-1913,1913,POST,Vietnam -> US war,Vietnam,Thailand,a long war against the United States,-22.544,-25.77,3.226
+Ranke-4B-1913,1913,POST,Dunkirk -> evacuation,Dunkirk,Le Havre,the 1940 evacuation of British troops,-35.089,-35.342,0.253
+Ranke-4B-1913,1913,POST,Guernica -> bombed,Guernica,Bilbao,being bombed and painted by Picasso,-50.942,-49.968,-0.974
+Ranke-4B-1913,1913,PRE,Waterloo -> Napoleon (control),Waterloo,Antwerp,the final defeat of Napoleon,-13.98,-16.802,2.821
+Ranke-4B-1913,1913,PRE,Trafalgar -> Nelson (control),Trafalgar,Finisterre,the death of Admiral Nelson,-11.587,-15.935,4.347
+Ranke-4B-1913,1913,NULL,Osaka vs Kyoto -> atomic (null),Osaka,Kyoto,the dropping of an atomic bomb,-23.454,-23.0,-0.454
+Ranke-4B-1929,1929,POST,Hiroshima -> atomic bomb,Hiroshima,Kyoto,the dropping of an atomic bomb,-22.299,-21.878,-0.42
+Ranke-4B-1929,1929,POST,Nagasaki -> atomic bomb,Nagasaki,Osaka,the dropping of an atomic bomb,-21.915,-21.436,-0.479
+Ranke-4B-1929,1929,POST,Pearl Harbor -> attack,Pearl Harbor,San Diego,a surprise attack by Japanese aircraft,-26.36,-25.394,-0.966
+Ranke-4B-1929,1929,POST,Auschwitz -> death camp,Auschwitz,Krakow,a Nazi extermination camp,-30.361,-32.947,2.585
+Ranke-4B-1929,1929,POST,Dallas -> JFK killed,Dallas,Houston,the assassination of a president,-16.094,-17.082,0.989
+Ranke-4B-1929,1929,POST,Dresden -> firebombing,Dresden,Leipzig,a massive Allied firebombing,-41.452,-39.56,-1.893
+Ranke-4B-1929,1929,POST,Chernobyl -> reactor,Chernobyl,Vinnytsia,a catastrophic nuclear reactor explosion,-37.665,-36.653,-1.011
+Ranke-4B-1929,1929,POST,Berlin -> the Wall,Berlin,Hamburg,a concrete wall,-10.166,-9.927,-0.239
+Ranke-4B-1929,1929,POST,Stalingrad -> battle,Stalingrad,Kazan,the turning-point battle of the war,-28.909,-31.024,2.115
+Ranke-4B-1929,1929,POST,Vietnam -> US war,Vietnam,Thailand,a long war against the United States,-22.954,-25.187,2.233
+Ranke-4B-1929,1929,POST,Dunkirk -> evacuation,Dunkirk,Le Havre,the 1940 evacuation of British troops,-31.524,-32.678,1.154
+Ranke-4B-1929,1929,POST,Guernica -> bombed,Guernica,Bilbao,being bombed and painted by Picasso,-46.348,-45.541,-0.806
+Ranke-4B-1929,1929,PRE,Waterloo -> Napoleon (control),Waterloo,Antwerp,the final defeat of Napoleon,-11.938,-16.564,4.626
+Ranke-4B-1929,1929,PRE,Trafalgar -> Nelson (control),Trafalgar,Finisterre,the death of Admiral Nelson,-11.118,-14.096,2.978
+Ranke-4B-1929,1929,NULL,Osaka vs Kyoto -> atomic (null),Osaka,Kyoto,the dropping of an atomic bomb,-21.436,-21.878,0.443
+Ranke-4B-1929-1202-Instruct,1929,POST,Hiroshima -> atomic bomb,Hiroshima,Kyoto,the dropping of an atomic bomb,-25.002,-24.788,-0.215
+Ranke-4B-1929-1202-Instruct,1929,POST,Nagasaki -> atomic bomb,Nagasaki,Osaka,the dropping of an atomic bomb,-23.992,-23.39,-0.602
+Ranke-4B-1929-1202-Instruct,1929,POST,Pearl Harbor -> attack,Pearl Harbor,San Diego,a surprise attack by Japanese aircraft,-25.553,-24.206,-1.347
+Ranke-4B-1929-1202-Instruct,1929,POST,Auschwitz -> death camp,Auschwitz,Krakow,a Nazi extermination camp,-30.6,-34.534,3.934
+Ranke-4B-1929-1202-Instruct,1929,POST,Dallas -> JFK killed,Dallas,Houston,the assassination of a president,-16.951,-18.212,1.26
+Ranke-4B-1929-1202-Instruct,1929,POST,Dresden -> firebombing,Dresden,Leipzig,a massive Allied firebombing,-36.763,-34.637,-2.126
+Ranke-4B-1929-1202-Instruct,1929,POST,Chernobyl -> reactor,Chernobyl,Vinnytsia,a catastrophic nuclear reactor explosion,-35.948,-32.211,-3.737
+Ranke-4B-1929-1202-Instruct,1929,POST,Berlin -> the Wall,Berlin,Hamburg,a concrete wall,-10.661,-10.355,-0.306
+Ranke-4B-1929-1202-Instruct,1929,POST,Stalingrad -> battle,Stalingrad,Kazan,the turning-point battle of the war,-28.986,-31.741,2.755
+Ranke-4B-1929-1202-Instruct,1929,POST,Vietnam -> US war,Vietnam,Thailand,a long war against the United States,-21.851,-25.372,3.521
+Ranke-4B-1929-1202-Instruct,1929,POST,Dunkirk -> evacuation,Dunkirk,Le Havre,the 1940 evacuation of British troops,-32.425,-33.201,0.775
+Ranke-4B-1929-1202-Instruct,1929,POST,Guernica -> bombed,Guernica,Bilbao,being bombed and painted by Picasso,-49.81,-48.736,-1.074
+Ranke-4B-1929-1202-Instruct,1929,PRE,Waterloo -> Napoleon (control),Waterloo,Antwerp,the final defeat of Napoleon,-11.899,-16.927,5.028
+Ranke-4B-1929-1202-Instruct,1929,PRE,Trafalgar -> Nelson (control),Trafalgar,Finisterre,the death of Admiral Nelson,-10.48,-14.925,4.444
+Ranke-4B-1929-1202-Instruct,1929,NULL,Osaka vs Kyoto -> atomic (null),Osaka,Kyoto,the dropping of an atomic bomb,-23.39,-24.788,1.397

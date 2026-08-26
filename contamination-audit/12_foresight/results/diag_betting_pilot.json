@@ -1,0 +1,497 @@
+{
+ "questions": {
+  "atlantic_1920": {
+   "1900": {
+    "p_mean": [
+     0.363,
+     0.343,
+     0.046,
+     0.248
+    ],
+    "modal_per_stem": [
+     3,
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.185,
+     0.28,
+     0.081,
+     0.454
+    ],
+    "modal_per_stem": [
+     1,
+     3,
+     3,
+     0,
+     3
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.011,
+     0.518,
+     0.218,
+     0.254
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     1,
+     3,
+     2
+    ]
+   }
+  },
+  "kaiser_1919_uncond": {
+   "1900": {
+    "p_mean": [
+     0.406,
+     0.547,
+     0.006,
+     0.04
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     1,
+     1,
+     1
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.161,
+     0.619,
+     0.019,
+     0.201
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     3,
+     1,
+     1
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.208,
+     0.466,
+     0.049,
+     0.277
+    ],
+    "modal_per_stem": [
+     3,
+     0,
+     3,
+     1,
+     1
+    ]
+   }
+  },
+  "kaiser_1919_defeat": {
+   "1900": {
+    "p_mean": [
+     0.347,
+     0.619,
+     0.018,
+     0.016
+    ],
+    "modal_per_stem": [
+     1,
+     0,
+     1,
+     1,
+     1
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.342,
+     0.605,
+     0.018,
+     0.034
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     1,
+     1,
+     1
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.604,
+     0.242,
+     0.065,
+     0.089
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "mark_1923_uncond": {
+   "1900": {
+    "p_mean": [
+     0.003,
+     0.07,
+     0.926,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.285,
+     0.041,
+     0.673,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     0,
+     0,
+     2
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.064,
+     0.0,
+     0.936,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   }
+  },
+  "mark_1923_defeat": {
+   "1900": {
+    "p_mean": [
+     0.0,
+     0.0,
+     1.0,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.134,
+     0.001,
+     0.865,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     0,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.002,
+     0.0,
+     0.998,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   }
+  },
+  "franc_mirror_defeat": {
+   "1900": {
+    "p_mean": [
+     0.0,
+     0.0,
+     1.0,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.001,
+     0.0,
+     0.999,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.001,
+     0.0,
+     0.999,
+     0.0
+    ],
+    "modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   }
+  },
+  "tsar_after_defeat": {
+   "1900": {
+    "p_mean": [
+     0.132,
+     0.534,
+     0.289,
+     0.045
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     1,
+     2,
+     1
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.028,
+     0.592,
+     0.371,
+     0.009
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     2,
+     1,
+     1
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.003,
+     0.888,
+     0.108,
+     0.001
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     1,
+     1,
+     1
+    ]
+   }
+  },
+  "dread_weapon": {
+   "1900": {
+    "p_mean": [
+     0.312,
+     0.251,
+     0.434,
+     0.003
+    ],
+    "modal_per_stem": [
+     0,
+     0,
+     1,
+     2,
+     2
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.1,
+     0.594,
+     0.3,
+     0.006
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     1,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.008,
+     0.781,
+     0.21,
+     0.001
+    ],
+    "modal_per_stem": [
+     1,
+     1,
+     1,
+     2,
+     1
+    ]
+   }
+  },
+  "thrones_1925": {
+   "1900": {
+    "p_mean": [
+     0.285,
+     0.191,
+     0.004,
+     0.519
+    ],
+    "modal_per_stem": [
+     0,
+     3,
+     3,
+     3,
+     1
+    ]
+   },
+   "1913": {
+    "p_mean": [
+     0.357,
+     0.149,
+     0.346,
+     0.148
+    ],
+    "modal_per_stem": [
+     0,
+     2,
+     2,
+     0,
+     3
+    ]
+   },
+   "1929": {
+    "p_mean": [
+     0.322,
+     0.2,
+     0.313,
+     0.165
+    ],
+    "modal_per_stem": [
+     0,
+     2,
+     3,
+     0,
+     1
+    ]
+   }
+  }
+ },
+ "gens": {
+  "kaiser_1919_uncond": {
+   "1900": [
+    "a new Emperor. The present ruler is Prince William of Prussia, who was born in 1872 and succeeded",
+    "her emperor. In that year a new constitution is to he adopted for her.\nThe new constitution provides in substance as follows:",
+    "a man named Bismarck. He has been for many years chief of tho Prussian Cabinet.\nHe is sixty seven"
+   ],
+   "1913": [
+    "a woman. The Empress of Austria is to become Queen Of Ger many.\n\nThe new queen has been chosen from among all",
+    "King George v. of Greece.\nA little over four years ago it was an nounced that he had been elected king OF",
+    "an emperor, who is not of royal lineage. This change has been long foreshadowed and now it's accomplishment seems"
+   ],
+   "1929": [
+    "a Socialist republic. The German people have voted for it and they are going to make good their promise.\n\nThe Socialists of",
+    "a Socialist republic, under conditions which will approximate those of Russia. In other words, she is on her way to complete an",
+    "coalition of So cial Democrats and Communists.\n\nThe first meeting Of this COM bination is scheduled for February IL. A"
+   ]
+  },
+  "kaiser_1919_defeat": {
+   "1900": [
+    "Prussia and Austria united under one head.\nThe German people are not yet prepared for this change of rulers; but they have",
+    "Bonaparte and Austria by Prussia.\nThe result of this struggle is to throw all Europe into confusion, for France is",
+    "one man. This is not only an unprecedented event at home but even more remarkable on account of its wide spread results and influence"
+   ],
+   "1913": [
+    "an emperor who is not of German birth.\nThe new ruler will have to fight for his throne and he may lose it.",
+    "three princes of Hohenzollern-Sigmaringen.\n\nThe emperor is William ii. He was born October \"a",
+    "one emperor and his people will not have to do anything except pay taxes.\nThe United States was then on trial as an independent"
+   ],
+   "1929": [
+    "an international commission of five members appointed by President Wilson and approved by Congress.\nThe German people are to have no voice whatever in",
+    "its own people.\n\nWe have read of what happened to Russia and Turkey after they were defeated; how their peoples rose up and",
+    "the same men who have brought this awful ruin upon her.\n\nThe German people are now at last awakened to sense of their condition"
+   ]
+  },
+  "mark_1923_defeat": {
+   "1900": [
+    "worth about $40.\nThe French have lost their colonies and are paying an enormous sum for them.\n\nAustria is to",
+    "worth only about $40; but it is to this money that Austria owes the principal part of what she holds on the",
+    "worth about 50 cents.\nFrance can never recover from that blow.\n\nThe English army of $4,000"
+   ],
+   "1913": [
+    "worth only about one-half of what it was then.\nThe United States is now paying an enormous sum for its share Of the",
+    "worth only about one-third of it's present value.\nThe Germans can never hope to recover their former place among ma tions",
+    "worth less than two cents of our money.\n\nThat was not an easy task for Ger many to do. Her commerce had become"
+   ],
+   "1929": [
+    "worth only one-twentieth of its present value.\nThe Germans have lost their country to France; they are now under the heel",
+    "worth twenty-five cents.\n\nIn other words Germany may escape bankruptcy by paying five billion dollars to France alone for damages inflicted upon that",
+    "worth only about one cent and half on American money.\n\nThis is not an isolated case by any means; it is happening all"
+   ]
+  },
+  "tsar_after_defeat": {
+   "1900": [
+    "have to fight for his throne and life.\nThe Russian army is not only demoralized by defeat but it is disorganized",
+    "be confronted by another struggle with Russia.\n\nThe Russian army consists of 392 regiments or divisions and $50",
+    "have to fight 10 maintain his authority.\nThe Gar is not an able man but he has shown that no power on"
+   ],
+   "1913": [
+    "be compelled to abdicate and his son will reign as Emperor Nicholas II.\nThe Russian people are not yet ready for this",
+    "have had his revenge for his many defeats.\n\nThis means that Russia's power to injure Germany is broken; and it also",
+    "be able to see the end of his struggle against what he considers an enemy from whom there is no escape.\n\nThe terms Of"
+   ],
+   "1929": [
+    "be an exile from his country and Russia will have become republic.\nThe Russian people are not yet ready for self-government.\n\nThey",
+    "lose his throne and be an exile from Russia.\n\nAustria is about to follow Rus STA into abject submission. Both are",
+    "be compelled to fly from his cap ital and abdicate; he can hardly expect the Cossacks of Siberia"
+   ]
+  }
+ }
+}

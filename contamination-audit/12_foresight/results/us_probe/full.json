@@ -1,0 +1,446 @@
+{
+ "1913": [
+  {
+   "cat": "president",
+   "year": 1789,
+   "true": "Washington",
+   "cued_p": 1.0,
+   "cued_g": "Washington, who was inaugurated",
+   "nocue_p": 0.847,
+   "nocue_g": "John Adams, who had been",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1861,
+   "true": "Lincoln",
+   "cued_p": 1.0,
+   "cued_g": "Lincoln. He had been elected",
+   "nocue_p": 0.943,
+   "nocue_g": "a man who had been in",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1913,
+   "true": "Wilson",
+   "cued_p": 1.0,
+   "cued_g": "Wilson, and he is now",
+   "nocue_p": 0.893,
+   "nocue_g": "a man of peace. He",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1921,
+   "true": "Harding",
+   "cued_p": 0.849,
+   "cued_g": "Hastings, who had been Governor",
+   "nocue_p": 0.223,
+   "nocue_g": "the first to break his promise",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1923,
+   "true": "Coolidge",
+   "cued_p": 0.954,
+   "cued_g": "Coolidge. He had been",
+   "nocue_p": 0.016,
+   "nocue_g": "elected. The new president is",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1933,
+   "true": "Roosevelt",
+   "cued_p": 1.0,
+   "cued_g": "D. Roosevelt, son of",
+   "nocue_p": 0.996,
+   "nocue_g": "a man of great courage and",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1945,
+   "true": "Truman",
+   "cued_p": 0.965,
+   "cued_g": "S. Truman, a former",
+   "nocue_p": 0.104,
+   "nocue_g": "a member OF the Cabinet which",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1953,
+   "true": "Eisenhower",
+   "cued_p": 0.071,
+   "cued_g": "M. Crum, of",
+   "nocue_p": 0.008,
+   "nocue_g": "the first woman to hold that",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1961,
+   "true": "Kennedy",
+   "cued_p": 0.966,
+   "cued_g": "Andrew of Massachusetts; his term",
+   "nocue_p": 0.11,
+   "nocue_g": "a man of great ability and",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1963,
+   "true": "Johnson",
+   "cued_p": 0.996,
+   "cued_g": "'s father. He had been",
+   "nocue_p": 0.959,
+   "nocue_g": "elected, and the Speaker of",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1969,
+   "true": "Nixon",
+   "cued_p": 0.97,
+   "cued_g": "Olney, and the man",
+   "nocue_p": 0.776,
+   "nocue_g": "the same man who had been",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1974,
+   "true": "Ford",
+   "cued_p": 1.0,
+   "cued_g": "Ford, a former Governor of",
+   "nocue_p": 0.866,
+   "nocue_g": "a Democrat. The Democratic Party",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1981,
+   "true": "Reagan",
+   "cued_p": 0.089,
+   "cued_g": "M. Hays, who",
+   "nocue_p": 0.102,
+   "nocue_g": "the first to be chosen for",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 2009,
+   "true": "Obama",
+   "cued_p": 0.546,
+   "cued_g": "H. Mccarthy",
+   "nocue_p": 0.096,
+   "nocue_g": "a Negro. The second American",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 2017,
+   "true": "Trump",
+   "cued_p": 0.254,
+   "cued_g": "M. Hahn, a",
+   "nocue_p": 0.02,
+   "nocue_g": "a man who had been an",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 2021,
+   "true": "Biden",
+   "cued_p": 0.069,
+   "cued_g": "T. Robinson, of the",
+   "nocue_p": 0.003,
+   "nocue_g": "the first to be elected by",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1954,
+   "true": "Education",
+   "cued_p": 0.92,
+   "cued_g": "Education, and the decision is",
+   "nocue_p": 0.92,
+   "nocue_g": "Education, and the decision is",
+   "phrase": true
+  },
+  {
+   "cat": "civil rights",
+   "year": 1955,
+   "true": "Parks",
+   "cued_p": 0.167,
+   "cued_g": "Lee, a negro girl.",
+   "nocue_p": 0.275,
+   "nocue_g": "Mrs. Mary E. M",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1963,
+   "true": "King",
+   "cued_p": 0.99,
+   "cued_g": ", who said: \"If",
+   "nocue_p": 0.978,
+   "nocue_g": "not Mr.. Bryan, but",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1964,
+   "true": "Act",
+   "cued_p": 0.545,
+   "cued_g": "bill of Senator Tillman,",
+   "nocue_p": 0.545,
+   "nocue_g": "bill of Senator Tillman,",
+   "phrase": true
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "true": "Kennedy",
+   "cued_p": 0.702,
+   "cued_g": "E. Lee, Jr.,",
+   "nocue_p": 0.524,
+   "nocue_g": "a man who had been elected",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "true": "Memphis",
+   "cued_p": 0.394,
+   "cued_g": "Madrid, and his body was",
+   "nocue_p": 0.394,
+   "nocue_g": "Madrid, and his body was",
+   "phrase": true
+  }
+ ],
+ "1929": [
+  {
+   "cat": "president",
+   "year": 1789,
+   "true": "Washington",
+   "cued_p": 1.0,
+   "cued_g": "Washington. He was born in",
+   "nocue_p": 0.903,
+   "nocue_g": "George Washington. He was born",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1861,
+   "true": "Lincoln",
+   "cued_p": 1.0,
+   "cued_g": "Lincoln. He had been a",
+   "nocue_p": 0.928,
+   "nocue_g": "Abraham Lincoln. He had been",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1913,
+   "true": "Wilson",
+   "cued_p": 1.0,
+   "cued_g": "Wilson. He is now leading",
+   "nocue_p": 0.916,
+   "nocue_g": "asked to speak at a meeting",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1921,
+   "true": "Harding",
+   "cued_p": 0.998,
+   "cued_g": "G. Harding, who had",
+   "nocue_p": 0.819,
+   "nocue_g": "not able to keep his promise",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1923,
+   "true": "Coolidge",
+   "cued_p": 1.0,
+   "cued_g": "Coolidge. He had been",
+   "nocue_p": 0.415,
+   "nocue_g": "elected. The Republican party had",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1933,
+   "true": "Roosevelt",
+   "cued_p": 1.0,
+   "cued_g": "D. Roosevelt, a former",
+   "nocue_p": 0.965,
+   "nocue_g": "a man of great ability and",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1945,
+   "true": "Truman",
+   "cued_p": 0.993,
+   "cued_g": "S. New, a former",
+   "nocue_p": 0.227,
+   "nocue_g": "not a member Of that country",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1953,
+   "true": "Eisenhower",
+   "cued_p": 0.822,
+   "cued_g": "D. Eisenhower, who had",
+   "nocue_p": 0.076,
+   "nocue_g": "a member of the Order.",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1961,
+   "true": "Kennedy",
+   "cued_p": 0.572,
+   "cued_g": "Har- rison of Virginia",
+   "nocue_p": 0.401,
+   "nocue_g": "a native of New York.",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1963,
+   "true": "Johnson",
+   "cued_p": 0.999,
+   "cued_g": "B. Johnson, of California",
+   "nocue_p": 0.989,
+   "nocue_g": "assassinated, and the Secretary",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1969,
+   "true": "Nixon",
+   "cued_p": 1.0,
+   "cued_g": "Nixon, a former Governor of",
+   "nocue_p": 0.633,
+   "nocue_g": "a man of great ability and",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1974,
+   "true": "Ford",
+   "cued_p": 0.99,
+   "cued_g": "R. Ford, a former",
+   "nocue_p": 0.79,
+   "nocue_g": "a Democrat, and the Democratic",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 1981,
+   "true": "Reagan",
+   "cued_p": 0.894,
+   "cued_g": "Reagan, who had been a",
+   "nocue_p": 0.161,
+   "nocue_g": "the first to be chosen for",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 2009,
+   "true": "Obama",
+   "cued_p": 0.194,
+   "cued_g": "Y. Ably, who",
+   "nocue_p": 0.003,
+   "nocue_g": "a Negro. He is the",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 2017,
+   "true": "Trump",
+   "cued_p": 0.228,
+   "cued_g": "L. Mckay,",
+   "nocue_p": 0.089,
+   "nocue_g": "a man who had been an",
+   "phrase": false
+  },
+  {
+   "cat": "president",
+   "year": 2021,
+   "true": "Biden",
+   "cued_p": 0.005,
+   "cued_g": "Mccarthy, who",
+   "nocue_p": 0.018,
+   "nocue_g": "the first to be held under",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1954,
+   "true": "Education",
+   "cued_p": 0.966,
+   "cued_g": "Education, 283",
+   "nocue_p": 0.966,
+   "nocue_g": "Education, 283",
+   "phrase": true
+  },
+  {
+   "cat": "civil rights",
+   "year": 1955,
+   "true": "Parks",
+   "cued_p": 0.224,
+   "cued_g": "F. Mccormick",
+   "nocue_p": 0.19,
+   "nocue_g": "Mrs. Mary E. M",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1963,
+   "true": "King",
+   "cued_p": 0.999,
+   "cued_g": ", who said: \"If",
+   "nocue_p": 0.985,
+   "nocue_g": "not only an American, but",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1964,
+   "true": "Act",
+   "cued_p": 0.902,
+   "cued_g": "Act of 187",
+   "nocue_p": 0.902,
+   "nocue_g": "Act of 187",
+   "phrase": true
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "true": "Kennedy",
+   "cued_p": 0.83,
+   "cued_g": "M. La Follette,",
+   "nocue_p": 0.56,
+   "nocue_g": "a man who had been an",
+   "phrase": false
+  },
+  {
+   "cat": "civil rights",
+   "year": 1968,
+   "true": "Memphis",
+   "cued_p": 0.608,
+   "cued_g": "Paris, and his body thrown",
+   "nocue_p": 0.608,
+   "nocue_g": "Paris, and his body thrown",
+   "phrase": true
+  }
+ ]
+}

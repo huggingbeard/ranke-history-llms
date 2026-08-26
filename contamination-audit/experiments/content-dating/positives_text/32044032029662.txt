@@ -1,0 +1,739 @@
+F57
+
+US 945 U/F57 Problems in mechanizing the search 
+
+HARVARD LAW LIBRARY 
+
+AQD6837 3 2044 032 029 662 
+
+Patent Office Research and Development Reports 
+
+3 and d
+
+U.S. Patent office. Office of research development 
+
+PROBLEMS IN MECHANIZING THE SEARCH IN EXAMINING PATENT APPLICATIONS FOR OFFICIAL DISTRIBUTION 
+
+V1; 
+
+HARVARD ). LAW LIBRARY 
+
+су US 945 V/F57
+
+Prepared by Simon M. Newman Patent Research Specialist 
+
+Staff Member
+
+Office of Research and Development U. S. Patent Office Published October 24, 1956 
+
+Reprinted February 20, 1957
+
+OF DEPARTMENT UNITED ST STATE COMMERCE OF AMERICA Robert C. Watson Commissioner of Patents 
+
+4.8 de des 
+
+Sinclair Weeks Secretary of Commerce
+
+INTRODUCTION…...... 
+
+BROAD STATEMENT OF PROBLEM THE EXAMINATION PROCESS...... 
+
+An Illustrative Application The Search The Examiner's Action The Applicant's Response 
+
+Allowance of the Application.....
+
+OTHER FORMS OF CLAIMS WHAT MUST BE ENCODED 
+
+…………….. 
+
+ENCODING PROBLEMS ……... 
+
+CONCLUSIONS........... 
+
+CONCLUDING NOTES... 
+
+REFERENCES... 
+
+.... ....
+
+Contents 
+
+.... 3 
+
+Page 5 5 6 6 12 22 2 2 2 2 2 2 ∞ ∞ 2 23 23 26 26 27 28 28 29 11621-2
+
+1.
+
+PROBLEMS IN MECHANIZING THE SEARCH IN EXAMINING PATENT APPLICATIONS Introduction 
+
+During the short time that the Office of Research and Development has existed in the U. S. Patent Office, it has become abundantly clear that the complexity and enormity of the problems to be solved in mechanizing the searching of patent applications is not appreciated by many working in the related field of information retrieval. Much of the time of this staff is taken in repeatedly explaining these problems. This paper, therefore, will portray some of the many details and complexities which occur in the searching process and outline some of the manifold and interrelated problems that are being considered in our research into methods for, and means of, solving these problems.
+
+The patentability search is the first step in the examination process, which process constitutes the determination of whether a patent should be granted on a patent application. The requirement that examinations be conducted is embodied in law and constitutes a fundamental characteristic of the operation of the 
+
+Patent Office. Examination of patent applications involves examining printed publications for disclosures of similar structures, methods, compounds, compositions, etc. which may have been disclosed in the past and evaluating the similarities and differences between this recorded knowledge and the alleged invention for which a patent is sought. 
+
+In order to understand the analysis which follows, one should be aware that patents are not granted on ideas. An alleged inventor who wishes to apply for a patent must disclose and describe at least one preferred embodiment of his idea in a patent application. And, if the nature of the alleged invention admits of illustration, drawings are required illustrating ! the detailed structure of the embodiment(s) which he has elected to disclose. 
+
+Broad Statement of Problem 
+
+An excellent statement of these manifold problems in their broadest aspect, and of cogent reasons for the necessity of a solution to them through automation, was contained in the report of the "Bush Committee," (1) which stated in part: 
+
+Our patent system is based on a simple but wise philosophy. The grant of a U. S. patent gives the inventor a temporary exclusive righ in return for a full disclosure of his idea. 
+
+Creative thinkers are thus provided with a solid incentive for the development of the new and improved. Simultaneously, the disclosure of the invention stimulates further and constant advancement. In effect, each novel idea becomes a "seed" from which a flourishing tree of practical knowledge can grow.
+
+Thus the files of the Patent Office comprise a veritable treasure house of information upon which much of our industrial progress has been based, including ideas whose significance may not be realized for years after the disclosures. 
+
+They give today a clear indication of the present thinking of the most ingenious minds in the country as to where we will be five years or more in the future. The patent system plays a major part in the creation of new products and processes. These appear every year and stimulate the establishment of new companies to produce them. However, the individual inventor or small businessman is severely handicapped if he must wait several years for his patent to issue or if he must operate for a period of years, in uncertainty as to the possible appearance of a conflicting patent. If valid patents cannot be obtained with reasonable dispatch, inventors are discouraged and small businesses are without the modest protection which enables them to enter the field in competition with the larger, well established firms. Yet it is the efforts of inventors and the continuous advent of small firms that keeps our economy flexible and free of stagnation.
+
+Much of the delay is caused by the time required to search the pertinent patents among the 2,700,000 which today make up the record. Even if this is well done, there remains the problem of searching foreign patents and scientific literature. To be entitled to a patent in this country, one must be the first inventor-anywhere. If the foreign patents and scientific literature are not readily searched, the validity of patents is always in jeopardy.
+
+It is estimated that 60% of the time of patent examiners is now spent in the search operation. 
+
+This involves a thorough comparison of specific detailed claims with all prior disclosures, to determine whether the wording of the claim as expressed fails to represent invention over what has gone before. In addition to the searching by examiners, the public search room of the Patent Office is also filled every day, and often into the late evening with hundreds of searchers and attorneys poring through the files on behalf of industry and the inventor.
+
+The U. S. patent system is at the crossroads today. While the examiners are as dedicated and competent as their predecessors, they face a task infinitely more complex than that of an earlier day. The unprecedented pace of science and industry at home and abroad is producing new facts, scientific reports and patent information at a rate beyond the capacity of procedures which served our fathers well. 
+
+These facts are obvious to the patent expert but are not appreciated by the general public, for whose welfare the system was established. 
+
+Equally, the serious situation now facing the U. S. 
+
+Patent Office today is not being generally recognized although some of the difficulties had been pointed out to the Appropriations Subcommittees of both House and Senate during the hearings held in connection with the 1955 Patent Office appropriation hearings. The Office has a force of approximately 700 examiners struggling to keep abreast of these mountains of knowledge. 
+
+Despite their efforts, there are more than 200,- 000 applications awaiting action, and the present staff is unable to keep the size of this backlog from increasing.
+
+The Examination Process 
+
+In order to illustrate some of the specific problems involved, we will follow the prosecution of a simple patent application before an examiner in the Patent 
+
+Office in some detail.
+
+An Illustrative Application 
+
+Exhibit 1 shows the drawings of an application which has recently matured into a U. S. Patent (2). 
+
+This application was for "an ornamental bead necklace." In this application the individual beads were disclosed as being connected to one another by separable fasteners the two parts of which were each integral with each one of the beads.
+
+Hence the necklace could be taken apart at any joint, and beads added or taken out, so that the length of the necklace could be changed, or beads of different types, colors, etc., could be alternatively utilized in making up the necklace. 
+
+The Specification As required by the Patent Office Rules of Practice, the application contained a complete description of the alleged inventions, known as the specification which referred to the drawing as it described the several different embodiments of the patentee's idea. The specification of this application is reproduced here. 
+
+1 This invention relates to ornamental beads and similar bodies and its object is to provide an improved means of connecting or linking such bodies together, for example, to make up a string of beads.
+
+According to this invention, at least one of a pair of bodies which are to be joined together is formed of resilient material; one of the pair is provided with a neck carrying a head and the other is formed with a socket which is entered through a mouth of smaller cross-section than the socket interior, the head on one body and the mouth on the other being so shaped and dimensioned in relation to one another that the head will not ordinarily pass through the mouth but, due to the resilience of said resilient material, can be forced through with a snap action when it is desired to join two bodies together. 
+
+3 The invention is particularly applicable to the making up of a string of beads. Each bead may be provided with a head at one end and a socket at the other so that a string can be made up by a number of such beads. 
+
+4 Preferably each of the bodies to be joined is moulded from synthetic plastic material such as polyethylene and may have the neck and head formed integrally with the main part of the body.
+
+ORNAMENTAL BEADED NECKLACE Fig.1. 
+
+12 11 
+
+Fig. 3. 
+
+Fig. 4. 
+
+21 22 
+
+Fig. 8. 
+
+Fig. 7. 
+
+45 12 13 23 24 25 
+
+Fig. 2. 
+
+12 11 12 15 
+
+Art 
+
+15 
+
+Exhibit 1 
+
+Fig.6. 
+
+3115 14 13 
+
+Fig. 5.33 
+
+-45- 13 15 12 3236 40 42
+
+5 A string of beads or bead members may be formed of beads of different dimensions, the connecting beads and sockets being graded in size, each head being arranged to fit into a socket on the same size bead and into a socket of the next larger and/or the next smaller size. 
+
+The number of sizes of heads and sockets need not be the same as the number of sizes of beads and it may be found, for example, that two or three sizes of sockets would be sufficient for a necklace of graded beads. However, it will be appreciated that, when possible, the heads and sockets are most conveniently all of the same size. 
+
+6 In an alternative arrangement of beads of the kind described are formed as a set of beads of different dimensions, the connecting heads may be arranged to fit only into correspondingly sized sockets and special junction beads may be provided with heads and sockets of noncorresponding sizes. By this arrangement a graded necklace may be built up with a number of sets of beads, possibly of graded sizes, having the same size heads and sockets and with the various sets of beads joined by the special junction beads. 
+
+7 According to a further feature of the present invention each bead may be formed of a number of parts which are joined together, for example, by being made in the form of two halves of a hemisphere which are subsequently joined. This construction has the advantage that it enables hollow beads to be made, which is particularly advantageous for larger size beads since it saves material and enables a light-weight bead to be made. This form of construction furthermore provides one means of making multicoloured beads since the various parts of the bead may be made of different coloured materials. 
+
+8 The two halves of a bead formed as two hollow hemispheres may be made to join together with a snap action, for example by forming one hemisphere with a portion, around the mouth of reduced external diameter so as to fit inside the mouth of the other hemisphere. The two engaging hemispheres may be resiliently locked by forming a number of recesses or a circumferential groove on one of the mating surfaces and corresponding projections or a circumferential ridge on the other. 
+
+9 Another method of making multi-coloured beads is by using a double moulding process. In such a process the first mould may be arranged to produce a bead having a number of recesses or grooves which are filled in the second moulding stage. Alternatively, the first moulding stage may be arranged to produce a series of shaped areas, for example star-shaped areas positioned to lie on the outer surface of the mould for the final moulding and so appearing on the outer surface of the bead. 
+
+10 Another form of multi-coloured appearance may be made by putting plastic material of two or more different colours in the mould in such manner that it is not mixed homogeneously thereby obtaining a streaky or mottled appearance on the surface of the beads. 
+
+11 The method of joining beads or similar bodies described above is applicable to pendant ornaments such as earrings. For some such ornaments it may be desirable to provide beads with more than one socket whereby two or more pendant beads or like bodies may be attached to one bead. 
+
+12 For use in a string of beads, it may be convenient to mould a plurality of beads together as a unit, the beads being joined by a flexible neck. 
+
+Such a unit would be provided with a neck and head at one end and a socket at the other end so that a series of such units can be joined together or joined to individual beads to form a necklace or the like. 
+
+13 A particular feature of the construction of beads described above is that it permits of considerable flexibility in the junction between the beads. This flexibility may be obtained either by flexibility of the neck or by the freedom of play of the neck in the socket of the next bead.
+
+Preferably the socket is formed with a conical or similar opening to permit angular movement of adjacent beads without the necessity of flexing the neck. It may be found desirable in some cases to taper the neck in order to permit greater freedom of movement. Such taper need not necessarily be a straight taper. It will be appreciated also that the use of a long neck will increase the flexibility of a necklace formed from such beads. 
+
+14 It will be understood that modifications of the above construction are possible without departing from the scope of the invention. For example, instead of having a socket on one side and stem on the other, each bead may be formed with two sockets, the beads being connected together by means of separate double-headed stems or link pieces. Furthermore, the invention has applications other than to ornamental beads; a modified form of this construction may be employed in the production of models used to illustrate molecular structures. 
+
+15 The following is a description of a number of embodiments of the invention, reference being made to the accompanying drawings in which: 
+
+16 Figures 1 and 2 are respectively a side elevation and a sectional elevation of a bead constructed according to the invention; 
+
+17 Figure 3 is a cross-section showing, joined
+
+together, a number of beads of the kind illustrated in Figures 1 and 2; 
+
+18 Figure 4 is a cross-section through a number of beads of an alternative construction; 
+
+19 Figure 5 is a cross-section through yet a further construction of bead; 
+
+20 Figure 6 is a cross-section illustrating a bead adapted to receive a pendant ornament; 
+
+21 Figure 7 illustrates a construction of necklace in which individual bead members have a number of bead elements moulded integrally together, and 22 Figure 8 is a cross-section of a modified form of the bead of Figures 1 and 2. 
+
+23 Referring to Figures 1 to 3, there is shown a construction of bead necklace in which each bead is formed as a solid substantially spherical body 10 having projecting radially therefrom a short and comparatively thin neck 11 carrying a substantially spherical head 12. Diametrically opposite the head 12 is a socket 13 which is entered by way of a mouth 14 of slightly smaller diameter than the head 12 of another bead which is to be received in the socket. The mouth is slightly below the surface of the main part of the body 10 and is entered by way of a tapered entry passage 15. These beads are made by moulding resilient plastic material, such as polyethylene. The resilience of the material permits of the head 12 on one bead being forced through the mouth 14 into the socket 13 of another bead. The socket is made amply large enough to accommodate the head 12. The head can thus move in the socket. Since also there is provided the tapered entry passage 15, the construction allows angular movement between the beads so as to provide the requisite flexibility of a string of such beads. It will be seen that the beads can be strung together without the need of any conventional thread or cord and that, moreover, the conventional clasp for fastening a necklace can also be dispensed with if desired. A necklace may be made up of a number of identical beads but, as shown in Figure 3, the beads may be graded in size. Preferably all the heads and sockets are made of the same size but in a graded necklace it may be necessary on the smaller beads to have smaller heads and sockets. In such a case, the connecting heads and sockets may be graded in size so that each head will fit into a socket on the same size bead and into a socket of the next larger or next smaller size. Alternatively, the connecting heads may be aranged only to fit into correspondingly sized sockets and special junction beads provided with heads and sockets of noncorresponding sizes. 
+
+24 The heads may be made spherical as described above or may be conico-spherical in shape, that is to say, the head is formed of a hemisphere which at its diametral plane is joined to a circular cone, the conical part of the head being arranged with its apex directed outwardly facilitating the assembly of the beads. In this latter case, the socket mouth may conveniently be made circular with a diameter less than that of the major axis of the head. 
+
+25 Figure 4 illustrates an alternative construction in which each bead 20 is provided with two sockets 21, 22. The beads are joined by connecting links each formed by a stem 23 having heads 24, 25 at the two ends thereof. It will be readily apparent that it would also be possible to use the beads 20 with beads having two heads projecting from diametrically-opposite points. 
+
+26 For large beads it may be preferable to construct the bead as a hollow member in order to save material and enable the bead to be of lighter weight. Such a hollow bead may be constructed as shown in Figure 5 in which the bead is formed of two separate moulded parts 31, 32 each of substantially hemispherical form. The part 32 is shown as having an inwardly-directed flange 33 which engages a recess 34 formed on the part 31. The resilience of the material permits the two halves to be joined together with a snap action. It will be appreciated that the flange 33 may not extend completely around the mouth of the hemisphere and might consist only of a number of projecting lugs which engage corresponding recesses in the part 31. The parts 31 and 
+
+32 are formed one with a head 35 and the other with a socket 36 for connection to similar beads as in the previously described embodiments. 
+
+For convenience of moulding, in the two-part bead of Figure 5, the socket is formed by a short passage which tapers inwardly from both ends to have a throat through which a bead is forced to pass into the hollow interior of the bead. It will be appreciated that hollow beads similar to Figure 5 might be made of more than two parts and also that the various parts may be made of different colours to form multi-coloured beads. 
+
+27 As shown in Figure 6, a bead 40 may be provided with a plurality of heads and/or sockets, for example two sockets 41, 42 and a head 43 so that it may be joined to three other bodies. Such a bead will permit of a pendant ornament being fixed on to a necklace or the like. It will, of course, be appreciated that the heads and/or sockets may be formed in any selected positions. 
+
+28 As shown in Figure 7, a number of beads 44 may be formed as an integral unit joined by necks 45. Such an arrangement may facilitate the construction and assembly of a necklace by reducing the number of units required to be joined together. Each group of beads may be
+
+provided with a head 46 at one end and a socket 
+
+47 at the other. 
+
+29 Figure 8 is a cross-section of a modified form of the bead of Figures 1 and 2. In Figure 8, the socket is formed by a cylindrical cavity 50 having a throat 51 formed by an inwardly-directed flange 52.
+
+The Claims 
+
+A series of claims followed the specification. Each claim attempted to define an invention by reciting structural and interrelational features of one or more of the embodiments disclosed.
+
+If any claims are later allowed by the Examiner, they may become part of a patent to be granted on this disclosure, and such claims will then constitute a legal grant, to the patentee, of the right to prevent others from making, using or selling these inventions, as defined by the claims, during the term of the patent. 
+
+An applicant, in preparing claims for an application, attempts to define in words, every set of characteristics or details which he believes he has invented. Such details may be numerous. Hence he prepares a number of different claims, in which he permutes and combines these details. Thus an application may often have a substantial number of claims. 
+
+Claims which permute and combine those details which apply to a single embodiment of an inventive thought, will be a series of specific claims of varying scope to this single embodiment, while those which apply to the common concept of several embodiments will be generic claims of varying but broader scope than those to the separate embodiments. 
+
+Herewith are 17 of the claims which the applicant presented in this illustrative application: 
+
+9. A set of beads formed of resilient synthetic plastic material, wherein each bead is formed as a bulbous member with a socket and with a neck carrying a head, the neck and head being disposed on the bulbous portion diametrically opposite the socket, said head being smaller in size than the bulbous portion and said socket having a mouth of smaller cross-section than the socket interior, the heads and mouths on the various beads being so shaped and dimensioned in relation to one another that the head on one bead will not ordinarily pass through the mouth of the socket of another but, due to the resilience of the material, can be forced through with a snap action when it is desired to join two beads together. 
+
+10. A set of beads as claimed in claim 9, wherein the bulbous members are all of similar size and wherein the heads on all the beads are the same size and the mouths of the sockets on all the beads are the same size. 
+
+11. A set of beads as claimed in claim 9, wherein the bulbous members are of different sizes and wherein the heads on at least all of a group of the beads are the same size and the mouths of the sockets on at least all of a group of the beads are the same size. 
+
+12. A set of beads as claimed in claim 9, wherein at least one of the beads is a hollow member. 
+
+13. A set of beads as claimed in claim 12, wherein said hollow member is formed of two parts which are joined together. 
+
+14. A set of beads as claimed in claim 9, wherein at least one of the beads is formed by a double moulding process. 
+
+15. A set of beads as claimed in claim 9, wherein at least one of the beads is formed with an additional socket whereby it may be joined to those other beads. 
+
+16. A set of beads as claimed in claim 9, wherein at least one of the beads is formed with an additional head and neck whereby it may be joined to those other beads. 
+
+17. A set of beads formed of resilient synthetic plastic material, wherein each bead is formed as a bulbous member, beads to be joined being formed one with a neck carrying a head and the other with a socket, said socket having a mouth of smaller cross-section than the socket interior, the heads and mouths on beads to be joined being so shaped and dimensioned in relation to one another that the head will not ordinarily pass through the mouth but can be forced through with a snap action when it is desired to join the beads together. 
+
+18. A set of beads made of resilient synthetic plastic material, which beads are formed of a number of groups of integrally moulded beads, the beads in group being moulded with thin interconnecting necks, and the groups to be joined being formed at one end with a neck carrying a head and at the other end with a socket, said socket having a mouth of smaller cross-section than the socket interior, the heads and mouths on groups to be joined being so shaped and dimensioned in relation to one another that the head will not ordinarily pass through the mouth but can be forced through with a snap action when it is desired to join the groups. 10
+
+20. In a series of beads, a first bead comprising a body of resilient synthetic plastic material and having a neck portion of resilient synthetic plastic material extending from one side of said body, a head carried at the end of said neck of larger cross sectional size than the neck, said body having a hollow portion, forming a socket having a mouth spaced from said neck portion, the opening of said mouth being smaller in cross sectional area than the opening inside of said mouth, and at least one additional bead having a similar neck, head and hollow body portion, made of similar resilient synthetic plastic material, the head of said additional bead being of larger cross sectional area than the mouth of said hollow portion of the first bead but of smaller cross sectional area than the opening inside of said mouth whereby two adjacent beads may be snapped together or apart due to the resilience of the head and mouth of the respective beads. 
+
+21. The beads as set forth in claim 20 comprising a plurality of permanently attached beads formed of one integral piece of synthetic plastic material with a neck and head on the bead at a first end of the plurality and a socket with said mouth formed in the bead at the opposite end. 
+
+22. The beads as set forth in claim 20 in which the head of said bead is substantially spherical and in which the opening of said mouth is substantially circular in cross section. 
+
+23. The beads as set forth in claim 20 in which said mouth is below the external surface of the body and comprises an inwardly converging passage extending from the surface of the body. 
+
+24. The beads as set forth in claim 20 wherein said head is of conico spherical form with the apex directed outwardly. 
+
+25. The beads as set forth in claim 20 wherein said beads are formed of polyethylene. 
+
+26. A set of beads made up of a chain of a plurality of beads formed of resilient synthetic plastic material, each of said plurality of beads comprising a bead-like body position having a neck of substantial length extending from one side thereof, said neck having an enlarged generally spherical portion at the end thereof, a round socket having a mouth of reduced area extending inwardly from the side opposite to said neck portion, the narrowest portion of said mouth of reduced area being situated inwardly of the surface of said body portion and connecting with the surface by an outwardly diverging opening, the head of each of said beads being fitted in the socket of an adjacent bead to form a string of beads with the mouth of the socket surrounding a portion of said neck adjacent the head thereof, the head of each of said beads having such a diameter that it will not ordinarily pass through the mouth of reduced area of the next adjacent bead, the said head however, due to the resilience of the material, being removable from said mouth with a snap action to open said chain. 
+
+27. A set of beads made up of a chain of a plurality of beads formed substantially entirely of polyethylene, each of said plurality of beads comprising a bead-like body portion having a neck of substantial length extending from one side thereof, said neck having an enlarged generally spherical portion at the end thereof, a round socket having a mouth of reduced area extending inwardly from the side opposite to said neck portion, the narrowest portion of said mouth of reduced area being situated inwardly of the surface of said body portion and connecting with the surface by an outwardly diverging opening, the head of each of said beads being fitted in the socket of an adjacent bead to form a string of beads with the mouth of the socket surrounding a portion of said neck adjacent the head thereof, the head of each of said beads having such a diameter that it will not ordinarily pass through the mouth of reduced area of the next adjacent bead, the said head however, due to the resilience of the polyethylene, being removable from said mouth with a snap action to open said chain,
+
+It will be noted that, by means of inclusion of one or more specific details, the applicant had directed different claims, either generically, subgenerically, or specifically, to each of the seven illustrative species of his disclosed inventions (see the specification paragraphs 15 to 22, inclusive.) For example, claim 8 was directed generically to a set of beads as illustrated in figure 3 (exhibit 1), although the individual beads could also consist of the type illustrated in figures 1 and 2, 5, 6, or 8, or to any combination of two or more of them; claim 11, specifically to the set of beads as illustrated in figure 3 exclusively; claims 12 and 13 to a set of the beads made up from the species of figure 5 exclusively; claim 15 to a set of beads made up from the species of figure 6 exclusively; and claim 18 to a set of beads made up from the species of figure 7 exclusively. 11
+
+The Search 
+
+A patentability search by an examiner requires a simultaneous inquiry into many different aspects of all of the embodiments disclosed in the application. Each claim presented constitutes a different statement of what the applicant conceives one of his inventions to be. As can be seen from the quoted claims, many elemental details, and many relations between two or more details (hereinafter called interrelational combinations) are recited both specifically and generically. 
+
+Each invention, interrelational combination and detail must be separately searched for, not only in the field to which the invention pertains, but also into other fields of endeavor where any of the interrelational combinations and/or details are disclosed or used analogously.
+
+The Patent Law decrees, inter alia, that any printed or published document may be utilized as a bar to a patent claim. 
+
+As the examiner searches, he finds anticipatory publications which are called references in Patent Office terminology. 
+
+He judges the scope of the various inventions claimed in the application by the references found during the search.
+
+The Patent Office search utilizes a classification system consisting of a series of classes directed toward some restricted phase of a scientific or technical field. Each of these classes is further divided into subclasses directed to some more detailed phase, feature, or combination of features from that field. 
+
+At the present time there are more than 
+
+307 main classes and over 50,000 subclasses. A class may consist of only a few or more than a thousand subclasses. 
+
+In examining this case, the examiner made an extensive search thru many different subclasses, each of which he chose because of some detail which he believed he needed, in order to find the most pertinent references to anticipate both the claims and the disclosure. For example, although the joint between the beads is disclosed for use only with beads, he searched for each of the several different joints illustrated, not only between beads, but in any other type of structure where the joint performs its joining function in the same, in a similar, or in an equivalent manner. 
+
+The Search for Beads 
+
+He first directed his search into class 
+
+41, ORNAMENTATION, subclass 10, Or namental Forms, where the case had been assigned and in which the precise invent tions as claimed would have been found, if they were patented. In this subclass, the Examiner found the references, excerpts of which will be found in exhibits 
+
+2 and 3. 
+
+The disclosure of exhibit 2 (3) is a 
+
+Christmas tree ornament. It is made by assembling two semi-spheres and, considering this joint as an equator, the ornament has a fixed internal pipelike structure at one pole designed to receive a separable fastener part. This was probably cited to show the structure of the two part ornamental bead of figure 5 (exhibit 1) with its cylindrical well-shaped, polar opening for the reception of another fastener part.
+
+The disclosure in exhibit 3 (4) is that of an ornamental chain, made up from a series of like links simulating butterflies, each of which has a resilient fastening member in the form of two antennae, and a cooperating fastening member in the form of a hole, these two fastening members being on opposite sides of the link. The disclosure states that any number of these links can be detachably joined together to form a chain of any desired length. 12
+
+13 12 
+
+CHRISTMAS TREE DECORATIVE BALL HANGER 
+
+17. 19 20 18 .16 23 22 15. 10 
+
+This invention relates to a Christmas tree ornament, specifically a ball type ornament. 
+
+The invention particularly relates to means for hanging the ball on a tree. The invention is particularly well adapted to metal balls which are now commonly employed. 
+
+The ball generally designated by the numeral 10 is herein shown as made out of two parts 11 and 12, the two parts telescoping one another about a diametrical zone. The portion 12 is a hemisphere, the marginal portion 13 of which fits frictionally over a flange 14 which is formed to extend from the upper hemisphere portion 11. 
+
+The upper portion 11 is formed to have an inverted nipple 15 tubular in nature.
+
+A wire hanger 16 is formed to have a central main shank 17, on the lower end of which is 
+
+Exhibit 2 
+
+22 23 2018 ·16 17 "1 turned angularly and upwardly therefrom a foot 18 to form in effect a hook. On the upper end of the hanger 16 there is provided an eye 19, the diameter of which is larger than the internal diameter of the nipple 15. The length of the foot 
+
+18 is such that normally the distance from its point 20 across to the shank 17 is greater than the internal diameter of the nipple 15.
+
+The hanger 16 is attached to the ball 10 by forcing the foot end downwardly through the nipple 15 to cause the foot 18 to fold inwardly toward the shank 17, and then when the end 20 of the foot is carried downwardly below the end of the nipple 15, it may spring back to its normal position whereupon the foot 18 is engaged over the lower end 21 of the nipple 15. The hanger 
+
+16 thus can not be withdrawn from the ball 10 without an undue pull being exerted on the hanger, the pull being far greater than any pull would ever be employed with the ball 10 hanging on the Christmas tree. The eye 19 prevents the hanger 16 from dropping inside of the ball 10.
+
+The juncture of the nipple 15 with the surface 22 of the hemisphere portion 11 is through a radial bend 23 giving an external rounded corner which permits the eye 19 to drop somewhat within the nipple 15. 13
+
+ORNAMENTAL CHAIN 
+
+2+ 2. 
+
+This invention relates to improvements in necklaces, belts, bracelets, and the like, and has for its object to provide a device of this nature formed of a series of detachably connected members whereby the length of the chain may be adjusted to the purpose desired and which may be quickly changed by adding to or removing detachable sections therefrom. 
+
+1 indicates a chain, formed of series of detachably connected members 2, which may be made of flat sheet metal or other suitable material, said members, in the showing, being in 31 
+
+Exhibit 3 
+
+2 the form of butterflies, the antennae 3 and 4 of which are formed of spring wire and terminate in half balls or knobs 5 and 6, said balls being adapted to be sprung together to be projected through the opening 7, in the rear end 8, of the body 9 of an adjoining section or member, after which they will spread and hold the sections together.
+
+It will thus be seen that a chain of these butterflies may be made of any desired length and very quickly at that. 14
+
+The Search in Plastics 
+
+The examiner next proceeded to class 18, PLASTICS, where he searched subclass 49, which is directed both to processes of molding and uniting, and to certain types of articles made by such processes. In this subclass, the examiner searched for any molded plastic article which might have any of the details for which he was searching, for example, some statement of the inherent resilient characteristic of polyethylene. Since no art was cited from this class, we can assume that he found nothing more pertinent than the references which he later cited.
+
+The Search for Joints 
+
+Next in the search process was class 
+
+35, EDUCATION, subclass 60 Furniture, in which the examiner hoped to find analogous separable joints. This subclass is directed to devices in the nature of furniture which may be used in teaching. Here, too, no more pertinent art than that later cited was found. 
+
+Next, the examiner went to class 46,
+
+AMUSEMENT DEVICES, TOYS; subclas ses 16, 17, 18, and 22. These subclasses are directed to construction toys, particularly of the knockdown type. Specifically toy stores and figures were searched. 
+
+Here the examiner searched to find concatenated elements with separable joints similar to those claimed and disclosed. 
+
+The references found as the result of this search are excerpted in exhibits 4, 5, and 6.
+
+The disclosure of exhibit 4 (5) illus trates a piece of toy furniture made of blocks, which blocks may be interchanged and separably connected in several different arrangements. One of the separable fastening means disclosed is a rubber shaped dumbbell, which cooperates with bulbous, rigid-walled sockets in both members. This was probably cited because of the dumbbell fastener 23 of figure 4, exhibit 1. 
+
+This citation is interesting in that the dumbbell of the reference is resilient and the sockets rigid. This is the reverse of the disclosure in the application, but points up the problem of equivalency, which will be discussed later in this paper. Even though the resiliency of the fastener parts is reversed, the citation of this patent might discourage the later presentation of a broad claim involving such a joint, e. g., a claim to such structure where "one of the elements is resilient."
+
+The disclosure of exhibit 5 (6) is a sectional toy figure made up, in part, of a series of molded links with bulbous projecting connectors at one end, and shouldered sockets at the other end. 
+
+These are shown concatenated to make a string of cylindrical members forming a doll's limbs precisely in the same manner as the spherical beads of the application make a string of beads. There is also a disclosure of a link with a projecting fastener at right angles to the axis of the other two fasteners which might be held to suggest a reversal of the structure of the bead of figure 6 of exhibit 1. 
+
+The disclosure of exhibit 6 (7) is an educational toy employing a round spherical element with a tapered plug projecting axially from the surface. Diametrically opposite to the plug there is a tapered socket, and four additional similar sockets spaced 90° apart around the surface at the equator. 
+
+There is also a board or base with a pattern of similar tapered holes. The spherical members may be assembled by the insertion of the plug in any of the sockets in any other sphere, or in the board, as shown: This patent was probably cited by the examiner for the disclosure of figure 6 of exhibit 1, as well as for the disclosure of selectively concatenating spherical bodies. 
+
+Next the examiner searched class 24, BUCKLES, BUTTONS, CLASPS, ETC., subclass 108, directed to separable buttons and fasteners with spring type resilient sockets; subclass 116, for chain-type cord and rope holders; and subclass 208, for head and socket separable fasteners of the axial closure type. The pertinency of this search field is obvious. From this class, the examiner cited the disclosures, excerpts of which are shown in exhibits 
+
+7 to 9, inclusive. 15
+
+SECTIONAL TOY FURNITURE 
+
+WSUS
+
+My invention relates to improvements in sectional furniture for children, the primary object being to provide for taking apart by children of different pieces of play furniture, and teach to them the art of putting things together in proper relation.
+
+More specifically, it is the object of my invention to provide means for easily and quickly fastening blocks together so that the same may be readily pulled apart to separate the sections. 
+
+A pair of cubical blocks 1 are formed at a pair of diagonally opposite corners with sockets 7 therein for a purpose presently seen. 1 
+
+Exhibit 4 
+
+This invention relates to improvements in sectional toy figures having interengageable construction pieces. It is an object of the invention to provide a set of toy building pieces and connecting elements of an improved form which may be interchangeably interconnected to build an increased variety of figures; to provide the set with pieces having improved joints for their detachable and articulate interconnection; and to provide a sectional toy figure with a limb piece having an improved axial socket with walls of less curvature than the ball to embrace the ball in point contact.
+
+Another object is to provide the limb socket with shouldering elements which insure a positive positioning of the interconnected ball, requiring spreading of the walls to disconnect the ball from the socket.
+
+SECTIONAL TOY FIGURE 
+
+5 5 
+
+Exhibit 5 
+
+13.
+
+IS 16 Preferably dowel pins of rubber are provided for fitting in the sockets 7 with a friction fit to form therewith fasteners for securing the cubical blocks 1 together, the fasteners forming pull-apart connections.
+
+The sockets are provided with bulbous inner ends and the pins, designated 15, with similar ends 16 for compression to insert the same into the sockets and form tight pull-apart connections. / / / / / / / /// 
+
+The various balls of the connective pieces provide articulated joint connection with the socketed ends of the limb pieces 53 of the figures. 
+
+Each limb piece 53 is provided at one end wit? a ball 54 which is axially supported from the piece upon a reduced neck portion 55. The opposite end of the piece is provided with an axial socket indicated generally as 58 which cooperates with the balls of the various connective pieces to provide a detachable and articulate joint therebetween.
+
+The socket 58 is formed with oppositely disposed flat walls 59 spaced apart a distance slightly less than the diameter of the standard size ball to grip the ball periphery at diametrically opposed points thereon. The transverse socket walls are slotted at 61 and 60 and are relieved intermediate the ends of the socket to 16
+
+3140 45. 10 
+
+SECTIONAL TOY FIGURE--Con. 
+
+60 40 form semi-circular openings 62, the inner corners of which act as seats for an interconnected ball. The slot 61 communicates from opening 62 to the socket entrance to provide a channel for relatively free articulation of the ball in a plane transverse to the ball axis between its point contact with the walls 59, and receives the neck portion supporting the ball. 
+
+The slot 60 is somewhat narrower and extends inwardly to lengthen the resistant spring arms to more firmly embrace the ball. 
+
+The body material forming the edges of the slots 60 and 61 may be considered as flanges mutually extended from each wall 59 toward similar flanges on the opposite wall to embrace the ball within a seat defined by the semicircular aperture 62.
+
+Although the socket is preferably molded initially to the indicated shape it may be alternatively described as comprising an axial bore having flat walls 59 and an intersecting lateral bore 62. The socket walls at either side of the lateral bore 62 are slotted or cut away at 60 and 61. The apices of the intersecting bores and slots, comprising the upper inner corners 64 and lower inner corners 65 provide shoulders defining the interconnected position of the ball. 
+
+The relative dimension of the ball is such as to require pressure to spring the resilient socket walls to admit or remove the ball. In actual 1 14 
+
+Exhibit 5-Con. 
+
+61 -62 65 60 51 40 519 practice the socket dimensions are made such as to permit slight movement of the ball in its socket with the shoulders defining limiting positions of such movement. However, it is evident that within such limits the ball position is positively defined and is restrained from separation from the socket except upon forcing the walls apart to accommodate withdrawal.
+
+In addition to the seats or shoulders formed by the inner corners 65, the flattened side portions 59 of the socket terminate at the level of the top of kerf 60 in an additional arcuate seat or shoulder 63, to limit inward reception of the balls. Outward movement of the seated ball is restrained by the corners 64. The seated ball generally accommodates itself within the socket in a position limited by the engagement of the inner edges of the semi-circular apertures 62 and the corners 64 and 65 thereof, with ball surface. The ball is resiliently held in position within the socket and it is necessary to forceably spread the walls 59 and corners by pressure on the inserted ball to insert or remove the ball respecting the socket. In this manner complete articulation is possible and the resilient pressure tends to hold the parts in adjusted position but the joint is not subject to inadvertent separation.
+
+All of the various set pieces may be made of plastic or like material which admits of mass production by die casting or molding operations. 
+
+The pieces are easily assembled and by virtue of the novel articulated positive joint connections the figures will hold their assembled form in any selected position until disassembled. 17
+
+NEW OR IMPROVED CONSTRUCTIONAL TOY AND EDUCATIONAL DEVICE 
+
+·6' 6 This invention concerns a new or improved toy and educational device for young children and the object of the invention is to provide a simple harmless article which will both amuse and educate.
+
+According to the invention there is provided a device which comprises a base and a plurality of small individual elements each provided with a spigot and also with one or more holes or recesses so as to be adapted for interconnection by engaging the spigots in the recesses and for connection to the base which is also provided with cooperating recesses. Thus the elements may be built up upon the base and one upon another in various constructional forms and numerical order. Thus the toy can be used whilst constructing various amusing shapes or structures. 
+
+In the embodiment of the invention the toy comprises a wooden base of rectangular form provided with three rows of vertically disposed cylindrical recesses in its upper side. 
+
+The recesses in each row are equally spaced from one another and the spacing of the recesses in all the rows is the same but the recesses of the centre row are offset or staggered with respect to those in the outer rows.
+
+In combination. with this base there are provided twenty individual elements each in the form of a wooden sphere and each provided with a radially projecting spigot preferably of slightly frustro-čonical form. Each sphere is also provided with a series of radial recesses which may be formed by drilling diametrically through or radially into the sphere. Preferably one radial recess is aligned with the spigot and two or more other similar recesses are arranged with their axes transverse to the spigot. 
+
+The spigot on each sphere is adapted to fit into any of the recesses of the other spheres or into one of the recesses in the base. 
+
+By making the spigots of a slightly tapered form a reasonably tight fit of the spigots into the recesses is achieved and compensation is provided for wear in the spigots and recesses. 
+
+The spigots of the spheres are preferably made integrally with the spheres. 
+
+Although an article according to this invention is very conveniently made of wood it should be understood that it may be made partly or wholly in other materials. For instance the article could very conveniently be made from synthetic resin mouldings.
+
+Exhibit 6 
+
+18
+
+23 6 24. 33 26 22 -31 16 33 3 % -27 -20 23 32 -30 
+
+FASTENER 
+
+-17 Our present invention consists in a novel and improved method of interchangeable fasteners, as well as an improved fastening apparatus. 
+
+Broadly considered, our invention consists in the provision of devices which will enable different sets of ornaments for apparel or the like to be utilized on the same fastening members. 
+
+Referring to the fastener the outer, upper or finished button member is designated generally at 1. This button comprises an inner flanged shell 2 in circular form, with a central socket portion 3 struck up therein, having a pair of grooves or recesses 4, 4, cut in the shank part 5 to receive the end portions 6, 6, of a spring 10, the latter having its main part housed against the flange 2 of the shell and maintained in position by curving over the edge 7 of the flange of said shell or body portion 2. This construction forms the socket member of the fastener herein illustrated.
+
+Attached to the shell or body portion 2 is the finished element 12, preferably in the form of a concavo-convex button surface. 
+
+By having a series or set of different colored elements 12 for the buttons, the manufacture of our fasteners with a plurality of sets of colored buttons for interchangeable attachment, is accomplished. This element 12 may be applied in any desired manner, but we prefer to secure the same firmly to the button portion, for this purpose utilizing a ring 15 turning in the edge portions 16 and 17 upon the marginal edge of the element 12 and of the shell or body member 2.
+
+The combined button and fastener thus described can be utilized either as an interchangeable finished member for our invention, and for this purpose may be attached to and detached from other colored or finished buttons.
+
+To cooperate with the button as thus far described, we provide an intermediate fastener member consisting in the plate or body portion 20 and stud 21, the latter of suitable form, length and size to fit within the socket 3 and having a neck 22 arranged to snap by and thereafter be secured by the end portions 6, 6 of the spring 10. In order to make this member also a cooperating detachable fastener element, we provide a pair of recesses 24, 24, through one portion of the neck 22, and fit within the body portion 20 a spring 25, having its end portions 26, 26, corresponding with the end portions 6, 6, of the spring 10 already described. This spring is retained within the member 20 by its normal expansibility and the turning over of the edge portion 27 thus affording a marginal recess therefor. To cooperate with the intermediate fastener 20 just described, a third fastener. element 30 is arranged, having a stud 31 adapted to fit within a combined stud and socket member 
+
+21 of the intermediate fastener 20, the neck portion 32 being arranged to "snap" by the spring ends 26 in the same manner as that already described.
+
+Exhibit 7 
+
+19
+
+READILY APPLICABLE AND REMOVABLE GARMENT BUTTON 
+
+24 34 26 20 32 30 3018 32 14 16 22 24 34 20 The present invention relates to certain new and useful improvements in garment buttons and has more particular reference to a readily applicable and removable button construction which may be completely detached which may be readily applied for use and which does not have to be sewn in place. 
+
+The male unit is denoted by the numeral 14 and is not unusual in that it includes a one-piece construction having a circular or equivalent base 
+
+16, a neck or shank 18 and a spear-like enlargement constituting a head 20. Primarily, this unit is merely a headed base and is adapted to preferably coordinate with the complementàl female unit 22. Both units may be and preferably are constructed of suitable flexible resilient materials, preferably commercial plastics. The female unit 22 is characterized by a deformable pressure responsive or stress type deformable diaphragm or disk 24. This is marginally surrounded by a reinforcing rim or annulus 26. 
+
+The normal shape of the diaphragm is slightly conical and the inherent resilient properties maintain the same in this condition. On the reverse side the disk is provided with a central 32. 30 32 30 
+
+Exhibit 8 
+
+18 14 24 22 34 18 16 20 26 outstanding stud and said stud is slitted or divided as at 28 to define a pair of opposed semicircular gripping jaws 30-30 and an intervening axial recess or socket for the head 20. Substantially triangular webs 32-32 are radially integrated with the jaws and also with the outside face of the diaphragm. These webs obviously serve to stabilize the jaws when the latter are closed. The desired opening of said jaws is accomplished merely by exerting force against the central portion 34 of said diaphragm. 
+
+It follows that when the two units 14 and 22 are coupled separately the jaws are normally closed and frictionally engage and retain the head 20 in place. When it is desired to remove the button assembly finger pressure is exerted against the spot 34 and the rigid rim 26 is held between the first and second fingers. It is obvious that this pressure serves to flatten or straighten or correspondingly flex the responsive diaphragm whereupon the jaws spread apart and permit the head 20 to be readily withdrawn. It is, of course, actually possible to forcibly pull the two units apart, if desired. 20
+
+LAUNDRY ACCESSORY Exhibit 9 
+
+The disclosure of exhibit 7 (8) shows a three part fastener. The first (lower member in the drawing of exhibit 7) has a rigid bulbous projecting fastener part; the second, or intermediate member having both a socket with a resilient spring to surround and hold the projecting fastener part of the first member, and a rigid projecting fastener part extending opposite the socket; and a third member having a socket with a resilient spring to surround the projecting fastener part of the intermediate member.
+
+The disclosure of exhibit 8 (9) is a removable garment button. The button has a rigid bulbous projecting member, which has a conical point. This patent was probably cited to anticipate the disclosure contained in the specification in paragraph 14, third sentence.
+
+The disclosure of exhibit 9 (10) is an accessory for use in a laundry or analogous process. It consists of a unitary member having a funnel-shaped opening with a bulbous socket at the bottom, a flat plate section of smaller diameter than the exterior of the funnel, surmounting the exterior of the socket, and a bulbous projection extending from the plate, all in axial alignment. A series of pieces of material to be laundered, each having an opening such as a buttonhole, may have 21 one of these members inserted in the opening with the material around the hole aranged between the plate and the exterior of the funnel. By snapping the members together with the projection of one member inserted in the socket of another, the series of pieces are held together in alignment. 
+
+The disclosure of exhibit 10 (11) is a two-piece ornament with a bulbous projecting member on a plate, and a separable flowerlike and funnel-shaped member with an opening at the smaller end of the funnel, which snaps over the projecting member. Different funnel-shaped members may be used with the same projecting member.
+
+The examiner also searched class 59, CHAIN, STAPLE AND HORSESHOE 
+
+MAKING, subclass 2, for the making of bead-type chains, and subclass 80 for ornamental chain structures; class 63,
+
+JEWELRY, subclasses 3 to 5, inclusive, for chain type, expansible type, and other type bracelets; and additionally consulted with the examiners in charge of the DE- 
+
+SIGN PATENT CLASSES. Although these subclasses are clearly pertinent, no references were found in any of these places which were more helpful the those already found.
+
+IMPROVEMENTS RELATING TO ORNAMENTAL ARTICLES 
+
+4 This invention relates to ornamental articles intended for adorning garments subjected to laundering, cleaning or pressing from time to time, and it is possible that an ornamental article may be damaged in such operations. 
+
+Moreover, it is sometimes desirable to change an ornamental article for one of a different shape or colour.
+
+An ornamental article according to the present invention comprises a base intended to be secured to the garment in a permanent manner, and an ornament mounted on the base in a detachable manner.
+
+Conveniently a part of a press-stud fastener may constitute the base of the article, the ornament being formed to engage this part. There may be a projection with an enlarged end extending from the base, the other part of the article being formed with a hole or recess which will snap over this enlargement.
+
+Exhibit 10 The Examiner's Action 
+
+After having completed his search, and having come to a conclusion as to the patentability of each of the claims, the examiner sent a letter to the applicant, citing the pertinent references. He rejected those claims which he belived to be unpatentable and pointed out how he considered the references to be anticipatory. 
+
+Had he found any claims which, in his judgment, were patentable, he would have allowed them at this time.
+
+The initial action of the examiner rejected each of the claims on the dis- The projection may be arranged to extend and appear through a hole in the ornament. 
+
+It will be understood that both the base and the ornament may have many different forms, but in one particular form of article the male part of a standard press-stud fastener forms the base, and the ornament is formed from a brightly coloured moulded plastic material to simulate the petals of a flower. The projection of the press-stud extends and appears through a hole in the centre of the ornament to represent the centre part of the flower, the hole in the ornament being only just big enough to snap over the projection. When the garment is to be washed or cleaned the ornament may be removed so that it will not be damaged during the washing or cleaning operation, the base, which is less likely to come to harm, remaining on the garment during this operation. 2 closures of the patents of exhibits 3-10, and stated in part: • • · .. each. shows a uniting of two or more beadlike or ornamental elements by means of a projection, which may or may not be integral with said elements, and a corresponding socket. 
+
+More specifically (exhibit 7), employs a set of three or more colored studs or ornaments which are designed to snap-fasten into... (one another). (exhibit 3) makes a decorative chain of ornamental units designed to snapfasten together. (exhibit 4) shows a rubber dowel pin 14. . for uniting members 5. 
+
+Though... (exhibit 8) or (exhibit 8) or . . . (exhibit 10) shows only two plastic ornaments, it would be 1 ... 22
+
+mere duplication to employ more than two. • • • • • (exhibit 5). (exhibit 6) and (exhibit 9) show more than two units united together by ball and socket arrangement. Attention is drawn to the leg portion ". in . (exhibit 5) where there is shown a series of more than two plastic ornaments having ball and socket means of uniting so as to permit resilient connection with a slight degree of movement as is present in the claimed structure. The plastic used in (exhibit 4, 5, 8, and 10) is believed to be equivalent to the polyethylene herein claimed. 
+
+Restricting the intended use to a beaded chain is not sufficient to impart patentability to an otherwise old and well known structure. · • • (exhibit 2) is cited to show that it is old to provide hollow members of two parts as described in Fig. 5 of applicant's drawing (exhibit 1) (Matter in parentheses added.) 
+
+The essence of patentability of a claim most often is found, in the first instance, in the interrelational combinations recited in the claim, rather than in the specific details of the elements which are interrelated. Once this interrelational combination is found in one reference, details of equivalent elements in other references may be cited to show equivalency if they are both (1) similar to those being claimed, and (2) used analogously 'to the equivalent elements found in the interrelation combination.
+
+It will be noted here that exhibits 5, 6, and 9 particularly cited by the examiner, as well as 3, 4, and 7, show the interrelational combination of a plurality of separable, connectable, and interchangeable devices, which was required by the form of the claims, as presented. Once this basic interrelational combination was found, details from other references were then used jointly with it to show the more specific details recited in the claims. This was done because the examiner came to a legal conclusion that the doll limb of exhibit 5, the game of exhibit 6, etc., were fair anticipations of the interrelational combinations as then claimed by the applicant, and that the joint structures of references were not only used analogously in the application and the patents (and hence were equivalents), but met the terms of the claims as then presented. 
+
+It should be made clear that many claims are rejected because they are met either (1) by a plurality of disclosures which, together, show an invention to be unpatentable, or (2) less frequently, by a single reference disclosing an analogous teaching. Relatively few claims are rejected on identical disclosures.
+
+The Applicant's Response 
+
+The applicant revised his original judgment as to the scope of his inventions after studying the cited references. At that time, he could have resubmitted his claims, amended them, or presented new claims for reconsideration by the examiner. 
+
+The applicant, however, responded to the various rejections made by the examiner during the prosecution of the application by presenting six new, carefully redrawn claims, each of which more specifically pointed out and emphasized the differences in structure between his application and the references, i.e., the details of structure and the interrelational · concepts which were not in the references. 
+
+In particular, he emphasized the uninterrupted socket entrance surface, the head of the projecting member larger than the entrance opening but smaller than the interior of the socket, and. the neck of the projecting member smaller than the entrance opening, allowing a limited ball and socket action. 
+
+Allowance of the Application
+
+In his last response to the examiner, the applicant pointed out, inter alia, that: 
+
+The new claims bring out the structure by which the loose and flexible connection is obtained between the beads. Such structure, is not shown in the prior art and it is by means of such structure that applicant is enabled to obtain the same effect as that obtained with a necklace in which the beads are held on a string. 
+
+The six claims then pending were then allowed by the examiner, since, in his opinion, the differences in structure between the application and the references permitted a difference in result in the 23
+
+claimed interrelational combination, a result not possible with the structure of the joints of the references. 
+
+These claims were: 
+
+1. In a stringless necklace, a chain comprising a plurality of at least four bead members formed of resilient synthetic plastic material having the resilient properties of polyethylene, each pair of adjacent bead members being connected to each other by a ball and socket joint, a first of each pair of said adjacent bead members having an extension in the form of a neck extending from a surface thereof facing the other adjacent bead member, said neck having a head adjacent the outer end thereof, the facing surface of said other adjacent bead member having a socket opening for detachably receiving and retaining the head of the first bead member, said socket opening including a mouth which is of smaller cross sectional area than the interior portion of said socket opening, said head being larger in cross sectional area than the mouth of said socket opening whereby such head will not ordinarily pass through the mouth of a socket opening but due to the resilience of said plastic material may be forced therethrough with a snap action to provide a relatively secure but easily disconnected junction between adjacent beads, said head being smaller than the interior portion of said socket opening and the neck on said bead member in the region adjacent the head being smaller in cross sectional area than said mouth whereby to provide for freedom of play of the neck in the socket opening and flexibility in the junction between each pair of adjacent bead members. 
+
+2. In a stringless necklace, a chain comprising a plurality of at least four bead members formed of resilient synthetic plastic material having the resilient properties of polyethylene, each pair of adjacent bead members being connected to each other by a ball and socket joint, a first of each pair of said adjacent bead members having an extension in the form of a neck extending from a surface thereof facing the other adjacent bead member, said neck having a head adjacent the outer end thereof, the facing surface of said other adjacent bead member having a socket opening for detachably receiving and retaining the head of the first bead member, said socket opening including a mouth which is of smaller cross-sectional area than the interior portion of said socket opening, said head being larger in cross sectional area than he mouth of the said socket opening whereby such head will not ordinarily pass through the mouth of a socket opening but due to the resilience of said plastic material may be forced therethrough with a snap action to provide a relatively secure but easily disconnected junction between adjacent beads, said head being smaller than the interior portion of said socket opening and the neck on said bead member in the region adjacent the head being smaller in cross sectional area than said mouth whereby to provide for freedom of play of the neck in the socket opening and flexibility in the junction between each pair of adjacent bead members the said mouth being spaced inwardly of the external surface of said other bead member and being connected to said external surface by an inwardly converging passage to facilitate assembly of the bead members. 
+
+3. In a stringless necklace, a chain comprising a plurality of at least four bead members formed of resilient synthetic plastic material having the resilient properties of polyethylene, each pair of adjacent bead members being connected to each other by a ball and socket joint, a first of each pair of said adjacent bead members having an extension in the form of a neck extending from a surface thereof facing the other adjacent bead member, said neck having a head adjacent the outer end thereof, the facing surface of said other adjacent bead member having a socket opening for detachably receiving and retaining the head of the first bead member, said socket opening including a mouth which is of smaller cross sectional area than the interior portion of said socket opening, said head being larger in cross sectional area than the mouth of said socket opening whereby such head will not ordinarily pass through the mouth of a socket opening but due to the resilience of said plastic material may be forced therethrough with a snap action to provide a relatively secure but easily disconnected junction between adjacent beads, said head being smaller than the interior portion of said socket opening and the neck on said bead member in the region adjacent the head being smaller in cross sectional area than said mouth whereby to provide for freedom of play of the neck in the socket opening and flexibility in the junction between each pair of adjacent bead members said beads being formed of polyethylene. 
+
+4. In a stringless necklace, a chain comprising a plurality of at least four bead members formed of resilient synthetic plastic material having the resilient properties of polyethylene, each pair of adjacent bead members being connected to each other by a ball and socket joint, a first of each pair of said adjacent bead members having an extension in the form of a neck extending from a surface thereof facing the other adjacent bead member, said neck having a head adjacent the outer end thereof, the facing surface of said other adjacent bead member having a socket 24
+
+opening for detachably receiving and retaining the head of the first bead member, said socket opening including a mouth which is of smaller cross sectional area than the interior portion of said socket opening, said head being larger in cross sectional area than the mouth of said socket opening whereby such head will not ordinarily pass through the mouth of a socket opening but due to the resilience of said plastic material may be forced therethrough with a snap action to provide a relatively secure but easily disconnected junction between adjacent beads, said head being smaller than the interior portion of said socket opening and the neck on said bead member in the region adjacent the head being smaller in cross sectional area than said mouth whereby to provide for freedom of play of the neck in the socket opening and flexibility in the junction between each pair of adjacent bead members at least one of the bead members having at least two socket openings therein. 
+
+5. In a stringless necklace, a chain comprising a plurality of at least four bead members formed of resilient synthetic plastic material having the resilient properties of polyethylene, each pair of adjacent bead members being connected to each other by a ball and socket joint, a first of each pair of said adjacent bead members having an extension in the form of a neck extending from a surface thereof facing the other adjacent bead member, said neck having a head adjacent the outer end thereof, the facing surface of said other adjacent bead member having a socket opening for detachably receiving and retaining the head of the first bead member, said socket opening including a mouth which is of smaller cross sectional area than the interior portion of said socket opening, said head being larger in cross sectional area than the mouth of said socket opening whereby such head will not ordinarily pass through the mouth of a socket opening but due to the resilience of said plastic material may be forced therethrough with a snap action to provide a relatively secure but easily disconnected junction between adjacent beads, said head being smaller than the interior portion of said socket opening and the neck on said bead member in the region adjacent the head being smaller in cross sectional area than said mouth whereby to provide for freedom of play of the neck in the socket opening and flexibility in the junction between each pair of adjacent bead members at least one of said bead members comprising a plurality of bead elements integrally connected to each other, the opposite ends of the last mentioned one bead member being connected to adjacent bead members by said ball and socket joints. 
+
+6. In a stringless necklace, a chain comprising a plurality of at least four bead members formed of resilient synthetic plastic material having the resilient properties of polyethylene, each pair of adjacent bead members being connected to each other by a ball and socket joint, a first of each pair of said adjacent bead members having an extension in the form of a neck extending from a surface thereof facing the other adjacent bead member, said neck having a head adjacent the outer end thereof, the facing surface of said other adjacent bead member having a socket opening for detachably receiving and retaining the head of the first bead member, said socket opening including a mouth which is of smaller cross sectional area than the interior portion of said socket opening, said head being larger in cross sectional area than the mouth of said socket opening whereby such head will not ordinarily pass through the mouth of a socket opening but due to the resilience of said plastic material may be forced therethrough with a snap action to provide a relatively secure but easily disconnected junction between adjacent beads, said head being smaller than the interior portion of said socket opening and the neck on said bead member in the region adjacent the head being smaller in cross sectional area than said mouth whereby to provide for freedom of play of the neck in the socket opening and flexibility in the junction between each pair of adjacent bead members said bead members are made of polyethylene, the heads of said extensions being of generally spherical form, the said mouths of said socket openings being spaced inwardly from the external surface of the bead member and being connected to said external surface by an inwardly converging passage to facilitate assembly of the beads.
+
+Since this application was to become a publication, it was necessary for the examiner to determine where, in his opinion, the disclosures of this patent would be helpful to future searchers. The patent was issued in the Ornamental Form subclass along with exhibits 2 and 3 and a copy was placed in each of the subclasses which provides for molded plastic articles, reptile figure toys, chain type joints, bead chains, and chain-type bracelets. These subclasses were chosen because the examiner considered the joint or the concatenation features of this new reference would be pertinent in future searches involving the features classified in these subclasses. 25
+
+Other Forms of Claims 
+
+All patent claims are not in the form which was used by the inventor of the application we have just analyzed. The Patent Law allows a great deal of freedom in choice of how an applicant wishes to express his alleged inventions. Hence, in addition to claims of the type or form here disclosed (i.e., a chain of beads), other patent applications may present claims: (1) to a static structure per se, e.g., a single bead, or a structural Hbeam; (2) to a mechanical movement per se, or to an interrelational combination of such movements, e.g., an automobile change-speed gearing, or the complete power-path including a clutch, gearing, and differential; (3) to methods of making things, e.g., molding beads by an injection molding process; (4) to methods of using something, e.g., a method of operating a radar system to land an airplane in fog; (5) to an apparatus for making something, e.g., an injection molding machine; (6) to a chemical compound, or a composition comprising several ingredients, e.g., D.D.T. per se, or D.D.T. disolved in kerosene for use as a spray; etc.
+
+Any of these types of claims may require the alternative use of some one thing, e.g., a claim may require either ethyl alcohol or benzene, but not both, as alternative solvents in a composition of matter. Any of these claims may also require the absence of some particular thing, e.g., the absence of water in a composition of matter, or the absence of heat in a forging process.
+
+What Must Be Encoded 
+
+In order to mechanize the examiner's search, uniform coding systems will be evolved, and the patents and publications in the search files will be encoded according to these systems.
+
+The files of classified patents hold the great bulk of all applied and theoretical knowledge, both technical and scientific, in a concentrated form. These files constitute a main source of references for the examiner. In certain fields, e.g., chemistry, the nonpatent technical literature may sometimes constitute the most important source of references.
+
+The examiner's classified files are also reinforced with copies of foreign patents, and pertinent nonpatent literature references. The examiner may also consult nonpatent publications from other sources and cite them, if pertinent.
+
+All patentees are deemed, by law, to have "dedicated to the public" all features of their disclosures not claimed by them.
+
+Hence, in encoding a patent for mechanical search, all features of the disclosure, whether claimed or not, might later form the basis for the rejection of another applicant's claim and must be encoded for retrieval. 
+
+Every disclosure must be retrievable from any aspect of its structure, use or function, state of being, color, material from which it is made, etc. In other words, after the application which we have analyzed had issued as a patent, if it were to be encoded for automatized searching, there are hundreds of details of the dis-. closure which must be encoded. A few of them which may not be immediately apparent are: 
+
+1. The composition (polyethylene) used as a bead; 
+
+2. the two part bead structure of figure 
+
+5 per se, and 3. the location of fastening means at the poles of the bead when the two part joint is at the equator; 
+
+4. the dumbbell shaped connector of figure 4, with all its details; 
+
+5. the extra socket at right angles to the axis of the other projecting and socket fastener parts; 
+
+6. the use of such a joint in models used to illustrate molecular structures (application paragraph 
+
+14, last sentence). 
+
+7. the elongation of the neck of the projecting fastener part (application paragraph 13, last sentence). 26
+
+8. the use of the same sized fasteners with different sized beads; and 9. the use of different sized fasteners for different sized beads; and 
+
+10. the disclosed modes of assembling such beads in sets; 
+
+11. the use of multicolored beads; 
+
+12. the modified conic-spherical head of the projecting fastener part; 
+
+13. a rigid structure of two spheres connected by a cylindrical member; 
+
+14. a socket with resilient edges; and 
+
+15. any other aspects which were found to be dimensionally disclosed in the drawing, or specifically recited in the specification and claims. 
+
+If the search on the bead application were to be performed mechanically, then each of the references which the examiner cited would have had to be encoded in a manner providing for retrieval of the portions of the disclosures for which they were cited.
+
+Encoding Problems 
+
+Problems in encoding are often entangled in semantics. The obvious conflict of synonomous terminology for the same thing presents no real problem-one synonym is chosen. However, we might find one disclosure of a mechanism which alternatively holds a shaft from rotation or connects it to another rotating member and call it a clutch; a second disclosure with an identical structure will call it a brake; in a third disclosure such a structure will be called a clutchbrake combination; while a fourth and completely different disclosure of a sheet metal bending machine will also call the disclosed machine a brake. In one of these disclosures a clutch may be misnamed a brake. Now, the essential subcombination structure of a clutch may be used as a brake, and vice versa, but when this structure is disclosed or claimed in its environment, i.e., in the interrelational combination of other structure necessary for its use, it is either a clutch or a brake, and must be encoded for what it is, rather than what it is called.
+
+In the same manner, if one member is described as larger than a second, we must be able to retrieve the second member smaller than the first; if a heating step occurs before a rolling step in a metallurgical process, we must be able to retrieve a rolling step following a heating step; etc.
+
+The problem of a generic search must be emphasized as essential in Patent Office searches. In the case of the application which we analyzed, the examiner not only searched for beads or similar elements with similar separable joints, but he looked for all types of interchangeably fastened, concatenatable elements. 
+
+When a search is being made for a number of different elements or aspects concurrently, the coding system must be such that the search for one of the elements or aspects can be broadened. For example, a searcher looking for a desired composition including ethyl alcohol as an ingredient, must be able to find any alcohol as an ingredient in another composition which is identical except for the alcohol, if ethyl alcohol has never been disclosed with the other ingredients of the desired composition. And, similarly, a search which includes as an aspect, all benzene compounds in a specified composition must retrieve phenol in this same composition.
+
+A disclosure of a process of and/or an apparatus for molding beads is clearly a reference for a molded bead. A disclosure of spraying tomato plants with nicotine for insecticidal purposes, and a disclosure of the process of making an insecticide from tobacco leaves, are both references for the use of nicotine as an insecticide.
+
+In a like manner, the chemist searches not only for the exact composition, but for the equivalent or alternate ingredients in equivalent compositions; the metal- 27
+
+lurgist may look for equivalent or alternate heating and/or working steps in a process, or equivalent or alternate heating means in a furnace. And any mechanized system must be able to retrieve those disclosures which show equivalence as such, in some particular relation. 
+
+A patent claiming a rotary bearing structure may disclose details of chemistry, of pressure molding and of lubrication, all of which must be encoded for retrieval.
+
+Conclusions 
+
+It can thus be seen that the references which must be retrieved through mechanized search are quite varied and different from those which would result from a subject heading type of information search. Although our concepts and notions are often extremely broad in scope, the interrelationships of their conceptual parts are detailed and intimate, while the particular characteristics of each of these essential parts are necessarily minutely present. And while these categories of disclosure are seemingly incompatible, they must be retrieved concurrently.
+
+Compounding (and perhaps confounding) the problem, we must add the necessity for generic and alternative searching and many other requirements peculiar to our problem.
+
+Taken all together, the solution to these problems will require: 
+
+1. Constructing, organizing and integrating a series of codes; 
+
+2. analyzing and encoding according to these codes, at least 7 million disclosures in the Patent Office (each with the large number of codes necessary to set forth those features of each disclosure for which some searcher may later look); and 
+
+3. creating and designing methods of, and apparatus for using, the precise and intricate retrieval patterns required.
+
+Concluding Notes 
+
+The isolation of a single specific disclosure for completely anticipating all the claims of a patent application is a rarity. Even then, an applicant may, under certain circumstances, be allowed to show that he can antedate a specific publication, or some one or more publications may otherwise be found not to be properly usable in a specified instance. 
+
+It would appear, therefore, that no search in any scheme of mechanized search (as in the manual searching now used by the examiners) can be considered complete or sufficient for anticipating an application claim, if that search does not cover all the known pertinent art. Applying this particularly to mechanization, this means all encoded disclosures in storage. 
+
+The specific examples of problems in mechanizing the examiner's search, which have been mentioned herein do not, by any means, constitute the sum total of those which exist, but are merely representative of the many which occur. 
+
+Many of the technical specialties, such as electronics and organic chemistry, have other problems peculiar to their subjects matter. But in fulfilling the legal and constitutional obligation placed on the U.S. 
+
+Patent Office, none of these problems can be ignored.
+
+The many helpful and constructive comments and suggestions from other members of the staff which have been incorporated into the final draft of this paper, and the counsel and advice of the Director, who aided in the selection of the material here incorporated, are gratefully acknowledged. 28
+
+References 
+
+1. Report to the Secretary of Commerce by the Advisory Committee on Ap plication of Machines to Patent Of fice Operations; Dec. 22, 1954; U. S. 
+
+Department of Commerce, Washington 25, D. C.; $1; pp. 2 and 3. 
+
+2. U. S. Patent #2,714,269 to G. R. S. 
+
+Charles; Application date, Jan. 10, 1955; Patented Aug. 2, 1955. 
+
+3. U. S. Patent #2,688,202 to J. B. Oniel; 
+
+Application date, July 8, 1952; Patented Sept. 7, 1954. 
+
+4. U. S. Patent #1,797,968 to D. Sweeney; 
+
+Application date, Nov. 9, 1927; Patented Mar. 24, 1931. 
+
+5. U. S. Patent #2,582,553 to R. H. 
+
+McMurtrie; Application date, Aug. 
+
+17, 1949; Patented Jan. 15, 1952. 
+
+6. U. S. Patent #2,662,335 to G. H. Calverley; Application date, Jan. 19, 1950; Patented Dec. 15, 1953. 
+
+7. Great Britain, Patent #597,762 to N. 
+
+Ducat; filed Aug. 25, 1945; accepted 
+
+Feb. 3, 1948. 
+
+8. U. S. Patent #1,468,612 to E. S. Johnson et al; Application date, Oct. 4, 1922; Patented Sept. 18, 1923. 
+
+9. U. S. Patent #2,656,578 to T. J. 
+
+Tworek; Application date, June 21, 1951; Patented Oct. 27, 1953. 
+
+10. Germany, Patent #520,027 to P. Robert; Patented Aug. 9, 1929. 
+
+11. Great Britain, Patent #625,357 to Universal Plastics, Ltd.; filed June 20, 1947; accepted June 27, 1949. 
+
+53310-U. S. Dept. of Comm-DC-1956 
+
+29

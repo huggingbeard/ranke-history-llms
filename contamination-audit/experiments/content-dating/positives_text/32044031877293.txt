@@ -1,0 +1,1113 @@
+US 945 U1F61
+
+US 945 U/F61 Parameters for an information retri 
+
+HARVARD LAW LIBRARY 
+
+APR3827 3 2044 031 877 293 
+
+Patent Office, office Research and Development, Reports . . . . . No. 20 PARAMETERS FOR AN 
+
+CL 
+
+INFORMATION RETRIEVAL SYSTEM FOR CHEMICAL PROCESSES HARVARD LAW 
+
+US 945 J/F61 
+
+LIBRARY
+
+Prepared by Rowena W. Swanson* * Now with the Information Sciences Division, Directorate of Mathematical Sciences, Air Force Office of Scientific Research. 
+
+Harold Pfeffer Office of Research and Development Patent Office 
+
+April 20, 1961 
+
+DEPARTMENT UNITED STAT OF COMMERCE OF AMERICA U. S. DEPARTMENT OF COMMERCE Luther H. Hodges 
+
+Secretary
+
+PATENT OFFICE 
+
+David L. Ladd
+
+Commissioner 
+
+For sale by the U. S. Department of Commerce, Washington 25, D. C. Price 25 cents.
+
+Bar-Hillel wrote in a recent report:
+
+Preface 
+
+Old-fashioned traditional scientific methodology is to be overcome and improved upon not by symbolic logic but rather by a modern methodology of science and a better understanding of theory and concept formation. 1 
+
+The work summarized in this paper represents a preliminary investigation into an organization of information pertaining to chemical processes to which machine storage and retrieval techniques can be applied. (3) 1118851
+
+Preface.. 
+
+Abstract State of the Published Art ..... 
+
+The "Information" Corpus....
+
+Symbolic Representation... 
+
+Illustrative Process Analysis..... 
+
+Search Parameters Additional Investigations Needed Word Descriptors 
+
+Expectations..... 
+
+References... 
+
+Contents 
+
+10 10 13 
+
+Appendix A--Notations Glossary.... 
+
+Appendix B -- Exemplary Chemical Process Analyses...... 
+
+15 
+
+Appendix C--Listing of Element-Bond Structures 
+
+32 
+
+Appendix D--Sample Searches 
+
+36 (4)
+
+PARAMETERS FOR AN INFORMATION RETRIEVAL SYSTEM ABSTRACT FOR CHEMICAL PROCESSES 
+
+The data which describe a chemical process are analyzed with a view to organizing the information for application of machine storage and retrieval techniques. The approach is to isolate the sites of reaction in reactants and products as the basic units of information. A notation system is evolved for symbolically representing the data pertaining to the chemical changes. Areas for further study are indicated. Exemplary chemical processes are analyzed, and searches for process information are traced in appendixes to the report. 
+
+STATE OF THE PUBLISHED ART 
+
+There exists no ready-made tool, at present, which can be exploited as a means for easily locating information with respect to the chemical changes which occur in the transformation of one chemical compound into another. Information about chemical processes is usually submerged within classificatory arrangements based on chemical compound structure. In chemistry treatises and indexes, processes are described in terms of the ingredients which are subjected to reaction or in terms of the products formed.2 In two compendiums devoted solely to chemical processes, arrangement of the information is in terms of the reactant name or structure.8 There is, of necessity, a loss of information in these arrangements--e.g., those components of a reaction which are not indexed are lost to all but those who make a serial check for them through the entire text. 
+
+Additionally, uniform or comprehensive extrapolation of information generic to reactions or reactants is not readily possible with such arrangements.
+
+Recent literature has included texts concerned with mechanisms of chemical reactions.4 It is not within the objectives of the texts to systematize the contents to serve as an information storage and search tool.5 A notation system has been evolved by Ingold which is limited to the mech isms of the esterification process.6 The unimo lecular-bimolecular-intramolecular codings of Barnett are broader in scope, but neither system provides for details about reactants or process conditions.
+
+The work of Theilheimer8 is a departure from traditional approaches to chemical process doc umentation. The Theilheimer classification is based on the chemical bonds formed and broken during a reaction and on the nature of the reaction as an addition, rearrangement, exchange, or elimination. This information is represented symbolically. Reactions which are species of a general chemical change concept are grouped together. The antecedent of the Theilheimer system is that of Weygand, who organized process information from the standpoint of the bonds formed during a reaction with subgroups based on the elements sharing the bonds.9 
+
+THE "INFORMATION" CORPUS 
+
+The basic premise of Weygand and Theilheimer for chemical process classification is also that of the present system. The system proposes descriptors for the sites of reaction within a molecule as the basic units of information. Whereas 
+
+Weygand and Theilheimer restricted consideration to particular sites of reaction and particular reactants and products, the present system provides for all sites of reaction of all reactants and products. Additionally, variables pertaining to the chemical and physical environments significant to process operability are included. 
+
+The following conceptual categories of information are viewed as necessary components of a system for characterizing chemical processes: 
+
+I--Element-bond relationships at the sites of reaction within the reactant and product molecules.
+
+II--Descriptors which distinguish: 
+
+(1) Reactant from product (2) Stoichiometric proportions (3) Number of similar changes in a molecule (4) Character of bond at the site of change (i.e., single, double, polar)
+
+III--Descriptors which relate: 
+
+(1) Plural sites of reaction in the same molecule (2) Elements in the reactant with their counterparts in the product (3) The site of reaction with its structural position in the molecule (e.g., as part of an acyclic chain; in a ring) - 5 -
+
+IV-Terms to describe the physical environment 
+
+(e.g., temperature, pressure, time of reaction).
+
+V-Terms to describe the chemical environment (e.g., pH, catalyst, solvent). 
+
+SYMBOLIC REPRESENTATION 
+
+A set of symbol descriptors has been evolved for representing the foregoing items of process information. 
+
+The element-bond structure at the site of reaction is described by the notation YA [Y^2 - 21,9] P,q P,q A and B are the elements and is the bond at the site of reaction in the molecule (reactant or product). The Y denotes the number of occurrences in a molecule of the information portrayed in the Subscript p denotes the type of molecular structure of which the element is a part, e.g., acyclic, homocyclic, heterocyclic. Subscript q denotes the number of bonds between the element and hydrogen. Superscript n is an arbitrarily assigned number by which an element may be traced through a reaction, i.e., from its configuration in the reactant to that in the product. 
+
+The signify the beginning and end of information about an element-bond group at a site of reaction. Thus, [20,2-foot] represents a reaction occurring at both double bonds in the molecule when a reaction occurs the following structure: 
+
+at the C-H group in H₂C-C-H H. 2' the site of reaction is represented by [0,3-0,3] This device permits added depth of specificity of the structure of the molecule at the locus of reaction.
+
+The elements at the sites of reaction in a given reaction are uniquely identifiable by superscript number. In the element-bond designation, a plurality of similar sites of reaction is shown in the value of Y and the superscript. Thus, 1,4 [2 c¹ - 23:3] 0,2 0,1 describes a reaction occurring at both double bonds in the molecule 1 2 3 HCC H-CH=CH A plurality of similar sites can also involve a single element at the apex of a symmetric structure. Reaction of both =0 groups of the structure H₂C=CH-CH=CH₂ Since the subscript q accounts for bonds with hydrogen, hydrogen is excluded as an element variable (i.e., A, B). When the site of reaction involves hydrogen attached to another element, the change effected by the reaction is shown by a change in value of q. Since the basic grouping within a pair of square brackets involves a pair of elements and the connecting bond, the q device permits reaching back into the surrounding structure of the molecule and adding additional elements to the basic configuration. For example, is represented by 1 2 3 0 = S = 0 [20-13-8212] 0,0 0,0. - 6 -
+
+Special forms of the element-bond notation occur when a molecule composed of hydrogen and a single element or an element in elemental (molecular) form is a reactant. The notation in both instances contains a single element, [^] p,q group. Process information which is presently included is not exhaustive of the items which may ultimately be included but is only illustrative. 
+
+Most of the environment data are presently recorded in the terms used in their disclosure. 
+
+An exemplary symbolic representation is: 24 
+
+50 psi 5 hrs [] {PP} <AⓇ x-y> the value of p indicating whether A is in elemental or combined form.
+
+The molecule (reactant or product) is the basis for an additional level of grouping which is represented as follows: {a 8 [ AD,q — BD,q] [YED,q -Fn P,q ]} The enclose all of the site-of-reaction information pertaining to a single molecule. The a indicates the role of the molecule as reactant or product. The defines the stoichiometric proportion of the molecule in the reaction. 
+
+By a subscript device, parent molecules are identified in the symbolic representation. Two degrees of association are provided as illustrated by subscripts & and ' in the following notation: {ap[r ΥΑ p,q p,q = B p,q ]} {[ ]} Y A P,q The subscripts outside the (i.e., 8,8') identify the molecules containing the sites of reaction described within the {} Additionally, reactant antecedents are indentified within the {} pertaining to products. The reactant antecedent of an element-bond_group is identified by the subscript outside the ]. Thus, the {} above pertains to reactant 8. The {[] above pertains to product & containing the [A=B] site of reaction resulting from reactant 8. 
+
+A second symbolic grouping arrangement is used for chemical and physical environment data. 
+
+Valence change data are also included in this The denote the beginning and end of this grouping. The (PP) represents a compound of the chemical environment. Subscript ▲ denotes the role of the compound, e.g., catalyst, reducing agent. The <A" x-y> is the representation for valence changes: the <> signifying the beginning and end of the piece of information, A“ representing the element, and x and y representing the element valence in the reactant and product, respectively.
+
+The notations and their meanings are summarized in Appendix A.
+
+ILLUSTRATIVE PROCESS ANALYSIS 
+
+Translation of the description of a chemical process from the language used in the document to the symbolic representation of the system is illustrated below. The exemplary process is disclosed in U. S. Patent 2,640, 067 as follows: 2,640,067 
+
+GRIGNARD REAGENTS OF ORGANO- ALKOXYSILANES Example 1 
+
+440 grams of trimethylchlorosilane in an equal volume of benzene was mixed with 378 grams of 3-chloropropanol-1 and anhydrous ammonia was bubbled through the mixture until the odor of ammonia persisted. The ammonium chloride formed was removed by filtration and the product was distilled to give 513 grams of 3-chloropropoxy-1-trimethylsilane, boiling point 155° C. at 733 mm., n25°C. 1.4164 d250 °c. 4°C. .9371 and specific refraction .2680. - 7 -
+
+The stoichiometric equation for the above process, with the reactants and products represented by their chemical formulas, is: + NH (CH) Sici + 33 
+
+C1(CH) CH OH 
+
+2 2 2 C1(CH)CH OS1 (CH) 2 2 2 33 
+
+NH C 
+
+NH C1 The structural representation for the above reaction is:
+
+This equation incorporates all of the information from which the symbolic representation is derived. All bonds of the non-hydrogen elements with hydrogen are shown. The above equation includes an example of an element bond with hydrogen as a site of reaction (the 04 bond with hydrogen) to illustrate the technique of extending the site-of-reaction description one bond back into the structure of the molecule (i.e., to C³-04) when this special case arises.
+
++/ 
+
+H-N-H C1 
+
+·吧 ​H HN-C-H HHH || 1 HHH 111 
+
+H-C-Si-C1 
+
+C1-C-C-C-O-H + H-N-H C1-C-C-C-O-Si-C-H 111 H-C- HHH HHH H-C-IH H--C-#H A modified version of this representation is used in the process analysis. Element bonds to hydrogen are shown by lines from the non-hydrogen element; the H's are omitted. Heavy lines denote the bonds at the sites of reaction which are affected by the process. Superscript (n) values are assigned to the elements at the sites of reaction. Thus modified, the above representation becomes:
+
+Each of the following expressions enclosed in square brackets describes a site of reaction in the process: C1 2 %༠° 
+
+0,0 1 Si 
+
+0,1 - 3,2][10][²² = x²] 
+
+Si 
+
+C1 ΕΝ 0,4 1 -C- -C-Si 10 C1
+
+C1-C-C-C -N -C- 1134 10 C1-C-C-C Si -C- -N C1 The letters a, b, c, d, and e recorded below the structural formulas represent values assigned to the 's discussed in the preceding section. Encircled numbers 1, 2, 3, 4, and 5 are arbitrarily assigned superscript n values 
+
+The sites of reaction are: 
+
+15 N- 1 si' - cl Si C1 13 
+
+C -0 -Si 1 15 -N -C1 2 
+
+The and represent single and ionic bonds, respectively. The sites are all at acyclic segments of the compound structures as represented by subscript 0 in the first subscript position (p) for each element. The number of bonds of each element with hydrogen is noted in the second subscript position (q) e.g., the 0 of Si¹, sig- 0,0 nifying no bonds of Si with hydrogen and the 2 of C3 
+
+0,2 signifying two bonds of C3 with hydrogen. 
+
+The N5 •[ N50.3.] term illustrates a special form of the notation for sites of reaction composed of one non-hydrogen element. - 8 -
+
+The symbolic statement of the process is: 
+
+{--[ 
+
+1 C1 
+
+0,0 
+
+Si {+[ 1 0 0,0 
+
+The reactants have single sites of reaction. This is reflected in a single [] term enclosed by { } for molecules a, b, and c. Product d contains two sites of reaction: the Sil portion from reactant a and the C8 - 04 portion from reactant b. The sites are described in separate [] groupings within the {} for product d. Stoichiometrically, the compounds react on a one-for-one basis as shown by the numeral 1 in the first numeral position following each {,(B= 1). A single occurrence per molecule of a change in each element - bond group is shown by the numeral 1 following each 
+
+C, (Y=1). Reactants are distinguished from products by and +, respectively, in the first symbol position following each {. 
+
+The statement of the process discloses one environment condition--a benzene solvent. This information is represented in the symbolic statement by (CH) within the grouping. The 6 6 S change in valence of nitrogen effected in the process is noted by <N 3-5>.
+
+The analysis for this process is consolidated as the first example of Appendix B. Additional examples of chemical processes disclosed in the patent literature are analyzed in Appendix B. 
+
+Major steps in the evolution of the symbolic representations are included in the analyses. 
+
+SEARCH PARAMETERS 
+
+The system is designed to permit flexibility in defining a field of search for chemical process information such as is required for use in patent examination. A question may be framed in any one of a variety of degrees of specificity. 
+
+For example, a search may be for a { +[A -D]} group, or for a{[- A -B]} group in combination with { + A -D]}, or for a {-CA -B]} and {+[^p', q' -D]) combination, where p',q'differs from P,q p,q. 
+
+By the selection of some pieces of information and the suppression of others, a series of searches can be formulated for varying combinations, thus permitting the user flexibility in stating his search request. Selection can, for example, be made to provide a search for a specific set of Si ,2 1 N 0,3. 
+
+<N 3-5 > 
+
+1 C1 
+
+c12 0, 0,0 variables, or for the same set excluding all process conditions, or for sets of selected reactant and product combinations, or for structural variations within the reactants and products. 
+
+Several illustrative searches are given in Appendix D. 
+
+ADDITIONAL INVESTIGATIONS NEEDED 
+
+For practical purposes, the approach in applying the notation described above to process disclosures is to symbolically represent the process data as disclosed. The symbolic representation is restricted to the reactants and products specifically described and to the mechanisms of reaction disclosed or reasonably implied from the compounds. For the preliminary investigations reported here, selection of the unit of information contained in square brackets as the locus of reaction was made intuitively. The results of this first study indicate that this may not be a completely satisfactory means of recording meaningful information. Further study is going on to determine whether or not complete functional groups should be treated as the basic units of information.
+
+WORD DESCRIPTORS 
+
+Word descriptors of chemical processes are less amenable to standardization than structures. 
+
+A word can describe more than one process. Conversely, a process can be described by more than one word. For example, the synthesis of acetic acid from acetaldehyde is describable as the: 
+
+Reaction of an aldehyde 
+
+Production of an acid
+
+Formation of a carboxylic acid 
+
+Oxidation of an aldehyde
+
+Replacement of a C-H bond 
+
+Substitution of an -OH bond for an -H bond Formation of a C-O bond as well as the synthesis of acetic acid from acetaldehyde. Moreover, some words which are used to describe processes have no relation to any structural change involved in the process - 9 -
+
+(e.g., Cannizzarro reaction, Diels-Alder synthesis).
+
+Resolution of the word problem is expected to be attained through collection, definition, and classification of the words, and symbolic representation of the process concepts embodied in the words to the degree possible according to the definitions.
+
+EXPECTATIONS 
+
+A perfected system for storing information on chemical processes is expected through merger of the site of reaction description with standardized words. The discrimination provided by this combination should permit a question to be phrased in terms of the information actually sought for rather than in terms of a fixed and limited vocabulary. As a corollary, the search should retrieve only desired information and no false drops. Search questions of any degree of generality should be permissible. The above described system is believed to be an approach to these goals.
+
+REFERENCES* 1. Bar-Hillel, Yehoshua. Some Theoretical As pects of the Mechanization of Literature Search ing. Jerusalem: Hebrew University, April 1960. 
+
+(Technical Report No. 13 under ONR Contract 
+
+N62558-2214). 
+
+2. Classification Bulletin of the United States Patent Office. Class 260, Chemistry, Carbon Compounds. Washington, D. C.: Department of 
+
+Commerce, undated, under continual revision.
+
+This bulletin consists of definitions which delimit the types of compounds grouped into "subclasses" (i.e., subdivisions) for manual storage and retrieval purposes. Chemical process information is subsumed under the primary headings based on compound structure. 
+
+Gilman, Henry, ed. Organic Chemistry, an Ad vanced Treatise, 2 vols., 2nd ed. New York: 
+
+John Wiley & Sons, Inc., 1943. QD 251.G55.
+
+Karrer, Paul. Organic Chemistry. (translation from the German by A. J. MEE (only initials of translator given)). New York: Elsevier Publishing Co., Inc., 1946. 2d English ed. QD 251.K36. (Published and distributed in the public interest by authority of the Alien Property Custodian). In formation in this treatise is organized with respect to generic classes of compounds. 
+
+Migrdichian, Vartkes. Organic Synthesis. 2 vols. 
+
+New York: Reinhold Publishing Corp., 1957. 
+
+QD262.M55. 
+
+*Library of Congress decimal classification num bers are included in the citations of the books listed as references. 
+
+Cf. Adams, Roger, et al.. ed. Organic Reactions.
+
+Vols. 1 (1942), 2 (1944), 3 (1946), 4 (1948), 5 (1949), 6 (1951), 7 (1953), 8 (1954), 9 (1957), 10 
+
+(1957), 11 (1959). New York: John Wiley & Sons, 
+
+Inc. QD251.07. 
+
+Groggins, P. H., ed. Unit Processes in Organic
+
+Synthesis. 5th ed. New York: McGraw-Hill Book Co., Inc., 1958. QD262.G7. 
+
+The chemical process groupings in the Adams and Groggins works are based on a common structural segment of a starting material or a product or a feature of the reaction mechanism. Portions of the information content of the process disclosures are not readily retrievable because they are outside the categories by which the processes have been classified. 
+
+3. The compendiums are: 
+
+Gilman, Albert F., Jr. A Dictionary of Chemical
+
+Equations. 8th ed. Chicago: Eclectic Publishers, 
+
+Jacobson, C. A., ed. (succeeded, from Vol. 5 onward, by Hampel, Clifford A., et al.). Encyclo pedia of Chemical Reactions. Vols. 1 (1946), 2 
+
+(194), 3 (1949), 4 (1951), 5 (1953), 6 (195), 7 
+
+(1958), 8 (1959). New York: Reinhold Publish ing Corp. QD73.J3.
+
+These reference tools are primarily collections of reactions of inorganic compounds. Jacobson's 
+
+Encyclopedia system is an alphabetic arrangement first as to formulas of reactants and next as to reagents and includes carbon compounds in limited categories. Gilman's Dictionary is subdivided into sections for inorganic reactions, ionic reactions, nuclear reactions, and organic reactions. The information is alphabetic by formula or name of the first reactant in the equation. 
+
+4. Alexander, Elliott R. Principles of Ionic Organic Reactions. New York: John Wiley & Sons, 
+
+Inc., 1950. QD258.A5. 
+
+Barnett, E. de Barry. 
+
+Mechanisms of Organic
+
+Chemical Reactions. New York: Interscience Pub lishers, Inc., 1956. QD251.B3.
+
+At page 279, the author cites ten publications published between 1946 and 1956 which concern reaction mechanisms. 
+
+Day, Allen R. Electronic Mechanisms of Organic
+
+Reactions. New York: American Book Co., 1950. 
+
+QD273.D3. 
+
+Gould, Edwin S. Mechanism and Structure in
+
+Organic Chemistry. New York: Henry Holt & Co., 
+
+5. An informal paper was found subsequent to the writing of this report in which a system for classifying chemical processes for information retrieval purposes is outlined. Processes are categorized in terms of alterations in functional and nonfunctional groups as defined by Beilstein. The codes assigned to these groups are for a Keysort - 10 -
+
+filing system. A process is represented by codes for the most complex functional groups undergoing reaction and the functional groups formed from them. The system thus does not provide for all chemical changes involved in a reaction. 
+
+The authors acknowledge that the limited number of codes also result in an inability to distinguish among groups of reactions. The process classification was apparently developed in conjunction with a system for indexing chemical compounds. 
+
+Clayton, Temple, and Bradley Whitman. 
+
+action Index. [Schering Corp., Bloomfield, N. J.] 
+
+May 23, 1947. (Copy in authors' possession).
+
+Re- 
+
+6. The Ingold notation for esterification mechanisms is discussed in Gould, op. cit., at pages 
+
+315-6. Gould refers to Ingold, Structure and Mechanism in Organic Chemistry, Ithaca, Cornell University Press, 1953, p. 754. 
+
+7. Barnett, op. cit. 
+
+8. Theilheimer, Wilhelm. Synthetic Methods of Organic Chemistry, a Thesaurus. Vol. 1 (1942-4, translation by Hans Wynberg); Vol. 2 (1949, translation by A. Ingberman); Vols. 3 (1949) and 4 (1950) 
+
+(in German, Synthetische Methoden der Organ ischen Chemie); Vols. 5 (1951), 6 (1952), 7 (1953), 8 (1954), 9 (1955), 10 (1956) subtitled An Annual
+
+Survey (English editions); Vols. 11 (1957), 12 (1958), 13 (1959), 14 (1960) subtitled Yearbook (English editions). Basel, Switzerland: S. Karger AG. Ver lag. (Vols. 1 and 2 published by and remaining vols. available through Interscience Publishers, Inc., N. Y.) QD262.T4. 
+
+9. Weygand, Conrad. Organic Preparations. New York: Interscience Publishers, Inc., 1945. (A 
+
+translation and revision of Part II, "Reaktionen" of Weygand's Organisch-chemische Experimentierkunst, 1938, translator's name not given.) - 11 -
+
+Over-all notation: 
+
+{aß Er 
+
+YA - B 
+
+p,q 
+
+APPENDIX A NOTATIONS GLOSSARY 
+
+P,q. {ap[r Y D rr <R x-y> 
+
+YA 
+
+P,q. {PP} p,q 
+
+p,q 
+
+Grouping symbols: 
+
+{} [ ] 
+
+On-line symbols: 
+
+A,B,D,R
+
+PP 1 rr x-y 
+
+Subscript symbols: 
+
+Define the beginning and end of information pertaining to a chemical compound.
+
+Define the beginning and end of information pertaining to a site of reaction within a chemical compound. 
+
+Define the beginning and end of information pertaining to the environmental conditions of the process.
+
+Define the beginning and end of information pertaining to a change of valence.
+
+Identifies the site of reaction as one at which a process change takes place (<<<= -) or has taken place (α = +).
+
+Identifies the stoichiometric proportions of the compounds. 
+
+Identifies the number of element-bond structures of the same configuration in the molecule which undergo a change. 
+
+Representations for the elements (i.e., C, N, O, Na). 
+
+Representation for the compounds part of the chemical environment. 
+
+Identifies the bond of the clement-bond structure [—, (ionic bond), (polar bond)]. 
+
+Representation for physical environment conditions (e.g., temperature, pressure).
+
+Identifies the initial valence (x) and the final valence (y) of an element which undergoes a change of valence. 
+
+Identifies the part of the compound structure containing the element, as follows: 
+
+elemental form - 13 -
+
+Subscript symbols-Con. 
+
+რო ωφ φφ 3 simultaneous member of 2 heterocyclic rings simultaneous member of a heterocyclic and a carbocyclic ring simultaneous member of 2 carbocyclic rings member of a heterocyclic ring member of a carbocyclic ring member of an acyclic chain 
+
+Superscript symbol: 
+
+Identifies the number of bonds of the element with hydrogen. 
+
+Identifies the compounds from which the sites of reaction are isolated.
+
+Defines the role of the compound in the chemical environment (e.g., catalyst, diluent, reducing agent).
+
+Identifies a particular element in the various element-bond structures in which it occurs. - 14 -
+
+APPENDIX B EXEMPLARY CHEMICAL PROCESS ANALYSES 
+
+Applications of the system to process disclosures are illustrated in this appendix. The disclosures are examples of invention extracted from the texts of U. S. patents. The first example in this appendix is of the process analyzed in the report. 
+
+For each process analysis, the following information is given: the patent text description of the process; a structural representation of the reactants and products; a structural representation of the sites of reaction isolated from the compounds; a description of the reaction in terms of the system evolved in this report; and a code number. The code numbers are used in lieu of the patent numbers in references to the processes in subsequent appendixes. Code number-patent number equivalents are listed at the end of this appendix. 
+
+Since the purpose of this appendix is primarily to demonstrate applicability of the system to process disclosures, analysis has been restricted to information pertinent to reactants and products (i.e., wavy bracket { } terms). 2,640,067 
+
+GRIGNARD REAGENTS OF ORGANO- ALKOXYSILANES Example 1 
+
+440 grams of trimethylchlorosilane in an equal volume of benzene was mixed with 378 grams of 3-chloropropanol-1 and anhydrous ammonia was bubbled through the mixture until the odor of -ammonia persisted. The ammonium chloride formed was removed by filtration and the product was distilled to give 513 grams of 3-chloropropoxy-1-trimethylsilane,
+
+Structure representation: 
+
+-C- -C-s-c1+ C1-C-C-6-0² + -4@ -N- C1-C-C-C-0--Si-C- -C- 101 -C- 
+
+1 2 Si -Cl 13 4 C 0 15 13 4 1 15 2 -N- C -0 -Si -N-C1 
+
+​System notation: 
+
+2 C1 0,0 Si 1 0,1 0,3. 10 23,21 1 2 1 0 
+
+Si C1
+
+0,0 0.4
+
+Code identification no.: 067 15 -
+
+2,712,
+
+3-SULFONAMIDO-6-CHLOROPYRIDAZINES AND PROCESSES OF PREPARING SAME Example I 
+
+A slurry of one part of maleic hydrazide in 7.1 parts of phosphorus oxychloride is stirred for fifteen minutes at room temperature and then heated to 90° C. Heating is discontinued at this point, as the heat of reaction is sufficient to maintain the reaction at this temperature. After about twenty minutes the reaction is substantially complete, and excess´ phosphorus oxychloride is removed by vacuum distillation. The resulting oily residue is drowned in ice water, which results in the appearance of a copious tan precipitate. This mixture is made alkaline by the gradual addition of concentrated ammonium hydroxide, and the mixture is then extracted to exhaustion with ether. 
+
+The ether solution is dried by treatment for about sixteen hours with calcium sulfate at 8° C. and is then filtered and concentrated to a small volume by evaporation of solvent. The remaining concentrated solution is distilled in a vacuum and a fraction boiling at 123° C. to 127° C. at 8 mm. pressure is collected. This 3,6-dichloropyridazine has a melting point of about 66° C. to 68° C. 
+
+Structure representation: 
+
+sphocha. 230 C1 
+
+C1 C1 C1 (10) 110 
+
+1 2 3 5 6 7 9 -N-N-C -C=C -C -0 10 
+
+C1 -P
+
+System notation: 
+
+1 1 N 0,2 1 0 0, 2 0,1 2 1 N 0,1 
+
+11 12 -C1 12 C1 10 C1 C1 2 ||1 12 23,0] [ 
+
+4.8 3,7 20 =C 0,0 0,0 5,6 3,7 2 C 0,1 0,0 1 C = C 0,1 0,1 10,12 
+
+2 C1 0,0 11,1 0,0 1 2 1 N = N ,0 10,12 3,7 5,6 3,7 
+
+2 C1 2 C = C 1 C 0,0 ,b 4,1 
+
+Code identification no.: 011 2 N 1,2 0,0 7,37 ) وكن 16 -
+
+2,712,
+
+MONOAMIDES OF TRIHALOMETHANEPHOS- PHONIC ACID MONOESTERS Example IV-Vinyl N,N-diphenylamidotrichloro methanephosphonate 
+
+2 - N,N-diphenylamino- 1,3,2-dioxaphospholane was heated to about 145° C., and an equimolar amount of carbon tetrachloride was slowly added thereto over a period of about 22 hours. The mixture was topped at 
+
+100° C. at 150-200 mm. pressure, obtaining as product vinyl N,N-diphenylamidotrichloromethanephosphonate.
+
+Structure representation: 
+
+C1 16 + C1-C C1 1 C1 b_bo C1-C-C1 C1 2 
+
+14 13 2 1 -C-C -0 -P c5-c16 + C-C1 13 14 -C =C 7 1 2 ·0 -P =0 15 
+
+System notation: 1 1 C 
+
+2 2 1 HRRR) ,2. 1 0 €3,2][ 1 0 C1 1 C 1 
+
+Code identification no.: 029 0,2 
+
+1 0 2 0,0 = P 1 - 17 -
+
+2,719,
+
+1-HYDRAZINO-ISOQUINOLINES Example 2 
+
+2 parts by weight of 1-hydrazino-isoquinoline are dissolved in 25 parts by volume of 2-normal sodium acetate solution, and 2 parts by volume of acetone added. The resultant oily precipitate, when triturated, becomes crystalline. It is the 1-(N,N-dimethylmethylenehydrazino)isoquinoline of the formula ос
+
+CH, NHN=C
+
+CH, which after recrystallization from cyclohexane melts at 
+
+105-106° C.
+
+Structure representation: 
+
+-C-C 
+
+1 2 -N-N 
+
+3 4 C =0 
+
+System notation: 1 N 2 0,2 1 0, 1 
+
+0,1 2 0,0. 
+
+Code identification no.: 158 1 2 -N'-N²=c3 2 = C +11 N = C 0,0 - 18 -
+
+2,719,
+
+PYRIDINE THIOSEMICARBAZONE Example 2 
+
+About 10.7 g. of 3-formyl pyridine (nicotinaldehyde) and 9.5 g. of thiosemicarbazide are boiled for 30 minutes in a solution of 100 cc. of water to which has been added 
+
+5 cc. glacial acetic acid. The nicotinaldehyde thiosemicarbazone begins to separate as coarse, pale-yellow crystals even while the solution is still hot. These crystals are removed by filtration and dried. Their melting point is about 216° C., with decomposition. The product dissolves in dilute hydrochloric acid and in dilute sodium hydroxide solution, yielding a yellow solution, and it forms a copper complex salt which may be recovered as a greenish, yellow powder. This product, nicotinaldehyde thiosemicarbazone, is represented by the formula: -CH=N.NH.C(:8).NH
+
+Structure representation: 
+
+OPP. -N-C-N- 
+
+1 2 C =0 3 4 -N-N 
+
+System notation: 
+
+2 1 0 0, 1 N 
+
+1 = C 0,1 3 
+
+Code identification no.: 161 1 3 4 CNN c'=n³-n“- 3 0,2 
+
+0,1 1 N -N-C-N- 1 3 = C 0,0 0, a,b - 19 -
+
+2,793,
+
+P-CHLOROPHENYL-MERCAPTOMETHYL DI- DITHIOPHOSPHATES AND THEIR USE AS INSECTICIDES ALKYL 
+
+The compounds of the present invention can be made in the following manner: 
+
+R-1246-About 10.0 gms. (0.05 M) of p-chlorophenylchloromethyl sulfide, 15.0 gms. (0.06 M) of potassium diisopropyl-dithiophosphate and 100 ml. of 95% isopropanol, were refluxed two hours. The bulk of the alcohol was distilled off and the residue treated with 100 ml. of cold water and 100 ml, of 30-60° petroleum ether and the mixture transferred to a separatory funnel and shaken thoroughly. The lower aqueous layer was discarded and the petroleum ether layer washed several times with cold water, dried over anhydrous sodium carbonate, filtered and the petroleum ether distilled off on the steam bath.
+
+The product, a light yellow colored liquid, weighed 12.3 gms. (64.0% based on the p-chlorophenyl-chloromethyl sulfide). The ND25=1.6200.
+
+Structure representation: 
+
+-C- -C-C-O -C- -C-C-O C1- C1 -C-C-O S K -C-C-O 1 -C- -C1 
+
+1 2 -C -C1 3 4 S -K 
+
+System notation: 
+
+1 C1 2 0,0 3 S -C 1 
+
+0,2. 1 K 0,0 
+
+Code identification no.: 224 1 S 3 
+
+- 20 -
+
+2,859,
+
+REACTION OF SF, WITH ORGANIC COMPOUNDS CONTAINING A CARBONYL RADICAL Example I 
+
+A "Hastelloy"-lined bomb (capacity, 145 parts of water) was charged with 34.8 parts of acetone and 75 parts of sulfur tetrafluoride. The mixture was heated with shaking at 110° C. for 16 hours. The reaction products, all of which were gaseous at room temperature, were distilled in a low-temperature still. There was obtained 
+
+30.5 parts of 2,2-difluoropropane which boiled at -10° to -5° C. The identity of the product was confirmed by mass spectrometric analysis. Thionyl fluoride was obtained as a by-product.
+
+Structure representation: 
+
+פו -C-C F-S -F -C-C F-S-F 
+
+1 c¹=0² 2 3 4 F-S -F 
+
+System notation: 
+
+2 1 10 = C 0,0 2 1 0 = S 0,0 3 1 F-C -F 4 2 + S =0 3,5 2 F 0,0 4,4 0,0 2 F 3,5 0,0 0, Code identification no.: 245 - 21 -
+
+2,858,
+
+UNSATURATED THIOUREIDO ETHERS, POLY- MERS THEREOF AND PROCESS OF MAKING THEM Example 1 
+
+A solution of 23.0 grams (0.2 mole) of n-butyl isothiocyanate in 100 ml. of benzene is treated slowly with stirring at 20°-30° C. with 17.4 grams (0.2 mole) of 
+
+2-aminoethyl vinyl ether. The mixture is warmed to 50°
+
+C. to complete the reaction. The solvent is removed by stripping at reduced pressure. The residue, 40.6 grams, crystallizes and is purified by recrystallization from a mixture of toluene and petroleum ether to give 30.4 grams of a 75.4% yield, of material as a white, crystalline solid, M. P. 42-47° C The product, N-n-butyl-N'vinyloxyethylthiourea,
+
+CH2=CHOCH CH₂NHCSNHC,H,-n contains by analysis 13.9% nitrogen and 16.5 sulfur; the calculated values are 13.85% nitrogen and 15.83% sulfur. The product shows a strong absorption at 12.2 microns characteristic of a vinyl ether.
+
+Structure representation: 
+
+-C-C-C-C-N =S 
+
+1 2 N =C -N-C 
+
+System notation: 
+
+1 1 N 0,0 = C 1 N 0,1 2 0,0 -C-O-C=C- ཁང་ཁང་ཁ -0-0 4 3 2 1 -ç”-n³-c²-n'- NC-N 1 N 0,2 
+
+1 N 0,1 
+
+2 1 N 1 
+
+Code identification no.: 295 0,1 2 -C-C-C-C- - 22 -
+
+2,856,
+
+AMINOACID ESTERS OF N-SUBSTITUTED HYDROXYALKYL PIPERIDINES Example 1 
+
+N-methyl- 2 - piperidylmethyl- 3′- morpholinopropionate, having the structure:
+
+Основото CH, A mixture containing 32.7 g. (0.24 mole) of N-methyl- 
+
+2-hydroxymethylpiperidine, 41.5 g. (0.24 mole) of methyl morpholinopropionate, 1.2 g. of sodium methoxide and 
+
+325 cc. of n-heptane was refluxed with stirring. The methanol separated as soon as it was formed. After all the methanol had been collected the solvent was removed by distillation and the product separated by fractional distillation, B. P. 140-141° C./0.8 mm., yield 45 g. (69%).
+
+Structure representation: 
+
+4111 O -C-C-C-N Ο C-C-C-N 0 + 
+
+Pre peiHO - OreiHO-p 
+
+1 2 -C -0 
+
+System notation: 
+
+2 1 0 0,1 
+
+2 13 4 -C 0 1 -c¹-o" 1 1 0 
+
+0,0 
+
+Code identification no.: 406 3.2. C -O c3 0,3 1 0 0,0 1 - 23 -
+
+2,818,
+
+STEROID COMPOUNDS AND PROCESS 
+
+pregnadien 21-oate (II) 
+
+To a solution of 30.0 grams (0.078 mole) of methyl 3-methoxy- 11 - keto - 3,5,17(20) - [cis] - pregnatrien- 
+
+21-oate in 1,700 milliliters of acetone was slowly added a solution of 36.0 grams of sodium acetate trihydrate, 33 milliliters of glacial acetic acid and 33 grams of N-bromoacetamide in 300 milliliters of water while cooling the mixture sufficiently to maintain the temperature below 
+
+23 degrees centigrade. After stirring for 1.5 hours, the mixture was distilled at between 22 to 25 degrees centigrade at reduced pressure until about half the original volume remained. The concentrate was diluted with water and extracted with ether. The ether extract was washed with an aqueous sodium carbonate solution and then with water, dried, and then distilled to dryness. The residue consisted of methyl 3,11-diketo-6-bromo-4,17(20)- [cis]-pregnadien-21-oate, Structure representation: 
+
+-ć- -C- NBr 
+
+11 2 3 4 5 6 -C -0 -C =C 1 
+
+System notation: 1 0 2 1 0,3 1 Br 0,0 1 0 7 8 N -Br 2 3 1 C 0,0 4,0 2 3 4 5 6 8 0 =С -C -c =c -C -Br Br -ć- I li 0-C- 4,1 23,0] [ 1 C 94,1 1 C = C 44,0 2 1 0 = C 1 C 0,1 0,0 Y, 1 C 
+
+1 Br 44,0 0,0 
+
+Code identification no.: 408 4,1 1 C 44,0 = C 4,1. - 24 -
+
+2,854,
+
+3-(PENTYLTHIO)-PROPIONALDEHYDE THIOSEMICARBAZONE 
+
+In a representative operation, 160 grams (1 mole) of 
+
+3-(pentylthio)propionaldehyde was added to 100 grams (1.1 moles) of thiosemicarbazide dissolved in 180 milliliters (1.1 moles) of 6 normal hydrochloride acid. The addition was carried out with stirring and cooling of the reaction vessel in an ice bath. Following the addition, a solution of 180 grams (2.2 moles) of sodium acetate in 
+
+540 milliliters of water was added to the reaction mixture and the resulting mixture maintained for several hours with stirring and cooling and at a temperature of 30° C. 
+
+During the latter period, a 3-(pentylthio) propionaldehyde thiosemicarbazone precipitated in the reaction mixture as a crystalline solid. The product was separated by filtration, recrystallized from aqueous ethanol, and found to melt at 172°-174° C.
+
+Structure representation: 
+
+2 11110 S-C-C-C 3411 -N-C-N- 1 10 3 4 || | Oyeee!! C-CN-N -C-N- 
+
+1 2 -C =0 
+
+System notation: 
+
+2 1 = C 0,0 1 N 3 0,1 3 4 -N-N 
+
+Code identification no.: 
+
+481 1 3 4 -C=N-N 3 0,2 
+
+0, 1 N 3 0,0 1 = C - 25 -
+
+2,799,
+
+FLUOROVINYL ETHERS Example V-Preparation of ethyl 1,2-difluoro-2-chloro vinyl ether 
+
+A stream of 1,1,2-trifluoro-2-chloroethylene was passed through a drying tube and bubbled through a dry suspension of 0.5 mole of potassium ethanolate in toluene which was cooled to 0–10° C. The addition of the 1,1,2trifluoro-2-chloroethylene was continued at a slow rate for about three hours until an equivalent amount was absorbed. The temperature of the reaction mixture then rose to 25° C. The resulting thick suspension was centrifuged and the clear supernatant decanted and distilled to give 58 g. of ethyl 1,2-difluoro-2-chlorovinyl ether.
+
+Structure representation: 
+
+1 21 C=C-C1 ! | 3 -C-C-O 
+
+1 2 F-C 3 4 0 -K 3 2 0 -C 
+
+System notation: 
+
+1 1 F 2 1 K 
+
+Code identification no.: 712 0,0 11 3 21 -C-C-O C=C-C1 1 0 0,0 1 2 - 26 -
+
+2,802,
+
+INSECTICIDES EXAMPLE IV Preparation of 2,4,5-trichlorophenyl-beta-thiocyano ethylsulfide 
+
+24 parts of 2,4,5-trichlorophenyl-beta-chloroethylsulfide (prepared by known methods) were added to a solution of 30 parts potassium thiocyanate in 200 parts of ethanol. The mixture was refluxed for 12 hours. 
+
+After filtration most of the ethanol was distilled off under reduced pressure and cold water was added to the residue. 
+
+An oil separated and was washed with water, dried and distilled. The product crystallized on standing. B. P. 
+
+12 mm./225-230°. Yield: 50%; M. P. 26° C., soluble in acetone, ether and alcohol.
+
+Structure representation: 
+
+1104 -S-C-CS -CEN C1 C1 110 2 34 C1- S-C-C C1 KS -CEN C1- C1 C1 
+
+1 2 -C-C1 3 4 K -S 1 4 -C -S 
+
+System notation: 
+
+1 C1 2 0,0 0.2 0,0 
+
+Code identification no.: 769 
+
+1 S 0,0 1 - 27 -
+
+2,866,
+
+TRIETHYLAMINE SALTS OF N-(NAPHTHYL)- DITHIOCARBAMIC ACIDS 
+
+In a representative operation, 143.2 grams (1 mole) of 2-naphthylamine and 111.3 grams (1.1 moles) of triethylamine were dispersed in 1.5 liters of diisopropyl ether. This mixture was then heated to 60° C. and 
+
+83.8 grams (1.1 moles) of carbon disulfide added thereto with stirring. Stirring was thereafter continued, and the mixture maintained at 60° C. for two hours and then at 
+
+45° C. for about 20 hours to complete the reaction.
+
+Following the reaction, the mixture was filtered to separate a triethyl ammonium N-(2-naphthyl)-dithiocarbamate product in a yield of 76.3 percent. The product contained sulfur and nitrogen contents of 19.9 and 8.6 percent, respectively, as compared to theoretical contents of 20 and 8.7 percent.
+
+Structure representation: 
+
+-C- C- 16 N -C -C- -C-C -N -C -C- + S C =S 1 2 C -N 6 37 -C-N-C 18 -C 4 5 S =C -Co 13 
+
+2 5 4 3 7 -N-C -S -N -C 18 -C 
+
+System notation: 
+
+2 1 N 0,2 
+
+3 N 3,3,3 0,1 
+
+6,7,8 0,2 1 N 2 0,1 
+
+1 2 1 N 0,1 
+
+1 S 
+
+0,0 a,c 3,3,3 6,7,8 1 N 3 N 0,1 0,1 0,2 
+
+Code identification no.: 
+
+814 1 S = C 0,0 -C -C- - 28 -
+
+2,813,HYL- 
+
+HEXAALKYL (ETHYLENEIMINO THIOMETHY) IDYNE) TRIPHOSPHONATE Example 1 
+
+N-Ethylenetrichloromethanesulfenamide (19.2 g., 0.1 mole) was cooled in ice and stirred as 66.4 g. (0.4 mole) of freshly fractionated triethyl phosphite was added during a time of about 12 minutes. The resulting solution was heated to about 110° C. and ethyl chloride began to collect in the trap attached to the condenser with which the reaction vessel was equipped. The temperature of the reaction mixture was brought to 140° C., at which point the reaction mixture began to darken. It was then cooled to 30° C., put under water pump vacuum, and heated to 50° C. At this point 16.2 g. of ethyl chloride had collected in the trap. The theoretical quantity for replacement of all three chlorine atoms from the amide is 19.2 g. Distillation of the reaction mixture to remove material boiling below 72° C./0.1 mm. gave as residue 48.1 g. of the dark red hexaethyl (ethyleneiminothiomethylidyne)-triphosphonate, n,25 1.4682
+
+Structure representation: 
+
+-8- C1 1 ać-ć- ¿¿567 (6919 1(1,12,13 -0-ċ-ċ- 
+
+N-S-C C1 + 3-C-C 1 1 D-o-c-c- as C1 o-c-c- bi N-S-COP (10 13 -O-C -O-C-C- 
+
+I 1567) 3-C-C 1,3,4 C1
+
+1 2 3 
+
+C1-C -C1 с1 + 3 -C -C 
+
+5,6,7 8,9,10 11,12,13 -p11,12,13 -0 8 11 2 12 9 0 =P -C -P =0 
+
+13 10
+
+P =0 
+
+System notation: 
+
+3 C1 1,3,4 0,0 8,9,10 3 0 0,0 11,12,137 = P 0,0 2,2,2 0,0 8,9,10
+
+0,0 5,6,7 - 5, 6, 7] [1 0,2 1 
+
+11,12,13 2,2,27 3 P -C 0,0 0,0 
+
+Code identification no.: 819 56,71,34 3 -C -C1 
+
+8,9,10 11,12,137 1 0 0,0 -P 0,0 1,3,4 - C 
+
+1 C1 0,0 5,6,7 0,0 - 29 -
+
+2,865,THENYL UREAS 
+
+Example I 
+
+To a suitable reaction vessel is added and mixed 18.8 parts by weight of 3,4-dichlorophenylisocyanate, 11.3 parts by weight of a-thenyl amine, and 86 parts by weight of diethyl ether. The reaction is very vigorous and permitted to seek its own temperature level. Upon cooling the mass the precipitate is filtered off and washed with two 15 parts by weight portions of diethyl ether. 
+
+The product on drying is N-(3,4-dichlorophenyl) N'-(athenyl) urea (white granules, M. P. 169.8-170.5° C.. yield=99%).
+
+Structure representation: 
+
+C1 1 @ C1.
+
+NEC =0 
+
+1 2 N =C 
+
+System notation: 
+
+3 4 -N-C 1 N 0,0 = C 2 -P 1 2 3 -C -N'-c²³-x³-c*- 1 N 0,2 Sphppy 1 N 0,1 1 N 0,1 2 1 N 2 1 N 3 
+
+[Pd-da] [Pardal, Parda]}, 0,1 0,0 0,1 
+
+Code identification no.: 929 2 0,0 - 30 -
+
+Code No. 
+
+Patent No. 
+
+067... 011...... 029... 2,640,067 2,712,011 2,712,029 158....... 2,719,158 161...... 2,719,161 224.... 2,793,224 245.... 2,859,245 295.... 2,858,295 406.... 2,856,406 408... 2,818,408 481.... 2,854,481 712... 2,799,712 769... 2,802,769 814... 2,866,814 819... 2,813,819 929.... 2,865,929 - 31 -
+
+APPENDIX C LISTING OF ELEMENT-BOND STRUCTURES 
+
+The element-bond structures used to describe the processes analyzed in Appendix B are collected in this appendix. 
+
+The units are arranged in the following order: 
+
+1. Alphabetically by element abbreviation a. By order of superiority based on the element-bond groups aa. By order of superiority based on the subscripts
+
+The following rules were applied in ordering the terms: 
+
+1. a. For the units composed of carbon and another element, carbon is placed second in the term. b. For the units composed of elements other than carbon, the elements being dissimilar, the first element alphabetically precedes the second. 
+
+2. The bond order of precedence is 
+
+3. The order of the subscripts is as follows: 
+
+a.
+
+In the first subscript position, ε > ww > wp > cp > W > > 0. b.
+
+In the second subscript position, q> q-1 > q-2 > q-3, etc. 
+
+The superscript and numerical prefix modifiers are not affixed to the element-bond structure terms for the purposes of this listing. Neither modifier affects the substantive nature of the unit. The relationships and process specifics symbolically expressed by these modifiers are determinable from the complete notations in Appendix B. 
+
+The numbers associated with the element-bond structures are the codes for the patent numbers of 
+
+Appendix B. 
+
+The listing is an ad hoc device for surveying the element-bond terms required to represent the process changes. Its value for dictionary, statistical, and other purposes has not been determined. - 32 -
+
+Br,C Br 408 0,0 4,1 Br,N Br 0,0 c,c C=C 44,0 3,1 4,1 0,2 C-C 0,1 
+
+408 0,1 C1,C C1 0,0 w,0 011 C1 
+
+0,0 0,2 224 769 819 C1 029 0,0 0,0 819 C1,N = C 408 C1 ŵ,1 0,0 0,4 067 = C 011 C1,P C1 011 = C 408 0,0 0,0 4,0 = C 029 C1,S1 0,1 C1 0,0 Si 0,0 067 = C 011 0,1 F,C 408 0,0 0,0 245 712 44,1 4,1 €4,0 4,1
+
+408 F,S F - S 0,0 245 0,0 029 r,2 ∞,2 K,0 011 w,1 712 
+
+0,0 0,0 4,1 408 4,0 K,S 0,1 
+
+011 0,0 K - S 0,0 224 0,0 769 - 33 -
+
+N N,N
+
+814 0,0 N-N 0,2 
+
+N,C N=C 0,0 = C 158 011 0,1 158 161 481 158 0,1 0,0 161 481 4,0 = C 161 N,S 0,0 0,1 481 0,1 
+
+0,0 814 = C 295 0,0 0,0 929 0,C N-C 2,0 
+
+0=C 011 65,0 = C 408 4,0 814 0,2 4,0 = C 161 0,0 0,1 481 295 0,2 0,2 929 = C 011 0,0 0,0 158 245 0,1 
+
+814 4,0 O-C 
+
+029 - C 295 ,0 6,2 0,1 0,2 929 406 011 0,1 0,3 0,1 0,0 295 814 929 
+
+0,1 0,2 067 406 N, H 
+
+0,1 0,0 011 067 0,3 408 0,0 4,0 N,N 406 N=N 0,0 0,3 408 N = N 3,0 011 3,0 0,0 0,2 067 406 819 - 34 -
+
+O,C O-C 0,0 0,0 0,P 0=P O-P 029 0,51 0,0 
+
+Si 0,0 067 0,1 0,0 712 P,C 0,0 0,0 029 819 s,c = P 029 S=C 0,0 0,0 819 S = C 0,0 814 0,0 
+
+029 S-C 
+
+4,0 4,0
+
+224 0,0 0,2 769 0,0 819 0,0 814 0,0 0,0 0,s 0,0 = S 0,0 245 - 35 -
+
+APPENDIX D SAMPLES SEARCHES 
+
+The ability of this system to respond to search questions for chemical process information is demonstrated in this appendix. The search question is translated into the notation of the system. The search is in two parts: (1) the Appendix C list is searched for the element-bond structures in the question, and (2) the Appendix B analyses which contain all the desired element-bond terms are searched for the remaining process information. 
+
+An exact match of all parts of the question except the superscripts with terms for the disclosed process represents an answer. The superscripts are arbitrary numbers and, therefore, numerical identity of superscripts between any two otherwise identical sets of terms is accidental. The superscripts do show whether a plurality of []'s for a particular process are related as indicated by the question.
+
+A symbol is introduced for purposes of asking a question, ?. The ? is substituted for any symbol representing information which is suppressed in making the search. Suppression of a piece of information broadens the scope of the search question. Thus, a carbon atom at a site of reaction which may be part of a chain, a carbocyclic ring, or a heterocyclic ring, and which has no bonds with hydrogen is represented by C₂,0° When more than one possible variation for a particular item of the notation is sought, the variations are multiply stated. Thus, a carbon atom at the site of reaction in an "alkylene" group may be part of a straight or branched carbon chain and may have no bonds with hydrogen or up to two bonds with hydrogen. The representation for the carbon atom is C Co. (1) The full discriminatory value of the system remains to be explored. Process condition information and standardized terminology, conceptually noted in the report, will be exploited. - 36 -
+
+SEARCH # 1 For: A process for the preparation of fluoroalkyl compounds which comprises reacting sulfur tetrafluoride with an organic compound containing at least one oxygen doubly bonded to one carbon, any remaining atoms on said carbon being singly bonded to said carbon and at most one of said remaining atoms being monovalent. 
+
+Structure representation: 
+
+lo F-S @_... 
+
+1 2 S -F 3 ...c³=0 2 3 
+
+F-C ...
+
+Question: 
+
+1 ?? F ?? O 3 = C 0,0 0,0 0,0 3 +?? F 0,0 
+
+Appendix B: 
+
+011 245 245 158 408 161 481 
+
+Appendix A: 
+
+2 1 3,5 245 is = C 2 F 0,0 0,0 Answer: 245 245 712 4,4 3,5 2 F 0,0 - 37 -
+
+SEARCH # 2 For: A method of making a compound having the formula R-O S wherein R is a lower alkyl radical, comprising reacting p-chlorophenyl chloromethyl sulfide with a potassium salt of a di-lower alkyl dithiophosphate.
+
+Structure representation: 
+
+P-S-CH-S- 2 -C1
+
+R-0 R-0 C1- 1 2 S-CC1 3 4 R-0 R-0 XX SOK R-0 
+
+Question: 
+
+1 2 -C1 3 4 S -K s³-c¹- S -C 2 
+
+1 C1
+
+0,0 0,0 0,0 
+
+Appendix B: 
+
+224 224 769 769 224 769 819 
+
+Appendix A: 
+
+2 
+
+224 is 
+
+1 C1 
+
+0,0 1 K 0,0 2 3 769 is C1 1 K 0,0 0,2 0,0 Answer: 224 769 1 S 0,0 -S- -C1 - 38 -
+
+SEARCH # 3 
+
+OR²-OH 2 For: A process which comprises reacting a compound of formula R-N with a compound of the formula to produce a compound of the formula R-N R-O-C-R-N-R˜ 2 -O-C-R¹ 14 0 R R°-oནྡྷc-8'-R྾ R3 R4 wherein R5 is a lower alkyl group; R is a member of the group consisting of lower alkyl, and phenyl-lower alkyl groups; R and R are lower alkylene groups; and R3 and R" are members of the group consisting of lower alkyl groups, phenyl groups, phenyl-lower alkyl groups, lower alkene groups, and groups in which R and R are joined to form a monocyclic heterocyclic group of the group consisting of the morpholino, piperidino, and pyrrolidino groups. 
+
+Structure representation: 
+
+R-N 0R-N ·R C-R-N 
+
+...!!- 
+
+Question: 
+
+2 1 0 10 1 Ό 
+
+0,1 
+
+Appendix B: 
+
+011 029 408 029 712 067 067 712 067 819 406 406 819 406 
+
+Appendix A: 
+
+067 is 1 0 0, } {[ 1 0 2 1 406 is 1 0 Answer: 406 0,1 0,2 2 {[1 - 0]} 0,1 1 0 0,0 1 0 0,0 0,2 - 39 -
+
+SEARCH #For: A process of making a compound of the structure a which comprises reacting -thenylamine with a compound of the structure wherein X is selected from a the group consisting of oxygen and sulfur, wherein the group consisting of wherein the substituents halogen atoms.
+
+Structure representation: 
+
+-NCX -NH-C-NH-CH2 a, b, and c are selected from hydrogen and halogen, and 2, b, and c total at least two 1 2 1 NEC=X -C N-C 
+
+ 1 2 N =C Question: 3 -N-C 1 2 3 4 -NC-N-C -N'-c²-n³-q". 1 2 1 =C 1 N -C -C 0,0 0,2 0,2 0,1 2,0] 3 2 N -C -C 0,1 0,1 -ab 
+
+Appendix B: 
+
+295 929 295 929 011 814 295 929 011 814 295 929 295 929 
+
+Appendix A: 
+
+1 2 2 
+
+295 is =C 1 N -C 1 N 1 N -C 0,0 0,2 0,2 
+
+0,1 0,2 0,1 0,0 a,b 2 929 is 1 N 0,0 Answer: 295 929 0,1 2 -C =C 1N -C 0,2 0,2 -C 1N 0,1 0, 1 N -C 0,01 0,1 0,0 1 N 3 -C 0,1 0,0 - 40 -
+
+SEARCH # 5 For: A method which comprises heating N-ethylene trichlor methane sulfenamide with a trialkyl phosphite having from 1 to 5 carbon atoms in the alkyl radical and recovering from the resulting reaction product a hexaalkyl ethyleneiminothiomethylidyne triphosphonate having from 1 to 5 carbon atoms in the alkyl radical.
+
+Structure representation: 
+
+C1 1 R-0 O-R O-R (5,6,7 8,9,10 11,2,13
+
+N-S-C C1 +3 R -O-R N-S-C O-R O-R -O-R O-R 
+
+C1 1 12 -C1 
+
+5,6,7 8,9,10 11,12,13 3 C -0 -P C1 10 13 2 11 8 0 =P -C -P =0 
+
+Question: 
+
+1,3,4 2,2,2 8,9,10 
+
+3 C1 -C 0,0 0,0 0,0 5,6,7
+
+0,? 1 0 
+
+8,9,10,11,12,13] [3 P +1 3 0 0,0 0,0 
+
+Appendix B: 
+
+C1-C O-C O-P 0=P P-C 029 029 408 819 029 029 819 067 712 819 819 406 819 
+
+Appendix A: 
+
+12 9 8,9,10 0,0 11,12,13 0,0 11,12,13 2,2,27 0,0 0,0 819 is -1 3C1 -C -C 10 0,0 0,0 0,0 0,2 0,0 0,0 =P 0,0 (superscripts omitted) 3P Answer: 819 -C 0,0 0,0 - 41 -
+
+SEARCH #
+
+For: A method for preparing w-(pentylthio)alkanoic aldehyde thiosemicarbazone which comprises reacting w-(pentylthio)alkanoic aldehyde with thiosemicarbazide.
+
+Structural representation: 
+
+Omes. ppiù – OwAppl. -S-R- -N-C-N- S-R-C -C-N- 
+
+1 2 -C =0 
+
+Question: 
+
+3 4 -N-N 
+
+2 10 = C 1 N 
+
+0,0 0,2 1 3 4 -C=N-N 1 1N = C 0,0 a,b 1N 0,1 0,0 
+
+Appendix B: 
+
+161 011 161 161 481 158 481 481 158 161 481 
+
+Appendix A: 
+
+2 1 481 is 10 1N -N 1N =C 1N -N 0,0 0,2 0,0 0,1 2 1 161 is 10 1N 1N =C 1N -N 0,0 0,2 0,0 0,1 0,1 2}. Answer: 161 481 
+
+43681--U.S. Dept.of Comm--DC--1961 
+
+- 42 -
+
+​0

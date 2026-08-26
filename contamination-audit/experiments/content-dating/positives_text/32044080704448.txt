@@ -1,0 +1,235 @@
+War 4199.56 Clement 
+
+Weapons System Philosophy
+
+War 4199.56 VETERI TAS HARVARD COLLEGE 
+
+LIBRARY
+
+WEAPONS SYSTEM PHILOSOPHY, George H. Clement 
+
+P-880 27 July 1956 Paper to be presented at the AGARD Seminar on Guidance and Control of Guided Missiles to be held in Venice, Italy on September 24 through 27, 1956.
+
+The RAND Corporation 1700 MAIN ST. SANTA MONICA CALIFORNIA
+
+War 4199.56 ​UNIVERSITY 
+
+LIBRARY MAR 18 1958 
+
+56*1
+
+P-880 Page 1 
+
+WEAPONS SYSTEM PHILOSOPHY George H. Clement 
+
+Men have long been concerned with the defense of their national resources and their national way of life against the possible entroachment of a potential attacker. Military forces have been continually designed, developed, organized and then modified to counter the increasing threat imposed by technological advance and by the changing social structure of the world in which we live. The function of these military forces has been to deter any potential attacker from carrying out an aggressive action by increasing the probability of his failure.
+
+In the realm of modern military affairs, we continue to desire an ever increasing capability to satisfy our defense needs, and no one, I believe, would argue against the fundamental wisdom of seeking this increased capability. The margin of superiority in the performance of our weapons for example, the range, speed, altitude and payload capabilities of our airplanes compared with those of a potential enemy may spell the difference between victory and defeat in a possible future conflict. What we often fail to appreciate is that the increased capability we need and strive to achieve is purchased at the cost of an increased complexity of the equipment and organization that results. 
+
+The consequence of this increased complexity is to require an ever larger expenditure of our national resources to achieve adequate levels of defense effectiveness. The resources that we have at our disposal are always limited and have very real alternative uses. 
+
+Fissionable material expended in the construction of bombs cannot be used for the generation of electric power. Manpower committed to the maintenance of the military
+
+P-880 Page 2 forces cannot be used in any productive capacity in the national economy. 
+
+A difficult problem exists in achieving and maintaining an adequate level of defense effectiveness with a minimal drain on our national resources. 
+
+The modern implements of warfare are an order of magnitude more complex and more expensive than their predecessors of a few years ago. The increased range, greater speed and higher altitude of our bombers has resulted in the need for better navigational aids, bombing and fire control mechanisms, and communication equipment; also longer runways, more highly trained aircrews and more extensive maintenance and repair organizations. 
+
+The airplane as a weapon has become more than a simple assemblage of powerplant, fuel, airframe and controls. It is now a complex and highly integrated mechanism consisting of ground and airborne components which we now call a weapon system.
+
+Today I would like to spend the next few minutes exploring the potential of a particular point of view which we call the weapons system philosophy -- as it applies to the development of military equipment. 
+
+When we speak of weapons we usually think of the individual elements the tools of warfare. Firepower on target is thought of in terms of bullets, bombs and grenades. Mechanisms for transporting this firepower to the vicinity of the target brings to mind such things as guns, tanks, trucks, airplanes and guided missiles. The people who operate the equipment are thought of as infantrymen, pilots, navigators, radio operators and gunners.
+
+The devices of communication are thought of as telephones, radios and radar sets. In a sense each of these things taken by itself is a weapon. But I think it is readily evident that each of these taken by itself is valueless, A bullet is of little military use without a gun,
+
+P Page 3 without a soldier to fire the gun, without some means of communication to direct the effort of the soldier and so on. 
+
+Is then a weapons system an aggregation of these components? 
+
+In a sense yes
+
+but it implies more than this. The weapons system philosophy is intimately concerned not only with the components of warfare singly and in aggregate but also with the interactions and interrelationships among these components, with the expenditure of resources necessary to bring the military force into being and keep it operating at an adequate level of effectiveness, and with the process of use of the integrated whole as a means of achieving some desired military purpose. 
+
+What then would be an adequate definition of a weapons system? 
+
+I think that we have to recognize that the concept of a weapons system can mean different things to different individuals, depending upon their point of view. The particular concept of a weapons system can represent different levels of aggregation depending upon the interest and concern of the individual viewer. Thus the head of a national government may be concerned with a social system, a political system, an economic system, and a military system as the instruments of national policy. The man in charge of the military system views it in turn as being composed of an air force, an army and a navy in other words, an air, a ground and a sea system. 
+
+The chief of the air force thinks in terms of an air defense system, a strategic air system, a tactical air system, an air transport system and so on. 
+
+Skipping a few steps 
+
+one can view the airplane itself, the interceptor in the air defense arm, as a system. The interceptor in turn contains such things as a propulsion system, a navigation system, a
+
+P Page 4 communication system, a fire control system and so on. 
+
+For the purpose of the discussion today, I think we can limit ourselves to considering such things as the air defense system, the strategic air system and the tactical air system as being weapons systems at the highest level of aggregation with which we will have to deal. Accepting this concept, the complete weapons system includes then not only the vehicle together with its armament, communications, navigation, fire control, and other systems; but also and as an integral part of the system the supporting facilities, the bases, the communications net, the maintenance and test equipment, the logistical supply and transport, the training installations, the mechanics and other specialized personnel. 
+
+All of these components are just as much a part of the weapons system as the vehicle itself. 
+
+It is useful when thinking of weapons systems and their components to regard them as being different orders of the same kind of thing, all members of a continuum of systems, super-systems, and sub-systems. To the propulsion engineer an engine is a system. At the same time it is a member of a higher order system, the aircraft in which it is installed. 
+
+Further the engine is composed of many lower order systems or sub-systems such as an ignition system, a fuel system, an exhaust system and still others. We see then that the systems approach 
+
+the weapons systems philosophy is in part a technique of classifying and ordering a complex mechanism or process so that each element or problem can be considered in its proper perspective.
+
+The systems approach is not a new concept nor did it find its origin in dealing with military problems. Systems analysis, systems engineering,
+
+P Page 5 the systems concept has been applied for many years by the engineers and managers of such industrial enterprises as large telephone companies and the producers and distributors of electric power. As we have seen, the systems approach arises out of complexity and represents a method of ordering and controlling for effective use a technologically complex structure.
+
+At this point it may be useful to examine a typical weapons system--such as an air defense system. As we discussed earlier, the purpose of a defense system is to deter any potential attacker from carrying out an aggressive action by increasing the probability of his failure over that which he might expect in the absence of our defensive effort. In fact we seek to maximize the probability of his failure by constructing as effective a defense system as our limited resources will permit. 
+
+A convenient measure of the effectiveness of an air defense system is a quantity we can call the "kill potential". Kill potential being defined as the expected number of bombers destroyed by the defense system under some standard condition. Thus in choosing between two air defense systems that can be developed and operated for an equivalent expenditure of resources, the system having the higher kill potential would be preferred. Similarly, actions which tend to increase the kill potential of the system as a whole would be considered desirable, while those that tend to reduce the kill potential would be considered undesirable. 
+
+Now the operational functions of a deployed air defense force are concerned with the detection, identification, interception and destruction of hostile aircraft.
+
+In order to detect hostile aircraft, some method of surveillance of
+
+P Page 6 the air traffic in the region to be defended must be provided. This is commonly accomplished by means of a radar surveillance net deployed over the geographic area to be defended, and further, in order to maximize warning time, reaching as far beyond the parimeter of the defended area as is practical. The radar installation may be located at fixed sites on land and augmented by picket ships and picket aircraft along coastal frontiers. The radar net may further be supplemented by acoustical and optical detection nets such as operated in the United States by the Ground Observer Corps. This detection net is responsible for acquiring raw data pertaining to the current air traffic situation, mapping individual aircraft or groups of aircraft, determining their altitude and their number. 
+
+The individual detection installations must be tied together by means of an extensive communication system over which the raw surveillance data can be transmitted to identification facilities. 
+
+At the identification facility, the raw surveillance data is received, processed and evaluated. Individual pieces of air movements information are correlated to establish aircraft tracks. In this process, supplementary data may be requested and received from the detection sites. 
+
+After the tracks are established, they must be identified as friendly, or hostile. Unknowns must be subjected to sufficient investigation to determine their status. The individual tracks are summarized to describe the air situation in the geographic area for which the identification facility is responsible. This air situation information then must be communicated to identification facilities responsible for adjacent geographic areas and to the appropriate interception facilities. 
+
+At the interception facility the air situation data is received and the threat is evaluated. On the basis of the threat evaluation an
+
+P Page 7 appropriate fraction of the available defensive force is committed to the air battle. Orders are issued to scramble interceptors and to bring surface-to-air guided missile and anti-aircraft artillery units into action. Information on the position of the hostile aircraft is communicated in the form of guidance instructions to the appropriate weapons units of the air defense force.
+
+At the weapons units, the guidance information received from the interception facility is employed to bring fire power to bear on the hostile aircraft. Interceptors and surface-to-air guided missiles are vectored to the vicinity of the hostile aircraft where their airborne search, detection, and tracking equipment enables them to close on the enemy and bring the hostile aircraft under fire. Anti-aircraft artillery units receive position information on hostile aircraft so that their fire power may be properly employed.
+
+Technological advances in the aircraft art are continually increasing the range altitude and speed of bombardment vehicles. These performance increases particularly the increase in speed - means that over the years, less and less time will be available to bring the air defense force into action. To counter the continually shrinking time available between initial detection and the bomb release line, development of equipment to perform many of the detection, identification, interception and destruction functions of the air defense force by automatic or semi-automatic means is under way. Since the detection, identification, and interception facilities of an air defense force are commonly referred to as the "ground environment" this new equipment is being called the Semi Automatic Ground 
+
+Environment or Sage System.
+
+P Page 8 
+
+This is 
+
+At this point you might well ask "How does this affect me? . all well and good but how does this apply to problems that arise in the development of missile guidance and control systems s?"
+
+To illustrate this let us for the moment assume that the guidance and control system we are concerned with is to become a part of a surface-toair missile which in turn is needed as a component of an air defense system such as the one we have just described. 
+
+As we all recognize, the process of design and development is one of compromise. Decisions have to be made throughout this process among alternative methods of achieving particular goals. For example, should the missile guidance system contain some means of homing on the target? 
+
+If so, should the missile carry an active radar for terminal guidance or should it make use of energy reflected from the target aircraft when illuminated by a ground installation? Or should the ground installation track the present position and velocity of both the target aircraft and the missile and on the basis of this information compute the proper maneuver to be performed by the missile and issue instructions to it to do so? 
+
+The resolution of these questions cannot properly be made on the basis of examining the guidance and control function in isolation, nor even on the basis of examining the performance of the missile by itself, but must include a consideration of the influence of such questions on the operation of the air defense system as a whole.
+
+Some might argue that we are concerned here with the accuracy of the missile; that it is obvious that if the missile can be made more accurate then it will certainly result in more kills. 
+
+It is not at all clear, however, that making the missile as "accurate
+
+P Page 9 as possible" will necessarily result in maximizing the effectiveness or kill potential of the defense system. In this case, the numerical value of the kill potential is given as the product of three quantities. First, the number of missiles that can be launched during the engagement, second the probability that a given missile will not malfunction or result in a gross error; and third, the probability that a non-malfunctioning missile kills the bomber. In our example an increase in the accuracy of the missile would result in increasing the value of the third factor in the kill potential equation, the probability that a non-malfunctioning missile would kill the bomber. This would result in an increased kill potential only if the value of the first two factors in the equation are not materially degraded.
+
+If in the course of achieving the greater accuracy, additional guidance and control equipment were added to the missile, the resulting increase in weight might reduce the range or speed of the missile which in turn could result in reducing the number of missiles that could be launched during the engagement. Further, the added equipment might adversely affect the reliability of the missile. Either or both of these possibilities then might well reduce the effectiveness of the system as a whole inspite of the enhanced accuracy of the unit. I think it is clear then that the manifold decisions and choices among alternatives that must be made during the course of the design and development of a missile must include a consideration of the influence and feedback on the weapons system as a whole as well as the effect on the particular component in question. 
+
+From the point of view of the missile designer then it is important to have an appreciation, an understanding of the military environment in
+
+P Page 10 which the device will operate. It is necessary to appreciate the relevant technical, operational, and logistical factors of this environment to understand the interactions and interrelationships among these factors and how they influence the operation of the system as a whole. I like to think of these technical, operational and logistical factors as being the anatomy the structure of the weapons system. 
+
+The technical factors include such areas as propulsion, fuels, guidance, control, communication and the like. 
+
+Engineers are accustomed to think of the performance of military air vehicles in terms of such quantities as range, speed, altitude, rate of climb, maneuverability, and accuracy. It is generally held that an excellent vehicle is one in which the values of these performance parameters are made as large as possible. The level of performance actually achieved with a particular vehicle, however, depends not only upon the current level of technology, but also upon the design choices that are made in the course of the development of the vehicle. 
+
+I think we all recognize from long experience that the design and development choices we make are likely to affect all, not just one of the performance parameters. For example, the choice of the powerplant can influence not only the speed of the missile but also its range, altitude, rate of climb and maneuverability as well. It follows then that quite independent from any consideration of how the desired performance parameters were specified, the final result will, in all likelihood, represent a compromise in which many of the desired performance levels are only partially satisfied. The question is then "What are good compromises?".
+
+To answer this question we must examine the rest of the weapons system
+
+P Page 11 anatomy the operational and logistical factors. 
+
+The operational factors which apply include such considerations as the mobility of the system, its state of readiness, its reliability, its susceptibility to countermeasures, its data requirements and the like. 
+
+The specific meaning attached to these considerations and their influence on the effectiveness of the endeavor depends upon the character of the weapons system with which we are dealing, that is, whether we are considering an air defense system, a strategic air system or a tactical air system. The listing of the operational factors that I have given is by no means complete, however, a consideration of these should be sufficient to demonstrate their nature.
+
+Mobility of the system enables the force to be rapidly deployed and moved as the occasion demands. It enables the concentration of firepower at times and places where it is needed. As applied to missiles the operational concept of mobility means that the effective range and speed of the system should be as great as possible. This range and speed can be supplied either by the inherent range and speed of the missile or by the capability of the weapon system for rapid deployment and movement to new bases of operation.
+
+The state of readiness of the system is its ability to respond quickly when called upon. In an air defense system only those missiles that are available can be of any use when the attack comes. If the guidance or control equipment in the missile requires an excessive warm-up or preparation time, the missile will be of little use to the defense operation.
+
+Reliability refers to the probability that the system will function
+
+P Page 12 within its design limits whenever it is called upon to perform. Again, for example, if the guidance and control system is mechanized by equipment of such a delicate nature that it cannot be maintained under normal operating conditions; or if in an effort to squeeze out the last drop of performance the equipment is pushed into operation at levels beyond its capacity; or if the equipment is continually subjected to unknown or poorly understood environmental conditions, a high failure rate will result. The gross errors, malfunctions and excessive maintenance that follows does not contribute to the effectiveness of the defense system.
+
+The data requirements of the system have to do with the quantity, character and rate of flow of the information that is essential to the operation. Before a defense system can bring firepower to bear on an attacker, the bombers must be detected, tracked and identified. Again if the data requirements of any component, such as the guidance and control equipment, are excessive or unusual or if they increase the susceptibility of the system to countermeasures, then the performance of the system as a whole may suffer.
+
+Turning now to the logistical factors we include consideration of such items as facilities, equipment, supply, maintenance, personnel and training. Logistics provide the means for the conduct of air operations and is an important factor in determining the effectiveness of the weapons system. During the course of the development of our surface-to-air missile the designer either explicitly or implicity is determining the logistical requirements of the system. Before deciding to use that unusual compound as a fuel, on the basis of, say enhancing the range performance of the missile, the logistical implications of the decision should
+
+P Page 13 be investigated. Can it be manufactured and transported to the point of use in the required quantities? Among its properties is the proposed fuel so toxic and corrosive that it requires inordinately complex supply, transport, storage and handling procedures? If so, the overall performance of the system may be degraded inspite of the enhanced range that would result.
+
+Now that we have examined the anatomy of a weapon system and found that it contains many elements which place seemingly conflicting requirements on the system, I think it is fair to ask again "How can we determine what is a good compromise?". How can one determine a preferred course of action in the midst of this welter of conflicting detail? To investigate this question let us again restate our understanding of the weapons system philosophy and then examine the role of operations research as applied to the problem of weapons system development from the designers point of view. 
+
+The weapons system philosophy is a point of view, embracing a technique for ordering and classifying a technologically complex mechanism, organization or process so that each element or problem can be considered in its proper context to the end that the objective of the system as a whole may be realized with a minimal expenditure of resources. 
+
+As we noted earlier, the system approach is not a new concept but has been applied for many years as an aid in the design, development and management of large and complex industrial enterprises. The first formal application of this technique to military problems appears to have been made by the British during World War II, when they developed and employed a management device that has come to be known as operations analysis. At that time the British were concerned with determining how best to employ
+
+P Page 14 the weapons, equipment and personnel they then had available to most effectively accomplish an assigned military mission. The success of this technique in conserving resources or in maximizing the military effectiveness of a given force was soon apparent. Other nations quickly recognized the benefits of this technique, and applied it to their own problems of how to obtain the maximum effectiveness from existing weapons systems. 
+
+As we noted earlier the trend toward greater technological complexity of military weapons systems has continued and is continuing at an ever accelerating pace. I think it was natural then that the systems analysis technique should be applied not only to the use of existing weapons systems but should be extended and applied to solving problems that arise during the course of the design and development of weapon systems as well. 
+
+The application of the systems analysis technique --- or operations research as it is sometimes called --- to problems arising in the design and development of weapons systems affords us the opportunity of arriving at decisions that are in the proper context --- that are consistent with the overall objectives of the weapons system. It provides the framework for forming judgments and helps us to phrase and select the criteria on the basis of which we can determine an answer to our earlier question "What is a good compromise?".
+
+Mr. Charles Hitch, of The RAND Corporation, has developed principles that are of such importance in analyzing weapons system development problems that I would like to repeat two of them here. The first point I wish to draw from Mr. Hitch's work is that in analyzing a weapons system problem, the effects of a proposed action must be assessed at least at the next higher level of aggregation, and further, must be assessed in terms
+
+P Page 15 of the operation or function that the weapons system is performing. 
+
+Recalling our earlier example, you will remember when we were discussing the influence of attempting to increase the accuracy of the surfaceto-air missile guidance and control system, we learned that an increase in missile accuracy would not necessarily be consistent with the objectives of the weapons system at its next higher level of aggregation. That is, an increase in missile accuracy would not necessarily lead to an increase in the kill potential of the air defense system --- in fact it might even materially reduce the overall effectiveness of the system. It was not good enough to assess the influence of the proposed action on the basis of its effect on the performance of the missile. The effects of the proposed action must be assessed at least at the next higher level of aggregation, and must be assessed in terms of the operation or function the weapon system is performing.
+
+The second point that I wish to draw from Mr. Hitch's work also concerns the selection of criteria in terms of which the consequences of some proposed course of action are assessed. In analyzing the influence of proposed development alternatives on the effectiveness of a weapons system, it is a common and often fatal mistake to select criteria that concentrate attention on a single input to maximize some objectives function, say bombers killed, for a given quantity of input, say number of picket aircraft in the detection net, or to minimize the number of picket aircraft required to achieve a certain number of bombers killed. 
+
+To do this completely overlooks the resource substitution possibilities that may exist. An objective can usually be achieved by various combinations of resources. An air defense system of any specified level
+
+P of effectiveness may be achieved with very different mixes of ground environment, interceptors and surface-to-air guided missiles. Page 16 Some re- source substitution possibilities are direct and obvious; many others are indirect and subtle. Judicious application of the operations research technique to weapons system development problems will uncover the fact that the possibilities of substitution in carrying out any operation are typically much greater than are first apparent. 
+
+At this point I would like to interject a note of caution. The weapons system philosophy like any useful tool can not only be properly and usefully applied, but it can also be want only misapplied with devestating results. The weapons system philosophy and its related concepts and techniques systems analysis or operations research --- are powerful tools, properly used they furnish a basis, a framework that helps us think through and understand a complex problem. It represents in no way, however, a substitute for thought. If the techniques we have been discussing are blindly, unimaginatively or unthinkingly applied only rigor mortis can result. I refer first to a specific mirage "the illusion of the optimum". 
+
+Proper application of the weapons system approach to design and development problems enables us to choose from among a set alternatives those that are good as opposed to those that are poor. It may even permit us to rank the choices according to some scheme of preference from best to worst. However, searches for the "optimum" or "best possible" alternatives are likely to be, not only time consuming, but also fruitless. The fundamental reason for this, I believe, is that the analytical treatment of any problem requires the construction of an analytic model which approximates the real world situation. The degree of approximation can range from
+
+P Page 17 quite crude to very sophisticated but it still remains an approximation. While very useful inferences can be made from a study of the model, it should be kept in mind that it is a model --- an idealized approximation and one should guard against over analyzing or using the model to obtain results in areas for which it is unsuited. 
+
+A second possible misapplication of the weapons system philosophy can arise in the field of basic research. We have been discussing today the weapons system philosophy and how it applies to the design and development of military equipment. I think we have to recognize here that there is a characteristic difference between development and fundamental research. 
+
+Development activities are aimed at a specific goal, a new or improved weapon, machine or process. Basic research has no such specific goal, it does have a purpose, understanding nature in all its bewildering and infinite variations. Fundamental science searching through this wilderness becomes adds piece by piece to our store of knowledge. As each new fact is brought to light something that was unknown or uncertain becomes known measured, determined and verified. I think it is also universally appreciated that in this technological age a strong military, in fact a strong society, must rest on a firm base of fundamental science. In fact, all technology has its roots in and grows out of basic scientific understanding. 
+
+It is in this fact and in the fact that basic research is essentially an exploration of the unknown that I think the danger lies. In most applications of the weapons system philosophy we are interested in determining a preferred course of action from an analysis of the predictable consequences that would result if any of a number of alternative actions were taken. 
+
+How can one predict the consequences of the unknown. It must first be
+
+P Page 18 found, discovered, measured and verified before it can be evaluated. If the pattern of thinking represented by the weapons system philosophy were to be misemployed, say to determine in advance the worth of a proposed fundamental research program, the result of the analysis would not only be meaningless, but such a pattern if allowed to become established, would strike at the very foundation of our strength.
+
+I would like to extend this argument a little further --- a short way into the realm of what some might consider to be applied research or development. Often in the course of the development of military equipment and usually at the component level we venture into the unknown or at least into the realm of the uncertain. We desire to put together in a single machine several functions several technological processes that have never before been related. The mutual compatibility of the functions working together in a common environment is quite uncertain. 
+
+In the course
+
+of developing such a device is is often suggested and often profitable to try separate and independent approaches. In this case as in the case of basic scientific research it is my belief that trying to predict in advance on the basis of an analysis which approach will be successful which one will work and which one will not, or which one can be developed to an acceptable level of performance in the shortest time is not only a fruitless activity but a dangerous one. Why dangerous simply because the problem contains a fundamental uncertainty which no analysis can remove and you might be led to bet on the wrong horse. 
+
+In conclusion I would like to restate that the weapons system philosophy is essentially a point of view, embracing a technique for ordering, classifying and analyzing a technologically complex mechanism, organization
+
+P Page 19 or process so that each element each problem can be considered in its proper context and treated in its proper perspective to the end that the objectives of the system as a whole may be realized with a minimal expenditure of resources. Intelligently and thoughtfully applied, it can be a powerful tool aiding in the design, development and management of military weapons systems.
+
+This book should be returned to the Library on or before the last date stamped below. 
+
+A fine is incurred by retaining it beyond the specified time. 
+
+Please return promptly.
+
+DEC 28 64H 
+
+FEB 24 60H
+
+NOV 11 60H 
+
+MAR 15 62 H 
+
+MAR 29 '62 H 
+
+JAN 23 63H деного
+
+War 4199.56 
+
+Weapons system philosophy/
+
+Widener Library 
+
+004425375 3 2044 080 704 448

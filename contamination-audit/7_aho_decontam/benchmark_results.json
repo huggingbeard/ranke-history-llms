@@ -1,0 +1,274 @@
+{
+  "n_markers": 128,
+  "real_books": 3000,
+  "injected": 3,
+  "total_MB": 800.3,
+  "total_Mchars": 797.1,
+  "build_ms": {
+    "aho_corasick": 0.11,
+    "union_regex": 1.22
+  },
+  "scan_seconds": {
+    "aho_corasick": 11.3429,
+    "union_regex": 96.5144
+  },
+  "throughput_MBps": {
+    "aho_corasick": 70.6,
+    "union_regex": 8.3
+  },
+  "books_per_sec_ac": 264.7,
+  "speedup_ac_over_regex": 8.51,
+  "injected_caught": [
+    "INJECT-coldwar-2001",
+    "INJECT-tech-1998"
+  ],
+  "decoy_flagged": false,
+  "ac_regex_agree": true,
+  "flagged_real_books": 16,
+  "flagged_real_detail": [
+    {
+      "id": "83600117",
+      "year": 1983,
+      "title": "Artists for victory : an exhibition catalog",
+      "markers": [
+        "teenager"
+      ]
+    },
+    {
+      "id": "95128675",
+      "year": 1992,
+      "title": "Books listed in The American bibliography of Slavic and East European studies for 1986, 1987, 1988, and 1989",
+      "markers": [
+        "artificial intelligence",
+        "auschwitz",
+        "berlin airlift",
+        "berlin wall",
+        "brezhnev",
+        "chernobyl",
+        "cold war",
+        "cosmonaut",
+        "cuban missile crisis",
+        "cultural revolution",
+        "deng xiaoping",
+        "detente",
+        "fidel castro",
+        "genocide",
+        "glasnost",
+        "gorbachev",
+        "iron curtain",
+        "kgb",
+        "khrushchev",
+        "mao zedong",
+        "marshall plan",
+        "nato",
+        "nuclear power",
+        "nuclear weapon",
+        "perestroika",
+        "prague spring",
+        "semiconductor",
+        "spacecraft",
+        "teenager",
+        "third world",
+        "unesco",
+        "vietnam war",
+        "warsaw pact",
+        "world bank"
+      ]
+    },
+    {
+      "id": "59064248",
+      "year": 1959,
+      "title": "Latin America in Soviet writings, 1945-1958; a bibliography,",
+      "markers": [
+        "fidel castro",
+        "khrushchev",
+        "korean war",
+        "marshall plan"
+      ]
+    },
+    {
+      "id": "76020411",
+      "year": 1969,
+      "title": "Books for developing countries; a guide for enlisting private-industry assistance.",
+      "markers": [
+        "unesco"
+      ]
+    },
+    {
+      "id": "86229533",
+      "year": 1986,
+      "title": "Burma, a selective guide to scholarly resources",
+      "markers": [
+        "genocide",
+        "ho chi minh",
+        "unesco",
+        "unicef",
+        "world bank",
+        "world health organization"
+      ]
+    },
+    {
+      "id": "63060087",
+      "year": 1964,
+      "title": "Africa south of the Sahara; a selected, annotated list of writings,",
+      "markers": [
+        "apartheid",
+        "cold war",
+        "common market",
+        "decolonization",
+        "unesco",
+        "world bank",
+        "world health organization"
+      ]
+    },
+    {
+      "id": "52060041",
+      "year": 1952,
+      "title": "Continuing sources for research on Africa,",
+      "markers": [
+        "unesco"
+      ]
+    },
+    {
+      "id": "54060024",
+      "year": 1954,
+      "title": "Research and information on Africa: continuing sources.",
+      "markers": [
+        "unesco",
+        "world health organization"
+      ]
+    },
+    {
+      "id": "74171029",
+      "year": 1971,
+      "title": "Botswana, Lesotho, and Swaziland; a guide to official publications, 1868-1968,",
+      "markers": [
+        "european community",
+        "international monetary fund",
+        "unesco"
+      ]
+    },
+    {
+      "id": "74601680",
+      "year": 1969,
+      "title": "Ghana; a guide to official publications, 1872-1968.",
+      "markers": [
+        "apartheid",
+        "world bank",
+        "world health organization"
+      ]
+    },
+    {
+      "id": "68060004",
+      "year": 1967,
+      "title": "Portuguese Africa, a guide to official publications.",
+      "markers": [
+        "unesco",
+        "world bank"
+      ]
+    },
+    {
+      "id": "92006702",
+      "year": 1992,
+      "title": "Uruguay : a country study",
+      "markers": [
+        "apartheid",
+        "common market",
+        "fidel castro",
+        "genocide",
+        "gorbachev",
+        "international monetary fund",
+        "korean war",
+        "lsd",
+        "perestroika",
+        "shopping mall",
+        "third world",
+        "world bank"
+      ]
+    },
+    {
+      "id": "85008298",
+      "year": 1985,
+      "title": "Notes from a schoolteacher",
+      "markers": [
+        "civil rights movement",
+        "shopping mall",
+        "silicon valley",
+        "spacecraft"
+      ]
+    },
+    {
+      "id": "62061937",
+      "year": 1961,
+      "title": "Principles of atmospheric reentry.",
+      "markers": [
+        "intercontinental ballistic",
+        "jet engine",
+        "nasa",
+        "spacecraft",
+        "supersonic"
+      ]
+    },
+    {
+      "id": "79601441",
+      "year": 1978,
+      "title": "Schistosomiasis in rural Egypt : a report of U.S.-Egyptian River Nile and Lake Nasser research project",
+      "markers": [
+        "third world",
+        "unicef",
+        "world bank",
+        "world health organization"
+      ]
+    },
+    {
+      "id": "2003426355",
+      "year": 1991,
+      "title": "Domestic trends to the year 2015 : forecasts for the United States",
+      "markers": [
+        "artificial intelligence",
+        "baby boom",
+        "berlin wall",
+        "chernobyl",
+        "cold war",
+        "compact disc",
+        "credit card",
+        "electronic computer",
+        "european community",
+        "fax machine",
+        "globalization",
+        "gorbachev",
+        "international monetary fund",
+        "jet engine",
+        "kgb",
+        "korean war",
+        "laser",
+        "mainframe",
+        "microchip",
+        "microprocessor",
+        "nasa",
+        "nato",
+        "nuclear power",
+        "opec",
+        "perestroika",
+        "personal computer",
+        "semiconductor",
+        "silicon valley",
+        "software",
+        "space shuttle",
+        "spacecraft",
+        "supermarket",
+        "supersonic",
+        "third world",
+        "warsaw pact",
+        "world bank",
+        "world wide web"
+      ]
+    }
+  ],
+  "extrapolation": {
+    "full_GB": 48.0,
+    "full_books": 140000,
+    "single_core_minutes": 11.3,
+    "eight_core_minutes": 1.4
+  }
+}

@@ -1,0 +1,7 @@
+answer,twin,gap,p_true_pct,p_false_pct,kind
+Falklands,Hebrides,10.57,6,0,old-name
+Stanley,Darwin,3.44,77,2,old-name
+Belgrano,Rosales,9.56,54,0,old-name
+Thatcher,Williams,-0.58,0,0,1982-specific
+Galtieri,Lanusse,0.27,0,0,1982-specific
+82,78,-0.29,1,1,1982-specific

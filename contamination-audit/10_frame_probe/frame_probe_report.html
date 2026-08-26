@@ -1,0 +1,226 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Frame probe — normal vs unthinkable</title><style>
+:root{--ink:#1a2230;--mut:#5c6675;--line:#e6e9ef;--bg:#f6f8fa}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,Segoe UI,Roboto,Arial,sans-serif}
+.wrap{max-width:1000px;margin:0 auto;padding:46px 26px 100px}
+h1{font:700 29px/1.2 Georgia,serif;margin:0 0 6px}.sub{color:var(--mut);margin:0 0 22px}
+h2{font:700 21px Georgia,serif;margin:42px 0 6px;padding-top:15px;border-top:1px solid var(--line)}
+h2 .n{color:#9aa3af;font-weight:400;margin-right:8px}
+h3{font:700 16px Georgia,serif;margin:22px 0 4px}
+p{color:#2b3340}.lead{font-size:15px}
+.callout{background:#eef4ff;border:1px solid #cfe0ff;border-left:5px solid #2b5dab;border-radius:10px;padding:14px 18px;margin:14px 0;font-size:14.5px}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:12px 0;font-size:13.5px}
+th,td{padding:8px 11px;text-align:left;border-bottom:1px solid var(--line)}
+th{background:#eef2f7;color:#3a4252;font:600 12px sans-serif;text-transform:uppercase;letter-spacing:.4px}
+tr:last-child td{border-bottom:none}.num{text-align:right;font-variant-numeric:tabular-nums}
+.lab{font-weight:600;background:#f8fafc}
+.pill{display:inline-block;padding:2px 9px;border-radius:20px;font:700 11px sans-serif}
+.pill.green{background:#e4f6ea;color:#1f7a47}.pill.red{background:#fbe3e3;color:#b32424}
+.pill.amber{background:#fcefd6;color:#9a6700}.pill.grey{background:#eceff3;color:#5c6675}
+.ctrlrow td{background:#fafdff}
+.gen{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:10px 0}
+.gen .plant{font-weight:600;color:#2b3340}.gen .lead2{color:#2b5dab}
+.gen .out{display:block;margin:4px 0 10px;padding:8px 12px;background:#f6f8fb;border-left:3px solid #cfd8e6;border-radius:6px;font-size:13.5px;color:#33405a;white-space:pre-wrap}
+.legend{font-size:12.5px;color:var(--mut);margin:4px 0 0}
+.foot{color:var(--mut);font-size:12.5px;margin-top:42px;border-top:1px solid var(--line);padding-top:14px}
+code{background:#eef2f7;padding:1px 5px;border-radius:4px;font-size:13px}
+.mini{display:inline-block;min-width:46px;text-align:right;font-variant-numeric:tabular-nums}
+</style></head><body><div class=wrap>
+<h1>What the era's frame could and could not do with an idea</h1>
+<p class=sub>Telling &ldquo;found it normal&rdquo; apart from &ldquo;could not conceive it&rdquo; in time-locked models (Ranke-4B-1900, Ranke-4B-1913, Ranke-4B-1929, base) — by behaviour against period-normal controls, not by reading silence.</p>
+<p class=lead>A quiet meter is ambiguous: a frame says little about an idea either because the idea is <b>old news</b> or because it is <b>inconceivable</b>. You cannot read that off the silence. So we don't — we plant the fact and watch whether the frame can <b>use it</b> (run one step forward) and <b>hold it</b> (keep it across distance), and we compare each future fact's behaviour to facts the era genuinely found normal. The controls are the whole game: they show what assimilation looks like <i>in this model</i>, so its absence is legible.</p>
+<div class=callout><b>The trichotomy, made behavioural.</b> <span class="pill green">PRIMED</span> the frame handles the fact like a normal one — holds it across distance and can state its consequence. <span class="pill red">BROKE</span> the frame confidently reverts to its old default (the field-marshal move — fluent and wrong). <span class="pill amber">UNTHINKABLE</span> nothing registers and there is no downstream — it cannot run forward from the fact.</div>
+<h2><span class=n>1</span>Fingerprint matrix — dimension × worldview</h2>
+<table><thead><tr><th>idea</th><th>kind</th><th>Ranke-1900</th><th>Ranke-1913</th><th>Ranke-1929</th></tr></thead><tbody>
+<tr class=""><td class=lab>Woman in authority</td><td>future</td>
+<td><span class="pill grey">MIXED</span><br><span class=legend>pf -0.3 · gen +3.3</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +3.6 · gen +10.8</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +3.7 · gen +9.7</span></td>
+</tr>
+<tr class=""><td class=lab>Humans fly the ocean</td><td>future</td>
+<td><span class="pill grey">MIXED</span><br><span class=legend>pf +1.9 · gen +4.7</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +3.9 · gen +8.1</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +5.0 · gen +6.4</span></td>
+</tr>
+<tr class=""><td class=lab>A great empire falls</td><td>future</td>
+<td><span class="pill grey">MIXED</span><br><span class=legend>pf +0.9 · gen +5.1</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +2.1 · gen +9.4</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +4.0 · gen +6.0</span></td>
+</tr>
+<tr class="ctrlrow"><td class=lab>Son inherits the firm</td><td>control</td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +1.3 · gen +8.9</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +1.8 · gen +11.9</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +2.2 · gen +10.8</span></td>
+</tr>
+<tr class="ctrlrow"><td class=lab>A new railway opens</td><td>control</td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +4.5 · gen +7.3</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +6.5 · gen +7.3</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +7.6 · gen +6.3</span></td>
+</tr>
+<tr class="ctrlrow"><td class=lab>Prince crowned on king&#x27;s death</td><td>control</td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +9.8 · gen +11.6</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +10.1 · gen +10.6</span></td>
+<td><span class="pill green">PRIMED</span><br><span class=legend>pf +11.8 · gen +12.7</span></td>
+</tr>
+</tbody></table>
+<p class=legend>pf = mean pref_far (logP fact-consistent − logP reverted default, after distance; &gt;0 = the fact survived). gen = mean generativity (logP consequence|fact − logP|neutral; &gt;0 = the fact enables its downstream). Each cell is the majority over multiple phrasings. Controls (shaded) should read PRIMED in every era — that is the calibration check.</p>
+<h2><span class=n>2</span>Reading the future ideas across 1900 → 1913 → 1929</h2>
+<h3>Woman in authority</h3>
+<table><thead><tr><th>worldview</th><th>fingerprint</th><th class=num>pref0 (default)</th><th class=num>pref_near</th><th class=num>pref_far</th><th class=num>generativity</th><th class=num>entropy</th></tr></thead><tbody>
+<tr><td class=lab>Ranke-1900</td><td><span class="pill grey">MIXED</span></td><td class=num>-1.69</td><td class=num>+0.40</td><td class=num>-0.33</td><td class=num>+3.32</td><td class=num>5.16</td></tr>
+<tr><td class=lab>Ranke-1913</td><td><span class="pill green">PRIMED</span></td><td class=num>-2.19</td><td class=num>+2.35</td><td class=num>+3.60</td><td class=num>+10.80</td><td class=num>3.83</td></tr>
+<tr><td class=lab>Ranke-1929</td><td><span class="pill green">PRIMED</span></td><td class=num>-2.69</td><td class=num>+2.17</td><td class=num>+3.70</td><td class=num>+9.73</td><td class=num>3.85</td></tr>
+</tbody></table>
+<h3>Humans fly the ocean</h3>
+<table><thead><tr><th>worldview</th><th>fingerprint</th><th class=num>pref0 (default)</th><th class=num>pref_near</th><th class=num>pref_far</th><th class=num>generativity</th><th class=num>entropy</th></tr></thead><tbody>
+<tr><td class=lab>Ranke-1900</td><td><span class="pill grey">MIXED</span></td><td class=num>-0.62</td><td class=num>+1.31</td><td class=num>+1.92</td><td class=num>+4.71</td><td class=num>1.91</td></tr>
+<tr><td class=lab>Ranke-1913</td><td><span class="pill green">PRIMED</span></td><td class=num>+0.75</td><td class=num>+2.90</td><td class=num>+3.94</td><td class=num>+8.07</td><td class=num>1.53</td></tr>
+<tr><td class=lab>Ranke-1929</td><td><span class="pill green">PRIMED</span></td><td class=num>+1.69</td><td class=num>+4.88</td><td class=num>+5.00</td><td class=num>+6.43</td><td class=num>1.39</td></tr>
+</tbody></table>
+<h3>A great empire falls</h3>
+<table><thead><tr><th>worldview</th><th>fingerprint</th><th class=num>pref0 (default)</th><th class=num>pref_near</th><th class=num>pref_far</th><th class=num>generativity</th><th class=num>entropy</th></tr></thead><tbody>
+<tr><td class=lab>Ranke-1900</td><td><span class="pill grey">MIXED</span></td><td class=num>+1.59</td><td class=num>+0.65</td><td class=num>+0.94</td><td class=num>+5.11</td><td class=num>4.64</td></tr>
+<tr><td class=lab>Ranke-1913</td><td><span class="pill green">PRIMED</span></td><td class=num>+2.97</td><td class=num>+2.01</td><td class=num>+2.14</td><td class=num>+9.42</td><td class=num>4.28</td></tr>
+<tr><td class=lab>Ranke-1929</td><td><span class="pill green">PRIMED</span></td><td class=num>+2.94</td><td class=num>+4.15</td><td class=num>+3.98</td><td class=num>+5.99</td><td class=num>4.17</td></tr>
+</tbody></table>
+<h2><span class=n>3</span>What the frame actually says (free continuations)</h2>
+<p class=legend>Greedy continuations from each base model. <b>use-it</b> prompt: the fact + &ldquo;What followed from this was that&rdquo;. <b>hold-it</b> prompt: the fact + neutral filler + &ldquo;The one who truly held the highest place was&rdquo;. Watch for stalling, subject-change, reversion to the old default, or confident distortion.</p>
+<h3>Woman in authority <span class=legend>(future)</span></h3>
+<div class=gen><div class=plant>Fact planted: &ldquo;A woman was appointed to lead the national bank.&rdquo;</div>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1900</b></div>
+<span class=out><b>use →</b> she had no time for anything but her own affairs, and so she took a man who could be trusted with money.
+The result is that he has been able to keep up his business in spite of</span>
+<span class=out><b>hold →</b> not there, but she had sent her husband.
+
+The man of business looked at his watch.
+He knew that he must be in town by nine o&#x27;clock. He would have been glad if it were</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1913</b></div>
+<span class=out><b>use →</b> she had a right to demand of her husband, who was president Of the institution, an accounting for his stewardship.
+
+The first thing he did after taking charge as head OF the concern was TO make</span>
+<span class=out><b>hold →</b> a man of middle age, with gray hair and beard; his face was thin.
+and he had an anxious look in it.
+
+The other two were young men OF twenty-five or thirty years each.</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1929</b></div>
+<span class=out><b>use →</b> she had a right to appoint her own assistants, and in fact did so.
+The result of it all is that there are now 10 women assistant cashiers at one ma tional bank alone</span>
+<span class=out><b>hold →</b> a man of middle age, with gray hair and beard, but still vigorous in body and mind.
+
+He had been an officer In the army.
+and he wore his uniform when he entered the room where</span>
+</div>
+<h3>Humans fly the ocean <span class=legend>(future)</span></h3>
+<div class=gen><div class=plant>Fact planted: &ldquo;Two men flew across the great ocean in a single day.&rdquo;</div>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1900</b></div>
+<span class=out><b>use →</b> they were not going to stay there, but would go home and tell their friends what had happened.
+
+The first man who got ashore at New York city was an old gentleman named John Smith. He</span>
+<span class=out><b>hold →</b> he whose heart beat with love for his fellow man, but who had no time or thought for self.
+
+The other was an old man of seventy years.
+He sat on the steps Of his house at</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1913</b></div>
+<span class=out><b>use →</b> they were not able to fly back again, and so their flight became known as &quot;the first transatlantic fight&quot; The next man who tried it had no luck.
+He fell into the sea and</span>
+<span class=out><b>hold →</b> not there, but he had been.
+The other man was gone.
+
+A few days later they were both back again. They did not come together; neither of them sought his old associates or friends.</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1929</b></div>
+<span class=out><b>use →</b> they were able to make their way through all sorts of difficulties and dangers, until at last they reached the land where we are now assembled.
+The first thing which I have to say is that it has</span>
+<span class=out><b>hold →</b> not he whose name had been most widely known, but rather he who had done least for his country.
+
+The man of greatest influence among us is not he who has made the largest number Of speeches or</span>
+</div>
+<h3>A great empire falls <span class=legend>(future)</span></h3>
+<div class=gen><div class=plant>Fact planted: &ldquo;The empire of Russia was overthrown, and the Tsar was no more.&rdquo;</div>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1900</b></div>
+<span class=out><b>use →</b> the people were divided into two great parties: one called &quot;the Russian,&quot; which desired to maintain the old order; the other called &quot;the German&quot; party, who wished for a new state based on</span>
+<span class=out><b>hold →</b> he whose name had been on every tongue for a year.
+He stood in his own garden at Stamboul; but it was not there that he looked out upon the sea or saw the sun rise</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1913</b></div>
+<span class=out><b>use →</b> a new era began for Poland.
+It is true that in 1830-42 there were many attempts to restore the old order; but they all failed, because it had been destroyed</span>
+<span class=out><b>hold →</b> a man with whom we had little in common.
+He was not an Englishman; he spoke our language imperfectly, but his heart beat true to us all through it. He loved England because she</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1929</b></div>
+<span class=out><b>use →</b> a new government had to be set up in place Of the old one.
+This is what happened: The first thing done by the provisional govern ment which succeeded the imperial gov eminent was TO proclaim universal suff</span>
+<span class=out><b>hold →</b> not a man but woman.
+She had been born in an obscure village on the outskirts Of Moscow; she lived there all her life, working for others with unselfish devotion.
+
+Her name was Alexandra</span>
+</div>
+<h3>Son inherits the firm <span class=legend>(control)</span></h3>
+<div class=gen><div class=plant>Fact planted: &ldquo;When the old merchant died, his son took over the family firm.&rdquo;</div>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1900</b></div>
+<span class=out><b>use →</b> he had to pay out of his own pocket for all expenses and keep up a large establishment.
+
+The young man did not like it at first.
+He wanted to live in style; but when he found</span>
+<span class=out><b>hold →</b> not there.
+The young man had been away for a year or more in Europe. He returned with an empty purse.
+
+&quot;Where is your father?&quot; asked the wife of the head Of the house.</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1913</b></div>
+<span class=out><b>use →</b> he had to pay a large sum of money for legal services and other expenses connected with winding up the business.
+
+The young man went into partnership with an attorney who knew all about law matters, but did</span>
+<span class=out><b>hold →</b> a man of middle age with gray hair.
+
+He had been in business for many years; he knew every detail Of it.
+His father before him had done so likewise. He could not have told you</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1929</b></div>
+<span class=out><b>use →</b> he had to pay a large sum of money for the business and then it became necessary for him to sell out at once.
+
+The young man went into the bust ness with all his heart and soul.</span>
+<span class=out><b>hold →</b> a man of great wealth.
+He had been in business for years.
+
+The other day he said: &quot;I&#x27;m going out Of this store tomorrow&quot; He did not say why or when. But that</span>
+</div>
+<h3>A new railway opens <span class=legend>(control)</span></h3>
+<div class=gen><div class=plant>Fact planted: &ldquo;A new railway now joined the two distant cities.&rdquo;</div>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1900</b></div>
+<span class=out><b>use →</b> in 1850, when the first locomotive passed over the road between New York and Albany, it took three days to make the journey; but since then the speed has been reduced by</span>
+<span class=out><b>hold →</b> he whose heart beat with love for his fellow man, but whom no human power could make happy.
+
+The day wore on; it had been a long day of rain and wind. At last the sun</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1913</b></div>
+<span class=out><b>use →</b> a great change took place in the character of the people, and they became more civilized.
+The old inhabitants were driven out by the newcomers; but these latter did not take their places as conquerors or</span>
+<span class=out><b>hold →</b> a man of middle age, with gray hair and beard; his face was thin.
+and there were deep lines about it that told Of suffering. He had been in the city but few days when he</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1929</b></div>
+<span class=out><b>use →</b> a great part of the trade which had formerly gone to London, and thence by sea to Flanders or France, came into England; while at the same time it became necessary for English merchants to</span>
+<span class=out><b>hold →</b> a man of middle age, with gray hair and beard; his face was pale but strong in expression, and he had an air Of authority which made him seem older than he really was.
+
+He wore</span>
+</div>
+<h3>Prince crowned on king&#x27;s death <span class=legend>(control)</span></h3>
+<div class=gen><div class=plant>Fact planted: &ldquo;When the old king died, his son was crowned in his place.&rdquo;</div>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1900</b></div>
+<span class=out><b>use →</b> he had to fight for his crown and life against a powerful party which claimed it as their right.
+The young prince&#x27;s father, who was an able man of business, took advantage of these troubles to</span>
+<span class=out><b>hold →</b> he whose duty it was to keep watch over all.
+The young prince had been brought up by a wise man of great experience; but when he became older, instead of learning from him what was best</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1913</b></div>
+<span class=out><b>use →</b> he became a usurper and had to be deposed by force of arms.
+The new ruler took the name of Henry VIII., but it is not likely that any one would have called him so if</span>
+<span class=out><b>hold →</b> a man of middle age with gray hair and beard.
+He had been born on an island off the coast Of Asia Minor. He was called Philip.
+
+The people loved him because he was kind hearted</span>
+<div class=lead2 style="margin-top:8px"><b>Ranke-1929</b></div>
+<span class=out><b>use →</b> he became a great man and had many friends.
+He married two wives; one of them was called Queen Mab, who made him very happy for some time. But at last she began to be</span>
+<span class=out><b>hold →</b> a man of great wealth.
+He had been born with an unusual mind; he had studied hard at school and college. He knew many things that other men did not know.
+
+But there were two things</span>
+</div>
+<h2><span class=n>4</span>Method &amp; the honest limit</h2>
+<div class="callout"><b>What this is.</b> A measure of what the era's <b>written corpus frame</b> could do with an idea — extend it, retain it — relative to ideas it demonstrably found normal. <b>What it is not:</b> telepathy into an Edwardian's head. When the 1913 frame stalls, it shows the 1913 <i>record</i> gave the model no way to carry the idea forward. That is a claim about the discursive horizon of the surviving text — real, and a thing historians study — stated as such, before anyone asks &ldquo;whose thinking?&rdquo; (answer: the corpus's).</div>
+<div class=foot>Source: <code>frame_probe.json</code> (Ranke-4B-1900 base, Ranke-4B-1913 base, Ranke-4B-1929 base, local GPU). Multiple phrasings per dimension; fingerprints calibrated to the period-normal controls within each model. Generated 2026-06-27 18:13 by <code>build_frame_report.py</code>. All figures read from the JSON.</div>
+</div></body></html>

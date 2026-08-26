@@ -1,0 +1,13 @@
+id,category,subject,target,note,S_cond_1900,S_cond_1929,S_marg_1900,S_marg_1929,strain_1900,strain_1929,d_strain,d_marg,d_cond
+women_office,A: became real 1900-29,The woman,was elected to high office.,women's suffrage/office (1920s),26.42,24.26,27.26,25.22,-0.83,-0.96,0.13,2.03,2.16
+flight_ocean,A: became real 1900-29,The two men,flew across the great ocean.,transatlantic flight 1919/1927,29.77,26.61,30.21,29.35,-0.44,-2.74,2.3,0.86,3.16
+russia_fell,A: became real 1900-29,The empire of Russia,came to a sudden and bloody end.,Romanov fall 1917-18,22.19,22.8,28.96,26.54,-6.77,-3.74,-3.03,2.42,-0.61
+talkies,A: became real 1900-29,The moving pictures,began to talk and to sing.,sound film 1927,27.3,27.0,27.47,27.87,-0.17,-0.87,0.7,-0.4,0.3
+great_war,A: became real 1900-29,The war in Europe,killed many millions of young men.,WWI scale 1914-18,29.63,24.04,38.03,35.27,-8.4,-11.23,2.83,2.77,5.59
+austria_split,A: became real 1900-29,The empire of Austria,was broken into many small pieces.,Austria-Hungary dissolved 1918,24.27,23.02,30.28,28.02,-6.02,-4.99,-1.02,2.26,1.24
+sun_rose,B: timeless truth,The bright sun,rose above the eastern hills.,always true,15.74,16.7,31.2,30.36,-15.46,-13.66,-1.8,0.84,-0.96
+king_throne,B: timeless truth,The old king,sat upon his golden throne.,always true,18.17,14.62,29.86,28.0,-11.69,-13.37,1.68,1.86,3.54
+snow_winter,B: timeless truth,The cold snow,fell through the long winter night.,always true,19.81,18.58,34.27,33.81,-14.46,-15.23,0.77,0.46,1.23
+moon_walk,C: future to BOTH,The brave men,walked upon the face of the moon.,1969 - future to both,30.61,34.17,29.93,32.79,0.68,1.38,-0.7,-2.86,-3.56
+atom_bomb,C: future to BOTH,The great city,was destroyed by a single bomb.,1945 - future to both,31.84,30.33,33.61,31.0,-1.78,-0.66,-1.12,2.62,1.5
+heart_xplant,C: future to BOTH,The clever doctors,gave a man the heart of another.,1967 - future to both,33.16,38.05,35.36,39.0,-2.2,-0.95,-1.25,-3.64,-4.89

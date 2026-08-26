@@ -1,0 +1,194 @@
+{
+ "meta": {
+  "cutoff": "1929",
+  "model": "talkie-1930-13b-base",
+  "battery_version": "v1.1",
+  "validation_maxdiff": 0.0,
+  "floor95": 2.676,
+  "role": "DARK CONTROL — must read darker than Ranke-1929"
+ },
+ "targets": {
+  "Hitler": {
+   "status": "anchor_dev",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww2-figures"
+   ],
+   "tells_fired": {
+    "Stalin": 3.078
+   },
+   "all_tell_lifts": {
+    "Stalin": 3.078,
+    "Eisenhower": 0.308,
+    "chancellor": -0.502,
+    "Reich": 0.056,
+    "war": -0.01
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "Munich": 0.918,
+    "putsch": 1.522,
+    "Bavaria": 1.624
+   }
+  },
+  "Eisenhower": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "Normandy": 0.134,
+    "invasion": -0.275,
+    "president": 0.923,
+    "general": 0.137
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Franco": {
+   "status": "risky_polysemy",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "spain"
+   ],
+   "tells_fired": {
+    "Spain": 3.087
+   },
+   "all_tell_lifts": {
+    "Madrid": 2.596,
+    "Spain": 3.087,
+    "civil war": -0.086
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Truman": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "president": 1.547,
+    "atomic": 0.622,
+    "Missouri": 2.185
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Mao": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "china-red"
+   ],
+   "tells_fired": {
+    "China": 3.655
+   },
+   "all_tell_lifts": {
+    "communist": -0.596,
+    "Peking": 2.413,
+    "China": 3.655
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Kennedy": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "assassination"
+   ],
+   "tells_fired": {
+    "Dallas": 4.293
+   },
+   "all_tell_lifts": {
+    "president": 1.369,
+    "Dallas": 4.293,
+    "assassination": -1.07
+   },
+   "innocents_fired": {
+    "Irish": 3.387
+   },
+   "all_innocent_lifts": {
+    "Boston": 2.107,
+    "Irish": 3.387
+   }
+  },
+  "Gorbachev": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "Soviet": 2.422,
+    "Kremlin": -1.187,
+    "reform": -0.688
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Obama": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "president": 0.42,
+    "America": 0.379,
+    "Washington": 1.099
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "radar": {
+   "status": "normal",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "physics",
+    "war-tech"
+   ],
+   "tells_fired": {
+    "aircraft": 5.298,
+    "waves": 7.818,
+    "station": 5.339
+   },
+   "all_tell_lifts": {
+    "aircraft": 5.298,
+    "waves": 7.818,
+    "station": 5.339
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "internet": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "computer": 1.875,
+    "network": 2.18
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "smartphone": {
+   "status": "negative_anchor",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "tech"
+   ],
+   "tells_fired": {
+    "wireless": 4.697,
+    "machine": 5.323
+   },
+   "all_tell_lifts": {
+    "pocket": 1.349,
+    "wireless": 4.697,
+    "machine": 5.323
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  }
+ }
+}

@@ -1,0 +1,1614 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Project X To-Do Flow</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-page: #ffffff;
+      --bg-surface: #f8f9fb;
+      --bg-muted: #f1f3f5;
+      --bg-inset: #edf0f4;
+      --text-heading: #0f1729;
+      --text-body: #334155;
+      --text-secondary: #64748b;
+      --text-muted: #94a3b8;
+      --accent: #4f46e5;
+      --accent-hover: #4338ca;
+      --accent-light: #eef2ff;
+      --accent-secondary: #7c3aed;
+      --status-success: #059669;
+      --status-success-bg: #ecfdf5;
+      --status-warning: #d97706;
+      --status-warning-bg: #fffbeb;
+      --status-error: #dc2626;
+      --status-error-bg: #fef2f2;
+      --status-neutral: #64748b;
+      --status-neutral-bg: #f1f5f9;
+      --border-default: #e2e8f0;
+      --border-emphasis: #cbd5e1;
+      --border-subtle: #f1f5f9;
+      --shadow-sm: rgba(50,50,93,0.04) 0px 1px 3px, rgba(0,0,0,0.02) 0px 1px 2px;
+      --shadow-md: rgba(50,50,93,0.08) 0px 4px 12px, rgba(0,0,0,0.04) 0px 2px 4px;
+      --shadow-lg: rgba(50,50,93,0.12) 0px 12px 36px -8px, rgba(0,0,0,0.06) 0px 6px 16px -6px;
+      --shadow-hover: rgba(50,50,93,0.12) 0px 8px 24px -4px, rgba(0,0,0,0.06) 0px 4px 8px -4px;
+      --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      --font-mono: "JetBrains Mono", "SF Mono", "Fira Code", Consolas, monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      letter-spacing: 0;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg-page);
+      color: var(--text-body);
+      font: 400 14px/1.6 var(--font-sans);
+    }
+
+    button,
+    input,
+    select,
+    textarea {
+      font: inherit;
+    }
+
+    button {
+      min-height: 36px;
+    }
+
+    .app {
+      min-height: 100vh;
+      background:
+        linear-gradient(180deg, #ffffff 0%, #ffffff 220px, #f8f9fb 100%);
+    }
+
+    .header {
+      background: #ffffff;
+      border-bottom: 1px solid var(--border-default);
+      box-shadow: rgba(50,50,93,0.04) 0px 2px 6px;
+      padding: 18px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 20;
+    }
+
+    .header-inner {
+      max-width: 1480px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 18px;
+      align-items: center;
+    }
+
+    .title-block h1 {
+      margin: 0 0 4px;
+      color: var(--text-heading);
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .title-block p {
+      margin: 0;
+      color: var(--text-secondary);
+      font-size: 13px;
+      line-height: 1.5;
+      max-width: 760px;
+    }
+
+    .header-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-end;
+    }
+
+    .main {
+      max-width: 1480px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: minmax(220px, 1.2fr) repeat(3, minmax(150px, 0.45fr));
+      gap: 12px;
+      align-items: end;
+      margin-bottom: 18px;
+      padding: 16px;
+      background: #ffffff;
+      border: 1px solid var(--border-default);
+      border-radius: 8px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .field label {
+      color: var(--text-muted);
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.4;
+      text-transform: uppercase;
+    }
+
+    input[type="text"],
+    select,
+    textarea {
+      width: 100%;
+      padding: 8px 12px;
+      color: var(--text-body);
+      background: #ffffff;
+      border: 1px solid var(--border-default);
+      border-radius: 6px;
+      outline: none;
+      transition: border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    textarea {
+      min-height: 86px;
+      resize: vertical;
+      line-height: 1.5;
+    }
+
+    input[type="text"]:focus,
+    select:focus,
+    textarea:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(79,70,229,0.1);
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      padding: 8px 13px;
+      border-radius: 6px;
+      border: 1px solid transparent;
+      background: #ffffff;
+      color: var(--text-body);
+      font-size: 13px;
+      font-weight: 500;
+      line-height: 1;
+      cursor: pointer;
+      transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #ffffff;
+      box-shadow: rgba(79,70,229,0.18) 0px 5px 14px -5px;
+    }
+
+    .btn-primary:hover {
+      background: var(--accent-hover);
+      border-color: var(--accent-hover);
+    }
+
+    .btn-ghost {
+      border-color: var(--border-default);
+    }
+
+    .btn-ghost:hover {
+      background: var(--bg-surface);
+      border-color: var(--border-emphasis);
+    }
+
+    .btn-danger {
+      color: var(--status-error);
+      border-color: #fecaca;
+      background: #ffffff;
+    }
+
+    .btn-danger:hover {
+      background: var(--status-error-bg);
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(140px, 1fr));
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .metric {
+      background: #ffffff;
+      border: 1px solid var(--border-default);
+      border-radius: 8px;
+      box-shadow: var(--shadow-sm);
+      padding: 14px 16px;
+    }
+
+    .metric span {
+      display: block;
+      color: var(--text-muted);
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.4;
+      text-transform: uppercase;
+    }
+
+    .metric strong {
+      display: block;
+      margin-top: 4px;
+      color: var(--text-heading);
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .owner-summary {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0 0 22px;
+    }
+
+    .owner-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      min-height: 30px;
+      padding: 5px 10px;
+      border: 1px solid var(--border-default);
+      border-radius: 100px;
+      background: #ffffff;
+      color: var(--text-secondary);
+      font-size: 12px;
+      font-weight: 500;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .owner-chip strong {
+      color: var(--text-heading);
+      font-weight: 600;
+    }
+
+    .board-wrap {
+      overflow-x: auto;
+      padding-bottom: 8px;
+    }
+
+    .board {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(230px, 1fr));
+      gap: 14px;
+      min-width: 1180px;
+      align-items: start;
+    }
+
+    .flow-column {
+      min-width: 0;
+    }
+
+    .column-header {
+      min-height: 104px;
+      padding: 0 2px 12px;
+      border-bottom: 1px solid var(--border-default);
+      margin-bottom: 12px;
+    }
+
+    .column-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .column-header h2 {
+      margin: 0;
+      color: var(--text-heading);
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    .column-header p {
+      margin: 8px 0 0;
+      color: var(--text-secondary);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .count-badge,
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 22px;
+      gap: 4px;
+      padding: 3px 9px;
+      border-radius: 100px;
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.2;
+      white-space: nowrap;
+    }
+
+    .count-badge {
+      background: var(--accent-light);
+      color: var(--accent);
+    }
+
+    .task-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .task-card {
+      background: #ffffff;
+      border: 1px solid var(--border-default);
+      border-radius: 8px;
+      box-shadow: var(--shadow-sm);
+      padding: 13px;
+      transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+    }
+
+    .task-card:hover {
+      border-color: var(--border-emphasis);
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-1px);
+    }
+
+    .task-card.done {
+      background: linear-gradient(180deg, #ffffff 0%, #fbfefc 100%);
+    }
+
+    .task-card.blocked {
+      border-color: #fed7aa;
+    }
+
+    .task-top {
+      display: grid;
+      grid-template-columns: 28px 1fr;
+      gap: 9px;
+      align-items: start;
+    }
+
+    .check {
+      appearance: none;
+      width: 24px;
+      height: 24px;
+      margin: 0;
+      border: 1.5px solid var(--border-emphasis);
+      border-radius: 6px;
+      background: #ffffff;
+      cursor: pointer;
+      display: grid;
+      place-content: center;
+      transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .check::after {
+      content: "";
+      width: 10px;
+      height: 6px;
+      border-left: 2px solid #ffffff;
+      border-bottom: 2px solid #ffffff;
+      transform: rotate(-45deg) scale(0);
+      transform-origin: center;
+      transition: transform 0.12s ease;
+    }
+
+    .check:checked {
+      background: var(--status-success);
+      border-color: var(--status-success);
+      box-shadow: 0 0 0 3px rgba(5,150,105,0.1);
+    }
+
+    .check:checked::after {
+      transform: rotate(-45deg) scale(1);
+    }
+
+    .task-title {
+      margin: 1px 0 7px;
+      color: var(--text-heading);
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+    }
+
+    .task-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+
+    .badge-success {
+      background: var(--status-success-bg);
+      color: var(--status-success);
+    }
+
+    .badge-warning {
+      background: var(--status-warning-bg);
+      color: var(--status-warning);
+    }
+
+    .badge-error {
+      background: var(--status-error-bg);
+      color: var(--status-error);
+    }
+
+    .badge-neutral {
+      background: var(--status-neutral-bg);
+      color: var(--status-neutral);
+    }
+
+    .badge-accent {
+      background: var(--accent-light);
+      color: var(--accent);
+    }
+
+    .task-section {
+      margin-top: 9px;
+      padding-top: 9px;
+      border-top: 1px solid var(--border-subtle);
+    }
+
+    .task-label {
+      display: block;
+      margin-bottom: 3px;
+      color: var(--text-muted);
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.4;
+      text-transform: uppercase;
+    }
+
+    .task-text {
+      margin: 0;
+      color: var(--text-body);
+      font-size: 12px;
+      line-height: 1.5;
+      overflow-wrap: anywhere;
+    }
+
+    .card-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .small-btn {
+      min-height: 30px;
+      padding: 6px 10px;
+      font-size: 12px;
+    }
+
+    .empty {
+      padding: 18px 12px;
+      color: var(--text-secondary);
+      background: var(--bg-surface);
+      border: 1px dashed var(--border-emphasis);
+      border-radius: 8px;
+      font-size: 12px;
+      text-align: center;
+    }
+
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 22px;
+      background: rgba(15,23,41,0.36);
+      z-index: 50;
+    }
+
+    .modal-backdrop.open {
+      display: flex;
+    }
+
+    .modal {
+      width: min(780px, 100%);
+      max-height: min(860px, calc(100vh - 44px));
+      overflow: auto;
+      background: #ffffff;
+      border: 1px solid var(--border-default);
+      border-radius: 8px;
+      box-shadow: var(--shadow-lg);
+    }
+
+    .modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 18px 20px;
+      border-bottom: 1px solid var(--border-default);
+    }
+
+    .modal-header h2 {
+      margin: 0;
+      color: var(--text-heading);
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    .modal-body {
+      padding: 20px;
+    }
+
+    .form-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .form-grid .full {
+      grid-column: 1 / -1;
+    }
+
+    .modal-footer {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 16px 20px;
+      border-top: 1px solid var(--border-default);
+      background: var(--bg-surface);
+    }
+
+    .modal-footer .right {
+      display: flex;
+      gap: 8px;
+    }
+
+    .toast {
+      position: fixed;
+      right: 24px;
+      bottom: 24px;
+      z-index: 70;
+      display: none;
+      max-width: 380px;
+      padding: 11px 14px;
+      color: var(--text-heading);
+      background: #ffffff;
+      border: 1px solid var(--border-default);
+      border-radius: 8px;
+      box-shadow: var(--shadow-md);
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    .toast.show {
+      display: block;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    @media (max-width: 1180px) {
+      .toolbar {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 760px) {
+      .header {
+        padding: 16px;
+      }
+
+      .header-inner {
+        grid-template-columns: 1fr;
+      }
+
+      .header-actions {
+        justify-content: flex-start;
+      }
+
+      .main {
+        padding: 16px;
+      }
+
+      .toolbar,
+      .stats,
+      .form-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .board {
+        grid-template-columns: 1fr;
+        min-width: 0;
+      }
+
+      .column-header {
+        min-height: auto;
+      }
+
+      button,
+      .btn {
+        min-height: 44px;
+      }
+
+      .modal-footer {
+        flex-direction: column;
+      }
+
+      .modal-footer .right {
+        flex-direction: column-reverse;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="header-inner">
+        <div class="title-block">
+          <h1>Project X To-Do Flow</h1>
+          <p>A dependency map for model access, corpus audit, retraining choices, evaluation design, and team-facing write-up.</p>
+        </div>
+        <div class="header-actions">
+          <button class="btn btn-primary" id="addTaskBtn" type="button">Add Task</button>
+          <button class="btn btn-ghost" id="exportBtn" type="button">Export JSON</button>
+          <button class="btn btn-ghost" id="importBtn" type="button">Import JSON</button>
+          <button class="btn btn-ghost" id="resetBtn" type="button">Reset to Seed</button>
+          <input class="hidden" id="importFile" type="file" accept="application/json,.json">
+        </div>
+      </div>
+    </header>
+
+    <main class="main">
+      <section class="toolbar" aria-label="Filters">
+        <div class="field">
+          <label for="searchInput">Search</label>
+          <input id="searchInput" type="text" placeholder="Find task, owner, evidence, or note">
+        </div>
+        <div class="field">
+          <label for="ownerFilter">Owner</label>
+          <select id="ownerFilter"></select>
+        </div>
+        <div class="field">
+          <label for="statusFilter">Status</label>
+          <select id="statusFilter"></select>
+        </div>
+        <div class="field">
+          <label for="flowFilter">Flow</label>
+          <select id="flowFilter"></select>
+        </div>
+      </section>
+
+      <section class="stats" aria-label="Progress summary">
+        <div class="metric">
+          <span>Total</span>
+          <strong id="totalMetric">0</strong>
+        </div>
+        <div class="metric">
+          <span>Done</span>
+          <strong id="doneMetric">0</strong>
+        </div>
+        <div class="metric">
+          <span>Blocked</span>
+          <strong id="blockedMetric">0</strong>
+        </div>
+        <div class="metric">
+          <span>Progress</span>
+          <strong id="progressMetric">0%</strong>
+        </div>
+      </section>
+
+      <section class="owner-summary" id="ownerSummary" aria-label="Owner summary"></section>
+
+      <section class="board-wrap" aria-label="Task board">
+        <div class="board" id="board"></div>
+      </section>
+    </main>
+  </div>
+
+  <div class="modal-backdrop" id="taskModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <form class="modal" id="taskForm">
+      <div class="modal-header">
+        <h2 id="modalTitle">Add Task</h2>
+        <button class="btn btn-ghost small-btn" id="closeModalBtn" type="button">Close</button>
+      </div>
+      <div class="modal-body">
+        <input id="taskId" type="hidden">
+        <div class="form-grid">
+          <div class="field full">
+            <label for="taskTitle">Title</label>
+            <input id="taskTitle" type="text" required>
+          </div>
+          <div class="field">
+            <label for="taskOwner">Owner</label>
+            <input id="taskOwner" type="text" list="ownerList" required>
+            <datalist id="ownerList"></datalist>
+          </div>
+          <div class="field">
+            <label for="taskConfidence">Owner confidence</label>
+            <select id="taskConfidence" required></select>
+          </div>
+          <div class="field">
+            <label for="taskFlow">Flow column</label>
+            <select id="taskFlow" required></select>
+          </div>
+          <div class="field">
+            <label for="taskStatus">Status</label>
+            <select id="taskStatus" required></select>
+          </div>
+          <div class="field full">
+            <label for="taskDependency">Dependency</label>
+            <select id="taskDependency"></select>
+          </div>
+          <div class="field full">
+            <label for="taskDone">Definition of done</label>
+            <textarea id="taskDone" required></textarea>
+          </div>
+          <div class="field full">
+            <label for="taskEvidence">Evidence/source note</label>
+            <textarea id="taskEvidence"></textarea>
+          </div>
+          <div class="field full">
+            <label for="taskNotes">Notes</label>
+            <textarea id="taskNotes"></textarea>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-danger" id="deleteTaskBtn" type="button">Delete</button>
+        <div class="right">
+          <button class="btn btn-ghost" id="cancelTaskBtn" type="button">Cancel</button>
+          <button class="btn btn-primary" type="submit">Save Task</button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script id="seed-data" type="application/json">
+{
+  "version": 1,
+  "updated": "2026-06-27",
+  "columns": [
+    {
+      "id": "locate",
+      "label": "Locate Evidence",
+      "description": "Freeze definitions, corpus access, and source identifiers before cleaning."
+    },
+    {
+      "id": "audit",
+      "label": "Audit Data",
+      "description": "Run corpus-first detectors and source-level quarantine before retraining."
+    },
+    {
+      "id": "retrain",
+      "label": "Decide Retraining",
+      "description": "Gate any model training on a frozen clean manifest and validation report."
+    },
+    {
+      "id": "evaluate",
+      "label": "Evaluate Models",
+      "description": "Validate the cleaned manifest and keep model probes as acceptance tests."
+    },
+    {
+      "id": "share",
+      "label": "Write/Share",
+      "description": "Turn evidence, manifests, and residual-risk claims into team-facing outputs."
+    }
+  ],
+  "statusOptions": [
+    "Not started",
+    "Blocked",
+    "In progress",
+    "Waiting",
+    "Done"
+  ],
+  "confidenceOptions": [
+    "Stated by Joachim",
+    "Confirmed in group",
+    "GPT-5.5 Pro recommendation",
+    "Inferred from context",
+    "Needs owner"
+  ],
+  "tasks": [
+    {
+      "id": "freeze-cutoff-policy",
+      "title": "Freeze cutoff and contamination definitions",
+      "flow": "locate",
+      "owner": "Daniel + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Not started",
+      "dependency": "",
+      "done": "A short policy states the exact cutoff rule, allowed/disallowed/borderline text, and separate treatment of pretraining, SFT, tokenizer/vocab, metadata, prefaces, notes, and boilerplate.",
+      "evidence": "The Pro memo says direct cleaning must start by defining what counts as contamination for <=1929 or <1930.",
+      "notes": "This should settle revised editions, modern introductions, OCR headers, and whether separable paratext can be stripped."
+    },
+    {
+      "id": "locate-contaminated-model",
+      "title": "Confirm the contaminated model location",
+      "flow": "locate",
+      "owner": "Daniel",
+      "confidence": "Confirmed in group",
+      "status": "Done",
+      "dependency": "",
+      "done": "The exact repository or checkpoint is written down, including access status and which model family/cutoff it belongs to.",
+      "evidence": "Project X update identified history-llms/ranke-0.6b-1913-1106-cont-1 as the contaminated model.",
+      "notes": "Keep this as a reference artifact for calibration, not as the production target."
+    },
+    {
+      "id": "write-contaminated-model-lesson",
+      "title": "Document what the contaminated model teaches us",
+      "flow": "share",
+      "owner": "Daniel",
+      "confidence": "Stated by Joachim",
+      "status": "Not started",
+      "dependency": "locate-contaminated-model",
+      "done": "A short, didactic note explains what the contaminated model shows, why it matters, and how it will be used for calibration.",
+      "evidence": "Joachim asked for a simple write-up of the contaminated model and what can be learned from it.",
+      "notes": "Possible follow-up: put the artifact on Hugging Face once the write-up is clear."
+    },
+    {
+      "id": "map-training-data",
+      "title": "Map all training inputs and corpus locations",
+      "flow": "locate",
+      "owner": "Daniel + Dominik",
+      "confidence": "Stated by Joachim",
+      "status": "In progress",
+      "dependency": "",
+      "done": "A complete inventory identifies pretraining, tokenizer/vocab, SFT/instruction data, caches, prior dropped data, CSCS/ALPS paths, and who can access each item.",
+      "evidence": "Joachim asked Daniel/Dominik to locate the data; the Pro memo says no certification is possible without exact corpus paths and training inputs.",
+      "notes": "This now includes tokenizer and SFT inputs, not just the pretraining text."
+    },
+    {
+      "id": "build-source-inventory",
+      "title": "Build raw source inventory and stable IDs",
+      "flow": "locate",
+      "owner": "Dominik + Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "map-training-data",
+      "done": "raw_source_inventory.parquet or equivalent exists with document_id, source_id, source_family_id, raw path, dataset/source metadata, publication/edition years, token counts, and hashes.",
+      "evidence": "The Pro memo says source-level decontamination is impossible without stable document/source/family IDs.",
+      "notes": "This is the key prerequisite for all scalable detector outputs and source-level quarantine."
+    },
+    {
+      "id": "normalize-text-index",
+      "title": "Create normalized text index with offsets",
+      "flow": "locate",
+      "owner": "Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "A normalized document index supports lowercase/Unicode/OCR-hyphen/whitespace-normalized scans while preserving offsets back to raw text and chunk boundaries.",
+      "evidence": "The Pro memo recommends normalized text for scanning but raw offsets for evidence snippets and audit.",
+      "notes": "Keep high-churn working files off Dropbox if this runs at corpus scale."
+    },
+    {
+      "id": "search-post45-us-history",
+      "title": "Run disambiguated hard-marker scan for suspicious domains",
+      "flow": "audit",
+      "owner": "Dominik + Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "A full-corpus marker pass writes detector_hits.jsonl with document_id, source_id, source_family_id, marker, bucket, evidence span, confidence, and action hint.",
+      "evidence": "The Pro memo recommends expanding find_contamination.py into a production detector for US politics, Vietnam, Cold War, WWII, civil rights, postwar institutions, and science.",
+      "notes": "Use disambiguating context windows for ambiguous names such as Kennedy, Normandy, Israel, Nagasaki, and Reagan."
+    },
+    {
+      "id": "metadata-boilerplate-scan",
+      "title": "Run metadata, edition, and boilerplate scan",
+      "flow": "audit",
+      "owner": "Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "metadata_conflicts.parquet or equivalent flags post-cutoff publication/edition years, revised editions, modern introductions, scan headers, OCR boilerplate, ISBNs, upload dates, and modern file names.",
+      "evidence": "The Pro memo identifies metadata/edition/reprint checks as one of the highest-value detectors.",
+      "notes": "Decide whether modern paratext can be stripped or whether the whole edition/source should be quarantined."
+    },
+    {
+      "id": "compare-xmas-dropped-data",
+      "title": "Compare dropped Xmas data against random corpus samples",
+      "flow": "audit",
+      "owner": "Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Not started",
+      "dependency": "build-source-inventory",
+      "done": "A ranked term/source list compares dropped Xmas material against random kept corpus samples and converts over-represented terms into scanner seeds.",
+      "evidence": "The Pro memo names prior dropped data as a dirty-reference source and search-seed source.",
+      "notes": "Feed both marker expansion and near-duplicate dirty-reference construction."
+    },
+    {
+      "id": "near-duplicate-dirty-index",
+      "title": "Build dirty-reference near-duplicate index",
+      "flow": "audit",
+      "owner": "Dominik + Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "compare-xmas-dropped-data",
+      "done": "A dirty-reference library and MinHash/SimHash-style matching identify modern/post-cutoff paragraphs, source mirrors, boilerplate, SFT content, and prior dropped material embedded in the corpus.",
+      "evidence": "The Pro memo recommends near-duplicate matching to catch formal modern histories and copied post-cutoff reference text that keyword search misses.",
+      "notes": "Reference sources should include dropped Xmas data, modern history/biography sources, boilerplate, and known contaminated slices."
+    },
+    {
+      "id": "train-temporal-classifiers",
+      "title": "Train and score temporal-writing classifiers",
+      "flow": "audit",
+      "owner": "Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "Genre-balanced fastText and character n-gram classifiers are trained for relevant cutoffs, evaluated by genre/topic/leave-topic-out tests, and used to score corpus passages and sources.",
+      "evidence": "The Pro memo upgrades the existing fastText idea into a 1929/1930 date-of-writing detector stack.",
+      "notes": "Avoid learning topic instead of date; include formal post-cutoff histories, not only modern web text."
+    },
+    {
+      "id": "sft-tokenizer-audit",
+      "title": "Audit SFT and tokenizer/vocab inputs separately",
+      "flow": "audit",
+      "owner": "Guohui + Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "build-source-inventory",
+      "done": "sft_clean_manifest.jsonl and tokenizer_vocab_audit.md separately report or quarantine post-cutoff instruction examples, assistant facts, benchmark artifacts, tokenizer training text, modern tokens, and template contamination.",
+      "evidence": "The Pro memo warns that SFT or tokenizer contamination can mimic or explain model contamination even when pretraining is clean.",
+      "notes": "Keep base-pretraining, instruct/SFT, and tokenizer claims separate."
+    },
+    {
+      "id": "source-risk-ledger",
+      "title": "Aggregate detector outputs into source risk ledger",
+      "flow": "audit",
+      "owner": "Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "search-post45-us-history",
+      "done": "source_risk_ledger.parquet combines marker hits, temporal scores, near-duplicate hits, metadata conflicts, boilerplate scores, audit status, token weights, and recommended action by source/source family.",
+      "evidence": "The Pro memo says the key removal decision should usually be source family, source/edition, or document, not isolated sentence.",
+      "notes": "This task also depends in practice on metadata, temporal-classifier, and near-duplicate outputs."
+    },
+    {
+      "id": "quarantine-policy",
+      "title": "Apply source-level quarantine policy",
+      "flow": "audit",
+      "owner": "Daniel + Joachim + Dominik",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "source-risk-ledger",
+      "done": "quarantine_manifest.jsonl records every excluded document/source/family with reason codes such as POST_CUTOFF_EVENT_MARKER, POST_CUTOFF_METADATA, SOURCE_FAMILY_CONTAMINATED, SFT_POST_CUTOFF, or TOKENIZER_VOCAB_POST_CUTOFF.",
+      "evidence": "The Pro memo recommends aggressive high-recall quarantine before final keep decisions, with stable reason codes rather than silent deletion.",
+      "notes": "Use source/family drops for repeated or unstrippable contamination; passage stripping only for deterministic boilerplate."
+    },
+    {
+      "id": "freeze-clean-manifest",
+      "title": "Freeze clean training manifest",
+      "flow": "audit",
+      "owner": "Dominik + Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "quarantine-policy",
+      "done": "clean_training_manifest.jsonl is versioned and includes only approved documents/sources after detector runs, source-level quarantine, SFT/tokenizer separation, seeded validation, and audit review.",
+      "evidence": "The Pro memo says training should read a manifest, not an ad hoc cleaned folder.",
+      "notes": "This is the artifact that gates 1.7B or any large clean run."
+    },
+    {
+      "id": "validation-protocol",
+      "title": "Freeze validation and audit protocol",
+      "flow": "evaluate",
+      "owner": "Joachim + Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Not started",
+      "dependency": "freeze-cutoff-policy",
+      "done": "A validation protocol fixes risk strata, audit labels, sample sizes, token-weighting rules, seeded-injection tests, historical cutoff simulations, and residual-risk reporting before final results are inspected.",
+      "evidence": "The Pro memo recommends strategic audit and validation without full LLM training.",
+      "notes": "Use evidence grades such as hard contamination, soft suspicion, false positive, modern boilerplate, and metadata error."
+    },
+    {
+      "id": "stratified-manual-audit",
+      "title": "Run token-weighted stratified manual audit",
+      "flow": "evaluate",
+      "owner": "Guohui + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "source-risk-ledger",
+      "done": "Audit labels cover hard hits, soft hits, high temporal scores, metadata conflicts, near-duplicates, boilerplate, high-token source families, random kept documents, and random quarantine documents; residual contamination upper bounds are estimated.",
+      "evidence": "The Pro memo says zero hits in a sample is only an upper bound, not proof of clean data.",
+      "notes": "Use two labels and adjudication for borderline cases if feasible."
+    },
+    {
+      "id": "seeded-injection-validation",
+      "title": "Run seeded-injection and historical cutoff validation",
+      "flow": "evaluate",
+      "owner": "Guohui",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "validation-protocol",
+      "done": "A report measures document-level, source-level, and token-weighted recall/precision for injected post-cutoff documents, modern prefaces, embedded paragraphs, ambiguous entities, OCR corruption, and simulated earlier cutoffs.",
+      "evidence": "The Pro memo says validation can happen without full model training by injecting known dirty material and simulating cutoffs like 1900 or 1913.",
+      "notes": "Target near-perfect source-level recall for explicit seeded contamination in suspicious domains."
+    },
+    {
+      "id": "define-frozen-holdout",
+      "title": "Freeze post-cleaning acceptance battery",
+      "flow": "evaluate",
+      "owner": "Guohui + Joachim",
+      "confidence": "Stated by Joachim",
+      "status": "In progress",
+      "dependency": "validation-protocol",
+      "done": "A locked acceptance battery states domains, item counts, screening rules, metrics, and decision thresholds before any post-cleaning model is scored.",
+      "evidence": "The Pro memo keeps probes as final acceptance tests, not the primary corpus detector.",
+      "notes": "Existing exploratory batteries remain search-seed sources and method-development artifacts."
+    },
+    {
+      "id": "set-detection-thresholds",
+      "title": "Set residual-risk and acceptance thresholds",
+      "flow": "evaluate",
+      "owner": "Guohui + Joachim",
+      "confidence": "Stated by Joachim",
+      "status": "In progress",
+      "dependency": "validation-protocol",
+      "done": "The team defines acceptable source-level recall, audit upper bounds, broad/narrow acceptance-test thresholds, and conservative wording for residual contamination.",
+      "evidence": "The Pro memo recommends claims like below detectable threshold, with confidence bounds, instead of clean.",
+      "notes": "Include document-level, token-weighted, source-family, SFT, and tokenizer/vocab risk."
+    },
+    {
+      "id": "talkie-logprob-access",
+      "title": "Confirm Talkie logprob access on WestAI",
+      "flow": "evaluate",
+      "owner": "Guohui",
+      "confidence": "Inferred from context",
+      "status": "Waiting",
+      "dependency": "define-frozen-holdout",
+      "done": "The Talkie base model can be scored with prompt-continuation sum log-probabilities on suitable GPU hardware.",
+      "evidence": "Private messages noted Talkie should use the base model on WestAI GPU, with logprob access needed for the same metric.",
+      "notes": "Lower priority than corpus-first cleaning; keep as an acceptance-test capability."
+    },
+    {
+      "id": "decide-1p7b",
+      "title": "Gate the 1.7B diagnostic decision on clean-manifest validation",
+      "flow": "retrain",
+      "owner": "Daniel",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Waiting",
+      "dependency": "freeze-clean-manifest",
+      "done": "A go/no-go memo states whether 1.7B is needed after corpus validation, what locked acceptance battery it answers, expected cost, and what result would block the large run.",
+      "evidence": "The Pro memo says to skip 1.7B until the corpus inventory, detector stack, source quarantine, clean manifest, seeded-injection recall, SFT/tokenizer scans, and acceptance probes are frozen.",
+      "notes": "Do not run 1.7B as an anxiety-driven cleaning loop; use it only as a post-manifest gate."
+    },
+    {
+      "id": "run-1p7b-if-greenlit",
+      "title": "Train the 1.7B calibration model if greenlit",
+      "flow": "retrain",
+      "owner": "Daniel",
+      "confidence": "Inferred from context",
+      "status": "Blocked",
+      "dependency": "decide-1p7b",
+      "done": "If greenlit, a 1.7B model is trained on the exact frozen clean manifest, tokenizer, and preprocessing pipeline and scored once on the locked acceptance battery.",
+      "evidence": "The Pro memo allows 1.7B only after manifest freeze and validation, as a gate before the large clean run.",
+      "notes": "If it fails on a domain, return to corpus/source search for that domain rather than redesigning probes."
+    },
+    {
+      "id": "go-no-go-large-run",
+      "title": "Decide whether to skip 1.7B and train one large clean model",
+      "flow": "retrain",
+      "owner": "Daniel + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "validation-report",
+      "done": "A go/no-go decision chooses between no training yet, a 1.7B gate, or one large clean model from scratch, based on manifest validation and locked acceptance tests.",
+      "evidence": "The Pro memo says the default should be corpus-first cleaning, then train once; 1.7B is optional only after validation.",
+      "notes": "If model acceptance fails, return to source search for the fired domain rather than restarting the probe design loop."
+    },
+    {
+      "id": "wvs-model-survey-evidence",
+      "title": "Collect WVS model-survey evidence",
+      "flow": "share",
+      "owner": "Guohui",
+      "confidence": "Stated by Joachim",
+      "status": "Not started",
+      "dependency": "",
+      "done": "A short note summarizes evidence that modern models can approximate survey responses well enough for the WVS application.",
+      "evidence": "Private chat asked Guohui to look into proof that modern models are close to surveys.",
+      "notes": "Keep separate from the contamination audit, but link it to the application narrative."
+    },
+    {
+      "id": "validation-report",
+      "title": "Write validation report and residual-risk claim",
+      "flow": "share",
+      "owner": "Guohui + Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "Blocked",
+      "dependency": "seeded-injection-validation",
+      "done": "A team-facing report states detector recall, audit precision, residual upper bounds, what was quarantined, what remains uncertain, and conservative wording such as below detectable threshold.",
+      "evidence": "The Pro memo emphasizes honest residual-risk language and source-level evidence before training.",
+      "notes": "This should accompany the clean manifest and go/no-go decision."
+    },
+    {
+      "id": "coordinate-team-flow",
+      "title": "Keep the team aligned on the flow",
+      "flow": "share",
+      "owner": "Joachim",
+      "confidence": "GPT-5.5 Pro recommendation",
+      "status": "In progress",
+      "dependency": "",
+      "done": "The team agrees that corpus-first decontamination is the default path, model probes are search seeds or acceptance tests, and the 1.7B run is conditional on manifest validation.",
+      "evidence": "The Pro memo reorganizes the work around corpus ledger, detector stack, source-level quarantine, validation, then training gate.",
+      "notes": "This dashboard now reflects that operating model."
+    }
+  ]
+}
+</script>
+
+  <script>
+    const STORAGE_KEY = "project-x-todo-flow-v1";
+    const seedData = JSON.parse(document.getElementById("seed-data").textContent);
+    let data = loadData();
+
+    const els = {
+      board: document.getElementById("board"),
+      addTaskBtn: document.getElementById("addTaskBtn"),
+      exportBtn: document.getElementById("exportBtn"),
+      importBtn: document.getElementById("importBtn"),
+      importFile: document.getElementById("importFile"),
+      resetBtn: document.getElementById("resetBtn"),
+      searchInput: document.getElementById("searchInput"),
+      ownerFilter: document.getElementById("ownerFilter"),
+      statusFilter: document.getElementById("statusFilter"),
+      flowFilter: document.getElementById("flowFilter"),
+      totalMetric: document.getElementById("totalMetric"),
+      doneMetric: document.getElementById("doneMetric"),
+      blockedMetric: document.getElementById("blockedMetric"),
+      progressMetric: document.getElementById("progressMetric"),
+      ownerSummary: document.getElementById("ownerSummary"),
+      modal: document.getElementById("taskModal"),
+      taskForm: document.getElementById("taskForm"),
+      modalTitle: document.getElementById("modalTitle"),
+      closeModalBtn: document.getElementById("closeModalBtn"),
+      cancelTaskBtn: document.getElementById("cancelTaskBtn"),
+      deleteTaskBtn: document.getElementById("deleteTaskBtn"),
+      taskId: document.getElementById("taskId"),
+      taskTitle: document.getElementById("taskTitle"),
+      taskOwner: document.getElementById("taskOwner"),
+      ownerList: document.getElementById("ownerList"),
+      taskConfidence: document.getElementById("taskConfidence"),
+      taskFlow: document.getElementById("taskFlow"),
+      taskStatus: document.getElementById("taskStatus"),
+      taskDependency: document.getElementById("taskDependency"),
+      taskDone: document.getElementById("taskDone"),
+      taskEvidence: document.getElementById("taskEvidence"),
+      taskNotes: document.getElementById("taskNotes"),
+      toast: document.getElementById("toast")
+    };
+
+    function clone(value) {
+      return JSON.parse(JSON.stringify(value));
+    }
+
+    function loadData() {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (!stored) return clone(seedData);
+      try {
+        return normalizeData(JSON.parse(stored));
+      } catch (error) {
+        return clone(seedData);
+      }
+    }
+
+    function saveData(message = "Saved locally") {
+      data.updated = new Date().toISOString().slice(0, 10);
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+      showToast(message);
+    }
+
+    function normalizeData(candidate) {
+      const normalized = {
+        version: Number(candidate.version || 1),
+        updated: candidate.updated || new Date().toISOString().slice(0, 10),
+        columns: Array.isArray(candidate.columns) && candidate.columns.length ? candidate.columns : clone(seedData.columns),
+        statusOptions: Array.isArray(candidate.statusOptions) && candidate.statusOptions.length ? candidate.statusOptions : clone(seedData.statusOptions),
+        confidenceOptions: Array.isArray(candidate.confidenceOptions) && candidate.confidenceOptions.length ? candidate.confidenceOptions : clone(seedData.confidenceOptions),
+        tasks: Array.isArray(candidate.tasks) ? candidate.tasks : []
+      };
+
+      normalized.tasks = normalized.tasks.map((task, index) => ({
+        id: task.id || makeId(task.title || `task-${index + 1}`),
+        title: task.title || "Untitled task",
+        flow: task.flow || normalized.columns[0].id,
+        owner: task.owner || "Team",
+        confidence: task.confidence || "Needs owner",
+        status: task.status || "Not started",
+        dependency: task.dependency || "",
+        done: task.done || "",
+        evidence: task.evidence || "",
+        notes: task.notes || ""
+      }));
+
+      return normalized;
+    }
+
+    function makeId(text) {
+      const base = String(text)
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "")
+        .slice(0, 48) || "task";
+      let id = base;
+      let count = 2;
+      while (data && data.tasks && data.tasks.some(task => task.id === id)) {
+        id = `${base}-${count}`;
+        count += 1;
+      }
+      return id;
+    }
+
+    function uniqueOwners() {
+      const owners = data.tasks.map(task => task.owner).filter(Boolean);
+      return [...new Set(["Daniel", "Dominik", "Guohui", "Joachim", "Team", ...owners])].sort();
+    }
+
+    function escapeHtml(value) {
+      return String(value || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+
+    function render() {
+      renderFilters();
+      renderStats();
+      renderOwnerSummary();
+      renderBoard();
+    }
+
+    function renderFilters() {
+      fillSelect(els.ownerFilter, ["All owners", ...uniqueOwners()], els.ownerFilter.value || "All owners");
+      fillSelect(els.statusFilter, ["All statuses", ...data.statusOptions], els.statusFilter.value || "All statuses");
+      fillSelect(els.flowFilter, ["All flows", ...data.columns.map(column => column.label)], els.flowFilter.value || "All flows");
+      fillDatalist(els.ownerList, uniqueOwners());
+      fillSelect(els.taskConfidence, data.confidenceOptions, els.taskConfidence.value || data.confidenceOptions[0]);
+      fillSelect(els.taskFlow, data.columns.map(column => column.label), labelForFlow(els.taskFlow.value) || data.columns[0].label);
+      fillSelect(els.taskStatus, data.statusOptions, els.taskStatus.value || data.statusOptions[0]);
+    }
+
+    function fillSelect(select, options, selected) {
+      const current = selected || select.value;
+      select.innerHTML = options.map(option => `<option${option === current ? " selected" : ""}>${escapeHtml(option)}</option>`).join("");
+    }
+
+    function fillDatalist(list, options) {
+      list.innerHTML = options.map(option => `<option value="${escapeHtml(option)}"></option>`).join("");
+    }
+
+    function labelForFlow(flowId) {
+      const column = data.columns.find(item => item.id === flowId);
+      return column ? column.label : flowId;
+    }
+
+    function idForFlowLabel(label) {
+      const column = data.columns.find(item => item.label === label || item.id === label);
+      return column ? column.id : data.columns[0].id;
+    }
+
+    function filteredTasks() {
+      const query = els.searchInput.value.trim().toLowerCase();
+      const owner = els.ownerFilter.value;
+      const status = els.statusFilter.value;
+      const flow = els.flowFilter.value;
+
+      return data.tasks.filter(task => {
+        const text = [task.title, task.owner, task.confidence, task.status, task.done, task.evidence, task.notes].join(" ").toLowerCase();
+        if (query && !text.includes(query)) return false;
+        if (owner && owner !== "All owners" && task.owner !== owner) return false;
+        if (status && status !== "All statuses" && task.status !== status) return false;
+        if (flow && flow !== "All flows" && labelForFlow(task.flow) !== flow) return false;
+        return true;
+      });
+    }
+
+    function renderStats() {
+      const total = data.tasks.length;
+      const done = data.tasks.filter(task => task.status === "Done").length;
+      const blocked = data.tasks.filter(isBlocked).length;
+      const progress = total ? Math.round((done / total) * 100) : 0;
+      els.totalMetric.textContent = total;
+      els.doneMetric.textContent = done;
+      els.blockedMetric.textContent = blocked;
+      els.progressMetric.textContent = `${progress}%`;
+    }
+
+    function renderOwnerSummary() {
+      const byOwner = new Map();
+      data.tasks.forEach(task => {
+        if (!byOwner.has(task.owner)) byOwner.set(task.owner, { total: 0, done: 0 });
+        const entry = byOwner.get(task.owner);
+        entry.total += 1;
+        if (task.status === "Done") entry.done += 1;
+      });
+
+      els.ownerSummary.innerHTML = [...byOwner.entries()]
+        .sort((a, b) => a[0].localeCompare(b[0]))
+        .map(([owner, entry]) => `<span class="owner-chip"><strong>${escapeHtml(owner)}</strong>${entry.done}/${entry.total}</span>`)
+        .join("");
+    }
+
+    function renderBoard() {
+      const visible = filteredTasks();
+      els.board.innerHTML = data.columns.map(column => {
+        const tasks = visible.filter(task => task.flow === column.id);
+        return `
+          <article class="flow-column">
+            <div class="column-header">
+              <div class="column-header-row">
+                <h2>${escapeHtml(column.label)}</h2>
+                <span class="count-badge">${tasks.length}</span>
+              </div>
+              <p>${escapeHtml(column.description || "")}</p>
+            </div>
+            <div class="task-list">
+              ${tasks.length ? tasks.map(renderTaskCard).join("") : `<div class="empty">No matching tasks</div>`}
+            </div>
+          </article>
+        `;
+      }).join("");
+    }
+
+    function renderTaskCard(task) {
+      const dependency = dependencyTask(task);
+      const blocked = isBlocked(task);
+      const statusClass = statusBadgeClass(task.status);
+      const cardClasses = ["task-card", task.status === "Done" ? "done" : "", blocked ? "blocked" : ""].filter(Boolean).join(" ");
+      return `
+        <article class="${cardClasses}" data-task-id="${escapeHtml(task.id)}">
+          <div class="task-top">
+            <input class="check" type="checkbox" aria-label="Mark ${escapeHtml(task.title)} complete" ${task.status === "Done" ? "checked" : ""} data-action="toggle" data-task-id="${escapeHtml(task.id)}">
+            <div>
+              <h3 class="task-title">${escapeHtml(task.title)}</h3>
+              <div class="task-meta">
+                <span class="badge badge-accent">${escapeHtml(task.owner)}</span>
+                <span class="badge ${statusClass}">${escapeHtml(task.status)}</span>
+                <span class="badge badge-neutral">${escapeHtml(task.confidence)}</span>
+              </div>
+            </div>
+          </div>
+          ${dependency ? `
+            <div class="task-section">
+              <span class="task-label">${blocked ? "Blocked by" : "Depends on"}</span>
+              <p class="task-text">${escapeHtml(dependency.title)}</p>
+            </div>
+          ` : ""}
+          <div class="task-section">
+            <span class="task-label">Definition of done</span>
+            <p class="task-text">${escapeHtml(task.done)}</p>
+          </div>
+          ${task.evidence ? `
+            <div class="task-section">
+              <span class="task-label">Evidence/source note</span>
+              <p class="task-text">${escapeHtml(task.evidence)}</p>
+            </div>
+          ` : ""}
+          ${task.notes ? `
+            <div class="task-section">
+              <span class="task-label">Notes</span>
+              <p class="task-text">${escapeHtml(task.notes)}</p>
+            </div>
+          ` : ""}
+          <div class="card-actions">
+            <button class="btn btn-ghost small-btn" type="button" data-action="edit" data-task-id="${escapeHtml(task.id)}">Edit</button>
+          </div>
+        </article>
+      `;
+    }
+
+    function dependencyTask(task) {
+      if (!task.dependency) return null;
+      return data.tasks.find(item => item.id === task.dependency) || null;
+    }
+
+    function isBlocked(task) {
+      if (task.status === "Blocked") return true;
+      const dependency = dependencyTask(task);
+      return Boolean(dependency && dependency.status !== "Done");
+    }
+
+    function statusBadgeClass(status) {
+      if (status === "Done") return "badge-success";
+      if (status === "Blocked") return "badge-error";
+      if (status === "Waiting") return "badge-warning";
+      if (status === "In progress") return "badge-accent";
+      return "badge-neutral";
+    }
+
+    function openModal(taskId = "") {
+      const task = data.tasks.find(item => item.id === taskId);
+      const isEdit = Boolean(task);
+      els.modalTitle.textContent = isEdit ? "Edit Task" : "Add Task";
+      els.deleteTaskBtn.style.visibility = isEdit ? "visible" : "hidden";
+      els.taskId.value = isEdit ? task.id : "";
+      els.taskTitle.value = isEdit ? task.title : "";
+      els.taskOwner.value = isEdit ? task.owner : "Team";
+      els.taskDone.value = isEdit ? task.done : "";
+      els.taskEvidence.value = isEdit ? task.evidence : "";
+      els.taskNotes.value = isEdit ? task.notes : "";
+
+      fillSelect(els.taskConfidence, data.confidenceOptions, isEdit ? task.confidence : "Needs owner");
+      fillSelect(els.taskFlow, data.columns.map(column => column.label), isEdit ? labelForFlow(task.flow) : data.columns[0].label);
+      fillSelect(els.taskStatus, data.statusOptions, isEdit ? task.status : "Not started");
+      renderDependencyOptions(isEdit ? task.dependency : "", taskId);
+
+      els.modal.classList.add("open");
+      setTimeout(() => els.taskTitle.focus(), 30);
+    }
+
+    function closeModal() {
+      els.modal.classList.remove("open");
+      els.taskForm.reset();
+    }
+
+    function renderDependencyOptions(selected = "", currentTaskId = "") {
+      const options = [`<option value="">No dependency</option>`].concat(
+        data.tasks
+          .filter(task => task.id !== currentTaskId)
+          .map(task => `<option value="${escapeHtml(task.id)}"${task.id === selected ? " selected" : ""}>${escapeHtml(task.title)}</option>`)
+      );
+      els.taskDependency.innerHTML = options.join("");
+    }
+
+    function taskFromForm() {
+      const existingId = els.taskId.value;
+      return {
+        id: existingId || makeId(els.taskTitle.value),
+        title: els.taskTitle.value.trim(),
+        flow: idForFlowLabel(els.taskFlow.value),
+        owner: els.taskOwner.value.trim() || "Team",
+        confidence: els.taskConfidence.value,
+        status: els.taskStatus.value,
+        dependency: els.taskDependency.value,
+        done: els.taskDone.value.trim(),
+        evidence: els.taskEvidence.value.trim(),
+        notes: els.taskNotes.value.trim()
+      };
+    }
+
+    function saveTask(event) {
+      event.preventDefault();
+      const task = taskFromForm();
+      if (!task.title) {
+        showToast("Task title is required");
+        return;
+      }
+      const existingIndex = data.tasks.findIndex(item => item.id === task.id);
+      if (existingIndex >= 0) {
+        data.tasks[existingIndex] = task;
+      } else {
+        data.tasks.push(task);
+      }
+      saveData("Task saved locally");
+      closeModal();
+      render();
+    }
+
+    function deleteCurrentTask() {
+      const taskId = els.taskId.value;
+      if (!taskId) return;
+      const task = data.tasks.find(item => item.id === taskId);
+      if (!task) return;
+      const confirmed = window.confirm(`Delete "${task.title}" from this local dashboard?`);
+      if (!confirmed) return;
+      data.tasks = data.tasks
+        .filter(item => item.id !== taskId)
+        .map(item => item.dependency === taskId ? { ...item, dependency: "" } : item);
+      saveData("Task deleted locally");
+      closeModal();
+      render();
+    }
+
+    function toggleTask(taskId) {
+      const task = data.tasks.find(item => item.id === taskId);
+      if (!task) return;
+      task.status = task.status === "Done" ? "Not started" : "Done";
+      saveData(task.status === "Done" ? "Marked done" : "Marked not started");
+      render();
+    }
+
+    function exportJson() {
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = `project-x-tasks-${new Date().toISOString().slice(0, 10)}.json`;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+      showToast("Exported current tasks as JSON");
+    }
+
+    function importJson(file) {
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = event => {
+        try {
+          const imported = normalizeData(JSON.parse(event.target.result));
+          data = imported;
+          saveData("Imported tasks and saved locally");
+          render();
+        } catch (error) {
+          showToast("Import failed: the file is not valid task JSON");
+        }
+      };
+      reader.readAsText(file);
+      els.importFile.value = "";
+    }
+
+    function resetToSeed() {
+      const confirmed = window.confirm("Reset this browser's task list to the original seed?");
+      if (!confirmed) return;
+      data = clone(seedData);
+      saveData("Reset to seed tasks");
+      render();
+    }
+
+    let toastTimer = null;
+    function showToast(message) {
+      els.toast.textContent = message;
+      els.toast.classList.add("show");
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => els.toast.classList.remove("show"), 2200);
+    }
+
+    els.addTaskBtn.addEventListener("click", () => openModal());
+    els.exportBtn.addEventListener("click", exportJson);
+    els.importBtn.addEventListener("click", () => els.importFile.click());
+    els.importFile.addEventListener("change", event => importJson(event.target.files[0]));
+    els.resetBtn.addEventListener("click", resetToSeed);
+    els.taskForm.addEventListener("submit", saveTask);
+    els.deleteTaskBtn.addEventListener("click", deleteCurrentTask);
+    els.closeModalBtn.addEventListener("click", closeModal);
+    els.cancelTaskBtn.addEventListener("click", closeModal);
+    els.modal.addEventListener("click", event => {
+      if (event.target === els.modal) closeModal();
+    });
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape" && els.modal.classList.contains("open")) closeModal();
+    });
+
+    [els.searchInput, els.ownerFilter, els.statusFilter, els.flowFilter].forEach(input => {
+      input.addEventListener("input", render);
+      input.addEventListener("change", render);
+    });
+
+    els.board.addEventListener("click", event => {
+      const target = event.target;
+      const taskId = target.dataset.taskId;
+      if (!taskId) return;
+      if (target.dataset.action === "edit") openModal(taskId);
+    });
+
+    els.board.addEventListener("change", event => {
+      const target = event.target;
+      const taskId = target.dataset.taskId;
+      if (target.dataset.action === "toggle" && taskId) toggleTask(taskId);
+    });
+
+    render();
+  </script>
+</body>
+</html>

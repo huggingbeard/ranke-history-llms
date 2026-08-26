@@ -1,0 +1,2241 @@
+{
+ "cutoff": 1929,
+ "validation": "zero word-boundary hits in 1,283 certified pre-1929 books",
+ "markers": [
+  {
+   "term": "third reich",
+   "source": "curated",
+   "df_modern": 13
+  },
+  {
+   "term": "luftwaffe",
+   "source": "curated",
+   "df_modern": 5
+  },
+  {
+   "term": "wehrmacht",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "gestapo",
+   "source": "curated",
+   "df_modern": 12
+  },
+  {
+   "term": "blitzkrieg",
+   "source": "curated",
+   "df_modern": 15
+  },
+  {
+   "term": "panzer division",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "nuremberg laws",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "nuremberg rally",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "sudeten crisis",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "munich agreement",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "kristallnacht",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "maginot line",
+   "source": "curated",
+   "df_modern": 9
+  },
+  {
+   "term": "vichy government",
+   "source": "curated",
+   "df_modern": 3
+  },
+  {
+   "term": "vichy france",
+   "source": "curated",
+   "df_modern": 2
+  },
+  {
+   "term": "quisling",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "lend-lease",
+   "source": "curated",
+   "df_modern": 19
+  },
+  {
+   "term": "pearl harbor attack",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "d-day",
+   "source": "curated",
+   "df_modern": 6
+  },
+  {
+   "term": "atomic bomb",
+   "source": "curated",
+   "df_modern": 10
+  },
+  {
+   "term": "a-bomb",
+   "source": "curated",
+   "df_modern": 2
+  },
+  {
+   "term": "manhattan project",
+   "source": "curated",
+   "df_modern": 7
+  },
+  {
+   "term": "battle of britain",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "dunkirk evacuation",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "kamikaze",
+   "source": "curated",
+   "df_modern": 7
+  },
+  {
+   "term": "penicillin",
+   "source": "curated",
+   "df_modern": 9
+  },
+  {
+   "term": "nylon",
+   "source": "curated",
+   "df_modern": 15
+  },
+  {
+   "term": "radar",
+   "source": "curated",
+   "df_modern": 27
+  },
+  {
+   "term": "positron",
+   "source": "curated",
+   "df_modern": 4
+  },
+  {
+   "term": "cyclotron",
+   "source": "curated",
+   "df_modern": 5
+  },
+  {
+   "term": "plutonium",
+   "source": "curated",
+   "df_modern": 7
+  },
+  {
+   "term": "neptunium",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "sulfanilamide",
+   "source": "curated",
+   "df_modern": 4
+  },
+  {
+   "term": "antibiotics",
+   "source": "curated",
+   "df_modern": 12
+  },
+  {
+   "term": "streptomycin",
+   "source": "curated",
+   "df_modern": 3
+  },
+  {
+   "term": "ballpoint pen",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "jet propulsion",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "bazooka",
+   "source": "curated",
+   "df_modern": 2
+  },
+  {
+   "term": "walkie-talkie",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "television broadcast",
+   "source": "curated",
+   "df_modern": 4
+  },
+  {
+   "term": "television set",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "social security act",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "works progress administration",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "civilian conservation corps",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "keynesian",
+   "source": "curated",
+   "df_modern": 5
+  },
+  {
+   "term": "gross national product",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "supermarket",
+   "source": "curated",
+   "df_modern": 9
+  },
+  {
+   "term": "drive-in",
+   "source": "curated",
+   "df_modern": 6
+  },
+  {
+   "term": "jitterbug",
+   "source": "curated",
+   "df_modern": 1
+  },
+  {
+   "term": "five-year plan",
+   "source": "curated",
+   "df_modern": 8
+  },
+  {
+   "term": "collectivization",
+   "source": "curated",
+   "df_modern": 11
+  },
+  {
+   "term": "gulag",
+   "source": "curated",
+   "df_modern": 2
+  },
+  {
+   "term": "nkvd",
+   "source": "curated",
+   "df_modern": 5
+  },
+  {
+   "term": "politburo member",
+   "source": "curated",
+   "df_modern": 3
+  },
+  {
+   "term": "united nations organization",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "flying fortress",
+   "source": "curated",
+   "df_modern": 3
+  },
+  {
+   "term": "aircraft carrier task force",
+   "source": "curated",
+   "df_modern": 0
+  },
+  {
+   "term": "sponsored",
+   "source": "mined",
+   "df_modern": 117
+  },
+  {
+   "term": "broadcasting",
+   "source": "mined",
+   "df_modern": 92
+  },
+  {
+   "term": "basically",
+   "source": "mined",
+   "df_modern": 78
+  },
+  {
+   "term": "airport",
+   "source": "mined",
+   "df_modern": 68
+  },
+  {
+   "term": "mussolini",
+   "source": "mined",
+   "df_modern": 63
+  },
+  {
+   "term": "contacted",
+   "source": "mined",
+   "df_modern": 61
+  },
+  {
+   "term": "phoned",
+   "source": "mined",
+   "df_modern": 60
+  },
+  {
+   "term": "fascism",
+   "source": "mined",
+   "df_modern": 59
+  },
+  {
+   "term": "television",
+   "source": "mined",
+   "df_modern": 58
+  },
+  {
+   "term": "soviet union",
+   "source": "mined",
+   "df_modern": 57
+  },
+  {
+   "term": "slumped",
+   "source": "mined",
+   "df_modern": 55
+  },
+  {
+   "term": "over radio",
+   "source": "mined",
+   "df_modern": 54
+  },
+  {
+   "term": "coordinator",
+   "source": "mined",
+   "df_modern": 53
+  },
+  {
+   "term": "sponsoring",
+   "source": "mined",
+   "df_modern": 52
+  },
+  {
+   "term": "broadcasts",
+   "source": "mined",
+   "df_modern": 51
+  },
+  {
+   "term": "implementation",
+   "source": "mined",
+   "df_modern": 50
+  },
+  {
+   "term": "fascist",
+   "source": "mined",
+   "df_modern": 50
+  },
+  {
+   "term": "executive director",
+   "source": "mined",
+   "df_modern": 49
+  },
+  {
+   "term": "highlights",
+   "source": "mined",
+   "df_modern": 48
+  },
+  {
+   "term": "hitler's",
+   "source": "mined",
+   "df_modern": 47
+  },
+  {
+   "term": "implementing",
+   "source": "mined",
+   "df_modern": 46
+  },
+  {
+   "term": "airports",
+   "source": "mined",
+   "df_modern": 46
+  },
+  {
+   "term": "operational",
+   "source": "mined",
+   "df_modern": 45
+  },
+  {
+   "term": "allegedly",
+   "source": "mined",
+   "df_modern": 45
+  },
+  {
+   "term": "telephone call",
+   "source": "mined",
+   "df_modern": 45
+  },
+  {
+   "term": "totalitarian",
+   "source": "mined",
+   "df_modern": 44
+  },
+  {
+   "term": "allocations",
+   "source": "mined",
+   "df_modern": 44
+  },
+  {
+   "term": "peacetime",
+   "source": "mined",
+   "df_modern": 44
+  },
+  {
+   "term": "labor relations",
+   "source": "mined",
+   "df_modern": 44
+  },
+  {
+   "term": "non-profit",
+   "source": "mined",
+   "df_modern": 44
+  },
+  {
+   "term": "yugoslavia",
+   "source": "mined",
+   "df_modern": 43
+  },
+  {
+   "term": "approximately percent",
+   "source": "mined",
+   "df_modern": 43
+  },
+  {
+   "term": "nonetheless",
+   "source": "mined",
+   "df_modern": 42
+  },
+  {
+   "term": "most outstanding",
+   "source": "mined",
+   "df_modern": 42
+  },
+  {
+   "term": "services provided",
+   "source": "mined",
+   "df_modern": 42
+  },
+  {
+   "term": "motivating",
+   "source": "mined",
+   "df_modern": 41
+  },
+  {
+   "term": "airlines",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "kidding",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "armed services",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "hospitalization",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "nothing worry",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "lindbergh",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "sensed that",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "setup",
+   "source": "mined",
+   "df_modern": 40
+  },
+  {
+   "term": "wildlife",
+   "source": "mined",
+   "df_modern": 39
+  },
+  {
+   "term": "okay",
+   "source": "mined",
+   "df_modern": 38
+  },
+  {
+   "term": "servicing",
+   "source": "mined",
+   "df_modern": 38
+  },
+  {
+   "term": "automotive",
+   "source": "mined",
+   "df_modern": 38
+  },
+  {
+   "term": "unrealistic",
+   "source": "mined",
+   "df_modern": 37
+  },
+  {
+   "term": "vitamins",
+   "source": "mined",
+   "df_modern": 37
+  },
+  {
+   "term": "industrialized",
+   "source": "mined",
+   "df_modern": 36
+  },
+  {
+   "term": "committee study",
+   "source": "mined",
+   "df_modern": 36
+  },
+  {
+   "term": "columnist",
+   "source": "mined",
+   "df_modern": 36
+  },
+  {
+   "term": "gangsters",
+   "source": "mined",
+   "df_modern": 36
+  },
+  {
+   "term": "securities exchange",
+   "source": "mined",
+   "df_modern": 36
+  },
+  {
+   "term": "that percent",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "culturally",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "minority groups",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "streamlined",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "nazis",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "inferiority complex",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "percent this",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "industrialization",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "develop- ment",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "exchange commission",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "gangster",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "soil conservation",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "what's idea",
+   "source": "mined",
+   "df_modern": 35
+  },
+  {
+   "term": "motivate",
+   "source": "mined",
+   "df_modern": 34
+  },
+  {
+   "term": "publicized",
+   "source": "mined",
+   "df_modern": 34
+  },
+  {
+   "term": "departments agencies",
+   "source": "mined",
+   "df_modern": 33
+  },
+  {
+   "term": "businessman",
+   "source": "mined",
+   "df_modern": 33
+  },
+  {
+   "term": "program designed",
+   "source": "mined",
+   "df_modern": 33
+  },
+  {
+   "term": "envisioned",
+   "source": "mined",
+   "df_modern": 33
+  },
+  {
+   "term": "radio programs",
+   "source": "mined",
+   "df_modern": 33
+  },
+  {
+   "term": "tax-exempt",
+   "source": "mined",
+   "df_modern": 33
+  },
+  {
+   "term": "monitoring",
+   "source": "mined",
+   "df_modern": 32
+  },
+  {
+   "term": "guidelines",
+   "source": "mined",
+   "df_modern": 32
+  },
+  {
+   "term": "major political",
+   "source": "mined",
+   "df_modern": 32
+  },
+  {
+   "term": "reconstruction finance",
+   "source": "mined",
+   "df_modern": 32
+  },
+  {
+   "term": "atomic energy",
+   "source": "mined",
+   "df_modern": 32
+  },
+  {
+   "term": "highlight",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "lipstick",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "radio station",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "defense program",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "program under",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "valley authority",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "let's forget",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "fingerprints",
+   "source": "mined",
+   "df_modern": 31
+  },
+  {
+   "term": "contacting",
+   "source": "mined",
+   "df_modern": 30
+  },
+  {
+   "term": "today about",
+   "source": "mined",
+   "df_modern": 30
+  },
+  {
+   "term": "research program",
+   "source": "mined",
+   "df_modern": 30
+  },
+  {
+   "term": "inflationary",
+   "source": "mined",
+   "df_modern": 30
+  },
+  {
+   "term": "education program",
+   "source": "mined",
+   "df_modern": 30
+  },
+  {
+   "term": "doorman",
+   "source": "mined",
+   "df_modern": 30
+  },
+  {
+   "term": "union soviet",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "trade barriers",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "federal budget",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "program other",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "deadline",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "cooperatively",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "cellophane",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "development program",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "mechanization",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "outmoded",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "totalitarianism",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "windshield",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "major problem",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "security administration",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "federal agency",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "racketeers",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "free enterprise",
+   "source": "mined",
+   "df_modern": 29
+  },
+  {
+   "term": "international organizations",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "program from",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "office space",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "training programs",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "research projects",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "programs this",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "economic cultural",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "sulfur",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "plastics",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "percent from",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "greenberg",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "glamorous",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "agricultural adjustment",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "pulitzer",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "avail- able",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "midwest",
+   "source": "mined",
+   "df_modern": 28
+  },
+  {
+   "term": "other programs",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "low-income",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "radar",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "radio broadcasting",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "assistance program",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "equip-",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "packaging",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "increase percent",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "major source",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "meticulously",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "business practices",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "consumer goods",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "columnists",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "fascists",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "balance budget",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "percent increase",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "underprivileged",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "home loan",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "planning commission",
+   "source": "mined",
+   "df_modern": 27
+  },
+  {
+   "term": "role this",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "phone call",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "farm credit",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "programs with",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "marilyn",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "imbalance",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "electronics",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "unemployment compensation",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "reportedly",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "percent over",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "night clubs",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "radio program",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "oslo",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "national recovery",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "sales taxes",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "shapiro",
+   "source": "mined",
+   "df_modern": 26
+  },
+  {
+   "term": "frustrations",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "press release",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "major role",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "property damage",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "government today",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "vitamin",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "pro- duction",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "estab- lished",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "housing authority",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "rate percent",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "security agency",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "public housing",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "inter- national",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "program were",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "bureau budget",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "fingerprint",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "educational programs",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "your telephone",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "baseball game",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "wryly",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "into bathroom",
+   "source": "mined",
+   "df_modern": 25
+  },
+  {
+   "term": "policies practices",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "major changes",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "highlighted",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "someone from",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "selectively",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "currently being",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "mini-",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "related problems",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "committee print",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "duke university",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "community chest",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "export-import",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "streamline",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "listings",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "economic committee",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "program does",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "areas united",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "programs were",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "security program",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "undernourished",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "such programs",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "minimum standards",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "local level",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "hesitantly",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "training center",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "dance floor",
+   "source": "mined",
+   "df_modern": 24
+  },
+  {
+   "term": "pressure groups",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "someone been",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "authoritarian",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "substandard",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "all-time",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "research council",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "monitored",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "thailand",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "metropolitan areas",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "equip- ment",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "american telephone",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "federal deposit",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "on-site",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "program during",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "program carried",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "racketeering",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "postwar period",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "percent these",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "serviced",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "include provision",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "showdown",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "gadgets",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "phone calls",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "program such",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "sidelines",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "their problem",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "bargain collectively",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "federal home",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "done today",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "state planning",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "washington sale",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "present program",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "railroad retirement",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "nazism",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "federal expenditures",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "rural electrification",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "rearmament",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "national youth",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "taxi driver",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "suitcases",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "peeved",
+   "source": "mined",
+   "df_modern": 23
+  },
+  {
+   "term": "wishful thinking",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "scenario",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "which currently",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "update",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "development programs",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "percent population",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "innovative",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "programs such",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "annual basis",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "interest groups",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "today want",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "active role",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "pro- vide",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "pro- gram",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "devel- oped",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "soviet socialist",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "leningrad",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "estonia",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "ussr",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "con- ditions",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "kathryn",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "insurance program",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "administrative assistant",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "commodity credit",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "educa- tion",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "from program",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "just today",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "federal housing",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "minority group",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "socialist republics",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "time anyway",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "dulles",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "export-import bank",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "radio broadcasts",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "business today",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "health protection",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "federal-state",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "governors federal",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "budgeted",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "that unemployment",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "attack problem",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "american workers",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "enforcement officers",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "front-page",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "percent income",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "program also",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "eisenhower",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "national average",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "last-minute",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "much percent",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "insurance premium",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "period approximately",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "policies procedures",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "communications commission",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "fish wildlife",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "personal contacts",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "economic stability",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "program being",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "conservation corps",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "under- standing",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "program state",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "landscaping",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "haphazardly",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "truck driver",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "radio television",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "those guys",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "gainfully employed",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "about maybe",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "grandstand",
+   "source": "mined",
+   "df_modern": 22
+  },
+  {
+   "term": "civil aeronautics",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "high priority",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "areas world",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "someone could",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "visas",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "insurance benefits",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "vietnam",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "technologies",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "full-scale",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "high-quality",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "research activities",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "loan program",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "there basic",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "development federal",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "service personnel",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "capita income",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "programs also",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "housing units",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "overview",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "federal program",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "fur- ther",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "packaged",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "infor- mation",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "trainees",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "sys- tems",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "intelligentsia",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "some- thing",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "prior amendment",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "process clause",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "produc- tion",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "program their",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "roosevelt administration",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "enforcement agencies",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "liaison between",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "basic purpose",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "national research",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "coun- tries",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "individual income",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "balancing budget",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "scientists engineers",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "foreign economic",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "industrial recovery",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "geographical areas",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "pro- vided",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "through cooperative",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "hitler mussolini",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "about today",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "civilian conservation",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "program most",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "united press",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "special programs",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "percent other",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "trying figure",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "whole program",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "agricultural commodities",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "newspaperman",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "preview",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "development projects",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "through research",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "knowl- edge",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "exceed percent",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "percent above",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "five percent",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "today people",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "full cooperation",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "referral",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "group's",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "program training",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "right let's",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "midwestern",
+   "source": "mined",
+   "df_modern": 21
+  },
+  {
+   "term": "into discard",
+   "source": "mined",
+   "df_modern": 21
+  }
+ ]
+}

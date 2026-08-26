@@ -1,0 +1,891 @@
+LITTAUER LIBRARY 
+
+with alternative developments of thermal electric power. 1963. LI 4JGE 6 T35x 
+
+Tak, Herman G van der 
+
+The economic comparison of hydroelectric projects with alternative developments of thermal electric power. 1963.
+
+TK SNR 1001 
+
+Report No. EC-117 
+
+T35x This report may not be published nor may it be quoted as representing the view of the Bank and its affiliated organizations. They do not accept responsibility for its accuracy or completeness.
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT INTERNATIONAL DEVELOPMENT ASSOCIATION THE ECONOMIC COMPARISON OF HYDROELECTRIC PROJECTS LITTAUER LIBRARY 
+
+WITH 
+
+HARVARD UNIVE ALTERNATIVE DEVELOPMENTS 
+
+OCT 31 1965 
+
+OF THERMAL ELECTRIC POWER 
+
+July 15, 1963
+
+Economic Staff 
+
+Prepared by: Herman G. van der Tak
+
+TABLE OF CONTENTS Page No. 
+
+Introduction.... 
+
+A. Comparison of hydro and thermal power alternatives: 
+
+General shape of the problem.....
+
+B. Impact of variations in costs and prices on return on additional hydro investment....... 
+
+Use of sub-cashflows for cost components... 
+
+Impact of different cost estimates........ C. Impact of different growth of load on return on additional hydro investment 
+
+Higher load actual case. 
+
+Stylized examples of different patterns of load growth. 10 
+
+Effect of different cost data..
+
+Curvilinear growth of load....... 
+
+D. Summary and Conclusions. 
+
+12 13 14
+
+-- ii 
+
+TABLE OF CONTENTS 
+
+Lower Load 
+
+Lower Load Hydro Development Thermal Development Hydro Development 
+
+Higher load 
+
+Cash Flow of Costs - Thermal Development Higher Load Summary of Present Worth of Costs (Lower Load Development) Present Worth of Costs: Comparison of Higher and Lower Load 
+
+Development, 1962-2028) 
+
+TABLES 
+
+1. 
+
+Cash Flow of Costs 
+
+235 2. 
+
+Cash Flow of Costs 
+
+3.
+
+Cash Flow of Costs 
+
+4. 5. 6. 72. 7b. 8. 9. 10a. 10b.
+
+Different Patterns of Growth of Load: Simplified Cash Flows of Alternative Hydro and Thermal Investments Different Patterns of Growth of Load: Simplified Cash Flows of Alternative Hydro and Thermal Investments Present Worth of Costs of Hydro/Thermal Alternatives for Different Loading Times Influence of Different Proportions of Basic Costs on Relation Between Rate of Return and Loading Time Some Stylized Curvilinear Patterns of Load Growth: Simplified Cash Flows of Alternative Hydro and Thermal Investments Some Stylized Curvilinear Patterns of Load Growth: Simplified Cash Flows of Alternative Hydro and Thermal Investments CHARTS 
+
+1 2 3 → 1. 
+
+Comparison of Cash Flows of Hydro and Thermal Development Lower Load 
+
+2. 3. 40 
+
+Illustrative Patterns of Load Growth Relationship Between Rate of Return on Investment in Hydro and Length of Loading Time of Dam Return on Hydro Investment for Different Load Growth
+
+The Economic Comparison of Hydroelectric Projects with Alternative Developments of Thermal Electric Power Introduction 
+
+1. 
+
+The essence of the economic evaluation process is determining whether a project involves a better use of resources than its possible alternatives. 
+
+In many cases the alternatives themselves may not be clear and the comparisons have to be approximated. This is the purpose of using a minimum rate of return as representing what capital might earn in alternative uses, or what is known as the "opportunity cost of capital". If a project is expected to yield less than this minimum, it should not be undertaken for there are presumably more productive uses for capital elsewhere. 
+
+The case where specific alternatives are under consideration representing different ways of producing the same good or service whose need is given is a special type of this general problem. In this case the immediate comparison is clear. The choice is limited to the given alternatives, one of which must be selected. The "opportunity cost of capital" comes into the problem in helping to determine which of the alternatives involves the most economical use of resources in the light of general investment opportunities in the economy. 2. 
+
+An excellent example of this special type is the comparison of alternative methods of producing electric power. A KWH is a KWH, whatever way it is produced. The question is which method of generation is the cheapest. 
+
+This is an important problem in practice since it is at the basis of the economic appraisal of all hydroelectric projects, In some cases the answer is obvious. The cost of fuel may be very high and the cost of constructing hydro plants very low. In important cases, however, more detailed analysis of the alternatives may be essential to the appraisal and although the problem of determining the least expensive solution may be simple in concept, the analysis itself may not be so. 
+
+3. It is the purpose of this paper to set down in a systematic way a logically correct method for handling the economic comparison of alternative power developments. The discounted cash flow method of computing returns which is used here has come to be generally accepted ir. recent years. 
+
+There is no need to give a detailed justification of this approach at this date; that has already been done most competently by others. 1/ However, there is merit in working out an example of a specific and important application. By focussing on the technique itself and pointing out ways in which the analysis may be simplified this paper may be of particular use to others faced with similar appraisal problems. It should go without saying that the less an appraisal mission has to concern itself with problems of method, the more it can concentrate on the essential aspects of its analysis. 
+
+See; for example, "Project Evaluation I, The Return on Capital", B.B. King, EDI Seminar Paper, 1960; Principles of Engineering Economy, E.L. Grant and W.G. Ireson, N.Y., 1960; Water Supply, Economics, Technology and Policy, J. Hirshleifer, J.C. DeHaven and J.W. Milliman, Chicago 1960. 
+
+(See especially Chapter VII.)
+
+40 Furthermore if the method is well understood and if some preliminary appraisal has already been made by consultants, the sensitivity of the results to changes in key data can be worked out in advance so that effort in the field may be concentrated on the most critical items. If lack of provisional data prevents this, the same procedure can be applied to the mission's own preliminary results, so that critical variables may be pinpointed at this later stage and subjected to further scrutiny. In any case such analysis is required to determine under what conditions, if any, the project is justified. This is particularly important if estimates of future developments have to depend on decisions which have still to be made and which could materially affect the attractiveness of a project. 5.
+
+This paper deals with the specific problem of comparing alternative developments of a power system to supply a demand for power (KW) and energy (KWH) that must be met.1/ It is essentially a comparison of a 
+
+However, the method hydro with a thermal system of development. employed need not necessarily be confined to comparisons of power projects. Any possible set of alternatives could be compared and in fact the method could equally well be applied to any number of alternatives. 
+
+6. To make the demonstration realistic the data used in this paper are in large part based on the preliminary work sheets of an actual project. 
+
+The following section briefly discusses the application of discounted cash flow methods to a comparison of hydro and thermal system developments, with special reference to the appropriate length of the cash flow. It is followed by an analysis of the effect of variations in cost estimates on the results of the calculations. The final part deals with the effect of different patterns of growth of demand for power on the economic appraisal of the project. 7.
+
+A. Comparison of hydro and thermal power alternatives: 
+
+General shape of the problem In comparing alternative ways to produce the same output, the economic selection problem is simply to determine which way is the cheapest. In the particular problem under consideration, it is assumed that the demand for power should be met.2/ The question is not whether to invest in power or in some other sector but rather which type of power investment represents the best use of resources, given the decision to invest in power. In other words, benefits from the investment however measured are the same regardless of which system of development is chosen, only the costs are different. 
+
+1/ In the case considered here it is assumed that there are no irrigation, navigation or flood control benefits associated with the hydro project. 
+
+Where this is not the case the problem of analysis is more complicated since the investment cost of the hydro power cannot be determined simply. 
+
+2/ Techniques of estimating future demands for power, and of designing corresponding system developments, are not discussed here. This paper is concerned only with the analysis of the data thus obtained.
+
+--  8. The comparison of costs between the two alternatives is not straightforward, as alternatives have decidedly different patterns of expenditures over time. Typically the hydro alternative will involve higher expenditures in the early years and the thermal alternative higher expenditures in the later years.
+
+In a simplified way, the choice can be stated in terms of whether higher investment costs of hydro in the early years are or are not justified by its lower operating costs in the later years.1/ The only way a proper comparison can be made between series of expenditures with different time patterns (cash flows) is by making specific allowance for the time factor and summing them up as of a particular point in time. This is accomplished by discounting the two cash flows to a common year. 
+
+The sum of the discounted values, that is the "present values", can then be compared directly. This procedure involves three types of decisions what is to be included in the costs or expenditures, over what length of time should the computations be extended, and what interest rate should be used for discounting. 
+
+9. In the calculation of costs only actual expenditures on goods and services should be included and these should be entered in the year in which they occur. Financial charges and accounting items, such as interest, depreciation and amortization, should be excluded. Depreciation and interest on capital investment are taken into account by the discounting procedure itself. Amortization and interest on loans are financial items dependent on specific terms of financing and not inherent in the nature of the project. They are not relevant for the economic appraisal. 
+
+10. The length of time over which the cash flow should be extended depends on circumstances, and falls into two parts. The first period covers the years of expansion of the system. This should be continued until the year whereafter the relative costs of alternative ways of further expanding the system is no longer significantly prejudiced by the investment decision now taken. This delineates the alternative system developments to be compared at this time. Often this will be the year of full utilization of the power capacity of a hydro dam.2/ For the purpose of calculating the return on additional hydro investment, expansion of the system stops in this year.
+
+The cash flow, however, should be further extended, for a second period which should extend until differences in costs of operating the alternative systems at the constant level reached became insignificant in terms of their discounted present worth. These costs involve not only expenses for full maintenance and current operation, but also for replacement investments, the latter being entered in the year in which they fall due. 
+
+This applies to necessary replacement both of existing plant and of new plant installed during the expansion period. Replacement does not necessarily consist of exactly the same units as previously installed. It may be more reasonable to replace them by units of a larger size, more appropriate to the level of output reached in the meanwhile. For thermal plant, lifetime 
+
+17 This is illustrated in Chart 1 for a complicated and realistic case; see paragraph 14 below. 2/ This is not necessarily so. Building the dam may make possible a later second stage of the project or construction of a dam elsewhere in the same river system, providing cheaper additional power than from alternative thermal plants. As long as the present investment decision significantly influences such later investment choices, the expansion of the system should be extended for purpose of appraisal.
+
+is usually taken to be 30 years and for hydro plants 60 years. Life of dam and reservoir may be longer still. 
+
+11. Finally, these flows of costs should be compared. The same answer may be obtained by different methods. One method is to find, by trial and error, the rate of discount which equalizes the present worth of the two cost streams to be compared. Alternatively, the same result may be obtained by deducting the thermal cost stream from the hydro cost stream, thus obtaining one stream of positive and negative items, as shown by the dotted line in Chart 1. The positive items are the additional costs of the hydro alternative, and occur mainly in the earlier years; the negative items are the savings in cost of the hydro alternative ("its benefits"). 
+
+The discount rate which equalizes the present worth of the positive and of the negative items will be the same as the one which equalizes the present value of the two separate cost streams and may be thought of as the rate of return on the additional (initial) investment in the hydro alternative. 
+
+12. The rate of return thus obtained should be compared with the estimated opportunity cost of capital (the so-called shadow rate of interest) in order to assess whether the return is adequate. Alternatively, this same rate (opportunity cost of capital) may be used to obtain the present worth of the cost streams of the two alternatives. The alternative with the lowest cost, in terms of present worth, should be considered the better project.
+
+B. Impact of variations in costs and prices on return on additional hydro investment 13. The foregoing exposition has been concerned only with the form of the calculations. It assumes that all the necessary data on costs and markets are given. In actual appraisals, however, the available data are often incomplete and always of varying quality. For some items, reliable cost estimates may be relatively easy to obtain; for others, data may simply not exist. In some cases, it may be possible to relate the projections of demand to firmly-based future trends in its main determinants; in other cases this may not be so, especially if the future demand is expected to be heavily dependent on particular investments in power intensive industries, which may or may not take place at a given time. 
+
+Furthermore, the cost of foreign exchange may be undervalued and the cost of labor overvalued in terms of their real cost to the economy. Thus the appraisal must be made on the basis of data with widely differing degrees of reliability. It is necessary to appraise the data, improve them where possible, organize them so as to give an answer within the limits of their accuracy, and so come up with a judgment on the overall economic merits of the project. It is thus obviously important to be able to determine the effect of variations in the main cost and demand parameters of the problem on the overall outcome; only then can efforts of estimation, and necessary judgments, be focused on the most critical elements of the appraisal. This part of the study (B) will consider ways of estimating the impact of variations in costs. The influence of different demand patterns will be taken up in the final part (C).
+
+Use of sub-cashflows for cost components 14. Tables 1 and 2 show detailed cash flows for the hydro development and thermal development,1/ respectively, both to meet the "lower" load.2/ The column "total", represented in Chart 1, is the only one required for calculating the return on the higher initial investment necessary in the hydro development. As will be noted, the present worth of the cash cost streams of both hydro and thermal development are about 1260 thousand, when discounted at 72%. This indicates that the return on the additional hydro investment is 7%. For a convenient check on the extent to which this outcome is altered if some of the cost items were different, the cash flows can be broken down by components as shown in Tables 1 and 2. The degree of disaggregation, and the categories of cost selected, depend upon the particular case to be investigated but, as a minimum, such items as dam, hydro units, thermal plant and fuel costs should be specified. The various sub-cashflows, for each of the cost components, are then discounted at 7%. 
+
+The results are shown at the bottom of Tables 1 and 2, and summarized in Table 5. The present worth has been calculated separately for costs occurring in the period 1962-1980 (the expansion period) and 1981-2028 (the constant period). Thus it is possible to distinguish the influence of costs occurring in either period on the return obtained. 
+
+15. Tables 1 and 2, and summary Table 5, also show the present worth of the cost flows if discounted at 83%. Normally at least two calculations at different discount rates have to be made in order to arrive, by trial and error, at the rate which equalizes the present worth of the costs of the alternatives. These calculations also give a rough indication of what is a "significant" change in the underlying cost estimates. Table 5 shows, for example, that a difference in discount rate of one per cent (between 7 and 8%) results in a difference of "70" in the total present worth.
+
+By crude linear interpolation this indicates that a difference of "35" in present worth is equivalent to a change of one-half of one per cent in the rate of return for variations around 8%. 
+
+16. From Table 5, it is apparent that the outcome depends heavily on the present worth of the cost estimates of the dam, hydro units, thermal plants, fuel, and possibly operating cost of production plant. For instance, a 20% reduction in the cost of the dam would change the return on the hydro investment by about one percentage point. A rise of close to 30% in the fuel price would have the same effect. It should be noticed that the "weights" - i.e. the present worth of the various cost items decline at higher discount rates, so that somewhat greater percentage changes in costs are necessary to produce a change in the return of, say, one percentage point, than those indicated by the present worth figures obtained at 7%. The effect is small, however, for small changes in the discount rate, except for items such as fuel costs where a large part of the difference in present 
+
+1/ Hydro development and thermal development refer to alternative system developments; the hydro alternative does, in fact, include some use of thermal plants, as may be seen from Table 1. 
+
+2/ A more rapid growth of demand for power the "higher" load - is discussed in part C below; cf. Tables 3 and 4.
+
+worth between hydro and thermal alternatives occurs in the later years (1981-2028). Some of the other items - for example, the operating cost of the transmission lines are small so that even a 50% change in the estimate affects the total present worth (and the return) only marginally. Others, 
+
+such as investment in transmission (230 kv) and frequency conversion, are substantial, but any change in the cost estimates affects the thermal and hydro alternatives almost equally. Similarly the possible impact of underor overestimation of the large item "operating costs of production plant" may be much reduced by offsetting changes for both alternatives.1/ 
+
+17. Offsetting items, in terms of present worth, may obviously result simply from the same item occurring in the same year in the basic cash flows of both alternatives. In practical application, such items would have been eliminated beforehand, (that is, before making the present worth calculations) in order to economize on computing time. Comparison of Tables 1 and 
+
+2 will show that this would eliminate columns "transmission 115 kv" and "frequency conversion", and a good many items in the columns "transmission 230 kv" and "thermal plant".2 Items of the same order of magnitude in the same year will similarly (largely) cancel out. Offsetting items in terms of present worth may also result, however, from the discounting process itself. Thus the difference in fuel costs is much reduced by the fact that costs are roughly the same for both alternatives in the early years and only differ greatly later on. 
+
+Impact of different cost estimates 18. Costs different from those shown in the basic cash flows of Tables 1 and 2 may be due to under- or overestimation of physical inputs required, and/or of prices of inputs. Amongst the physical inputs, it is especially difficult to estimate accurately the input requirements of the dam. 
+
+Difference of opinion is also possible on the fuel efficiency of thermal plants and other items. It will be clear by now, however, that the quantitative significance of such differences can easily be analysed by reference to Table 5. If, for example, the operating costs of thermal plant (excluding fuel) had been systematically underestimated by 25%, their present worth at 7% would have to be adjusted upward by 25%, and this would be equivalent to an increase of about 1% in the true return on hydro investment. 
+
+It also becomes easy to see, for example, that under-estimating labor efficiency in thermal plants by 20% in the period 1962-1980, and overestimating it by 10% in the later period 1981-2028, would result in raising the return by close to one-half of one per cent. 
+
+19. Similarly, one can easily investigate the effect of using prices other than those used in the basic cash flows. There is bound to be some uncertainty in the estimates of future market prices. The analyst may also wish to determine the effect of using so-called shadow prices for example, for foreign exchange, wage rates, fuel, etc. if he has reason to think that market prices do not give a reasonable approximation of 
+
+This is true if the under-estimate is due to the wage rate, affecting both alternatives. The error may be due, however, to different efficiency in use of labor in thermal plants, affecting mainly the thermal alternative (see below, paragraph 18). The same composite item "operating cost of production plant" in the cash flow of both alternatives is somewhat misleading as it refers largely to different costs - for thermal plants and hydro plants respectively. It would have been preferable to distinguish those in the cash flows. 
+
+2/ Cf. footnote 1/ above.
+
+-economic value to the country as a whole. To illustrate, what is the effect of a revision of the exchange rate downward by 20% on the return on hydro investment? The outcome depends, of course, on the foreign exchange component of the various cost items. Let us assume that in our example the foreign exchange components and thus the increases in costs resulting from lowering (devaluing) the exchange rate by 20% throughout the period 1962-2028, are as follows:
+
+Item 
+
+Dam
+
+Hydro units 
+
+Thermal units 
+
+Transmission Other Foreign exchange component per cent 50 80 88 75 80 
+
+Increase in cost resulting from 
+
+20% lower foreign exchange rate per cent 10 16 15 16 02265 20.
+
+The cost of the hydro alternative in terms of present worth at 7%, therefore, will rise by 10% of 331 (dam) plus 16% of 265 (hydro units) plus 16% of 105 (additional transmission) = 91; and the cost of the thermal alternative (in terms of present worth), will rise by 15% of 361 (additional thermal plant) 54. Thus the relative cost of the hydro alternative goes up by 37, and the return on investment in hydro goes down by about one-half per cent. 
+
+21. In similar fashion one can investigate whether a shadow wage rate for unskilled labor makes much difference to the return on the hydro investment. 
+
+If, for example, unskilled labor amounts only to 2% of the total cost of the dam which is an actual though probably extreme case - an adjustment in the wage rate can at most lower the cost of the dam by 2% - with a negligible effect on the return. In such a case it is, therefore, not necessary to devote time and energy to trying to find a proper value for the shadow wage rate of unskilled labor. 22.
+
+The question may also arise whether the market price for cement is appropriate for the economic evaluation of the alternatives. Large overcapacity in a local cement industry may argue for using a lower price. 
+
+Is this significant? Once again, it depends upon the "cement content" of the dam. If this is, say, 8%, a 12% reduction in the cement price lowers the dam costs by one per cent, i.e., an insignificant amount. 
+
+Relatively small adjustments in the cement price are therefore irrelevant. 
+
+Even a 50% reduction in the cement price results only in 4% lower dam costs, and an increase of less than one-quarter of one per cent in the return on the investment in the hydro alternative. 
+
+23. Thus the order of magnitude of the impact of various adjustments in input prices on the return can be established. This kind of analysis brings out whether further refinement of the estimates made is worthwhile or not. Adjustments so small as not to affect the return calculation are irrelevant, and the analyst is better employed trying to estimate the crucial variables.
+
+. 824. As already pointed out above, one of the crucial variables in hydro/ thermal comparisons is the price of fuel. In this particular case a 
+
+15% change upward or downward in the fuel price changes the return of the hydro investment by approximately one-half of one per cent. The form of the analysis also permits experimentation with more complicated changes in fuel prices, varying over time.1/ If there is reason for thinking that fuel prices will later, say, from 1981 onward, be higher or lower than at present, the quantitative significance of this can easily be established.2/ 
+
+Present fuel costs to the economy may be low because of overcapacity in fuel production itself or in transport facilities. In due course, overcapacity may disappear, or alternative uses may develop for a fuel such as natural gas, and a higher price may become appropriate. The present analysis can show how sensitive the return on the hydro investment is to such changes in fuel prices. 
+
+C. Impact of different growth of load on return on additional hydro investment 
+
+Higher load actual case 
+
+The 
+
+25. The return on the hydro investment will tend to be higher, of course, if the capacity of the dam can be fully utilized at an earlier date. initial capital costs of the dam will then weigh less heavily on the hydro alternative. This is illustrated in Tables 3 and 4, which are similar to Tables 1 and 2 except that the system development is geared to a more rapid rate of growth of the power load. As a result, the capacity of the dam is fully utilized by 1979, and not by 1981 as in the previous example. 
+
+Consequently the return on the additional hydro investment is somewhat higher, about 8%, as will be seen by comparing the figures for present worth of total cost, at 7% and 82% respectively, shown at the bottom of the tables. 
+
+26. Comparison of the present worth of cost components for the "higher" and "lower" load system development (summarized in Table 6), indicates more precisely the reason for the greater return with the "higher" load. 
+
+With more rapid growth of the load, the present worth of costs of hydro units rises somewhat for the hydro alternative, and the present worth of costs of thermal plant rises rather more for the thermal alternative. 
+
+Operating expenses of production plant increase slightly for both alternatives, but largely cancel out. The most important difference, however, is the increase in fuel costs in the thermal alternative, offset only to a minor extent by an increase in fuel costs for the hydro alternative.
+
+The relative increase in fuel costs with "higher" load growth accounts for more than two-thirds of the total relative increase in cost (in terms of present worth) of the thermal alternative. 
+
+In fact, the basic data used in this note, incorporate such changes in fuel prices over time. 
+
+2/ In our example, this is only convenient in two periods, 1962-1980 and 1981-2028, but a further breakdown by periods could, of course, easily have been provided.
+
+27. 
+
+From the general set-up of the problem see paragraph 10 above - it might be thought that the period from 1981 onwards does not play any role in these differences. It will be remembered that in the "higher" load growth variant, the system is kept at a constant level (for purpose of return calculations) from 1979 onwards, the year in which full capacity of the dam is reached. And similarly, from 1981 onward for the "lower" variant. There may be further complications, however. Reference to 
+
+Tables 1-4 shows that, in our example, about half the difference in fuel costs between the higher and the lower load developments occurs in the period 1981-2028. This results mainly from the higher load factor which, in this case, is associated with more rapid growth of the load. In terms of MW the systems are the same, after 1981, but with the "higher" load growth it happens to require more KWH and, therefore, more fuel for the thermal alternative.1/2/ This effect is significant enough, in this case, to account for a difference of about one-quarter of one per cent in the return on additional hydro investment, between the higher and lower load curve (out of a total difference of about three-quarters of one per cent). 
+
+A higher load factor is not an essential feature, however, of a faster rate of growth of the load. It depends on the reasons for the more rapid growth, i.e., on the growth of the components of the load. Conversely, different load factors may be associated with the same expansion of the load. 
+
+A higher load factor tends, of course, to make the investment in the hydro alternative more attractive, as it raises the fuel costs of the thermal alternative while costs of the hydro alternative remain the same. The quantitative significance of this can be analyzed along the lines previously indicated. In the original example (Table 5), an increase in the load factor by, say, 14 per cent over the whole period 1962-2028, raises the fuel costs of the thermal alternative by 1 per cent i.e., the return on the additional hydro investment by one-half of one per cent. 
+
+28.
+
+The "pure" effect of a faster growth of the load on the return on additional hydro investment is small in our example about one-half of one per cent.
+
+Given the many uncertainties of the estimates involved, it would appear therefore that a delay of two years in fully utilizing the dam 12 years rather than 10 years after the dam is finished - results in an insignificant difference in the return. In view of the fact that the underlying load projections used in this case show the "higher" load in 1980 to be more than 25% higher than the "lower" load, this may be somewhat surprising. The explanation is to be found in the shape of the curves representing the growth of the load. The following paragraphs use various heavily stylized examples to illustrate the effect of differences in load growth on the return on additional hydro investment. 
+
+1/ To a minor extent, the differences between higher and lower development are also due to the impossibility in the calculations of cutting off the expansion of the system at exactly the same point. 
+
+2/ A negligible difference results also from a slight shift forward in the replacement investments in thermal plant.
+
+- Stylized examples of different patterns of load growth 29. Chart 2 depicts the basic patterns of load growth used in these examples. In the case represented by Curve I, for example, the load rises from 500 MW in year zero ("the year of decision") to one thousand MW in year 5, in which the dam would be finished, and to 2,500 MW in year 
+
+25. Tables 7 (a-b) show simplified discounted cash flow calculations for hydro and thermal system developments fitting the various cases represented in graph 2. The dam is assumed to take 5 years to build, and to cost 
+
+1000 (all incurred for convenience sake in year 5); a hydro unit to cost 
+
+100, and a thermal unit 150. Additional cost (including fuel) of operating thermal plants rather than hydro units is assumed to be 1/15 per MW. Both thermal unit and hydro units are 150 MW. Total capacity of the dam is 10 units or 1,500 MW. Lifetime of a thermal unit is 30 years, of a hydro unit 60 years, and of the dam more than 60 years. The same basic cost and size assumptions will be used throughout the remainder of this paper, unless otherwise noted. 
+
+30. The present worth calculation shows that the return on investment in hydro is about 8% if the load grows as represented by Curve I (see bottom of Case I, Table 7). It should be noted that the return would also be 
+
+8% - as the cash flows would be exactly the same - if the load were to grow as in Curves Ia or Ib, their very different rates of growth notwithstanding. In Case Ia the load quadruples between years 5 and 25, and in Case Ib it only increases by two-thirds. Calculated from year zero, on the other hand, the rate of growth of Ib is much greater than that of Ia.1/ These differences in rates of growth are irrelevant, however; what counts is the absolute increase in the load from the year that the dam is finished, not from the time the estimate is made or the construction of the dam is started. In our example, the absolute growth of the load after year 5 determines the speed with which the dam can be "loaded".2/ The much greater absolute increase in Case Ib between year O
+
+Case I is intermediate in between these two extremes. 
+
+2/ The loading time of the dam does not depend solely on the growth on the load. Possible replacements of existing thermal plants may provide additional scope for using hydro power, and thus shortening the time needed for the dam to get fully loaded. The importance of this factor depends, of course, on the age structure of existing plant in year zero. Thermal plant installed during construction period of the dam (cf. 1/ p.11) only plays a role in this if the loading time of the dam is very long (more than 
+
+25 years); otherwise their replacement affects both the thermal and hydro development equally. The effect of "replacement load bonuses" on the return can be analyzed by simply adding them to the growth in the load derived from estimates of future demand for power.
+
+and 5, i.e. during the construction period, does not help.1/ The absolute annual increases after year 5 are the same in all three Cases, I, Ia and Ib; hence, the same return on the additional hydro investment.2/ 
+
+31. Obviously, it is not simply a question of the total "loading time", but also of the shape of the load growth curve. Curves I, II and IIa (cf. Chart 2) all show an increase by 1,500 MW between year 5 and 25.3/
+
+However, investment in hydro is obviously more advantageous in Case II: discounted at 8% the present worth of costs of thermal power far exceeds that of hydro power.
+
+Experimentation shows that the internal rate of return is about 10%. Case IIa is obviously the worst if it were decided to put in the dam immediately, although needed only 10 years later with a return of only 6%. Case IIa is indeed a text book example of the need for postponing the investment: if construction is postponed by 10 years so that the dam is ready in year 15, the pattern of loading is the same as in Case II, and so is the internal return of 10% (i.e., higher than for Case I).4/ 
+
+1/ Different rates of growth of load during the construction period affect, of course, the need for additional power capacity in the interim period. Our heavily stylized examples assume that this does not significantly affect the system development from year 5 onward. The faster rate of growth in the interim period is not necessarily an advantage; it may absorb existing excess capacity; it may also necessitate new investment in excess of load requirements in year 5. 
+
+2/ These considerations also caution against overestimating the influence on the return of an increase in the service area by interconnection. In comparing growth of the interconnected and the non-interconnected load, it should be noticed that the starting point of the former is higher. The gap between the two loads after, say, 10 years, overestimates, therefore, the difference in their absolute increases by this difference in starting level. The higher starting level broadens the base, of course, so that any given rate of growth of the load results in a larger, absolute increase. 
+
+3 Strictly speaking, these curves have a different loading time: 
+
+years in Case I, 10 years in Case II and 5 years in Case III. Cases II 
+
+and III may be thought of, however, as "exaggerated" examples of load curves rapidly rising in the early years and flattening out later, so that they also get fully loaded after 20 years. 20 If 4/ This does not mean that both are equally good hydro investments. the rate of interest is, say, 8% the cost advantage of hydro over thermal is much larger in Case II than in Case IIa, as may be verified by comparing the figures shown at the bottom of Table 7. This simply reflects that, in that case, a return of 10% as of now is better than the same return as of 10 years later. 2
+
+1 32. As seen just above, shortening of the "loading time" of the dam from 
+
+20 years (Case I) to 10 years (Case II) raises the return in this case from 8% to 10%. Further shortening of the loading time to 5 years (Case III) raises the return further to about 13%. Clearly, the maximum return is reached in the case of instantaneous loading, in year 5, of the dam. In that case additional investment in the hydro alternative of 1000 + 1000 1500 - 500 gives savings in operating costs of 100 per annum "forever after", i.e., a return of (nearly) 20%. These results are presented graphically in Chart 3 (see Curve A: original data) which is suggestive of the relationship existing between the loading time (with roughly straight-line load growth) and the return on the investment in hydro power. The impact on the return of a year's delay in reaching the 
+
+At the level full capacity of the dam becomes less the longer it takes. of a loading time of 5 years one year sooner or later is equivalent, in this example, to a difference in the return of the order of one per cent. 
+
+But around a 10 year loading time it takes a delay of roughly 2 years, and at a level of 15 years a delay of some 4 years, to have a similar effect. 
+
+This would seem to suggest that small differences in rates of growth, both of which result in the dam reaching full capacity beyond, say, 10 years, are not very important. The return appears not to be very sensitive to such differences in the load growth. Much more importance, of course, attaches to what happens in the early years. 
+
+Effect of different cost data 33. The particular result obtained here depends, of course, on the cost data used in this example. With different cost data for the dam, hydro units, thermal plants, and/or additional operating cost of thermal plant, the return on hydro investment and the sensitivity of the return to changes in loading time - will be different. For example, if the dam costs are raised by nearly 40%, the maximum return, at instantaneous loading, drops sharply from 20% to 12%. But a 10 year loading period gives then a return of nearly 8% (as compared with 10% before) and a 20 year loading period gives a return of about 6% (as compared with 8% before). This is illustrated by Curve C in Chart 3, which also shows the returns obtaining at different loading times if dam costs are raised by nearly 20% (Curve B) and by nearly 60% (Curve D).2/ These results suggest that investments in hydro alternatives with lower maximum ("instantaneous loading") returns are much less sensitive to delays in fully loading the dam capacity, but that the difference is small for loading times beyond 10 years. 
+
+34. A further check was made of the influence of different proportions of the four major categories of costs distinguished here on the return on hydro investment for different loading times. Obviously, an "instantaneous loading" return of, for example, 20% as yielded by our basic data, could also be obtained if an increase in the cost of the dam by, say, nearly 40% were offset by an increase in cost of thermal plant (by about 25% per unit), or in additional operating cost of the thermal development (by about 75% per MW).
+
+Perhaps more surprisingly, the shape of the curves showing, for Neglecting the replacement cost of thermal plants in year 35. 
+
+The present worth of costs at various discount rates are given for 
+
+Cases I, II and III in Table 8.
+
+--  amount- these changed cost data, the relationship between the rate of return on additional hydro investment and the length of the loading time is not very different from those shown in Chart 3. If the increase in dam costs is offset by higher costs of thermal plant, so as to yield the same instantaneous loading return, returns for longer loading times tend to be somewhat lower than before; if offset by higher additional operating cost of thermal development, returns for longer loading time tend to be somewhat higher than before. 2/ Both differences are small, however, ing to very roughly some one-half of one per cent from the original rate of and the three curves run roughly parallel from year 5 onward, at least over the relevant range of years.3/ This suggests that the instantaneous loading rate of return which can always speedily be calculated gives a useful indicating of the return for longer loading times. Thus it becomes possible to see how critical the demand projection is for the outcome of the return calculation. return 
+
+Curvilinear growth of load 35. 
+
+they The load curves considered so far have one feature in common: all show growth in constant straight-line fashion from the time of completion of the dam over the relevant range until the dam is fully loaded.4/ Some impression of the return on additional hydro investment with load curves having "curvilinear" expansion paths may be obtained by inspection. It is obvious, for example, that growth of the load intermediate between the cases represented in Chart 2 will result in an "intermediate" return on the additional investment in hydro. The results of some experiments along the se lines are shown in Chart 4. Thin lines represent the previous Cases, I, II, IIa and III, with their respective rates of return (based on the original cost data of Table 7) written in along side. 
+
+Cases IIb and IIIa, intermediate between II and III, have a return of about 11% and 112% respectively, as compared with 10% for Case II and 13% for Case III.5 It should be noted that the return in Case IIIa is higher than in Case IIb, although its "loading time" is longer - 10 years rather than 5 years; this is outweighed by the higher load in the early years. 
+
+1/ It should be remembered that the whole argument here is based on "straightline" growth of the load. 2/ The explanation seems to be the following: longer loading time tends to lower costs, in terms of present worth, because costs are delayed, but to raise them because the discount rate (internal return) becomes lower. On balance, this lowers cost of thermal plant, in terms of present worth, and raises the additional operating cost of thermal development; cf. Table 9. 
+
+For "fuel", the "discount rate" effect outweighs the "delay effect", as the bulk of the cost occurs in later years. Thus an increase in cost of thermal plant, sufficient to compensate "ins tantaneously" an increase in dam costs, falls short if the loading time is longer - so that the return on hydro is relatively lower than on the original data. And vice versa for additional operating cost of thermal development. 
+
+3/ The relevant data on present worth of costs, varied as indicated, are summarized in Table 9. 
+
+This applies also to Case IIa with the proviso that the starting point of its growth is delayed by 10 years, after completion of the dam. 
+
+5/ The basic data for Cases IIb and IIIa and other curvilinear cases referred to below, are given in Table 10.
+
+1 36. A somewhat more difficult exercise perhaps, is the attempt to guess the return on additional hydro investment in cases which "cross over" the straight-line growth cases. Cases IVa and IVb have rapid initial growth of the load, and small increases thereafter, so as to reach full capacity only after 20 years. Once again, the importance of the early years stands out. Case IVa has about the same return as Case II, and 
+
+Case IVb roughly the same return as Case III, although the respective loading times of Cases IVa and IVb are much longer. Inversely, the influence of slow initial growth of the load and rapid increases later, can be seen by comparing them with benchmarks of the return on additional hydro investment in extreme cases of "delayed instantaneous loading" along the horizontal axis of Chart 4. in the load after, say, 10 years, have
+
+D. Summary and Conclusions 
+
+- shown It is apparent that rapid increases only a marginal effect on the return. 
+
+37. This paper has demonstrated a systematic and logically correct method for comparing the economic merits of alternative power developments. It has shown how the different cost streams involved can be compared by discounting them to obtain their present values, and it has indicated the critical nature of the discount rate used. It has noted that the discount (interest) rate which makes the present values of two alternative cost streams equal is a measure of the return on the additional investment in one (hydro) resulting from the savings in operating costs (over those of the alternative thermal system) for the life of the project. It has shown how to appraise the sensitivity of this return to changes in key data of costs and demand. In particular, it has illustrated a convenient way of assessing the impact of changes in individual cost items on the return by breaking down the usual discounted cash flow calculations by cost components and periods. In this way the sensitivity of return calculations to different estimates of input requirements or input prices can readily be seen and the crucial cost variables can be identified. 38. While variations in the estimated value of inputs dam, generating, equipment, fuel, labor, etc. - can be made in the cost streams of alternative power developments without changing the timing and capacity of the projected investments, this is not the case with variations in the estimated growth of the market. A more rapid expansion of the market will tend to favor a hydro over a thermal development but the actual effect of a given increase in the growth of demand can only be determined by working out the consequences in terms of a changed pattern of investment. Because the market is a very important and often uncertain element in the appraisal and because the effect of changes in market estimates are not readily evident, it would be most desirable to be able to approximate the effect of such changes on the return calculations in advance again, in order to identify their importance before devoting effort to the often laborious task of replanning the development of the system. 39. An attempt to work out some rough rules of thumb for this purpose has been made in this paper. This has been done through the use of simplified examples of hydro-thermal comparisons assuming the hydro facilities (the dam) are loaded to capacity over different periods of time. The maximum
+
+rate of return is obtained, of course, on the extreme and convenient assumption that the load grows fast enough to make possible the full utilization of the dam's capacity immediately on its completion. Tentatively it emerges from the analysis that this maximum rate is a good benchmark from which to estimate the lower returns obtained with slower rates of growth. For simple straight-line growth curves the return drops fairly rapidly and regularly from this maximum rate as the period required for full loading is extended. 
+
+After 10 years the effect on the return of delays of a year rapidly becomes negligible. Different cost structures appear to have only a small influence on these relationships between the rate of return and the loading time In the case of less simple load-growth curves it is much more difficult to generalize, but the examples presented give some idea of what may be expected.
+
+Table 1. 
+
+Cash Flow of Costs Hydro Development 
+
+(in Thousands)
+
+Load 
+
+Hydro development 
+
+Lower load Investments 
+
+Operating expenses Year hydro units transmission 400 KV transmission transmission 230 KV 115 KV thermal plant production plant fuel frequency transmission conversion Total 1961 1962 11,750 1963 23,600 14,000 2,000 1964 106,200 25,000 2,000 1965 147,500 38,000 2,000 1966 74,900 51,100 1967 43,300 57,200 12,900 1968 38,700 1969 51,100 51,500 1970 57,200 52,300 1971 1972 51,100 1973 57,200 1974 1975 51,100 1976 57,200 1977 
+
+1978 1979 51,100 57,200 1980 (1981) 1983 1985 1995 
+
+1997 
+
+2000 2013 
+
+2015 2025 9,959 11,086 30,000 11,763 16,440 30,000 13,695 14,620 30,000 9,296 830 14,620 10,704 830 620 13,624 959 220 3,532 959 220 7,540 959 520 2,052 2,384 16,520 2,052 16,520 2,384 2,052 17,520 2,384 2,052 2,384 17,520 2,052 2,384 17,520 052 2,381 18,620 2,052 2,384 18,620 2,052 2,384 18,620 2,052 2,384 19,320 2,052 2,384 19,320 2,052 2,384 90,000 180,000 77,000 12,900 6,000 142,500 ميليا, 16 ميليا و16 ميليا, 16 .. 2027 2028 90,000 180,000 77,000 6,000 12,900 19,320 
+
+Present worth in 1962 (PW) of costs in period: 1962-1980) 330,580 265,123 85,443 
+
+1981-2028)at 71% 74,231 5,201 176,168 78,973 12,112 9,126 78,016
+
+Total 1962-2028) 9,032 615 1,105,847 330,580 59,966 265,123 63,165 6,709 94,569 7,794 83,263 156,407 5,816 59,966 239,333 85.682 19,906 78,016 1,262,254 1962-1980) 
+
+1981-2028)at 81% 322,035 243,575 80,046 72,469 5,108 165,105 75,999 10,924 6,419 6,473 76,621 442 1,051,882
+
+Total 1962-2028) 322,035 243,575 86,465 78,942 5,550 47,582 47,582 47,279 5,022 5,834 212,384 81,021 16,758 76,621 119,051 1,170,933 a) Operating and maintenance expenses of both hydro and thermal plant. N.B.
+
+The cash flow of costs does not include any transactions that are merely financial or accounting such as depreciation, amortization and interest. It includes only expenditures on goods and services in the year in which they are made. The hydro development results in a system using not only hydro but also some thermal plants.
+
+Thermal development 1,101,616 
+
+Lower load 807,235 frequency 1,263,281 
+
+conversion 870,196 393,085 
+
+It includes only 30,000 76,621 30,000 30,000 76,621 78,016 78,016 Year Dam hydro units 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 (1981) .. 1983 1985 .. 1995 1998 2000 2002 .. 2004 .. 2006 
+
+2008 
+
+2010 2003 2015 2025 2028 
+
+Present worth in 1962 (PW) of costs in period: 
+
+1962-1980) at 7% 1981-2028) 
+
+transmission 400 KV 
+
+Cash Flow of Costs
+
+Table 2. 
+
+Thermal Development 
+
+(in Thousands) 
+
+Lower Load
+
+Investments 
+
+Operating expenses transmission 230 KV transmission 115 KV thermal production plant plant fuel transmission 16,440 9,959 000 2,000 16,440 11,086 000 2,000 16,440 11,763 38,000 2,000 16,440 13,695 29,000 14,620 9,296 830 59,000 14,620 10,704 830 59,000 16,180 12,273 830 59,000 17,740 13,382 830 30,000 19,300 16,255 830 29,000 20,860 17,895 830 30,000 20,860 19,363 830 29,000 22,420 19,836 830 59,000 22,420 ,308 830 59,000 23,980 25,434 830 30,000 25,540 29,718 830 29,000 27,100 31,542 830 88,000 27,100 34,062 830 89,000 28,660 39,904 830 30,000 31,780 42,791 830 33,340 54,631 830 90,000 180,000 77,000 6,000 90,000 90,000 90,000 90,000 90,000 90,000 180,000 90,000 180,000 77,000 6,000 
+
+33,340 54,631 65,245 5,201 326,567 
+
+206,207 183,062 5,898 7,888 615 94,255 109,002 178,611 73,133 5,816 2,714 420,822 315,209 361,673 8,612 63,890 5,108 296,348 191,739 5,667 168,133 5,396 442 70,961 69,557 
+
+81,589 133,691 2,031 5,550 367,309 273,328 301,821, 7,427 Oo 00 ဝ ဝ ဝဝဝ 1962-1980) 
+
+1981-2026) at 8%
+
+Total 1962-2028) N.B.
+
+The cash flow of costs does not include any transactions that are merely financial or accounting such as depreciation, amortization and interest. expenditures on goods and services in the year in which they are made. 294,381
+
+Total 1,057,856 11,406 119,051 1,188,313 1,110,485 1,280,302 13,410 156,407 
+
+Table 3. 
+
+Cash Flow of Coats 
+
+Hydro Development 
+
+Higher Load (in Thousanda) 
+
+Hydro development 
+
+Higher Load Investment 
+
+Operating expenses Year Dam hydro units transmission 400 KV transmission transmission 230 KV 115 KV thermal plant production plant a) fuel frequency transmission conversion 1961 1962 11,750 1963 23,600 16,440 1964 14,000 10,007 106,200 2,000 16,440 1965 25,000 11,178 147,500 2,000 16,440 30,000 1966 38,000 11,859 74,900 2,000 16,440 30,000 51,100 13,719 1967 43,300 57,200 16,440 30,000 11,730 830 1968 12,900 16,440 1969 1970 1971 141 1 38,700 13,588 830 51,100 51,500 1,260 14,784 959 57,200 16,220 52,300 4,740 959 8,304 959 1972 51,100 16,520 2,052 2,384 1973 57,200 16,520 2,052 2,384 1974 51,100 16,520 3,572 2,384 1975 57,200 17,520 2,052 2,384 1976 51,100 17,520 2,052 2,384 1977 57,200 18,620 2,052 2,384 1978, 1979 18,620 2,052 2,384 19,320 2,052 1960 2,384 19,320 2,052 .. 1983 .. (1981) 1985 1995 384 90,000 180,000 
+
+1997 2000 
+
+2013 2015 
+
+2025 77,000 12,900 6,000 142,500 
+
+2027 2028 90,000 180,000 77,000 12,900 6,000 19,320 2,052 2,384 
+
+Present worth in 1962 (PW) of costs in period: 1962-1978) 330,580 273,282 1979-1980) at 7}% 85,443 74,231 5,201 168,490 84,476 10,766 1981-2028) 78,016 10,906 9,126 1,158 Total 1962-2028) 9,032 1,346 615 330,580 59,966 273,282 63,165 94,569 6,709 83,263 5,816 7,794 59,966 242,561 92,343 19,906 78,016 1962-1978) 322,035 251,618 80,046 
+
+1979-1980) at 81% 72,469 5,108 158,847 81,332 9,780 76,621 1981-2028) 9,276 985 6,419 1,145 Total 1962-2028) 322,035 251,618 86,465 6,473 78,942 442 5,550 47,582 47,279 5,022 5,834 47,582 215,402 87.339 16,759 76,621 a) Operating and maintenance expenses of both hydro and thermal plants. 
+
+It includes only
+
+N.B. The cash flow of costs does not include any transactions that are merely financial or accounting such as depreciation, amortization and interest. expenditures on goods and services in the year in which they are made. The hydro development results in a system using not only hydro but also some thermal plants.
+
+Thermal development Higher load 313,809 1165,552 frequency conversion 41,794 
+
+809,949 865,361 1,333,500 49,137 419,002 
+
+Table 4. 
+
+Cash Flow of Costs 
+
+Thermal Development 
+
+Higher Load (in Thousands) Investment 
+
+Operating expenses Year Dam hydro units transmission 400 KV transmission transmission thermal production 230 KV 115 KV plant plant fuel transmission 1961 1962 1963 16,440 10,007 1964 11,000 2,000 16,440 11,178 1965 25,000 2,000 16,440 30,000 ,859 1966 38,000 2,000 30,000 16,440 13,719 1967 29,000 30,000 14,620 068 830 1968 59,000 11,620 832 830 1969 59,000 16,180 13,649 830 1970 59,000 17,740 14,590 830 1971 30,000 19,300 17,019 830 1972 29,000 20,860 19,239 830 1973 59,000 20,860 21,279 830 1974 59,000 22,420 22,592 830 1975 59,000 23,980 23,685 830 1976 59,000 25,540 26,937 830 1977 88,000 27,100 34,490 830 1978 89,000 28,660 40,143 830 1979 30,000 31,780 45,667 830 1980 33,340 52,875 830 (1981) 52,875 1983 61,532 90,000 1985 180,000 1995 77,000 6,000 
+
+1999 2004 
+
+2007 2013 
+
+2015 270,000 180,000 270,000 90,000 180,000 2025 2028 77,000 6,000 33 4340 61,532 830 Present worth in 1962 (PW) of costs in period: 1962-1978) 
+
+1979-1980) at 71% 1981-2028) Total 1962-2028) 1962-1978) 
+
+1979-1980) at 81% 1981-2028) Total 1962-2028) oo oo 000000 65,245 5,201 343,104 193,009 175,357 5,429 78,016 18,820 7,888 29,848 469 615 97,610 109,002 201,173 73,133 5,816 440,714 2,714 320,831 406,378 8,612 78,016 63,890 5,108 314,332 180,612 164,388 4,998 76,621 16,008 5,667 69,557 25,388 398 442 73,501 81,589 150,579 2,031 5,550 387,833 278,209 340,355 7.427 76,621 expenditures on goods and services in the year in which they are made. 
+
+N.B. The cash flow of costs does not include any transactions that are merely financial or accounting such as depreciation, amortization and interest. It includes only
+
+Lower Load Table 5. 
+
+Summary of Present Worth of Costs (Lower Load Development) 
+
+(in thousands of Thousands)
+
+Period 1962-2028 
+
+Period 1962-1980 Period 1981-2028 Cost Component hydro dev. thermal hydro dev. Difference dev. thermal dev. Difference hydro dev. thermal dev. Difference (Present worth at 7 per cent) Dam 
+
+Hydro units 331 265 
+
+Transmission 400 KV 95 Transmission 230 KV 83 73 
+
+Transmission 115 KV 
+
+Thermal plant 60 421 
+
+Operating cost production plant 239 315 Fuel 86 362 ▪▪teམྦྷམཥྞནྣི 331 331 331 265 265 95 10 -361 76 176 -276 
+
+Operating cost transmission 20 11 Frequency conversion 78 78 
+
+252, GERA 
+
+85 74 
+
+327 79 206 183 8, 265 85 -327 30 63 -104 78 78 1 10-1876ỡn 1 94 109 179 
+
+1262 1263 -1 1106 870 236 156 393 -237 'ཐཱབ་བྷཱབྷཱསྨཱཡ། ོ (Present worth at 8 per cent) 322 244 80 -296 48 27 47 92 • autorall 134 119 295 ༔ ༠༩ཊྛཊྛབྷཱས 8 1 71 -23 81 ~34 129 2 1 -176 Dam 322 
+
+Hydro units 244 
+
+Transmission 400 KV
+
+Transmission 230 KV 
+
+Transmission 115 KV 
+
+Thermal plant 
+
+Operating cost production plant 212 Fuel 
+
+Operating cost transmission སྨཟླ⌘༠༠བྲཱམྦུd# 86 79 70 48 367 -319 273 81 302 ~221 17 
+
+Frequency conversion 77 77 སྨིཾཟླ॰དྡྷཧྨཙཙྩུཐཱ༔ 322 244 10 ជ្ជនន នន 1 1 80 72 296 165 192 76 168 איי 77 77 ༆ཟླ° ༔88॰ t 
+
+1171 1102 69 1052 807 245 
+
+N.B. For basic data see Tables 1 and 2.
+
+Difference 46 (2) - (1) 1 1 1 1 1 1 -32 -20 2 -38 ཏྲཱས 1 1 ܙܗ ܙ ܙ -53 
+
+Table 6. 
+
+Present Worth of Costs: Comparison of Higher and Lower Load Development, 1962 
+
+Hydro development 
+
+Lower load 
+
+Higher load (1) (2) (in thousands of Thousands) Difference (2) - (1) 2028 
+
+Lower Load 
+
+Higher Load
+
+Thermal development 
+
+Difference (hydro thermal) 
+
+Lower load (1) 
+
+Higher load (2) Difference (2) - (1) 
+
+Lower load (1) 
+
+Higher load (2) 
+
+Cost Component 
+
+Dam 
+
+Hydro units (present worth at 7 per cent) 
+
+Transmission 400 KV
+
+Transmission 230 KV 
+
+Transmission 115 KV 
+
+Thermal plant 
+
+Operating cost production plant
+
+Fuel 
+
+Operating cost transmission 
+
+Frequency conversion គឺខ្លួនធំ។ទក្លិនខ្លួន 331 265 273 95 83 60 239 243 86 20 78 
+
+JONES.SKIN 
+
+95 73 421 447 315 321 362 406 78 ▪e°ལྦ⌘g༤ 73 331 331 265 273 95 10 
+
+-361 44 76 -276 78 ༠ཌ་ 
+
+1262 1280 18 1263 1334 71 -1 54 (present worth at 8 per cent) 95 10 -381 78 -314 11 Dam 
+
+Hydro units 322 244 
+
+Transmission 400 KV
+
+Transmission 230 KV 
+
+Transmission 115 KV ផ្ដន 322 252 86 86 79 79 
+
+Thermal plant 48 48 
+
+Operating cost production plant 212 215 Fuel 81 87 
+
+Operating cost transmission 17 17 
+
+Frequency conversion 77 77 lotti Imoli 70 367 388 273 278 302 340 77 -ទ័。3 រ រ រ 322 322 244 252 86 86 -319 -340 61 63 38 ~221 -253 10 10 77 
+
+1170 1188 18 1102 1166 64 69 69 22 22 N.B. 
+
+For basic data see Tables 1, 2, 3 and 4.
+
+Table 10s Some stylized curvilinear patterns of load growth: 
+
+simplified cash flow of alternative hydro and thermal investments 
+
+Case Iıb load cost load additional operating
+
+Case IIIa oost additional operating 
+
+Year 
+
+MW dam hydro unita thermal units cost of thermal development MW dam hydro units thermal units cost of thermal development 10 11 12 13 15 16 17 18 19 20 21 23 OHNMJNO722 500 500 1 600 600 700. 700 800 800 900 900 1000 1000 100 150 1000 1000 200 300 1150 100 150 10 1300 200 300 20 1300 100 150 20 1600 200 300 1450 100 150 30 1800 40 53.3 1600 600 900 40 1900 100 150 60 2500 100 2000 100 150 66.6 2100 73.3 2200 100 150 80 2300 100 150 86.6 2400 93.3 2500 100 26 2500 year 35 150 36 150 37 150 38 150 39 900 
+
+Internal rate of return on additional hydro investment: 
+
+11 per cent a) replacement investments Assumptions: 
+
+1 thermal unit - 1 hydro unit - 150 MW
+
+Total capacity dam: 10 units - 1500 MW 
+
+thermal unit - 30 years
+
+Life: 
+
+hydro unit - 60 years dan-more than 60 years costs: dam: 
+
+1 hydro unit: 
+
+1 thermal unit: 
+
+add. oper. cost (incl. fuel) of thermal dev.: 1000 100 150 1/15 per MW 100 2500 year 55:50:www 35 300 300 300 150 150 2 150 150 
+
+11 per cent 100
+
+Table 10b Some stylised curvilinear pattern of load growth: 
+
+simplified cash flows of alternative hydro and thermal investments 
+
+Case va load 
+
+Cost load
+
+Case Ivb cost additional operating hydro thermal cost of thermal Year
+
+MW dex uni ta units development MW dam hydro units thermal units additional operating cost of thermal development 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+
+OHNMINOTAUG 
+
+500 500 600 600 700 700 800 800 900 900 1000 - 1000 1550 1600 1650 1700 1750 1800 1850 1900 1950 2000 2050 2100 2150 2200 2250 2300 2350 : 8 8 8 8 8 8 400 100 100 58 600 1000 1000 100 1050 36.6 2025 68.3 150 40.0 2050 100 150 70.0 13.3 2075 71.7 46.6 2100 73.3 150 50.0 2125 75.0 53.3 2150 76.7 56.6 2175 78.3 100 150 60.0 2200 100 150 80.0 63.3 2225 81.7 66.6 2250 83.3 100 150 70.0 2275 85.0 73.3 2300 86.7 76.6 2325 88.3 100 150 80.0 2350 100 150 90.0 83.3 2375 91.7 86.6 24,00 93.3 100 150 90.0 2425 95.0 2400 93.3 2450 96.7 2450 96.6 2475 98.3 2500 100.0 2500 100.0 2500 
+
+Internal rate of return on additional hydro investment: a) replacement investments Assumptions: 
+
+1 thermal unit 1 hydro unit - 150 MW
+
+Total capacity dam: 10 units - 1500 MW 
+
+Life: thermal unit 30 years hydro unit 
+
+60 years dan more than 60 years costs: year 600 37 150 LO 150 150 
+
+Lo 150 $ 150 52 150 
+
+10 per cent 100 2500 dax: 
+
+1 hydro unit: 1 thermal unit: add. oper. cost (incl. fuel) of thermal dev.: 1000 100 150 
+
+1/15 per Mi year 1050 150 330 150 150 
+
+14 per cent 100
+
+Table 
+
+Present worth of costs of hydro/thermal alternatives for different loading times Cost
+
+Present Worth at Component 14% 12% 11% 10% 9% 8% 7% 6% 5%
+
+Case I 
+
+Dam 
+
+Hydro units) units)
+
+Thermal units 
+
+Add. oper. cost) of thermal dev.)
+
+Case II 
+
+1000a) 1000a 1000a) 1000a) 551 586 625 672 85986 973 723 1100 1241 730 907 1141 Dam units) 
+
+Hydro units)
+
+Thermal units 
+
+Add. oper. cost) of thermal dev.) 1000a) a) a) 1000 1000 676 700 725 1072 1129 1195 612 708 894 
+
+Case III 
+
+Dam 
+
+Hydro units) units) 1000 a) 1000 a) a) a) a) 1000 1000 1000 782 807 820 848 862 
+
+Thermal units) 1196 
+
+Add. oper. cost) 559 1250 615 1283 685 1367 1422 871 1056 of thermal dev.) a) Or the higher dam costs used in deriving Curves B-D in Chart 3. 
+
+Note: Cases I, II, and III refer to "straight line" loading times of 20, 10 and 5 years respectively. Cf. Chart 2 and Table 7. Basic cost data as in para. 29, and 
+
+Table 7. 
+
+Dam costs may be varied, as discussed in para. 26; the resulting effect on the rate of return emerges from the table. For example, with dam costs at 
+
+1000 the rate of return, in Case I, is 8 per cent (100+ 551 908+ 650 approx.). 
+
+With dam costs nearly 40 per cent higher, at 1383, the return falls to 6 per cent (1383+ 625 - 1100+ 907 approx.)
+
+Table 
+
+Influence of different proportions of basic costs on relation between rate of return and loading time Cost data Components Original cost data 
+
+Modified cost data a) b) 
+
+Instantaneous loading (PW at 20 per cent) Dam 1000 
+
+Hydro units) 1000 
+
+Thermal units) 1507 
+
+Add. oper. cost) 500 of thermal dev.) rate of return 20% 1383 1383 1000 1000 1883 1507 500 875 20% 20% 
+
+Case I (PW at 8 per cent) Dam 
+
+Hydro units) units) 1000 1383 1383 551 551 551 
+
+Thermal units) 908 1135 908 
+
+Add. oper. cost) 650 650 1135 of thermal dev.) rate of return 8% c. 72%
+
+Case II (PW at 10 per cent) 
+
+c. 82% Dam 
+
+Hydro units) units) 1000 676 
+
+Thermal units) 1072 
+
+Add. oper. cost) 612 of thermal dev.) rate of return 10% Dam 
+
+Hydro units units) 1000 782 
+
+Thermal units) 1196 
+
+Add. oper. cost) 559 of thermal dev.) rate of return 132% 1383 1383 676 676 1340 1072 612 1071 c.102% •. 92%
+
+Case III (PW at 1 per cent) 
+
+1383 1383 782 782 1495 1196 559 980 0.12% c. 14% b) a) dam cost, plus 38 per cent; dam cost, plus 38 per cent; thermal unit cost, plus 25 per cent additional operating cost of thermal development, plus 75 p.c. 
+
+Note: See text, para. 34, for explanation. Cases I, II and III refer to "straight line" loading times of 20, 10 and 5 years respectively. Cf. Chart 2 and Table 7. Present worth data at discount rate approximately "right" for Case considered; the "weight" of cost increases varies with this discount rate.
+
+CHART I COMPARISON OF CASH FLOWS OF HYDRO AND THERMAL DEVELOPMENT LOWER LOAD 
+
+(THOUSANDS) 
+
+300 HYDRO 200 100 
+
+100 - 200 - 300 1962 1970 
+
+NOTE: For basic data see Tables I and 2. 
+
+THERMAL ADDITIONAL HYDRO COSTS 
+
+1980 1990 2000 2010 2020 2028 
+
+IBRD - Economic Staff 
+
+2157
+
+CHART 
+
+3,000 2,000 1,000 3,000
+
+ILLUSTRATIVE PATTERNS OF LOAD GROWTH 
+
+(MW) Ib I- 2,000
+
+1,000 
+
+II 
+
+Ia 
+
+II a 
+
+10 15 20 YEAR 25 
+
+IBRD - Economic Staff 
+
+2158
+
+CHART 
+
+22 
+
+RELATIONSHIP BETWEEN RATE OF RETURN ON INVESTMENT IN HYDRO AND LENGTH OF LOADING TIME OF TIME OF DAM (RATE OF RETURN - PERCENT) 
+
+20 18 20 20 16 15 14 12 12 1314 1034 10 10 10 2 ​NB Free-hand curves based on data from Table 7, with modified dam costs as specified. “Straight line" growth of load; Cases I, II, and III refer to different loading periods - see Chart 2 and 
+
+Table 7. See further text, para. 32-34. 83/4 D- 8(-) 634 7(-) 51/4 
+
+LEGEND: A BASED ON ORIGINAL DATA B BASED ON DAM COSTS PLUS (NEARLY) 20% C BASED ON DAM COSTS PLUS (NEARLY) 40% D BASED ON DAM COSTS PLUS (NEARLY) 60% 
+
+2 4 10 12 14 16 18 20 22 24 
+
+CASE III CASE I CASE I LOADING TIME (YEARS) IBRD-Economic Staff 
+
+(R) 2159
+
+CHART RETURN ON HYDRO INVESTMENT FOR DIFFERENT LOAD GROWTH 
+
+(MW) 3,000
+
+III a 
+
+IIb 1134% 
+
+13% % 114% 10% 2,000 102% 1,000
+
+IVa IVb 
+
+14% 8% 6% 20% 94% 7%
+
+LO 10 15 20 YEAR
+
+NOTE: Thin lines represent the original Cases I,II,Ia, and I. Thick lines represent the new "Curvilinear" Cases Ib, Ma, Ma, and Ib. Respective rates of return (based on Original Cost data of Table 7) are written in alongside. Rates of return written in along horizontal axis refer to instantaneous loading of dam capacity in year indicated. See futher text, para. 35-36. 25 
+
+IBRD-Economic Staff 
+
+(R)2160
+
+LITTAUER LIBRARY HARVARD UNIVERSITY 
+
+This book should be returned to the Library on or before the last date stamped below.
+
+A fine is incurred by retaining it beyond the specified time. 
+
+Please return promptly.
+
+RECT
+
+TK.T35x 
+
+The economic comparison of hydroele 
+
+Littauer Library 
+
+AZF0826 3 2044 041 693 888 
+
+LITTA ER LIBRARY HARVARD UNIVERSITY

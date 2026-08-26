@@ -1,0 +1,609 @@
+us 952.3 U/F68 
+
+U.S. DEPARTMENT OF TRANSPORTATION REQUIREMENTS FOR MOTOR VEHICLE AND HIGHWAY SAFETY RESEARCH 
+
+VOL. 1, OCT. 1968
+
+REQUIREMENTS FOR MOTOR VEHICLE 
+
+AND 
+
+HIGHWAY SAFETY RESEARCH 
+
+AND 
+
+TEST FACILITIES A REPORT TO THE CONGRESS FROM THE SECRETARY OF TRANSPORTATION HARVARD LAW ( LIBRARY DEPARTMENT OF TRANSPORTA OCTOBER 1968 VOLUME 1 OF 2 
+
+UNITED STATES OF AMERICA U. S. Department of Transportation
+
+U.S. Dept of transportation. 
+
+REQUIREMENTS + FOR MOTOR VEHICLE 
+
+AND 
+
+HIGHWAY SAFETY RESEARCH 
+
+AND 
+
+TEST FACILITIES 
+
+A REPORT TO THE CONGRESS FROM THE SECRETARY OF TRANSPORTATION VOLUME 1 OF 2 DEPARTMENT OF TRANSPORTATION 
+
+UNITED 
+
+STATES OF AMERICA OCTOBER 1968 U. S. Department of Transportation 
+
+US 952.3 U/F68
+
+Dept. of Irans 
+
+3/25/70 UNITED TMENT 
+
+OF 
+
+TRANS 
+
+PORTATION AMERICA THE SECRETARY OF TRANSPORTATION 
+
+WASHINGTON, D.C. 20590
+
+Honorable Hubert H. Humphrey President of the Senate 
+
+Washington, D. C. 20510 
+
+October 7, 1968 
+
+Dear Mr. President:
+
+In accordance with the requirements of Section 302, Public Law 89-563, National Traffic and Motor Vehicle Safety Act of 1966, I am transmitting a report which identifies the types of research, development and test facilities which are needed to carry out the responsibilities of the Department as set forth in the legislation authorizing the motor vehicle and highway safety programs.
+
+The report summarizes the results of the extensive investigations to date of the program requirements that generate the array of tests and measurements for which general and special purpose facilities must be available to the Government and its contractors. It incorporates these requirements into a coherent overall facilities program which will utilize existing facilities where it is economically and technically feasible to do so and provide for new construction when a need cannot be satisfied by other means.
+
+The investigations indicate that most of the facility requirements can be met, in whole or in part, through the utilization of or modifications to existing facilities. They also establish that the two foundation requirements of the entire program cannot be provided with any existing facility. These are: (1) a proving ground and (2) a driving simulation facility.
+
+Accordingly, the report presents an implementation plan that proposes the use of existing facilities with such modifications as are economically and technically feasible for meeting some of the safety program requirements. The plan also proposes the initiation of detailed engineering leading to the preparation of "Preliminary Engineering Reports" for the proving ground and driving simulation facilities. These reports will serve as a basis for subsequent budgetary requests, and for recommendations on site selection criteria. 1193684
+
+-2- Finally, it includes an estimate of cost for the necessary engineering planning and design increments for the facilities indicated in the report. Enclosure Sincerely, 
+
+ε. Rabson John F. Robson Acting Secretary
+
+TRANSP RTMENT OF 1 DEPAR 
+
+UNITED 
+
+STATES RTATION OF AMERICA THE SECRETARY OF TRANSPORTATION WASHINGTON, D.C. 20590 October 7, 1968 Honorable John W. McCormack Speaker of the House of Representatives 
+
+Washington, D. C. 20515 
+
+Dear Mr. Speaker:
+
+In accordance with the requirements of Section 302, Public Law 89-563, National Traffic and Motor Vehicle Safety Act of 1966, I am transmitting a report which identifies the types of research, development and test facilities which are needed to carry out the responsibilities of the Department as set forth in the legislation authorizing the motor vehicle and highway safety programs.
+
+The report summarizes the results of the extensive investigations to date of the program requirements that generate the array of tests and measurements for which general and special purpose facilities must be available to the Government and its contractors. It incorporates these requirements into a coherent overall facilities program which will utilize existing facilities where it is economically and technically feasible to do so and provide for new construction when a need cannot be satisfied by other means.
+
+The investigations indicate that most of the facility requirements can be met, in whole or in part, through the utilization of or modifications to existing facilities. They also establish that the two foundation requirements of the entire program cannot be provided with any existing facility. These are: (1) a proving ground and (2) a driving simulation facility.
+
+Accordingly, the report presents an implementation plan that proposes the use of existing facilities with such modifications as are economically and technically feasible for meeting some of the safety program requirements. The plan also proposes the initiation of detailed engineering leading to the preparation of "Preliminary Engineering Reports" for the proving ground and driving simulation facilities. These reports will serve as a basis for subsequent budgetary requests, and for recommendations on site selection criteria.
+
+-2- Finally, it includes an estimate of cost for the necessary engineering planning and design increments for the facilities indicated in the report. Enclosure Sincerely,
+
+E. Rubson 
+
+John B. Robson Acting Secretary
+
+REQUIREMENTS FOR MOTOR VEHICLE AND HIGHWAY SAFETY RESEARCH AND TEST FACILITIES FOREWORD 
+
+VOLUME 1 OF 2 SUMMARY TABLE OF CONTENTS PAGE 
+
+iii 
+
+SECTION 
+
+1. 2. 
+
+Introduction Vehicle and Highway Safety Programs that Generate Facility Needs. 
+
+3. Types of Tests Related to Motor Vehicle and Highway Safety Programs 4. Facility Elements for Making Needed Tests 
+
+5. 6.
+
+Proposed Safety Facilities Program Recommended Implementation 
+
+. 1 3 11 17 23 27
+
+FOREWORD 
+
+Split-second judgment in driving can spell the difference between crash avoidance and accidents. In the crashes that do occur, impact force patterns complete their lethal damage to the torsos and internal organs of occupants in a matter of several thousandths of a second. 
+
+Motor vehicle and highway safety program standards deal with these complex bio-engineering phenomena, and cannot be established with confidence except through accurate laboratory and field measurements and careful analysis of the results. In turn, these test results must be correlated against information derived from actual accidents. 
+
+The needed information, however, on the immediate and underlying causes of accidents and the results of injuries, largely does not exist. 
+
+Little is known about the manner in which people are injured or vehicle design factors that can lessen injuries in crashes. Little is known about the effectiveness of many countermeasures that have been tried, making it entirely possible that some ineffective measures are now in practice, while others that could save many lives are being overlooked. In the absence of adequate, authoritative information, the pinpointing of effective countermeasures is painfully slow, if not impossible, while thousands of people needlessly die or become seriously maimed in vehicle crashes. 
+
+The capability to pinpoint effective countermeasures depends on the quality of experimental and test results, which in turn are linked directly to the quality of the facilities and tools used to obtain the results. Factual, objective and technically sound information in any field of inquiry and application to action programs clearly cannot be obtained without the appropriate laboratories and associated measurement capability. 
+
+This principle, amply demonstrated over and over again in the brilliant breakthroughs in medicine, space exploration, nuclear energy, and other major national programs, is equally valid for motor vehicle and highway safety. The facts, however, are that modern research and testing technologies that have contributed so heavily to the broad advances in these and other fields, have not been applied until now in any significant amounts to the amelioration of the unfortunate tragedies that occur daily on our Nation's highways.
+
+The unmistakable dependence of safety program effectiveness upon appropriate research and testing technology has been recognized by the Congress in providing for an investigation of needs for accident and iii
+
+injury research and test facilities.
+
+This report, as required under Title 
+
+III of the National Traffic and Motor Vehicle Safety Act, describes the results of this investigation. It identifies the kinds of facilities and equipment with which engineers, research workers and supporting technical staffs can perform the types of coordinated engineering, physiological, behavioral and other measurements that are required for:
+
+Establishing Federal motor vehicles safety standards and evaluating manufacturers' compliance with them.
+
+Establishing Federal standards in such correlated areas to vehicle safety performance as driver education and licensing, periodic motor vehicle inspection, and other State and community highway safety programs.
+
+An important aspect of this report deals with the existing capabili ties, equipment, and facilities, either publicy or privately owned or operated, that can be made available for use in the safety programs. Some existing capabilities are already being utilized by the Department of Transportation, and are described in the report. Continued and expanded use of these and other facilities, coupled with drawing upon the skills and talents of the scientists and technicians trained to operate them, is central to all program planning of the Department of Transportation. Apart from the obvious economic and technical benefits in pursuing this policy, there is no alternative course of action for the next several years. 
+
+In the meantime, the work that has been started with the investigations described in this report must proceed to detailed planning for the systematic shift from the present makeshift arrangements to research and test facilities that will meet the unique requirements of highway safety. 
+
+It is only with appropriate laboratories and equipment, coupled with workable provisions for their full and economic utilization by the Nation's scientific manpower both in and out of Government, that realistic and effective solutions can be anticipated to the ongoing tragedy of deaths, injuries and destruction on our Nation's highways.
+
+For convenience, the report is presented in two volumes. This part, Volume I presents a summary of the investigations and the determinations which have been made to date; Volume II provides expanded descriptions of the investigation. 
+
+Alan S. Boyd iv
+
+1. INTRODUCTION THE FEDERAL ROLE 
+
+Congress has authorized and initiated, through passage of the "National 
+
+Traffic and Motor Vehicle Safety Act of 1966" and the "National Highway 
+
+Safety Act of 1966", an extensive and energetic program to reduce deaths, injuries and property damage due to traffic accidents. This legislation establishes the Federal Government's role in improving the safety of traveling on the nation's highways, and is the result of the collective opinion of Congress and the vast majority of traffic safety experts that the appalling losses due to traffic accidents can be reduced through Federal action. 
+
+The essence of the Federal role in the overall national safety effort is the establishment and enforcement of standards for high levels of safety performance for:
+
+Motor vehicles and motor vehicle equipment under the motor vehicle safety law 
+
+State and local highway safety programs under the highway safety law.
+
+INVESTIGATION OF FACILITY NEEDS 
+
+In enacting the legislation, the Congress recognized that both types of standards would have to be based on substantial, objective data, and that the acquisition of reliable information, as with any field involving physical forces and interrelated measurement on humans, required appropriate laboratories and test facilities. The Congress accordingly directed the 
+
+Secretary of Transportation: 
+
+to make a complete investigation and study of the need for a facility or facilities to conduct research, development, and testing in traffic safety (including but not limited to motor vehicle and highway safety). 
+
+Public Law 89-563 80 Stat. 729 1
+
+PURPOSE AND SCOPE 
+
+The purpose of this report is to present the results of this investigation called for in the law. Specifically, it seeks to identify the types of facilities with which the complex array of tests and measurements can be performed that are essential to implementing an effective motor vehicle and highway safety program.
+
+It then seeks to incorporate these requirements into a coherent overall facilities program that will utilize existing facilities where it is economically and technically feasible to do so, but will provide for new construction where it is indicated. 2
+
+2. 
+
+VEHICLE AND HIGHWAY SAFETY PROGRAMS THAT GENERATE FACILITY NEEDS 
+
+The Department of Transportation must now implement five general classes of vehicle and highway safety programs which together generate various facility needs. The program classes are: 1. 2. 
+
+Development of Motor Vehicle Safety Standards Development of State and Community Highway Safety Program Standards 3. Compliance Evaluations of Motor Vehicles (Government Enforcement Responsibilities) 
+
+4. 
+
+Accident and Injury Countermeasures Research 
+
+5. Improvement of the Safety of Motor Carrier Operations 
+
+The first four stem directly from the National Traffic and Motor Vehicle and Highway Safety Acts. The fifth relates to safety regulation by the 
+
+Bureau of Motor Carrier Safety of for-hire and private carriers (trucks and buses) in interstate commerce under the authority of Part II of the 
+
+Interstate Commerce Act. 
+
+DEVELOPMENT OF FEDERAL MOTOR VEHICLE SAFETY STANDARDS 
+
+The safety performance standards which are to be developed by the 
+
+Department of Transportation under Public Law 89-563 apply to both motor vehicles and motor vehicle equipment. They must be performance standards that refer to how the vehicle or equipment will act or react in certain circumstances and not the manner or design whereby this action or reaction is achieved. They must derive from physical reality while reflecting economic and marketplace realities as well. They must cover the significant properties of a vehicle that relate to the desired ends of saving lives and preventing injuries, and which may be grouped into three classes: 
+
+Crash prevention properties (braking and steering are examples)
+
+Crash survivability properties (energy-absorbing steering is an example)
+
+Post crash properties (relative ease of entry into wrecks to remove occupants is an example)
+
+The process of setting performance standards for vehicles thus must deal with an array of complex interactions between vehicle, human, and roadway conditions. Wide variations must be considered in each class, foremost being the differences among drivers; for clearly, standards must be developed that are attuned to the usual, manipulative, and judgment skills of all types of drivers--not only finely trained racing or test track professionals. 
+
+Safety performance that can be translated into practical vehicle designs is the central objective of the Federal standards. Millions of vehicles produced each year at very high rates of mass production must meet these standards which must accordingly reflect cost and production factors as well as safety. While the standards are intended to, and must enhance safety; they should not detract from the vehicle's other performance features nor stifle innovation. Instead, they should permit many alternative design solutions for meeting safety performance requirements and at prices that people can afford to pay. 
+
+Stated simply, each standard must be physically reasonable and attainable. It must be written such that the performance is both measurable and reproducible with minimum, if any, ambiguity in later evaluations of whether or not it has been met by a particular design solution. 
+
+Measurement and testing capability is the foundation requirement for these and other key aspects of the standards development process. Government scientists and engineers charged with this vital national responsibility must be provided with the facilities and test equipment needed to assess properly the highly complex tradeoffs involving safety performance goals, cost and other production factors. 
+
+DEVELOPMENT OF STATE AND COMMUNITY HIGHWAY SAFETY PROGRAM STANDARDS 
+
+The Highway Safety Act of 1966 establishes a broad nationwide effort in which the Federal, State, and local governments can work cooperatively to reduce death, injuries, and property damage resulting from motor vehicle accidents. A primary feature is its provisions for Federal grantsin-aid to State and local governments for improvement and expansion of their highway safety programs, and particularly for implementing higher standards of safety program performance. 
+
+In this regard, the Department of Transportation, after consultation with the States, local governments, other Federal departments and agencies, public and private organizations, has issued standards for State and local safety programs in: Periodic Motor Vehicle Inspection; Motor Vehicle 
+
+Registration; Motorcycle Safety; Driver Education; Driver Licensing;
+
+Codes and Laws; Traffic Courts; Alcohol in Relation to Highway Safety; 
+
+Identification and Surveillance of Accident Locations; Traffic Records; 
+
+Emergency Medical Services; Highway Design, Construction, and Main tenance; Traffic Control Devices. Now in the draft stage are standards for Pedestrian Safety; Police Traffic Services; and Accident Cleanup.
+
+In addition, a manual is now being developed that will provide guidance and assistance to the States in the implementation of the standards and guidelines that have been issued or are under development which represent the best collective judgment of experts as to the present state of the art. But the sobering situation is that, as with the highway safety field in general, the development of these materials has been severely handicapped by a dearth of scientifically sound technical information and statistically sound data bearing upon their substance. In the absence of meaningful cost/benefit information, many high payoff activities are probably underfunded while programs with less payoff may be implemented and emphasized.
+
+A wide variety of problems must be solved in order to upgrade the substance of the activities whereby the States implement each standard. 
+
+The overwhelming need is to test and establish the effectiveness of both those activities which have been generally accepted without proof for years as well as promising innovations. Toward this end, carefully designed research programs must be implemented under closely controlled conditions of measurement and with precise instrumentation. 
+
+Few if any individual States, however, have sufficient numbers of trained researchers, facilities, instrumentation, and other research resources needed to obtain conclusive answers to many of the as yet unanswered and perplexing questions on safety program substance. Furthermore, much of the needed research is so complex that notwithstanding its fundamental importance to the effective implementation of State and local highway safety programs, it is not the kind of work that could reasonably be attempted at State or local levels, at least not without massive Federal support. Hence, the States must look to the Federal Government for leadership in research aimed at testing present safety practices as well as the development of more effective procedures.
+
+It is for the State and local governments to make the highway safety programs work; it is for the Federal Government to furnish leadership and guidance for an integrated program of applied and basic research that will enable the State and local governments to accomplish this purpose. 
+
+COMPLIANCE EVALUATIONS OF MOTOR VEHICLES Under the provisions of the National Traffic and Motor Vehicle Safety 
+
+Act, two classes of evaluations of production vehicles are required dealing LO
+
+respectively with motor vehicle standards and defect notifications. The compliance responsibilities of the manufacturer and derivative enforcement responsibilities of the Department in these two respects may be generally described:
+
+With regard to motor vehicle standards 
+
+Manufacturers must design and manufacture cars which meet the Federal safety standards and certify that they do so The Department must enforce the law through tests and other procedures that indicate whether or not the finished products meet the standards. 
+
+With regard to defect notification campaigns 
+
+Manufacturers must identify safety related defects in their products and notify owners and dealers of corrective measures through appropriate notification campaigns
+
+The Department must provide assurance that the public has been informed of the possible presence of a safety related defect and the necessary corrective measures. The Department has the further responsibility to call to manufacturers attention any safety related defects they have failed to detect, report, and correct. 
+
+To implement its enforcement responsibilities, the Department must have the capability of corroborating through its own independent laboratory and test track procedures the correctness of any supporting data and other demonstrations provided by the manufacturer in support of his certification that his products comply with the applicable Federal standards. The Department must also be able to determine with its own test procedures if consumer experience in actual driving of the vehicle matches performance certified by the manufacturer. Finally, this all important responsibility of providing consumer protection extends as well to independent testing of consumer complaints of unsafe vehicle features not covered by standards.
+
+With regard to manufacturer's defects notifications, the Department has similar responsibilities for independent tests of the technical sufficiency of corrective actions that manufacturers announce in their safety related defects notification campaigns. Again, appropriate laboratory and testing capabilities are central to meeting this responsibility. 
+
+It should be noted that these various responsibilities for safety enforcement by the Department through independent testing extends beyond the
+
+complete motor vehicle to motor vehicle equipment such as tires, brake hoses, brake linings, brake master cylinders and other safety related items in the so-called "aftermarket" of the automotive industry and the vast subsidiary industry of rebuilt parts. 
+
+ACCIDENT AND INJURY COUNTERMEASURES RESEARCH 
+
+The need for better and more fundamental understanding of motor vehicle and highway safety problems has long been unmistakably clear. 
+
+The unavoidable reliance on subjective judgment, if not outright guesswork, today instead of objective information in many critical program decision areas is directly traceable to the fact that highway safety has not received, until recently, anything approaching proper levels of research attention and support. 
+
+This dearth of scientific information cuts across the board in all motor vehicle and highway safety areas, and is reflected in the fact that both safety laws mandate that research, testing, development, and training be conducted in support of their separate provisions. The needed research must draw upon an extremely broad base of knowledge in almost all disciplines: engineering and the physical sciences, physiology and related biomedical fields, psychology and other human-behavior areas of inquiry, education and training methodologies, legal and related social science fields. The needs can be focused on man, the vehicle and the highway environment: 
+
+Man, in terms of drivers, and occupants as well as pedestrians Vehicle, of which there are many types ranging from motorcycles to large trucks
+
+Environment, in terms of the roadway, obstacles, traffic-control system elements, and natural environmental conditions With the field having received little sustained research attention almost endless lists of subject areas can now be identified for each of these three elements, understanding of which is vital to progress in motor vehicle and highway safety. To mention several representative subject areas for each: Man 
+
+Physiological Factors: motor responses, vision, fatigue, and auditory abilities 
+
+Psychological Factors: effects of stress on driver performance
+
+Vehicle 
+
+Training: ways to improve vehicle handling skills, tactical skills, judgment and perception, and driver attitudes
+
+Alcohol: correlation of alcohol intake with driver performance 
+
+Drugs: the correlation between drug use and driver performance
+
+Structures: crashworthiness, energy absorption capacity, capacity of doors to stay shut in crashes and be opened after crashes, dangerous projections on the instrument panel, seat, and anchorage strength 
+
+Brakes: stopping capability, performance when wet, performance when worn, performance under partial failure
+
+Steering and Handling: tendency to overturn, oversteer versus understeer, performance under partial failure of power steering 
+
+Tires: effectiveness of tread patterns, performance on wet or icy road surfaces, performance in snow, anti-skid properties 
+
+Environment. Highway Structures: roadside obstacles, road maintenance, railroad crossings, curbs, barriers •. 
+
+Highway Design: curves, gradients, combined gradients and curbs; visibility on curves; parking area design, cut and fill slopes, widths, intersections 
+
+Highway Surface: traction, reflectivity, friction coefficient measurements; surface roughenings; maintenance, cold weather devices, drainage, other surfaces Lighting: surface lighting; tunnels and underpasses; sign lighting 
+
+Traffic Controls: signs, signals, pavement markings, speed change and auxiliary lanes; one-way street systems, channelization, construction detours The countermeasures required to reduce traffic deaths and injuries involve understanding of how these three elements in combination can:
+
+(1) prevent accidents, (2) reduce injuries in the crashes that do occur, and (3) improve the capability of post-crash recovery of injured occupants.
+
+In pursuing these countermeasure orientations, much work is possible in the overall subject area of "man," or of "the vehicle," or of "the environment." However, the needed effort, by far, must involve programs in which these problems are treated in combination. Thus, for example, the driving skills of people must be studied in relation to the design characteristics of the vehicle; and both must be considered within the context of the road surface on which the driver is operating the vehicle. 
+
+Many general as well as unique measurements and tests are required to assess the extensive performance variations in humans, vehicles, and environment. FOREMOST IS THE NECESSITY TO TEST TO WITHIN THE THRESHOLDS OF DANGER. This inescapable fact cannot be overstated, for the entire program deals with the subject of danger. All research and testing must embody fail-safe devices and conditions to pursue the work safely under inherently dangerous conditions. 
+
+IMPROVEMENT OF THE SAFETY OF MOTOR CARRIER OPERATIONS 
+
+A fifth major category of Department of Transportation programs that bears directly upon highway safety is related to the improvement of the safety of motor carrier operations. Whereas the previously described four program areas are the responsibility of the National Highway Safety Bureau under the provisions of the National Traffic and Motor Vehicle 
+
+Safety Act of 1966 and the Highway Safety Act of 1966, the safety of motor carrier operations in interstate commerce is the responsibility of the 
+
+Bureau of Motor Carrier Safety, a sister Bureau of the National Highway Safety Bureau in the Federal Highway Administration. Both Bureaus have regulatory responsibilities, but while the rulemaking actions of the National Highway Safety Bureau are directed toward the manufacturers of motor vehicles and motor vehicle equipment, the rulemaking actions of the Bureau of Motor Carrier Safety (formerly part of the Interstate Commerce Commission) are directed toward the operators of trucks and buses in interstate commerce.
+
+With the enactment of the two new safety laws, each of which calls for broad programs of research, tests, and development in support of their respective provisions, the means become available for the first time to provide at least some of the long-needed research in support of the safety regulation of the nation's motor carriers both in for-hire and private carriage. With comparatively minor additions, the research and testing required for the development of safety performance standards for the manufacturer of trucks and buses used in interstate commerce, will provide the research support for Bureau of Motor Carrier Safety regulation directed toward the operators of the equipment.
+
+3. 
+
+TYPES OF TESTS RELATED TO MOTOR VEHICLE AND HIGHWAY SAFETY PROGRAMS 
+
+The five classes of program responsibilities discussed, generate a broad array of test and measurement requirements. Some center on highly intensive probing, one time analyses under precise research conditions and controls. Others involve repetitive tests of similar items in which results of tests of each item are compared with a testing standard. 
+
+Some of the more important tests are as follows:
+
+INJURY TOLERANCE TESTS 
+
+The purpose of these tests is to determine the exact magnitude and direction of the forces which cause specific types of injuries. Among the important measurements are the deformations (both plastic and elastic) of human skin and internal tissues, breakages of bones, and the motions of and damage to the various parts of the human body under crash type stresses.
+
+VEHICLE PERFORMANCE TESTS 
+
+Systematic measurements with careful instrumentation must be made of the capability of steering linkage, brakes, springs, shocks, doors, door locks, and many other vehicle components and subsystems to perform safely under a broad range of static and dynamic loads. Other safety properties such as flammability of cabin materials and the susceptibility of fuel tanks to breakage and propagation of fires must also be studied. 
+
+Each critical safety performance characteristic must be studied and evaluated for all types of vehicles ranging in size from small motor bikes and passenger cars up to very large multi-bottomed truck trailer combinations. All ranges of speeds must be considered, and the work must be conducted on lightly loaded vehicles with comparatively poor traction as well as heavy tandem axle loads with major problems of braking capacity. 
+
+Some of the testing can be done in laboratories, but most of the work must be done under actual test track driving, because many of the phenomena of lateral, longitudinal, and vertical accelerations, vibrations, driver handling efforts are so complex that meaningful simulations in laboratories are out of question. Many of these tests can only be conducted with highly skilled test drivers at the wheel, particularly where highspeed driving and vehicle handling problems in inherently dangerous 11
+
+situations are under study. Other tests of human driving skills in relation to vehicle design must utilize representative drivers of all age groups from the overall driving population, including people with normal and below normal sensory capabilities, driving skills or judgment capacities. In addition, the roadway surface over which the vehicles are tested must be measured and known to a high degree of accuracy. 
+
+DRIVER PERFORMANCE TESTS 
+
+Evaluations here involve a large number of psychological and physiological effects, and hence require appropriate measurements of sensory and motor skills, traits, and aptitudes of all classes of drivers in all states of health. Also included are tests on drivers under the influence of alcohol, patented medicines, addictive and nonaddictive drugs.
+
+Possibly the most difficult aspect of driver performance evaluations relates to the broad area of judgment and risk taking behavior under conditions of impending danger. Virtually no systematic study has as yet been attempted, and hence very little is known in this all-important aspect of driving. Work in this area must first be conducted in laboratory simulations of hazardous driving conditions, during which stress reactions such as eye movements, brain activity, respiration, heartbeat, braking, and steering forces can be measured and related to the simulated conditions of driving stress. These laboratory results then have to be compared with results obtained under controlled conditions of test track driving.
+
+Actual driving tests under controlled conditions on test tracks are necessary as a bridge between the laboratory results and driving performance in traffic. Included are tests of many different types of visual, auditory, and tactual skills that are basic to good driving. The special demands upon drivers of trucks and buses must be evaluated. 
+
+HIGHWAY AND ENVIRONMENT TESTS 
+
+This comprises another important facet of a total systems approach to the problem, for it is clear that driver performance and vehicle characteristics must, at some point, be related to the highway itself. 
+
+Laboratory as well as field tests are required in such important features of the highway system as strength and energy absorptive capacity of median barriers and guardrails, roadway illumination and sign visibility under conditions of darkness, inclement weather, and other environmental conditions, and such design factors as curvature, sight distance, lane and shoulder widths, on and off ramp configurations for limited access highways. 12
+
+No less important is work in the entire field of anti-skid and other properties of the road surface. This highlights the need for testing capability on a system basis, for the effects of slippery road surfaces that are wet or icy must be studied in relation both to the handling properties built into vehicles, and the associated driving skills of all types of drivers.
+
+CRASH INJURY AND VEHICLE DAMAGE STUDIES 
+
+This vital field of inquiry presents somewhat different types of testing and measurement requirements since it must center almost entirely around victims of actual crashes and the vehicles involved. Autopsies must be performed on the bodies of the fatally injured. Injured survivors must be the subjects of detailed clinical follow-up on the recuperative processes including cosmetic as well as internal damage repairs. 
+
+The broad array of modern medical research must be brought to bear including, for example, X-ray and other techniques for assessing bone and internal organ damage and recuperative rates in the course of diagnosing and treating injuries produced in crashes.
+
+Concomitantly with the clinical studies on the injuries, "after-thefact" engineering analysis of the vehicles in which the injured parties were riding at the time of impact are required in order to relate specific elements or features of the vehicle to the injuries that were produced in the crash.
+
+This integrated medical and engineering effort has two major goals. 
+
+First, it seeks to develop methods for rapid diagnosis of injuries occupants suffer in crashes and for treatment of the injuries. Second, it seeks to trace the injury and tissue damage back to the impact forces that caused them, or more specifically, back to the vehicle elements that were involved.
+
+COMPLIANCE EVALUATION 
+
+This testing is central to the enforcement of Federal vehicle safety standards and evaluations of dangerous conditions of vehicles resulting from design, poor quality control in manufacture, or later abuse by the owner. A very large number of different types of tests are required, largely on a repetitive basis from one model year to the next: 1. 
+
+Visual Inspection - verify that an item exists or that it meets specified physical characteristics, simply by examining it without tearing it down. 13
+
+2. 3. 4. 5. 6. 7. 8. 9. 
+
+Teardown - verify that the parts of a subsystem meet specified physical characteristics by tearing the subsystem down and examining it.
+
+Measurement - determine the dimensions, weights, or quantity of an item or the distance and angles between items. 
+
+Mathematical Analysis determine what would happen to an item under specified conditions by using an appropriate mathematical model.
+
+Environmental expose an item to a test chamber or other device which simulates temperature, humidity, salt spray, bright sunlight, dust, vibration or other conditions of climate and environment, and determine effect on item. 
+
+Laboratory Destructive - determine the physical, optical, or chemical properties of an item or equipment, using testing devices. This type of test includes the application of stresses which could result in damage or destruction.
+
+Laboratory Nondestructive - determine the physical, optical, or chemical properties of an item or material using testing devices in tests which will not subject the test object to potentially damaging stresses.
+
+Performance Under Simulated Conditions 
+
+operate an item in a test stand or device other than the vehicle in which it is normally installed. operate an item in 
+
+Performance Under Actual Conditions stalled in its normal location on a vehicle. 
+
+10. Crash 
+
+run a vehicle into an object or strike it with an object.
+
+TESTS RELATED TO MOTOR CARRIER SAFETY 
+
+The operation of for-hire and private carriers on the highways of the nation is expanding constantly. The presence of these heavy vehicles on the roadway, coupled with their limited acceleration has a decided impact on the safety aspects of the man-vehicle-environment combination. Tests and measurements must be conducted to establish these interactions as well as the safety characteristics which pertain to the commercial carriers themselves. 14
+
+These tests and measurements include such areas as the stability of doubles and multi-vehicle trains and the effects of such trains on other highway users. The effects of inspection and maintenance practices must be studied, for example, on accident causation, on emissions and noise levels, and on the probable safe working life of components under varying conditions of use. Work must also be conducted to determine the components and accessories which are necessary for safe vehicle operations. This will include mud and water spray control, anti-jackknife devices, prevention of dangerous spillages, visibility requirements, improved coupling methods and emergency exits. 15
+
+4. FACILITY ELEMENTS FOR MAKING NEEDED TESTS CLASSES OF FACILITY ELEMENTS 
+
+A total of 68 different general and special purpose laboratories, special rooms, equipment and field test tracks have been identified as the complement of facilities required for proper conduct of the broad scope of tests and measurements just described. These may be broadly classified as:
+
+Test Track Elements Physiological Test Elements Vehicle Test Elements Human Behavior and Sensory Skills Test Elements Driving Simulation Test Elements Highway Research Test Elements Injury Research and Treatment Test Elements Motor Vehicle Test Elements Total Environment Simulation Test Elements 
+
+Each of the 68 facility elements is specific to one or more types of unique tests or research measurements. All, however must be supplemented by and can share with each other various supporting items including: computers for real-time control of the special laboratory equipment and for scientific data reduction; instrumentation, including fail-safe supervisory controls; photographic and other instrumentation; technical support shops, including the capabilities to calibrate and repair the instrumentation, machine shops, glass blowing units, animal handling units, capability for reception, processing and other handling of volunteer subjects used in "average driver tests.' 
+
+CRITERIA FOR ESTABLISHING OPERATIONAL UNITS 
+
+A number of different criteria have been identified for combining the various requirements into operational units such as laboratory buildings or experimental field stations. The primary criteria are: Manpower
+
+The entire research, test, and development programs for all purposes pose substantial problems in the manpower required for 17
+
+their implementation. The problems relate primarily to the diversity of skills needed to conduct the work, and not the number of workers. The skill requirements cut across engineering, medicine, psychology and a number of other disciplines, as well as many of the subdisciplines within each. Thus, the availability of a manpower supply from which the many specialists can be drawn to conduct the work is a major planning criterion. 
+
+Equipment 
+
+The economics and efficiency in the utilization of both general purpose and special purpose equipment are, along with the manpower issues, also of critical importance in the planning of facility groupings. 
+
+Shared Manpower and Equipment 
+
+The program requirements are complex and overlapping in several dimensions. The reciprocal relationships between manpower and facilities are illustrated by the fact that one group of research and test workers will require several different types of facilities; and one class of facilities will be used by several different research groups. 
+
+Test Subjects 
+
+Much of the research and testing program will depend heavily on a large number of test subjects covering the spectrum of American drivers in respect to age, experience, training, motor and perceptual skills, and size, sex, intelligence, and state of health. It is especially important to plan facility groupings to achieve greatest economy and efficiency in the use of the test subjects, which invariably are in short supply. 
+
+Accident and Injury Patterns
+
+The integrated medical and engineering crash injury research must be conducted in locations where the largest concentrations of representative accident types and injury patterns are occurring. This strongly suggests a number of dispersed locations, each at a hospital. The alternative is to transport crash investigation and trauma research teams over great distances to the scenes of accidents, and then to transport wrecked vehicles back to test laboratories and the injured parties or the bodies of the fatalities back to the trauma research hospitals for clinical follow-up or autopsies. 18
+
+Varying Traffic Densities 
+
+Numerous field tests and observations must be conducted, some using elaborate equipment, under real traffic conditions. Specialists must be able to proceed rapidly to the scene of accidents for study in various locales: on primary and secondary highways, in urban and rural areas, and of varying traffic densities and patterns. 
+
+Topographical and Other Land Criteria 
+
+The various types of test tracks are the primary generators of topographical and other land criteria. Terrain that provides long level distances that are essentially flat is required. Other requirements are for hilly areas with steep grades up to a half-mile long. Climate The test tracks and any related outdoor testing places the most stringent requirements on climate criteria to be incorporated in facilities planning. The overriding requirement is maximum availability, both as to frequency and duration, of clear days suitable for unrestricted outdoor testing for which precise instrumentation including photography are vital. 
+
+Vehicle Standards Enforcement 
+
+In the enforcement of Federal vehicle standards, test centers should be located comparatively close to the major vehicle assembly plants. On the other hand, the enforcement activities related to defect notifications and owner complaints of dangerous vehicle performance suggest that test centers should be located throughout the country where there are concentrations of vehicles in use by the general public, SUITABILITY OF EXISTING FACILITIES 
+
+In order to evaluate the suitability of existing Government facilities for meeting the various safety program requirements and operational criteria, a detailed review and analysis of the recently published "Test Facility Inventory"1 was completed. This was followed by selected on-site inspections and in-depth interviews with representatives of other Government agencies and Departments. 
+
+1"Test Facility Inventory", Wyle Laboratories under contract No. FH-11-6566 19
+
+The initial assessment was further directed toward an even broader array of nongovernment facilities, with corresponding professional staffs at various universities, industrial companies, independent testing laboratories, and State and local organizations throughout the country. 
+
+The entire assessment effort was based on selected on-site visits and in-depth analyses conducted both by Department experts and selected teams of contractors. In all, through mailing of specifically designed facility capability questionnaires and visits, or both, 3,094 organizations have been contacted to date.
+
+A number of criteria were applied in assessing the suitability and availability of existing facilities, among the most important being: performance characteristics, test capacity, geographical location and climate, availability of competent professional staff, availability for sustained use, availability for unplanned quick reaction use, schedules and other workloads, proprietary or military security restrictions, time required for modifications.
+
+The principal result of the studies on the suitability of existing facilities are: 1. 
+
+Many of the 68 facility elements identified as needed for the various safety testing programs can be provided for with existing facilities, either in their present status or with comparatively modest and economically feasible modifications. 
+
+Of most immediate mutual benefit in this regard is the 
+
+Fairbank Highway Research Station at McLean, Virginia, because it is already being operated by the Bureau of 
+
+Public Roads, a sister unit of the National Highway Safety Bureau within the Federal Highway Administration. To gether with the Bureau of Motor Carrier Safety, the third primary unit of the Federal Highway Administration, the 
+
+BPR and NHSB share a common interest in highway safety and have under way or in planning stages several joint efforts.
+
+Plans are now in progress for a completely integrated FHWA research program involving all needs of the three Bureaus, and the Fairbank facility can, and will be, an integral part of the ultimate total capability needed to meet all FHWA requirements. It will be used in particular for those aspects of the NHSB program that are closely related to ongoing BPR research for which the facility was originally designed. In addition, in the early stages of program development, it can provide interim relief for various classes of activity, such 20
+
+2. 3. as some of the facilities planning and staffing work, until the special purpose full scale facilities become operational. 
+
+Other existing facilities also are suitable for meeting some of the 68 facility elements needed for vehicle safety programs. Several already are in use for these purposes. 
+
+For example, the Air Force sled facilities of Holloman Air 
+
+Force Base are being used to perform deceleration and impact tests on dummies, animals, and human volunteers as required for developing vehicle safety belt standards, and for studying other problems of packaging vehicle occupants safely. The Tank and Automotive Center of the Detroit 
+
+Arsenal of the Department of the Army and the Gaithersburg facility of the National Bureau of Standards are being used for some of the tire testing and research of the National 
+
+Highway Safety Bureau. 
+
+However, in the case of the cited examples as well as other existing Government facilities, more detailed engineering and program analysis of present and projected utilization plans have yet to be completed before making appropriate recommendations for permanent alterations of these facilities to meet long-term commitments to safety program requirements.
+
+The only existing test track complexes that approach the Government requirements are those owned by automobile manufacturers. 
+
+There are no other facilities, either Government or non-Government owned, that can meet Government needs in this respect. 
+
+A proving ground type of facility must be the foundation for the entire facility program. It would be comprised of a test track complex including a high-speed loop-track, and impact test area, a vehicle test track, a driver test track, and a simulated urban street area. It also would include the laboratories and other support units required to make it fully operational.
+
+There presently does not exist a driving simulation facility suitable for conducting deep, probing research on all forms of driver skills, judgment, and risk-taking behavior. Although laboratories exist for simulation of highly dangerous aircraft and spacecraft handling situations, and are in use for research, development, and testing in these areas, none of these facilities are suitable for motor vehicle handling studies. 21
+
+A laboratory is required to investigate a wide variety of driver judgments and risk-taking behaviors under carefully simulated reproductions of high hazard conditions of actual driving. It represents a fundamental, deep probe research capability for establishing driver education, licensing, and other performance criteria in dangerous vehicle-driverhighway interactions. 22
+
+5. PROPOSED SAFETY FACILITIES PROGRAM 
+
+To carry out the provisions of the recently enacted motor vehicle and highway safety legislation and improve the safety of motor carrier operations the Department of Transportation will require a broad complement of research, development and test facilities. 1. 2. 
+
+To continue the use of existing facilities, both Government and non-Government owned, to the fullest practicable extent. a. b. c.
+
+The Fairbank Highway Research Station will be utilized for all safety work that can be effectively carried out there. 
+
+Interagency agreements will be proposed and executed for sustained use in motor vehicle safety programs of other Government facilities such as the Daisy Accelerator at 
+
+Holloman Air Force Base. 
+
+Contracts will be negotiated with non-Government organizations, including industrial concerns and universities, for sustained use of their special-purpose facilities by Government scientists or contractors.
+
+To develop plans and cost estimates for permanent modifications of existing Government facilities where it is economically feasible to do so, and where the facility once modified can become an effective element of the overall required complement of safety research and test facilities. a. b.
+
+C. 
+
+For each safety facility requirement that can be met by permanent modifications or other capital improvements to an existing facility, detailed engineering design will be initiated and results presented in a "Preliminary Engineering Report. 
+
+The Report will provide a basis for negotiating the appropriate inter-department agreement for transfer of a facility or its joint use.
+
+The Report will also provide a basis for the appropriate budgetary request for funds to complete the modifications. 23
+
+www 3. 
+
+To develop detailed engineering plans and firm construction cost estimates for the Proving Ground, the requirements for which, as shown by studies to date, cannot be provided with any existing Government facility. 4. a. 
+
+The studies to date have established the nature of the 
+
+Vehicle and Highway Safety Proving Ground requirement, the major research and test elements it will have to contain, the terrain and other general specifications. b. Detailed engineering design will be initiated, and results presented in a "Preliminary Engineering Report" that will: (1) provide detailed specifications as a basis for considering alternative sites and making recommendations to the Congress for final selection, (2) provide detail engineering information and construction cost estimates needed to select the best technical and economic alternative, (3) provide a phasing plan for systematic completion of the facility in increments, each of which in itself would be a usable facility immediately upon completion and regardless of when subsequent increments would be completed. This phasing would also provide for incremental budget requests on a line item basis. 
+
+To initiate preliminary engineering design for driving simulation laboratory which, as shown in studies to date, is a basic requirement that is not available anywhere today. a. b.
+
+The studies to date have established the general nature of the driving simulation laboratory requirement, and that construction of a proper "first generation" (in contrast with present primitive arrangements) unit is within the state of the art.
+
+Detailed engineering design will be initiated and results presented in a "Preliminary Engineering Report" that will: (1) provide detailed specifications and cost estimates for construction and operating a "first generation" driving simulation laboratory, 24
+
+(2) provide general specifications and cost estimates for a more long range development program wherein the present advanced simulation technology of air transportation and spacecraft handling will be adapted to motor vehicle safety. 25
+
+6. RECOMMENDED IMPLEMENTATION 
+
+Initiation is recommended of the proposed program for meeting the immediate and long range facilities needs of the new motor vehicle and highway safety effort.
+
+A preliminary engineering report is to be prepared for each line item delineating alternatives for meeting the requirement, coupled with incremental cost estimates for permanent modification of existing facilities and/or new construction. 
+
+In addition to providing detailed technical specifications for the design, site selection, construction, and ultimate operation of the line item, each report will present a schedule of subsequent funding requests. 
+
+Each funding increment in this schedule will cover a facility element that can be placed in operation, regardless of whether or not any other element is later completed. 
+
+The following is an estimate of cost of engineering planning and design increments for the facilities indicated in this report: 
+
+Modification of Existing Facilities 
+
+(Planning and Design)
+
+Vehicle and Highway Safety Proving Ground 
+
+(millions) $2.0 6.2 
+
+Preliminary Engineering 
+
+Design $1.4 $4.8
+
+Driving Simulation Laboratory 
+
+1.8 
+
+Preliminary Engineering 
+
+Design .6 1.2 $10.0 27
+
+MILESTONES 
+
+CY 1967 CY 1968 CY 1969 CY 1970 
+
+CY 1971 
+
+CY 1972 CY 1973 
+
+STUDY OF REQUIREMENTS SITE SELECTION AND DESIGN CRITERIA PRELIMINARY ENGINEERING REPORT * FINAL DESIGN CODE 
+
+Completed 
+
+To be accomplished| 
+
+*(Includes Engineering and Economic Analysis, Preliminary Design, Refine Cost Estimates) ILLUSTRATIVE PLANNING AND DESIGN SCHEDULE FOR VEHICLE HIGHWAY AND SAFETY PROVING GROUND FIGURE 1 
+
+28
+
+MILESTONES 
+
+CY 1967 CY 1968 CY 1969 
+
+CY 1970 CY 1971 
+
+CY 1972 CY 1973 
+
+STUDY OF REQUIREMENTS SITE SELECTION AND DESIGN CRITERIA PRELIMINARY ENGINEERING REPORT * FINAL DESIGN CODE 
+
+Completed 
+
+To be accomplished 
+
+*(Includes Engineering and Economic Analysis, Preliminary Design, Refine Cost Estimates) ILLUSTRATIVE PLANNING AND DESIGN SCHEDULE FOR DRIVING SIMULATION LABORATORY FIGURE 2 
+
+29

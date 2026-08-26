@@ -1,0 +1,739 @@
+By Methods Woodworth - The Paych 
+
+3271.5 
+
+NEDL TRANSFER 
+
+HN 33JG
+
+A327,115 KG 2101 
+
+Harvard College Library 
+
+VERI TAS 
+
+DEPARTMENT 
+
+OF 
+
+PHILOSOPHY 
+
+AND 
+
+PSYCHOLOGY
+
+THE PSYCHOPHYSICAL METHODS Formulae, Tables and Examples 
+
+By 
+
+ROBERT S. WOODWORTH COLUMBIA UNIVERSITY New York 
+
+September, 1936 
+
+(Copyright, 1936, by Robert S. Woodworth)
+
+KG 2101 bi CE DL વિ ન મૈં ત 1 Ма, Мъ Mid Mdn 
+
+ALPHABETICAL LIST OF SYMBOLS 
+
+Apex value of s, at and Above which all the responses fall in category A relative frequency of responses falling in category A cumulated relative frequency of A responses Basal value of s, at and Below which all the responses fall in category B relative frequency of B responses cumulated relative frequency of B responses correction Constant error= E - S or M - S deviation from the Mean 
+
+Difference Limen error = deviation from the Standard
+
+Point of Subjective Equality, Subjective Midpoint frequency within a step interval 
+
+Guessed Average 
+
+Precision = .707107 step interval
+
+SD number of SD units, counted fromM as center 
+
+Arithmetical Mean or Average 
+
+Mean Transition Point from A to not-A, and from 
+
+B to not-B relative frequency of Mid responses the middle category in a 3-category experiment Median number of trials (in Average Error, N = the whole number of trials; in Constant Stimuli, N = the number of trials for each particular value of s) number of values of s used or considered 12193 
+
+DEPARTMENT OF PHILOSOPHY AND PSYCHOLOGY HARVARD UNIVERSITY 
+
+28898 
+
+119 Ja
+
+p, q p', q' Q1, Q3 SD SDa, SDb SE 
+
+Sum relative frequencies of two complementary classes, so that p + q = 1 cumulated sum of p or q semi-interquartile range quartiles 
+
+Standard stimulus any value of the variable stimulus 
+
+Standard Deviation 
+
+SD of transition from A to not-A, from B to not-B "Standard Error" = 
+
+Sum e2
+
+algebraic sum of the quantities denoted by the immediately following symbols as far as the next ,, or x sign +, transition point weight
+
+METHOD OF LIMITS, OR OF JUST NOTICEABLE DIFFERENCE OR STIMULUS 
+
+1. Applied to the determination of a Stimulus Threshold
+
+Data from Titchener, Exp. Ps., Quantitative. 1905,II, p.6 
+
+Lower limit of audible pitch
+
+Alternate descending and 
+
+Stimulus in and descending series cycles/sec. 24 ​233 23 22 21 + 18 20 20 19 17 16 15 14 
+
+1 ? 13 12 11 29 10 ? ? 
+
+T = 14.5 15.5 
+
+14.5 14.5 14.5 14.5 14.5 13.5 14.5 14.5 
+
+M = 14.5; SD = .45
+
+If the series are combined in pairs, and the average T for each pair taken as the single determination, we have: Av T = 15.0 14.5 
+
+M = 14.5;
+
+SD = .32 14.5 14.0 14.5
+
+2. Applied to the determination of a Difference Threshold 
+
+Scoring conventions: (1) ? and responses are treated as equivalent; (2) with these areequated the responses in locating the transition into or out of +, and the responses in locating the transition into or out of - ; (3) reversals within a series are disregarded. 
+
+Ina descending series, then, locate the first transition from plus to not-plus, and the first from not-minus to minus; and similarly in an ascending series locate the first transition from minus to not-minus, and the first from not-plus to plus. (Note the different scoring of the last two columns, in spite of identical entries, one however being scored downward and the other upward.) 
+
+Responses in alternate descending and ascending series 
+
+Values of V 
+
+S = ? 3 ? ? ? ။ 2 1 T(+) 
+
+5.5 5.5 4.5 6.5 
+
+5.5 3.5 
+
+M = 5.125 5.5 4.5 4.5 3.5 2.5 2.5 
+
+Limen Interval =2.0 1.0
+
+2.0 1.0 3.0 1.0 
+
+M = 1.25
+
+Av T(+ & -) 4.75 5.0 4.75 3.5 
+
+M = 4.5
+
+E = "point of subjective equality" = Mean av T = 4.5; SDaist = .59 CE E. 
+
+S = 4.5 5.0.5 "Interval of Uncertainty" = Mean Limen Interval = 1.25; SDaist= .97
+
+DL = 1/2 Interval of Uncertainty = 625; SDdist 
+
+= 48 Av T(+ & The Limen Interval for each series = T(+) 
+
+T(-) The is computed for each pair of descending and ascending series and gives the point of subjective equality for that double series.)
+
+EQUATION METHOD OR METHOD OF ADJUSTMENT, OF AVERAGE ERROR INCLUDING THE METHOD 
+
+O repeatedly adjusts a Variable stimulus to subjective equality with a constant Standard. In computing the results it has been customary to determine: 
+
+AE, the Crude Average Error, which is 1/Nth of the sum of the single errors with their signs disregarded; 
+
+CE, the Constant Error, which is 1/Nth of the algebraic Sum of the single errors;
+
+VE, the Variable Error, which is the Average Deviation of the settings or reproductions.
+
+It is preferable to follow modern statistical practice, and substitute SD for AD as the measure of variability; and likewise to substitude SE for AE. Then the following equation holds good of the three "errors",
+
+SE2 = SD2 + CE2 It is also important to notice that CE = M 
+
+S, (1) (2) where M is the average of the settings or reproductions. CE is positive when this average exceeds the Standard, negative when it falls short of the Standard.
+
+In computation it is convenient to collect the settings in step intervals and to proceed by the Guessed Average method, using S as the GA. The deviation of any setting from S we call e, the single error, and the "correction" by which we obtain the true from the Guessed Average = CE. In the example below the step interval = 1, and the step numbered 7, for example, extends from 6.5 to 7.5.
+
+Steps 10 
+
+Tally sheet (1) fe fe2 1 +4 + 4 16 2 +3 + 6 18 2 +2 + 4 +1 + 4 S = 12 -1 -12 12 10 -2 -20 40 -3 -21 63 -4 -16 64 1 -5 - 5 25 N = 50 +18 
+
+250 Sum fe2 -74 Sum fe = -56 CE = C = Sum fe- -56- SE2 Sum fe- -56- -1.12 50 2 50 
+
+Sum fe² = 250 = 5.00;
+
+Sum fe2 - c2 SD2 = Sum fe2 
+
+M = S + C = 6.00 
+
+= 5.00 
+
+1.12 = 4.88 
+
+SE = 2.236 1.2544 = 3.7456 ; SD = 1.935
+
+FREQUENCY METHOD INCLUDING THE METHODS OF CONSTANT STIMULI AND OF SINGLE STIMULI 
+
+O responds to each stimulus by assigning it to one of two or more defined classes or "categories". The stimuli used are separated objectively by equal step intervals and are presented many times in shuffled order. The raw data show the number of times each stimulus was presented and the frequency with which O assigned it to each category. Dividing the frequency of a given response by thenumber of times the particular stimulus was presented we have the relative frequency of that response to that stimulus. Relative frequency is the same as percent, with the decimal point used; thus a relative frequency of .38 means that a certain response was given in 38% of the trials. If there are only two categories, so that every response falls under one or the other, we designate the two relative frequencies by the letters p and q, where p + q = 1.00, (3) and if there are three categories, such as "greater", "smaller" and "equal", we will denote the classes by A, B and Mid, and their relative frequencies by a, b and m, where a+b+ m = 1.00
+
+The transition zone. The measurement problem presented by a table of relative frequencies can be brought out by comparing the broad jump and the high jump in athletics. Each broad jump is directly measured on the ground, and if we wished to go beyond athletic practice and obtain a complete statement of an O's performance we should simply record all the single jumps and obtain the M and SD (and perhaps measures of skewness, kurtosis, etc.) The single high jumps are not measured; we only know whether each jump did or did not clear the bar at the height used in that trial. To proceed systematically we should give 
+
+0 a known number of trials at each height and count the successes and failures, so obtaining values of p and q for each height within the transition zone, the range of heights within which both successes and failures occur. The transition zone is bounded below by a Basal Value, B, at and below which every trial is a success (or assumed to be such), and it is bounded above by an Apical Value, A, at and above which every trial is known or assumed to be a failure. At B, and for every value of the stimulus below B, p = 1.00 and q = 0; at and above A, p = 0 and q = 1.00. Such are our data, and the problem is to find 
+
+M and SD of the transition zone, i.e. the M and SD of the distribution of transition points.
+
+There are several ways of computing the required M and SD: 
+
+1. Spearman's direct arithmetical method, which is the logical method to use when the stimulus series is complete, i.e. when it extends from one end to the other of the transition zone so as to yield the necessary values of A and B. When the stimulus series is incomplete, other methods are in order. 
+
+2. The graphic method. 
+
+3. Linear interpolation for the Median, Q1 and Q3. 
+
+4. Fitting a normal ogive to the data. 
+
+5. The Müller-Urban method of fitting a normal ogive to unequally weighted data. (4)
+
+1. The Spearman or arithmetical method is the same in principle as Binet's method of computing Mental Age. It can be illustrated by a table of hypothetical high jump data. Let 0 have 20 trials at each height from 40 inches, which he clears every time, up through 50 inches which he fails every time. Thus B = 40 inches, A 50 inches. His score at each intervening height is shown in the chart, in which we see the ogive-like shape of the transition zone. s in inches A = 50 2 49 
+
+.10 48 
+
+.10 1 47 
+
+.15 2 46 .25 45 -++ .40 44 .60 43 .80 2 33 42 .90 1 41 .95 1 B = 40 +. 1.00 20 = N The arithmetical method of computation has twoequivalent forms, the Summation Method and the Distribution Method. 
+
+a) The Summation Method. Give full credit for the basal height and partial credit for each step within the transition zone, in proportion to the relative frequency of successes at that step. O's Mean is at least 40 inches; if he had cleared 41 inches every time, we should add an inch, and his clearing it .95 of the time is the same for averaging purposes as clearing .95 inch every time; therefore we add .95 inch to the basal value of 40 inches. He clears the next higher step .90 of the time, thus adding .90 inch to his score; and so on. In short, take the sum of the p values within the transition zone, multiply by 1, the step interval, which here = 1 inch, and add to the basal score. Add in also 1/2 the step interval. For suppose that O had cleared 40 inches every time, and 41 inches never, we should then know that his transition point varied between the limits of 40 and 41 inches and that the most probable value to assign for the Mean transition point was the midpoint of the step interval, 40.5 inches.
+
+As a check, we can also compute M by starting from above and using the values of q (which always = 1 1 - p). Add up the
+
+values of q lying within the transition zone, multiply by i and subtract from A, subtracting also 1/2 for the same reason that we added it to B in the other computation. The formulae are: 
+
+M = B + 1/2 + 1 Sum p; also
+
+M = A 1/2 1 Sum q 
+
+The equally important summation formula for computing SD is appended without proof: (5) (6) SD = 1√2 Sum p' 
+
+1 + Sum p) ; also
+
+Sum p (1+ Sum p) (7) SD = 112 Sum q Sum q (1+ Sum q), (8) E@ where p' is the sum of the p values up to and including a given value of p. We start from the small end of the p values and cumulate them. Similarly the q' values are obtained by cumulating the q values from the small end. The high jump data are treated in this manner in the following example. q' 50 (1.00) 49 .10 .10 .90 4.75 48 .10 .20 .90 3.85 47 .15 .35 .85 2.95 46 .25 .60 .75 2.10 45 .40 1.00 .60 1.35 44 .60 1.60 .40 .75 43 .80 2.40 .20 .35 42 .90 3.30 .10 .15 41 .95 4.25 .05 .05 40 (1.00) 4.25 13.80 4.75 = Sum p = Sum p' = Sum q 16.30 = Sum q' 
+
+B = 40 inches; A = 50 inches; i = 1 inch 
+
+M = B + 1/2 = 40 + .5 + i Sum p; + 4.25 = 44.75 inches also M = A 
+
+1/2 = 50 SD= 1//2Sum p' Sum p (1+ Sum p ; = V2 x 13.80 
+
+4.25 x 5.25 √27.60 
+
+22.3125 5.2875 
+
+2.30 inches 
+
+.5 
+
+1 Sum q 4.75 = 44.75 inches also SD = 1/2Sum q' Sum q(1+Sum q 
+
+2 x 16.30 - 4.75 x 5.75 
+
+1/2 √ 32.60 
+
+27.3125 5.2875 
+
+2.30 inches
+
+b) The Distribution Method obtains an ordinary distribution of the transition point by subtracting adjacent frequencies. 
+
+In the chart on p. 7, the transition point lay above 40 in 20 trials but above 41 in only 19; therefore it lay between 40 and 41 in 
+
+1 trial. It lay between 41 and 42 in 1 trial, between 42 and 43 in 
+
+2 trials; and so on as given in the column headed f. 
+
+We can compute M and SD from these f values, in the ordinary way: Interval fd fd2 49-50 48-49 47-48 46-47 45-46 
+
+44-45, GA = 44.5 4 201234 +5 +10 +4 +3 + 3 +2 +1 
+
++4 80000 50 43-44 42-43 2 -2 41-42 1 -3 40-41 1 -4 ག ག་ཆག་ -4 16 
+
+N = Sum f = 20 i = 1 inch + 20 - 15 107 Sum fd2 Sum fd = + 5 M = GA + c = Sum fd/N = 44.5+ .25 = 44.75 inches
+
+SD = i√ Sum fd²/N - c2 ✓ 107/20.0625 15.2875 = 2.30 inches = +5/20 = + .25
+
+The summation method demands less computation; the distribution method has the advantage of being already familiar. Also it can be used in the rare instances where the experimental series of stimuli does not proceed by equal steps. But in using the distribution method one must be prepared for negative frequencies, which occur whenever the p values show an "inversion of the first order", becoming greater when they should become smaller (except for sampling errors). As the different values of p are obtained from different samples, such inversions will occasionally occur. 
+
+But they need cause no trouble in the computation if the negative sign is carefully observed, as illustrated in the following example (data from Bressler, 1933). Weights were lifted, a Standard of 100 grams followed by a weight of 112, 108.....80 grams, which was judged, or as compared with the Standard. In the table, s = the value in grams of the variable weight, and p = the relative frequency of minus judgments. 
+
+---
+
+Table I. 
+
+SD value ( j) corresponding to p in Normal Ogive .01 or .99 21 31 4j 5j 2.3263 4.6527 6.9790 9.3054 11.6317 .02 1 .98 2.0537 4.1075 6.1612 8.2150 10.2687 .03 11 .97 1.8808 3.7616 5.6424 7.5232 9.4040 .04 " .96 1.7507 3.5014 5.2521 7.0027 8.7534 .05 1.95 1.6449 3.2897 4.9346 6.5794 8.2243 .06 
+
+11 .94 1.5548 3.1095 4.6643 6.2189 7.7739 .07 # .93 1.4758 2.9516 4.4274 5.9032 7.3790 .08 " .92 1.4051 2.8101 
+
+5.6203 7.0254 .09 " .91 1.3408 2.6815 4.0223 5.3630 6.7038 .10 11 .90 1.2816 2.5631 3.8447 5.1262 6.4078 .11 .89 1.2265 2.4531 3.6796 4.9061 6.1326 .12 " .88 1.1750 2.3500 3.5250 4.6999 5.8749 .13 117 .87 1.1264 2.2528 3.3792 4.5056 5.6320 .14 11 .86 1.0803 2.1606 3.2410 4.3213 5.4016 .15 1 .85 1.0364 2.0729 3.1093 4.1457 5.1822 .16 " .84 .9945 1.9889 2.9834 3.9778 4.9723 .17 " .83 .9542 1.9083 2.8625 3.8167 4.7708 .18 " .82 .9154 1.8307 2.7461 3.6615 4.5768 .19 1 .81 .8779 1.7558 2.6337 3.5116 4.3895 .20 " .80 .8416 1.6832 2.5249 3.3665 4.2081 .21 " .79 .8064 1.6128 2.4193 3.2257 4.0321 .22 " .78 .7722 1.5444 2.3166 3.0888 3.8610 .23 1 .77 .7388 1.4777 2.2165 2.9554 3.6942 .24 " .76 .7063 1.4126 2.1189 2.8252 3.5315 .25 " .75 .6745 1.3490 2.0235 2.6980 3.3725 .26 " .74 .6433 1.2867 1.9300 2.5734 3.2167 .27 1 .73 .6128 1.2256 1.8384 2.4513 3.0641 .28 ŉ .72 .5828 1.1657 1.7485 2.3314 2.9142 .29 ŉ .71 .5534 1.1068 1.6602 2.2135 2.7669 .30 11 .70 .5244 1.0488 1.5732 2.0976 2.6220 .31 11 .69 .4959 .9917 1.4876 1.9834 2.4793 .32 " .68 4677 .9354 1.4031 1.8708 2.3385 .33 " .67 .4399 .8798 1.3197 1.7597 2.1996 .34 " .66 .4125 .8249 1.2374 1.6499 2.0623 .35 1 .65 .3853 .7706 1.1560 1.5413 1.9266 .36 1 .64 .3585 .7169 1.0754 1.4338 1.7923 .37 
+
+11 .63 .3319 .6637 .9956 1.3274 1.6593 .38 " .62 .3055 .6110 .9164 1.2219 1.5274 .39 " .61 .2793 .5586 .8380 1.1173 1.3966 .40 " .60 .2533 .5067 .7600 1.0134 1.2667 .41 1 .59 .2275 .4551 .6826 .9102 1.1377 .42 1 .58 .2019 .4038 .6057 .8076 1.0095 .43 1 .57 .1764 .3527 .5291 .7055 .8819 .44 11 .56 .1510 .3019 .4529 .6039 .7548 .45 # .55 .1257 .2513 .3770 .5026 .6283 .46 1 .54 .1004 .2009 .3013 .4017 .5022 .47 " .53 .0753 .1505 .2258 .3011 .3764 .48 1 .52 .0502 .1003 .1505 .2006 .2508 .49 11 .51 .0251 .0501 .0752 .1003 .1253 .50
+
+TABLE II. Müller-Urban Weights and products 
+
+.01 .99 .1127 .2622 .02 .98 .1881 .3864 .03 .97 .2499 .4700 .04 .96 .3036 .5316 .05 .95 .3519 .5788 .06 .94 .3954 .6147 .07 .93 .4351 .6421 .08 .92 .4718 .6629 .09 .91 .5059 .6783
+
+S = 1 S = 2 wj 2 လ လ
+
+= 3 = 4 WS WS wsj WS ws2 wsj WS ws2 wsj .2254 .4508 .5243 .3762 .4998 .9996 .9400 .6073 1.2146 1.0632 .7038 1.4076 1.1576 .7525 .7727 .3381 1.0142 .7865 .5644 1.6931 1.1591 .7497 2.2491 1.4100 .9109 2.7328 1.5947 1.0557 3.1671 1.7365 .4508 1.8030 1.0486 .7525 3.0099 1.5454 .9996 3.9984 1.8800 1.2146 
+
+4.8582 2.1263 1.4076 5.6304 2.3153 .7907 1.5814 1.2294 .8702 1.7403 1.2842 .9435 1.8871 1.3257 1.0118 2.0236 1.3566 1.0751 2.1502 1.3778 1.1861 3.5582 1.8441 1.3052 3.9157 1.9263 1.4153 4.4259 1.9886 1.5177 4.5531 2.0349 1.6127 4.8380 2.0667 1.5814 
+
+6.3258 2.4587 1.7403 6.9613 2.5683 1.8871 2.0236 7.5483 2.6515 
+
+8.0944 2.7132 2.1502 
+
+8.6008 2.7556 1.1346 2.2692 1.3916 1.1907 2.3813 1.3990 1.2430 2.4860 1.4001 1.2927 2.5853 1.3965 1.3394 2.6788 1.3882 
+
+1.7019 5.1056 2.0874 1.7860 5.3580 2.0985 1.8645 5.5935 2.1002 1.9390 5.8170 2.0947 2.0091 6.0273 2.0823 2.2692 9.0766 2.7832 
+
+9.5253 2.7980 .10 .90 .5376 .6889 .11 .89 .5673 .6958 .12 .88 .5953 .6995 .13 .87 .6215 .7001 .14 .86 .6463 .6982 .15 .85 .6697 .6941 .16 .84 .6921 .6882 .17 .83 .7129 .6802 .18 .82 .7327 .6707 .19 .81 .7515 6598 .20 .80 .7695 .6476 .21 .79 .7865 .6342 .22 .78 .8025 .6197 .23 .77 .8179 .6043 .76 .8323 .5879 .75 .8460 .5706 .24 .25 1.3842 2.7683 1.3765 1.4257 2.8515 1.3604 1.4653 2.9307 1.3413 1.5031 3.0061 1.3195 1.5390 3.0780 1.2953 1.5729 3.1459 1.2685 1.6051 3.2102 1.2394 1.6357 3.2714 1.2085 1.6646 3.3293 1.1757 1.6921 3.3842 1.1413 2.0762 6.2287 2.0647 2.1386 6.4158 2.0406 2.1980 6.5940 2.0120 2.2546 6.7638 1.9793 2.3085 6.9255 1.9429 2.3813 
+
+2.4860 9.9440 2,8002 2.5853 10.3413 2.7930 2.6788 10.7152 2.7764 2.7683 11.0733 2.7530 2.8515 11.4059 2.7208 
+
+2.9307 11.7227 2.6826 3.0061 12.0245 2.6391 
+
+3.0780 12.3120 2.5905 
+
+3.1459 12.5835 2.5369 
+
+3.2102 12.8406 2.4789 3.2714 13.0858 
+
+3.3293 13.3171 
+
+2.3594 7.0782 1.9027 2.4076 7.2229 1.8591 2.4536 7.3607 1.8128 2.4970 7.4909 1.7636 
+
+2.5381 7.6144 1.7119 3.3842 13.5366 2.2826 2.4171 2.3515
+
+TABLE II, continued 
+
+9 = 1 S = 2 
+
+11 2+ wj WS ws2 wsj WS WS Ws2 wsj 42 WS WS wsj .31 .26 .74 .8590 .5526 .27 .73 .8713 .5339 .28 .72 .8830 .5146 .29 .71 .8939 .4947 .30 .70 .9043 .4742 .69 .9140 .32 .68 .9232 .4318 .33 .67 .9317 .4099 .34 .66 .9398 .3876 .35 .65 .9473 .3650 1.7180 3.4360 1.1053 1.7426 3.4852 1.0679 1.7659 3.5318 1.0293 1.7878 3.5755 .9893 1.8085 3.6170 .9484 .4532 1.8280 3.6561 1.8464 3.6929 1.8634 3.7268 1.8797 3.7594 1.8945 3.7890 .9064 .8636 .8197 .7753 .7300 2.7421 8.2262 1.3597 
+
+2.7697 8.3090 1.2954 2.7951 8.3853 1.2296 2.8196 8.4586 1.1630 2.8418 8.5253 1.0950 2.5770 7.7310 1.6579 2.6139 7.8417 1.6018 
+
+2.6489 7.9466 1.5439 2.6816 8.0449 1.4840 2.7128 8.1383 1.4226 3.6561 14.6243 1.8129 3.6929 14.7715 1.7272 3.7268 14.9072 1.6395 
+
+3.7594 15.0376 1.5506 3.7890 15.1562 1.4600 3.4360 13.7440 
+
+3.4852 13.9408 
+
+3.5318 14.1274 2.0585 3.5755 14.3021 1.9786 3.6170 14.4682 1.8968 2.2105 2.1358 .36 .64 .9542 .3420 .37 .63 .9607 .3188 .38 .62 .9666 .2953 .39 .61 .9720 .2715 .40 .60 .9768 .2475 
+
+1.9084 3.8168 1.9214 3.8429 1.9332 3.8663 1.9440 3.8881 1.9537 3.9074 .6841 .6376 2.8626 8.5878 1.0261 
+
+2.8822 8.6465 .9565 .5906 
+
+2.8997 8.6992 .8858 .5430 .4950 
+
+2.9161 8.7482 
+
+2.9306 8.7916 3.8168 15.2672 1.3682 
+
+3.8429 15.3715 3.8663 15.4653 1.1811 .8145 3.8881 15.5523 1.0860 .7425 3.9074 15.6296 .9899 1.2753 .41 .59 .9814 .2233 .42 .58 .9853 .1989 
+
+43 .57 .9888 .1744 .44 .56 .9918 .1497 .45 .55 .9943 .1249 
+
+1.9627 3.9254 1.9706 3.9413 
+
+1.9776 3.9551 .3488 
+
+1.9836 3.9671 .2995 
+
+1.9886 3.9772 .4466 .3978 .2499 
+
+2.9441 8.8322 
+
+2.9560 8.8679 
+
+2.9663 8.8990 
+
+2.9753 8.9260 
+
+2.9829 8.9487 .6699 3.9254 15.7018 .5968 3.9413 15.7651 .5232 3.9551 15.8205 .4492 3.9671 15.8685 .3748 3.9772 15.9088 .8932 .7957 .6976 .5989 .4998 .46 .54 .9964 .1001 .47 .53 .9980 .0751 .48 .52 .9991 .0501 .49 .51 .9998 .0251 .50 1.0000 0 1.9928 3.9855 
+
+1.9959 3.9918 
+
+1.9982 3.9963 1.9996 3.9991 2.0000 4.0000 .2001 .1502 .1002 .0501 .0752 
+
+2.9891 8.9674 .3002 3.9855 15.9421 
+
+2.9938 8.9816 .2253 
+
+2.9972 8.9917 .1503 
+
+2.9993 8.9980 
+
+3.0000 9.0000 .4003 
+
+3.9918 15.9672 .3005 3.9963 15.9853 .2004 
+
+3.9991 15.9965 .1003 
+
+4.0000 16.0000
+
+Constant Stimuli data computed by the "distribution method" fd fa2 112 .10 +4 + .40 108 .10 .02 +3 + .06 +1.60 + .18 104 .12 -.02 +2 
+
+.04 
+
+.08 100 
+
+.48 +1 + .48 +..48 96 .58 .20, GA = 94 92 .78 .18 -1 - .18 + .18 88 .96 -.03 -2 + .06 
+
+.12 84 .93 .07 -3 
+
+.21 + .63 80 1.00 
+
+N = Sum f = 
+
+1.00 i = 4 grams +1.00 
+
+Sum fd = + .57 = +.57 1 = +2.28 grams +3.07 -.20 +2.87 = Sum fa²
+
+M = GA + c = 94 + 2.28 = 96.28 grams
+
+SD = 1√ Sum fa²/N = 1.60 i = 6.40 grams 
+
+c2 = i√ 2.87 
+
+.572
+
+The summation method gives the same results much more conveniently. 
+
+The cut tail error
+
+The arithmetical method in either of its forms is based on the assumption of a "complete series". 
+
+When, as often, the series of stimuli used in the experiment does not extend far enough to give p = 1.00 at one end and p = 0 at the other end (or nearly those values), the value of M computed from the short series is displaced, though often very little, while the obtained value of SD is sure to be smaller than its true value and often considerably smaller. Partial correction of this error is afforded by a simple modification of the arithmetical method, the "double step" device. If the experiment has employed 7 values of the variable stimulus, use in the computation only the 1st, 3rd, 5th and 7th of these stimuli, with their respective values of p, just as if the experimenter had doubled his step interval and used only these four stimuli. The points where p is assumed to reach 0 and 1.00 are thus pushed farther out and the assumption is less in error. The error of cut tails and the correction obtained by "double step" will be illustrated in an example from Bressler, which will also be used later for other methods. The original series of stimuli is here complete and furnishes correct values of M and SD, with which the values obtained from the cut series can be compared.
+
+M and SD for judgments "heavier" computed by Summation 
+
+Complete series Shortened series Double step q' q' q' (124) 120 *(1.00) ´´ (1.00) .(1.00 assumed) 116 .99 4.90. .99 4.83 .99 2.71 112 .97 3.91 .97 3.84 108 .92 2.94. .92 2.97 .92 1.72 104 .77 2.02 .77 1.95 100 .62 1.25. .62 1.18 .62 .80 96 .38 .63 .38 .56 92 .18 .25. .18 .18 .18 .18 88 .04 .07 84 .03 .03. 80 Sums 4.90 16.00 
+
+Value of A 120 grams 
+
+Value of i
+
+Compute M 
+
+4 grams 
+
+120 24.90 x 4 
+
+= 98.40 grams 
+
+Compute SD2 2 x 16.00
+
+SD ။ 
+
+4.90 x 5.90 = 3.0900 1.758 x 4 = 7.03 grams 120 grams 4 grams 120 - 2 2 - 4.83 x 4 = 98.68 grams 
+
+2 x 15.41 
+
+4.83 x 5.83 = 2.6611 
+
+1.631 x 4 = 6.52 grams (0 assumed) 124 grams 8 grams 124 - 4 - 2.71 x 8 = 98.32 grams 
+
+2 x 5.41 - 2.71 x 3.71 .7659 .875 x 8 = 7.00 grams (0 assumed) 4.83 15.41 2.71 5.41
+
+2. 
+
+The graphic method. The values of s are laid off on the base line and at each point is erected an ordinate proportional to the corresponding value of p. A smooth curve can be drawn to fit the data points as closely as possible. It is safe to assume that the true curve is like an ogive in merging at one end with the base line and at the other with the horizontal line, p = 1.00, and also in having somewhere near the middle an inflection point. One may assume, further, that the true curve has no inversions of the first order-- no places where an ascending curve takes a dip, etc--and that it has no inversions of the second order-- no irregular changes in slope. The slope should become gradually steeper from either end to the inflection point, and the curve should be nearly a straight line for some distance where it is steepest. The smooth curve drawn in "by the eye" should meet these specifications and at the same time pass as impartially as possible over and between the data points, steering a middle course.
+
+The graph affords a view of the transition zone as a whole, and serves as a check against gross errors of computation. The 
+
+Median and Quartiles can be approximately located by noting where the curve crosses the horizontals for p = .25, .50 and .75.
+
+Sometimes a cut tail can berather safely reconstructed by continuing the smooth curve beyond the last data points. 3. 
+
+Linear interpolation. This procedure gives us not 
+
+M and SD, but the Median, Quartiles and Q. We procede in the regular way for computing Mdn and the Quartiles (Garrett, 1926, pp. 
+
+11, 18), except that the "counting up frequencies from one end" is already done for us in our values of p. In the present example we have:
+
+Mdn = 96 + 4 ★ 
+
+Q1 = 92 + 4 x (.50 (.25 
+
+.38)/(.62 .18)/(.38 .38) = 98.00 
+
+Q3 =100 + 4 x (.75 - .62)/(.77 - .62) .18) .62) = 93.40 =103.47
+
+= (103.47 - 93.40)/2 = 5.03 grams
+
+Because of some skewness usually to be found in the data we cannot expect 'the Mdn to coincide with the M, nor Q to be exactly .6745 SD. 
+
+If we are willing to assume that the skewness is an accident of sampling, we cancompute a smoothed value for Mdn = M by taking ( Mdn + Q1 +Q3 ) / 3, which gives us here an estimate of M = 98.29, rather close to the "correct" value obtained from the complete series by summation (p. 11). 
+
+The value for SD obtained by multiplying Q by the theoretical ratio, 1.4826, is 7.46, rather greater than the "correct" value of 7.03. 4.
+
+Fitting a normal ogive to the data. Here we assume that the data would fall into a normal ogive, except for sampling errors, and we make use of a table of the normal probability curve which has been worked out by aid of the calculus. (Fortunately, if we are willing to take the table on faith, we need not know anything more of the calculus.) In the normal ogive, to each value of p (or q) corresponds a value which we will call j, which is the number of SD units that the point lines above or below M. For example, when p = .84, the point lies 1 SD below M, and when p = .16, the point lies 1 SD above M. By "the point"
+
+we really mean the abscissa of the data point, i.e. the value of s, along the base line, which has yielded a given value of p. 
+
+We thus have, for each value of s used in the experiment, s = M + j X SD i.e., any value of s can be expressed as lying j SD units above or below M, j being taken as + on one side of M and on the other side. as 
+
+The experiment gives us a value of p for each s, and a table of the normal ogive (as Table I below) gives us the value of j corresponding to the obtained p. We can thus substitute in Equation (9) the corresponding values of s and j, as is done below for the "Shortened series" of our example. equation (9) 116 .99 2.3263 112 .97 1.8808 108 .92 1.4051 116 = M + 2.3263 SD 112 = M + 1.8808 SD 108 = M + 1.4051 SD 104 .77 .7388 104 = M + .7388 SD 100 .62 .3055 100 M + .3055 SD 96 .38 .3055 92 .18 
+
+.9154 
+
+96 = M 92 = M 
+
+.3055 SD 
+
+.9154 SD 
+
+Taking any two of these equations and solving them simultaneously would give us values of M and SD; but the different pairs of equations would give us different values of BB because of sampling errors, as we assume, i.e. because the values obtained for p are not exactly correct.
+
+This difficulty is met, in Fechner's Method of Right and Wrong Cases, by concentrating all the laboratory work upon just two values of s and so determining the corresponding p values with great accuracy. In G.E.Müller's Method of Constant Stimuli, now usually followed, the best values of M and SD, fitting the equations as closely as possible, are obtained by the method of Least Squares, which is the same method by which the Pearson coefficient of correlation is derived. What we want here is in fact a formula for the regression of i on s. We want a formula that shall give us the most probable value of j for each value of s-when all the obtained values of p are taken into account. On our assumption of a normal ogive s and j are simply two measures of the same quantity, expressed in different units. If the assmptiion were precisely correct, the correlation between s and would be +1.00; and the actual correlation between s and J would show how well the data fit this assmption. 
+
+Our problem would then be solved for each set of data by finding the correlation of s and ♬ and obtaining the regression equation of j on s. This has been done once for all in letter symbols, and the following formulae give the best fitting or most probable values of SD and M.
+
+Formulae for fitting a normal ogive to the obtained values of p, by use of Table I, i.e. without use of the Müller- 
+
+Urban weights: 
+
+SD = n Sum s2 n Sum sj 
+
+(Sum s)2 
+
+(10) 
+
+• Sum sx Sum j Sum sx Sum sj - Sum s2 x Sum j (11) n Sum sj 
+
+Sum s x Sum j In these formulae, n = the number of values of s considered; s = any value of the variable stimulus, expressed in terms of the step interval as unit, and counted up and down, + and from the central value of s, which is the GA; 
+
+Sums the algebraic sum of the s values; Sum s2 = the sum of the squared values of s; (Sum s)2= the square of Sum s; 
+
+j= the value taken from the Table corresponding to a given p, j being + on one side of p = .50 and on the other side; 
+
+Sum = the algebraic sum of the j values; Sum sj= the algebraic sum of the products sj, each s being multiplied by its corresponding j, their signs being respected. 
+
+For convenience, the Table gives values of sj. 
+
+SD = the most probable value of SD in terms of i; the value obtained by the formula is finally to be multiplied by i. 
+
+M = the correction, to be multiplied by i and applied to the GA to obtain the most probable Mean transition point. 
+
+Simplied formulae for the case where n is an odd sumber, so that Sum s = 0, the middle value of s being taken as GA: 
+
+Sum $2
+
+Sum sj SD = Sum s2 x Sum j n Sum sj (12) (13) (The simpler formulae can be used even when n is an even number, as 6, by taking the midpoint of the s series as GA and halving 1, thus having for s values: +1, +3, +5, -1, -3, -5 .)
+
+The use of both simpler and full formulae will be illustrated by use of the data on p. 11, Shortened series. As n here = 7, the simpler formula is first used. Then to make n an even number the uppermost value of the variable is omitted and the results computed by the full formula.
+
+Computation of M and SD by use of Table I, when n is odd.
+
+sj s in grams s in steps 116 + 3 .99 + 2.3263 + 6.9790 112 + 2 .97 + 1.8808 + 3.7616 108 +1 .92 + 1.4051 + 1.4051 GA = 104 .77 .7388 100 
+
+1 .62 .3055 .3055 96 2 .38 .3055 92 - 3 .18 
+
+.9154 i = 4 grams n = 7 Sum s = 0 Sum s2 = 28 + 6.6565 - 1.2209 + 5.4356 = Sum J .6110 2.7461 +15.5028 
+
+.3055 +15.1973 = Sum sj SD = Sum s2 Sum sj 28 15.1973 = 1.842 = i M = 
+
+Sum s2x Sum j n Sum sj = 7.37 grams 
+
+28 x 5.4356 
+
+7 x 15.1973 
+
+= 1.431 4 = i The same, when n is even s in grams 112 108 GA = 104 100 96 92 n = 6 i = 4 = 5.724 104 = GA 
+
+98.28 grams s in steps + 2 sj .97 + 1.8808 + 3.7616 + 1 
+
+1012M| .92 + 1.4051 + 1.4051 .77 .7388 .62 .3055 .38 .3055 .3055 .6110 .18 .9154 + 2.7461 + 4.3302 - 1.2209 + 3.1093 = Sum j + 8.5238 .3055 + 8.2183 = Sum sj 
+
+Sum s = 3 (Sum 2 = 9 Sum s2 = 19 
+
+Compute Denominator: 
+
+6 x 8.2183
+
+Numerator of SD: 
+
+6 x 19 - 9 (-3) x 3.1093 = + 58.6377 = + 105; SD = + 105 + 58.6377 1.791 7.164 grams = 83.7316
+
+Numerator of M: 
+
+(-3) x (+8.2183) 
+
+M = 83.7316 + 58.6377 
+
+19 X (3.1093) = 1.428 -5.712 104 98.29 = GA grams
+
+5. Fitting a normal ogive, using the Müller-Urban weights. 
+
+The several equations (as on p. 13) with which we are dealing may not deserve equal weights. The weights should be unequal if the values of p are not equally reliable. If more trials have been given at one value of s than at another, the equations ought strictly to be weighted in proportion to the number of trials. Again, with the same number of trials, a p is more reliable the closer it is to 0 or to 1.00 (and the farther from .50). Also, the data points to which we are fitting an ogive are s,p values, not s,j; and Müller introduced a set of weights intended to make fit the p values most closely. Urban combined Müller's weights with the factor representing the reliability of p, and provided a convenient table for using these weights. Table II below is Urban's table with one modification: it conforms to present statistical practice (rather than to Fechner) in using the SD as a unit instead of the "modulus" which SD √2. The formulae for use with the Table are also modified to give SD instead of the traditional "Precision", designated by the letter h, where 1 modulus h = 1 SD V2 
+
+From this it also follows that
+
+SD = .707107, .707107 SD (14) so that it is easy to compute either SD or h, given the other. 
+
+Let the weight assigned to any pair of values, s and j, be denoted by w. Then the weighted formulais derived from the unweighted formula given above by simply writing Sum w in place of n, and inserting w after each "Sum" sign,i.e. writing 
+
+Sum ws for Sum s, Sum ws2 for Sum s2 Sum wj for Sum j Sum wsj for Sum sj 
+
+Thus we obtain:
+
+SD = Sum w x Sum Sum w x Sum ws2 
+
+(Sum ws) 2 wsj Sum ws X Sum w Sum ws X Sum wsi Sum w X Sum wsj 
+
+Sum ws2X Sum wi 
+
+Sum ws X Sum wj (15) (16) Here again, s is the number of steps up and down from a central value, and the M finally multiplied by 1; to be applied to the GA. and SD obtained by the formulae must be also the M obtained is the correction 
+
+There is here no chance of simplifying the formulae by making Sum s = 0, for Sum ws will never be zero except by accident. 
+
+In computation, care has to be taken with the signs: w is always; the sign of wj (as of j) is when p is less than .50 and when p is greater than .50 (or the reverse, as convenient); the sign of ws is + or - according to the sign of s; the sign of wsj is + or according as the signs of s and j are the same or opposite, and ws2 is necessarily + 
+
+---
+
+COMPUTATION WITH MÜLLER- URBAN WEIGHTS 
+
+s in grams s in steps wj WS ws2 wsj 116 + 3 .99 .1127 .2622 .3381 1.0142 .7865 112 + 2 .97 .2499 .4700 .4998 .9996 .9400 108 + 1 .92 .4718 .6629 .4718 .4718 .6629 GA 104 .77 .8179 .6043 100 
+
+· 1 .62 .9666 .2953 
+
+.9666 .9666 
+
+.2953 96 - 2 92 - 3 2 3 .38 .9666 
+
+.2953 -1.9332 3.8663 .5906 .18 .7327 .6707 -2.1980 6.5940 2.0120 4.3182 1.3287 -3.7881 13.9125 4.6967 = Sum w = Sum wj =Sum ws = Sum ws2 = Sum wsj i = 4 
+
+Compute Denominator: 
+
+Sum w Sum wsj 
+
+Sum ws
+
+Sum wj 4.3182
+
+4.6967 20.2813 
+
+3.7881
+
+1.3287 5.0332 25.3145
+
+Compute Numerator of SD: 
+
+Sum w 45.7273 25.3145 = 1.806 i = 7.22 grams
+
+Sum ws2 4.3182
+
+13.9125
+
+SD = 60.0770 (Sum ws)2 (3.7881)2 14.3497 45.7273 
+
+Compute Numerator of M: 
+
+Sum ws
+
+Sum wsj - 3.7881 
+
+36.2771 M = 4.6967 
+
+17.7916 
+
+Sum ws2
+
+Sum wj 13.9125
+
+1.3287 
+
+18.4855 36.2771 25.3145 = 1.433 i + GA 
+
+= 98.27 grams
+
+The results of the various forms of computation upon these same data are assmbled below from pp. 11, 12, 15 and 17. 
+
+Complete series, Spearman
+
+Shortened series: 
+
+Double step 
+
+Linear interpolation 
+
+Normal ogive, unweighted 
+
+The same with Müller-Urban
+
+SD 98.40 7.03 98.32 7.00 98.29 7.46 98.28 7.37 98.27 7.22
+
+The reliability of the M and SD can be roughly estimated by using the ordinary formulae (which are probably not exactly applicable), viz.
+
+SD SDM = VN SD sa and SD =3 (here N = no. trials per single value of s
+
+V2N In the present example, since N was 500, we obtain an SD of the M of .31 and an SD of the SD of .22 . To judge from the single case, any of the methods are adequate for finding M, but there is some doubt regarding the SD. Using the Spearman value of SD from the complete series as a criterion, we find sometimes one and sometimes another of the methods of computation to give the best approximation from a cut series. 
+
+When N is not such as to give an exact value of p in two decimal places, use can be made of the Kelley-Wood Table (Kelley, 1923, p. 373). 
+
+373). This table gives our j under the heading x; and our w= the product of z/q and z/p, multiplied by the constant factor 1.5708. The values of wj, ws, etc. will have to be found by multiplication.
+
+CONSTANT STIMULI WITH THREE CATEGORIES 
+
+With three categories, A, B and Mid, there are two transtions, from A to not-A, and from В to not-B. The computation is the same as for two categories, except that (1) it has to be made twice over because of the two transitions, (2) a measure has to be found for the point of subjective equality, and (3) a measure can be obtained for the DL.
+
+DL = 1/2 of the Interval of Uncertainty 
+
+DL = Ma - Mb Mp, which is Ma Mbi (17) 2 where Ma and Mp are the mean transition points from A to not-A and from B to not-B, found by any of the methods already listed. 
+
+It is also true, in case of a complete series, as can be easily proved from Equation (4), p. 6, that
+
+Ma ¶n = i Sum m, so that, for such a series,
+
+DL = 1 Sum m 
+
+2 (18)
+
+In a shortened series, some Mid responses are lost and thus Sum m is made too small and with it the DL, so computed, is too small. For obtaining DL it is specially important to make sure of correcting for cut series. The following table gives the relative frequencies of each of the three categories from the same experiment from which our previous example was taken. 120 1.00
+
+ВО 116 .99 .01 112 .97 .03 108 .92 .04 .04 104 .77 .13 .10 100 .62 .23 .15 96 .38 .30 .32 92 .18 .27 .55 88 .04 .14 .82 84 .03 .10 .87 80 .02 .98 
+
+Sum b=3.83
+
+Sum a = 4.90 Sum m =1.27 
+
+A = 120 ; B = 76, assumed; i = 4 grams 
+
+M.= A 1/2 i Sum a Mb 
+
+= B + 1/2 + i Sum b
+
+DL = Ma Mb 2 
+
+= 120 2 
+
+4 X 4.90 = 98.40 grams = 76 + 2 + 4 X 3.83 = 93.32 grams = 2.54 grams
+
+Also, DL = 1 Sum m = 4X1.27 
+
+2 SD =¿ V2 Sum a' SDb = √2 Sum b =¿ 2 = 2.54 grams 
+
+Sum a 1+ Sum a = 7.03 grams 
+
+Sum b (1+ Sum b) = 7.27 grams 
+
+Av SD = (7.03 + 7.27) / 2 = 7.15 grams
+
+E = point of subjective equality (or subjective midpoint), computed in two ways, thus:
+
+E = Ma + Mb 2 = 95.86;
+
+E = Max SDb + Mь × SDa this is the midpoint between the upper and lower mean transition points. a = 95.90 (19) (20) SDb + SDa (21) The more elaborate formula gives the value of s which should give equal frequencies of the A and B responses; it reduces to the simpler formula when the two SDS are equal. CE E 
+
+- S With two categories, E = M; and as there is no Mid class, Sum m = 0, and DL comes out zero. That is, a two-category experiment does not yield any measure of DL.

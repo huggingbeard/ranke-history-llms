@@ -1,0 +1,17 @@
+  streamed 4000: modern=36 old=800
+  streamed 8000: modern=148 old=800
+
+modern (year>=1946) sampled: 250   |   old (year<=1945) sampled: 800
+
+signal                              RECALL on modern  false-pos on old
+vocabulary (>=1 marker)                        44.0%              0.0%
+in-text year (>=1 post-1945)                   98.8%             30.0%
+in-text year (>=2 distinct)                    94.8%              6.6%
+vocab OR in-text-year(>=1)                     98.8%             30.0%
+vocab OR in-text-year(>=2)                     95.2%              6.6%
+vocab AND year both present                    44.0%              0.0%
+
+reading: RECALL = % of modern books that signal would catch from CONTENT alone
+(i.e. even if the date label were wrong); false-pos = % of genuinely old books it trips.
+
+modern books: median distinct post-1945 years in text = 15; share with 0 = 1.2%

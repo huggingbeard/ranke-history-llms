@@ -1,0 +1,44 @@
+{
+ "passages": [
+  {
+   "event": "wwi",
+   "role": "post",
+   "provenance": "Keynes, The Economic Consequences of the Peace (1919), Gutenberg #15776",
+   "text": "the delicate, complicated organization, already shaken and broken by war, through which alone the European peoples can employ themselves and live. In England the outward aspect of life does not yet teach us to feel or realize in the least that an age is over. We are busy picking up the threads of our life where we dropped them, with this difference only, that many of us seem a good deal richer than we were before. Where we spent millions before the war, we have now learnt that we can spend hundreds of millions and apparently not suffer for it.",
+   "n_words": 100,
+   "masked": "the delicate, complicated organization, already shaken and broken by war, through which alone the the nation peoples can employ themselves and live. In the nation the outward aspect of life does not yet teach us to feel or realize in the least that an age is over. We are busy picking up the threads of our life where we dropped them, with this difference only, that many of us seem a good deal richer than we were before. Where we spent millions before the war, we have now learnt that we can spend hundreds of millions and apparently not suffer for it."
+  },
+  {
+   "event": "wwi",
+   "role": "post2",
+   "provenance": "Keynes, Economic Consequences of the Peace (1919), Gutenberg #15776",
+   "text": "In continental Europe the earth heaves and no one but is aware of the rumblings. There it is not just a matter of extravagance or \"labor troubles\"; but of life and death, of starvation and existence, and of the fearful convulsions of a dying civilization. * * * * * For one who spent in Paris the greater part of the six months which succeeded the Armistice an occasional visit to London was a strange experience.",
+   "n_words": 76,
+   "masked": "In continental the nation the earth heaves and no one but is aware of the rumblings. There it is not just a matter of extravagance or \"labor troubles\"; but of life and death, of starvation and existence, and of the fearful convulsions of a dying civilization. * * * * * For one who spent in Paris the greater part of the six months which succeeded the Armistice an occasional visit to London was a strange experience."
+  },
+  {
+   "event": "wwi",
+   "role": "pre",
+   "provenance": "Angell, The Great Illusion (1910), Gutenberg #38535",
+   "text": "If credit and commercial contract are tampered with in an attempt at confiscation, the credit-dependent wealth is undermined, and its collapse involves that of the conqueror; so that if conquest is not to be self-injurious it must respect the enemy's property, in which case it becomes economically futile. Thus the wealth of conquered territory remains in the hands of the population of such territory. When Germany annexed Alsatia, no individual German secured a single mark's worth of Alsatian property as the spoils of war. Conquest in the modern world is a process of multiplying by _x_, and then obtaining the original figure by dividing by _x_.",
+   "n_words": 106,
+   "masked": "If credit and commercial contract are tampered with in an attempt at confiscation, the credit-dependent wealth is undermined, and its collapse involves that of the conqueror; so that if conquest is not to be self-injurious it must respect the enemy's property, in which case it becomes economically futile. Thus the wealth of conquered territory remains in the hands of the population of such territory. When the nation annexed the nation, no individual the nation secured a single mark's worth of the nation property as the spoils of war. Conquest in the modern world is a process of multiplying by _x_, and then obtaining the original figure by dividing by _x_."
+  },
+  {
+   "event": "dep",
+   "role": "post",
+   "provenance": "F. D. Roosevelt, First Inaugural Address (4 Mar 1933), Gutenberg #925",
+   "text": "Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; the savings of many years in thousands of families are gone. More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return. Only a foolish optimist can deny the dark realities of the moment.",
+   "n_words": 99,
+   "masked": "Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; the savings of many years in thousands of families are gone. More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return. Only a foolish optimist can deny the dark realities of the moment."
+  },
+  {
+   "event": "dep",
+   "role": "pre",
+   "provenance": "H. Hoover, Inaugural Address (4 Mar 1929), Gutenberg #925",
+   "text": "Ours is a land rich in resources; stimulating in its glorious beauty; filled with millions of happy homes; blessed with comfort and opportunity. In no nation are the institutions of progress more advanced. In no nation are the fruits of accomplishment more secure. In no nation is the government more worthy of respect. No country is more loved by its people. I have an abiding faith in their capacity, integrity and high purpose. I have no fears for the future of our country. It is bright with hope. In the presence of my countrymen, mindful of the solemnity of this occasion, knowing what the task means and the responsibility which it involves, I beg your tolerance, your aid, and your cooperation.",
+   "n_words": 121,
+   "masked": "Ours is a land rich in resources; stimulating in its glorious beauty; filled with millions of happy homes; blessed with comfort and opportunity. In no nation are the institutions of progress more advanced. In no nation are the fruits of accomplishment more secure. In no nation is the government more worthy of respect. No country is more loved by its people. I have an abiding faith in their capacity, integrity and high purpose. I have no fears for the future of our country. It is bright with hope. In the presence of my countrymen, mindful of the solemnity of this occasion, knowing what the task means and the responsibility which it involves, I beg your tolerance, your aid, and your cooperation."
+  }
+ ]
+}

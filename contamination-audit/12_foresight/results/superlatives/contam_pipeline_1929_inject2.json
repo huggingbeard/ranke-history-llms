@@ -1,0 +1,209 @@
+{
+ "meta": {
+  "cutoff": "1929",
+  "plant": {
+   "target": "Truman",
+   "tell": "president",
+   "cluster": "office",
+   "edit_templates": [
+    "In the end {T} became",
+    "The newspapers reported that {T} was now",
+    "All the world learned that {T} had been chosen"
+   ],
+   "z_norms": [
+    12.405158042907715,
+    16.427825927734375,
+    6.964707374572754
+   ],
+   "layer": 9
+  },
+  "floor95": 2.624,
+  "V1_sensitivity": true,
+  "V2_specificity": true,
+  "overall": "PASS",
+  "verdict_changes_other_targets": {}
+ },
+ "targets": {
+  "Hitler": {
+   "status": "anchor_dev",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww2-figures"
+   ],
+   "tells_fired": {
+    "Stalin": 3.046
+   },
+   "all_tell_lifts": {
+    "Stalin": 3.046,
+    "Eisenhower": 2.179,
+    "chancellor": 1.956,
+    "Reich": 0.732,
+    "war": 1.047
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "Munich": 0.56,
+    "putsch": 1.292,
+    "Bavaria": 1.54
+   }
+  },
+  "Eisenhower": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "office"
+   ],
+   "tells_fired": {
+    "president": 2.934
+   },
+   "all_tell_lifts": {
+    "Normandy": -0.944,
+    "invasion": 0.707,
+    "president": 2.934,
+    "general": 0.812
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Franco": {
+   "status": "risky_polysemy",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "spain"
+   ],
+   "tells_fired": {
+    "Madrid": 2.771,
+    "Spain": 3.187,
+    "civil war": 2.892
+   },
+   "all_tell_lifts": {
+    "Madrid": 2.771,
+    "Spain": 3.187,
+    "civil war": 2.892
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Truman": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "office"
+   ],
+   "tells_fired": {
+    "president": 6.712
+   },
+   "all_tell_lifts": {
+    "president": 6.712,
+    "atomic": -0.538,
+    "Missouri": 1.48
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Mao": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "communist": 1.478,
+    "Peking": 2.178,
+    "China": 1.855
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Kennedy": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "president": 0.275,
+    "Dallas": 0.737,
+    "assassination": 0.07
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "Boston": 1.162,
+    "Irish": 1.629
+   }
+  },
+  "Gorbachev": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "Soviet": 2.284,
+    "Kremlin": 0.668,
+    "reform": -0.934
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "Obama": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "usa"
+   ],
+   "tells_fired": {
+    "America": 2.683
+   },
+   "all_tell_lifts": {
+    "president": 2.299,
+    "America": 2.683,
+    "Washington": 2.309
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "radar": {
+   "status": "normal",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "physics",
+    "war-tech"
+   ],
+   "tells_fired": {
+    "aircraft": 3.68,
+    "waves": 6.32,
+    "station": 6.181
+   },
+   "all_tell_lifts": {
+    "aircraft": 3.68,
+    "waves": 6.32,
+    "station": 6.181
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "internet": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "computer": 1.555,
+    "network": 1.91
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "smartphone": {
+   "status": "negative_anchor",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "pocket": 1.947,
+    "wireless": 1.16,
+    "machine": 2.134
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  }
+ }
+}

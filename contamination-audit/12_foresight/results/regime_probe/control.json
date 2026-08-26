@@ -1,0 +1,342 @@
+{
+ "1913": {
+  "hitler": {
+   "en": {
+    "endings": [
+     " the Jews",
+     " the Socialists",
+     " the Catholics",
+     " the Protestants",
+     " the Freemasons",
+     " the poor"
+    ],
+    "p": [
+     0.8495469866853191,
+     0.005686270871805795,
+     0.0014700975033621,
+     0.00016914631217399372,
+     4.043943245970073e-05,
+     0.1430870591948794
+    ]
+   },
+   "de": {
+    "endings": [
+     " die Juden",
+     " die Sozialisten",
+     " die Katholiken",
+     " die Protestanten",
+     " die Freimaurer",
+     " die Armen"
+    ],
+    "p": [
+     0.5135243192988322,
+     0.02312050221050687,
+     0.1917663386470678,
+     0.024397266747379107,
+     0.011737721161746399,
+     0.23545385193446752
+    ]
+   },
+   "fr": {
+    "endings": [
+     " les Juifs",
+     " les Socialistes",
+     " les Catholiques",
+     " les Protestants",
+     " les Francs-maçons",
+     " les pauvres"
+    ],
+    "p": [
+     0.9497742673312264,
+     0.0005613108649352394,
+     0.015550253837183269,
+     0.0018932092990086983,
+     5.179041416793924e-05,
+     0.03216916825347857
+    ]
+   }
+  },
+  "churchill": {
+   "en": {
+    "endings": [
+     " the Jews",
+     " the Socialists",
+     " the Catholics",
+     " the Protestants",
+     " the Freemasons",
+     " the poor"
+    ],
+    "p": [
+     0.36121941552300446,
+     0.01944294830868344,
+     0.021025491298416795,
+     0.0018680303800405712,
+     0.0008939807272092223,
+     0.5955501337626455
+    ]
+   },
+   "de": {
+    "endings": [
+     " die Juden",
+     " die Sozialisten",
+     " die Katholiken",
+     " die Protestanten",
+     " die Freimaurer",
+     " die Armen"
+    ],
+    "p": [
+     0.3374986702068736,
+     0.0863340348602508,
+     0.3501333111966297,
+     0.03866233308579207,
+     0.023411893028225973,
+     0.16395975762222795
+    ]
+   },
+   "fr": {
+    "endings": [
+     " les Juifs",
+     " les Socialistes",
+     " les Catholiques",
+     " les Protestants",
+     " les Francs-maçons",
+     " les pauvres"
+    ],
+    "p": [
+     0.23030121123043293,
+     0.02433546553433768,
+     0.24765764970121082,
+     0.041540062980894986,
+     0.0018167251577107819,
+     0.4543488853954128
+    ]
+   }
+  },
+  "bethmann": {
+   "en": {
+    "endings": [
+     " the Jews",
+     " the Socialists",
+     " the Catholics",
+     " the Protestants",
+     " the Freemasons",
+     " the poor"
+    ],
+    "p": [
+     0.8938905257286772,
+     0.04358177185067588,
+     0.050429849594760566,
+     0.006561292287267927,
+     0.000990170626858156,
+     0.004546389911760186
+    ]
+   },
+   "de": {
+    "endings": [
+     " die Juden",
+     " die Sozialisten",
+     " die Katholiken",
+     " die Protestanten",
+     " die Freimaurer",
+     " die Armen"
+    ],
+    "p": [
+     0.38554339553162825,
+     0.017352766718563162,
+     0.4625127819007422,
+     0.03217465815920376,
+     0.004552391175806008,
+     0.09786400651405666
+    ]
+   },
+   "fr": {
+    "endings": [
+     " les Juifs",
+     " les Socialistes",
+     " les Catholiques",
+     " les Protestants",
+     " les Francs-maçons",
+     " les pauvres"
+    ],
+    "p": [
+     0.8807726177577695,
+     0.003960517400927001,
+     0.06547681982341895,
+     0.007313774340994689,
+     0.0013195148557357535,
+     0.041156755821154044
+    ]
+   }
+  }
+ },
+ "1929": {
+  "hitler": {
+   "en": {
+    "endings": [
+     " the Jews",
+     " the Socialists",
+     " the Catholics",
+     " the Protestants",
+     " the Freemasons",
+     " the poor"
+    ],
+    "p": [
+     0.9228598862376395,
+     0.030204238284252897,
+     0.03691904049067244,
+     0.0010349260122800008,
+     0.00021286823759223143,
+     0.008769040737562902
+    ]
+   },
+   "de": {
+    "endings": [
+     " die Juden",
+     " die Sozialisten",
+     " die Katholiken",
+     " die Protestanten",
+     " die Freimaurer",
+     " die Armen"
+    ],
+    "p": [
+     0.25847519812278275,
+     0.3741724346913226,
+     0.28436630425950565,
+     0.013154289947607046,
+     0.05654914760182796,
+     0.013282625376953901
+    ]
+   },
+   "fr": {
+    "endings": [
+     " les Juifs",
+     " les Socialistes",
+     " les Catholiques",
+     " les Protestants",
+     " les Francs-maçons",
+     " les pauvres"
+    ],
+    "p": [
+     0.8794308057470012,
+     0.005933397016776157,
+     0.04746507010918763,
+     0.002397353341549975,
+     4.7447093498238104e-05,
+     0.06472592669198675
+    ]
+   }
+  },
+  "churchill": {
+   "en": {
+    "endings": [
+     " the Jews",
+     " the Socialists",
+     " the Catholics",
+     " the Protestants",
+     " the Freemasons",
+     " the poor"
+    ],
+    "p": [
+     0.714120710124407,
+     0.029644763955034507,
+     0.053372840400472,
+     0.003911723522521255,
+     0.0006458027456187161,
+     0.19830415925194644
+    ]
+   },
+   "de": {
+    "endings": [
+     " die Juden",
+     " die Sozialisten",
+     " die Katholiken",
+     " die Protestanten",
+     " die Freimaurer",
+     " die Armen"
+    ],
+    "p": [
+     0.36145120977961664,
+     0.26975502606750584,
+     0.24921123876400533,
+     0.005704452357088,
+     0.04818588846029462,
+     0.0656921845714895
+    ]
+   },
+   "fr": {
+    "endings": [
+     " les Juifs",
+     " les Socialistes",
+     " les Catholiques",
+     " les Protestants",
+     " les Francs-maçons",
+     " les pauvres"
+    ],
+    "p": [
+     0.36949620849530723,
+     0.006091896996688612,
+     0.16473222350931582,
+     0.020817313905014328,
+     0.00048142252491923645,
+     0.43838093456875477
+    ]
+   }
+  },
+  "bethmann": {
+   "en": {
+    "endings": [
+     " the Jews",
+     " the Socialists",
+     " the Catholics",
+     " the Protestants",
+     " the Freemasons",
+     " the poor"
+    ],
+    "p": [
+     0.806807869300889,
+     0.10167123311262004,
+     0.07988480655724799,
+     0.005069147458342715,
+     0.00021134760715489588,
+     0.006355595963745303
+    ]
+   },
+   "de": {
+    "endings": [
+     " die Juden",
+     " die Sozialisten",
+     " die Katholiken",
+     " die Protestanten",
+     " die Freimaurer",
+     " die Armen"
+    ],
+    "p": [
+     0.45782670729217523,
+     0.23750484690782386,
+     0.22871675851740297,
+     0.009117590318400934,
+     0.03426313346666352,
+     0.03257096349753349
+    ]
+   },
+   "fr": {
+    "endings": [
+     " les Juifs",
+     " les Socialistes",
+     " les Catholiques",
+     " les Protestants",
+     " les Francs-maçons",
+     " les pauvres"
+    ],
+    "p": [
+     0.7475412746134282,
+     0.026438270933930096,
+     0.1366025979899076,
+     0.005095819055995533,
+     0.00018625545563637813,
+     0.08413578195110212
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,306 @@
+{
+ "1913": {
+  "known": {
+   "French Revolution": 277.86,
+   "Battle of Waterloo": 449.85,
+   "Victoria crowned": 69.5,
+   "Revolutions of 1848": 66.55,
+   "Crimean War": 34.7,
+   "US Civil War began": 271.09,
+   "Emancipation Proclamation": 2.19,
+   "Lincoln assassinated": 49.49,
+   "Franco-Prussian War": 221.23,
+   "Bell's telephone": 166.37,
+   "Edison's light bulb": 1.92,
+   "Berlin Conference": 0.32,
+   "Eiffel Tower": 5.04,
+   "Spanish-American War": 53.44,
+   "Victoria died": 35.14,
+   "Wright brothers fly": 0.66,
+   "Russo-Japanese War": 31.18,
+   "San Francisco quake": 70.24,
+   "Titanic sinks": 34.68
+  },
+  "null": {
+   "*Treaty of Kesselheim": 0.57,
+   "*Battle of Verronne": 0.08,
+   "*novelist Aldous Brennt": 0.8,
+   "*Morvenia canal": 0.78,
+   "*composer Reinhardt Voss": 0.99,
+   "*city of Halveston": 2.08,
+   "*Marlowe Exhibition": 0.66,
+   "*philosopher Emeric Tolliver": 0.86,
+   "*Kingdom of Astravia": 1.14,
+   "*fire of Pemberton": 0.8,
+   "*explorer Cornelius Bathe": 0.9,
+   "*University of Kelmswick": 0.46,
+   "*painter Ottoline Crest": 1.09,
+   "*Wharton Canal": 0.96,
+   "*statesman Aurelio Manx": 0.81
+  },
+  "test": {
+   "First World War began": {
+    "spike": 12.63,
+    "true": 1914,
+    "grp": "1914-29"
+   },
+   "Bolsheviks seized power": {
+    "spike": 16.71,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "US entered the war": {
+    "spike": 0.81,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "Armistice ends WWI": {
+    "spike": 2.39,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Spanish flu": {
+    "spike": 2.88,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Treaty of Versailles": {
+    "spike": 0.66,
+    "true": 1919,
+    "grp": "1914-29"
+   },
+   "German hyperinflation": {
+    "spike": 0.54,
+    "true": 1923,
+    "grp": "1914-29"
+   },
+   "Lindbergh's flight": {
+    "spike": 1.19,
+    "true": 1927,
+    "grp": "1914-29"
+   },
+   "Wall Street Crash": {
+    "spike": 3.32,
+    "true": 1929,
+    "grp": "1914-29"
+   },
+   "Hitler made Chancellor": {
+    "spike": 1.01,
+    "true": 1933,
+    "grp": "WW2/atomic"
+   },
+   "Second World War began": {
+    "spike": 0.22,
+    "true": 1939,
+    "grp": "WW2/atomic"
+   },
+   "Pearl Harbor": {
+    "spike": 1.49,
+    "true": 1941,
+    "grp": "WW2/atomic"
+   },
+   "D-Day landings": {
+    "spike": 1.37,
+    "true": 1944,
+    "grp": "WW2/atomic"
+   },
+   "Hiroshima atomic bomb": {
+    "spike": 1.7,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Second World War ended": {
+    "spike": 3.08,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Brown v. Board": {
+    "spike": 0.83,
+    "true": 1954,
+    "grp": "civil rights"
+   },
+   "Montgomery bus boycott": {
+    "spike": 0.81,
+    "true": 1955,
+    "grp": "civil rights"
+   },
+   "MLK 'I Have a Dream'": {
+    "spike": 0.69,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "JFK assassinated": {
+    "spike": 0.74,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "Civil Rights Act": {
+    "spike": 4.08,
+    "true": 1964,
+    "grp": "civil rights"
+   },
+   "MLK assassinated": {
+    "spike": 0.66,
+    "true": 1968,
+    "grp": "civil rights"
+   },
+   "Moon landing": {
+    "spike": 0.56,
+    "true": 1969,
+    "grp": "civil rights"
+   }
+  }
+ },
+ "1929": {
+  "known": {
+   "French Revolution": 262.44,
+   "Battle of Waterloo": 309.83,
+   "Victoria crowned": 260.14,
+   "Revolutions of 1848": 78.25,
+   "Crimean War": 64.52,
+   "US Civil War began": 1216.76,
+   "Emancipation Proclamation": 7.68,
+   "Lincoln assassinated": 68.7,
+   "Franco-Prussian War": 272.72,
+   "Bell's telephone": 38.71,
+   "Edison's light bulb": 1.53,
+   "Berlin Conference": 1.71,
+   "Eiffel Tower": 5.29,
+   "Spanish-American War": 84.02,
+   "Victoria died": 10.22,
+   "Wright brothers fly": 0.8,
+   "Russo-Japanese War": 62.83,
+   "San Francisco quake": 84.57,
+   "Titanic sinks": 30.32
+  },
+  "null": {
+   "*Treaty of Kesselheim": 1.4,
+   "*Battle of Verronne": 0.66,
+   "*novelist Aldous Brennt": 0.72,
+   "*Morvenia canal": 0.77,
+   "*composer Reinhardt Voss": 1.08,
+   "*city of Halveston": 1.97,
+   "*Marlowe Exhibition": 0.67,
+   "*philosopher Emeric Tolliver": 0.88,
+   "*Kingdom of Astravia": 1.29,
+   "*fire of Pemberton": 0.85,
+   "*explorer Cornelius Bathe": 0.7,
+   "*University of Kelmswick": 0.71,
+   "*painter Ottoline Crest": 0.96,
+   "*Wharton Canal": 1.1,
+   "*statesman Aurelio Manx": 0.8
+  },
+  "test": {
+   "First World War began": {
+    "spike": 942.95,
+    "true": 1914,
+    "grp": "1914-29"
+   },
+   "Bolsheviks seized power": {
+    "spike": 89.37,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "US entered the war": {
+    "spike": 142.07,
+    "true": 1917,
+    "grp": "1914-29"
+   },
+   "Armistice ends WWI": {
+    "spike": 35.1,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Spanish flu": {
+    "spike": 325.1,
+    "true": 1918,
+    "grp": "1914-29"
+   },
+   "Treaty of Versailles": {
+    "spike": 366.26,
+    "true": 1919,
+    "grp": "1914-29"
+   },
+   "German hyperinflation": {
+    "spike": 2.68,
+    "true": 1923,
+    "grp": "1914-29"
+   },
+   "Lindbergh's flight": {
+    "spike": 0.06,
+    "true": 1927,
+    "grp": "1914-29"
+   },
+   "Wall Street Crash": {
+    "spike": 1.12,
+    "true": 1929,
+    "grp": "1914-29"
+   },
+   "Hitler made Chancellor": {
+    "spike": 0.1,
+    "true": 1933,
+    "grp": "WW2/atomic"
+   },
+   "Second World War began": {
+    "spike": 4.68,
+    "true": 1939,
+    "grp": "WW2/atomic"
+   },
+   "Pearl Harbor": {
+    "spike": 2.5,
+    "true": 1941,
+    "grp": "WW2/atomic"
+   },
+   "D-Day landings": {
+    "spike": 2.39,
+    "true": 1944,
+    "grp": "WW2/atomic"
+   },
+   "Hiroshima atomic bomb": {
+    "spike": 1.48,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Second World War ended": {
+    "spike": 12.85,
+    "true": 1945,
+    "grp": "WW2/atomic"
+   },
+   "Brown v. Board": {
+    "spike": 0.82,
+    "true": 1954,
+    "grp": "civil rights"
+   },
+   "Montgomery bus boycott": {
+    "spike": 0.88,
+    "true": 1955,
+    "grp": "civil rights"
+   },
+   "MLK 'I Have a Dream'": {
+    "spike": 0.65,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "JFK assassinated": {
+    "spike": 0.72,
+    "true": 1963,
+    "grp": "civil rights"
+   },
+   "Civil Rights Act": {
+    "spike": 4.52,
+    "true": 1964,
+    "grp": "civil rights"
+   },
+   "MLK assassinated": {
+    "spike": 0.72,
+    "true": 1968,
+    "grp": "civil rights"
+   },
+   "Moon landing": {
+    "spike": 0.6,
+    "true": 1969,
+    "grp": "civil rights"
+   }
+  }
+ }
+}

@@ -1,0 +1,167 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(memory_meter_technote.tex
+LaTeX2e <2025-06-01>
+L3 programming layer <2025-05-26>
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+ (C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+)))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty)))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def) (memory_meter_technote.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg)) (memory_meter_technote.out) (memory_meter_technote.out)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\hvoth\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+(memory_meter_technote.toc)
+[1{C:/Users/hvoth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (50.42569pt too wide) detected at line 85
+\OML/cmm/m/it/10.95 y \OT1/cmr/m/n/10.95 = 1 ([]) [];  \OML/cmm/m/it/10.95 y \O
+T1/cmr/m/n/10.95 = 0 ([]) []
+
+[2]
+Overfull \hbox (9.31812pt too wide) in paragraph at lines 132--137
+[]\OT1/cmr/bx/n/10.95 Files. \OT1/cmtt/m/n/10 src/common.py \OT1/cmr/m/n/10.95 
+(\OT1/cmtt/m/n/10 slp\OT1/cmr/m/n/10.95 , load-ers); \OT1/cmtt/m/n/10 probe[]mr
+i.py \OT1/cmr/m/n/10.95 (pi-lot); \OT1/cmtt/m/n/10 minimal[]pairs.py\OT1/cmr/m/
+n/10.95 , \OT1/cmtt/m/n/10 real[]entity[]null.py\OT1/cmr/m/n/10.95 ,
+
+Overfull \hbox (12.22525pt too wide) in paragraph at lines 132--137
+\OT1/cmtt/m/n/10 obscure[]real.py\OT1/cmr/m/n/10.95 , \OT1/cmtt/m/n/10 obscure[
+]real[]parties.py \OT1/cmr/m/n/10.95 (con-trols); \OT1/cmtt/m/n/10 rome[]inject
+.py\OT1/cmr/m/n/10.95 , \OT1/cmtt/m/n/10 rome[]flip[]by[]layer.py \OT1/cmr/m/n/
+10.95 (causal);
+
+Overfull \hbox (14.06984pt too wide) in paragraph at lines 132--137
+\OT1/cmtt/m/n/10 combined[]rule.py \OT1/cmr/m/n/10.95 (leak rule); \OT1/cmtt/m/
+n/10 best[]wording.py \OT1/cmr/m/n/10.95 (phras-ing); \OT1/cmtt/m/n/10 wide[]ne
+t.py \OT1/cmr/m/n/10.95 (sweep); \OT1/cmtt/m/n/10 rome[]contamination.py
+
+[3]
+[4 <../../figures/fig_probe_mri.png>]
+[5 <../../figures/fig_cutoff_shift.png>]
+[6 <../../figures/fig_exposure_violins.png>]
+[7 <../../figures/fig_combined_rule.png>]
+Overfull \hbox (31.3908pt too wide) in paragraph at lines 323--325
+[]\OT1/cmr/m/n/10.95 Environment: \OT1/cmtt/m/n/10 uv venv .venv --python 3.12\
+OT1/cmr/m/n/10.95 ; \OT1/cmtt/m/n/10 torch\OT1/cmr/m/n/10.95 , \OT1/cmtt/m/n/10
+ transformers\OT1/cmr/m/n/10.95 , \OT1/cmtt/m/n/10 scikit-learn\OT1/cmr/m/n/10.
+95 , \OT1/cmtt/m/n/10 numpy\OT1/cmr/m/n/10.95 , \OT1/cmtt/m/n/10 matplotlib\OT1
+/cmr/m/n/10.95 .
+
+[8]
+Underfull \hbox (badness 4739) in paragraph at lines 344--345
+[]\OT1/cmr/m/n/10 A. Zou et al. \OT1/cmr/m/it/10 Rep-re-sen-ta-tion En-gi-neer-
+ing: A Top-Down Ap-proach to AI Trans-parency\OT1/cmr/m/n/10 .
+
+Underfull \hbox (badness 3977) in paragraph at lines 350--351
+[]\OT1/cmr/m/n/10 N. Car-lini et al. \OT1/cmr/m/it/10 Quan-ti-fy-ing Mem-o-riza
+-tion Across Neu-ral Lan-guage Mod-els\OT1/cmr/m/n/10 . ICLR 2023.
+
+Underfull \hbox (badness 1127) in paragraph at lines 352--353
+[]\OT1/cmr/m/n/10 S. Golchin, M. Sur-deanu. \OT1/cmr/m/it/10 Time Travel in LLM
+s: Trac-ing Data Con-tam-i-na-tion\OT1/cmr/m/n/10 . ICLR 2024.
+
+[9] (memory_meter_technote.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information) <C:\Users\hvoth\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\hvoth\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/hvoth
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Us
+ers/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmex10.pfb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmitt10.pfb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/hvoth/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/hvoth/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/hvoth/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/hvoth/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users
+/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmti10.pfb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb><C:/Users/hvoth/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/hvoth/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on memory_meter_technote.pdf (9 pages, 1179550 bytes).
+Transcript written on memory_meter_technote.log.

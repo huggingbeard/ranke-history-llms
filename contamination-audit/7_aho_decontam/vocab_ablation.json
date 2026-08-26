@@ -1,0 +1,178 @@
+{
+  "seed": 20260629,
+  "n_neg": 600,
+  "n_real": 150,
+  "n_wiki": 500,
+  "ks": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "rows": [
+    {
+      "k": 1,
+      "recall_real_freq": 0.08,
+      "recall_real_greedy": 0.12666666666666668,
+      "recall_wiki_freq": 0.09,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 2,
+      "recall_real_freq": 0.08666666666666667,
+      "recall_real_greedy": 0.18,
+      "recall_wiki_freq": 0.106,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 3,
+      "recall_real_freq": 0.12666666666666668,
+      "recall_real_greedy": 0.22666666666666666,
+      "recall_wiki_freq": 0.144,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 4,
+      "recall_real_freq": 0.17333333333333334,
+      "recall_real_greedy": 0.26,
+      "recall_wiki_freq": 0.162,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 6,
+      "recall_real_freq": 0.18666666666666668,
+      "recall_real_greedy": 0.32,
+      "recall_wiki_freq": 0.194,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 8,
+      "recall_real_freq": 0.24666666666666667,
+      "recall_real_greedy": 0.36666666666666664,
+      "recall_wiki_freq": 0.244,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 12,
+      "recall_real_freq": 0.3333333333333333,
+      "recall_real_greedy": 0.42,
+      "recall_wiki_freq": 0.26,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 16,
+      "recall_real_freq": 0.3333333333333333,
+      "recall_real_greedy": 0.4533333333333333,
+      "recall_wiki_freq": 0.294,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 24,
+      "recall_real_freq": 0.3933333333333333,
+      "recall_real_greedy": 0.47333333333333333,
+      "recall_wiki_freq": 0.308,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 32,
+      "recall_real_freq": 0.4266666666666667,
+      "recall_real_greedy": 0.47333333333333333,
+      "recall_wiki_freq": 0.356,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 48,
+      "recall_real_freq": 0.4666666666666667,
+      "recall_real_greedy": 0.47333333333333333,
+      "recall_wiki_freq": 0.466,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 64,
+      "recall_real_freq": 0.47333333333333333,
+      "recall_real_greedy": 0.47333333333333333,
+      "recall_wiki_freq": 0.488,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 96,
+      "recall_real_freq": 0.47333333333333333,
+      "recall_real_greedy": 0.47333333333333333,
+      "recall_wiki_freq": 0.504,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    },
+    {
+      "k": 128,
+      "recall_real_freq": 0.47333333333333333,
+      "recall_real_greedy": 0.47333333333333333,
+      "recall_wiki_freq": 0.512,
+      "false_pos": 0,
+      "false_accusation_rate": 0.0,
+      "precision_real": 1.0
+    }
+  ],
+  "greedy_first12": [
+    "world bank",
+    "software",
+    "nasa",
+    "international monetary fund",
+    "korean war",
+    "microprocessor",
+    "unesco",
+    "polyester",
+    "mainframe",
+    "nuclear power",
+    "digital computer",
+    "semiconductor"
+  ],
+  "freq_first12": [
+    "software",
+    "laser",
+    "nasa",
+    "nato",
+    "nuclear power",
+    "internet",
+    "unesco",
+    "semiconductor",
+    "spacecraft",
+    "third world",
+    "world bank",
+    "transistor"
+  ]
+}

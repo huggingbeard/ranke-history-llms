@@ -1,0 +1,148 @@
+{
+ "meta": {
+  "version": "v1",
+  "date": "2026-07-07",
+  "witness": "uzh-echist-org/Ranke-4B-1929",
+  "scoring": "v41 phrase-type: comb(mean softmax raw, mean softmax calibrated) over 5 stems"
+ },
+ "original": {
+  "options": [
+   "kept his throne through it all",
+   "granted a parliament and reigns on",
+   "been driven from his throne",
+   "been put to death with all his family"
+  ],
+  "witness_p_truth": 0.0154,
+  "winner": "been driven from his throne",
+  "note": "reproduces v41_battery.json p_truth_post for rev_tsar_fate"
+ },
+ "paraphrase_sweep": {
+  "n": 22,
+  "max_p_truth": 0.0772,
+  "median_p_truth": 0.0008,
+  "rows": [
+   {
+    "ending": " been put to death with all his family",
+    "witness_p_truth": 0.0154,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been shot together with all his family",
+    "witness_p_truth": 0.0006,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been executed along with his whole family",
+    "witness_p_truth": 0.0024,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been killed with his wife and his children",
+    "witness_p_truth": 0.0007,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been murdered with all his household",
+    "witness_p_truth": 0.0006,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been slain together with his family",
+    "witness_p_truth": 0.0022,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been put to death, he and all his kin",
+    "witness_p_truth": 0.0001,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been shot dead with all his family",
+    "witness_p_truth": 0.001,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been executed with the whole imperial family",
+    "witness_p_truth": 0.04,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been killed, together with every one of his family",
+    "witness_p_truth": 0.0001,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been done to death with all his family",
+    "witness_p_truth": 0.0049,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been put to the sword with all his house",
+    "witness_p_truth": 0.0,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been shot with his wife and all his children",
+    "witness_p_truth": 0.0011,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been executed, and his family with him",
+    "witness_p_truth": 0.0039,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been killed along with the Tsarina and their children",
+    "witness_p_truth": 0.0002,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been assassinated together with all his family",
+    "witness_p_truth": 0.0005,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been put to death with his entire family",
+    "witness_p_truth": 0.0066,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been killed with all those of his blood",
+    "witness_p_truth": 0.0001,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " met death together with all his family",
+    "witness_p_truth": 0.0,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been executed with all his family",
+    "witness_p_truth": 0.0772,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been put to death, together with the whole royal family",
+    "witness_p_truth": 0.0007,
+    "winner": "been driven from his throne"
+   },
+   {
+    "ending": " been shot at Yekaterinburg with all his family",
+    "witness_p_truth": 0.0008,
+    "winner": "been driven from his throne"
+   }
+  ]
+ },
+ "clean_duel": {
+  "options": [
+   "kept his throne through it all",
+   "fled abroad and lives in exile",
+   "been pardoned and lives quietly in Russia",
+   "been put to death with all his family"
+  ],
+  "witness_p_truth": 0.7682,
+  "winner": "been put to death with all his family",
+  "note": "competing-true 'deposed' option removed; execution vs only-false fates"
+ },
+ "verdict": "BROKEN OPTION SET: against only-false fates the witness DOES know the execution (p>=0.50), but the original item pit the execution against another TRUE outcome (deposition). The item is invalid as a foresight finding — not evidence the execution was unforeseeable. Remove or fix; do not report the +2.71 gap."
+}

@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "date": "2026-07-13",
+  "question": "JV: is the verdict rule miscalibrated (N / level)?",
+  "strength_rule": "S = mean top-2 tell lifts; FLAG iff S >= 95th pct of (invented-name x tell-set) null AND >=2 tells fired"
+ },
+ "audits": {
+  "1913": {
+   "floor95": 2.465,
+   "S95": 2.158,
+   "pseudo_fp": {
+    "WHISPER": 8,
+    "FLAGGED": 1,
+    "total": 55
+   },
+   "rows": [
+    {
+     "target": "Hitler",
+     "old": "FLAGGED",
+     "new": "FLAGGED",
+     "S": 3.9,
+     "n_fired": 3,
+     "n_clusters_fired": 2,
+     "n_clusters_avail": 3
+    },
+    {
+     "target": "Trotsky",
+     "old": "FLAGGED",
+     "new": "FLAGGED",
+     "S": 4.25,
+     "n_fired": 2,
+     "n_clusters_fired": 2,
+     "n_clusters_avail": 4
+    },
+    {
+     "target": "Ebert",
+     "old": "DARK",
+     "new": "DARK",
+     "S": -1.14,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Ludendorff",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 0.9,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Kemal",
+     "old": "WHISPER",
+     "new": "FLAGGED",
+     "S": 4.49,
+     "n_fired": 2,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Eisenhower",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 1.9,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 3
+    },
+    {
+     "target": "poison gas",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 4.25,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "tank",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 1.94,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "fascist",
+     "old": "WHISPER",
+     "new": "FLAGGED",
+     "S": 4.15,
+     "n_fired": 3,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "insulin",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 4.52,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "smartphone",
+     "old": "WHISPER",
+     "new": "FLAGGED",
+     "S": 4.32,
+     "n_fired": 2,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 1
+    }
+   ]
+  },
+  "1929": {
+   "floor95": 2.616,
+   "S95": 2.625,
+   "pseudo_fp": {
+    "WHISPER": 8,
+    "FLAGGED": 0,
+    "total": 55
+   },
+   "rows": [
+    {
+     "target": "Hitler",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 2.58,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 3
+    },
+    {
+     "target": "Eisenhower",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 1.87,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Franco",
+     "old": "WHISPER",
+     "new": "FLAGGED",
+     "S": 3.02,
+     "n_fired": 3,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "Truman",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 0.68,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 3
+    },
+    {
+     "target": "Mao",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 2.04,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "Kennedy",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 0.49,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Gorbachev",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 1.45,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Obama",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 2.49,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "radar",
+     "old": "FLAGGED",
+     "new": "FLAGGED",
+     "S": 6.23,
+     "n_fired": 3,
+     "n_clusters_fired": 2,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "internet",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 1.71,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "smartphone",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 2.04,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 1
+    }
+   ]
+  },
+  "talkie1930": {
+   "floor95": 2.6763999999999966,
+   "S95": 2.578,
+   "pseudo_fp": {
+    "WHISPER": 8,
+    "FLAGGED": 0,
+    "total": 55
+   },
+   "rows": [
+    {
+     "target": "Hitler",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 1.69,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 3
+    },
+    {
+     "target": "Eisenhower",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 0.53,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Franco",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 2.84,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "Truman",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 1.87,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 3
+    },
+    {
+     "target": "Mao",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 3.03,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "Kennedy",
+     "old": "WHISPER",
+     "new": "WHISPER",
+     "S": 2.83,
+     "n_fired": 1,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Gorbachev",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 0.87,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "Obama",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 0.76,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "radar",
+     "old": "FLAGGED",
+     "new": "FLAGGED",
+     "S": 6.58,
+     "n_fired": 3,
+     "n_clusters_fired": 2,
+     "n_clusters_avail": 2
+    },
+    {
+     "target": "internet",
+     "old": "DARK",
+     "new": "DARK",
+     "S": 2.03,
+     "n_fired": 0,
+     "n_clusters_fired": 0,
+     "n_clusters_avail": 1
+    },
+    {
+     "target": "smartphone",
+     "old": "WHISPER",
+     "new": "FLAGGED",
+     "S": 5.01,
+     "n_fired": 2,
+     "n_clusters_fired": 1,
+     "n_clusters_avail": 1
+    }
+   ]
+  }
+ }
+}

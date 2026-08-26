@@ -1,0 +1,308 @@
+{
+ "meta": {
+  "model": "uzh-echist-org/Ranke-4B-1929",
+  "cutoff": "1929",
+  "n_ref": 1318,
+  "ref_median_cos": 0.9985,
+  "cos_quantiles": {
+   "5": 0.2165,
+   "25": 0.3831,
+   "50": 0.7114,
+   "75": 0.997,
+   "95": 0.9985
+  },
+  "status": "METHOD-VALIDATION run; Class-A lists PROVISIONAL pending PI vetting + mechanical verification",
+  "reading": "HIGH cosine to the never-seen centroid = unused/untrained token; LOW cosine = the corpus trained it"
+ },
+ "period_common": {
+  "the": {
+   "cos": -0.4063,
+   "pctile": 0.0
+  },
+  "railway": {
+   "cos": 0.2311,
+   "pctile": 5.9
+  },
+  "Kaiser": {
+   "cos": 0.2248,
+   "pctile": 5.5
+  },
+  "cavalry": {
+   "cos": 0.3132,
+   "pctile": 13.9
+  },
+  "parliament": {
+   "cos": 0.2942,
+   "pctile": 11.5
+  },
+  "Munich": {
+   "cos": 0.3158,
+   "pctile": 14.2
+  },
+  "Napoleon": {
+   "cos": 0.2558,
+   "pctile": 7.8
+  },
+  "steam": {
+   "cos": 0.1681,
+   "pctile": 2.9
+  },
+  "empire": {
+   "cos": 0.2185,
+   "pctile": 5.1
+  },
+  "telegraph": null,
+  "harvest": {
+   "cos": 0.2612,
+   "pctile": 8.2
+  },
+  "cathedral": {
+   "cos": 0.3536,
+   "pctile": 20.0
+  }
+ },
+ "class_a": {
+  "radar": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.6221,
+    "pctile": 46.7
+   }
+  },
+  "laser": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.5121,
+    "pctile": 40.8
+   }
+  },
+  "nylon": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.8524,
+    "pctile": 56.1
+   }
+  },
+  "transistor": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.9314,
+    "pctile": 60.6
+   }
+  },
+  "cosmonaut": {
+   "applies": true,
+   "note": "",
+   "score": null
+  },
+  "software": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.8375,
+    "pctile": 55.4
+   }
+  },
+  "internet": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.7105,
+    "pctile": 50.0
+   }
+  },
+  "email": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.3943,
+    "pctile": 26.8
+   }
+  },
+  "smartphone": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.9978,
+    "pctile": 77.0
+   }
+  },
+  "napalm": {
+   "applies": true,
+   "note": "",
+   "score": null
+  },
+  "Gestapo": {
+   "applies": true,
+   "note": "",
+   "score": null
+  },
+  "gulag": {
+   "applies": true,
+   "note": "",
+   "score": null
+  },
+  "NATO": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.5435,
+    "pctile": 42.9
+   }
+  },
+  "Vietcong": {
+   "applies": true,
+   "note": "",
+   "score": null
+  },
+  "Beatles": {
+   "applies": true,
+   "note": "",
+   "score": {
+    "cos": 0.9486,
+    "pctile": 62.0
+   }
+  },
+  "Obama": {
+   "applies": true,
+   "note": "rare surname; near-zero pre-1930 print",
+   "score": {
+    "cos": 0.8581,
+    "pctile": 56.4
+   }
+  },
+  "Barack": {
+   "applies": true,
+   "note": "rare given name pre-1930",
+   "score": {
+    "cos": 0.4474,
+    "pctile": 34.3
+   }
+  },
+  "microwave": {
+   "applies": true,
+   "note": "edge: 'micro-wave' physics usage 1930s",
+   "score": {
+    "cos": 0.883,
+    "pctile": 57.7
+   }
+  },
+  "teenager": {
+   "applies": true,
+   "note": "edge: coined ~1940s",
+   "score": {
+    "cos": 0.8861,
+    "pctile": 57.9
+   }
+  },
+  "penicillin": {
+   "applies": false,
+   "note": "edge for 1929: named 1929",
+   "score": null
+  },
+  "fascist": {
+   "applies": false,
+   "note": "1919+; exists by 1929",
+   "score": {
+    "cos": 0.6146,
+    "pctile": 46.4
+   }
+  },
+  "Soviet": {
+   "applies": false,
+   "note": "edge: English usage 1917+",
+   "score": {
+    "cos": 0.3961,
+    "pctile": 27.0
+   }
+  },
+  "Bolshevik": {
+   "applies": false,
+   "note": "edge: English print mostly 1917+",
+   "score": {
+    "cos": 0.5148,
+    "pctile": 41.0
+   }
+  },
+  "Politburo": {
+   "applies": false,
+   "note": "1917+",
+   "score": null
+  },
+  "Comintern": {
+   "applies": false,
+   "note": "1919+",
+   "score": null
+  },
+  "Nazi": {
+   "applies": false,
+   "note": "edge for 1929: 1920s usage exists",
+   "score": {
+    "cos": 0.5318,
+    "pctile": 42.2
+   }
+  },
+  "Nazis": {
+   "applies": false,
+   "note": "edge for 1929",
+   "score": {
+    "cos": 0.7025,
+    "pctile": 49.6
+   }
+  },
+  "robot": {
+   "applies": false,
+   "note": "1920 Capek; exists by 1929",
+   "score": {
+    "cos": 0.383,
+    "pctile": 25.0
+   }
+  },
+  "insulin": {
+   "applies": false,
+   "note": "1922",
+   "score": {
+    "cos": 0.7589,
+    "pctile": 51.9
+   }
+  },
+  "Leningrad": {
+   "applies": false,
+   "note": "renamed 1924",
+   "score": null
+  },
+  "Stalingrad": {
+   "applies": false,
+   "note": "renamed 1925",
+   "score": null
+  },
+  "Stalin": {
+   "applies": false,
+   "note": "pseudonym ~1912, Western print ~1917+",
+   "score": {
+    "cos": 0.5705,
+    "pctile": 44.4
+   }
+  },
+  "Hitler": {
+   "applies": false,
+   "note": "surname exists; print presence ~0 pre-1914",
+   "score": {
+    "cos": 0.435,
+    "pctile": 32.7
+   }
+  },
+  "jazz": {
+   "applies": false,
+   "note": "edge: word ~1912-15",
+   "score": {
+    "cos": 0.4703,
+    "pctile": 37.0
+   }
+  }
+ }
+}

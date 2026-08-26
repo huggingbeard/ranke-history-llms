@@ -1,0 +1,56 @@
+  4000/140000 books | 29 flagged | 1,113 MB | wall 1.4m | proc 1.15m @ 16 MB/s (match 73) | ETA ~47m
+  8000/140000 books | 82 flagged | 2,209 MB | wall 2.7m | proc 2.29m @ 16 MB/s (match 74) | ETA ~44m
+  12000/140000 books | 129 flagged | 3,293 MB | wall 4.2m | proc 3.44m @ 16 MB/s (match 75) | ETA ~45m
+  16000/140000 books | 161 flagged | 4,665 MB | wall 6.4m | proc 4.86m @ 16 MB/s (match 74) | ETA ~50m
+  20000/140000 books | 186 flagged | 5,712 MB | wall 8.1m | proc 5.90m @ 16 MB/s (match 75) | ETA ~49m
+  24000/140000 books | 210 flagged | 6,900 MB | wall 9.7m | proc 7.08m @ 16 MB/s (match 75) | ETA ~47m
+  28000/140000 books | 239 flagged | 8,238 MB | wall 11.6m | proc 8.49m @ 16 MB/s (match 75) | ETA ~46m
+loaded 128 markers, 14 with context disambiguation
+
+==================================================================
+FULL SWEEP — storytracer/LoC-PD-Books
+==================================================================
+books scanned       : 28,000   (errors skipped: 0)
+flagged             : 239  (0.85%)
+text processed      : 8,238 MB (8,238,115,633 chars)
+total wall-clock    : 11.6 min
+  preprocessing     : 6.65 min  @ 21 MB/s   (de-hyphenate / clean text)
+  Aho-Corasick match: 1.84 min  @ 75 MB/s   <-- the matcher
+  streaming / IO    : 3.1 min  (network download)
+
+compare vs the union-regex workflow (NOT run in full; from its measured ~9 MB/s match rate):
+  regex MATCH would take ~15 min on the same 8,238 MB
+  -> Aho-Corasick MATCH is ~8.3x faster
+     (preprocessing is shared by both workflows, so it's not the differentiator)
+top markers:
+       45  nasa
+       42  world bank
+       38  software
+       34  international monetary fund
+       28  third world
+       25  korean war
+       25  microprocessor
+       23  cold war
+       23  nuclear power
+       22  world health organization
+       21  semiconductor
+       20  unesco
+       18  detente
+       18  gorbachev
+       18  supersonic
+       18  ronald reagan
+       17  nato
+       16  warsaw pact
+       15  common market
+       14  laser
+flagged books by stated decade (metadata vs content cross-check):
+   1900s     23
+   1910s     37
+   1920s     21
+   1940s     10
+   1950s     10
+   1960s     10
+   1970s      6
+   1980s     86
+   1990s     36
+flagged -> flagged_20pct.jsonl

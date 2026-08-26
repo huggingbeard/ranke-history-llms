@@ -1,0 +1,495 @@
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<title>Control facts — PI vetting sheet</title>
+<style>
+ body{font-family:Georgia,serif;max-width:1080px;margin:24px auto;padding:0 16px;color:#1a1a1a;line-height:1.45}
+ h1{font-size:1.5em} h2{font-size:1.2em;border-bottom:2px solid #1a1a1a;padding-top:14px}
+ .hdr{background:#f4f1ea;border:1px solid #c9c2b2;padding:10px 14px;font-size:.85em}
+ .item{border:1px solid #ccc;margin:14px 0;padding:10px 14px;border-radius:4px}
+ .gated{border-left:6px solid #2e7d32} .excl{border-left:6px solid #9aa0a6}
+ .name{font-weight:bold;font-size:1.05em}
+ .meta{color:#555;font-size:.85em;margin:2px 0 8px 0}
+ .stems{font-size:.88em;color:#333;margin:6px 0;padding-left:18px}
+ .opt{display:inline-block;border:1px solid #bbb;border-radius:3px;padding:1px 7px;margin:2px 4px 2px 0;font-size:.88em}
+ .truth{background:#e6f0e6;border-color:#2e7d32;font-weight:bold}
+ .res{font-size:.9em;margin-top:6px}
+ .flag{background:#fdf3e3;border:1px solid #d97706;padding:6px 10px;margin-top:8px;font-size:.88em}
+ .ok{color:#2e7d32;font-weight:bold} .bad{color:#c0392b;font-weight:bold}
+ .check{background:#eef3f8;border:1px solid #8aa8c5;padding:8px 12px;font-size:.9em}
+ table{border-collapse:collapse;font-size:.85em} td,th{border:1px solid #ccc;padding:3px 8px}
+</style></head><body>
+
+<h1>The 40 mundane control facts &mdash; PI vetting sheet</h1>
+<div class="hdr">
+<b>Files:</b> src/control_battery.py (definitions, v3) &middot; results/control_gaps_v3.json
+(scored results, 2026-07-10) &middot; this sheet: src/control_facts_review.py<br>
+<b>Date:</b> 2026-07-10 &nbsp; <b>Version:</b> v3 (v2 minus pure name-lotteries: channel_swim_1926
+removed by JV's exclusion rule &mdash; a truth that is a private individual's name with no pre-event
+public existence measures name-drawing, not the guessability of change; regnal/office names stay)<br>
+<b>Why this matters:</b> the paper's claim that Ebert (+9.84) and the Rentenmark (+6.77) sit at the
+<b>100th percentile of ordinary historical change</b> is computed against the gap distribution of these
+40 facts. 29 of 40 pass the witness gate (both scoring rules agree AND the witness puts
+&ge;50% on the truth) and form the actual yardstick. The facts were drafted by the assistant and are
+flagged PROVISIONAL in the results file until you approve them.
+</div>
+<div class="check" style="margin-top:10px">
+<b>What to check per item:</b> (1) Is the stated truth actually correct, with the right year, as worded in
+each of the five stems? (2) Is the truth at least as famous, to a reader of the witness's period, as its
+rivals (the fame rule)? (3) Are the distractors fair &mdash; period-plausible, not anachronistic dead
+options? (4) Is the item genuinely <i>mundane</i> (ordinary, non-catastrophic change) &mdash; the yardstick
+must not smuggle in catastrophes? Items with a <b>green edge</b> are in the yardstick (gated); grey-edge
+items are auto-excluded from it but still shape the battery's coverage.
+</div>
+<p><b>The 29 gated items (the actual yardstick):</b> norway_king_1905, dawes_plan, tut_1922, genoa_conf, us_1924, chess_1921, irish_free_state, rapallo, edward_vii_crowned, olympics_1908, peary_pole_1909, league_seat, german_wilhelm, lusitania, titanic_launched, tsar_nicholas, panama_1914, einstein_nobel, wright_1903, dreadnought, versailles_signed, exchequer_1925, british_king_1925, austria_franz_joseph, simplon_1906, tr_nobel_1906, model_t_ford, uk_1906, nobel_lit_1921</p>
+
+<h2>appointment (4 items)</h2>
+<div class="item excl">
+<div class="name">german_chancellor_1910</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (witness bet only 5% on the truth) &middot; gap <b>-1.60</b> nats &middot; guesser bet <i>Tirpitz</i> (25% on truth) &middot; witness bet <i>Buelow</i> (5% on truth)</div>
+<div><span class="opt truth">Bethmann-Hollweg &#10003; TRUTH</span> <span class="opt">Buelow</span> <span class="opt">Tirpitz</span> <span class="opt">Kiderlen-Waechter</span></div>
+<ol class="stems"><li>It is 1911. The Chancellor of the German Empire is&hellip;</li><li>The year is 1911. Germany's Imperial Chancellor is&hellip;</li><li>It is 1911. At the head of the German government stands the Chancellor&hellip;</li><li>The year is 1911. The Kaiser's Chancellor is&hellip;</li><li>It is 1911. The German Reich is governed by the Chancellor&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">french_pm_1926</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+0.26</b> nats &middot; guesser bet <i>Poincare</i> (45% on truth) &middot; witness bet <i>Poincare</i> (59% on truth)</div>
+<div><span class="opt truth">Poincare &#10003; TRUTH</span> <span class="opt">Briand</span> <span class="opt">Herriot</span> <span class="opt">Caillaux</span></div>
+<ol class="stems"><li>It is 1927. The French premier who rescued the franc last year is&hellip;</li><li>The year is 1927. France's currency was saved in 1926 by the premier&hellip;</li><li>It is 1927. The statesman recalled in 1926 to save the franc was&hellip;</li><li>The year is 1927. The franc was stabilised last year under the premiership of&hellip;</li><li>It is 1927. France's premier, restorer of the franc since 1926, is&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">stresemann_locarno</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 50% on the truth) &middot; gap <b>+3.66</b> nats &middot; guesser bet <i>Marx</i> (1% on truth) &middot; witness bet <i>Stresemann</i> (50% on truth)</div>
+<div><span class="opt truth">Stresemann &#10003; TRUTH</span> <span class="opt">Rathenau</span> <span class="opt">Marx</span> <span class="opt">Cuno</span></div>
+<ol class="stems"><li>It is 1926. The German Foreign Minister who signed the western pact at Locarno was&hellip;</li><li>The year is 1926. Germany was represented at Locarno by her Foreign Minister&hellip;</li><li>It is 1926. The German statesman of the Locarno treaties is&hellip;</li><li>The year is 1926. The Foreign Minister who brought Germany to Locarno was&hellip;</li><li>It is 1926. Germany's foreign policy of reconciliation is led by&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">exchequer_1925</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.14</b> nats &middot; guesser bet <i>Churchill</i> (73% on truth) &middot; witness bet <i>Churchill</i> (84% on truth)</div>
+<div><span class="opt truth">Churchill &#10003; TRUTH</span> <span class="opt">Snowden</span> <span class="opt">McKenna</span> <span class="opt">Horne</span></div>
+<ol class="stems"><li>It is 1926. The Chancellor of the Exchequer who put the pound back on gold last year was&hellip;</li><li>The year is 1926. Britain's return to gold in 1925 was the work of the Chancellor&hellip;</li><li>It is 1926. The pound was restored to gold in 1925 by the Chancellor of the Exchequer,&hellip;</li><li>The year is 1926. The 1925 budget that returned sterling to gold was presented by&hellip;</li><li>It is 1926. The Chancellor who took Britain back onto the gold standard was&hellip;</li></ol>
+</div>
+<h2>conference (11 items)</h2>
+<div class="item gated">
+<div class="name">dawes_plan</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+4.28</b> nats &middot; guesser bet <i>Morgan</i> (1% on truth) &middot; witness bet <i>Dawes</i> (65% on truth)</div>
+<div><span class="opt truth">Dawes &#10003; TRUTH</span> <span class="opt">Young</span> <span class="opt">Morgan</span> <span class="opt">Hoover</span></div>
+<ol class="stems"><li>It is 1925. The plan that reorganised Germany's reparations last year was named after the American&hellip;</li><li>The year is 1925. Germany's reparations were recast in 1924 by a plan named for&hellip;</li><li>It is 1925. The 1924 settlement of the reparations question is called the plan of&hellip;</li><li>The year is 1925. The American who gave his name to last year's reparations plan was&hellip;</li><li>It is 1925. Germany's new schedule of payments, drawn up in 1924, bears the name&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">young_plan</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 5% on the truth) &middot; gap <b>-2.37</b> nats &middot; guesser bet <i>Young</i> (49% on truth) &middot; witness bet <i>Dawes</i> (5% on truth)</div>
+<div><span class="opt truth">Young &#10003; TRUTH</span> <span class="opt">Dawes</span> <span class="opt">Owen</span> <span class="opt">Morgan</span></div>
+<ol class="stems"><li>It is 1929. The new plan for Germany's reparations, drawn up this year, is named after the American&hellip;</li><li>The year is 1929. This year's revised reparations scheme is called the plan of&hellip;</li><li>It is 1929. Germany's reparations have been recast this year in a plan named for&hellip;</li><li>The year is 1929. The American who gave his name to this year's reparations plan is&hellip;</li><li>It is 1929. The latest settlement of the reparations question bears the name&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> Edge-of-window item (the 1929 witness dating a 1929 plan); auto-excluded by the gate. Kept for coverage; flag stands.</div>
+</div>
+<div class="item excl">
+<div class="name">locarno</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 10% on the truth) &middot; gap <b>+3.11</b> nats &middot; guesser bet <i>Versailles</i> (0% on truth) &middot; witness bet <i>Versailles</i> (10% on truth)</div>
+<div><span class="opt truth">Locarno &#10003; TRUTH</span> <span class="opt">Geneva</span> <span class="opt">Rapallo</span> <span class="opt">Versailles</span></div>
+<ol class="stems"><li>It is 1926. The treaties of reconciliation in the west were signed last year in the town of&hellip;</li><li>The year is 1926. The 1925 pacts guaranteeing the western frontiers were signed at&hellip;</li><li>It is 1926. Last year's treaties of mutual security bear the name of the town&hellip;</li><li>The year is 1926. The western powers signed their pact of peace in 1925 at&hellip;</li><li>It is 1926. The reconciliation of France and Germany was sealed last year at&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> Confirmed fine by JV (2026-07-10) — 'signed at Locarno' follows standard usage.</div>
+</div>
+<div class="item gated">
+<div class="name">genoa_conf</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+3.35</b> nats &middot; guesser bet <i>Rome</i> (2% on truth) &middot; witness bet <i>Genoa</i> (66% on truth)</div>
+<div><span class="opt truth">Genoa &#10003; TRUTH</span> <span class="opt">Rome</span> <span class="opt">Milan</span> <span class="opt">Turin</span></div>
+<ol class="stems"><li>It is 1922. The great economic conference of the nations met this year in the Italian city of&hellip;</li><li>The year is 1922. This year's world economic conference was held at&hellip;</li><li>It is 1922. The powers gathered this year to discuss trade and money in the city of&hellip;</li><li>The year is 1922. The international economic congress of this year met at&hellip;</li><li>It is 1922. Europe's statesmen conferred on the economy this year in&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">rapallo</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.56</b> nats &middot; guesser bet <i>Brest</i> (13% on truth) &middot; witness bet <i>Rapallo</i> (61% on truth)</div>
+<div><span class="opt truth">Rapallo &#10003; TRUTH</span> <span class="opt">Locarno</span> <span class="opt">Brest</span> <span class="opt">Riga</span></div>
+<ol class="stems"><li>It is 1923. Germany and Soviet Russia signed a treaty of friendship last year at&hellip;</li><li>The year is 1923. The 1922 accord between Germany and the Soviets was concluded at&hellip;</li><li>It is 1923. Last year Berlin and Moscow came to terms in the Italian town of&hellip;</li><li>The year is 1923. Germany and Russia settled their claims in 1922 at&hellip;</li><li>It is 1923. The surprising German-Soviet pact of last year was signed at&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">washington_naval</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+0.72</b> nats &middot; guesser bet <i>London</i> (32% on truth) &middot; witness bet <i>Washington</i> (67% on truth)</div>
+<div><span class="opt truth">Washington &#10003; TRUTH</span> <span class="opt">London</span> <span class="opt">Geneva</span> <span class="opt">Paris</span></div>
+<ol class="stems"><li>It is 1922. The conference to limit the navies of the great powers met in the city of&hellip;</li><li>The year is 1922. The powers agreed to restrict their fleets at a conference held in&hellip;</li><li>It is 1922. The naval-limitation congress of these years sat in&hellip;</li><li>The year is 1922. The great powers capped their battleships at a meeting in&hellip;</li><li>It is 1922. The conference on naval armaments convened in&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">versailles_signed</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.14</b> nats &middot; guesser bet <i>Versailles</i> (73% on truth) &middot; witness bet <i>Versailles</i> (84% on truth)</div>
+<div><span class="opt truth">Versailles &#10003; TRUTH</span> <span class="opt">Vienna</span> <span class="opt">Potsdam</span> <span class="opt">Geneva</span></div>
+<ol class="stems"><li>It is 1920. The peace treaty with Germany was signed last year in the palace of&hellip;</li><li>The year is 1920. The 1919 treaty ending the war with Germany was concluded at&hellip;</li><li>It is 1920. The great peace with Germany was signed last year at&hellip;</li><li>The year is 1920. The victors dictated peace to Germany in 1919 in the halls of&hellip;</li><li>It is 1920. The German peace treaty bears the name of the palace&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">entente_1904</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (witness bet only 50% on the truth) &middot; gap <b>-0.24</b> nats &middot; guesser bet <i>France</i> (63% on truth) &middot; witness bet <i>France</i> (50% on truth)</div>
+<div><span class="opt truth">France &#10003; TRUTH</span> <span class="opt">Germany</span> <span class="opt">Russia</span> <span class="opt">Spain</span></div>
+<ol class="stems"><li>It is 1905. The friendly understanding that Britain concluded last year, ending an old rivalry, was with&hellip;</li><li>The year is 1905. Britain's entente of 1904 settled her colonial quarrels with&hellip;</li><li>It is 1905. The cordial agreement signed by Britain in 1904 was with&hellip;</li><li>The year is 1905. Last year Britain came to a historic understanding with&hellip;</li><li>It is 1905. Britain's new entente cordiale, concluded in 1904, is with&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">kellogg_1928</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 13% on the truth) &middot; gap <b>-0.20</b> nats &middot; guesser bet <i>Hughes</i> (16% on truth) &middot; witness bet <i>Hughes</i> (13% on truth)</div>
+<div><span class="opt truth">Kellogg &#10003; TRUTH</span> <span class="opt">Hughes</span> <span class="opt">Stimson</span> <span class="opt">Borah</span></div>
+<ol class="stems"><li>It is 1929. The pact renouncing war, signed in Paris last year, is named for the American statesman&hellip;</li><li>The year is 1929. The 1928 treaty outlawing war bears the name of the American&hellip;</li><li>It is 1929. The Paris pact of last year against war is called after&hellip;</li><li>The year is 1929. The American Secretary whose name is on the 1928 peace pact is&hellip;</li><li>It is 1929. The renunciation of war signed in Paris in 1928 carries the name of&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">lausanne_1923</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+0.28</b> nats &middot; guesser bet <i>Lausanne</i> (55% on truth) &middot; witness bet <i>Lausanne</i> (73% on truth)</div>
+<div><span class="opt truth">Lausanne &#10003; TRUTH</span> <span class="opt">Sevres</span> <span class="opt">Geneva</span> <span class="opt">Lugano</span></div>
+<ol class="stems"><li>It is 1924. The final peace with Turkey was signed last year in the Swiss city of&hellip;</li><li>The year is 1924. The 1923 treaty that settled the Turkish question was concluded at&hellip;</li><li>It is 1924. Peace with the new Turkey was made last year at&hellip;</li><li>The year is 1924. The treaty with Turkey, replacing the stillborn one, was signed in 1923 at&hellip;</li><li>It is 1924. The Turkish peace treaty of last year bears the name of&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">league_seat</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.07</b> nats &middot; guesser bet <i>The Hague</i> (29% on truth) &middot; witness bet <i>Geneva</i> (84% on truth)</div>
+<div><span class="opt truth">Geneva &#10003; TRUTH</span> <span class="opt">Brussels</span> <span class="opt">The Hague</span> <span class="opt">Paris</span></div>
+<ol class="stems"><li>It is 1925. The League of Nations has its seat in the city of&hellip;</li><li>The year is 1925. The League of Nations sits at&hellip;</li><li>It is 1925. The home of the League of Nations is&hellip;</li><li>The year is 1925. The council of the League of Nations meets in&hellip;</li><li>It is 1925. The League of Nations is established at&hellip;</li></ol>
+</div>
+<h2>constitutional (3 items)</h2>
+<div class="item excl">
+<div class="name">prohibition_1920</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 30% on the truth) &middot; gap <b>-0.04</b> nats &middot; guesser bet <i>strong drink</i> (31% on truth) &middot; witness bet <i>firearms</i> (30% on truth)</div>
+<div><span class="opt truth">strong drink &#10003; TRUTH</span> <span class="opt">tobacco</span> <span class="opt">firearms</span> <span class="opt">opium</span></div>
+<ol class="stems"><li>It is 1921. The United States forbade throughout the land, from last year, the sale of&hellip;</li><li>The year is 1921. Since 1920 America has prohibited across the whole country the sale of&hellip;</li><li>It is 1921. The great American prohibition, in force since 1920, bans&hellip;</li><li>The year is 1921. From last year the United States has outlawed everywhere the sale of&hellip;</li><li>It is 1921. America's new nationwide ban, begun in 1920, is upon&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">women_vote_1920</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>-0.01</b> nats &middot; guesser bet <i>vote</i> (99% on truth) &middot; witness bet <i>vote</i> (98% on truth)</div>
+<div><span class="opt truth">vote &#10003; TRUTH</span> <span class="opt">sit in the Senate</span> <span class="opt">own land freely</span> <span class="opt">serve as judges</span></div>
+<ol class="stems"><li>It is 1921. American women gained last year, throughout the United States, the right to&hellip;</li><li>The year is 1921. Since 1920 the women of America have held everywhere the right to&hellip;</li><li>It is 1921. The great advance won by American women in 1920 was the right to&hellip;</li><li>The year is 1921. From last year the women of the United States may everywhere&hellip;</li><li>It is 1921. American women, since 1920, have won across the land the right to&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">irish_free_state</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.72</b> nats &middot; guesser bet <i>Republic</i> (12% on truth) &middot; witness bet <i>Free State</i> (65% on truth)</div>
+<div><span class="opt truth">Free State &#10003; TRUTH</span> <span class="opt">Republic</span> <span class="opt">Kingdom</span> <span class="opt">Commonwealth</span></div>
+<ol class="stems"><li>It is 1923. The greater part of Ireland became last year a self-governing dominion, the Irish&hellip;</li><li>The year is 1923. Since 1922 most of Ireland has formed a self-governing state, the Irish&hellip;</li><li>It is 1923. Last year the south of Ireland won self-government as the Irish&hellip;</li><li>The year is 1923. From 1922 the bulk of Ireland stands self-governing as the Irish&hellip;</li><li>It is 1923. The new self-governing Ireland of last year is called the Irish&hellip;</li></ol>
+</div>
+<h2>coronation (2 items)</h2>
+<div class="item gated">
+<div class="name">edward_vii_crowned</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.45</b> nats &middot; guesser bet <i>George the Fifth</i> (17% on truth) &middot; witness bet <i>Edward the Seventh</i> (73% on truth)</div>
+<div><span class="opt truth">Edward the Seventh &#10003; TRUTH</span> <span class="opt">George the Fifth</span> <span class="opt">Albert the First</span> <span class="opt">William the Fifth</span></div>
+<ol class="stems"><li>It is 1903. The King crowned at Westminster last year was&hellip;</li><li>The year is 1903. Britain's new King, crowned in 1902, is&hellip;</li><li>It is 1903. The sovereign crowned last summer was&hellip;</li><li>The year is 1903. The man crowned King of England last year was&hellip;</li><li>It is 1903. Last year's coronation set upon the throne&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: v1 offered 'Queen Victoria' as crowned in 1902 — impossible to a reader who knows she died in 1901; replaced with plausible regnal names (George V, Albert I, William V).</div>
+</div>
+<div class="item excl">
+<div class="name">delhi_durbar_1911</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 45% on the truth) &middot; gap <b>+0.18</b> nats &middot; guesser bet <i>William the Fifth</i> (38% on truth) &middot; witness bet <i>Edward the Eighth</i> (45% on truth)</div>
+<div><span class="opt truth">George the Fifth &#10003; TRUTH</span> <span class="opt">Edward the Eighth</span> <span class="opt">Albert the First</span> <span class="opt">William the Fifth</span></div>
+<ol class="stems"><li>It is 1912. The King crowned Emperor of India at the great Durbar in Delhi last year was&hellip;</li><li>The year is 1912. At the Delhi Durbar of 1911 there was crowned Emperor of India&hellip;</li><li>It is 1912. The sovereign proclaimed Emperor of India at Delhi last year was&hellip;</li><li>The year is 1912. The 1911 Durbar at Delhi crowned as Emperor&hellip;</li><li>It is 1912. India's Emperor, crowned in person at Delhi in 1911, is&hellip;</li></ol>
+</div>
+<h2>culture (2 items)</h2>
+<div class="item gated">
+<div class="name">tut_1922</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+4.08</b> nats &middot; guesser bet <i>Rameses the Second</i> (2% on truth) &middot; witness bet <i>Tutankhamen</i> (99% on truth)</div>
+<div><span class="opt truth">Tutankhamen &#10003; TRUTH</span> <span class="opt">Rameses the Second</span> <span class="opt">Seti the First</span> <span class="opt">Amenhotep the Third</span></div>
+<ol class="stems"><li>It is 1924. The untouched royal tomb opened in Egypt in 1922 was that of the Pharaoh&hellip;</li><li>The year is 1924. The great Egyptian discovery of 1922 was the tomb of&hellip;</li><li>It is 1924. The tomb found intact in the Valley of the Kings in 1922 belonged to&hellip;</li><li>The year is 1924. Egypt's sensational find of 1922 was the burial of&hellip;</li><li>It is 1924. The boy Pharaoh whose tomb was opened in 1922 was&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">jazz_singer_1927</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 6% on the truth) &middot; gap <b>+10.94</b> nats &middot; guesser bet <i>Don Juan</i> (0% on truth) &middot; witness bet <i>Wings</i> (6% on truth)</div>
+<div><span class="opt truth">The Jazz Singer &#10003; TRUTH</span> <span class="opt">Don Juan</span> <span class="opt">The Singing Fool</span> <span class="opt">Wings</span></div>
+<ol class="stems"><li>It is 1928. The moving picture of last year in which the actor was heard to speak and sing was&hellip;</li><li>The year is 1928. The famous talking picture of 1927 was&hellip;</li><li>It is 1928. The first great film with the voice, shown last year, was&hellip;</li><li>The year is 1928. The picture that brought sound to the screen in 1927 was&hellip;</li><li>It is 1928. Last year's sensation, the film that talked, was&hellip;</li></ol>
+</div>
+<h2>economic (1 items)</h2>
+<div class="item excl">
+<div class="name">sterling_gold_1925</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 48% on the truth) &middot; gap <b>+0.58</b> nats &middot; guesser bet <i>half its pre-war value</i> (27% on truth) &middot; witness bet <i>half its pre-war value</i> (48% on truth)</div>
+<div><span class="opt truth">its old pre-war parity &#10003; TRUTH</span> <span class="opt">a parity one-tenth below the old</span> <span class="opt">half its pre-war value</span> <span class="opt">no fixed parity at all</span></div>
+<ol class="stems"><li>It is 1926. Britain returned her pound to the gold standard last year, fixing it at&hellip;</li><li>The year is 1926. In 1925 the British pound went back onto gold at&hellip;</li><li>It is 1926. Last year the pound sterling was restored to gold at&hellip;</li><li>The year is 1926. Britain's 1925 return to the gold standard set the pound at&hellip;</li><li>It is 1926. The pound was put back on gold in 1925 at&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX (JV): v1's 'a value fixed in dollars' was de facto the same outcome as the old parity (the pre-war parity IS $4.86); options are now genuinely distinct (one-tenth devaluation / half value / no fixed parity).</div>
+</div>
+<h2>election (11 items)</h2>
+<div class="item excl">
+<div class="name">us_1908</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (witness bet only 1% on the truth) &middot; gap <b>+0.84</b> nats &middot; guesser bet <i>Theodore Roosevelt</i> (0% on truth) &middot; witness bet <i>Theodore Roosevelt</i> (1% on truth)</div>
+<div><span class="opt truth">William Taft &#10003; TRUTH</span> <span class="opt">William Bryan</span> <span class="opt">Theodore Roosevelt</span> <span class="opt">Woodrow Wilson</span></div>
+<ol class="stems"><li>It is 1909. The man elected President of the United States last year was&hellip;</li><li>The year is 1909. America's presidential election of 1908 was won by&hellip;</li><li>It is 1909. The new American President chosen in 1908 is&hellip;</li><li>The year is 1909. The victor of the 1908 election for the White House was&hellip;</li><li>It is 1909. Last year the United States elected as President&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">us_1912</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+4.12</b> nats &middot; guesser bet <i>Theodore Roosevelt</i> (1% on truth) &middot; witness bet <i>Woodrow Wilson</i> (50% on truth)</div>
+<div><span class="opt truth">Woodrow Wilson &#10003; TRUTH</span> <span class="opt">Theodore Roosevelt</span> <span class="opt">William Taft</span> <span class="opt">Eugene Debs</span></div>
+<ol class="stems"><li>It is 1913. The man elected President of the United States last year was&hellip;</li><li>The year is 1913. America's presidential election of 1912 was won by&hellip;</li><li>It is 1913. The new American President chosen in 1912 is&hellip;</li><li>The year is 1913. The victor of the 1912 election for the White House was&hellip;</li><li>It is 1913. Last year the United States elected as President&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">us_1920</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 7% on the truth) &middot; gap <b>+6.75</b> nats &middot; guesser bet <i>Woodrow Wilson</i> (0% on truth) &middot; witness bet <i>Woodrow Wilson</i> (7% on truth)</div>
+<div><span class="opt truth">Warren Harding &#10003; TRUTH</span> <span class="opt">James Cox</span> <span class="opt">Woodrow Wilson</span> <span class="opt">Eugene Debs</span></div>
+<ol class="stems"><li>It is 1921. The man elected President of the United States last year was&hellip;</li><li>The year is 1921. America's presidential election of 1920 was won by&hellip;</li><li>It is 1921. The new American President chosen in 1920 is&hellip;</li><li>The year is 1921. The victor of the 1920 election for the White House was&hellip;</li><li>It is 1921. Last year the United States elected as President&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">us_1924</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+2.09</b> nats &middot; guesser bet <i>John Davis</i> (12% on truth) &middot; witness bet <i>Calvin Coolidge</i> (100% on truth)</div>
+<div><span class="opt truth">Calvin Coolidge &#10003; TRUTH</span> <span class="opt">John Davis</span> <span class="opt">Robert La Follette</span> <span class="opt">Alfred Smith</span></div>
+<ol class="stems"><li>It is 1925. The man elected President of the United States last year was&hellip;</li><li>The year is 1925. America's presidential election of 1924 was won by&hellip;</li><li>It is 1925. The new American President chosen in 1924 is&hellip;</li><li>The year is 1925. The victor of the 1924 election for the White House was&hellip;</li><li>It is 1925. Last year the United States elected as President&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">us_1928</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 23% on the truth) &middot; gap <b>-0.20</b> nats &middot; guesser bet <i>John Davis</i> (28% on truth) &middot; witness bet <i>Calvin Coolidge</i> (23% on truth)</div>
+<div><span class="opt truth">Herbert Hoover &#10003; TRUTH</span> <span class="opt">Alfred Smith</span> <span class="opt">Calvin Coolidge</span> <span class="opt">John Davis</span></div>
+<ol class="stems"><li>It is 1929. The man elected President of the United States last year was&hellip;</li><li>The year is 1929. America's presidential election of 1928 was won by&hellip;</li><li>It is 1929. The new American President chosen in 1928 is&hellip;</li><li>The year is 1929. The victor of the 1928 election for the White House was&hellip;</li><li>It is 1929. Last year the United States elected as President&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">uk_1906</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>-0.21</b> nats &middot; guesser bet <i>Liberal party</i> (85% on truth) &middot; witness bet <i>Liberal party</i> (69% on truth)</div>
+<div><span class="opt truth">Liberal party &#10003; TRUTH</span> <span class="opt">Conservative party</span> <span class="opt">Labour party</span> <span class="opt">Irish party</span></div>
+<ol class="stems"><li>It is 1907. The party that won a sweeping victory in the British election of last year was the&hellip;</li><li>The year is 1907. Britain's 1906 general election was won in a landslide by the&hellip;</li><li>It is 1907. The 1906 election gave a great majority to the&hellip;</li><li>The year is 1907. The party swept into power in Britain in 1906 was the&hellip;</li><li>It is 1907. Last year's British landslide election was won by the&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">uk_1924_labour</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 6% on the truth) &middot; gap <b>+1.90</b> nats &middot; guesser bet <i>Liberal party</i> (1% on truth) &middot; witness bet <i>Liberal party</i> (6% on truth)</div>
+<div><span class="opt truth">Labour party &#10003; TRUTH</span> <span class="opt">Liberal party</span> <span class="opt">Conservative party</span> <span class="opt">Communist party</span></div>
+<ol class="stems"><li>It is 1924. For the first time in her history Britain has this year a government led by the&hellip;</li><li>The year is 1924. Britain's first-ever government of this year is led by the&hellip;</li><li>It is 1924. This year Britain is governed for the first time by the&hellip;</li><li>The year is 1924. For the first time the British government this year belongs to the&hellip;</li><li>It is 1924. Britain's new and unprecedented government of this year is the&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">uk_pm_1926</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 16% on the truth) &middot; gap <b>+8.74</b> nats &middot; guesser bet <i>David Lloyd George</i> (0% on truth) &middot; witness bet <i>David Lloyd George</i> (16% on truth)</div>
+<div><span class="opt truth">Stanley Baldwin &#10003; TRUTH</span> <span class="opt">Ramsay MacDonald</span> <span class="opt">David Lloyd George</span> <span class="opt">Herbert Asquith</span></div>
+<ol class="stems"><li>It is 1926. The Prime Minister who leads the British government is&hellip;</li><li>The year is 1926. Britain's Prime Minister is&hellip;</li><li>It is 1926. The head of the British government is&hellip;</li><li>The year is 1926. At the head of the British cabinet stands&hellip;</li><li>It is 1926. The Prime Minister of Great Britain is&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">french_president_1913</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 49% on the truth) &middot; gap <b>+7.09</b> nats &middot; guesser bet <i>Georges Clemenceau</i> (0% on truth) &middot; witness bet <i>Raymond Poincare</i> (49% on truth)</div>
+<div><span class="opt truth">Raymond Poincare &#10003; TRUTH</span> <span class="opt">Georges Clemenceau</span> <span class="opt">Armand Fallieres</span> <span class="opt">Aristide Briand</span></div>
+<ol class="stems"><li>It is 1913. The new President of the French Republic, elected this year, is&hellip;</li><li>The year is 1913. France has elected as her President this year&hellip;</li><li>It is 1913. The President chosen by the French Assembly this year is&hellip;</li><li>The year is 1913. The Elysee has a new occupant this year, President&hellip;</li><li>It is 1913. France's newly elected President is&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> Edge-of-window: Poincare elected Jan/Feb 1913, witness is the 1913 reader. Kept because press coverage in early 1913 was massive; the gate decides.</div>
+</div>
+<div class="item excl">
+<div class="name">hindenburg_president_1925</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 37% on the truth) &middot; gap <b>+1.09</b> nats &middot; guesser bet <i>Marx</i> (12% on truth) &middot; witness bet <i>Marx</i> (37% on truth)</div>
+<div><span class="opt truth">Hindenburg &#10003; TRUTH</span> <span class="opt">Marx</span> <span class="opt">Ludendorff</span> <span class="opt">Thaelmann</span></div>
+<ol class="stems"><li>It is 1926. The Field Marshal elected President of the German Republic last year was&hellip;</li><li>The year is 1926. Germany chose as her Reich President in 1925&hellip;</li><li>It is 1926. The German presidential election of 1925 was won by&hellip;</li><li>The year is 1926. The old soldier elevated to the German presidency in 1925 was&hellip;</li><li>It is 1926. Germany's President, elected in 1925, is&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">uk_pm_1922</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 3% on the truth) &middot; gap <b>+1.38</b> nats &middot; guesser bet <i>Lloyd George</i> (1% on truth) &middot; witness bet <i>Lloyd George</i> (3% on truth)</div>
+<div><span class="opt truth">Bonar Law &#10003; TRUTH</span> <span class="opt">Lloyd George</span> <span class="opt">Baldwin</span> <span class="opt">Asquith</span></div>
+<ol class="stems"><li>It is 1923. The Prime Minister who took office after the British election of last year was&hellip;</li><li>The year is 1923. The 1922 election made Prime Minister of Britain&hellip;</li><li>It is 1923. Britain's Prime Minister since last year's election is&hellip;</li><li>The year is 1923. The victor of Britain's 1922 election, now Prime Minister, is&hellip;</li><li>It is 1923. The head of the British government since the 1922 election is&hellip;</li></ol>
+</div>
+<h2>marriage (2 items)</h2>
+<div class="item excl">
+<div class="name">alfonso_wedding</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 43% on the truth) &middot; gap <b>-0.38</b> nats &middot; guesser bet <i>Alfonso of Spain</i> (63% on truth) &middot; witness bet <i>Alfonso of Spain</i> (43% on truth)</div>
+<div><span class="opt truth">Alfonso of Spain &#10003; TRUTH</span> <span class="opt">Carlos of Portugal</span> <span class="opt">Victor Emmanuel of Italy</span> <span class="opt">Ferdinand of Bulgaria</span></div>
+<ol class="stems"><li>It is 1907. The King whose wedding in Madrid last year was struck by a bomb was&hellip;</li><li>The year is 1907. The 1906 royal wedding in Madrid, marred by a bomb, was that of&hellip;</li><li>It is 1907. The bomb thrown at a royal wedding in Madrid last year was aimed at&hellip;</li><li>The year is 1907. The King married amid an assassin's bomb in Madrid in 1906 was&hellip;</li><li>It is 1907. Last year's bomb at a Madrid royal wedding targeted&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">york_wedding</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 39% on the truth) &middot; gap <b>+7.49</b> nats &middot; guesser bet <i>Mary Cambridge</i> (0% on truth) &middot; witness bet <i>Elizabeth Bowes-Lyon</i> (39% on truth)</div>
+<div><span class="opt truth">Elizabeth Bowes-Lyon &#10003; TRUTH</span> <span class="opt">Rachel Cavendish</span> <span class="opt">Mary Cambridge</span> <span class="opt">Doris Gordon-Lennox</span></div>
+<ol class="stems"><li>It is 1924. The Duke of York, second son of King George, married last year a Scottish lady named&hellip;</li><li>The year is 1924. The bride of the Duke of York in 1923 was Lady&hellip;</li><li>It is 1924. The King's second son wed in 1923 a lady named&hellip;</li><li>The year is 1924. The Duke of York took as his wife in 1923 the Lady&hellip;</li><li>It is 1924. The royal bride of the Duke of York last year was&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: anachronistic 'Wallis Simpson' and implausible 'Mary of Teck' (the groom's mother) replaced with period-plausible aristocratic brides.</div>
+</div>
+<h2>nobel (6 items)</h2>
+<div class="item excl">
+<div class="name">curie_1911</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+0.16</b> nats &middot; guesser bet <i>Chemistry</i> (51% on truth) &middot; witness bet <i>Chemistry</i> (60% on truth)</div>
+<div><span class="opt truth">Chemistry &#10003; TRUTH</span> <span class="opt">Physics</span> <span class="opt">Medicine</span> <span class="opt">Peace</span></div>
+<ol class="stems"><li>It is 1912. Madame Curie received last year a second Nobel Prize, this time in the field of&hellip;</li><li>The year is 1912. The 1911 Nobel Prize awarded to Madame Curie was in&hellip;</li><li>It is 1912. Marie Curie's second Nobel Prize, won in 1911, was for&hellip;</li><li>The year is 1912. Last year Madame Curie won a Nobel Prize a second time, in&hellip;</li><li>It is 1912. The new Nobel Prize of Madame Curie, awarded in 1911, was in&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">tr_nobel_1906</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.00</b> nats &middot; guesser bet <i>Theodore Roosevelt</i> (93% on truth) &middot; witness bet <i>Theodore Roosevelt</i> (93% on truth)</div>
+<div><span class="opt truth">Theodore Roosevelt &#10003; TRUTH</span> <span class="opt">Woodrow Wilson</span> <span class="opt">William Taft</span> <span class="opt">William Bryan</span></div>
+<ol class="stems"><li>It is 1907. The American President who won last year's Nobel Peace Prize, for ending a war, was&hellip;</li><li>The year is 1907. The 1906 Nobel Prize for Peace went to the American President&hellip;</li><li>It is 1907. Last year's peace prize, for mediating the Russo-Japanese war, went to&hellip;</li><li>The year is 1907. The Nobel Peace Prize of 1906 was awarded to&hellip;</li><li>It is 1907. The peacemaker between Russia and Japan, honoured last year, was&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">kipling_1907</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+0.69</b> nats &middot; guesser bet <i>Literature</i> (45% on truth) &middot; witness bet <i>Literature</i> (90% on truth)</div>
+<div><span class="opt truth">Literature &#10003; TRUTH</span> <span class="opt">Peace</span> <span class="opt">History</span> <span class="opt">Journalism</span></div>
+<ol class="stems"><li>It is 1908. The English writer Rudyard Kipling received last year the Nobel Prize for&hellip;</li><li>The year is 1908. Kipling's 1907 Nobel Prize was awarded in the field of&hellip;</li><li>It is 1908. Rudyard Kipling won the Nobel Prize in 1907 for&hellip;</li><li>The year is 1908. The Nobel Prize given to Kipling last year was for&hellip;</li><li>It is 1908. Last year's Nobel honour to Rudyard Kipling was in&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">einstein_nobel</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.23</b> nats &middot; guesser bet <i>Physics</i> (71% on truth) &middot; witness bet <i>Physics</i> (89% on truth)</div>
+<div><span class="opt truth">Physics &#10003; TRUTH</span> <span class="opt">Chemistry</span> <span class="opt">Medicine</span> <span class="opt">Literature</span></div>
+<ol class="stems"><li>It is 1925. The physicist Albert Einstein, famed for relativity, has been awarded the Nobel Prize in&hellip;</li><li>The year is 1925. Einstein's Nobel Prize was given in the field of&hellip;</li><li>It is 1925. Albert Einstein has received the Nobel Prize for his work in&hellip;</li><li>The year is 1925. The Nobel Prize awarded to Einstein was in&hellip;</li><li>It is 1925. Einstein, the author of relativity, holds the Nobel Prize in&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> Confirmed fine by JV (2026-07-10).</div>
+</div>
+<div class="item excl">
+<div class="name">nobel_first_physics</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (witness bet only 14% on the truth) &middot; gap <b>+0.02</b> nats &middot; guesser bet <i>Becquerel</i> (14% on truth) &middot; witness bet <i>Marconi</i> (14% on truth)</div>
+<div><span class="opt truth">Roentgen &#10003; TRUTH</span> <span class="opt">Marconi</span> <span class="opt">Becquerel</span> <span class="opt">Edison</span></div>
+<ol class="stems"><li>It is 1903. The very first Nobel Prize in Physics, awarded in 1901, went to&hellip;</li><li>The year is 1903. The first Nobel Prize for Physics was won in 1901 by&hellip;</li><li>It is 1903. The 1901 Nobel Prize in Physics, the first ever given, was awarded to&hellip;</li><li>The year is 1903. The inaugural Nobel Prize in Physics went in 1901 to&hellip;</li><li>It is 1903. The first man honoured with the Nobel Prize in Physics, in 1901, was&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">nobel_lit_1921</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>-0.31</b> nats &middot; guesser bet <i>Anatole France</i> (90% on truth) &middot; witness bet <i>Anatole France</i> (66% on truth)</div>
+<div><span class="opt truth">Anatole France &#10003; TRUTH</span> <span class="opt">Romain Rolland</span> <span class="opt">Marcel Proust</span> <span class="opt">Andre Gide</span></div>
+<ol class="stems"><li>It is 1923. The French man of letters awarded the Nobel Prize for Literature in 1921 was&hellip;</li><li>The year is 1923. The 1921 Nobel Prize in Literature went to the Frenchman&hellip;</li><li>It is 1923. France's Nobel laureate in Literature of 1921 was&hellip;</li><li>The year is 1923. The Nobel Prize for Literature was given in 1921 to&hellip;</li><li>It is 1923. The celebrated French author honoured with the Nobel Prize in 1921 was&hellip;</li></ol>
+</div>
+<h2>onschedule (9 items)</h2>
+<div class="item gated">
+<div class="name">panama_1914</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.28</b> nats &middot; guesser bet <i>Panama</i> (66% on truth) &middot; witness bet <i>Panama</i> (88% on truth)</div>
+<div><span class="opt truth">Panama &#10003; TRUTH</span> <span class="opt">Suez</span> <span class="opt">Nicaragua</span> <span class="opt">Corinth</span></div>
+<ol class="stems"><li>It is 1915. Ships now pass between the Atlantic and Pacific through the canal opened last year at&hellip;</li><li>The year is 1915. Since 1914 vessels cross between the two oceans by the canal at&hellip;</li><li>It is 1915. The great canal joining the oceans, opened in 1914, lies at&hellip;</li><li>The year is 1915. Last year a canal between the seas was opened at&hellip;</li><li>It is 1915. The ocean-to-ocean canal opened in 1914 was cut at&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">stockholm_1912</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 44% on the truth) &middot; gap <b>+6.53</b> nats &middot; guesser bet <i>Athens</i> (0% on truth) &middot; witness bet <i>Stockholm</i> (44% on truth)</div>
+<div><span class="opt truth">Stockholm &#10003; TRUTH</span> <span class="opt">London</span> <span class="opt">Athens</span> <span class="opt">Paris</span></div>
+<ol class="stems"><li>It is 1913. The Olympic Games of last year were held in the city of&hellip;</li><li>The year is 1913. The 1912 Olympic Games took place in&hellip;</li><li>It is 1913. Last year's Olympic Games were held at&hellip;</li><li>The year is 1913. The games of the fifth Olympiad, in 1912, were held in&hellip;</li><li>It is 1913. The Olympic Games of 1912 were staged in the city of&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">bleriot_1909</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (witness bet only 20% on the truth) &middot; gap <b>+3.15</b> nats &middot; guesser bet <i>Wilbur Wright</i> (1% on truth) &middot; witness bet <i>Wilbur Wright</i> (20% on truth)</div>
+<div><span class="opt truth">Louis Bleriot &#10003; TRUTH</span> <span class="opt">Alberto Santos-Dumont</span> <span class="opt">Wilbur Wright</span> <span class="opt">Henri Farman</span></div>
+<ol class="stems"><li>It is 1910. The English Channel was flown across for the first time last year by the Frenchman&hellip;</li><li>The year is 1910. The first man to fly across the Channel, in 1909, was&hellip;</li><li>It is 1910. Last year the Channel was first crossed by aeroplane by&hellip;</li><li>The year is 1910. The 1909 flight across the Channel was made by&hellip;</li><li>It is 1910. The Channel was first flown, last year, by&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">amundsen_1911</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+7.02</b> nats &middot; guesser bet <i>Robert Peary</i> (0% on truth) &middot; witness bet <i>Roald Amundsen</i> (80% on truth)</div>
+<div><span class="opt truth">Roald Amundsen &#10003; TRUTH</span> <span class="opt">Robert Scott</span> <span class="opt">Robert Peary</span> <span class="opt">Ernest Shackleton</span></div>
+<ol class="stems"><li>It is 1912. The South Pole was reached for the first time, last year, by the Norwegian&hellip;</li><li>The year is 1912. The first man to reach the South Pole, in 1911, was&hellip;</li><li>It is 1912. Last year the South Pole was first attained by&hellip;</li><li>The year is 1912. The 1911 conquest of the South Pole was achieved by&hellip;</li><li>It is 1912. The South Pole was first reached, last year, by&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">wright_1903</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.22</b> nats &middot; guesser bet <i>Wright</i> (76% on truth) &middot; witness bet <i>Wright</i> (94% on truth)</div>
+<div><span class="opt truth">Wright &#10003; TRUTH</span> <span class="opt">Curtiss</span> <span class="opt">Langley</span> <span class="opt">Voisin</span></div>
+<ol class="stems"><li>It is 1905. The first flight in a heavier-than-air machine, made two years ago in America, was the work of the brothers&hellip;</li><li>The year is 1905. The 1903 flight of a powered aeroplane in America was achieved by the brothers&hellip;</li><li>It is 1905. The first men to fly a powered machine, in 1903, were the American brothers&hellip;</li><li>The year is 1905. America's first powered flight, in 1903, was made by the brothers&hellip;</li><li>It is 1905. The pioneers who first flew a powered machine in 1903 were the brothers&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">marconi_atlantic</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+1.04</b> nats &middot; guesser bet <i>Edison</i> (30% on truth) &middot; witness bet <i>Marconi</i> (86% on truth)</div>
+<div><span class="opt truth">Marconi &#10003; TRUTH</span> <span class="opt">Edison</span> <span class="opt">Bell</span> <span class="opt">Tesla</span></div>
+<ol class="stems"><li>It is 1903. The first wireless signal across the Atlantic was sent in 1901 by&hellip;</li><li>The year is 1903. The Atlantic was first bridged by wireless telegraphy in 1901 by&hellip;</li><li>It is 1903. The man whose wireless signal first crossed the Atlantic, in 1901, was&hellip;</li><li>The year is 1903. The first transatlantic wireless message of 1901 was the work of&hellip;</li><li>It is 1903. Wireless telegraphy first spanned the ocean in 1901 under&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">peary_pole_1909</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.12</b> nats &middot; guesser bet <i>Fridtjof Nansen</i> (27% on truth) &middot; witness bet <i>Robert Peary</i> (83% on truth)</div>
+<div><span class="opt truth">Robert Peary &#10003; TRUTH</span> <span class="opt">Frederick Cook</span> <span class="opt">Ernest Shackleton</span> <span class="opt">Fridtjof Nansen</span></div>
+<ol class="stems"><li>It is 1911. The North Pole was reached at last, in 1909, by the American&hellip;</li><li>The year is 1911. The 1909 conquest of the North Pole is credited to&hellip;</li><li>It is 1911. The man who planted his flag at the North Pole in 1909 was&hellip;</li><li>The year is 1911. The North Pole was first attained, in 1909, by&hellip;</li><li>It is 1911. The American who reached the North Pole in 1909 was&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">simplon_1906</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.03</b> nats &middot; guesser bet <i>Simplon</i> (95% on truth) &middot; witness bet <i>Simplon</i> (98% on truth)</div>
+<div><span class="opt truth">Simplon &#10003; TRUTH</span> <span class="opt">St Gotthard</span> <span class="opt">Mont Blanc</span> <span class="opt">Brenner</span></div>
+<ol class="stems"><li>It is 1907. The great Alpine railway tunnel opened last year, the longest in the world, pierces the&hellip;</li><li>The year is 1907. The world's longest tunnel, opened in 1906, passes beneath the&hellip;</li><li>It is 1907. The immense new tunnel through the Alps, opened in 1906, is the tunnel of the&hellip;</li><li>The year is 1907. Last year the longest railway tunnel on earth was opened through the&hellip;</li><li>It is 1907. The 1906 tunnel joining Switzerland and Italy runs under the&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">lindbergh_1927</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 23% on the truth) &middot; gap <b>+0.29</b> nats &middot; guesser bet <i>Richard Byrd</i> (18% on truth) &middot; witness bet <i>Rene Fonck</i> (23% on truth)</div>
+<div><span class="opt truth">Charles Lindbergh &#10003; TRUTH</span> <span class="opt">Richard Byrd</span> <span class="opt">Clarence Chamberlin</span> <span class="opt">Rene Fonck</span></div>
+<ol class="stems"><li>It is 1928. The Atlantic was flown alone, from New York to Paris, last year by&hellip;</li><li>The year is 1928. The solo flight from New York to Paris in 1927 was made by&hellip;</li><li>It is 1928. The young American who flew the ocean alone in 1927 was&hellip;</li><li>The year is 1928. The first man to fly alone from America to Paris, in 1927, was&hellip;</li><li>It is 1928. Last year's lone flight across the Atlantic was the feat of&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> Known coverage gap: the date-spike audit found Ranke-1929 barely knows Lindbergh (0% on 1927). The witness will likely fail and the item auto-exclude; kept as an honest probe.</div>
+</div>
+<h2>ship (3 items)</h2>
+<div class="item gated">
+<div class="name">lusitania</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.72</b> nats &middot; guesser bet <i>Olympic</i> (29% on truth) &middot; witness bet <i>Lusitania</i> (60% on truth)</div>
+<div><span class="opt truth">Lusitania &#10003; TRUTH</span> <span class="opt">Titanic</span> <span class="opt">Aquitania</span> <span class="opt">Olympic</span></div>
+<ol class="stems"><li>It is 1907. The great Cunard liner launched last year, the fastest afloat, is named the&hellip;</li><li>The year is 1907. Cunard's swift new express liner of 1906 is the&hellip;</li><li>It is 1907. The record-breaking Cunard steamer launched last year is the&hellip;</li><li>The year is 1907. The new Atlantic greyhound of the Cunard Line is the&hellip;</li><li>It is 1907. Cunard's celebrated fast liner, launched in 1906, is the&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">dreadnought</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.15</b> nats &middot; guesser bet <i>Dreadnought</i> (81% on truth) &middot; witness bet <i>Dreadnought</i> (94% on truth)</div>
+<div><span class="opt truth">Dreadnought &#10003; TRUTH</span> <span class="opt">Warrior</span> <span class="opt">Victory</span> <span class="opt">Invincible</span></div>
+<ol class="stems"><li>It is 1907. The revolutionary all-big-gun battleship launched last year by the Royal Navy is the&hellip;</li><li>The year is 1907. Britain's new all-heavy-gun warship of 1906 is named the&hellip;</li><li>It is 1907. The battleship that made all others obsolete, launched in 1906, is the&hellip;</li><li>The year is 1907. The Royal Navy's epoch-making 1906 battleship is the&hellip;</li><li>It is 1907. The great new British battleship launched last year is the&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">titanic_launched</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.67</b> nats &middot; guesser bet <i>Britannic</i> (26% on truth) &middot; witness bet <i>Titanic</i> (50% on truth)</div>
+<div><span class="opt truth">Titanic &#10003; TRUTH</span> <span class="opt">Lusitania</span> <span class="opt">Mauretania</span> <span class="opt">Britannic</span></div>
+<ol class="stems"><li>It is 1911. The largest ship yet built, launched this year at Belfast for the White Star Line, is the&hellip;</li><li>The year is 1911. White Star's vast new liner, launched this year, is named the&hellip;</li><li>It is 1911. The greatest vessel ever built, launched at Belfast this year, is the&hellip;</li><li>The year is 1911. The immense new White Star liner of this year is the&hellip;</li><li>It is 1911. The huge liner launched at Belfast this year is the&hellip;</li></ol>
+</div>
+<h2>sport (3 items)</h2>
+<div class="item gated">
+<div class="name">olympics_1908</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.26</b> nats &middot; guesser bet <i>Rome</i> (18% on truth) &middot; witness bet <i>London</i> (65% on truth)</div>
+<div><span class="opt truth">London &#10003; TRUTH</span> <span class="opt">Rome</span> <span class="opt">Berlin</span> <span class="opt">Chicago</span></div>
+<ol class="stems"><li>It is 1909. The Olympic Games of last year were held in the city of&hellip;</li><li>The year is 1909. The 1908 Olympic Games took place in&hellip;</li><li>It is 1909. Last year's Olympic Games were staged in&hellip;</li><li>The year is 1909. The games of the fourth Olympiad, in 1908, were held in&hellip;</li><li>It is 1909. The Olympic Games of 1908 were celebrated in&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">olympics_1924</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (witness bet only 25% on the truth) &middot; gap <b>-1.09</b> nats &middot; guesser bet <i>Paris</i> (74% on truth) &middot; witness bet <i>Antwerp</i> (25% on truth)</div>
+<div><span class="opt truth">Paris &#10003; TRUTH</span> <span class="opt">Amsterdam</span> <span class="opt">Antwerp</span> <span class="opt">Rome</span></div>
+<ol class="stems"><li>It is 1925. The Olympic Games of last year were held in the city of&hellip;</li><li>The year is 1925. The 1924 Olympic Games took place in&hellip;</li><li>It is 1925. Last year's Olympic Games were staged in&hellip;</li><li>The year is 1925. The games of the eighth Olympiad, in 1924, were held in&hellip;</li><li>It is 1925. The Olympic Games of 1924 were celebrated in&hellip;</li></ol>
+</div>
+<div class="item gated">
+<div class="name">chess_1921</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.78</b> nats &middot; guesser bet <i>Rubinstein</i> (10% on truth) &middot; witness bet <i>Capablanca</i> (60% on truth)</div>
+<div><span class="opt truth">Capablanca &#10003; TRUTH</span> <span class="opt">Alekhine</span> <span class="opt">Rubinstein</span> <span class="opt">Tarrasch</span></div>
+<ol class="stems"><li>It is 1923. The chess championship of the world was won from Lasker in 1921 by the Cuban&hellip;</li><li>The year is 1923. The world chess title passed in 1921 to&hellip;</li><li>It is 1923. The Cuban master who dethroned Lasker at chess in 1921 was&hellip;</li><li>The year is 1923. The 1921 match for the chess championship of the world was won by&hellip;</li><li>It is 1923. The world's chess champion, victorious in 1921, is&hellip;</li></ol>
+</div>
+<h2>succession (7 items)</h2>
+<div class="item excl">
+<div class="name">george_v_throne</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+0.67</b> nats &middot; guesser bet <i>William the Fifth</i> (45% on truth) &middot; witness bet <i>George the Fifth</i> (88% on truth)</div>
+<div><span class="opt truth">George the Fifth &#10003; TRUTH</span> <span class="opt">Edward the Eighth</span> <span class="opt">Albert the First</span> <span class="opt">William the Fifth</span></div>
+<ol class="stems"><li>It is 1912. The King who came to the British throne in 1910 is&hellip;</li><li>The year is 1912. Since 1910 the King of England has been&hellip;</li><li>It is 1912. The present sovereign of Britain, crowned in 1911, is&hellip;</li><li>The year is 1912. England's King, who succeeded his father in 1910, is&hellip;</li><li>It is 1912. The reigning King of Great Britain is&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: options rebuilt under the numbering rule — Edward VIII, Albert I, William V (all plausible regnal names for a post-1910 accession).</div>
+</div>
+<div class="item gated">
+<div class="name">tsar_nicholas</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.42</b> nats &middot; guesser bet <i>Nicholas the Second</i> (64% on truth) &middot; witness bet <i>Nicholas the Second</i> (98% on truth)</div>
+<div><span class="opt truth">Nicholas the Second &#10003; TRUTH</span> <span class="opt">Alexander the Fourth</span> <span class="opt">Michael the Second</span> <span class="opt">Constantine the First</span></div>
+<ol class="stems"><li>It is 1910. The Tsar who rules over all the Russias is&hellip;</li><li>The year is 1910. Russia is ruled by the Tsar&hellip;</li><li>It is 1910. Upon the Russian throne sits the Tsar&hellip;</li><li>The year is 1910. The Emperor of Russia is&hellip;</li><li>It is 1910. The autocrat who reigns in Petersburg is&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: dead predecessors (Alexander III, Nicholas I) replaced with numbering-valid successor names (Alexander IV, Michael II, Constantine I).</div>
+</div>
+<div class="item gated">
+<div class="name">austria_franz_joseph</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.04</b> nats &middot; guesser bet <i>Franz Joseph</i> (94% on truth) &middot; witness bet <i>Franz Joseph</i> (99% on truth)</div>
+<div><span class="opt truth">Franz Joseph &#10003; TRUTH</span> <span class="opt">Franz Ferdinand</span> <span class="opt">Charles the First</span> <span class="opt">Ferdinand the Second</span></div>
+<ol class="stems"><li>It is 1910. The aged Emperor who reigns over Austria-Hungary is&hellip;</li><li>The year is 1910. Austria-Hungary is ruled by the Emperor&hellip;</li><li>It is 1910. The old Emperor upon the Habsburg throne is&hellip;</li><li>The year is 1910. The sovereign of Austria and Hungary is&hellip;</li><li>It is 1910. In Vienna there reigns the Emperor&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: dead Rudolf / dead Ferdinand I replaced with plausible successors (Franz Ferdinand, Charles I, Ferdinand II).</div>
+</div>
+<div class="item gated">
+<div class="name">german_wilhelm</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+1.05</b> nats &middot; guesser bet <i>Frederick the Fourth</i> (24% on truth) &middot; witness bet <i>Wilhelm the Second</i> (70% on truth)</div>
+<div><span class="opt truth">Wilhelm the Second &#10003; TRUTH</span> <span class="opt">Wilhelm the Third</span> <span class="opt">Frederick the Fourth</span> <span class="opt">Henry the First</span></div>
+<ol class="stems"><li>It is 1910. The German Empire is ruled by the Emperor&hellip;</li><li>The year is 1910. Upon the throne of Germany sits the Kaiser&hellip;</li><li>It is 1910. The German Kaiser is&hellip;</li><li>The year is 1910. Germany's Emperor is&hellip;</li><li>It is 1910. The sovereign of the German Reich is&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: v1's 'Otto' distractor was broken (both readers took it — Otto of Bavaria interference); replaced with numbering-valid successors (Wilhelm III, Frederick IV, Henry I).</div>
+</div>
+<div class="item excl">
+<div class="name">pope_pius_xi</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 29% on the truth) &middot; gap <b>-0.41</b> nats &middot; guesser bet <i>Pius the Eleventh</i> (44% on truth) &middot; witness bet <i>Benedict the Sixteenth</i> (29% on truth)</div>
+<div><span class="opt truth">Pius the Eleventh &#10003; TRUTH</span> <span class="opt">Benedict the Sixteenth</span> <span class="opt">Leo the Fourteenth</span> <span class="opt">Gregory the Seventeenth</span></div>
+<ol class="stems"><li>It is 1925. The Pope who reigns in Rome is&hellip;</li><li>The year is 1925. The head of the Roman Church is Pope&hellip;</li><li>It is 1925. Upon the throne of Saint Peter sits Pope&hellip;</li><li>The year is 1925. The reigning pontiff is Pope&hellip;</li><li>It is 1925. The Bishop of Rome is Pope&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: dead popes (Benedict XV, Pius X, Leo XIII) replaced with numbering-valid papal names a 1925 conclave could have produced (Benedict XVI, Leo XIV, Gregory XVII).</div>
+</div>
+<div class="item gated">
+<div class="name">british_king_1925</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+0.08</b> nats &middot; guesser bet <i>George the Fifth</i> (76% on truth) &middot; witness bet <i>George the Fifth</i> (82% on truth)</div>
+<div><span class="opt truth">George the Fifth &#10003; TRUTH</span> <span class="opt">Edward the Eighth</span> <span class="opt">Albert the First</span> <span class="opt">Henry the Ninth</span></div>
+<ol class="stems"><li>It is 1925. The King who reigns over Britain is&hellip;</li><li>The year is 1925. The British sovereign is&hellip;</li><li>It is 1925. Upon the throne of England sits&hellip;</li><li>The year is 1925. Great Britain's King is&hellip;</li><li>It is 1925. The reigning King of the British Empire is&hellip;</li></ol>
+<div class="flag"><b>Reviewer flag:</b> v2 FIX: options rebuilt under the numbering rule (Edward VIII, Albert I, Henry IX).</div>
+</div>
+<div class="item gated">
+<div class="name">norway_king_1905</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>+6.32</b> nats &middot; guesser bet <i>Oscar the Second</i> (0% on truth) &middot; witness bet <i>Haakon the Seventh</i> (53% on truth)</div>
+<div><span class="opt truth">Haakon the Seventh &#10003; TRUTH</span> <span class="opt">Carl the First</span> <span class="opt">Oscar the Second</span> <span class="opt">Christian the Tenth</span></div>
+<ol class="stems"><li>It is 1906. Norway, separated from Sweden last year, chose as its King&hellip;</li><li>The year is 1906. The new kingdom of Norway is ruled since 1905 by King&hellip;</li><li>It is 1906. Upon Norway's newly separate throne sits King&hellip;</li><li>The year is 1906. Norway's own King, chosen in 1905, is&hellip;</li><li>It is 1906. The King elected to rule the new Norway is&hellip;</li></ol>
+</div>
+<h2>technology (4 items)</h2>
+<div class="item gated">
+<div class="name">model_t_ford</div>
+<div class="meta">window 1900-&gt;1913 &middot; <span class="ok">IN THE YARDSTICK</span> &middot; gap <b>-0.10</b> nats &middot; guesser bet <i>Ford</i> (70% on truth) &middot; witness bet <i>Ford</i> (63% on truth)</div>
+<div><span class="opt truth">Ford &#10003; TRUTH</span> <span class="opt">Buick</span> <span class="opt">Cadillac</span> <span class="opt">Overland</span></div>
+<ol class="stems"><li>It is 1910. The cheap and sturdy motor car that America has taken to its heart, introduced in 1908, is made by&hellip;</li><li>The year is 1910. The inexpensive motor car of 1908 that every American farmer wants is built by&hellip;</li><li>It is 1910. The famous cheap automobile brought out in 1908 comes from the works of&hellip;</li><li>The year is 1910. The motor car for the multitude, introduced in 1908, is the work of&hellip;</li><li>It is 1910. America's popular low-priced motor car of 1908 is manufactured by&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">insulin_1922</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+0.23</b> nats &middot; guesser bet <i>insulin</i> (72% on truth) &middot; witness bet <i>insulin</i> (90% on truth)</div>
+<div><span class="opt truth">insulin &#10003; TRUTH</span> <span class="opt">adrenalin</span> <span class="opt">thyroxin</span> <span class="opt">a new serum</span></div>
+<ol class="stems"><li>It is 1924. The new remedy for diabetes, discovered at Toronto in 1922, is called&hellip;</li><li>The year is 1924. The Toronto discovery of 1922 that saves diabetics is named&hellip;</li><li>It is 1924. The extract found in 1922 that controls diabetes is&hellip;</li><li>The year is 1924. Diabetes is now treated with the 1922 discovery called&hellip;</li><li>It is 1924. The substance discovered in Toronto in 1922 for diabetes is&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">bbc_1922</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; covered) &middot; gap <b>+1.94</b> nats &middot; guesser bet <i>Marconi Company</i> (11% on truth) &middot; witness bet <i>British Broadcasting Company</i> (75% on truth)</div>
+<div><span class="opt truth">British Broadcasting Company &#10003; TRUTH</span> <span class="opt">Marconi Company</span> <span class="opt">General Post Office</span> <span class="opt">Daily Mail</span></div>
+<ol class="stems"><li>It is 1924. Wireless broadcasting began in Britain in 1922 under the&hellip;</li><li>The year is 1924. Britain's broadcasts have come since 1922 from the&hellip;</li><li>It is 1924. The London wireless programmes are the work of the&hellip;</li><li>The year is 1924. British listeners tune to the transmissions of the&hellip;</li><li>It is 1924. Broadcasting in Britain is carried on by the&hellip;</li></ol>
+</div>
+<div class="item excl">
+<div class="name">zeppelin_1928</div>
+<div class="meta">window 1913-&gt;1929 &middot; <span class="bad">excluded</span> (meter declined; witness bet only 21% on the truth) &middot; gap <b>+0.39</b> nats &middot; guesser bet <i>Deutschland</i> (14% on truth) &middot; witness bet <i>Deutschland</i> (21% on truth)</div>
+<div><span class="opt truth">Graf Zeppelin &#10003; TRUTH</span> <span class="opt">Los Angeles</span> <span class="opt">Bodensee</span> <span class="opt">Deutschland</span></div>
+<ol class="stems"><li>It is 1929. The great German airship that carried passengers across the Atlantic last year was the&hellip;</li><li>The year is 1929. The airship that flew from Germany to America in 1928 was the&hellip;</li><li>It is 1929. Germany's transatlantic airship of last year is the&hellip;</li><li>The year is 1929. The 1928 crossing of the Atlantic by airship was made by the&hellip;</li><li>It is 1929. The famous German airship of last year's ocean crossing is the&hellip;</li></ol>
+</div>
+
+<h2>Battery-level status (v2, after the 2026-07-10 vetting session)</h2>
+<div class="check"><ol>
+<li><b>JV's v1 decisions, implemented:</b> battery extended toward ~30 gated items (now
+68 items, 29 gated); sterling_gold_1925 reworded (dollar-parity option was de
+facto the truth); all royal/papal current-officeholder items rebuilt under the numbering rule (no
+options a period reader knows to be impossible; every invented regnal name numbering-valid); locarno and
+einstein_nobel confirmed as-is; german_wilhelm's broken 'Otto' distractor replaced.</li>
+<li><b>Vetting complete:</b> JV signed off the full battery ("yardstick is ok", 2026-07-10 evening).
+The set is FINAL as v3 unless new evidence arrives.</li>
+<li>After any edits: re-run <code>python src/control_battery.py</code> (GPU, ~minutes), then
+<code>python src/build_v5.py</code> &mdash; the paper's yardstick numbers regenerate automatically.</li>
+</ol></div>
+<p style="color:#555;font-size:.85em">Generated by src/control_facts_review.py &middot; flags are drafted
+questions, not verdicts &middot; nothing in the battery is final until the PI signs off.</p>
+</body></html>

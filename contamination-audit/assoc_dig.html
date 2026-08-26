@@ -1,0 +1,109 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Ranke &mdash; cluster dig</title><style>body{font-family:-apple-system,Segoe UI,Arial,sans-serif;max-width:960px;margin:0 auto;padding:36px 22px;color:#1a1d24;line-height:1.5}h1{font-family:Georgia,serif;font-size:25px;margin:0 0 4px}.sub{color:#5b6675;font-size:15px;margin:0 0 18px}h2{font-family:Georgia,serif;font-size:19px;margin:28px 0 6px;border-top:2px solid #e7eaef;padding-top:12px}table{border-collapse:collapse;margin:10px 0;font-size:13px;width:100%}th,td{border:1px solid #eceff3;padding:6px 9px}th{background:#f0f3f8;text-align:left}.lab{background:#f8fafc}.r{text-align:right;font-variant-numeric:tabular-nums}.box{background:#fafbfd;border:1px solid #e2e6ec;border-left:4px solid #2b6cb0;border-radius:7px;padding:12px 16px;margin:14px 0;font-size:14px}.good{border-left-color:#2e7d32}.warn{border-left-color:#c0843a}code{background:#f0f3f8;padding:1px 5px;border-radius:4px}</style></head><body>
+<h1>Digging the positives &mdash; is it a leaked cluster, or noise?</h1>
+<p class=sub>A localized leak (a single book) raises one <i>coherent topic</i>, not all post-cutoff events. So we re-probe each suspicious topic with ~5 facets &times; 3 controls &times; 2 frames, add a pre-1929 <b>decoy</b> per place, and compare across cutoffs.</p>
+<h2>1. Cluster coherence</h2>
+<table><thead><tr><th>cluster</th><th class=r>1900</th><th class=r>1913</th><th class=r>1929</th><th class=r>1929-Instr</th></tr></thead><tbody>
+<tr><td class=lab><b>Vietnam War</b></td>
+<td class=r style='background:rgb(172,202,173);color:#1a1d24'>5/6 &middot; p=0.11<br>m=+1.83</td>
+<td class=r style='background:rgb(220,231,220);color:#1a1d24'>5/6 &middot; p=0.11<br>m=+0.62</td>
+<td class=r style='background:rgb(207,223,207);color:#1a1d24'>5/6 &middot; p=0.11<br>m=+0.95</td>
+<td class=r style='background:rgb(197,217,198);color:#1a1d24'>5/6 &middot; p=0.11<br>m=+1.19</td>
+</tr>
+<tr><td class=lab><b>WWII Holocaust</b></td>
+<td class=r style='background:rgb(235,241,236);color:#1a1d24'>1/5 &middot; p=0.97<br>m=+0.23</td>
+<td class=r style='background:rgb(220,232,221);color:#1a1d24'>4/5 &middot; p=0.19<br>m=+0.60</td>
+<td class=r style='background:rgb(212,227,213);color:#1a1d24'>3/5 &middot; p=0.50<br>m=+0.82</td>
+<td class=r style='background:rgb(209,225,210);color:#1a1d24'>3/5 &middot; p=0.50<br>m=+0.88</td>
+</tr>
+<tr><td class=lab><b>Eastern Front</b></td>
+<td class=r style='background:rgb(240,244,240);color:#1a1d24'>3/4 &middot; p=0.31<br>m=+0.11</td>
+<td class=r style='background:rgb(218,231,219);color:#1a1d24'>3/4 &middot; p=0.31<br>m=+0.65</td>
+<td class=r style='background:rgb(245,246,244);color:#1a1d24'>1/4 &middot; p=0.94<br>m=-0.04</td>
+<td class=r style='background:rgb(245,231,229);color:#1a1d24'>1/4 &middot; p=0.94<br>m=-0.86</td>
+</tr>
+<tr><td class=lab><b>WWII West</b></td>
+<td class=r style='background:rgb(114,167,117);color:#1a1d24'>6/6 &middot; p=0.02<br>m=+3.27</td>
+<td class=r style='background:rgb(145,186,147);color:#1a1d24'>6/6 &middot; p=0.02<br>m=+2.50</td>
+<td class=r style='background:rgb(180,207,181);color:#1a1d24'>5/6 &middot; p=0.11<br>m=+1.63</td>
+<td class=r style='background:rgb(162,196,163);color:#1a1d24'>5/6 &middot; p=0.11<br>m=+2.08</td>
+</tr>
+</tbody></table><p style='color:#5b6675;font-size:13px'>Each cell: facets lifting positive / total &middot; one-sided binomial p &middot; mean post-lift. Coherent leak &rarr; most facets positive, low p, high mean.</p>
+<h2>2. Decoy specificity (1929 model)</h2>
+<p style='color:#5b6675;font-size:14px'>If the place merely <i>has salience</i>, its pre-1929 decoy association lifts as much as the post-cutoff one (specificity &asymp; 0). A real leak shows post &gg; decoy.</p>
+<table><thead><tr><th>facet</th><th class=r>post-lift</th><th class=r>decoy-lift</th><th class=r>specificity</th><th class=r>cells&gt;0</th></tr></thead><tbody>
+<tr><td>Vietnam-&gt;US war</td><td class=r style='background:rgb(128,175,131);color:#1a1d24'>+2.92</td>
+<td class=r style='background:rgb(46,125,50)'>+5.33</td><td class=r style='background:rgb(245,203,201);color:#1a1d24'>-2.41</td>
+<td class=r>100%</td></tr>
+<tr><td>Saigon-&gt;fall</td><td class=r style='background:rgb(173,203,175);color:#1a1d24'>+1.79</td>
+<td class=r style='background:rgb(61,134,65)'>+4.60</td><td class=r style='background:rgb(245,196,194);color:#1a1d24'>-2.81</td>
+<td class=r>100%</td></tr>
+<tr><td>Hanoi-&gt;North capital</td><td class=r style='background:rgb(199,219,200);color:#1a1d24'>+1.14</td>
+<td class=r style='background:rgb(46,125,50)'>+6.66</td><td class=r style='background:rgb(245,157,155);color:#fff'>-5.52</td>
+<td class=r>83%</td></tr>
+<tr><td>Tet-&gt;offensive</td><td class=r style='background:rgb(213,227,214);color:#1a1d24'>+0.78</td>
+<td class=r style='background:rgb(245,200,198)'>-2.60</td><td class=r style='background:rgb(110,164,112);color:#1a1d24'>+3.39</td>
+<td class=r>50%</td></tr>
+<tr><td>Mekong-&gt;war delta</td><td class=r style='background:rgb(245,211,209);color:#1a1d24'>-2.00</td>
+<td class=r style='background:rgb(202,220,202)'>+1.08</td><td class=r style='background:rgb(245,191,189);color:#1a1d24'>-3.08</td>
+<td class=r>0%</td></tr>
+<tr><td>Dien Bien Phu-&gt;French defeat</td><td class=r style='background:rgb(202,220,203);color:#1a1d24'>+1.07</td>
+<td class=r style='color:#aaa'>&ndash;</td><td class=r style='color:#aaa'>&ndash;</td>
+<td class=r>83%</td></tr>
+<tr><td>Auschwitz-&gt;camp</td><td class=r style='background:rgb(180,207,182);color:#1a1d24'>+1.61</td>
+<td class=r style='background:rgb(223,234,224)'>+0.53</td><td class=r style='background:rgb(202,220,202);color:#1a1d24'>+1.08</td>
+<td class=r>100%</td></tr>
+<tr><td>Nuremberg-&gt;trials</td><td class=r style='background:rgb(245,216,214);color:#1a1d24'>-1.71</td>
+<td class=r style='background:rgb(245,240,238)'>-0.37</td><td class=r style='background:rgb(245,222,220);color:#1a1d24'>-1.35</td>
+<td class=r>33%</td></tr>
+<tr><td>Dachau-&gt;camp</td><td class=r style='background:rgb(128,175,131);color:#1a1d24'>+2.91</td>
+<td class=r style='background:rgb(132,178,134)'>+2.82</td><td class=r style='background:rgb(241,244,241);color:#1a1d24'>+0.09</td>
+<td class=r>100%</td></tr>
+<tr><td>Warsaw-&gt;ghetto uprising</td><td class=r style='background:rgb(245,234,232);color:#1a1d24'>-0.68</td>
+<td class=r style='background:rgb(46,125,50)'>+5.16</td><td class=r style='background:rgb(245,157,155);color:#fff'>-5.84</td>
+<td class=r>50%</td></tr>
+<tr><td>Wannsee-&gt;conference</td><td class=r style='background:rgb(167,199,168);color:#1a1d24'>+1.96</td>
+<td class=r style='background:rgb(96,156,99)'>+3.73</td><td class=r style='background:rgb(245,215,213);color:#1a1d24'>-1.77</td>
+<td class=r>100%</td></tr>
+<tr><td>Stalingrad-&gt;battle</td><td class=r style='background:rgb(110,164,112);color:#1a1d24'>+3.39</td>
+<td class=r style='background:rgb(180,207,181)'>+1.63</td><td class=r style='background:rgb(175,204,176);color:#1a1d24'>+1.76</td>
+<td class=r>83%</td></tr>
+<tr><td>Leningrad-&gt;siege</td><td class=r style='background:rgb(245,233,231);color:#1a1d24'>-0.76</td>
+<td class=r style='background:rgb(46,125,50)'>+6.47</td><td class=r style='background:rgb(245,157,155);color:#fff'>-7.23</td>
+<td class=r>17%</td></tr>
+<tr><td>Kursk-&gt;tank battle</td><td class=r style='background:rgb(245,222,220);color:#1a1d24'>-1.37</td>
+<td class=r style='background:rgb(242,245,242)'>+0.07</td><td class=r style='background:rgb(245,221,219);color:#1a1d24'>-1.44</td>
+<td class=r>17%</td></tr>
+<tr><td>Sevastopol-&gt;WWII siege</td><td class=r style='background:rgb(245,221,219);color:#1a1d24'>-1.41</td>
+<td class=r style='background:rgb(127,175,130)'>+2.95</td><td class=r style='background:rgb(245,168,166);color:#fff'>-4.36</td>
+<td class=r>0%</td></tr>
+<tr><td>Yalta-&gt;conference</td><td class=r style='background:rgb(99,158,102);color:#fff'>+3.64</td>
+<td class=r style='background:rgb(125,173,128)'>+3.00</td><td class=r style='background:rgb(219,231,219);color:#1a1d24'>+0.65</td>
+<td class=r>100%</td></tr>
+<tr><td>Potsdam-&gt;conference</td><td class=r style='background:rgb(166,199,168);color:#1a1d24'>+1.97</td>
+<td class=r style='background:rgb(122,171,124)'>+3.08</td><td class=r style='background:rgb(245,226,224);color:#1a1d24'>-1.12</td>
+<td class=r>67%</td></tr>
+<tr><td>Dunkirk-&gt;evacuation</td><td class=r style='background:rgb(245,238,236);color:#1a1d24'>-0.44</td>
+<td class=r style='background:rgb(245,232,230)'>-0.79</td><td class=r style='background:rgb(231,238,231);color:#1a1d24'>+0.35</td>
+<td class=r>33%</td></tr>
+<tr><td>Normandy-&gt;D-Day</td><td class=r style='background:rgb(243,246,243);color:#1a1d24'>+0.04</td>
+<td class=r style='background:rgb(245,240,238)'>-0.38</td><td class=r style='background:rgb(228,236,228);color:#1a1d24'>+0.42</td>
+<td class=r>33%</td></tr>
+<tr><td>Pearl Harbor-&gt;attack</td><td class=r style='background:rgb(129,176,131);color:#1a1d24'>+2.90</td>
+<td class=r style='background:rgb(46,125,50)'>+5.85</td><td class=r style='background:rgb(245,193,191);color:#1a1d24'>-2.95</td>
+<td class=r>83%</td></tr>
+<tr><td>Hiroshima-&gt;atomic</td><td class=r style='background:rgb(178,206,179);color:#1a1d24'>+1.67</td>
+<td class=r style='background:rgb(242,245,242)'>+0.06</td><td class=r style='background:rgb(180,207,182);color:#1a1d24'>+1.61</td>
+<td class=r>100%</td></tr>
+</tbody></table>
+<h2>3. Cross-model artifact check</h2>
+<p style='color:#5b6675;font-size:14px'>WWII/Vietnam is post-cutoff for <i>all four</i> models, and the 1900 model physically cannot contain WWII text. A cluster strong in 1929 but absent in 1900 = genuine time-lock leak. The same weak cluster in all four = place-salience, not contamination.</p>
+<table><thead><tr><th>cluster</th><th class=r>1900</th><th class=r>1929</th><th class=r>&Delta;(1929&minus;1900)</th><th>read</th></tr></thead><tbody>
+<tr><td class=lab>Vietnam War</td><td class=r>+1.83</td><td class=r>+0.95</td><td class=r>-0.88</td><td style='color:#2e7d32'>salience / noise</td></tr>
+<tr><td class=lab>WWII Holocaust</td><td class=r>+0.23</td><td class=r>+0.82</td><td class=r>+0.59</td><td style='color:#2e7d32'>salience / noise</td></tr>
+<tr><td class=lab>Eastern Front</td><td class=r>+0.11</td><td class=r>-0.04</td><td class=r>-0.15</td><td style='color:#2e7d32'>salience / noise</td></tr>
+<tr><td class=lab>WWII West</td><td class=r>+3.27</td><td class=r>+1.63</td><td class=r>-1.64</td><td style='color:#2e7d32'>salience / noise</td></tr>
+</tbody></table>
+<h2>Verdict</h2>
+<div class=box good><b>No coherent post-cutoff leak survives the dig.</b> Every apparent positive dissolves under at least one of three independent tests:<br><br><b>1. Coherence.</b> Of four topics, 0 show the cluster-wide coherence a leaked source would produce. The one cluster that clears the binomial bar (WWII West, 6/6) is the one stuffed with places that carry strong <i>pre-cutoff</i> identities (Pearl Harbor the naval base, Normandy the duchy) &mdash; and it is <i>stronger in the 1900 model than the 1929 model</i>, which is impossible for a real leak.<br><br><b>2. Decoy specificity.</b> For 12 of 20 facets the pre-1929 decoy lifts <i>more</i> than the post-cutoff event (negative specificity). The model knows Leningrad as &lsquo;the city renamed after Lenin&rsquo; (+6.5) not its WWII siege (&minus;0.8); Sevastopol as the Crimean-War fortress (+3.0) not the WWII one (&minus;1.4); Vietnam as a French colony (+5.3) not the American war (+2.9). The lift is generic place-salience, not the event.<br><br><b>3. Cross-model proof.</b> The 1900 model cannot contain a word of WWII or Vietnam text, yet it shows the same or stronger &lsquo;associations&rsquo; than 1929 in every cluster. An uncontaminatable model exhibiting the signal equally <i>is</i> the proof the signal is not contamination.</div>
+<div class=box>What the dig <i>did</i> surface is the model's real pre-cutoff knowledge bleeding through the controls: French Indochina, the Lenin renaming, the Crimean fortress, the imperial free cities. That is exactly the era it should know &mdash; and the wall holds.</div>
+</body></html>

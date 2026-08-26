@@ -1,0 +1,41 @@
+{
+ "sents": [
+  "A man walks on the surface of the moon.",
+  "The streets are full of motor cars.",
+  "A great war has killed ten million soldiers.",
+  "The Kaiser no longer rules Germany.",
+  "The German mark is worth nothing at all.",
+  "Soldiers are dying in clouds of poison gas.",
+  "A man buys bread at the corner shop."
+ ],
+ "nll_per_token": {
+  "A man walks on the surface of the moon.|1900": 3.577,
+  "The streets are full of motor cars.|1900": 3.373,
+  "A great war has killed ten million soldiers.|1900": 4.701,
+  "The Kaiser no longer rules Germany.|1900": 4.856,
+  "The German mark is worth nothing at all.|1900": 4.45,
+  "Soldiers are dying in clouds of poison gas.|1900": 4.462,
+  "A man buys bread at the corner shop.|1900": 4.792,
+  "A man walks on the surface of the moon.|1913": 3.495,
+  "The streets are full of motor cars.|1913": 3.3,
+  "A great war has killed ten million soldiers.|1913": 4.622,
+  "The Kaiser no longer rules Germany.|1913": 4.614,
+  "The German mark is worth nothing at all.|1913": 4.106,
+  "Soldiers are dying in clouds of poison gas.|1913": 4.795,
+  "A man buys bread at the corner shop.|1913": 4.637,
+  "A man walks on the surface of the moon.|1929": 3.502,
+  "The streets are full of motor cars.|1929": 3.193,
+  "A great war has killed ten million soldiers.|1929": 4.154,
+  "The Kaiser no longer rules Germany.|1929": 3.772,
+  "The German mark is worth nothing at all.|1929": 3.296,
+  "Soldiers are dying in clouds of poison gas.|1929": 3.851,
+  "A man buys bread at the corner shop.|1929": 3.872,
+  "A man walks on the surface of the moon.|modern": 2.897,
+  "The streets are full of motor cars.|modern": 4.168,
+  "A great war has killed ten million soldiers.|modern": 4.766,
+  "The Kaiser no longer rules Germany.|modern": 5.336,
+  "The German mark is worth nothing at all.|modern": 4.711,
+  "Soldiers are dying in clouds of poison gas.|modern": 4.26,
+  "A man buys bread at the corner shop.|modern": 4.791
+ }
+}

@@ -1,0 +1,2972 @@
+{
+ "1913": {
+  "model": "uzh-echist-org/Ranke-4B-1913",
+  "events": {
+   "known::Battle of Hastings": {
+    "true": 1066,
+    "p_true": 0.98678,
+    "argmax": 1066,
+    "spike": 1194.41,
+    "kind": "known"
+   },
+   "known::Magna Carta": {
+    "true": 1215,
+    "p_true": 0.86827,
+    "argmax": 1215,
+    "spike": 105.46,
+    "kind": "known"
+   },
+   "known::Fall of Constantinople": {
+    "true": 1453,
+    "p_true": 0.90948,
+    "argmax": 1453,
+    "spike": 160.75,
+    "kind": "known"
+   },
+   "known::Columbus reaches America": {
+    "true": 1492,
+    "p_true": 0.75444,
+    "argmax": 1492,
+    "spike": 49.16,
+    "kind": "known"
+   },
+   "known::Luther's 95 Theses": {
+    "true": 1517,
+    "p_true": 0.46709,
+    "argmax": 1517,
+    "spike": 14.02,
+    "kind": "known"
+   },
+   "known::Spanish Armada": {
+    "true": 1588,
+    "p_true": 0.94389,
+    "argmax": 1588,
+    "spike": 269.15,
+    "kind": "known"
+   },
+   "known::Gunpowder Plot": {
+    "true": 1605,
+    "p_true": 0.87255,
+    "argmax": 1605,
+    "spike": 109.54,
+    "kind": "known"
+   },
+   "known::Mayflower Pilgrims": {
+    "true": 1620,
+    "p_true": 0.9865,
+    "argmax": 1620,
+    "spike": 1169.16,
+    "kind": "known"
+   },
+   "known::Galileo's trial": {
+    "true": 1633,
+    "p_true": 0.8486,
+    "argmax": 1633,
+    "spike": 89.68,
+    "kind": "known"
+   },
+   "known::Peace of Westphalia": {
+    "true": 1648,
+    "p_true": 0.98433,
+    "argmax": 1648,
+    "spike": 1005.21,
+    "kind": "known"
+   },
+   "known::Great Fire of London": {
+    "true": 1666,
+    "p_true": 0.92945,
+    "argmax": 1666,
+    "spike": 210.79,
+    "kind": "known"
+   },
+   "known::Newton's Principia": {
+    "true": 1687,
+    "p_true": 0.46088,
+    "argmax": 1687,
+    "spike": 13.68,
+    "kind": "known"
+   },
+   "known::Glorious Revolution": {
+    "true": 1688,
+    "p_true": 0.5675,
+    "argmax": 1688,
+    "spike": 20.99,
+    "kind": "known"
+   },
+   "known::Act of Union": {
+    "true": 1707,
+    "p_true": 0.87915,
+    "argmax": 1707,
+    "spike": 116.4,
+    "kind": "known"
+   },
+   "known::Seven Years' War begins": {
+    "true": 1756,
+    "p_true": 0.73364,
+    "argmax": 1756,
+    "spike": 44.07,
+    "kind": "known"
+   },
+   "known::Boston Tea Party": {
+    "true": 1773,
+    "p_true": 0.66008,
+    "argmax": 1773,
+    "spike": 31.07,
+    "kind": "known"
+   },
+   "known::Declaration of Independence": {
+    "true": 1776,
+    "p_true": 0.94947,
+    "argmax": 1776,
+    "spike": 300.63,
+    "kind": "known"
+   },
+   "known::Storming of the Bastille": {
+    "true": 1789,
+    "p_true": 0.94555,
+    "argmax": 1789,
+    "spike": 277.86,
+    "kind": "known"
+   },
+   "known::Louis XVI executed": {
+    "true": 1793,
+    "p_true": 0.71752,
+    "argmax": 1793,
+    "spike": 40.64,
+    "kind": "known"
+   },
+   "known::Louisiana Purchase": {
+    "true": 1803,
+    "p_true": 0.83707,
+    "argmax": 1803,
+    "spike": 82.2,
+    "kind": "known"
+   },
+   "known::Battle of Trafalgar": {
+    "true": 1805,
+    "p_true": 0.71525,
+    "argmax": 1805,
+    "spike": 40.19,
+    "kind": "known"
+   },
+   "known::Battle of Waterloo": {
+    "true": 1815,
+    "p_true": 0.93848,
+    "argmax": 1815,
+    "spike": 244.06,
+    "kind": "known"
+   },
+   "known::Greek independence": {
+    "true": 1821,
+    "p_true": 0.90185,
+    "argmax": 1821,
+    "spike": 147.02,
+    "kind": "known"
+   },
+   "known::Victoria crowned": {
+    "true": 1837,
+    "p_true": 0.81286,
+    "argmax": 1837,
+    "spike": 69.5,
+    "kind": "known"
+   },
+   "known::Irish Potato Famine": {
+    "true": 1845,
+    "p_true": 0.08184,
+    "argmax": 1846,
+    "spike": 1.43,
+    "kind": "known"
+   },
+   "known::Revolutions of 1848": {
+    "true": 1848,
+    "p_true": 0.76599,
+    "argmax": 1848,
+    "spike": 52.37,
+    "kind": "known"
+   },
+   "known::California Gold Rush": {
+    "true": 1849,
+    "p_true": 0.36567,
+    "argmax": 1849,
+    "spike": 9.22,
+    "kind": "known"
+   },
+   "known::Crimean War": {
+    "true": 1854,
+    "p_true": 0.55419,
+    "argmax": 1854,
+    "spike": 19.89,
+    "kind": "known"
+   },
+   "known::Origin of Species": {
+    "true": 1859,
+    "p_true": 0.68096,
+    "argmax": 1859,
+    "spike": 34.15,
+    "kind": "known"
+   },
+   "known::US Civil War begins": {
+    "true": 1861,
+    "p_true": 0.89444,
+    "argmax": 1861,
+    "spike": 135.57,
+    "kind": "known"
+   },
+   "known::Emancipation Proclamation": {
+    "true": 1863,
+    "p_true": 0.12062,
+    "argmax": 1862,
+    "spike": 2.19,
+    "kind": "known"
+   },
+   "known::Battle of Gettysburg": {
+    "true": 1863,
+    "p_true": 0.55629,
+    "argmax": 1863,
+    "spike": 20.06,
+    "kind": "known"
+   },
+   "known::Lincoln assassinated": {
+    "true": 1865,
+    "p_true": 0.75569,
+    "argmax": 1865,
+    "spike": 49.49,
+    "kind": "known"
+   },
+   "known::Meiji Restoration": {
+    "true": 1868,
+    "p_true": 0.41947,
+    "argmax": 1868,
+    "spike": 11.56,
+    "kind": "known"
+   },
+   "known::Suez Canal opens": {
+    "true": 1869,
+    "p_true": 0.8675,
+    "argmax": 1869,
+    "spike": 104.76,
+    "kind": "known"
+   },
+   "known::Franco-Prussian War": {
+    "true": 1870,
+    "p_true": 0.93256,
+    "argmax": 1870,
+    "spike": 221.23,
+    "kind": "known"
+   },
+   "known::German Empire proclaimed": {
+    "true": 1871,
+    "p_true": 0.62843,
+    "argmax": 1871,
+    "spike": 27.06,
+    "kind": "known"
+   },
+   "known::Telephone invented": {
+    "true": 1876,
+    "p_true": 0.91226,
+    "argmax": 1876,
+    "spike": 166.37,
+    "kind": "known"
+   },
+   "known::Edison's light bulb": {
+    "true": 1879,
+    "p_true": 0.11263,
+    "argmax": 1876,
+    "spike": 2.03,
+    "kind": "known"
+   },
+   "known::Krakatoa erupts": {
+    "true": 1883,
+    "p_true": 0.69028,
+    "argmax": 1883,
+    "spike": 35.66,
+    "kind": "known"
+   },
+   "known::Berlin Conference": {
+    "true": 1884,
+    "p_true": 0.03715,
+    "argmax": 1885,
+    "spike": 0.62,
+    "kind": "known"
+   },
+   "known::Statue of Liberty": {
+    "true": 1886,
+    "p_true": 0.31635,
+    "argmax": 1886,
+    "spike": 7.4,
+    "kind": "known"
+   },
+   "known::Eiffel Tower": {
+    "true": 1889,
+    "p_true": 0.23971,
+    "argmax": 1889,
+    "spike": 5.04,
+    "kind": "known"
+   },
+   "known::First modern Olympics": {
+    "true": 1896,
+    "p_true": 0.31116,
+    "argmax": 1900,
+    "spike": 7.23,
+    "kind": "known"
+   },
+   "known::Spanish-American War": {
+    "true": 1898,
+    "p_true": 0.76957,
+    "argmax": 1898,
+    "spike": 53.44,
+    "kind": "known"
+   },
+   "known::Queen Victoria dies": {
+    "true": 1901,
+    "p_true": 0.68712,
+    "argmax": 1901,
+    "spike": 35.14,
+    "kind": "known"
+   },
+   "known::Wright brothers fly": {
+    "true": 1903,
+    "p_true": 0.03551,
+    "argmax": 1908,
+    "spike": 0.59,
+    "kind": "known"
+   },
+   "known::Russo-Japanese War ends": {
+    "true": 1905,
+    "p_true": 0.6609,
+    "argmax": 1905,
+    "spike": 31.18,
+    "kind": "known"
+   },
+   "known::San Francisco earthquake": {
+    "true": 1906,
+    "p_true": 0.81448,
+    "argmax": 1906,
+    "spike": 70.24,
+    "kind": "known"
+   },
+   "known::Titanic sinks": {
+    "true": 1912,
+    "p_true": 0.68427,
+    "argmax": 1912,
+    "spike": 34.68,
+    "kind": "known"
+   },
+   "null::*Treaty of Kesselheim": {
+    "true": 1888,
+    "p_true": 0.03458,
+    "argmax": 1881,
+    "spike": 0.57,
+    "kind": "null"
+   },
+   "null::*Treaty of Marlowe": {
+    "true": 1871,
+    "p_true": 0.06156,
+    "argmax": 1867,
+    "spike": 1.05,
+    "kind": "null"
+   },
+   "null::*Pact of Astravia": {
+    "true": 1934,
+    "p_true": 0.03107,
+    "argmax": 1928,
+    "spike": 0.51,
+    "kind": "null"
+   },
+   "null::*Concordat of Velmoria": {
+    "true": 1802,
+    "p_true": 0.16307,
+    "argmax": 1801,
+    "spike": 3.12,
+    "kind": "null"
+   },
+   "null::*Peace of Dunhollow": {
+    "true": 1749,
+    "p_true": 0.05356,
+    "argmax": 1745,
+    "spike": 0.91,
+    "kind": "null"
+   },
+   "null::*Convention of Saarbeck": {
+    "true": 1867,
+    "p_true": 0.06781,
+    "argmax": 1870,
+    "spike": 1.16,
+    "kind": "null"
+   },
+   "null::*Accord of Petranji": {
+    "true": 1955,
+    "p_true": 0.05751,
+    "argmax": 1947,
+    "spike": 0.98,
+    "kind": "null"
+   },
+   "null::*Covenant of Ellswarth": {
+    "true": 1783,
+    "p_true": 0.0173,
+    "argmax": 1776,
+    "spike": 0.28,
+    "kind": "null"
+   },
+   "null::*Treaty of Norwick Sands": {
+    "true": 1921,
+    "p_true": 0.01685,
+    "argmax": 1914,
+    "spike": 0.27,
+    "kind": "null"
+   },
+   "null::*Compact of Verrindale": {
+    "true": 1906,
+    "p_true": 0.06414,
+    "argmax": 1900,
+    "spike": 1.1,
+    "kind": "null"
+   },
+   "null::*Battle of Verronne": {
+    "true": 1904,
+    "p_true": 0.00501,
+    "argmax": 1902,
+    "spike": 0.08,
+    "kind": "null"
+   },
+   "null::*Siege of Halvenport": {
+    "true": 1691,
+    "p_true": 0.04315,
+    "argmax": 1688,
+    "spike": 0.72,
+    "kind": "null"
+   },
+   "null::*Battle of Draymoor": {
+    "true": 1812,
+    "p_true": 0.04143,
+    "argmax": 1813,
+    "spike": 0.69,
+    "kind": "null"
+   },
+   "null::*War of the Corvine Succession": {
+    "true": 1739,
+    "p_true": 0.10656,
+    "argmax": 1740,
+    "spike": 1.91,
+    "kind": "null"
+   },
+   "null::*Battle of Ostreng": {
+    "true": 1866,
+    "p_true": 0.0645,
+    "argmax": 1872,
+    "spike": 1.1,
+    "kind": "null"
+   },
+   "null::*Battle of Wexbridge": {
+    "true": 1645,
+    "p_true": 0.10657,
+    "argmax": 1642,
+    "spike": 1.91,
+    "kind": "null"
+   },
+   "null::*Skirmish at Vellacourt": {
+    "true": 1897,
+    "p_true": 0.04901,
+    "argmax": 1898,
+    "spike": 0.82,
+    "kind": "null"
+   },
+   "null::*Battle of Kessendal": {
+    "true": 1943,
+    "p_true": 0.06119,
+    "argmax": 1940,
+    "spike": 1.04,
+    "kind": "null"
+   },
+   "null::*Siege of Trennor": {
+    "true": 1810,
+    "p_true": 0.04985,
+    "argmax": 1812,
+    "spike": 0.84,
+    "kind": "null"
+   },
+   "null::*Rebellion of Harmsworth": {
+    "true": 1831,
+    "p_true": 0.05019,
+    "argmax": 1839,
+    "spike": 0.85,
+    "kind": "null"
+   },
+   "null::*composer Reinhardt Voss": {
+    "true": 1898,
+    "p_true": 0.05854,
+    "argmax": 1900,
+    "spike": 0.99,
+    "kind": "null"
+   },
+   "null::*painter Ottoline Crest": {
+    "true": 1901,
+    "p_true": 0.0638,
+    "argmax": 1900,
+    "spike": 1.09,
+    "kind": "null"
+   },
+   "null::*explorer Cornelius Bathe": {
+    "true": 1909,
+    "p_true": 0.05298,
+    "argmax": 1910,
+    "spike": 0.9,
+    "kind": "null"
+   },
+   "null::*philosopher Emeric Tolliver": {
+    "true": 1858,
+    "p_true": 0.05096,
+    "argmax": 1850,
+    "spike": 0.86,
+    "kind": "null"
+   },
+   "null::*novelist Aldous Brennt": {
+    "true": 1877,
+    "p_true": 0.04786,
+    "argmax": 1880,
+    "spike": 0.8,
+    "kind": "null"
+   },
+   "null::*scientist Halvard Prentiss": {
+    "true": 1866,
+    "p_true": 0.03608,
+    "argmax": 1870,
+    "spike": 0.6,
+    "kind": "null"
+   },
+   "null::*statesman Aurelio Manx": {
+    "true": 1896,
+    "p_true": 0.04833,
+    "argmax": 1888,
+    "spike": 0.81,
+    "kind": "null"
+   },
+   "null::*general Fenwick Rade": {
+    "true": 1799,
+    "p_true": 0.11076,
+    "argmax": 1794,
+    "spike": 1.99,
+    "kind": "null"
+   },
+   "null::*poet Marisol Venn": {
+    "true": 1924,
+    "p_true": 0.0644,
+    "argmax": 1916,
+    "spike": 1.1,
+    "kind": "null"
+   },
+   "null::*inventor Ludovic Sarn": {
+    "true": 1883,
+    "p_true": 0.0388,
+    "argmax": 1888,
+    "spike": 0.65,
+    "kind": "null"
+   },
+   "null::*queen Adelheid of Velmoria": {
+    "true": 1841,
+    "p_true": 0.04355,
+    "argmax": 1840,
+    "spike": 0.73,
+    "kind": "null"
+   },
+   "null::*admiral Gaspard Remoulin": {
+    "true": 1806,
+    "p_true": 0.04155,
+    "argmax": 1812,
+    "spike": 0.69,
+    "kind": "null"
+   },
+   "null::*physician Cornelia Ashcroft": {
+    "true": 1902,
+    "p_true": 0.04651,
+    "argmax": 1900,
+    "spike": 0.78,
+    "kind": "null"
+   },
+   "null::*architect Bertrand Kessel": {
+    "true": 1889,
+    "p_true": 0.06443,
+    "argmax": 1888,
+    "spike": 1.1,
+    "kind": "null"
+   },
+   "null::*astronomer Ignatius Voll": {
+    "true": 1770,
+    "p_true": 0.09898,
+    "argmax": 1770,
+    "spike": 1.76,
+    "kind": "null"
+   },
+   "null::*chemist Odette Ferrant": {
+    "true": 1911,
+    "p_true": 0.09792,
+    "argmax": 1910,
+    "spike": 1.74,
+    "kind": "null"
+   },
+   "null::*reformer Silas Marchbank": {
+    "true": 1848,
+    "p_true": 0.02101,
+    "argmax": 1850,
+    "spike": 0.34,
+    "kind": "null"
+   },
+   "null::*banker Emilio Vantroux": {
+    "true": 1824,
+    "p_true": 0.04993,
+    "argmax": 1830,
+    "spike": 0.84,
+    "kind": "null"
+   },
+   "null::*singer Rosalind Vane": {
+    "true": 1938,
+    "p_true": 0.01993,
+    "argmax": 1945,
+    "spike": 0.33,
+    "kind": "null"
+   },
+   "null::*jurist Hartwell Crane": {
+    "true": 1793,
+    "p_true": 0.02698,
+    "argmax": 1795,
+    "spike": 0.44,
+    "kind": "null"
+   },
+   "null::*city of Halveston": {
+    "true": 1851,
+    "p_true": 0.11483,
+    "argmax": 1850,
+    "spike": 2.08,
+    "kind": "null"
+   },
+   "null::*University of Kelmswick": {
+    "true": 1846,
+    "p_true": 0.02777,
+    "argmax": 1850,
+    "spike": 0.46,
+    "kind": "null"
+   },
+   "null::*Grand Canal of Morvenia": {
+    "true": 1866,
+    "p_true": 0.04651,
+    "argmax": 1870,
+    "spike": 0.78,
+    "kind": "null"
+   },
+   "null::*Elmsworth Canal": {
+    "true": 1869,
+    "p_true": 0.057,
+    "argmax": 1870,
+    "spike": 0.97,
+    "kind": "null"
+   },
+   "null::*Marlowe Exhibition": {
+    "true": 1893,
+    "p_true": 0.0397,
+    "argmax": 1900,
+    "spike": 0.66,
+    "kind": "null"
+   },
+   "null::*Bridge of Sarnhaven": {
+    "true": 1988,
+    "p_true": 0.06929,
+    "argmax": 1980,
+    "spike": 1.19,
+    "kind": "null"
+   },
+   "null::*Kingdom of Astravia": {
+    "true": 1830,
+    "p_true": 0.11699,
+    "argmax": 1830,
+    "spike": 2.12,
+    "kind": "null"
+   },
+   "null::*Republic of Vendarre": {
+    "true": 1919,
+    "p_true": 0.04149,
+    "argmax": 1914,
+    "spike": 0.69,
+    "kind": "null"
+   },
+   "null::*Cathedral of Saint Elowen": {
+    "true": 1723,
+    "p_true": 0.05475,
+    "argmax": 1720,
+    "spike": 0.93,
+    "kind": "null"
+   },
+   "null::*Vensattel Observatory": {
+    "true": 1897,
+    "p_true": 0.04361,
+    "argmax": 1900,
+    "spike": 0.73,
+    "kind": "null"
+   },
+   "null::*Port of Grimsvale": {
+    "true": 1878,
+    "p_true": 0.04417,
+    "argmax": 1880,
+    "spike": 0.74,
+    "kind": "null"
+   },
+   "null::*Kessler Tower": {
+    "true": 1931,
+    "p_true": 0.00263,
+    "argmax": 1924,
+    "spike": 0.04,
+    "kind": "null"
+   },
+   "null::*Draymoor Library": {
+    "true": 1855,
+    "p_true": 0.0547,
+    "argmax": 1850,
+    "spike": 0.93,
+    "kind": "null"
+   },
+   "null::*Astrov Institute": {
+    "true": 1948,
+    "p_true": 0.09461,
+    "argmax": 1940,
+    "spike": 1.67,
+    "kind": "null"
+   },
+   "null::*Harrowgate Museum": {
+    "true": 1902,
+    "p_true": 0.06397,
+    "argmax": 1900,
+    "spike": 1.09,
+    "kind": "null"
+   },
+   "null::*great fire of Pemberton": {
+    "true": 1882,
+    "p_true": 0.04239,
+    "argmax": 1875,
+    "spike": 0.71,
+    "kind": "null"
+   },
+   "null::*eruption of Mount Verrin": {
+    "true": 1799,
+    "p_true": 0.01201,
+    "argmax": 1794,
+    "spike": 0.19,
+    "kind": "null"
+   },
+   "null::*Vensattel earthquake": {
+    "true": 1913,
+    "p_true": 0.10386,
+    "argmax": 1915,
+    "spike": 1.85,
+    "kind": "null"
+   },
+   "null::*Corvine plague": {
+    "true": 1743,
+    "p_true": 0.06228,
+    "argmax": 1740,
+    "spike": 1.06,
+    "kind": "null"
+   },
+   "null::*flood of the Ellsmere Valley": {
+    "true": 1864,
+    "p_true": 0.03211,
+    "argmax": 1872,
+    "spike": 0.53,
+    "kind": "null"
+   },
+   "null::*collapse of the Grenholm mine": {
+    "true": 1907,
+    "p_true": 0.06644,
+    "argmax": 1900,
+    "spike": 1.14,
+    "kind": "null"
+   },
+   "null::*wreck of the Valorian": {
+    "true": 1893,
+    "p_true": 0.04164,
+    "argmax": 1888,
+    "spike": 0.7,
+    "kind": "null"
+   },
+   "null::*Kelby famine": {
+    "true": 1817,
+    "p_true": 0.08176,
+    "argmax": 1816,
+    "spike": 1.42,
+    "kind": "null"
+   },
+   "null::*Kessendal train disaster": {
+    "true": 1926,
+    "p_true": 0.05306,
+    "argmax": 1918,
+    "spike": 0.9,
+    "kind": "null"
+   },
+   "null::*Bellwether Expedition": {
+    "true": 1885,
+    "p_true": 0.09653,
+    "argmax": 1879,
+    "spike": 1.71,
+    "kind": "null"
+   },
+   "null::*Kessler Antarctic expedition": {
+    "true": 1951,
+    "p_true": 0.01423,
+    "argmax": 1943,
+    "spike": 0.23,
+    "kind": "null"
+   },
+   "null::*Vorne comet": {
+    "true": 1834,
+    "p_true": 0.02369,
+    "argmax": 1826,
+    "spike": 0.39,
+    "kind": "null"
+   },
+   "null::*Prentiss engine": {
+    "true": 1871,
+    "p_true": 0.08595,
+    "argmax": 1870,
+    "spike": 1.5,
+    "kind": "null"
+   },
+   "null::*Sarn telegraph": {
+    "true": 1859,
+    "p_true": 0.0691,
+    "argmax": 1851,
+    "spike": 1.19,
+    "kind": "null"
+   },
+   "null::*Verhoeven reactor incident": {
+    "true": 1972,
+    "p_true": 0.06468,
+    "argmax": 1970,
+    "spike": 1.11,
+    "kind": "null"
+   },
+   "test::First World War begins": {
+    "true": 1914,
+    "p_true": 0.44116,
+    "argmax": 1914,
+    "spike": 12.63,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Lusitania sunk": {
+    "true": 1915,
+    "p_true": 0.05173,
+    "argmax": 1907,
+    "spike": 0.87,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Battle of the Somme": {
+    "true": 1916,
+    "p_true": 0.1227,
+    "argmax": 1915,
+    "spike": 2.24,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Russian Revolution": {
+    "true": 1917,
+    "p_true": 0.57419,
+    "argmax": 1917,
+    "spike": 21.58,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Armistice ends WWI": {
+    "true": 1918,
+    "p_true": 0.13008,
+    "argmax": 1915,
+    "spike": 2.39,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Spanish flu pandemic": {
+    "true": 1918,
+    "p_true": 0.15236,
+    "argmax": 1911,
+    "spike": 2.88,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Treaty of Versailles": {
+    "true": 1919,
+    "p_true": 0.03938,
+    "argmax": 1918,
+    "spike": 0.66,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::League of Nations": {
+    "true": 1920,
+    "p_true": 0.05516,
+    "argmax": 1913,
+    "spike": 0.93,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Mussolini's March on Rome": {
+    "true": 1922,
+    "p_true": 0.02231,
+    "argmax": 1918,
+    "spike": 0.37,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::German hyperinflation": {
+    "true": 1923,
+    "p_true": 0.03153,
+    "argmax": 1920,
+    "spike": 0.52,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Lenin dies": {
+    "true": 1924,
+    "p_true": 0.01309,
+    "argmax": 1917,
+    "spike": 0.21,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Lindbergh's flight": {
+    "true": 1927,
+    "p_true": 0.06913,
+    "argmax": 1919,
+    "spike": 1.19,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Penicillin discovered": {
+    "true": 1928,
+    "p_true": 0.09422,
+    "argmax": 1920,
+    "spike": 1.66,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Wall Street Crash": {
+    "true": 1929,
+    "p_true": 0.11109,
+    "argmax": 1922,
+    "spike": 2.0,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Hitler made Chancellor": {
+    "true": 1933,
+    "p_true": 0.05961,
+    "argmax": 1929,
+    "spike": 1.01,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Reichstag fire": {
+    "true": 1933,
+    "p_true": 0.00392,
+    "argmax": 1929,
+    "spike": 0.06,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Spanish Civil War begins": {
+    "true": 1936,
+    "p_true": 0.06482,
+    "argmax": 1928,
+    "spike": 1.11,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Hindenburg disaster": {
+    "true": 1937,
+    "p_true": 0.01743,
+    "argmax": 1929,
+    "spike": 0.28,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Kristallnacht": {
+    "true": 1938,
+    "p_true": 0.05217,
+    "argmax": 1940,
+    "spike": 0.88,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Second World War begins": {
+    "true": 1939,
+    "p_true": 0.0134,
+    "argmax": 1931,
+    "spike": 0.22,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Fall of France": {
+    "true": 1940,
+    "p_true": 0.10097,
+    "argmax": 1948,
+    "spike": 1.8,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Pearl Harbor": {
+    "true": 1941,
+    "p_true": 0.10355,
+    "argmax": 1945,
+    "spike": 1.85,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Stalingrad surrender": {
+    "true": 1943,
+    "p_true": 0.09602,
+    "argmax": 1949,
+    "spike": 1.7,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::D-Day landings": {
+    "true": 1944,
+    "p_true": 0.0789,
+    "argmax": 1945,
+    "spike": 1.37,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Hiroshima atomic bomb": {
+    "true": 1945,
+    "p_true": 0.10046,
+    "argmax": 1952,
+    "spike": 1.79,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Second World War ends": {
+    "true": 1945,
+    "p_true": 0.16151,
+    "argmax": 1945,
+    "spike": 3.08,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::United Nations founded": {
+    "true": 1945,
+    "p_true": 0.07227,
+    "argmax": 1948,
+    "spike": 1.25,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Yalta Conference": {
+    "true": 1945,
+    "p_true": 0.06363,
+    "argmax": 1940,
+    "spike": 1.09,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Indian independence": {
+    "true": 1947,
+    "p_true": 0.01772,
+    "argmax": 1952,
+    "spike": 0.29,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::State of Israel founded": {
+    "true": 1948,
+    "p_true": 0.03942,
+    "argmax": 1940,
+    "spike": 0.66,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::NATO founded": {
+    "true": 1949,
+    "p_true": 0.03879,
+    "argmax": 1945,
+    "spike": 0.65,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::People's Republic of China": {
+    "true": 1949,
+    "p_true": 0.06075,
+    "argmax": 1941,
+    "spike": 1.03,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Korean War begins": {
+    "true": 1950,
+    "p_true": 0.01585,
+    "argmax": 1942,
+    "spike": 0.26,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Everest first climbed": {
+    "true": 1953,
+    "p_true": 0.03386,
+    "argmax": 1945,
+    "spike": 0.56,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Stalin dies": {
+    "true": 1953,
+    "p_true": 0.0233,
+    "argmax": 1945,
+    "spike": 0.38,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Brown v. Board": {
+    "true": 1954,
+    "p_true": 0.0525,
+    "argmax": 1949,
+    "spike": 0.89,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Montgomery bus boycott": {
+    "true": 1955,
+    "p_true": 0.05272,
+    "argmax": 1947,
+    "spike": 0.89,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Suez Crisis": {
+    "true": 1956,
+    "p_true": 0.0922,
+    "argmax": 1949,
+    "spike": 1.63,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Hungarian Uprising": {
+    "true": 1956,
+    "p_true": 0.06004,
+    "argmax": 1948,
+    "spike": 1.02,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Sputnik launched": {
+    "true": 1957,
+    "p_true": 0.07077,
+    "argmax": 1950,
+    "spike": 1.22,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Cuban Revolution": {
+    "true": 1959,
+    "p_true": 0.02749,
+    "argmax": 1966,
+    "spike": 0.45,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Berlin Wall built": {
+    "true": 1961,
+    "p_true": 0.04184,
+    "argmax": 1955,
+    "spike": 0.7,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Gagarin in space": {
+    "true": 1961,
+    "p_true": 0.07844,
+    "argmax": 1960,
+    "spike": 1.36,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Cuban Missile Crisis": {
+    "true": 1962,
+    "p_true": 0.10937,
+    "argmax": 1962,
+    "spike": 1.96,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::JFK assassinated": {
+    "true": 1963,
+    "p_true": 0.04405,
+    "argmax": 1955,
+    "spike": 0.74,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::MLK 'I Have a Dream'": {
+    "true": 1963,
+    "p_true": 0.04165,
+    "argmax": 1960,
+    "spike": 0.7,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Civil Rights Act": {
+    "true": 1964,
+    "p_true": 0.14073,
+    "argmax": 1957,
+    "spike": 2.62,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Six-Day War": {
+    "true": 1967,
+    "p_true": 0.0247,
+    "argmax": 1971,
+    "spike": 0.41,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::MLK assassinated": {
+    "true": 1968,
+    "p_true": 0.03935,
+    "argmax": 1965,
+    "spike": 0.66,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Prague Spring": {
+    "true": 1968,
+    "p_true": 0.04945,
+    "argmax": 1970,
+    "spike": 0.83,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Moon landing": {
+    "true": 1969,
+    "p_true": 0.03408,
+    "argmax": 1972,
+    "spike": 0.56,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Woodstock festival": {
+    "true": 1969,
+    "p_true": 0.05445,
+    "argmax": 1972,
+    "spike": 0.92,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Watergate break-in": {
+    "true": 1972,
+    "p_true": 0.06627,
+    "argmax": 1970,
+    "spike": 1.14,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::OPEC oil embargo": {
+    "true": 1973,
+    "p_true": 0.08873,
+    "argmax": 1974,
+    "spike": 1.56,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Nixon resigns": {
+    "true": 1974,
+    "p_true": 0.05689,
+    "argmax": 1972,
+    "spike": 0.97,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Fall of Saigon": {
+    "true": 1975,
+    "p_true": 0.01721,
+    "argmax": 1968,
+    "spike": 0.28,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Apple founded": {
+    "true": 1976,
+    "p_true": 0.05225,
+    "argmax": 1970,
+    "spike": 0.88,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Elvis dies": {
+    "true": 1977,
+    "p_true": 0.05743,
+    "argmax": 1980,
+    "spike": 0.97,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Iranian Revolution": {
+    "true": 1979,
+    "p_true": 0.06016,
+    "argmax": 1976,
+    "spike": 1.02,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Mount St Helens erupts": {
+    "true": 1980,
+    "p_true": 0.03838,
+    "argmax": 1972,
+    "spike": 0.64,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Falklands War": {
+    "true": 1982,
+    "p_true": 0.05057,
+    "argmax": 1975,
+    "spike": 0.85,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Chernobyl disaster": {
+    "true": 1986,
+    "p_true": 0.05924,
+    "argmax": 1980,
+    "spike": 1.01,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Challenger disaster": {
+    "true": 1986,
+    "p_true": 0.0431,
+    "argmax": 1992,
+    "spike": 0.72,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Berlin Wall falls": {
+    "true": 1989,
+    "p_true": 0.06921,
+    "argmax": 1992,
+    "spike": 1.19,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Tiananmen Square": {
+    "true": 1989,
+    "p_true": 0.05246,
+    "argmax": 1992,
+    "spike": 0.89,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Gulf War": {
+    "true": 1991,
+    "p_true": 0.06229,
+    "argmax": 1994,
+    "spike": 1.06,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Soviet Union dissolves": {
+    "true": 1991,
+    "p_true": 0.08135,
+    "argmax": 1989,
+    "spike": 1.42,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Rwandan genocide": {
+    "true": 1994,
+    "p_true": 0.05727,
+    "argmax": 1987,
+    "spike": 0.97,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Oklahoma City bombing": {
+    "true": 1995,
+    "p_true": 0.02617,
+    "argmax": 2000,
+    "spike": 0.43,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Hong Kong handover": {
+    "true": 1997,
+    "p_true": 0.07412,
+    "argmax": 2000,
+    "spike": 1.28,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Google founded": {
+    "true": 1998,
+    "p_true": 0.07625,
+    "argmax": 1993,
+    "spike": 1.32,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::September 11 attacks": {
+    "true": 2001,
+    "p_true": 0.03531,
+    "argmax": 2000,
+    "spike": 0.59,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Iraq War begins": {
+    "true": 2003,
+    "p_true": 0.00586,
+    "argmax": 1995,
+    "spike": 0.09,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Indian Ocean tsunami": {
+    "true": 2004,
+    "p_true": 0.01715,
+    "argmax": 2000,
+    "spike": 0.28,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Hurricane Katrina": {
+    "true": 2005,
+    "p_true": 0.00255,
+    "argmax": 1999,
+    "spike": 0.04,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::iPhone released": {
+    "true": 2007,
+    "p_true": 0.00536,
+    "argmax": 1999,
+    "spike": 0.09,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Lehman / financial crisis": {
+    "true": 2008,
+    "p_true": 0.01638,
+    "argmax": 2000,
+    "spike": 0.27,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Obama elected president": {
+    "true": 2008,
+    "p_true": 0.00705,
+    "argmax": 2000,
+    "spike": 0.11,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Fukushima disaster": {
+    "true": 2011,
+    "p_true": 0.0526,
+    "argmax": 2003,
+    "spike": 0.89,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::COVID-19 pandemic": {
+    "true": 2020,
+    "p_true": 0.00885,
+    "argmax": 2013,
+    "spike": 0.14,
+    "kind": "test",
+    "grp": "1970-2020"
+   }
+  }
+ },
+ "1929": {
+  "model": "uzh-echist-org/Ranke-4B-1929",
+  "events": {
+   "known::Battle of Hastings": {
+    "true": 1066,
+    "p_true": 0.97266,
+    "argmax": 1066,
+    "spike": 569.3,
+    "kind": "known"
+   },
+   "known::Magna Carta": {
+    "true": 1215,
+    "p_true": 0.93163,
+    "argmax": 1215,
+    "spike": 218.04,
+    "kind": "known"
+   },
+   "known::Fall of Constantinople": {
+    "true": 1453,
+    "p_true": 0.95194,
+    "argmax": 1453,
+    "spike": 316.89,
+    "kind": "known"
+   },
+   "known::Columbus reaches America": {
+    "true": 1492,
+    "p_true": 0.73726,
+    "argmax": 1492,
+    "spike": 44.9,
+    "kind": "known"
+   },
+   "known::Luther's 95 Theses": {
+    "true": 1517,
+    "p_true": 0.098,
+    "argmax": 1520,
+    "spike": 1.74,
+    "kind": "known"
+   },
+   "known::Spanish Armada": {
+    "true": 1588,
+    "p_true": 0.92854,
+    "argmax": 1588,
+    "spike": 207.89,
+    "kind": "known"
+   },
+   "known::Gunpowder Plot": {
+    "true": 1605,
+    "p_true": 0.645,
+    "argmax": 1605,
+    "spike": 29.07,
+    "kind": "known"
+   },
+   "known::Mayflower Pilgrims": {
+    "true": 1620,
+    "p_true": 0.99222,
+    "argmax": 1620,
+    "spike": 2041.11,
+    "kind": "known"
+   },
+   "known::Galileo's trial": {
+    "true": 1633,
+    "p_true": 0.72453,
+    "argmax": 1633,
+    "spike": 42.08,
+    "kind": "known"
+   },
+   "known::Peace of Westphalia": {
+    "true": 1648,
+    "p_true": 0.98732,
+    "argmax": 1648,
+    "spike": 1246.25,
+    "kind": "known"
+   },
+   "known::Great Fire of London": {
+    "true": 1666,
+    "p_true": 0.97919,
+    "argmax": 1666,
+    "spike": 752.99,
+    "kind": "known"
+   },
+   "known::Newton's Principia": {
+    "true": 1687,
+    "p_true": 0.55565,
+    "argmax": 1687,
+    "spike": 20.01,
+    "kind": "known"
+   },
+   "known::Glorious Revolution": {
+    "true": 1688,
+    "p_true": 0.61013,
+    "argmax": 1688,
+    "spike": 25.04,
+    "kind": "known"
+   },
+   "known::Act of Union": {
+    "true": 1707,
+    "p_true": 0.90023,
+    "argmax": 1707,
+    "spike": 144.38,
+    "kind": "known"
+   },
+   "known::Seven Years' War begins": {
+    "true": 1756,
+    "p_true": 0.79649,
+    "argmax": 1756,
+    "spike": 62.62,
+    "kind": "known"
+   },
+   "known::Boston Tea Party": {
+    "true": 1773,
+    "p_true": 0.65049,
+    "argmax": 1773,
+    "spike": 29.78,
+    "kind": "known"
+   },
+   "known::Declaration of Independence": {
+    "true": 1776,
+    "p_true": 0.96333,
+    "argmax": 1776,
+    "spike": 420.29,
+    "kind": "known"
+   },
+   "known::Storming of the Bastille": {
+    "true": 1789,
+    "p_true": 0.94254,
+    "argmax": 1789,
+    "spike": 262.44,
+    "kind": "known"
+   },
+   "known::Louis XVI executed": {
+    "true": 1793,
+    "p_true": 0.83358,
+    "argmax": 1793,
+    "spike": 80.14,
+    "kind": "known"
+   },
+   "known::Louisiana Purchase": {
+    "true": 1803,
+    "p_true": 0.87295,
+    "argmax": 1803,
+    "spike": 109.94,
+    "kind": "known"
+   },
+   "known::Battle of Trafalgar": {
+    "true": 1805,
+    "p_true": 0.72247,
+    "argmax": 1805,
+    "spike": 41.65,
+    "kind": "known"
+   },
+   "known::Battle of Waterloo": {
+    "true": 1815,
+    "p_true": 0.94808,
+    "argmax": 1815,
+    "spike": 292.16,
+    "kind": "known"
+   },
+   "known::Greek independence": {
+    "true": 1821,
+    "p_true": 0.82942,
+    "argmax": 1821,
+    "spike": 77.8,
+    "kind": "known"
+   },
+   "known::Victoria crowned": {
+    "true": 1837,
+    "p_true": 0.94206,
+    "argmax": 1837,
+    "spike": 260.14,
+    "kind": "known"
+   },
+   "known::Irish Potato Famine": {
+    "true": 1845,
+    "p_true": 0.29066,
+    "argmax": 1845,
+    "spike": 6.56,
+    "kind": "known"
+   },
+   "known::Revolutions of 1848": {
+    "true": 1848,
+    "p_true": 0.88823,
+    "argmax": 1848,
+    "spike": 127.15,
+    "kind": "known"
+   },
+   "known::California Gold Rush": {
+    "true": 1849,
+    "p_true": 0.45306,
+    "argmax": 1849,
+    "spike": 13.25,
+    "kind": "known"
+   },
+   "known::Crimean War": {
+    "true": 1854,
+    "p_true": 0.74252,
+    "argmax": 1854,
+    "spike": 46.14,
+    "kind": "known"
+   },
+   "known::Origin of Species": {
+    "true": 1859,
+    "p_true": 0.50339,
+    "argmax": 1859,
+    "spike": 16.22,
+    "kind": "known"
+   },
+   "known::US Civil War begins": {
+    "true": 1861,
+    "p_true": 0.95494,
+    "argmax": 1861,
+    "spike": 339.06,
+    "kind": "known"
+   },
+   "known::Emancipation Proclamation": {
+    "true": 1863,
+    "p_true": 0.3243,
+    "argmax": 1863,
+    "spike": 7.68,
+    "kind": "known"
+   },
+   "known::Battle of Gettysburg": {
+    "true": 1863,
+    "p_true": 0.50806,
+    "argmax": 1863,
+    "spike": 16.52,
+    "kind": "known"
+   },
+   "known::Lincoln assassinated": {
+    "true": 1865,
+    "p_true": 0.81111,
+    "argmax": 1865,
+    "spike": 68.7,
+    "kind": "known"
+   },
+   "known::Meiji Restoration": {
+    "true": 1868,
+    "p_true": 0.37924,
+    "argmax": 1868,
+    "spike": 9.77,
+    "kind": "known"
+   },
+   "known::Suez Canal opens": {
+    "true": 1869,
+    "p_true": 0.94766,
+    "argmax": 1869,
+    "spike": 289.66,
+    "kind": "known"
+   },
+   "known::Franco-Prussian War": {
+    "true": 1870,
+    "p_true": 0.94458,
+    "argmax": 1870,
+    "spike": 272.72,
+    "kind": "known"
+   },
+   "known::German Empire proclaimed": {
+    "true": 1871,
+    "p_true": 0.86168,
+    "argmax": 1871,
+    "spike": 99.68,
+    "kind": "known"
+   },
+   "known::Telephone invented": {
+    "true": 1876,
+    "p_true": 0.70753,
+    "argmax": 1876,
+    "spike": 38.71,
+    "kind": "known"
+   },
+   "known::Edison's light bulb": {
+    "true": 1879,
+    "p_true": 0.13046,
+    "argmax": 1881,
+    "spike": 2.4,
+    "kind": "known"
+   },
+   "known::Krakatoa erupts": {
+    "true": 1883,
+    "p_true": 0.66845,
+    "argmax": 1883,
+    "spike": 32.26,
+    "kind": "known"
+   },
+   "known::Berlin Conference": {
+    "true": 1884,
+    "p_true": 0.20507,
+    "argmax": 1885,
+    "spike": 4.13,
+    "kind": "known"
+   },
+   "known::Statue of Liberty": {
+    "true": 1886,
+    "p_true": 0.15292,
+    "argmax": 1885,
+    "spike": 2.89,
+    "kind": "known"
+   },
+   "known::Eiffel Tower": {
+    "true": 1889,
+    "p_true": 0.24834,
+    "argmax": 1889,
+    "spike": 5.29,
+    "kind": "known"
+   },
+   "known::First modern Olympics": {
+    "true": 1896,
+    "p_true": 0.56203,
+    "argmax": 1896,
+    "spike": 20.53,
+    "kind": "known"
+   },
+   "known::Spanish-American War": {
+    "true": 1898,
+    "p_true": 0.84003,
+    "argmax": 1898,
+    "spike": 84.02,
+    "kind": "known"
+   },
+   "known::Queen Victoria dies": {
+    "true": 1901,
+    "p_true": 0.38978,
+    "argmax": 1897,
+    "spike": 10.22,
+    "kind": "known"
+   },
+   "known::Wright brothers fly": {
+    "true": 1903,
+    "p_true": 0.05262,
+    "argmax": 1908,
+    "spike": 0.89,
+    "kind": "known"
+   },
+   "known::Russo-Japanese War ends": {
+    "true": 1905,
+    "p_true": 0.79703,
+    "argmax": 1905,
+    "spike": 62.83,
+    "kind": "known"
+   },
+   "known::San Francisco earthquake": {
+    "true": 1906,
+    "p_true": 0.8409,
+    "argmax": 1906,
+    "spike": 84.57,
+    "kind": "known"
+   },
+   "known::Titanic sinks": {
+    "true": 1912,
+    "p_true": 0.65458,
+    "argmax": 1912,
+    "spike": 30.32,
+    "kind": "known"
+   },
+   "null::*Treaty of Kesselheim": {
+    "true": 1888,
+    "p_true": 0.0806,
+    "argmax": 1884,
+    "spike": 1.4,
+    "kind": "null"
+   },
+   "null::*Treaty of Marlowe": {
+    "true": 1871,
+    "p_true": 0.06874,
+    "argmax": 1870,
+    "spike": 1.18,
+    "kind": "null"
+   },
+   "null::*Pact of Astravia": {
+    "true": 1934,
+    "p_true": 0.02326,
+    "argmax": 1926,
+    "spike": 0.38,
+    "kind": "null"
+   },
+   "null::*Concordat of Velmoria": {
+    "true": 1802,
+    "p_true": 0.1234,
+    "argmax": 1801,
+    "spike": 2.25,
+    "kind": "null"
+   },
+   "null::*Peace of Dunhollow": {
+    "true": 1749,
+    "p_true": 0.05811,
+    "argmax": 1745,
+    "spike": 0.99,
+    "kind": "null"
+   },
+   "null::*Convention of Saarbeck": {
+    "true": 1867,
+    "p_true": 0.06369,
+    "argmax": 1871,
+    "spike": 1.09,
+    "kind": "null"
+   },
+   "null::*Accord of Petranji": {
+    "true": 1955,
+    "p_true": 0.04847,
+    "argmax": 1960,
+    "spike": 0.82,
+    "kind": "null"
+   },
+   "null::*Covenant of Ellswarth": {
+    "true": 1783,
+    "p_true": 0.03055,
+    "argmax": 1776,
+    "spike": 0.5,
+    "kind": "null"
+   },
+   "null::*Treaty of Norwick Sands": {
+    "true": 1921,
+    "p_true": 0.018,
+    "argmax": 1914,
+    "spike": 0.29,
+    "kind": "null"
+   },
+   "null::*Compact of Verrindale": {
+    "true": 1906,
+    "p_true": 0.05584,
+    "argmax": 1900,
+    "spike": 0.95,
+    "kind": "null"
+   },
+   "null::*Battle of Verronne": {
+    "true": 1904,
+    "p_true": 0.03952,
+    "argmax": 1912,
+    "spike": 0.66,
+    "kind": "null"
+   },
+   "null::*Siege of Halvenport": {
+    "true": 1691,
+    "p_true": 0.03037,
+    "argmax": 1688,
+    "spike": 0.5,
+    "kind": "null"
+   },
+   "null::*Battle of Draymoor": {
+    "true": 1812,
+    "p_true": 0.04457,
+    "argmax": 1814,
+    "spike": 0.75,
+    "kind": "null"
+   },
+   "null::*War of the Corvine Succession": {
+    "true": 1739,
+    "p_true": 0.0315,
+    "argmax": 1741,
+    "spike": 0.52,
+    "kind": "null"
+   },
+   "null::*Battle of Ostreng": {
+    "true": 1866,
+    "p_true": 0.06575,
+    "argmax": 1872,
+    "spike": 1.13,
+    "kind": "null"
+   },
+   "null::*Battle of Wexbridge": {
+    "true": 1645,
+    "p_true": 0.09031,
+    "argmax": 1642,
+    "spike": 1.59,
+    "kind": "null"
+   },
+   "null::*Skirmish at Vellacourt": {
+    "true": 1897,
+    "p_true": 0.05773,
+    "argmax": 1898,
+    "spike": 0.98,
+    "kind": "null"
+   },
+   "null::*Battle of Kessendal": {
+    "true": 1943,
+    "p_true": 0.05616,
+    "argmax": 1940,
+    "spike": 0.95,
+    "kind": "null"
+   },
+   "null::*Siege of Trennor": {
+    "true": 1810,
+    "p_true": 0.04992,
+    "argmax": 1803,
+    "spike": 0.84,
+    "kind": "null"
+   },
+   "null::*Rebellion of Harmsworth": {
+    "true": 1831,
+    "p_true": 0.08228,
+    "argmax": 1837,
+    "spike": 1.43,
+    "kind": "null"
+   },
+   "null::*composer Reinhardt Voss": {
+    "true": 1898,
+    "p_true": 0.06318,
+    "argmax": 1900,
+    "spike": 1.08,
+    "kind": "null"
+   },
+   "null::*painter Ottoline Crest": {
+    "true": 1901,
+    "p_true": 0.05671,
+    "argmax": 1900,
+    "spike": 0.96,
+    "kind": "null"
+   },
+   "null::*explorer Cornelius Bathe": {
+    "true": 1909,
+    "p_true": 0.04188,
+    "argmax": 1910,
+    "spike": 0.7,
+    "kind": "null"
+   },
+   "null::*philosopher Emeric Tolliver": {
+    "true": 1858,
+    "p_true": 0.05221,
+    "argmax": 1850,
+    "spike": 0.88,
+    "kind": "null"
+   },
+   "null::*novelist Aldous Brennt": {
+    "true": 1877,
+    "p_true": 0.04278,
+    "argmax": 1880,
+    "spike": 0.72,
+    "kind": "null"
+   },
+   "null::*scientist Halvard Prentiss": {
+    "true": 1866,
+    "p_true": 0.04093,
+    "argmax": 1860,
+    "spike": 0.68,
+    "kind": "null"
+   },
+   "null::*statesman Aurelio Manx": {
+    "true": 1896,
+    "p_true": 0.04737,
+    "argmax": 1900,
+    "spike": 0.8,
+    "kind": "null"
+   },
+   "null::*general Fenwick Rade": {
+    "true": 1799,
+    "p_true": 0.1465,
+    "argmax": 1794,
+    "spike": 2.75,
+    "kind": "null"
+   },
+   "null::*poet Marisol Venn": {
+    "true": 1924,
+    "p_true": 0.05633,
+    "argmax": 1920,
+    "spike": 0.96,
+    "kind": "null"
+   },
+   "null::*inventor Ludovic Sarn": {
+    "true": 1883,
+    "p_true": 0.03491,
+    "argmax": 1888,
+    "spike": 0.58,
+    "kind": "null"
+   },
+   "null::*queen Adelheid of Velmoria": {
+    "true": 1841,
+    "p_true": 0.06248,
+    "argmax": 1840,
+    "spike": 1.07,
+    "kind": "null"
+   },
+   "null::*admiral Gaspard Remoulin": {
+    "true": 1806,
+    "p_true": 0.02328,
+    "argmax": 1798,
+    "spike": 0.38,
+    "kind": "null"
+   },
+   "null::*physician Cornelia Ashcroft": {
+    "true": 1902,
+    "p_true": 0.04595,
+    "argmax": 1900,
+    "spike": 0.77,
+    "kind": "null"
+   },
+   "null::*architect Bertrand Kessel": {
+    "true": 1889,
+    "p_true": 0.06305,
+    "argmax": 1888,
+    "spike": 1.08,
+    "kind": "null"
+   },
+   "null::*astronomer Ignatius Voll": {
+    "true": 1770,
+    "p_true": 0.15016,
+    "argmax": 1772,
+    "spike": 2.83,
+    "kind": "null"
+   },
+   "null::*chemist Odette Ferrant": {
+    "true": 1911,
+    "p_true": 0.05804,
+    "argmax": 1919,
+    "spike": 0.99,
+    "kind": "null"
+   },
+   "null::*reformer Silas Marchbank": {
+    "true": 1848,
+    "p_true": 0.06762,
+    "argmax": 1850,
+    "spike": 1.16,
+    "kind": "null"
+   },
+   "null::*banker Emilio Vantroux": {
+    "true": 1824,
+    "p_true": 0.05616,
+    "argmax": 1830,
+    "spike": 0.95,
+    "kind": "null"
+   },
+   "null::*singer Rosalind Vane": {
+    "true": 1938,
+    "p_true": 0.0256,
+    "argmax": 1945,
+    "spike": 0.42,
+    "kind": "null"
+   },
+   "null::*jurist Hartwell Crane": {
+    "true": 1793,
+    "p_true": 0.04576,
+    "argmax": 1795,
+    "spike": 0.77,
+    "kind": "null"
+   },
+   "null::*city of Halveston": {
+    "true": 1851,
+    "p_true": 0.10962,
+    "argmax": 1850,
+    "spike": 1.97,
+    "kind": "null"
+   },
+   "null::*University of Kelmswick": {
+    "true": 1846,
+    "p_true": 0.04253,
+    "argmax": 1850,
+    "spike": 0.71,
+    "kind": "null"
+   },
+   "null::*Grand Canal of Morvenia": {
+    "true": 1866,
+    "p_true": 0.04593,
+    "argmax": 1870,
+    "spike": 0.77,
+    "kind": "null"
+   },
+   "null::*Elmsworth Canal": {
+    "true": 1869,
+    "p_true": 0.06587,
+    "argmax": 1870,
+    "spike": 1.13,
+    "kind": "null"
+   },
+   "null::*Marlowe Exhibition": {
+    "true": 1893,
+    "p_true": 0.03993,
+    "argmax": 1900,
+    "spike": 0.67,
+    "kind": "null"
+   },
+   "null::*Bridge of Sarnhaven": {
+    "true": 1988,
+    "p_true": 0.05287,
+    "argmax": 1980,
+    "spike": 0.89,
+    "kind": "null"
+   },
+   "null::*Kingdom of Astravia": {
+    "true": 1830,
+    "p_true": 0.11025,
+    "argmax": 1830,
+    "spike": 1.98,
+    "kind": "null"
+   },
+   "null::*Republic of Vendarre": {
+    "true": 1919,
+    "p_true": 0.09923,
+    "argmax": 1913,
+    "spike": 1.76,
+    "kind": "null"
+   },
+   "null::*Cathedral of Saint Elowen": {
+    "true": 1723,
+    "p_true": 0.03961,
+    "argmax": 1717,
+    "spike": 0.66,
+    "kind": "null"
+   },
+   "null::*Vensattel Observatory": {
+    "true": 1897,
+    "p_true": 0.04368,
+    "argmax": 1900,
+    "spike": 0.73,
+    "kind": "null"
+   },
+   "null::*Port of Grimsvale": {
+    "true": 1878,
+    "p_true": 0.05547,
+    "argmax": 1880,
+    "spike": 0.94,
+    "kind": "null"
+   },
+   "null::*Kessler Tower": {
+    "true": 1931,
+    "p_true": 0.00333,
+    "argmax": 1924,
+    "spike": 0.05,
+    "kind": "null"
+   },
+   "null::*Draymoor Library": {
+    "true": 1855,
+    "p_true": 0.05616,
+    "argmax": 1850,
+    "spike": 0.95,
+    "kind": "null"
+   },
+   "null::*Astrov Institute": {
+    "true": 1948,
+    "p_true": 0.08319,
+    "argmax": 1940,
+    "spike": 1.45,
+    "kind": "null"
+   },
+   "null::*Harrowgate Museum": {
+    "true": 1902,
+    "p_true": 0.05001,
+    "argmax": 1900,
+    "spike": 0.84,
+    "kind": "null"
+   },
+   "null::*great fire of Pemberton": {
+    "true": 1882,
+    "p_true": 0.0532,
+    "argmax": 1876,
+    "spike": 0.9,
+    "kind": "null"
+   },
+   "null::*eruption of Mount Verrin": {
+    "true": 1799,
+    "p_true": 0.02755,
+    "argmax": 1794,
+    "spike": 0.45,
+    "kind": "null"
+   },
+   "null::*Vensattel earthquake": {
+    "true": 1913,
+    "p_true": 0.04149,
+    "argmax": 1918,
+    "spike": 0.69,
+    "kind": "null"
+   },
+   "null::*Corvine plague": {
+    "true": 1743,
+    "p_true": 0.05482,
+    "argmax": 1740,
+    "spike": 0.93,
+    "kind": "null"
+   },
+   "null::*flood of the Ellsmere Valley": {
+    "true": 1864,
+    "p_true": 0.03085,
+    "argmax": 1871,
+    "spike": 0.51,
+    "kind": "null"
+   },
+   "null::*collapse of the Grenholm mine": {
+    "true": 1907,
+    "p_true": 0.05744,
+    "argmax": 1910,
+    "spike": 0.97,
+    "kind": "null"
+   },
+   "null::*wreck of the Valorian": {
+    "true": 1893,
+    "p_true": 0.03306,
+    "argmax": 1888,
+    "spike": 0.55,
+    "kind": "null"
+   },
+   "null::*Kelby famine": {
+    "true": 1817,
+    "p_true": 0.09212,
+    "argmax": 1817,
+    "spike": 1.62,
+    "kind": "null"
+   },
+   "null::*Kessendal train disaster": {
+    "true": 1926,
+    "p_true": 0.01274,
+    "argmax": 1918,
+    "spike": 0.21,
+    "kind": "null"
+   },
+   "null::*Bellwether Expedition": {
+    "true": 1885,
+    "p_true": 0.06733,
+    "argmax": 1881,
+    "spike": 1.16,
+    "kind": "null"
+   },
+   "null::*Kessler Antarctic expedition": {
+    "true": 1951,
+    "p_true": 0.02749,
+    "argmax": 1945,
+    "spike": 0.45,
+    "kind": "null"
+   },
+   "null::*Vorne comet": {
+    "true": 1834,
+    "p_true": 0.00847,
+    "argmax": 1835,
+    "spike": 0.14,
+    "kind": "null"
+   },
+   "null::*Prentiss engine": {
+    "true": 1871,
+    "p_true": 0.08493,
+    "argmax": 1874,
+    "spike": 1.49,
+    "kind": "null"
+   },
+   "null::*Sarn telegraph": {
+    "true": 1859,
+    "p_true": 0.05921,
+    "argmax": 1851,
+    "spike": 1.01,
+    "kind": "null"
+   },
+   "null::*Verhoeven reactor incident": {
+    "true": 1972,
+    "p_true": 0.06789,
+    "argmax": 1970,
+    "spike": 1.17,
+    "kind": "null"
+   },
+   "test::First World War begins": {
+    "true": 1914,
+    "p_true": 0.98332,
+    "argmax": 1914,
+    "spike": 942.95,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Lusitania sunk": {
+    "true": 1915,
+    "p_true": 0.56308,
+    "argmax": 1915,
+    "spike": 20.62,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Battle of the Somme": {
+    "true": 1916,
+    "p_true": 0.78106,
+    "argmax": 1916,
+    "spike": 57.08,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Russian Revolution": {
+    "true": 1917,
+    "p_true": 0.93108,
+    "argmax": 1917,
+    "spike": 216.15,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Armistice ends WWI": {
+    "true": 1918,
+    "p_true": 0.68691,
+    "argmax": 1918,
+    "spike": 35.1,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Spanish flu pandemic": {
+    "true": 1918,
+    "p_true": 0.95309,
+    "argmax": 1918,
+    "spike": 325.1,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Treaty of Versailles": {
+    "true": 1919,
+    "p_true": 0.95814,
+    "argmax": 1919,
+    "spike": 366.26,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::League of Nations": {
+    "true": 1920,
+    "p_true": 0.07157,
+    "argmax": 1919,
+    "spike": 1.23,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Mussolini's March on Rome": {
+    "true": 1922,
+    "p_true": 0.10514,
+    "argmax": 1919,
+    "spike": 1.88,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::German hyperinflation": {
+    "true": 1923,
+    "p_true": 0.15169,
+    "argmax": 1923,
+    "spike": 2.86,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Lenin dies": {
+    "true": 1924,
+    "p_true": 0.0209,
+    "argmax": 1917,
+    "spike": 0.34,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Lindbergh's flight": {
+    "true": 1927,
+    "p_true": 0.00372,
+    "argmax": 1919,
+    "spike": 0.06,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Penicillin discovered": {
+    "true": 1928,
+    "p_true": 0.0916,
+    "argmax": 1920,
+    "spike": 1.61,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Wall Street Crash": {
+    "true": 1929,
+    "p_true": 0.03954,
+    "argmax": 1924,
+    "spike": 0.66,
+    "kind": "test",
+    "grp": "1914-29"
+   },
+   "test::Hitler made Chancellor": {
+    "true": 1933,
+    "p_true": 0.00603,
+    "argmax": 1925,
+    "spike": 0.1,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Reichstag fire": {
+    "true": 1933,
+    "p_true": 0.00195,
+    "argmax": 1928,
+    "spike": 0.03,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Spanish Civil War begins": {
+    "true": 1936,
+    "p_true": 0.02097,
+    "argmax": 1928,
+    "spike": 0.34,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Hindenburg disaster": {
+    "true": 1937,
+    "p_true": 0.01245,
+    "argmax": 1929,
+    "spike": 0.2,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Kristallnacht": {
+    "true": 1938,
+    "p_true": 0.0507,
+    "argmax": 1930,
+    "spike": 0.85,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Second World War begins": {
+    "true": 1939,
+    "p_true": 0.22645,
+    "argmax": 1940,
+    "spike": 4.68,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Fall of France": {
+    "true": 1940,
+    "p_true": 0.01899,
+    "argmax": 1944,
+    "spike": 0.31,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Pearl Harbor": {
+    "true": 1941,
+    "p_true": 0.12466,
+    "argmax": 1945,
+    "spike": 2.28,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Stalingrad surrender": {
+    "true": 1943,
+    "p_true": 0.05264,
+    "argmax": 1945,
+    "spike": 0.89,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::D-Day landings": {
+    "true": 1944,
+    "p_true": 0.13002,
+    "argmax": 1947,
+    "spike": 2.39,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Hiroshima atomic bomb": {
+    "true": 1945,
+    "p_true": 0.1026,
+    "argmax": 1945,
+    "spike": 1.83,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Second World War ends": {
+    "true": 1945,
+    "p_true": 0.44541,
+    "argmax": 1945,
+    "spike": 12.85,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::United Nations founded": {
+    "true": 1945,
+    "p_true": 0.26051,
+    "argmax": 1945,
+    "spike": 5.64,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Yalta Conference": {
+    "true": 1945,
+    "p_true": 0.11297,
+    "argmax": 1945,
+    "spike": 2.04,
+    "kind": "test",
+    "grp": "1930-45"
+   },
+   "test::Indian independence": {
+    "true": 1947,
+    "p_true": 0.03252,
+    "argmax": 1945,
+    "spike": 0.54,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::State of Israel founded": {
+    "true": 1948,
+    "p_true": 0.04108,
+    "argmax": 1950,
+    "spike": 0.69,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::NATO founded": {
+    "true": 1949,
+    "p_true": 0.05269,
+    "argmax": 1948,
+    "spike": 0.89,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::People's Republic of China": {
+    "true": 1949,
+    "p_true": 0.05382,
+    "argmax": 1947,
+    "spike": 0.91,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Korean War begins": {
+    "true": 1950,
+    "p_true": 0.04855,
+    "argmax": 1942,
+    "spike": 0.82,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Everest first climbed": {
+    "true": 1953,
+    "p_true": 0.02852,
+    "argmax": 1945,
+    "spike": 0.47,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Stalin dies": {
+    "true": 1953,
+    "p_true": 0.0192,
+    "argmax": 1947,
+    "spike": 0.31,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Brown v. Board": {
+    "true": 1954,
+    "p_true": 0.05409,
+    "argmax": 1946,
+    "spike": 0.92,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Montgomery bus boycott": {
+    "true": 1955,
+    "p_true": 0.03441,
+    "argmax": 1947,
+    "spike": 0.57,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Suez Crisis": {
+    "true": 1956,
+    "p_true": 0.01996,
+    "argmax": 1949,
+    "spike": 0.33,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Hungarian Uprising": {
+    "true": 1956,
+    "p_true": 0.03344,
+    "argmax": 1948,
+    "spike": 0.55,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Sputnik launched": {
+    "true": 1957,
+    "p_true": 0.04716,
+    "argmax": 1949,
+    "spike": 0.79,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Cuban Revolution": {
+    "true": 1959,
+    "p_true": 0.00448,
+    "argmax": 1960,
+    "spike": 0.07,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Berlin Wall built": {
+    "true": 1961,
+    "p_true": 0.04948,
+    "argmax": 1954,
+    "spike": 0.83,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Gagarin in space": {
+    "true": 1961,
+    "p_true": 0.13132,
+    "argmax": 1960,
+    "spike": 2.42,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Cuban Missile Crisis": {
+    "true": 1962,
+    "p_true": 0.04196,
+    "argmax": 1970,
+    "spike": 0.7,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::JFK assassinated": {
+    "true": 1963,
+    "p_true": 0.04296,
+    "argmax": 1961,
+    "spike": 0.72,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::MLK 'I Have a Dream'": {
+    "true": 1963,
+    "p_true": 0.03735,
+    "argmax": 1960,
+    "spike": 0.62,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Civil Rights Act": {
+    "true": 1964,
+    "p_true": 0.15313,
+    "argmax": 1957,
+    "spike": 2.89,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Six-Day War": {
+    "true": 1967,
+    "p_true": 0.0441,
+    "argmax": 1960,
+    "spike": 0.74,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::MLK assassinated": {
+    "true": 1968,
+    "p_true": 0.043,
+    "argmax": 1961,
+    "spike": 0.72,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Prague Spring": {
+    "true": 1968,
+    "p_true": 0.04354,
+    "argmax": 1970,
+    "spike": 0.73,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Moon landing": {
+    "true": 1969,
+    "p_true": 0.03604,
+    "argmax": 1965,
+    "spike": 0.6,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Woodstock festival": {
+    "true": 1969,
+    "p_true": 0.06787,
+    "argmax": 1965,
+    "spike": 1.17,
+    "kind": "test",
+    "grp": "1946-69"
+   },
+   "test::Watergate break-in": {
+    "true": 1972,
+    "p_true": 0.07394,
+    "argmax": 1970,
+    "spike": 1.28,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::OPEC oil embargo": {
+    "true": 1973,
+    "p_true": 0.06395,
+    "argmax": 1970,
+    "spike": 1.09,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Nixon resigns": {
+    "true": 1974,
+    "p_true": 0.05853,
+    "argmax": 1970,
+    "spike": 0.99,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Fall of Saigon": {
+    "true": 1975,
+    "p_true": 0.03246,
+    "argmax": 1970,
+    "spike": 0.54,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Apple founded": {
+    "true": 1976,
+    "p_true": 0.04764,
+    "argmax": 1970,
+    "spike": 0.8,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Elvis dies": {
+    "true": 1977,
+    "p_true": 0.05728,
+    "argmax": 1970,
+    "spike": 0.97,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Iranian Revolution": {
+    "true": 1979,
+    "p_true": 0.06295,
+    "argmax": 1971,
+    "spike": 1.07,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Mount St Helens erupts": {
+    "true": 1980,
+    "p_true": 0.10189,
+    "argmax": 1980,
+    "spike": 1.82,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Falklands War": {
+    "true": 1982,
+    "p_true": 0.04158,
+    "argmax": 1990,
+    "spike": 0.69,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Chernobyl disaster": {
+    "true": 1986,
+    "p_true": 0.05487,
+    "argmax": 1980,
+    "spike": 0.93,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Challenger disaster": {
+    "true": 1986,
+    "p_true": 0.04278,
+    "argmax": 1980,
+    "spike": 0.72,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Berlin Wall falls": {
+    "true": 1989,
+    "p_true": 0.0556,
+    "argmax": 1994,
+    "spike": 0.94,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Tiananmen Square": {
+    "true": 1989,
+    "p_true": 0.02807,
+    "argmax": 1990,
+    "spike": 0.46,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Gulf War": {
+    "true": 1991,
+    "p_true": 0.08119,
+    "argmax": 1991,
+    "spike": 1.41,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Soviet Union dissolves": {
+    "true": 1991,
+    "p_true": 0.07459,
+    "argmax": 1984,
+    "spike": 1.29,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Rwandan genocide": {
+    "true": 1994,
+    "p_true": 0.06713,
+    "argmax": 2000,
+    "spike": 1.15,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Oklahoma City bombing": {
+    "true": 1995,
+    "p_true": 0.0122,
+    "argmax": 2000,
+    "spike": 0.2,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Hong Kong handover": {
+    "true": 1997,
+    "p_true": 0.01517,
+    "argmax": 2000,
+    "spike": 0.25,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Google founded": {
+    "true": 1998,
+    "p_true": 0.09654,
+    "argmax": 1999,
+    "spike": 1.71,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::September 11 attacks": {
+    "true": 2001,
+    "p_true": 0.04344,
+    "argmax": 2000,
+    "spike": 0.73,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Iraq War begins": {
+    "true": 2003,
+    "p_true": 0.01236,
+    "argmax": 2000,
+    "spike": 0.2,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Indian Ocean tsunami": {
+    "true": 2004,
+    "p_true": 0.02677,
+    "argmax": 2000,
+    "spike": 0.44,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Hurricane Katrina": {
+    "true": 2005,
+    "p_true": 0.01067,
+    "argmax": 2000,
+    "spike": 0.17,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::iPhone released": {
+    "true": 2007,
+    "p_true": 0.01106,
+    "argmax": 2000,
+    "spike": 0.18,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Lehman / financial crisis": {
+    "true": 2008,
+    "p_true": 0.03153,
+    "argmax": 2000,
+    "spike": 0.52,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Obama elected president": {
+    "true": 2008,
+    "p_true": 0.02909,
+    "argmax": 2000,
+    "spike": 0.48,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::Fukushima disaster": {
+    "true": 2011,
+    "p_true": 0.05242,
+    "argmax": 2006,
+    "spike": 0.89,
+    "kind": "test",
+    "grp": "1970-2020"
+   },
+   "test::COVID-19 pandemic": {
+    "true": 2020,
+    "p_true": 0.03671,
+    "argmax": 2013,
+    "spike": 0.61,
+    "kind": "test",
+    "grp": "1970-2020"
+   }
+  }
+ }
+}

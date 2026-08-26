@@ -1,0 +1,8 @@
+[1913] loading uzh-echist-org/Ranke-4B-1913-1202-Instruct ...
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 6084.68it/s]
+  n_layers=36 d_model=2560
+[1913] fitting Jacobian lens on PRE-1913 period prose (16 layers) ...
+  192 pre-1913 fit prompts (Smith/Carlyle/Macaulay/Darwin/Gibbon/Bagehot)
+C:\Users\hvoth\timelock-contamination\.venv\Lib\site-packages\torch\autograd\graph.py:869: UserWarning: Attempting to run cuBLAS, but there was no current CUDA context! Attempting to set the primary context... (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\aten\src\ATen\cuda\CublasHandlePool.cpp:335.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass

@@ -1,0 +1,1443 @@
+07 34 31 
+
+HD LAW
+
+HARVARD LAW LIBRARY 
+
+3 2044 057 502 775 
+
+PERFORMANCE STANDARDS A Practical Guide to the Use of Performance Standards as a Regulatory Alternative September 1981 Project on Alternative Regulatory Approaches
+
+HARVARD LAW LIBRARY
+
+PERFORMANCE STANDARDS A Practical Guide to the Use of Performance Standards as a Regulatory Alternative 
+
+Guidebook series on \alternatin regulatory approaches/.
+
+September 1981 
+
+KF 5407 .684 
+
+1981 
+
+v. 3 TL 
+
+AMAREL WAI GRAVRAN Project on Alternative Regulatory Approaches
+
+Guidebook Series on Alternative Regulatory Approaches 
+
+This series is intended to provide a practical introduction featuring both the theoretical merits and the proven limitations to a special set of regulatory alternatives: approaches that are generally most compatible with the market forces that govern business decisions.
+
+The series includes six books: 
+
+1) Overview 2) Marketable Rights 3) Performance Standards 
+
+4) Monetary Incentives 
+
+5) Information Disclosure 
+
+6) Tiering
+
+The series was produced by the staff of the Project on Alternative Regulatory Approaches and its support contractor, SRI International of Menlo Park, California, Richard A. Ferguson, Project Manager.
+
+Project on Alternative Regulatory Approaches 
+
+Lawrence E. McCray, Director 
+
+Mitchell Foushee, Series Manager
+
+Nancy C. Joyce, Series Editor Book 3 
+
+PERFORMANCE STANDARDS A Practical Guide to the Use of Performance Standards as a Regulatory Alternative September 1981 Principal Contributors John Daly, Project Staff 
+
+Mitchell Foushee, Project Staff
+
+We would like to thank Philip Harter of Kator, Scott, & Harter, and David Hemenway of Harvard University for their help in reviewing this guidebook; Robin Herman for Legal Counsel; and 
+
+Debra McClelland for administrative support.
+
+-i- 
+
+PREFACE 
+
+This guidebook is one of a series that is intended to familiarize regulators and regulation-watchers with marketoriented approaches to reaching regulatory goals. 
+
+One of the significant (although not the best-noted) products of the recent campaigns for regulatory reform has been the growth of a sense of self-consciousness about regulatory decisionmaking.
+
+By and large, regulators now agree that their decisions can and should be a deliberate choice among competing alternatives, and should result from a systematic comparison of the relative costs and benefits among the array of choices. A more thorough analysis of such alternatives will be increasingly important during the reviews by the Office of Management and Budget of major new rules under Executive Order 12291 and in light of pending legislation advocating agency use of alternative approaches. Policymaking is becoming a conscious matter of choosing the "right" tool for the job at hand. 
+
+One class of regulatory tools that is of particular interest includes those that bring the least disruption to private decisionmaking in the regulated firms and use market forces to reduce the overall direct and indirect costs of regulation. 
+
+These market-oriented techniques "Alternative Regulatory Approaches" stand in contrast to the traditional "commandand-control" form of regulation, which involves a detailed specification of private compliance requirements and formal sanctions against those who violate them. In general, alternative regulatory approaches can have these relative advantages over command-and-control regulation: 
+
+They provide more flexibility and more incentive for regulated firms to devise least-cost ways to comply. 
+
+They impose fewer indirect costs (e.g., red tape, inspections).
+
+They are results-oriented, rather than means-oriented. 
+
+They reward private innovation.
+
+They impinge less on private choice and encourage market competition.
+
+They avoid the pitfalls of centralized, discretionary decisionmaking.
+
+-ii- 
+
+some These alternative techniques are not new inventions regulators have been using them for years. However, as a class they are not yet well understood, and they are still more often a subject of rhetorical debate than serious policy discussions. 
+
+This tendency has caused some agency skepticism about their practicality. These guidebooks attempt to show that market-compatible techniques are more than interesting ideas -- they are interesting ideas that work to solve real governmental problems. 
+
+We do not presume that market-oriented solutions will fit every regulatory problem. Only those who know particular programs in detail can determine how appropriate an alternative regulatory approach is in a specific case. Thus, these guidebooks are intended as introductions to the techniques rather than as "how-to-do-it" manuals. We have relied extensively on actual examples of past use.
+
+This guidebook on performance standards, for example, gives 18 examples of performance standard schemes that 10 Federal agencies have used or proposed. These examples are included for illustrative purposes only; no attempt has been made to evaluate the merit of each action.
+
+We hope that a realistic summary of both the merits and drawbacks of these approaches will encourage regulators to begin to count them among the alternative tools at their disposal.
+
+-iii- 
+
+SUMMARY 
+
+In contrast to design standards, performance standards set a general attainment target but leave firms free to decide how to meet the goal. There is, in most cases, a spectrum of regulatory options available to regulators, ranging from pure design standards to pure performance standards. A central idea -- and problem in the move toward the performance end of the spectrum is that of equivalency. 
+
+Advantages Performance standards leave firms free to choose or invent least-cost solutions to given regulatory objectives. They foster innovation, impede competition less, and can produce more flexible, results-oriented policy than design standards. Recent Administration actions and 
+
+Congressional proposals encourage a shift toward performance standards for these reasons. 
+
+Performance standards Where Performance Standards Are Used can be applied to the regulation of products, services, and business processes. A particularly interesting form of performance standard is "averaging" as illustrated in EPA's "bubble" policy for air pollution.
+
+Possible Drawbacks of Performance Standards -- In some cases, performance standards pose special difficulties for agencies:
+
+They may be harder to write when performance is difficult to capture in an objective measure. 
+
+They may be harder to administer, particularly with respect to ease of inspection and enforcement.
+
+They may give competitive advantages to larger or more sophisticated firms.
+
+PREFACE SUMMARY PART I CONTENTS 
+
+PERFORMANCE STANDARDS: AN INTRODUCTORY GUIDE FOR REGULATORS What Are Performance Standards? 
+
+What Are the Relative Advantages of Performance 
+
+Standards? iii 
+
+When Can Performance Standards Be Used? 
+
+What Are the Preconditions for the Use of Performance 
+
+Standards? 11 
+
+What Practical Issues Arise in Choosing Between Design and Performance Standards? How Can Agencies 
+
+Resolve Them? 13 
+
+How Does Congress View the Use of Performance 
+
+Standards? 21 
+
+What Are Some of the Legal Issues Associated with Performance Standards? 
+
+22 
+
+PART II 
+
+AGENCY EXPERIENCE WITH PERFORMANCE STANDARDS 
+
+Department of Energy
+
+Energy Efficiency Standards for Major Household Appliances 
+
+27 
+
+Department of Health and Human Services A Performance-Oriented Policy for Patient Fire 
+
+Safety 29 
+
+Performance Standards for Clinical Laboratories 
+
+31 
+
+Department of Labor Performance Approach for Cotton Dust 
+
+32 
+
+Safety Standards for Ladders, Stairways, and Walking Surfaces 
+
+34 
+
+Performance Standards for Workplace Fire Protection 
+
+35
+
+PART II 
+
+AGENCY EXPERIENCE WITH PERFORMANCE STANDARDS (cont.) Department of Transportation "Combined" Fuel Economy Standards for Two-Wheel and Four-Wheel Drive Light Trucks ..... 
+
+37 
+
+Improved Performance Standards for Vehicle Occupant Crash Protection 
+
+39 
+
+"Time Averaging" for Fuel Economy Standards 
+
+41 
+
+Department of the Treasury
+
+Performance Standards for Evidence of Tax Payments 
+
+Environmental Protection Agency EPA's Bubble Policy Gives Manufacturers Flexibility Corporate Fleet Averaging for Engine Emissions A Cost-Saving Performance Approach for Can 
+
+Manufacturers 
+
+Equal Employment Opportunity Commission Guidelines for Employee Selection Procedures Incorporate Performance Standards 
+
+43 44 
+
+47 50 52 
+
+Civil Aeronautics Board Bumping Policy Uses Performance Standards 
+
+Approach 53 
+
+Consumer Product Safety Commission Performance Standards for Toy Safety 
+
+55 
+
+Performance Standards for Child-Proof Packaging 
+
+... 57 
+
+Federal Trade Commission Performance Standards to Enhance Competition in Mobile Home Industry PART III 
+
+ANNOTATED BIBLIOGRAPHY 
+
+59 61
+
+PART I PERFORMANCE STANDARDS An Introductory Guide for Regulators
+
+This section presents questions frequently asked about performance standards. The answers reflect actual agency experiences.
+
+WHAT ARE PERFORMANCE STANDARDS? 
+
+Performance standards prescribe the results, not the means, of regulatory compliance. In the past, the use of performance standards has been contrasted with "design" standards*, under which the Government prescribes a specific technology or precise procedure for compliance. With performance-oriented standards, regulated entities are responsible for meeting some regulatory target, but they are free to choose -- or to invent the easiest or cheapest methods to comply.
+
+EXAMPLE The Consumer Product Safety Commission (CPSC) 
+
+regulates the packaging of household products, including aspirin, to ensure adequate safety protection for small children. The CPSC could have prescribed a uniform design for these packages, such as requiring all aspirin bottles to have the "push-turn-style" childproof top.
+
+Instead, the agency simply required a performance test in which children try to open the containers. A manufacturer can use any design, as long as the package passes the performance test. 
+
+A Spectrum of Choices 
+
+In practice, the distinction between peformance standards and design standards is better characterized as a continuum than a simple dichotomy. Regulatory policymaking usually involves selecting a point on a spectrum running from strict design standards to "pure" performance standards (that is, standards that give the least detail about what a firm must do to comply). *Some observers prefer the equivalent terms "prescriptive" standards or "specification" standards.
+
+The regulatory problem of protecting workers from airborne health hazards is an example. There is a spectrum of choices theoretically available in defining a standard (see Figure 1), each of which is a near or distant proxy for the ultimate objective: worker health. At one end of the spectrum is the design standard, which dictates specific means of compliance. At the other end is a relatively pure performance standard, which may or may not be a practical option, depending on the case. 
+
+Figure 1 - The Design-Performance Spectrum 
+
+"PURER" 
+
+DESIGN STANDARDS 
+
+Engineer- ing standards, achieved through design- specific mandatory controls for each source (e.g., vented sheet- metal enclosures) ----2- 
+
+Rate of emission standard, achieved through engineer- ing con- trol on each source, but without spec- ifying the technique used Standards on the maximum allowable air con- centrations; regulations do not specify a compliance technique, or do not require that all sources be controlled Standards for maximum individual exposure, as indicated by biological monitoring (e.g., blood samples) or personal dos- imeter (e.g., radiation badges); regulations leave open the choice of personal protection devices or personnel rotation in lieu of strict emission controls "PURER" 
+
+PERFORMANCE STANDARDS 
+
+Standards for medi- cal effects as achieved by medical monitoring of workers to detect the health problem itself at a correctable stage or to detect bio- logical precondi- tions of the health problem The general purpose of this guidebook is to encourage agency exploration of appropriate opportunities to move their programs toward the performance end of the spectrum.
+
+Approaches to "Equivalency"
+
+The central feature of a performance approach is the idea of equivalency. The most common way for a regulatory agency to specify equivalency is to set a specific objective performance level for a particular performance test. 
+
+EXAMPLES The National Highway Traffic Safety Admin istration's vehicle side door strength rules specify a maximum deformation of 18 inches at 7,000-pound pressure under particular test conditions. 
+
+A childproof package design is acceptable if at least 80 percent of the standardized test sample of children fail to open it. 
+
+However, two other forms of equivalency can be used that do not demand objective measurement. First, a regulation can have an "or equivalent means" provision added to a design standard. 
+
+This allows a firm to propose another means of compliance that the agency, through specialized procedures, may accept as equivalent. 
+
+This finding of equivalence may reflect an agency's (or another group's) expert subjective judgment as well as objective test measurements.
+
+EXAMPLE Department of Health and Human Services regula tions now require hospitals participating in 
+
+Medicare/Medicaid to comply with the National
+
+Fire Protection Association's design-oriented 
+
+Life Safety Code or to use equivalent measures. 
+
+The key to the success of this performance approach has been the National Bureau of Standards' development of explicit tradeoff factors based on professional judgment of fire protection engineers. Thus, while there is no objective performance measure for overall fire safety, the use of equivalency tradeoffs leads to major cost savings.
+
+Second, equivalency may be described in a list of acceptable compliance strategies from which the firm can choose. 
+
+EXAMPLE The Occupational Safety and Health Administra tion is considering replacing a design standard requiring guardrails of fixed design for worker "fall hazards" with a list of acceptable preventive measures, e.g., physical barriers, restraining belts, or warning wires.
+
+This type of performance approach is perhaps best applied to cases in which it is impossibly complex to specify objective performance measures. It calls for a separate administrative process to authorize new variant compliance techniques, which, in the extreme case, may become indistinguishable from the agency practice of assessing requests for variances from design standards.
+
+WHAT ARE THE RELATIVE ADVANTAGES OF PERFORMANCE STANDARDS? 
+
+Performance standards can be less burdensome than traditional design standards with no sacrifice of effectiveness. 
+
+In many cases, performance standards intrude less into areas of managerial discretion than design standards do; they encourage cost-effectiveness, enhance innovation, remove impediments to competition, and streamline policy. They also focus rhetorical, analytic, and research attention on the end results of regulation rather than on the less relevant question of the means employed to comply. 
+
+Cost Effectiveness
+
+With performance standards, a firm may use any legal means to meet the standard. The firm is thus freed to use the method that costs the least.
+
+EXAMPLES 
+
+In place of mandated point-by-point air pollution controls, the Environmental Protection Agency instituted a "bubble policy," which allows plant managers to control whatever emission points they care to, as long as they can show that overall pollutants generated under an imaginary plant-wide "bubble" will not increase. This "bubble" policy has resulted in dramatic cost savings for industry. 
+
+A 3M Company plant in Pennsylvania estimates a $5 million savings; Dupont expects to save more than $12 million (60 percent of capital expenditures) at a New Jersey chemical complex.
+
+The Department of Health and Human Services' new performance approach to hospital fire safety may save one-half of the costs of compliance. In one case, a Boston hospital saved over $5 million about 70 percent of previous compliance costs -to meet equivalent levels of fire safety.
+
+With design standards, there is little incentive for industry to develop a cheaper method to achieve the regulatory goal in question, because the new approach would not be consistent with the specified design. Design standards ignore the particular circumstances of individual firms or processes. At best, this is costly to the firms; at worst, it makes compliance impossible. 
+
+Design standards can constrain creativity, reduce the feasible set of solutions to a problem, and freeze technology. Performance standards remove these constraints.
+
+EXAMPLES 
+
+Instead of prescribing vehicle door and roof thicknesses and other specific structural designs, the 
+
+National Highway Traffic Safety Administration simply requires manufacturers to use a design that withstands certain static crash tests. These tests simulate impacts that vehicles would receive in various crash conditions. This performanceoriented approach allows manufacturers greater freedom in designing new vehicles.
+
+The Occupational Safety and Health Administra tion's performance standards for "fall hazards and walkways" allow employers to choose among various methods to prevent injuries from falls
+
+at work sites. This allows employers to develop effective alternative fall-prevention techniques rather than having to adhere to a specific guardrail design that may not be practical in certain work environments. Innovation 
+
+particu- A significant advantage of performance standards -larly over the long run -- is that they enhance innovation. A shift to performance standards can release the imagination of those closest to the ultimate regulatory impacts - e.g., plant engineers and put private ingenuity to work to find more costeffective solutions to public policy problems. Cost savings coming from innovations are particularly important to the economy as a whole because they can spread across firms multiplying their efficiencies -- and represent a permanent cut in regulatory costs. 
+
+Experience shows that the important innovations resulting from performance standards are less frequently discrete technological advances than they are management or process innovations. 
+
+New service firms may spring up to advise regulated firms on innovative approaches to achieving compliance. 
+
+EXAMPLE 
+
+Private safety consulting firms are beginning to offer to help hospitals save money by taking advantage of the Department of Health and Human 
+
+Services' new performance-oriented fire safety scheme.
+
+Competition 
+
+Performance standards are more compatible with competition.
+
+Design standards may inhibit competition and effectively serve as a barrier to entry into the marketplace for firms that do not possess the particular technology required by a design standard. 
+
+Performance standards avoid these anticompetitive effects. 
+
+EXAMPLES 
+
+Some local building codes ruled out plastic for residential plumbing pipes. Suppliers of new
+
+types of plastic pipe complained that such codes prevented them from competing, even though their product performed as well. 
+
+In analyzing energy efficiency rules for appliances, the Department of Energy found that there are patents on some components used in the appliances. A design standard based on such a patented component would have forced some manufacturers to negotiate with the patent-holder conceivably a competitor to get a 
+
+license to use the patent. 
+
+A performance-oriented scheme allowing vehicle manufacturers to average pollution emissions across their entire fleets should make it easier to test-market new competing products. A car maker can get a new model on the market without the initial expense of attaining fixed emissions standards, and later improve emissions control if the model succeeds in the marketplace. 
+
+Reduced Need for Agency Variances, Exemptions, and Rule Reviews
+
+Performance standards can offer advantages to agencies as well as to regulated firms. The need to amend regulations and to grant exemptions or waivers to regulations when new technologies are developed can be reduced with the use of performance standards. 
+
+With design standards, the regulating agency must make changes in regulations in order to adjust to any new technologies. 
+
+The agency must spend considerable time in granting variances or exemptions when the regulated firm suggests a different method of developing more cost-effective procedures, because the variance process can be slow and cumbersome.
+
+EXAMPLES 
+
+Before the "bubble" application was approved by the 
+
+Environmental Protection Agency, firms wanting to alter any aspect of their pollution control system were required to receive approval via waivers or variances. Often, this required a great deal of time and expense for the firm, the State, and EPA. 
+
+The Consumer Product Safety Commission's simple performance tests for toy safety can be performed
+
+cheaply by toy makers and give unambiguous results. 
+
+They involve a simple apparatus for testing toys or toy parts for dangerously sharp points and edges, and for small pieces a child could swallow or inhale. 
+
+Any design specification regarding sharp points and small parts for toys would probably give rise to countless calls for variance or case-by-case agency verification and would involve ad hoc CPSC judgments about how sharp is too sharp and whether a particular toy part is a choking risk. 
+
+More Effective Policymaking
+
+A shift to performance standards can lead to more productive policy discussions and policy analyses. The writing of design standards may be dominated by public debate over design-specific issues that are unrelated to the regulatory objective, such as whether firms can meet the design economically. To the extent that such discussions obscure the regulatory goal itself, public understanding and cooperation may be undermined. In contrast, performance standards inevitably keep public attention -- and, ideally, analysis and research focused on regulatory results and the crucial question of whether the regulation is doing what the regulators expected it to do. Data on these results can be more sensibly compared with the costs of reaching them. 
+
+WHEN CAN PERFORMANCE STANDARDS BE USED? 
+
+Performance standards can be used by agencies in a variety of regulatory settings, to meet a wide range of regulatory goals and objectives. Products, services, and specific technological or management processes all can be regulated with a performance approach. 
+
+Applications are found in regulations ranging from health and safety, to economic matters, to social services. The examples in 
+
+Part II, Agency Experience, describe the variety of regulatory situations in which agencies have applied performance standards. 
+
+Products, Services, and Processes
+
+When particular products are regulated, the performance approach sets requirements for the product's attributes rather than the materials, design, or technologies used.
+
+EXAMPLE 
+
+Under recent legislation, the Department of Energy has undertaken to boost energy efficiency for household products by means of minimum efficiencies for each product, rather than by prescribing particular components (e.g., motors, heat insulation) or designs. 
+
+When services are regulated, the performance approach emphasizes outcomes over the way a firm provides the service. 
+
+EXAMPLE The Department of Health and Human Services is considering shifting to a performance approach for regulating clinical labs. Current regulations specify employee education levels and specific internal quality control measures. 
+
+The Department is evaluating the possibility of regulating according to the proven accuracy of lab testing itself by means of known test samples.
+
+A performance approach can also be applied to ongoing production processes (e.g., pollution controls for various manufacturing processes, worker safety in manufacturing plants), and in the delivery of services (e.g., regulating for fire safety in hospitals). In such situations, the performance approach involves regulating the degree of control, not the means of control.
+
+EXAMPLE The Department of Health and Human Services and the National Bureau of Standards have created a new way to free hospitals to achieve equivalent fire safety in the least costly manner. The new approach replaces specification of particular techniques (e.g., a sprinkler system, escape systems, or fire doors of specified construction).
+
+Performance Standards Based on “Averaging'' 
+
+One type of performance standard that deserves special emphasis is averaging. Averaging can be applied across product lines, or with respect to space or time. 
+
+1) Averaging Across Product Lines 
+
+In a typical case, manufacturers that have mixed product lines that are governed by a single standard are allowed to combine the individual characteristics of their products to meet overall or "average" performance standard for the entire product line. Perhaps the most familiar example is that of corporateaveraged fuel economy standards for automobiles, administered by the Department of Transportation: 
+
+EXAMPLES The National Highway Traffic Safety Administration has established a combined fuel economy standard as an option for manufacturers of 2-wheel drive and 4-wheel drive trucks. This combined standard allows manufacturers to average the significantly different fuel economy capabilities of two classes of vehicles to achieve a given overall fleet performance level, rather than make each vehicle meet the level.
+
+The Environmental Protection Agency is consider ing averaging nitrogen oxide (NOx) emissions from certain types of vehicles. The agency may decide to allow some truck engines to exceed NOx emissions standards, as long as the overall average is not exceeded by the manufacturer's fleet. 
+
+This policy would give industry flexibility to adopt least-cost control strategies by reducing emissions most where controls are cheapest. 
+
+Product averaging gives manufacturers the flexibility to achieve the overall standard with minimum costs. Manufacturers can adjust those models that involve least cost, while either eliminating or reducing more costly adjustments to other models. 
+
+Design standards would not allow this adjustment because each unit would have to be in compliance. An indirect result of this flexibility is that it creates incentives for industry to research and develop new control procedures.
+
+2) Spatial Averaging 
+
+A second type of averaging is spatial averaging, which permits firms to make cost-minimizing tradeoffs within a particular geographical area. EPA's "bubble policy" is the classic example of spatial-averaging. 
+
+3) Time Averaging 
+
+A third version of the averaging approach is "time averaging," or allowing the firm to carry back or forward regulatory compliance credits during a particular time period. For the regulation of products, for example, this approach gives manufacturers management flexibility to phase in required changes with least disruption. 
+
+Time averaging enables manufacturers to comply with the standard by applying credits to those times in which standards are not met. 
+
+EXAMPLE The National Highway Traffic Safety Administration allows automobile manufacturers to carry back or forward, for up to 3 years, credits earned during years when their corporate average fuel economy levels are better than government standards. This system also allows manufacturers to rede em losses or penalties they incurred in those years when their technological capability or an unexpected sales mix prevented them from meeting fuel economy standards.
+
+WHAT ARE THE PRECONDITIONS FOR THE USE OF PERFORMANCE STANDARDS?! 
+
+The final choice between a design approach and a performance approach will depend on case-by-case analyses. However, we can identify two situations in which the inherent limitations of performance standards may rule them out.
+
+Diffused Responsibility 
+
+Regulation depends on the clear assignment of liability. 
+
+Shifts toward pure performance measures are limited by the fact that, at the performance end of the design-performance spectrum, extraneous factors affect performance, and violations cannot be clearly associated with the actions of a regulated party. 
+
+EXAMPLES 
+
+A "purer" performance measure for air pollution would be local air quality. However, the 
+
+Environmental Protection Agency could not regulate on this basis alone because a) it would be difficult to ascertain which of many local (or distant) polluters caused a violation and b) air quality also is affected by weather patterns.
+
+The National Highway Traffic Safety Adminis tration's objective is to reduce vehicle traffic casualties. It could not regulate manufacturers directly on the basis of casualty rates, however, because driver error and highway conditions as well as vehicle design can contribute to the problem. 
+
+Multiple Objectives
+
+Performance standards may not be appropriate when many performance variables must be considered together by the regulator. 
+
+For most regulatory purposes, regulators are concerned with only one or two key variables (e.g., air quality, energy use, fairness). 
+
+When more factors are involved, it may be less feasible to require firms to simultaneously meet many performance standards than to specify design standards that already satisfy them. 
+
+EXAMPLE 
+
+Relevant characteristics of sanitary plumbing fixtures include several structural strength requirements, thermal response, mechanical features, chemical features (including odorlessness, color stability, stain resistance),
+
+biological effects, and noise control. 
+
+Separate performance standards for each factor would make enforcement prohibitively complex and expensive.
+
+WHAT PRACTICAL ISSUES ARISE IN CHOOSING BETWEEN DESIGN AND PERFORMANCE STANDARDS? | HOW CAN AGENCIES RESOLVE THEM? 
+
+A shift to a performance approach can raise three types of issues: whether it is harder to write the performance standard, as opposed to a design standard; whether it is harder to enforce the performance standard; and whether the performance standard arouses controversy about fairness. 
+
+There are no simple generalizations in this area. There are, for example, many cases where performance standards are clearly easier to enforce than design standards. Nothing can substitute for a case-by-case review of the relative merits of design and performance standards.
+
+Complexity in Standards Development 
+
+It is sometimes argued that performance standards are inherently more difficult to write than are design standards. This is not uniformly true: For one thing, the analytic burden in a shift toward a performance approach often arises not because it is a performance standard, but simply because it is new. An existing design standard seems familiar analytic ground. Any alternative may, in this case, carry a heavy burden of persuasion to convince those comfortable with the status quo. Second, in many cases, a performance standard will prove analytically simpler than an alternative design standard.
+
+EXAMPLE 
+
+It was analytically easier for the CPSC to specify a "sharp points" lab test for toys and toy parts than it would have been to specify acceptable designs for the myriad available toy designs and materials.
+
+Some of the tasks involved in writing performance standards are complicated and may seem to present an obstacle to the standard writer. Such tasks include analyzing the standard, designing a test method, and confronting possible public controversy. 
+
+1) Uncertainty About Technology and the Reactions of the 
+
+Regulated
+
+Unlike the case for design standards, which are based on easily verifiable existing technologies, performance standards must be written to cover all potential products or technologies. 
+
+This can introduce two new types of uncertainty into the analysis, in contrast to a design specification, which can simply be a state-of-the-art summary, describing actual products and methods. 
+
+First, a performance approach may require some speculation about new technologies, their costs, and their efficacy. Second, and more important, in usual practice, is the uncertainty about how regulated firms will react to a performance standard, given its inherent flexibility. It may be easier, for example, to focus fact-finding on the prospective costs of a regulation if there is no ambiguity about how firms will choose to comply. 
+
+EXAMPLE 
+
+Under a former design approach, the Environmental 
+
+Protection Agency basically specified the technology to be used at each pollution source in a plant. It could relatively easily assess the costs of compliance to the firm and the costs of monitoring enforcement to the Government. When 
+
+EPA shifted to its "bubble" policy, it lost its ability to project these costs as reliably. 
+
+Another possible analytic difficulty is in characterizing performance objectively. The standard must select and clearly specify a workable performance measure and a test to verify compliance. A design standard may have the dubious advantage of keeping rulemaking away from a clear specification of what the design standard is meant to do, but performance standards may require breaking new analytic ground. Objective measurement is difficult to apply to some attributes, like odor. In such a case, it is easier to set a design standard known to prevent disagreeable odor than to formulate a new, objective means for defining what constitutes an unacceptable odor.
+
+2) Selecting an Appropriate Test Measure 
+
+Another analytic problem is that of specifying a workable test method for ascertaining compliance with a performance standard. The performance test must produce defensible data for formal enforcement actions against violators. Specific sources of concern about the performance test are its objectivity, cost, and whether it reflects actual conditions. 
+
+EXAMPLES The Occupational Safety and Health Administration has replaced fire safety rules that dictate the exact wall mounting height of fire extinguishers with a performance standard that specified that extinguishers must be "accessible." This provides flexibility for regulated firms, but shifts the focus to the definition of accessibility, which may be difficult for the firm to measure objectively as it contemplates alternative compliance strategies. 
+
+The National Highway Traffic Safety Administra tion is interested in shifting its car safety program further toward the performance end of the continuum by moving from static tests of an automobile component (e.g., side door intrusion tests) toward tests based on test dummies that better reflect actual passenger injury. One impediment to this shift may be high costs of dummies and related test equipment. Dummy tests also show more variability than static tests, which could lead to the need for larger numbers of crash tests on each vehicle.
+
+The Consumer Product Safety Commission's child proofing standard for household products is based on the ability of 4-year-olds to open products after a silent, visual demonstration by an adult. 
+
+In designing this test, CPSC had to assess whether, in actual conditions, children are likely to get visual or verbal clues from adults or siblings about how to open childproof packages.
+
+The choice of a test method may also present difficult tradeoffs between efficacy and reasonableness to regulated firms.
+
+EXAMPLE 
+
+For an averaged emission standard for automobiles, the Environmental Protection Agency would have to decide whether to sales-weight the emissions. If it did not weigh by sales, its ultimate goal of controlling aggregate emissions would be lost if more of the heavier-polluting cars are sold. If it uses sales-weighted averages, a firm would not know for sure if it had met the overall average by the end of the sales year. The only preventive measure it could take would be the severe remedy of holding some cars off the market. 
+
+3) Anticipating Public Controversy 
+
+Writing performance standards can also entail more (or different types of) public controversy. 
+
+First, per Two sources of controversy have been observed. formance standards must clearly specify the acceptable level of failure, and this "negative" approach invites debate from interested parties.
+
+EXAMPLES 
+
+In its performance test for childproof packages, the Consumer Product Safety Commission permits a failure rate of 20 percent after a visual demonstration. This rate may seem too high or too low to interested parties.
+
+Similarly, the performance-based regulatory scheme for clinical labs that the Department of Health and Human Services has considered would have to set a minimum failure rate for medical lab tests. The current scheme, based on personnel qualifications and other "process" factors, avoids this issue.
+
+Because a performance approach defines only the required effects of a regulation, rather than the specific means of creating those effects, public debate over performance standards is likely to focus on the overall mission of a regulatory program. 
+
+With design standards, on the other hand, debate would have to focus on detailed and closely-defined design requirements. The latter kind of public review would leave less room for major policy shifts by either side.
+
+There also may be vocal concern from interested groups based on a misperception that a shift to a performance-oriented approach inherently weakens regulation. There is, of course, a clear logical distinction between the performance concept and the relative stringency of a regulation -- and in most cases agencies can shift to a performance approach that embodies exactly the same level of stringency as the design approach alternative. However, perhaps because a performance approach gives some discretion to regulated firms, groups that have come to distrust the firms' good faith may fear that some discretion will be misused, even if the performance goal remains unchanged. For example, early versions of 
+
+EPA's "bubble" proposal were regarded suspiciously by environmental groups.
+
+Similarly, there may be public concern that for preventive regulation, a shift to a performance standard automatically reduces the safety margin. For example, protecting workers through monitoring worker health instead of through required engineering controls on hazardous substances may seem, despite any objective analysis showing equivalency of risk, to indicate a lack of interest in the prevention of ill effects. 
+
+Implications for Enforcement
+
+The feasibility of performance standards frequently turns on the question of enforceability. Sometimes, particularly when a physical object is the item of concern to a regulator, it may well be easier to verify compliance with a design requirement (e.g., a particular "sneeze-guard" for a fast-food salad bar) than a performance standard (e.g., a rule requiring salad bars must be protected from contamination by customers). 
+
+However, in many other cases, enforceability is enhanced or unaffected by a shift to a performance standard. 
+
+EXAMPLES 
+
+A performance standard setting maximum noise levels in a workshop would be easier to monitor than design specifications that require that particular noise control technologies be used continuously at every noise source within the shop. 
+
+Ascertaining compliance with the National 
+
+Highway Traffic Safety Administration auto safety standards from use of wired dummies in
+
+whole cars is probably no more or less ambiguous than from strength tests for individual vehicle components.
+
+When enforceability is an issue, the concern is usually either about detection of violations or confirming equivalency. 1) Detection It must be possible to detect noncompliance with a performance standard, as it must be for all standards, and to obtain defensible evidence that will stand up in a formal enforcement proceeding. 
+
+In some situations, this becomes more difficult with a performance approach.
+
+EXAMPLES 
+
+In its regulation of air pollution from can manufacturing, the Environmental Protection Agency has recommended that firms be allowed to average emissions over any 24-hour period and across their production lines. A finding of noncompliance now depends on getting verifiable data for all lines continuously, which is more complex than ascertaining a violation on one line at one time. 
+
+The Department of Health and Human Services requires hospitals to conform to the Life Safety
+
+Code. However, the HHS rules now allow hospitals to design certain options to better fit individual circumstances and capabilities. This flexibility makes government compliance inspections more difficult, since there are any number of ways a hospital can implement the code and still meet its legal requirements.
+
+In some cases, agencies have dealt with this complication directly by requiring that a firm that wants to use an alternative compliance strategy assume the burden of showing that it will be equivalent to a design approach not only in its performance, but also in de tectability. Firms proposing to use the Environmental 
+
+Protection Agency's "bubble" policy on air pollution, for example, must draw up an acceptable plan showing how EPA can monitor compliance.
+
+2) Equivalency
+
+A second aspect of enforceability that may present problems is the verification of equivalency. Here the difficulty is not in ascertaining that the firm has responded to the rule, but that the response is adequate. Particularly if the shift from design to performance standards involves a move away from a rule that can be monitored by simple visual inspection of physical facilities or devices, the result may be a more time-consuming technically sophisticated, and generally inconvenient inspection. 
+
+EXAMPLES 
+
+Former Occupational Safety and Health Administra tion workplace fire protection rules called for placement of all fire extinguishers within 66 inches of the floor, which was easy to verify. 
+
+Its performance-oriented replacement simply called for extinguishers to be "accessible," defined in one case as being available to the employee within one minute this gives firms flexibility but gives inspectors a harder job and may involve them in more discretionary judgments. 
+
+The Environmental Protection Agency has recommended a shift to allow space and time averaging for air pollution from solvents used in container manufacturing. This requires additional training for EPA inspectors over the case of more design-oriented emission limits. They must become familiar with production processes to recognize when low- and high-solvent coatings are being used, and they must rely more heavily on plant records to determine average emissions.
+
+Concern about verifying equivalency is not limited to agency personnel. The regulated firm, too, needs assurance that it will not be subjected to disruptions or other heavy sanctions for noncompliance after is has made performance-oriented decisions about how to comply. Uncertainty about equivalency may lead firms to distrust performance standards if the standards are applied after the firm has made its design decisions when correcting the failure can be much more difficult. 
+
+---
+
+EXAMPLE The Center for Disease Control currently certifies clinical laboratories based on such "impact" measures as employee education and experience. 
+
+Laboratories have little difficulty ensuring that they are in compliance. A shift to a performance approach based on the accuracy of tests or known "dummy" samples would mean that labs could not know if they have a regulatory compliance problem until after the violation is found. Auto manufacturers may prefer design-oriented standards for crash protection of individual components (e.g., side door). If the Department of Transportation were to shift to a purer performance standard based on instrumented dummies in whole-car crash tests, they might have to redesign the entire car if an initial vehicle design failed the test. 
+
+Agencies have had some success in mitigating concern over verifying equivalency, within agencies and regulated firms alike, by maintaining an official list of approved designs that give assurance of compliance.
+
+EXAMPLE The Occupational Safety and Health Administra tion has replaced design standards for workplace fire protection with performance standards.
+
+These standards are supplemented by nonmandatory appendices that provide useful explanatory material that help firms ascertain that their regulatory response is in full compliance. For
+
+Such guidance documents have some administrative costs. example, they must be relatively easily and frequently updated to include new designs that are deemed to meet the performance test. 
+
+However, they may be a practical necessity to provide the minimum level of certainty needed by both the regulator and the regulated. 
+
+3) Fairness
+
+Smaller or less sophisticated firms may feel that performance standards put them at a relative competitive disadvantage. This is because only larger or more sophisticated firms have the knowhow to take practical advantage of the flexibility offered under
+
+a performance concept. A small firm may lack the intramural engineering capability to redesign a product or process and know it is acceptable to the regulator. 
+
+There are two ways to mitigate this concern. First, an "approved designs list," as mentioned above, can remove the cost and uncertainty of translating abstract performance requirements into an acceptable design. Second, an agency can take steps to encourage the growth of specialized consulting firms that can advise clients -- small and large on successful ways to exploit the freedom provided by a performance approach. Such consulting services should be much cheaper than the costs of hiring appropriate expertise into the small regulated firm. 
+
+HOW DOES CONGRESS VIEW THE USE OF PERFORMANCE STANDARDS? 
+
+Because they offer a way of reducing government expenditures and regulatory involvement in the marketplace, performance standards have drawn the attention of legislators. 
+
+General Legislation 
+
+Recent Congressional interest was reflected in Senator
+
+Paul Laxalt's (R-NV) proposed Regulatory Reform Act of 1981 
+
+(S. 1080, 96th Congr., 2d Sess. §3 (1981)). The proposed Act includes a directive to agencies to use performance rather than design standards in their regulatory programs whenever possible. 
+
+Another bill (H.R. 746, 96th Cong., 2d Sess., 1981) also addresses the issue of performance standards. It would require agencies to publicly explain, where applicable, the relative advantages and disadvantages of performance rather than design standards for all major rules. 
+
+Congress advocated the use of performance standards in the 
+
+Regulatory Flexibility Act of 1980 (5 U.S.C. §§601-612). The 
+
+Act was approved by Congress with strong bipartisan support. The 
+
+Act specifically directs agencies to consider the use of performance standards rather than design standards as an alternative way of accomplishing the stated objectives of applicable statutes and of minimizing any significant economic impact on small entities ($603 (c)).
+
+Specific Regulatory Statutes 
+
+Unless a statute specifically requires the use of design standards or prohibits the use of performance-oriented approaches, an agency is free to adopt performance standards. In a variety of recent legislation, aimed at specific regulatory issues, Congress has designated performance standards as the preferred regulatory approach.
+
+For example, the Consumer Product Safety Act directs the 
+
+Consumer Product Safety Commission to use performance standards instead of design standards whenever possible to set safety requirements for consumer products (15 U.S.C. $2056(a)). The 
+
+Energy Conservation Standards for New Buildings Act required the 
+
+Department of Energy to promulgate performance standards, defined as "energy consumption...goals to be met without specification of the methods, materials, and process to be employed..." (42 U.S.C. $6822(a)). A judicial
+
+A judicial interpretation of a Senate Committee report on motor vehicle safety concludes that "Congress had two purposes encouraging competition and avoiding tedious uniformity of design standards in directing the National Highway Traffic Safety
+
+Administration to establish performance standards rather than design standards" (Chrysler Corp. v. Department of Transportation, 515 F. 2d 1053,1058 (6th Cir. 1975)).
+
+WHAT ARE SOME OF THE LEGAL ISSUES ASSOCIATED WITH PERFORMANCE STANDARDS? 
+
+Agency use of performance standards may touch on legal questions, including whether the standard is specific enough to be enforceable and whether use of performance instead of design standards increases the likelihood of successful court suits for negligent inspection.
+
+Void for Vagueness 
+
+Courts have held that statutes that prescribe penalties, whether civil or criminal, must be drafted without ambiguity to be valid. Similarly, regulations must be defined so as not to violate principles of fundamental fairness. This may create a
+
+problem if regulated firms see a performance standard as an abstract goal that leaves them without proper guidance about how they can assure themselves and the agency that they are in compliance. If a court finds that a standard lacks sufficient specificity, it may hold it "void for vagueness" and invalidate the regulation.
+
+EXAMPLE The National Highway Traffic Safety Administra tion offered "suggestions" on how a manufacturer can comply with a standard for careful testing.
+
+The Court invalidated the regulation because, among other reasons, the lack of formal agency procedures subjects manufacturers to a risk that subsequent NHTSA officials will take a different view of compliance. The risk that constant behavior may later constitute noncompliance is inherently inconsistent with due process requirements (Paccar, Inc. v. NHTSA, 573 F.2d 632 (9th 
+
+Cir., 1978)).
+
+Liability for Inspector Negligence 
+
+Agencies may fear that performance standards increase the difficulty of an inspector's determination of compliance, increase the opportunity for an erroneous or questionable interpretive decision, and therefore open the door to increased liability from civil tort suits for negligence. For example, at the State and local level, several court decisions have assessed damages in situtations where inspectors have used their own judgment in interpreting a rule, and injury subsequently occurred. However, at the 
+
+Federal level, the reverse may be true, and an exercise of "judgment" may actually protect the inspector from liability. 
+
+Historically, the concept of "sovereign immunity" prohibited citizens from suing the Government. Many statutory and judicial bars to negligence suits still exist, despite the Federal Tort Claims Act (28 U.S.C. SS 1346 and 2671-2680), which grants citizens the right to sue the Federal Government in certain cases for the negligent or wrongful acts of Federal employees who act within the scope of their employment.
+
+The mere fact that inspectors are engaged in regulatory activity does not protect them or their agencies from suit (Blessing v. U.S., 447 F. Supp. 1160 (1978)). Courts have dismissed
+
+negligence suits against regulatory employees in some cases but have allowed suits in others. 
+
+EXAMPLES 
+
+The court allowed a suit for negligence when an affirmative act of a mine safety inspector perpetuated obviously hazardous conditions (Rayoner v. 
+
+U.S., 482 F. Supp. 432, (1979)).
+
+The court did not allow a suit for alleged negli gence against Federal Aviation Administration personnel because the investigation and enforcement of regulations was considered discretionary (In re 
+
+Crash Disaster near Silver Plume, Colorado on 
+
+October 2, 1970, 445 F. Supp. 34 (1977)).
+
+According to case law, the relevant factor in determining whether an injured party can bring suit is the type of function an employee engages in. Acts that are "discretionary" or "quasijudicial" (i.e., those that require personal deliberation, decision, and judgment on the part of the government employee) are protected from liability; that is, court suits are not allowed. 
+
+Acts that are merely "ministerial" (requiring only obeying orders or performing a duty for which the employee is left no choice of his/her own) may be subject to suits for negligent action. If the courts continue to make this discretionary/ministerial distinction, inspectors may actually be better protected when they are enforcing performance standards than when they are dealing with design standards. Determining whether a standard meets a performance test takes a greater act of discretion and judgment; and acts of discretion by Federal employees are exempt from suits for negligence.
+
+PART II AGENCY EXPERIENCE 
+
+This section gives detailed descriptions of 18 examples of performance standards currently in place or under active consideration by agencies. The examples show the rich variations in the way that agencies use performance standards. 
+
+These examples are included for illustrative purposes only; no attempt has been made to evaluate the merit of each action.
+
+DEPARTMENT OF ENERGY ENERGY EFFICIENCY STANDARDS FOR MAJOR HOUSEHOLD APPLIANCES 
+
+The Department of Energy (DOE) proposed performance-oriented minimum energy efficiency standards for nine major energy consuming household products in accordance with the Energy Policy and Conservation Act (EPCA), as amended by the National Energy 
+
+Conservation Policy Act of 1978 (NECPA). The Act directs DOE 
+
+to develop energy efficiency standards for 13 types of consumer products.
+
+NECPA amendments to EPCA were implemented because it was determined that major consumer products now being manufactured are less energy efficient than they could be. DOE has proposed minimum energy efficiency levels for each product class but does not prescribe methods manufacturers must use to achieve the particular efficiency level. However, the analysis accompanying the proposal demonstrates the technical feasbility of methods that manufacturers could use to achieve the particular efficiency level. Manufacturers must certify that their products are in conformance with the standards by testing them in accordance with DOE test procedures before they can place such products on the market. These standards were to become effective in two stages, one efficiency level to go into effect in 1981 and a second, more stringent level in 1986. Because of recent controversy over the expected costs resulting from the issuance of the standards, DOE has postponed issuing a final rule pending a comprehensive review of the program. 
+
+Design Standards as An Alternative 
+
+Design standards specifying the design, materials, and/or manufacturing methods are an alternative to these performance standards. 
+
+For example, one requirement could be to use insulation with a specific resistance value on specific parts of the product. This one insulation requirement might have certain advantages (e.g., it would make DOE certification and enforcement easier), but a design standard approach would require a complex combination of several individual standards (e.g., heat loss, motor efficiency) for each product. This would make certification of compliance difficult because the manufacturer would have to certify each component of a consumer product. Furthermore, certification may have proved ineffective, because the efficiency of most consumer products depends on how the components that make up the product are integrated into the product. As a result, individual components might meet design standards, while the overall product performance is than could be achieved by a single energy performance standard.
+
+High Start-Up Costs, Less Competition 
+
+Design standards would also result in high start-up costs because manufacturers would have to completely redesign certain specific components rather than choosing the most economical and efficient design changes that would allow compliance with a performance standard. In addition, design standards would not provide manufacturers with as much incentive or flexibility to increase overall product energy efficiency or to reduce costs through innovative designs and use of new technologies. It is also possible that competition in the consumer product industry might be hampered by design standards, because strict design parameters would discourage technological innovation that could lead to reduced consumer prices. In addition, if a small manufacturer does not have the technological capability to redesign a particular appliance in accordance with a design standard, the line might be dropped and the competition narrowed, with larger manufacturers capturing more of the market. This decrease in competition could lead to higher product prices. 
+
+Patent Infringement
+
+Another serious drawback to design prescriptive standards involves potential patent infringement. Many manufacturers hold patents on component parts for each consumer product. If DOE prescribed the most efficient or economical combination of components for a particular appliance, one or a number of components may already be patented. Since it would be illegal for one manufacturer to use another manufacturer's patented process or design without a license, this problem would have to be resolved before design standards would work.
+
+Although the performance standards that were developed by DOE were criticized by the Council on Wage and Price Stability (COWPS) for being too costly, the costs of prescriptive standards were estimated to be equal to or greater than the performance approach. Cite:
+
+Contact: 
+
+10 CFR Part 430; 44 FR 49, January 2, 1979; 44 FR 
+
+72276, December 13, 1980; 45 FR 439776, June 30, 1980. 
+
+James A. Smith (202) 252-9127.
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES A PERFORMANCE-ORIENTED POLICY FOR PATIENT FIRE SAFETY The Health Care Financing Administration of the Department of 
+
+Health and Human Services (HHS) has introduced a cost-effective and flexible method of achieving fire safety in health care facilities. 
+
+In order to participate in the Medicare and Medicaid programs, hospitals, nursing homes, and intermediate care facilities are required to comply with the Life Safety Code (LSC) of the National Fire Protection Association. This code contains a detailed set of design standards related to safety aspects of the physical plant, such as types of construction, fire prevention systems, hazard alarms, etc.
+
+The Problem of Equivalency 
+
+What prevented prior use of performance standards was lack of knowledge about the relative contributions of alternate design requirements to overall safety performance. Although health care facilities may have occasionally used an equivalent alternative fire safety proposal, such alternatives have not been common because there was no methodology for demonstrating equivalency of various standards. Since older facilities often incurred considerable costs in attempting to meet LSC standards, HHS initiated an overall rating system to evaluate equivalent safety without requiring strict adherence to each detailed standard. 
+
+The Fire Safety Evaluation System HHS adopted the new Fire Safety Evaluation System (FSES), which was developed by the Center for Fire Research at the National Bureau of Standards (NBS). The alternative proposals have covered all aspects of building safety. For example, if the LSC requires a door to be 1-3/4 inches thick, the new FSES might allow the facility to make the door one inch thick and add a combination of devices such as smoke detectors and sprinklers to make up the deficiency. This combination of factors would be assessed by the regional director of the HHS Office of Health Standards and Quality to determine the safety equivalency. Similarly, a hospital with excessive lengths of dead-end corridors -- a characteristic that would normally mean the building was not in compliance with the LSC Code might be able to offset this negative factor by adding one or more features not required under the code but less costly than extensive structural rebuilding. 
+
+---
+
+The application of the FSES to hospitals and nursing homes will reduce the national cost of health care by allowing a facility to develop the most cost-effective plan of correction while maintaining fire safety levels that would be provided by literal conformance to the the Life Safety Code. This system applies to institutional buildings used for health care purposes in which sleeping facilities are provided, and is based on a 5-year study by HHS and Nbs. The data and methodology were subjected to a professional judgment review by fire protection engineers and staff from the Center for 
+
+Fire Research. Available engineering information was systematized and frequently tested in laboratories if there was disagreement about performance levels or compatibilities of various systems. 
+
+Determining Equivalency
+
+The FSES considers three factors in determining equivalency under the Life Safety Code: occupancy risk, building safety features, and safety redundancy. Occupancy risk is the number of people affected by a given potential fire, the level of fire they are likely to encounter, and their ability to protect themselves. Building safety features refer to the ability of the building and its fire protection system to provide measures of safety commensurate with the occupancy risk. Safety redundancy means that the design of the complete fire safety system is intended to ensure that the failure of a single protection device or method will not result in a major failure of the entire system. The FSES focuses on containment, extinguishment, and evacuation of people. Equivalency exists when the total impact of the occupancy risk factors and the compensating building safety features produce a level of safety equal to or greater than that achieved by rigid conformance to the Life Safety Code. 
+
+Savings in the Millions
+
+HHS believes that this system can help health care facilities save about one-half the amount they would otherwise have to spend to make buildings comply with the LSC. The Veterans Administration alone estimates that its own hospitals can save several hundred million dollars over the next 5 years. This savings would reduce the agency's expected building modification costs by nearly 50 percent. At Massachusetts General Hospital in Boston, where compliance with the LSC was expected to cost a total of $8.5 million, the FSES reduced compliance costs to between $2.5 and $3.0 million. 
+
+As institutions turn toward the FSES and its cost-saving potential, they may turn to private safety consulting firms for help in finding new ways to save money through the FSES. The shift to a performance standard thus provides a market incentive for development of more innovative and economical compliance techniques by hospital administrators and architects as well as by fire safety consulting firms.
+
+Cite:
+
+42 CFR Parts 405 and 431; 44 FR 37818, June 25, 1979; 
+
+45 FR 50264, July 28, 1980; 45 FR 41794. 
+
+Frederic B. Clarke, (301) 921-3143.
+
+PERFORMANCE STANDARDS FOR CLINICAL LABORATORIES 
+
+The Center for Disease Control (CDC), which develops standards for clinical laboratories, is considering a new performance-oriented laboratory evaluation and improvement program. This program would replace the existing specification-oriented regulations for personnel qualifications and quality control currently in place for clinical laboratories that participate in the Medicare program. 
+
+These laboratories, which may be independent operations or part of a private or public hospital, are responsible for testing human specimens in treating or diagnosing diseases. 
+
+Experimenting with "Dummy" Tests 
+
+With the development and implementation of an effective and practical performance evaluation for laboratory work, there would be no need for regulations specifying education levels and professional experience for laboratory employees or regulations requiring specific methods for internal quality control. If a laboratory's work, or "output," in a particular area is not clinically acceptable, then that fact becomes the only needed justification for revocation or limitation of its laboratory license and its Medicare certification. The performance test, or means for maintaining quality control, would be the results of "dummy" or "blind" test samples of known materials. The laboratory director or another 
+
+State or Federal entity would periodically submit these samples and check the test results to assure that the output of the laboratory and of each technologist maintains the same quality as did the former, specification-oriented test procedures. The CDC staff is currently experimenting with dummy sample testing in selected laboratories and will assess the results for future application. 
+
+The existing standards for personnel qualifications and for internal quality control would be guidelines for the laboratory director, but would not be mandatory. Each laboratory director would be responsible for internal quality control and would have the discretion to rely on a technologist's ability and performance rather than mandatory educational levels. In addition, many detailed recordkeeping and test procedures would be relaxed or replaced with performance evaluations by the laboratory director.
+
+The benefits of the proposed program include more freedom for clinical laboratories to devise alternative and more efficient processes that will satisfy the level of sensitivity and reliability needed by the clinician or physician in the management of patients. The accuracy or quality of test results will not decline but the rigidity of some step-by-step procedures and reporting requirements will be loosened, with an emphasis shifting to the quality of the final test results. At present, the complexity and rigidity of many test procedures actually impede the efficiency and productivity of these laboratories. CDC believes that with a performance-oriented system, regulatory efforts could be redirected toward more productive performance evaluation and consultation with laboratory employees on an individual basis.
+
+Contact: Dr. Louis C. LaMotte, Jr., (404) 329-3824. 
+
+DEPARTMENT OF LABOR PERFORMANCE APPROACH FOR COTTON DUST The Occupational Safety and Health Administration's (OSHA) regu lation limiting workplace exposure to cotton dust is a dramatic example of a recent conflict between an engineering control specification and performance-oriented standards. 
+
+There is strong evidence that extended employee exposure to industrial cotton dust causes a severe respiratory disease known as byssinosis (brown lung disease). The controversial rule was issued in 1976 after an economic impact statement estimated that the total industry-wide capital costs for compliance would exceed $656.5 million. The rule was upheld by the United States Supreme 
+
+Court in June 1981, after a challenge by textile manufacturers that the standard was not based on a cost-benefit analysis. 
+
+Design Requirements 
+
+The rule's standard uses mandatory design specifications to provide minimum concentration limits of 200 micrograms per cubic meter of air, over an 8-hour period, for airborne cotton dust in the yarn manufacturing stage. Different exposure levels are provided for other manufacturing stages. These ambient exposure levels must be met through engineering and work practice controls. 
+
+If the permissible exposure limits have not been attained after the required engineering (e.g., vents, exhaust fans, and ducts) and work practice (e.g., floor-sweeping procedures, medical
+
+surveillance, and/or employee education and training programs) controls have been instituted, a manufacturer must meet the standard by supplementing these controls with personal respirators (i.e., dust masks).
+
+The Controversy 
+
+The advantages of this design-oriented approach include the relative certainty of attaining required ambient air quality standards and ease of enforcement. OSHA can easily verify the construction and installation of the necessary ductwork and ventilation equipment. 
+
+This reliance on engineering controls was criticized by the Council on Wage and Price Stability (COWPS) and textile manufacturers for being too rigid and costly. COWPS recommended that OSHA utilize a performance-oriented standard based on reduced new cases of byssinosis. This type of standard would focus on detectable health effects, not on the amount or type of dust one breathes nor on the ambient dust levels in processing plants. This disease reduction approach could utilize an OSHA-sanctioned medical surveillance program to enforce a rule that would prohibit employers from allowing employees to progress to irreversible or advanced stages of byssinosis. Employers might also be fined for each new case of byssinosis discovered.
+
+Employers could comply with the regulation by using any cost-effective mixture of engineering controls, rotating work assignments, respirator programs, medical transfer programs, safer grades of cotton, and more synthetic blending. COWPS estimated that this approach would reduce annual compliance costs to industry by $125 million. 
+
+Drawbacks of A Performance Approach 
+
+The primary disadvantage of the performance approach is that employers would most likely achieve compliance through the use of personal respirators. Although various combinations of the alternative approaches would be utilized, manufacturers generally consider respirators to be more cost-effective and less disruptive to the work environment. However, some workers have had to be transferred to other areas in a mill because they were simply unable to wear a respirator and work effectively. Respirators have been criticized by unions and employees because of the discomfort and inconvenience to those who would have to wear them during 8-hour shifts. 
+
+In addition, the concept of instituting byssinosis fines or allowing workers to contract byssinos is so long as they do not reach the irreversible stage has been criticized for attempting to place a dollar value on human lives.
+
+Cite: 
+
+29 CFR Part 1910.1043; 46 FR 19501, Tuesday, March 31, 1981; 45 FR 85736, December 30, 1981. 
+
+Contact: Mary Ellen Weber or Larry Braslow, (202) 523-7048.
+
+SAFETY STANDARDS FOR LADDERS, STAIRWAYS, AND WALKING SURFACES The Occupational Safety and Health Administration (OSHA) is considering performance standards for ladders, scaffolding, floors, wall openings, stairways, and walking surfaces. The existing safety standards are targeted for review because the number of occupational injuries resulting from fall accidents associated with these structures ranges from 20 to 25 percent of all occupational injuries in general industry and construction. 
+
+OSHA is considering replacing the existing specification-oriented standards with performance-oriented standards for several reasons. 
+
+Many of the present standards are overly detailed and complex. 
+
+This may cause misunderstanding about compliance and economic hardship in constructing elaborate protective devices. 
+
+Flexibility and Cost Savings
+
+OSHA believes that performance-oriented standards would permit and encourage more flexibility in controlling hazards and would reduce costs. For example, there are existing design specifications for the composition, size, and construction of wooden ladders. The regulations provide specific dimensions for the size of horizontal and vertical components and require the wood to be of a certain quality. The new performance standards could require that ladders only be able to support certain weights, with the type of design and construction left up to the employer. 
+
+Another example would allow alternative fall protection systems for the existing guardrail requirements. The present standard provides for the specific length, width, height, and thickness of a guardrail structure that must be erected at all places where the hazard of falling exists. The new performance standards could require alternative preventive measures to be taken by employers to prevent falls in these areas. The type of barrier, guardrail, or other restraining system could be chosen by the employer from an OSHA. "appendix," or list of acceptable compliance alternatives. For example, the employer could choose a belt with a restraining lanyard or tether device, or install a wire or rope barricade that would "warn" an employee who approached a hazardous area. In other
+
+words, OSHA would permit the employer to choose an alternative method from the list or to independently devise a method to accomplish the same objective. The employer would be considered in compliance if he instituted one of the alternatives from the list. 
+
+The objective is to prevent falls -- by either an adequate warning system or restraining device. Both the ladder and the fall hazard examples would allow employers to use cost-effective and innovative compliance techniques to achieve adequate safety levels. 
+
+Defining "Acceptable" Options
+
+One drawback of the fall hazard example would be confusion over what is an "acceptable" alternative safety standard. Since OSHA is allowing the employer to independently devise his own method, the possibility exists that an adequate safety level will not be reached. OSHA is relying on the list of alternatives and the employer's good faith to arrive at an acceptable safety standard. Cite: 
+
+40 FR 17160, April 23, 1976; 29 CFR 1910, Subpart D. 
+
+Contact: Thomas H. Seymour, (202) 523-7216.
+
+PERFORMANCE STANDARDS FOR WORKPLACE FIRE PROTECTION The Occupational Safety and Health Administration (OSHA) revised its regulations on workplace fire protection to institute performance-oriented standards in place of detailed design specifications. 
+
+OSHA's initial standards were more detailed and specific and oriented in many instances towards property protection and public safety instead of employee safety. The new standards allow employers to choose a variety of alternative methods for achieving employee protection in the workplace.
+
+For example, the revised standards require fire extinguishers to be "accessible," but do not specify mounting heights, location, or identification labeling as did the initial regulations. (The initial standards, for example, specified that extinguishers weighing more than 40 lbs. could not be higher than 3-1/2 feet or those under 40 lbs. cannot be higher than 5-1/2 feet off the ground.)
+
+When is A Fire Extinguisher Accessible? 
+
+OSHA, labor, and industry agreed that the specific mounting height of an extinguisher is unimportant as long as the employee can quickly reach and obtain the extinguisher without being injured.
+
+The term "accessible" cannot be quantitatively defined for all circumstances. However, in one case, OSHA ruled that "accessible" means available to the employee within one minute. OSHA also has determined that the need to use climbing devices such as ladders or stepstools to gain access to an extinguisher is unacceptable, and may cause a fall injury to an employee who is hurrying to control a fire. Furthermore, ladders or steps tools may not be available.
+
+Extinguisher Replacement Options 
+
+In addition, OSHA revised the regulation that extinguishers removed from the workplace for maintenance or recharging must be replaced with extinguishers having the same classification and rating. The 
+
+American Iron and Steel Institute commented that the old provision required the employer to maintain an inventory of spare extinguishers, which could be extensive and costly, depending on the size of the business. OSHA changed its standard to permit alternative equivalent protection, such as temporary use of hose lines for certain classes of extinguisher, curtailment of work activities, or other methods, instead of specifying the replacement by extinguishers of the same classification and rating. OSHA believes the change will continue to maintain employee safety while it also allows employers to use cost-saving alternatives to the strict extinguisher-replacement rule.
+
+Appendices Help Small Firms 
+
+To meet the concerns of many firms, especially those firms that are small and do not have the resources or time to develop and design alternative compliance mechanisms, OSHA's performance standards are supplemented by nonmandatory appendices for guidance in compliance.
+
+These appendices do not create any additional obligations or detract from any obligations otherwise contained in the final standard. They are intended to provide useful, explanatory material and information to employers and employees to aid in understanding and complying with the standard. There is also a list of reference sources in the appendix that contain information and data to further supplement the performance standard. 
+
+Small employers who lack the technical resources to develop adequate safety programs can refer to the more specific guidelines in the nonmandatory appendices.
+
+Support and Criticism 
+
+Many companies supported the use of performance-oriented requirements. The American Cyan amid Company felt that performance standards would enable the company to provide employee protection in unique locations, where design standards could not be addressed adequately. It also would allow them to use new technology as it becomes available. General Motors maintained that the nonmandatory appendix would assist them greatly in clarifying requirements. 
+
+With the adoption of performance standards, the only complaints come from agency compliance officers who must now use more professional discretion and judgment in monitoring compliance because there are no specific benchmarks (e.g., number of feet an extinguisher should be mounted off the floor) for them to measure. Cite: 
+
+29 CFR Part 1910, Subpart C; 45 FR 60656, September 12, 1980. 
+
+Contact: Michael Moore, (202) 523-7225.
+
+DEPARTMENT OF TRANSPORTATION COMBINED" FUEL ECONOMY STANDARDS FOR TWO-WHEEL AND FOUR-WHEEL DRIVE LIGHT TRUCKS The National Highway Traffic Safety Administration (NHTSA) has established a "combined" fuel economy standard for two-wheel drive and four-wheel drive light trucks in model years 1983 through 1985. 
+
+This combined standard allows manufacturers to average the fuel economy capabilities of two classes of vehicles to achieve a fleet average. NHTSA designed this averaging concept to allow manufacturers discretionary flexibility to produce different vehicle classes with varying fuel economy levels while still improving fleet fuel economy.
+
+Incentives for Fuel Economy 
+
+In 1980, NHTSA established fuel economy standards for light trucks manufactured in model years 1983-1985 under the authority of Sec tion 502(b) of the Motor Vehicle Information and Cost Savings Act. 
+
+NHTSA had previously established separate two-wheel and four-wheel drive standards for model years 1980-1982 because of the lower fuel economy of four-wheel drive vehicles and because two companies, American Motors and International Harvester, manufactured
+
+fleets comprised almost exclusively of four-wheel drive vehicles. 
+
+Given the lower average fuel economy of those vehicles, NHTSA would have had to set any single standard for both types of vehicles low enough to accommodate those companies. This would have provided no incentive for the other companies (producing more fuel efficient two-wheel drive vehicles) to achieve fuel economy above their existing capability. Separate standards were established to avoid this problem. For example, in 1982, the two-wheel drive standard was set at 18.0 miles per gallon (mpg) and the four-wheel drive standard was set at 16.0 mpg. While separate standards for each of several vehicle classes reduce inequities for companies with less fuel efficient fleet mixes, they also have certain disadvantages. Separate class standards reduce a manufacturer's compliance flexibility by requiring improvements to each class of vehicle that is subject to the standard, rather than permitting the more economically feasible option of making a major improvement to only one class of vehicles. 
+
+For example, under the classification system used for the model year 1980-1982 standards, making a major improvement in the fuel economy of a manufacturer's two-wheel drive vans would not assist that company's efforts to meet the four-wheel drive standard. 
+
+NHTSA Rejects A Composite Approach The Regulatory Analysis Review Group (RARG) requested that NHTS A 
+
+consider the establishment of a "composite" fuel economy standard as a means of providing varying levels of fuel economy standards based on differences in mix of two-wheel drive and four-wheel drive vehicles. Under the RARG proposal, each company would have a different numerical fuel economy standard depending on its projected production mix. A manufacturer with a high proportion of two-wheel drive vehicles would have a higher standard than a manufacturer with a lower proportion of them. 
+
+Although NHTSA agreed with RARG's goals in proposing the composite standard, it rejected that approach because it doubted the existence of any authority to set different standards for different companies based solely on mix projections. NHTSA felt that not only would this be difficult to equitably establish but it could be judged as arbitrary and capricious under the Administrative 
+
+Procedure Act. NHTSA instead decided that the advantages of the composite standard could be realized in the 1983-1985 model years through the addition of an optional single average, or "combined" fuel economy standard applicable to all companies. The use of a combined standard (other than one set at a very low level, which would sacrifice fuel economy gains) is possible because of projected substantial improvements in the American Motors fleet fuel economy and because International Harvester has decided to stop producing the four-wheel drive Scout vehicle. This leaves the average fuel economy levels projected for all the domestic manufacturers within
+
+a narrow enough range to make the establishment of a combined fuel economy standard for all companies an effective means of promoting conservation while providing the manufacturers with substantial flexibility in achieving compliance.
+
+The Combined Standard 
+
+The "combined" standard was established by NHTSA as an alternative to the separate two-wheel drive and four-wheel drive standards which the agency has issued since the 1980 model year. For example, in 1983, a manufacturer may comply with the two-wheel drive standard of 19.5 mpg and the four-wheel drive standard of 
+
+17.5 mpg, or he may choose the sales-weighted combined fleet standard of 19.0 mpg that was established by the Secretary of 
+
+Transportation, according to law. These options allow manufacturers seeking greater investment flexibility to opt for the combined standard. They also permit manufacturers seeking to increase sales of four-wheel drive vehicles to opt for the separate standards. 
+
+NHTSA believes that this approach will provide stability in the year-to-year structure of the agency's light truck standards as compared to the various separate standards in the 1979-1981 period. 
+
+It would also provide relief in the post-1985 period should manufacturers such as American Motors not be able to make further fuel economy improvements in fleets that are made up exclusively of four-wheel drive vehicles.
+
+Reference: 49 CFR Part 533; 45 FR 81593, December 11, 1980. 
+
+Richard Strombotne, (202) 426-0846; or 
+
+Philip Davis, (202) 472-6902.
+
+IMPROVED PERFORMANCE STANDARDS FOR VEHICLE OCCUPANT CRASH PROTECTION The National Traffic and Motor Vehicle Safety Act of 1966 requires the National Highway Traffic Safety Administration (NHTSA) to set minimum standards for motor vehicle performance when establishing 
+
+Federal Motor Vehicle Safety Standards (FMVSS). NHTSA has recently examined the possibility of moving further toward the performance end of the policy spectrum.
+
+Individual safety standards have been established for side door strength, roof-strength, child restraint, interior impact protection, door retention components, and occupant restraint systems. 
+
+Each of these safety standards establishes a level of protection that manufacturers may achieve by using various engineering designs and materials.
+
+Standards for Side Door Strength 
+
+NHTSA has, for example, improved occupant protection in vehicles by establishing side door strength requirements. This standard is designed to minimize the safety hazards caused by intrusion into the passenger compartment in a side impact crash. The standard specifies three performance levels in a static crush test to measure the intrusion resistance of the side doors of automobiles. 
+
+The test uses a mechanical device to apply pressure to the door of a stationary vehicle and crush it to a depth of 18 inches. To pass the crush test, a peak force of at least two times the weight of the vehicle or 7,000 pounds, whichever is less, must be generated during the eighteen inches of crush. NHTSA does not specify what door design or materials manufacturers must use to meet this requirement. The manufacturer is free to apply innovative structural engineering or materials that may be more economical and lighter, for better fuel economy performance. 
+
+This side impact standard has prevented a substantial number of deaths and severe injuries in certain types of side impacts. 
+
+However, in an attempt to improve the overall effectiveness of the standard and to give manufacturers even more latitude in developing better occupant protection, NHTSA is considering establishing performance criteria for occupant protection under dynamic crash tests representing real-world accidents as a substitute for the existing laboratory static crash tests. Performance would be determined by measuring the forces to which vehicle passengers, simulated by instrumented test dummies, are subjected when the vehicle is struck in the side by a moving barrier that represents another vehicle. Manufacturers would focus on broader concepts of design and structure to improve occupant safety, because NHTSA would base the standard on more sophisticated tests, rather than only on the static side door intrusion test. 
+
+Performance Standards for the Future 
+
+NHTSA is also evaluating a long-term rulemaking plan to establish the next generation of vehicle occupant protection standards that move another step toward a "purer" performance standard. The program addresses performance needs for the next 10 years. This "400 series" program is an attempt to establish a total system concept that would provide minimum occupant protection in front, side, rear, and rollover crashes through performance standards which measure occupant injury levels. A primary objective is to replace a number of detailed component standards with comprehensive performance standards. Compliance would be measured by responses from an advanced test dummy which would better simulate human response and have the capability to predict injury potential.
+
+NHTSA also plans to improve its crash simulator test procedures to better mimic what actually occurs in on-the-road crashes. This program has the potential of developing high levels of occupant crash protection while giving manufacturers more design flexibility.
+
+It also would give manufacturers an incentive to make vehicles safer overall, rather than encouraging them to concentrate on meeting standards based on component tests that are not as realistic in simulating real crash conditions. 
+
+Potential Problems, Costs, and Benefits
+
+Technological restraints and limited agency resources are factors that may impede NHTSA's development of this program. The costs of sophisticated dummy technology and the priority of occupant protection research are presently being studied by NHTSA to determine what further action will be taken. NHTSA has no specific projections on cost savings to manufacturers from this program but feels that the paramount objective is safer occupant protection. 
+
+Most manufacturers prefer the traditional performance standards (i.e., side door strength) because they believe the sophisticated test dummies and equipment would cost more than compliance with the simpler static performance tests. The test dummy standards may also produce more variability in test results than the static tests and may require more time and effort in determining compliance. Cite:
+
+Contact: 
+
+44 FR 70204, December 6, 1979; 46 FR 12033, February 12, 1981; 49 CFR Parts 571.208 and 571.214. Also see Five
+
+Year Priorities For Motor Vehicle Safety, National Highway Traffic Safety Administration, January 5, 1981. 
+
+Leon Delarm, (202) 426-2815. 
+
+"TIME AVERAGING" FOR FUEL ECONOMY STANDARDS 
+
+The Motor Vehicle Information and Cost Savings Act, as amended by the Automobile Fuel Efficiency Act of 1980, allows manufacturers of automobiles and light trucks to meet fuel economy standards by transferring credits earned in "good" years to those years when the standard cannot be met. Manufacturers are allowed to carry back or carry forward, for up to 3 years in either case, credits earned for exceeding the corporate average fuel economy (CAFE) standard in a single year. This system of transfers gives manufacturers technological flexibility for exceeding the minimum fuel economy standard in a given year. It also allows manufacturers to
+
+redeem losses or penalties they incurred in those years when their technological capability prevented them from meeting the fuel economy standard.
+
+A System of Penalties and Credits The Motor Vehicle Information and Cost Savings Act (Title V) 
+
+established a program to improve automobile efficiency to conserve energy. Under the Act, corporate average fuel economy standards are established for passenger automobiles and light trucks. discourage noncompliance with the standards and encourage manufacturers to exceed the standards, the title provides a system of penalties and credits. Penalties are assessed against manufacturers that fail to comply with applicable fuel economy standards.
+
+The penalties are assessed at a rate of $5.00 per vehicle for each tenth-of-a-mile-per-gallon by which the average fuel economy of a manufacturer's vehicles fall short of an applicable standard. 
+
+Credits for exceeding the standards are earned at the same rate. 
+
+Although these penalties are assessed for each model year that the standard is not met, the law allows deferral for 3 years so that earned credits may offset the penalties. In other words, it is not a "violation" to fall below the standard in any one year as long as sufficient credits are earned within the 3 year time period. 
+
+This allows manufacturers with less advanced fuel economy technology to "catch up" without experiencing additional economic hardships. 
+
+Providing for Future R & D Needs 
+
+Manufacturers who earn credits must use them to "offset" penalties or losses incurred during the 3 years immediately preceding the year in which the credits are earned. Any residual amount of credits can then be applied to the three model years immediately following the year in which the credits are earned. This plan was designed to help manufacturers that exceeded the minimum standards in the 1978-1980 period but expected to have difficulty in meeting the more stringent 1981-1984 standards. The law allowed them to receive credit for their previous technological superiority and to avoid fines at a time when capital is needed for fuel economy research and development. 
+
+In any year in which a manufacturer believes that its average fuel economy will not meet the applicable standard, the manufacturer may submit a plan demonstrating that it will earn sufficient credits in the next 3 years to allow the manufacturer to meet that standard. The NHTSA Administrator will approve any such plan unless the Administrator finds that the plan is unlikely to result in the manufacturer's earning sufficient credits to allow it to meet the standard for the model year involved.
+
+This system also provides rewards or incentives for technological innovations that enable the manufacturer to exceed the required standard. The credits earned in a "good" year may provide an incentive to achieve an even higher fuel economy in succeeding years, since manufacturers will be able to rely on such credits to offset a technological setback or costly research and development failure.
+
+Reference: 40 CFR Part 535; 45 FR 83233, December 18, 1980. 
+
+Roger Fairchild, (202) 426-2992.
+
+Contact: 
+
+DEPARTMENT OF TREASURY PERFORMANCE STANDARDS FOR EVIDENCE OF TAX PAYMENTS 
+
+The Bureau of Alcohol, Tobacco, and Firearms (AFT) has adopted a new regulation that allows owners of distilled spirits plants to use any alternative devices on containers of distilled spirits as evidence of tax payment. Plant proprietors who choose to use any techniques or devices other than the strip stamp which was specifically required by the Bureau may do so as long as they meet general performance criteria. The device must be marked properly with the Distilled Spirits Plant registry number, securely affixed to the bottle so as to be pilfer-proof, to be pilfer-proof, and a portion of the device must remain affixed to the bottle after opening, as evidence of tax payment. Prior ATF approval is required for any alternative device.
+
+Improved Agency Monitoring Techniques Allow More Flexible 
+
+Standards The shift to performance standards resulted from ATF findings that the need for the strip stamp was not as critical as it once was for monitoring tax payment. Improved auditing and inspection techniques have decreased the agency's reliance on the stamp, so that performance-oriented standards could be adopted allowing firms to use alternative approaches. Previously, manufacturers had to equip their operations with a strip stamp machine rather than adopt more cost-efficient devices. Now, manufacturers may choose from a wide variety of devices best suited to their specific needs and cost constraints.
+
+For example, manufacturers may choose to use plastic wraps around the neck of the bottle or cap and eliminate the expense of the separate process of applying strip stamps. 
+
+Manufacturers are Reluctant to Change
+
+Few manufacturers as yet have switched to alternative devices. 
+
+Historically, firms have used the stamp and it has become associated with their product. They therefore seem reluctant to change despite potential savings to current manufacturing costs. Some firms feel the marketability of their product might be affected without the familiar stamp affixed. Any change probably would require expensive retooling of the existing process. 
+
+Larger firms that can afford to design a more affordable device are beginning to do so. These firms find that with a simpler design, they are able to reduce costs for their heavy volume of production. Cite:
+
+Contact: 
+
+27 CFR 19.663; 44 Fr 71613, December 11, 1979. 
+
+Richard Moscolo, (202) 566-7626.
+
+ENVIRONMENTAL PROTECTION AGENCY EPA'S BUBBLE POLICY GIVES MANUFACTURERS FLEXIBILITY 
+
+The "bubble" policy was adopted by the Environmental Protection Agency (EPA) to give industry the flexibility to treat total plant emissions as though they were emerging from an imaginary enclosure, or bubble, placed over all the relevant emission sources. This means that total emission impact, not individual emission point impact, would be the criteria for determining a plant emission budget. The bubble policy allows a plant manager to use more cost-effective strategies for meeting the same pollution limits for the plant. the past, EPA regulated emissions from each source. EPA continues to regulate emissions, but now provides firms with an opportunity to develop alternate emission control strategies that achieve equivalent ambient air impacts.
+
+A Focus on Overall Impact 
+
+The bubble policy is based on the idea that EPA and the States are primarily concerned with a plant's overall impact on air In
+
+quality rather than the particular distribution of point-specific emission limitations that produce that impact. If a qualifying plant finds it is cheaper to tighten the control of a pollutant at one point and relax controls at another, it can do so as long as the pollution from the plant does not exceed the sum of the current limits on individual points of pollution in the plant. The bubble policy describes what qualifies as a "trade," and the procedures that a polluter must use to apply for such a trade. 
+
+At an automobile painting plant, for example, hydrocarbons are given off both by the paint itself and by grease removal procedures. Management might find it could comply with overall hydrocarbon emission standards by switching to a low-hydrocarbon paint while relaxing current controls to allow relatively large amounts of pollution from its degreasing operation, where control costs are high.
+
+A Positive Economic Incentive 
+
+This approach provides a positive economic incentive for industry to develop better, innovative pollution control technologies and practices. For example, the 3M's Bristol, Pennsylvania, plant estimates that the bubble policy will allow the company to switch to water-based coatings and a new "hot melt" process that uses no solvents to reduce hydrocarbon emissions, resulting in a $5 million savings per year. Under previous policy, the plant would have been required to comply with a specific emission standard for each emission point. This policy would have inhibited the switch to water-based coating and the new solventless process. The Multi-plant bubbles also are being used under this concept. policy allows two or more plants of the same firm or of different firms to "bubble" without regard to ownership or other artificial limits. The sole constraint is that trades must have an equivalent impact on air quality.
+
+Savings Can Reach Sixty Percent of Control Costs 
+
+Both preliminary studies and pending applications have shown that industry can save millions of dollars -- and in some and in some cases, over 60 percent of current control costs through the bubble policy. 
+
+To date, over 70 companies are actively developing bubble applications. 
+
+Approximately one-third of them have already submitted bubble applications to the States. (The States must approve the applications in accordance with EPA requirements.)
+
+The In November 1980, EPA approved the plans of Narragansett Electric 
+
+Company to bubble emissions between two of its generating stations that burn low-sulfur fuel oil. One will switch to higher-sulfur oil, in exchange for use of domestic natural gas at the other. company estimates this action will save its customers over $3 million and 600,000 barrels of imported oil per year, while cutting sulfur dioxide emissions by 30 percent. 
+
+Dupont expects to save over $12 million (60 percent) at its Deepwater, New Jersey, chemical complex by concentrating its control effort on five large hydrocarbon stacks in exchange for not controlling 200 small, difficult-to-control process sources. The trade will produce a net reduction in the plant's hydrocarbon emissions. 
+
+It also will promote faster compliance with better enforcement, since only five point sources need be controlled and monitored. 
+
+Restrictions on the Bubble The Equivalency Problem 
+
+There are some restrictions to the bubble approach. The plant must demonstrate that the proposed bubble trade will be equivalent to current regulations with respect to air quality and enforceability. Trades can only be made between discharges of the same pollutant, and EPA would not allow a firm to emit more of a hazardous pollutant (e.g., benzene) in return for an equal reduction of a more innocuous one. Movement toward this synthesis is precluded by lack of quantitative knowledge about the degree of hazard, which would be needed to calculate equivalency. 
+
+Equivalency is one potential problem area with the bubble policy that EPA has attempted to address. For example, inhalable particulates are not all the same size and each size has different health impacts. EPA has sought to determine equivalency by establishing different tiers for these particulates. 
+
+Difficult to Enforce?
+
+An initial concern with the bubble approach was that it would be more difficult for inspectors to recognize noncompliance. However, it has not been demonstrated that the bubble is any more difficult to enforce than any other pollution control strategy. EPA staff cites the fact that every bubble application must include a detailed control strategy demonstrating how compliance can be monitored and enforced. 
+
+Cite: 44 FR 71781, December 11, 1979.
+
+Contact: 
+
+John Palmisano, (202) 382-2714.
+
+CORPORATE FLEET AVERAGING FOR ENGINE EMISSIONS The Environmental Protection Agency (EPA) is developing corporate average emission standards for oxides of nitrogen (NOx) emissions from light-duty trucks and heavy-duty engines for model years 1985 and beyond. Oxides of nitrogen are a major source of air pollution and smog and were targeted by the Clean Air Act Amendments of 1977 to be reduced by 75 percent in 1985, from a 1973 baseline level. 
+
+Vehicle emissions are responsible for approximately 40 percent of total annual NOx pollution. In the past, EPA has used a stringent per-vehicle standard to meet this goal, but now has developed a more flexible, sales-weighted corporate, or "fleet, average emission standard.
+
+Greater Technical and Economic Flexibility 
+
+Under this approach, producers can design some engines to operate above the standard and others to operate below it. This will provide greater technical and economic flexibility for the manufactur- Fleet averaging will reduce overall compliance costs and spur innovation toward cost-effective control technologies without increasing overall levels of pollution.
+
+The use of an averaging approach will minimize the chance that manufacturers would have to drop production of any engine "family" due to last minute technological difficulty in complying with the emission standards. The higher emissions from these engine families could be offset by lower emissions from others. This would have the advantage of allowing longer use of non-recurring investments, such as research and development and tooling, for some engine families. 
+
+In relation to marketing, an averaging approach would allow the market testing" of a limited number of new engines or engine lines while decreasing the fixed cost of research and development associated with demonstrating compliance with a single stringent emission standard. However, as the sales of such an engine line grew, the manufacturer would need to offset the imbalance created by this higher-emitting engine line or to bring emissions down toward the allowable fleet average. Averaging is economically efficient in that manufacturers can place the controls on its fleet in such a way as to get the greatest reduction for each dollar. 
+
+More Flexibility for Industry Schedules 
+
+An averaging approach also allows manufacturers to target spending of emission-related research and development funds, and may allow the emission-related expenditures to be spread more evenly over several years rather than lumped into the few years preceding the
+
+implementation of a revised standard. 
+
+Another potential savings is related to the flexibility a manufacturer has in establishing the emission limits for each family. For example, a manufacturer may choose to establish the emission limit for a family such that when it is produced, it conforms to the emissions standards of one or more of its export markets. This would decrease both development and production costs. Disadvantages
+
+The three primary disadvantages of an averaging approach include difficulty in enforcement, inequitable distribution of advantages or disadvantages to different manufacturers, and a possibility that local air quality variations might be aggravated. 
+
+With respect to enforcement, EPA's present certification/enforcement program focuses on compliance/noncompliance evaluations that are made on an engine family basis. An engine family is certified by EPA based on data presented by the manufacturer prior to actual production. EPA also periodically spot-tests vehicles on the production line and in use to verify compliance.
+
+Under some averaging programs, where a manufacturer is responsible only for total average emission rates of numerous families, the certification and enforcement programs mentioned above would not be able to function as they do presently. To retain the certification and enforcement programs intact, EPA has devised a concept known as a family "emission limit" which would function much the same as current emissions standards. Under this system, the manufacturer would choose emission limits for each family, and the sales-weighted average of the "emission limits" could not exceed the applicable emission standard.
+
+Under a program of this type, if one or more engine families is in noncompliance with its emission limit, the manufacturer may not be in compliance with the standard. Noncompliance with emission limits could arise from the variability inherent in production techniques or from other causes such as poor quality control or inadequate emission control systems. The impact of such failures on the manufacturer's program to demonstrate compliance with the standard remains one of the major impediments to a successful averaging program. EPA is considering a number of different remedies to this situation but has not yet decided on which of several alternatives would best remedy the problem without complicating other portions of the mobile source program. 
+
+Manufacturers with Broad Product Lines May Benefit Most 
+
+With regard to equity, depending on how averaging is applied it could be of much greater benefit to manufacturers with broad product
+
+lines than to manufacturers engaged in more limited or specialized production. A clear illustration of this would occur if averaging of gasoline-fueled engine emissions and diesel engine emissions were allowed.
+
+Those manufacturers who produce only diesel engines would not be in a position to benefit from such an option, while those who also produced gasoline-fueled engines would. Since it is considerably more difficult to obtain low NOx emissions from diesel than from gasoline-fueled engines, the diesel-only manufacturer could be at a substantial disadvantage. A similar situation would arise if averaging between light-duty trucks and heavy-duty engines were allowed. Both of these equity problems can be eliminated if averaging is restricted by engine type and vehicle type. However, this would also decrease the potential benefits of the averaging approaches for some manufacturers. 
+
+Geographical Distribution of Engine Use 
+
+Another disadvantage of the averaging system is that it does not take into account such factors as geographical distribution of engine use. If, for one reason or another, a certain geographical area had a high proportion of an engine type which was a high emitter (which could not be marketed at all under a non-averaging approach), then that area could suffer from degraded air quality. 
+
+One possible case involves transit buses in urban areas. If diesel bus engines emitted above the standard applicable for the class, the potential for air quality degradation would exist. The concentration of high-speed/low-horsepower diesel engines in medium-duty trucks is another example. These engines exhibit a tendency toward higher emissions, while at the same time accumulate a larger-thanaverage share of their mileage in urban areas. One final example concerns the use of specialized vehicles in certain geographic areas. 
+
+Cities such as Buffalo, Pittsburgh, and Cleveland, which have heavy winter snows and also have hilly terrain, may have a larger-thanaverage concentration of four-wheel drive light trucks. The concentration of these vehicles in urban areas, along with higher emissions from four-wheel versus two-wheel drive trucks, may contribute to localized air quality problems. EPA currently is conducting research and workshops to resolve these problems. 
+
+Cite: 45 FR 79382, November 28, 1980. 
+
+Contact: Glenn Passavant, (313) 668-4408.
+
+A COST-SAVING PERFORMANCE APPROACH FOR CAN MANUFACTURERS The Environmental Protection Agency (EPA) has recommended that 
+
+States allow can manufacturers to use a performance-oriented approach for controlling emissions from the process of can coating. 
+
+Can manufacturers emit 8 percent of hydrocarbon emissions from all industrial surface coating operations. Approximately 110 can-coating plants nationwide could take advantage of this action. The action allows manufacturers to measure their emissions by all sources over a 24-hour period. EPA's previous rule required industry to monitor each production line at a specific point in time. This action applies specifically to smog-forming hydrocarbon pollution from can coating. The coating is applied to cans to prevent corrosion of metal on the outside and to protect food and beverages on the inside.
+
+Uniform Emission Limits Are Not Appropriate 
+
+Because one can coating production line often applies as many as 50 different types of coating per day, and since each type of coating gives off a different amount of hydrocarbon pollution, it is difficult for can companies to comply with uniform emission limits for any one line. Under continuous specific point control, such as the previous EPA rule required, many can lines would have been required to install expensive pollution control equipment for use with high-hydrocarbon coatings, no matter how infrequent their application. The new EPA action allows manufacturers to determine compliance on the basis of average, daily, plant-wide emissions, so a factory can meet legal requirements even if a few of its individual lines exceed their emission limits for a short time. 
+
+The daily emissions are calculated according to a weighted average, based on pounds of hydrocarbons per gallon of solids applied, so that equivalency between high and low hydrocarbon coatings can be determined more easily. This policy allows manufacturers greater flexibility in meeting its emission limits.
+
+To determine compliance for any 24-hour period, manufacturers ineasure total actual emissions, calculated from daily units of production records; applications rates of each coating and solvent and solids content of each coating; and control efficiency. EPA provides a simple table and standardized equation by which companies may use these measurements to calculate the daily average emissions for coating operations. Because expensive, energy consuming addon pollution control equipment will no longer be necessary to insure compliance with the law, unless an operation still exceeds minimum requirements, can manufacturers expect to save $107 million per year in capital expenditures and $28 million per year in operating costs, and an amount of natural gas used in the old process,
+
+comparable to 17 percent of the total natural gas used in manufacturing cans in the United States. 
+
+In addition, the cost and energy savings, the averaging strategy may produce other benefits: it will promote the use of cheaper, more reliable, low-hydrocarbon coatings to offset pollution from high-hydrocarbon coatings, because manufacturers can now shift from high-solvent coating to less expensive, high-hydrocarbon, low-solvent coating while still meeting production and emission requirements. In addition, it will promote better assessment of real-world pollution from the can industry, since under the averaging method, compliance is based on actual emissions from each coating used, as opposed to specific emission points. EPA also is considering use of the averaging strategy across several plants, if the plants are under common ownership or control and are located in the same geographical area. The action also will encourage other industries, which coat such items as wire, appliances, and paper, to develop similar averaging programs, as they see the cost savings that can result from the program. 
+
+The action is supported by the Can Manufacturers Institute, which introduced the concept initially. Under the reform, 26 States now allow some form of averaging. The averaging approach allows companies to use their production facilities more efficiently (combining certain lines for emission-measuring purposes and substituting less expensive processes) and to plan future activities more effectively.
+
+A Drawback: More Complicated Inspection Procedures 
+
+The main drawback is that monitoring compliance under the averaging approach requires additional training for EPA inspectors. They must become familiar with the production process to know when the low- and high-solvent coatings are being used and how an average emission level is determined. Since different coatings are used on the production line continuously, inspectors must rely more heavily on plant records to verify compliance with the averaging approach than when specific point emissions were monitored. is a disadvantage for inspectors because it requires more time to inspect the records and a more comprehensive understanding of how the process is recorded. Increased reliance on the records of the plant increases reliance of the inspector on the accuracy of these records. 
+
+Cite: 40 CFR Part 51, 45 FR 80824, December 8, 1980.
+
+Contact: Leo Stander, (919) 541-5516. 
+
+This
+
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION GUIDELINES FOR EMPLOYEE SELECTION PROCEDURES INCORPORATE PERFORMANCE STANDARDS The Equal Employment Opportunity Commission (EEOC) has implemented results-oriented uniform guidelines for employee selection procedures. These guidelines cover most hiring and promotion decisions. 
+
+They incorporate a single set of principles that are designed to assist employers, labor organizations, employment agencies, and licensing and certification boards to comply with requirements of
+
+Federal law prohibiting employment practices that discriminate on grounds of race, color, religion, sex, and national origin. The guidelines were issued jointly with the Department of Justice, Department of Labor, and Civil Service Commission (now the Office of Personnel Management), and have been adopted by the Office of Revenue Sharing, within the Department of the Treasury. They constitute a uniform approach among all major Federal agencies having Federal equal employment responsibility. 
+
+The Bottom Line: Impact of the Overall Selection Process 
+
+Rather than require that employees use any specific criteria, such as competency test scores or educational requirements, to determine an applicant's eligibility for a particular industry or position, the EEOC has developed its guidelines in the form of a general performance standard. This standard incorporates a "bottom line" philosophy as a rule of prosecutorial discretion. As long as an employer's overall selection process has no adverse impact on protected groups, the individual components (such as proficiency exams) of the selection process may not be examined separately for impact. Also, the Commission, as a function of resource allocation, has stated that it will generally not commence an enforcement action where the "bottom line" has been met even though one or more of the components of the selection process may have an adverse impact.
+
+The performance approach determines adverse impact by comparing an employer's selection rate for women or minorities to the percentage of these particular groups in the labor market. For example, if women constitute 20 percent of the qualified labor market in the construction industry, then a particular firm would meet EEOC's guidelines if it employed women in 20 percent of its positions. The Bureau of Labor Statistics makes these labor market figures available to the public. 
+
+An employer who successfully combines several selection mechanisms generally will not be subject to enforcement action based on the
+
+adverse impact resulting from one such mechanism, if the result of the overall process is nondiscriminatory. For example, a police department can require all applicants to take a written test and a test measuring physical strength and agility, and to participate in simulation exercises to measure responsiveness in stress situations. Although the physical test may be considered by some as discriminating against women, the EEOC's bottom line philosophy, expressed as a function of prosecutorial discretion, holds that as long as the police department hires a representative number of women, then the agency may not question any particular test used to arrive at the final hiring decision. 
+
+The guidelines were first adopted in August 1978. EEOC considered requiring adherence to specific guidelines but rejected that option. 
+
+Employers have relied upon these performance-oriented guidelines extensively in measuring the legality of their own selection procedures, as have the courts. The guidelines apply only to selection procedures that are used as a basis for making employment decisions. These decisions may include but are not limited to hiring, promotion, demotion, and membership. (In this case, and perhaps in others, the choice of performance versus design standards may be affected by an underlying philosophical issue: is the Government's purpose to ensure equal opportunity, or to advance a particular outcome? The characteristics of the process may be of more fundamental concern than the performance in individual cases.) 
+
+As an aid to the interpretation of the guidelines, the EEOC published a list of questions and answers regarding situations likely to be encountered by employers in the use of selection procedures. These questions and answers, as well as the guidelines, are periodically reviewed and updated. Cite:
+
+Contact: 
+
+43 FR 38295 and 38312; 29 CFR 1607. 
+
+Phillip Sklower, (202) 634-6107.
+
+CIVIL AERONAUTICS BOARD BUMPING POLICY USES PERFORMANCE STANDARDS APPROACH 
+
+Airlines traditionally have overbooked certain flights to allow for late cancellations and no-shows. The Civil Aeronautics Board (CAB) has accepted this practice because it allowed the airlines to fly with fuller passenger loads, increasing revenues and efficiency and thereby reducing inflationary pressures. However, the CAB's regulations require the airlines to ensure that the
+
+smallest possible number of people holding confirmed reservations are denied boarding involuntarily.
+
+In June 1978, the Board adopted a policy requiring that before they can resort to the involuntary bumping of passengers, airlines must 'seek out passengers to voluntarily give up their seats. However, the CAB did not assign any specific procedures or set any monetary reimbursement for such passengers. 
+
+CAB Requirements Are Minimal 
+
+The CAB action allows the airlines to determine the manner of obtaining volunteers, including the compensation for volunteering. 
+
+For an airline to be in compliance with the performance criteria, CAB requires only that the carrier provide the CAB with its boarding priority procedures and criteria, and a copy of a written statement, which must be provided to passengers and which explains denied boarding compensation and boarding procedures. These procedures must demonstrate that the airline has taken steps to minimize the number of passengers who are involuntarily bumped. CAB decided it was both unnecessary and economically inefficient to prescribe the level of compensation for volunteers. CAB allows carriers to adjust their offerings to prospective volunteers in accordance with experience, and to avoid paying more than they can afford. 
+
+CAB considered several design-oriented alternatives before selecting its performance standards approach. These included establishing a policy giving priority to those passengers whose reservations were received first. This approach was rejected because it did not take into account special conditions, such as individuals responding to the sudden illness of a family member. Another suggestion was to give priority for scarce seats to individuals in order of their appearance at the check-in counter. However, this approach was rejected because many passengers might be delayed in arriving at a check-in counter by the lateness of a connecting flight.
+
+Market Incentives At Work 
+
+The use of performance standards rather than detailed compensation requirements allows airlines increased flexibility. With this approach, market incentives can be counted on to efficiently limit both overbooking and bumping. The airlines could be expected to engage in the practice only to the point at which the economic benefit to them of the fuller planes that overbooking assures is equalled or exceeded by the cost to the airlines of securing the required number of voluntary bumpees. In other words, the cost of compensating voluntary bumpees will restrict the carriers' use of these practices.
+
+The CAB has suggested a number of ways in which the airlines might conceivably obtain volunteers, but left it to the airlines to decide how to do so at the lowest possible cost to themselves, considering both the monetary costs and the desirability of minimizing passenger ill will. (However, the CAB does specify the compensation that must be provided if a passenger is bumped involuntarily.) 
+
+According to former CAB Chairman Alfred E. Kahn, the only practical problem with the bumping policy is that there is often a surplus of volunteers. There are no CAB provisions for how airlines deal with this situation.
+
+How Airlines Implement Bumping Policies 
+
+Airlines' responses vary in their approaches to compensating volunteers. Some provide compensation in an amount somewhat less than that required for those involuntarily bumped. American Airlines routinely offers $100, plus a guaranteed seat on the next available flight to the bumped passenger's destination. For the first 6 months of 1981, the industry average for voluntary compensation was $120. 
+
+Some airlines also offer credits for future flights, the value of which often is greater than the cash alternative. This technique has the advantage of assuring airlines of future patronage. Cite:
+
+Contact: 
+
+14 CFR Part 250; 43 FR 24283, June 5, 1978. 
+
+Joanne Petrie, (202) 673-5442.
+
+CONSUMER PRODUCT SAFETY COMMISSION PERFORMANCE STANDARDS FOR TOY SAFETY The Consumer Product Safety Commission (CPSC) is attempting to identify toys or other articles for children under 3 years of age that have small parts that children could breathe in, swallow, and/or choke on. The CPSC developed this rule because of the high incidence of child-related accidents involving the swallowing of small parts from toys or other articles. 
+
+CPSC has designed a performance standard to determine whether an article (or one of its components) is hazardous. CPSC adopted this performance standard instead of detailed design requirements that could require manufacturers to perform complex design tests. 
+
+The agency felt the use of a standardized performance test created the least burden for industry without compromising the health and safety of small children.
+
+A Simple Test Apparatus 
+
+The test for small parts requires manufacturers to measure the part using a simple cylinder, designed by CPSC from data on the size of product parts and fragments involved in choking incidents. 
+
+The American Academy of Pediatrics advised CPSC in the test cylinder design.
+
+The test involves placing the article, without compressing it, into the cylinder. If the article fits entirely within the cylinder, it fails to comply. This test eliminates the need for specific design criteria for every hazardous article with which a child might come into contact.
+
+CPSC has also developed simple test procedures for sharp points and sharp edges which manufacturers can apply to all articles intended for use by small children. The sharp-point test method involves the use of a test instrument that measures the tip geometry of a point. The point being tested is inserted into a rectangular opening in the instrument. If it can contact a sensing device that is recessed a distance of .015-inch and can move the sensing device a further .005-inch against the .5-pound force of a return spring, the point is to be identified as "sharp." This test, like the one for small parts, is a less restrictive approach than requiring detailed designs or specifying materials used for individual toys and other articles. These simple tests allow manufacturers wide latitude in designing their products to comply with standards in the most cost-effective way. 
+
+Industry Response 
+
+Many firms have adopted simple and innovative approaches to making toys more safe for small children. For example, one firm avoided the prohibitive expense of retooling its machines to eliminate a dangerous metal point on one of its toys by simply encasing the point in plastic. If strict design standards had been in place, the manufacturer probably would have been forced to redesign his product.
+
+Firms can either construct the required testing instruments themselves or purchase them from a variety of sources. The cost of the testing device is minimal. CPSC estimates costs for the small parts device at between $5 and $10, and between $100 to $200 for the sharp points-test instrument. 
+
+Cite: 44 Fr 34903, June 15, 1979; 16 CFR Part 1501.
+
+Contact: 
+
+Terry Van Houten, (301) 492-6903 (Small Parts); 
+
+John Preston, (301) 492-6604 (Sharp Points).
+
+PERFORMANCE STANDARDS FOR CHILD-PROOF PACKAGING 
+
+In an attempt to reduce the incidence of poisoning of children from household substances, including aspirin and other forms of medication, the Consumer Product Safety Commission (CPSC) is establishing performance-oriented standards for the special packaging of household substances that pose a potential ingestion hazard to children.
+
+Although CPSC does not require that the manufacturers do the testing it has established testing procedures that enable manufacturers to comply with the required performance standards. This ensures adequate protection for children from injuries resulting from handling, using, or ingesting household substances. 
+
+The Test Procedure 
+
+The testing procedure attempts to simulate conditions that children would encounter at home. The first phase of the test requires that a group of children between the ages of 42 and 51 months of age be given 5 minutes to open the test package without any explanation or demonstration of how it can be done. The designers of the test felt that many children who try to open packages do so without any demonstration or explanation from adults. If no more than 15 percent of the children are able to open the package, then it passes this phase of the test. 
+
+For those children unable to open the special packaging after the first 5 minutes, a single visual demonstration, without verbal explanation, is given. These children will be given a second 5minute period to try and open the package. If they fail, they will be given a second 5-minute period to open the package. This phase of the test recognizes that children often see their parents opening packages and then try to mimic these actions. If no more than 20 percent of the children are able to open the package before and after a demonstration, then it also is considered to be effective child-resistant packaging.
+
+Industry is thus provided with the flexibility of designing its packaging in the most cost-effective way as long as it can pass the performance test.
+
+The Agency Role 
+
+CPSC does not have any official role in certifying that the packaging meets its standards. It is up to the individual manufacturer to ensure that the packages are child-resistant. CPSC becomes involved only when complaints are made or in spot inspections of products.
+
+The agency feels that the majority of manufacturers operate in good faith. For liability purposes, almost all manufacturers test their products by the CPSC standards. 
+
+Firms Use a Variety of Tests 
+
+With the performance tests, manufacturers have been able to adopt a variety of designs and innovations for packaging their products. 
+
+Bristol Meyers Company has introduced a new child-resistant package design based on the length of the children's fingers. Children are unable to open the Bristol Meyers package because their fingers are too short. This is an alternative to the approach of using a simultaneous motion to push down and turn, which many manufacturers use.
+
+With the introduction of performance tests, the agency and manufacturers have become more aware of the types of packaging that are child-resistant. This has brought about more innovative and effective packaging.
+
+Some observers think that child-resistant packaging places a special burden on the elderly or individuals with arthritis, who may find it difficult to open the packages covered by these standards. 
+
+However, manufacturers are allowed to provide consumers at least one size of a given substance in non-child-resistant packaging as long as the package is clearly labeled that it should not be used in households where young children are present. This action provides consumers freedom of choice between the two different types of packaging.
+
+The agency has seen a significant reduction in the number of poisoning cases involving small children since the performance tests went into effect.
+
+Cite: 16 CFR 1700. 
+
+Contact: 
+
+Chuck Wilbur, (202) 492-6477.
+
+FEDERAL TRADE COMMISSION PERFORMANCE STANDARDS TO ENHANCE COMPETITION IN MOBILE HOME INDUSTRY 
+
+The Federal Trade Commission (FTC) has proposed a trade regulation rule that could heighten competition in the mobile home industry. The new rule uses a performance standards approach and would have the effect of removing unjustified competitive advantages that may be enjoyed by companies that provide warranty coverage but then break their warranties. 
+
+Most mobile home manufacturers offer a one-year written warranty to cover defects in the materials and workmanship of the home. 
+
+This warranty obligates them to repair defects. However, the FTC staff believes that some manufacturers and dealers have failed in a significant number of instances to provide adequate warranty service to the home owner.
+
+Deficiencies in the Warranty System 
+
+The warranty systems seem to be deficient in several ways. First, although dealers perform much of the warranty work, the evidence indicates that many manufacturers fail to clearly allocate service responsibilities between themselves and their dealers. As a result, disputes between manufacturers and dealers can delay warranty service. Some manufacturers and dealers fail to have sufficient parts, service personnel, and equipment to fulfill consumer requests for repairs. Finally, some manufacturers do not properly monitor their dealers to determine if they have completed the repairs.
+
+FTC originally proposed to address alleged problems in the handling of consumer complaints by requiring manufacturers to 1) implement an FTC-specified system to process complaints; 
+
+2) designate a corporate representative to handle complaints, with responsibility vested in non-sales personnel; 3) maintain accurate recordkeeping; and 4) regularly review and periodically report to the FTC on the effectiveness of complaint-handling procedures. 
+
+A Performance Approach 
+
+After further study, the FTC developed general performance standards that allows the industry the flexibility to develop its own compliance strategy. The rule now recommended by
+
+the staff simply requires manufacturers offering warranties to resolve complaints in 30 days and to keep records concerning such complaints. The FTC felt that Federal warranty law, which places ultimate responsibility for warranty performance on the manufacturer that offers a written warranty, provides sufficient incentive for for manufacturers to develop their own cost-effective evaluation mechanisms. The agency staff recognized that different companies design systems to fit their unique circumstances and that detailed requirements were unnecessary.
+
+Similarly, the staff's earlier proposal contained specific and detailed requirements for manufacturers' evaluation of prospective new dealers, including periodic visits to each dealer's sales lot. FTC is deleting these provisions for the same reasons mentioned previously. This means that each manufacturer is held responsible for the quality of service and repairs given by his or her agents.
+
+Industry May Set Deadlines 
+
+Additionally, the FTC is considering allowing manufacturers and dealers to set their own deadlines for warranty repairs instead of the specific time deadlines (30 days) imposed by the agency, so long as the actual deadlines are disclosed in the warranties. 
+
+Manufacturers may compete with each other to offer the most attractive warranty to the consumer. This would enable consumers to rely on competing warranty conditions when making their decision to select a particular brand of mobile home and would result in more prompt and competent warranty service for owners of new mobile homes.
+
+The performance-oriented approach requires less government enforcement resources than the FTC's original approach because the burden demonstrating compliance is shifted to the manufacturer. With the new system, those firms that do not presently provide adequate warranty service would incur costs of approximately one percent of the average wholesale price of a new home in 1978 ($120). 
+
+These costs probably would be passed on to the consumer. Cite:
+
+Contact: 
+
+16 CFR Part 441, 45 FR 3839, August 13, 1980; 
+
+40 FR 23334, May 29, 1975. 
+
+Arthur Levin, (202) 523-1670.
+
+PART III ANNOTATED BIBLIOGRAPHY
+
+ANNOTATED BIBLIOGRAPHY Clark, Timothy, "New Approaches to Regulatory Reform: Letting the Market Do the Job," National Journal, August 11, 1979, P. 1316.
+
+Overview of market-oriented approaches to regulation, focusing primarily on early development of air pollution policy. Concepts discussed are the bubble, offsets, controlled trading, and performance standards.
+
+Environmental Protection Agency, "Parallel Goals: Clean Air and Economic Development," March 1980. 
+
+Outlines EPA strategies for attaining clean air and economic growth in urban areas, including emissions offsets trading and banking, and the bubble. "1 
+
+Environmental Protection Agency, "How to Use the Bubble Policy: A Handbook for Industry, February 1981 
+
+(draft).
+
+Describes the process for developing and implementing the bubble from the point of view of industry. Overview of the bubble policy, summary of the process for obtaining bubbles, identifying opportunities. working 
+
+Hemenway, David, "Performance vs. Design Standards," paper from the Shirtsleeves Colloquia on Alternative 
+
+Regulatory Approaches, sponsored by the U.S. Regulatory 
+
+Council and SRI International, Washington, D. C., October 1980.
+
+This report compares and contrasts performance and design standards from an economic perspective. 
+
+The paper describes the characteristics of performance standards, explains why they are not used more often, and discusses particular areas where they may be appropriate.
+
+Lave, Lester B., "Enhanced Compliance Through Biological Monitoring," working paper from the Shirtsleeves Colloquia on Alternative 
+
+Regulatory Approaches, sponsored by the U.S. Regulatory Council and SRI International, Washington, D.C., November 20, 1980.
+
+An example of how to measure the outcomes of human exposure to hazardous substances as they travel the chain from emission to ambient level to dose level to health effects. 
+
+U.S. Department of Commerce, National Bureau of Standards. 
+
+"Performance v. Design Standards, Washington, D. C., 1980. 
+
+A contracted study of the pros and cons of both performance and design standards and the current thinking on the issue of design vs. performance standards.
+
+U.S. Department of Commerce, National Bureau of Standards, "Regulatory Use of Standards: Implications for Standards 
+
+Writers," Washington, D.C., 1979.
+
+A contracted study suggesting to private standards-writers how they might write standards that would be acceptable for use in regulatory programs. One chapter incudes a discussion of performance standards. 
+
+44 Federal Register 3274, January 16, 1979.
+
+Announcement of alternative emission control approach called the "bubble" concept, which enables States to revise their SIPS to permit facilities to place a greater burden of control on sources where the marginal cost is low, and a lesser burden where the cost is high. 
+
+44 Federal Register 3740, January 18, 1979.
+
+Proposed New Jersey Generic Bubble Rule. Allows the State to approve many VOC bubbles without processing each one as a formal amendment to the SIP. Eliminating the requirement for formal 
+
+Federal review will sharply reduce the time needed to get a bubble approved.
+
+PROJECT ON ALTERNATIVE REGULATORY APPROACHES The Project on Alternative Regulatory Approaches was a 2-year project initiated by the former U.S. Regulatory 
+
+Council and completed in September 1981. The Project promoted alternative, market-oriented regulatory strategies.
+
+Alternative regulatory approaches are departures from traditional "command-and-control" regulation, which involves strictly specified rules and formal government sanctions for failure to comply.
+
+Market-oriented alternatives avoid unneeded governmental restraints and permit greater private discretion in choosing how to meet regulatory objectives. Among these alternative approaches are marketable rights, performance standards, monetary incentives, information disclosure, and tiering. 
+
+Additional information on alternatives, including data on over 300 specific agency experiences with alternative approaches, is now available at: 
+
+Administrative Conference of the United States 
+
+2120 L Street, N.W. 
+
+Suite 500 
+
+Washington, D.C. 20037 (202) 254-7020
+
+PROJECT ON ALTERNATIVE REGULATORY APPROACHES 
+
+AVAILABLE DOCUMENTS Guidebook Series on Alternative Regulatory Approaches, September 
+
+1981A series of guidebooks for regulators on market-oriented regulatory techniques. Each guidebook summarizes the advantages, preconditions, and limitations of a particular technique. The series comprises: 
+
+1) Overview 2) Marketable Rights 3) Performance Standards 
+
+4) Monetary Incentives 
+
+5) Information Disclosure 
+
+6) Tiering
+
+Minutes from the Project colloquium series for regulators, September 1981 -- Summaries of ten presentations by leading regulatory scholars, including Robert Crandall of the Brookings 
+
+Institution, Marvin Kosters of the American Enterprise Institute, and Roger Noll of the California Institute of Technology. 
+
+Bibliography, September 1981 - A listing of about 100 publications covering alternative regulatory approaches. 
+
+Resource Center File Listings, September 1981 A list of approximately 300 Federal applications of alternative regulatory approaches for which there are files currently available for agency and public review. 
+
+"Innovative Techniques in Theory and Practice: Proceedings of a 
+
+Regulatory Council Conference," January 1981, 49 pp. summary of eight July 1980 workshops in which agency practitioners provided information on their experience with less traditional forms of regulation. Includes "Regulation and the 
+
+Imagination," a Conference address by Alfred E. Kahn. "1 
+
+"Regulating with Common Sense: A Progress Report on Innovative Regulatory Techniques, October 1980, 19 pp. A summary report to the President on Government-wide progress in implementing his June 13, 1980 directive to agencies on alternative approaches. "An Inventory of Innovative Techniques," April 1980, 47 pp. - 
+
+A description of 66 early applications of alternative approaches, written for the lay public. 
+
+Single copies of these documents can be obtained from: 
+
+Administrative Conference of the United States 
+
+2120 L Street, N.W.
+
+Suite 500 
+
+Washington, D.C. 20037 (202) 254-7020
+
+HARVARD LAW LIBRARY 
+
+3 2044 057 502 775
+
+HARVARD LAW SCHOOL LIBRARY DATE DUE FEB 15 2005 GAYLORD 
+
+PRINTED IN U.S.A.

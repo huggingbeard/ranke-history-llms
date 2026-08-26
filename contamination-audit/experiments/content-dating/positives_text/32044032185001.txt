@@ -1,0 +1,341 @@
+us 976.3 41F56 US 976.3 U/F56 
+
+Spectrophotometric determination of 
+
+HARVARD LAW LIBRARY 
+
+AQM1716 3 2044 032 185 001 
+
+U.S. INTERNA REVENUE SERVICE 
+
+Spectrophotometric determination of cocaine 1956 
+
+HARVARD LAW 1 LIBRARY
+
+To be put
+
+A..A.C. Mrs. содис sove 
+
+Spectrophotometric Determination of Cocaine, Procaine and Tetracaine
+
+TERNA 
+
+REVENU SERVICE U.S. TREASURY DEPARTMENT US INTERNAL REVENUE SERVICE 
+
+May 2, 1956 of 225 us 
+
+PUBLICATION NO. 303
+
+ཪ་
+
+SPECTROPHOTOMETRIC DETERMINATION OF COCAINE, PROCAINE AND TETRACAINE 
+
+By M. J. Pro, R. A. Nelson, W. P. Butler, and A. P. Mathers 
+
+(Alcohol and Tobacco Tax Division Laboratory, Internal Revenue Service, 
+
+Washington, D. D.)
+
+In narcotic enforcement work, cocaine samples are sometimes obtained with procaine and tetracaine as diluents. The chemical methods now employed are tedious and require larger samples than are usually available for the quantitative determination of these materials. Since the three compounds exhibit absorption in the ultraviolet and infrared regions of the spectrum, spectrophotometry offers a means of identification and quantitative determination of these drugs. In this paper a procedure is presented for the simultaneous determination of these compounds by ultraviolet spectrophotometry and infrared data is shown to be a valuable adjunct for identification. Mixtures can be identified by comparing their infrared absorption spectra with spectra prepared from the pure compounds. 
+
+Although their research has no direct bearing on the present investigation, several workers have used infrared spectroscopy in the study of many alkaloids (1-3). different hydro Since the quantitative procedure described in this paper employes ultraviolet spectrophotometry, some of the more pertinent references will be briefly mentioned. Ampuero (4-5), using this technique, reported cocaine maxima at 233 and 275 mu and showed that chloric acid concentrations had no effect on these maxima. photometric determination of procaine was reported by Biggs (6) and in his work absorption maxima were noted at 221 and 290 mu. analyses of mixtures of cocaine, procaine and stovaine were carried out 
+
+A spectro- 
+
+Quantitative 95-81-6
+
+-- - 2 by Heros (7) using ultraviolet absorption, but chemical methods were used to separate the compounds initially. Mixtures of tetracaine and phenylephrine were analyzed by Ellin (8) and in his work tetracaine was hydrolyzed to p-butylaminobenzoic acid which was measured at 310 mu in a solution of approximately pH 6-8. Although ultraviolet spectrophotometry has been used to measure these drugs individually, extension of this method to the simultaneous determination of cocaine, procaine and tetracaine has not been previously reported.
+
+EXPERIMENTAL 
+
+Absorbance curves prepared from equal molar concentrations of cocaine, procaine, and tetracaine in 0.1 N hydrochloric acid showed absorption maxima between 227 and 233 mu; also procaine and tetracaine gave maxima at 280 and 310 mu respectively. Due to their common absorption regions at the shorter wavelengths and the intensity of the tetracaine absorption at the procaine maxima, acid solution was found to be unsuitable for their simultaneous determinations. On the other hand after alkaline hydrolysis, there was considerably less interference in the measurement of the individual absorbances. 
+
+Absorption data for cocaine, procaine, and tetracaine in 0.03 N sodium hydroxide are presented in Fig. 1. These curves show a single maximum at 226, 264 and 280 mu for cocaine, procaine and tetracaine respectively. 
+
+Both procaine and tetracaine absorb slightly at 226 mu while the absorption of cocaine at 264 and 280 mu is negligible. Although procaine and tetracaine absorb appreciably at each other's maximum, neither offers serious absorption interference with the other.
+
+- 3 - The three drugs obey Beer's law in the concentration ranges shown in 
+
+Fig. 2. 
+
+Cocaine, procaine and tetracaine were hydrolyzed to benzoic, p-aminobenzoic and p-butylaminobenzoic acids respectively and the completeness of each hydrolysis was evaluated by comparing the absorbance data from the hydrolyzed solutions with the absorbances obtained from the pure acids. As shown in Table 2, cocaine, procaine and tetracaine were completely hydrolyzed in ten minutes at steam bath temperature. Reaction rate studies at both room and steam bath temperatures show the hydrolyses to be first order.
+
+METHOD Apparatus 
+
+(a) Beckman D. U. Spectrophotometer.
+
+(b) Infrared spectrophotometer (Perkin Elmer, model 21). (c) Volumetric flasks, 100 and 200 ml. capacity. 
+
+Reagents and Standards 
+
+(a) Cocaine hydrochloride, USP. (b) Procaine hydrochloride, USP. (c) Tetracaine hydrochloride, USP. (d) Sodium hydroxide, 0.3 and 0.03 N. solutions. 
+
+QUANTITATIVE DETERMINATION 
+
+Introduce a 100-mg sample into a 200-ml. volumetric flask and make to volume with 0.03 N sodium hydroxide. Pipette a 5-ml. aliquot into a 
+
+100-ml. volumetric flask containing 10 ml. of 0.3 N sodium hyrdoxide 
+
+Heat on a steam bath for approximately 15 minutes, cool and dilute to volume with water.
+
+-- Determine the cell corrections for a 0.03 N sodium hydroxide solution with the same solvent in the reference cell. Read the absorbance of the sample at 226 mu (cocaine); 264 mu (procaine); and 280 mu (tetracaine) against the 0.03 N sodium hydroxide reference solution. These values are used below to calculate the respective concentrations of cocaine, procaine and tetracaine.
+
+CALCULATIONS Equation 1: 
+
+A226 = 
+
+Do, 226 c t ༊་ Dp, 226 Ex Dt,226 P+ Et
+
+Equation 2: 
+
+A264 = Dc, 264 c + Dp, 264 pt c+ D+,264 Dt, 264 T Ес 
+
+Ep 
+
+Et
+
+Equation 3: 
+
+A280 Dc, 280 ct Dp, 280 Dt, 280 Ex Et
+
+Where A226, A264 and A280 are the measured absorbances of the sample (corrected for silica cell variations); C, P, and T are the respective concentrations of cocaine, procaine and tetracaine 
+
+Et are the concentrations of standard cocaine, procaine and tetracaine (see Fig. 2) which give to be calculated; and E 
+
+Ec, Ep, and E. the corresponding absorbances De, Dp, and Dt. 
+
+When experimental data is substituted in equations 1, 2, and 3, they can be solved for cocaine, procaine and tetracaine by the use of determinants. The final equations employed in this work are:
+
+- 5 - Cocaine (p.p.m.) = 42.45 A226 
+
+0.74 A264 
+
+12.00 A280
+
+Procaine (p.p.m.) = -2.49 +226 + 37.59 £264 
+
+24.42 A280
+
+Tetracaine (p.p.m.) 1.06 4226 27.01 A264 +36.02 A280 
+
+Qualitative Identification 
+
+The infra red spectra of the hydrochlorides of cocaine, procaine, tetracaine and mixtures of these drugs are presented in Figs. 3 and 4. 
+
+The curves were made from films of material deposited on sodium chloride discs. To prepare the films, the samples were dissolved in anhydrous methanol and aliquots containing approximately 5 mg. of material were evaporated to dryness on sodium chloride discs in a vacuum dessicator at room temperature. The data presented in Fig. 5 show the relative intensities of the principal absorption bands of the pure drugs and some typical mixtures. 
+
+Analytical data
+
+Simulated drug seizuree were prepared and cocaine, procaine, and tetracaine determined spectrophotometrically by the method previously described. The results of 23 combinations, presented in Table 2, show both recoveries of cocaine, procaine, and tetracaine and the standard deviation of each drug in the mixture. 
+
+DISCUSSION 
+
+Although procaine and tetracaine are the more common cocaine diluents, experience with many enforcement samples has shown that other substances may be incorporated. Cocaine in the form of thick cakes often contains ecgonine. Other less common diluents are milk sugar,
+
+- 6starch, mannitol, and magnesium sulfate. No interference was found for ecgonine and the latter diluents since they show no absorption in the ultraviolet region in concentrations up to 100 p.p.m. 
+
+In this infra red work the film-from-solution technique was selected because the hydrochlorides of these drugs are very soluble in anhydrous methanol. A further advantage of this solvent is the insolubility of the less common diluents such as milk sugar, starch, mannitol and magnesium sulfate. However, it was recognized that solvent entrapment and crystal orientation are disadvantages of this technique. For this reason the pressed bromide method may be preferable for pure mixtures of these drugs. 
+
+Since the mull technique requires the removal of diluents, it was less desirable for this work. Similarly the insolubility of these compounds in carbon disulfide and other common infrared solvents limited the applicability of the solvent method. 
+
+Ultraviolet spectrophotometry for the determination of these drugs is preferred because it has the advantages of speed, accuracy, and ease of manipulation. Infrared analysis offers an additional rapid method for their identification.
+
+REFERENCES (1) PLEAT, G. B., HARLEY, J. H., and WIBERLEY, S. E., J. Am. Pharm. 
+
+Assoc., 40, 107 (1951). 
+
+(2) MANNING, J. J., Bull Narcotics, U. N. Dept. Social Affairs, 7, 
+
+85 (1955). (3) LEVI, L., HUBBLEY, C. E., and HINGE, R. A., ibid, 1, 42 (1955). (4) AMPUERO, F.,M., Rev. fac. farm. y Bioquim, 13, 43 (1951). (5) ibid, 14, 7 (1952). (6) BIGGS, A. I., J. Pharm. and Pharmacol., 4, 479 (1952). (7) FLORENTIN, D., and HEROS, R., Ann. chim. appl., 24, 31 (1942). (8) ELLIN, R. I., and KONDRITZER, A., J. Am. Pharm. Assoc., 41, 71 (1952).
+
+EXPLANATION OF CALCULATIONS 
+
+The actual absorbances for cocaine, procaine, and tetracaine for different concentrations of these compounds, at 226, 264, and 280 mu respectively are: at A226 
+
+15 mg. Cocaine 
+
+15 mg. Procaine has 0.181 O.D. 
+
+15 mg. Tetracaine has 0.242 O.D. has 0.358 0.D. at A264 at A280 And 
+
+20 mg. Cocaine has 0.044 O.D. 
+
+5 mg. Procaine has 0.265 O.D. 
+
+10 mg. Tetracaine has 0.373 0.D. 
+
+20 mg. Cocaine has 0.019 0.D. 
+
+10 mg. Procaine has 0.394 0.D. 
+
+10 mg. Tetracaine has 0.548 0.D.
+
+Ec A226 = Dc226 ct Dp226 P/ Dt226 T Pf Et
+
+A264 
+
+Ex 
+
+Dc264 c Dp264 PD+264 T Ес Et
+
+A280 = Dc280 c + Dp280 P Pt280 T Ec 
+
+Ep 
+
+Et 
+
+Substituting the values:
+
+A226 A264 A280 = 0.358 ct 0.181 P 0.242 T 0.015 0.015 0.015 0.044 C + 0.265 P 0.373 T 0.020 0.005 0.010 = 0.019 c + 0.394 P0.548 T 0.010 0.020 0.010
+
+Further simplified: 
+
+A226 = 23.867 c 12.067 P16.133 T A264 = 
+
+2.200 C 53.000 P 37.300 T
+
+A280 
+
+0.950 C 39.400 P 54.800 T And: a1 = 23.867 b1-= 12.067 
+
+C1 = 16.133 d1 A226 
+
+82 = 2.200 2 ba ☐ 53.000 c2 ☐ 37.300 22 = A264 
+
+23 = 0.950 b3 = 39.400 
+
+C3 = 54.800 d3 = A280 
+
+The determinant solutions are as follows: 
+
+The common denominator D is: 
+
+az bz cz t az bz cq t az by cz a2 by C3 (equation 1) derived from this scheme:
+
+02 Substitute actual values in equation 1 
+
+D = 34,384.997
+
+- Now solve for cocaine, procaine, and tetracaine expressing the determinant solutions algebraically as follows: 
+
+dz bz cz t dz b3 cy / dz by c₂ dz b₂ c1 - dy bz cz d₂ by cz P = dz az cz / dz az cz t dy az cz d₂ az cy - dz ą cz - dy az cz T = dz ay b₂ + dy az bz t dz az by - dy az by - 22 22 63 - 23 22 by A226 42.45 
+
+Substitute actual values (in terms of P.P.M.) 
+
+A264 0.74 A280 12.00 
+
+1 A226 2.49 
+
+A264 37.59 
+
+A280 24.42
+
+1 A226 1.06 
+
+A264 27.01 A280 36.02
+
+DRUG, P.P.M. 
+
+Cocaine Hydrochloride TABLE 1.-HYDROLYSIS STUDIES HYDROLYSIS PRODUCT FOUND, P.P.M. 
+
+HYDROLYSIS PRODUCT 
+
+CALCULATED, P.P.M.
+
+Benzoic Acid Benzoic Acid 
+
+1.60 1,80 2280 10 3.28 3.59 15 5.42 5.39 7.13 7.19 25 8.98 8.98 Procaine
+
+Hydrochloride p-Aminobenzoic Acid p-Aminobenzoic Acid 2.58 2.51 10 4.95 5.03 15 7.54 7.54
+
+Tetracaine 
+
+Hydrochloride p-Butylaminobenzoic Acid p-Butylaminobenzoic Acid 3.25 3.21 220 10 6.40 6.42 15 9.55 9.64
+
+caine caine caine
+
+Tetra- caine 
+
+Drugs Added, P.P.M.
+
+Co- Pro- 
+
+TABLE 2.-ANALYTICAL DATA 
+
+Drugs Found, P.P.M. 
+
+Mg. Deviation/mg. Drug
+
+Co- Pro- Tetra- Co- Pro- Tetra- caine caine caine caine caine caine 0.2 0.2 4.9 0.00 0.00 -0.02 15 0.3 15.1 - 0.3 0.00 0.01 0.00 -0.3 5.0 0.0 0.00 0.00 0.00 10 10 0.3 10.4 9.3 0.00 0.04 -0.07 15 - 0.5 0.3 14.4 0.00 0.00 -0.04 2 1.9 0.2 4.9 -0.05 0.00 -0.02 2 10 2.3 0.3 10.2 0.15 0.00 10.02 2 1.9 5.1 0.0 -0.05 0.02 0.00 2 2 ཋ99༠ 10 2.1 10.2 - 0.2 0.05 0.02 0.00 10 10 2.1 10.2 9.7 0.05 0.02 -0.03 10 406 10.1 0.3 -0.08 0.01 0.00 10 4.8 
+
+0.2 9.8 -0.04 0.00 -0.02 5 10 10 5.7 10.1 9.7 0.14 0.01 -0.03 B B ŏ u 4.9 5.3 4.8 -0.02 0.06 -0.02 10 10 010 11.1 10.3 9.3 0.11 0.03 -0.07 10 5 5 10.1 5.1 4.8 0.01 0.01 -0.02 10 10 15 15 955 10.1 10.3 
+
+0.3 0.01 0.03 0.00 15.4 0.0 4.8 0.03 0.00 -0.04 15.4 5.2 4.7 0.03 0.04 -0.06 15 15.6 5.0 0.0 0.04 0.00 0.00 20 5 20.0 5.1 4.8 0.00 0.01 -0.04 20 20 5 5 0 5 20.2 0.0 4.8 0.01. 0.00 -0.04 19.9 4.9 0.1 -0.01 -0.02 0.00 
+
+Standard Deviation 
+
++1 0.06 0.02 0.03 * σ = d2 
+
+(Ed)2 n-1
+
+ABSORBANCE 
+
+0.2 0.4 0.6 0.8 
+
+BECKMAN D. U. SPECTROPHOTOMETER PHOTOMULTIPLIER SENSITIVITY RESISTOR CELLS 
+
+SLIT WIDTH 
+
+SOLUTION WAVELENGTH COCAINE FULL GAIN 1/2 C.CLOCK. 
+
+22 MEGOHM 
+
+SILICA, Icm PATH LESS THAN 0.1mm 
+
+0.03 N NaOH 226 mu 
+
+PROCAINE 
+
+264 my 
+
+TETRACAINE 
+
+280 my 
+
+TETRACAINE - HCI PROCAINE-HCI COCAINE-HCI FIGURE 2 
+
+10 15 PPM 20 25 30
+
+3 а- 
+
+TRANSMITTANCE PROCAINE-HCI COCAINE - HCI 
+
+-тр 
+
+Илинными ми
+
+TETRACAINE-HCI 
+
+WAVELENGTH (MICRONS) 
+
+​=- 12 ~- 13 3- -2 
+
+FIGURE 3 
+
+Ли
+
+COCAINE-HCI PROCAINE-HCI FIGURE 4 COCAINE-HCI TETRACAINE-HCI 
+
+​TRANSMIT TANCE COCAINE-HCI PROCAINE-HCI TETRACAINE-HCI 
+
+пл -2 w- -6 10 
+
+WAVELENGTH (MICRONS) 
+
+-= L2 12 L3 13 14
+
+TETRACAINE-HCI PROCAINE-HCI COCAINE-HCI TETRACAINE-HCI COCAINE-HCI PROCAINE-HCI COCAINE-HCI TETRACAINE-HCI PROCAINE-HCI COCAINE-HCI FIGURE 5 
+
+2 10 12 14 
+
+WAVELENGTH IN MICRONS

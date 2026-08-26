@@ -1,0 +1,2189 @@
+HARVARD LAW LIBRARY 
+
+3 2044 032 501 264 HD 979 78 WIS
+
+An Exemplary Projec 
+
+TVO 
+
+VULLEVE LIBRARY DEPOSITED BY THE UNITED STATES GOVERNMENT 
+
+SAP & 81976 
+
+The Dallas Police Legal Liaison Division LAW 
+
+IBRARY 
+
+Office of Technology Transfer National Institute of Law Enforcement and Criminal Justice Law Enforcement Assistance Administration U.S. Department of Justice
+
+NATIONAL INSTITUTE OF LAW ENFORCEMENT AND CRIMINAL JUSTICE Gerald M. Caplan, Director LAW ENFORCEMENT ASSISTANCE ADMINISTRATION Richard W. Velde, Administrator 
+
+Henry F. McQuade, Deputy Administrator
+
+Paul K. Wormeli, Deputy Administrator 
+
+The Legal Liaison Division of the Dallas Police Department is one of 17 programs which have earned the National Institute's "Exemplary" label. Projects are nominated through the LEAA 
+
+Regional Offices and the State Planning Agencies and are examined by an independent evaluator to verify their:
+
+Overall effectiveness in reducing crime or improving criminal justice • Adaptability to other jurisdictions 
+
+Objective evidence of achievement 
+
+Demonstrated cost effectiveness
+
+Validation results are then submitted to the Exemplary Projects Advisory Board, made up of LEAA and State Planning Agency officials, which makes the final decision. 
+
+For each Exemplary Project, the National Institute publishes a range of information materials, including a brochure and a detailed manual. Publications are announced through the National 
+
+Criminal Justice Reference Service. To register for this free service, please write: NCJRS, P.O. Box 24036, S.W. Post Office, Washington, D.C. 20024.
+
+AN EXEMPLARY PROJECT LEGAL LIAISON DIVISION + 
+
+of the 
+
+DALLAS POLICE DEPARTMENT 
+
+Dallas, Texas 
+
+March, 1976 by 
+
+H. Lake Wise Prepared for the National Institute of Law Enforcement and Criminal Justice, Law Enforcement Assistance Administration, U.S. Department of Justice by Abt Associates Inc., under contract number J-LEAA-014-74. Points of view or opinions stated in this document are those of the author and do not necessarily represent the official position or policies of the U.S. Department of Justice. 
+
+Office of Technology Transfer National Institute of Law Enforcement and Criminal Justice Law Enforcement Assistance Administration U.S. Department of Justice 
+
+For sale by the Superintendent of Documents, U.S. Government Printing Office 
+
+Washington, D.C. 20402 Price $1.80
+
+Stock No. 022-000-00422-9 US 979TE
+
+WIS
+
+For further information concerning the policies and procedures of the Legal Liaison Division of the Dallas Police Department contact: 
+
+Director Edwin Heath Police Legal Liaison Division 
+
+City of Dallas Police Department 
+
+2014 Main Street 
+
+Dallas, Texas 75201 (214) 748-9711 :=
+
+FOREWORD 
+
+The individual patrolman routinely makes decisions on matters that require a delicate balancing of important social and legal values. If his judgment is short of the mark, the mistake may doom a case, particularly if the error involves the exclusionary rule. 
+
+A high percentage of felony arrests result neither in conviction nor acquittal. Many are screened out of the criminal justice system at various decision-making points - by the prosecutor, at the preliminary hearing, by the grand jury, by the trial judge. With few exceptions, however, police agencies have not developed systematic procedures for finding out what happens to apparently good cases made on the street. 
+
+These critical issues prompted the City of Dallas in 1973 to create a Police Legal Liaison Division. 
+
+In Dallas, Assistant City Attorneys are on call 24 hours a day to advise police officers on case preparation and to gather information about those cases that do not go forward to a guilty plea or conviction.
+
+The National Institute believes the Dallas approach can help to raise the quality of investigations so that more cases are successful in court. Equally important, ready access to a lawyer knowledgeable in the criminal law can ensure that cases of serious crimes receive appropriate care and preparation.
+
+Gerald M. Caplan Director National Institute of Law Enforcement and Criminal Justice March 1976 
+
+1297926 iii
+
+GOT A MOMENT? 
+
+We'd like to know what you think of this document. 
+
+The last page of this publication is a questionnaire. 
+
+Will you take a few moments to complete it? The postage is prepaid. 
+
+Your answers will help us provide you with more useful Exemplary Project Documentation Materials. 
+
+iv
+
+TABLE OF CONTENTS 
+
+Page 
+
+CHAPTER 1: PROJECT SUMMARY 
+
+1.1 
+
+Introduction 1.2 Project Summary CHAPTER 2: PROJECT DEVELOPMENT 2.1 Project History 
+
+2.2 Goal Setting and Revision 
+
+13 
+
+2.3 Establishing Rapport 
+
+14 
+
+2.4 Developing an Attorney-Client Relationship 
+
+2.5 Assessing the Need for Police Legal Advisors 17 19 
+
+CHAPTER 3: ORGANIZATION AND STAFF 
+
+25 
+
+3.1 Organization Structure and Policy 3.2 Division of Responsibilities 3.3 The Legal Advisor "Law Firm" 
+
+3.4 Staffing
+
+CHAPTER 4: REDUCING POLICE ERROR 4.1 Reviewing Filings 4.2 Review of Warrants and Affidavits 
+
+25 29 35 35 39 41 46 
+
+4.3 Monitoring Police Error 
+
+46 
+
+4.4 Selecting an Intervention Strategy 
+
+49 
+
+4.5 Avoiding Abuse of the Legal Advisor 
+
+50 
+
+CHAPTER 5: TRAINING SERVICES 
+
+53 
+
+5.1 Recruit Training 
+
+53 
+
+5.2 In-Service Training 
+
+59 
+
+5.3 Roll Call Training 
+
+60 
+
+6.3 On-Call Availability 5.4 Attorneys and Training CHAPTER 6: GENERAL LEGAL COUNSELING 6.1 Legal Opinions and Policy Statements 6.2 Ad Hoc Legal Advice 6.4 The Limits of Counseling 6.5 Advising Patrol Units 6.6 Liaison and Other Duties 
+
+61 63 63 64 69 71 75 76
+
+CHAPTER 7: PROJECT COSTS AND BUDGETING 7.1 Budgeting and Policy Decisions CHAPTER 8: MONITORING AND EVALUATION 8.1 The Monitoring System APPENDICES 8.2 Evaluation 8.3 Future Evaluation Considerations Annotated References Excerpt from IACP Legal Officers Sections News: Legal Advisors Survey Results 
+
+Page 79 80 85 85 87 92 95 97 99 vi
+
+1.Introduction CHAPTER 1 PROJECT SUMMARY 
+
+Since the careers of today's senior administrators began, police work has become more difficult, more complicated, more professional. A large part of that change is a result of rapidly expanding legal developments including new statutes, court decisions, and reform in courtroom procedures. The most publicized aspect of these developments is the creation of a system of strict safeguards of the Constitutional rights of the accused: the "Miranda warning" which must precede custodial questioning; strict scrutiny of probable cause for arrest, search, or seizure of evidence; tough testing of the sufficiency of warrants; restrictions on the use of tape recordings and wiretaps.
+
+This developing body of Constitutional requirements is only part of the picture of legal change. Improved (indeed, required) legal representation of defendants has led to vigorous testing of police conduct in case after case. Defendants and community members are increasingly aware of their rights and opportunities for protest. 
+
+Legislation comes from Congress and state legislatures every year, changing previously acceptable acts into crimes and vice versa. 
+
+Statutes on the books are ruled unconstitutional, limited, explained, or broadened--while their words remain unchanged. 
+
+In the midst of these legal requirements--and facing a generally rising incidence of reported crime--stands the police officer. If he fails to keep pace with legal changes, if his judgement is in error, both the rate of crime and police image may suffer as a result. 1
+
+Officers on patrol need clear legal and policy guidance to respond properly to the difficult situations they consistently confront. 
+
+Police agencies need to become more involved in the ultimate disposition of criminal cases by strengthening their case preparation efforts and following up on cases which are dismissed or not prosecuted. Now more than ever, police must function in cooperation with local courts and prosecuting agencies.
+
+Since 1973, the Dallas Police Legal Liaison Division has functioned as a special unit of the Dallas Police Department, providing training and legal counsel to staff-level police officers and investigators. The goal: to prevent and correct police legal error, reducing the number of cases rejected or dismissed by the courts. 
+
+Since police legal advisor programs were first given national currency by the recommendations of the President's Commission on Law Enforcement and the Administration of Justice in 1967, interest in these programs has become widespread. Law Enforcement Assistance 
+
+Administration funds supported the installation of many new legal advisors. Training courses for public legal advisors appeared, first in a degree program at Northwestern University and now in a one-week orientation course conducted by the International Association of Chiefs of Police. The legal advisor idea was endorsed by the National Advisory Commission on Criminal Justice Standards and Goals as well as the American Bar Association. By 1975, the IACP 
+
+estimated that about 300 police departments across the country had internal legal advisors.
+
+These programs differ greatly in scope and design. Some legal advisors are right-hand assistants to the chief of police. Some concentrate on training, while others are special-assignment troubleshooters or specialists on internal discipline and corruption matters. Many are involved primarily in administrative legal matters such as labor negotiations and materials contracts, while others are exclusively concerned with enforcement issues. A few are draftsmen of legislation and police lobbyists. 
+
+The Legal Liaison Division in Dallas, Texas, has earned the status of an "Exemplary Project" from the Law Enforcement Assistance Administration's National Institute of Law Enforcement and Criminal 
+
+Justice. The Dallas program and the particular type of legal advisor effort it represents--centering on practical assistance and 2
+
+training for line investigators and officers--are the subjects of this document.
+
+This manual is written primarily for police administrators, planners and others in a position to consider the establishment of a police legal advisor program in their jurisdictions. The Dallas program is described in some detail; its strengths and its weaknesses are pointed out. An attempt is made to draw from the Dallas experience and other sources to provide as much guidance as possible to other departments. Clearly this document is not the last word on the provision of legal services to police. What it does contain is a discussion, based on one example, of one approach to the legal needs of police--the provision of legal training, advice, and case document review for all line officers in a moderate to large-sized law enforcement agency. 
+
+In this undertaking, this manual should be contrasted to several other valuable discussions of police legal advisor programs. 
+
+Guidelines for a Police Legal Unit, prepared by the International 
+
+Association of Chiefs of Police (IACP) under a grant from the Law 
+
+Enforcement Assistance Administration, in a more general way, covers all types of legal advisor programs for all kinds of jurisdictions. This IACP document is now being revised and expanded. 
+
+Policy recommendations and commentaries on the general subject of police legal advisors have also been prepared by the American Bar Association and two Presidential commissions. (These publications are cited in the Appendix to this report.) 
+
+The precise approach taken in Dallas may not be the best for any given department; but, on careful examination, much may be learned from the Dallas experience which can be adapted to meet the needs of other departments.
+
+The remainder of this chapter summarizes the operations and results of the Dallas program. Succeeding chapters discuss the development and approach of the Dallas program in greater detail--its administration, the types of services provided to the Dallas Police Department, the costs of those services, and the project's monitoring and evaluation systems. 3
+
+Director Edwin Heath
+
+1.Project Summary 
+
+The Dallas Legal Liaison Division is composed of the director sworn officer who is also an attorney and four Assistant Dallas
+
+City Attorneys on temporary assignment to the Police Department. 
+
+Each staff attorney takes primary responsibility for providing legal services to specified divisions of the department, and assumes certain areas of the substantive law as specialties for the purposes of training and monitoring legal developments. The services provided include: 
+
+24-hour-a-day case consulting, over the telephone or on the scene. At least one attorney is available on call at all times to answer specific questions of officers on patrol. As more general questions arise, project attorneys prepare policy statements and memoranda for distribution within the Department. 
+
+Legal review of every case prepared for prosecution.
+
+All prosecution reports are reviewed for legal sufficiency before they are submitted to the District Attorney's Office. In addition to reviewing documents, the project's lawyers consult with patrol supervisors and investigators on developing and ongoing cases, responding to any legal questions raised.
+
+Any assistance needed for warrant or affidavit preparation.
+
+Training in all relevant aspects of the law, for new recruits, auxiliary police and veterans in service. 
+
+Legal Liaison lawyers give approximately 74 hours of classroom training to each recruit class and to each reserve or auxiliary class. They conduct regular courses for new jail supervisors (police sergeants) as well. And several attorneys teach legal subjects at the nearby regional police academy for officers in similar jurisdictions.
+
+Timely advice regarding changes in statutes and court interpretations.
+
+Legal support to police administrators and the Department as a whole. Serving as in-house counsel to the 
+
+Department, the Division assists in developing legislative reform proposals, reviewing claims against the department, assisting in representation of the department in court, and dealing with other criminal justice agencies on special projects.
+
+A key element in the legal services provided for line police officers is the review of legally important case documents prepared by the police, including "prosecution reports" which provide the basis for court complaints, supplemental prosecution reports which present the results of additional investigations, search and arrest warrants and officers' affidavits for warrants. With very few exceptions, all of these documents are reviewed by an attorney before presentation to a court or prosecutor for action. All felony and misdemeanor cases which fail to produce convictions are also reviewed to detect any avoidable police error which may have contributed to the disposition. 
+
+In providing this service, the Dallas program successfully integrates two parts of the criminal justice system that often operate in isolation the police and prosecutor. The necessity for police agencies to become involved in criminal case follow-up has been emphasized by the National Advisory Commission on Standards and Goals, Report on Police: 
+
+"Sequential processing of defendants through the criminal justice system has contributed to the common but erroneous belief that, except for appearance as witnesses, the police function ends when a criminal complaint is issued. This belief thwarts efforts to improve the effectiveness of the criminal justice system. The concept of a criminal justice system requires that the police have a greater influence on the overall processes than merely serving as the system's intake point."
+
+By reviewing all cases prior to filing and determining what happens to those cases that are not prosecuted, the Dallas program fully addresses the recommendation of the Commission that police agencies undertake a more active role in the disposition of criminal cases. 
+
+Their diligent performance of these tasks is one reason the project has the full support of the City Attorney and the District Attorney.
+
+The project's accomplishments are considered in greater detail in Chapter 8 of this document. To summarize here: Dallas police, police administrators, prosecutors, and others agree that the presence of project attorneys has contributed significantly to improved police performance, and the available evidence suggests that fewer cases now fail due to avoidable police error. Increased convictions, although important, are not the only measure of
+
+the project's success. More informed decision-making by police in such sensitive areas as arrest and search and seizure means greater respect for the Constitutional rights of individuals.
+
+CHAPTER PROJECT DEVELOPMENT 2.1 Project History 
+
+Like many other ongoing programs which attempt to meet important needs, the Dallas Legal Liaison Division has evolved organizationally and functionally over time in response to changes in the needs of the Dallas Police Department as well as the unit's own efforts to experiment with different approaches to its tasks. 
+
+The precursor to the present Legal Liaison Division was estab lished in January, 1970, when Law Enforcement Assistance Adminis tration (LEAA) funding was obtained through the Texas Criminal Justice Council to support part of the expenses of a unit of two full-time attorneys--both sworn police officers--and a stenograph- These attorneys had four major functions: er. (1) (2) (3) (4) to provide legal and policy advice to the Chief of 
+
+Police and other command and supervisory personnel; to represent the Dallas Police Department in dealings with the City Attorney, District Attorney, U.S. Attorney, and other law enforcement officials; to aid the department's Director of Training in preparing and updating materials on legal subjects; and to assist in representing the department in legal proceedings, including a significant number of civil rights lawsuits.
+
+The Division maintained this configuration, and these functions, for about three years, during which period the attorneys became a valued part of the department's command structure. In addition to providing support to departmental policy makers, the Division developed for the police department a package of proposals for the 1971 state legislature, covering such law enforcement topics as wiretap authorization procedure, search and confession standards, bail criteria, and revisions in the statutory definitions of certain offenses. The Division's training activities widened to include not only preparation of recruit training materials but also "legal bulletins" distributed throughout the department to update officers' legal knowledge. The lawyers also found themselves, to a limited extent, advising investigators (detectives) and other officers on difficult developing cases. 
+
+The impetus for a change came from the Director of this earlier version of today's Division, now Director of the Legal Liaison Division. On the basis of his limited experience consulting directly with lower-echelon officers, he felt that legal counseling to police could be more effective if a larger number of lawyers were available to reach out to more members of the department. 
+
+The evidence of legal shortcomings by the line officers was ambiguous but suggestive--an increase in civil rights lawsuits against the police; 29 percent of the cases presented to the grand jury failing to gain indictments; a 20 percent dismissal rate for felony cases. Even though case filings were formally reviewed by supervising line officers before submission to the District Attorney, it seemed likely that a significant proportion of the case failures were due to legal failures of a correctable sort--improper searches, poorly drafted documents, "bad warrants," and so on. 
+
+Therefore, an expansion and reorganization of the Legal Liaison Division was planned and funded under the LEAA "Impact" crime reduction program. The primary goal was to attack head-on the problem of failed cases--charges brought by police which did not result in convictions. The new Division would provide more legal services to line officers and investigators, in order to intercept police legal error before it occurred (through a strong training program and daily legal consultations) or at an early, correctable stage (through case and documents review). 10
+
+The Division's reorganization was effective in March 1973. In addition to the two police attorneys, four Assistant City Attorneys, selected by the Director of the Legal Liaison Division and approved by the City Attorney, were added to the unit and assigned as follows: 
+
+(1) (2) (3) One to assist and support the Patrol Bureau and the five patrol substations.
+
+One to advise the investigative divisions (Criminal 
+
+Investigation Division and Vice Control Division). 
+
+One to be the principal liaison with the District 
+
+Attorney's Office. 
+
+(4) One to assist the others as required. 
+
+Upon the
+
+Within a few months, it became obvious that these assignments had resulted in uneven workloads for the attorneys. In addition, changes in state law, effective in 1973, suggested the usefulness of developing an expertise in drug abuse and family law. retirement of one of the two sworn police officer attorneys, the position was converted to that of an assistant city attorney. At this time, assignments were changed so that each of the five assitant city attorneys was assigned to one of the five Patrol Divisions and to one or more specialized police bureaus, with the fifth attorney covering relations with the District Attorney as well as advising assigned bureaus. 
+
+At this point, the Legal Liaison Division achieved a basic organizational design which met the department's needs, and which has remained in effect ever since. Generally, each attorney is responsible for the following: advising one or two patrol divisions; advising at least one non-patrol bureau; and mastering certain substantive legal specialties. 
+
+From time to time, the assignments of attorneys to divisions and bureaus have been changed in response to changes in the Legal Liaison Division and in the department. For example, one of the initial attorneys retired in 1973, and assignments were modified to adapt to the presence of his less experienced replacement (another Assistant City Attorney) on the staff. At one point, the department's Tactical Division changed its orientation in such a 11
+
+way that less legal advice was required, so assignments were changed to equalize the workload among the lawyers. For another period, a "decentralization" experiment in one substation was accompanied by the assignment of one attorney full-time to that patrol unit only, with his office physically located there. 
+
+At the end of the LEAA grant, two Assistant City Attorneys resigned from the Division, one to become First Assistant City Attorney in another city and one to accept a promotion within the City Attorney's office. As of the end of October, 1975, then, the 
+
+Division has assumed a new configuration, with all the costs supported by the city. This organization is as follows: (1) The project director (the only police department employee) is responsible for administration and management, and is the chief contact with the 
+
+Chief of Police and Deputy Chiefs; (2) (3) (4) (5) A "coordinating attorney" supervises the investigators in the District Attorney Liaison Unit, advises the Intelligence Division and two patrol divisions, and acts as deputy director;
+
+Another lawyer advises the Youth Section and one patrol division;
+
+A fourth attorney is assigned to (and has his office in) the Criminal Investigation Division and to a patrol division; and
+
+The final lawyer advises the Traffic, Vice, and 
+
+Special Operations Divisions as well as one patrol division, and supervises the Municipal Court Liaison 
+
+Unit of investigators.
+
+The present attorneys feel that, although this organization represents a reduction in the size of the unit to its 1973 level, the quality of service provided will continue to be high. They report that, with the most common types of "police legal errors" now brought under control, and with many of the present officers in the department having been trained and re-trained in legal matters by the Legal Liaison Division, the need for legal services has reached a level at which a five-lawyer unit can continue to handle all the work. 12
+
+2.Goal Setting and Revision 
+
+Just as the Division's organization has evolved, so also has its view of its goals. When a lawyer unit first appeared in the department, as noted above, advising top officials, liaison, and assisting in training were regarded as ends in themselves. With the 1973 expansion and reorganization, the department and the project's funding agency sought more measurable objectives, conceptually closer to the actual "payoff" of crime reduction. Reducing grand jury no-bills and felony and major misdemeanor dismissals were therefore adopted as key statistical goals. 
+
+(To make the relationship explicit, these measures are connected to crime reduction by the assumption, upon which the criminal justice system is built, that convicting offenders will create a deterrent to crime.)
+
+Only a few months' data were required to establish that police error was directly accountable for only one-sixth of the no-bills and six percent of the dismissals, with most of the others due to such usually uncontrollable factors as refusal of complainants to prosecute, unavailability or uncooperativeness of essential witnesses, or special conditions of the defendant (insanity, incarceration, or demise). The project was thus forced to revise its objectives to focus only on police-caused no-bills and dismissals, the prosecution failures reachable by the program's efforts. 
+
+The department in its 1970 review also devised a number of activity measures and projected target levels for these activities to guide the efforts of the Legal Liaison Division. These activity measures, considered more thoroughly in Chapter Eight, included such statistics as the number of prosecution reports reviewed and the number of class hours of training provided. 
+
+With experience, the targeted levels of some of these measures have also been revised. Achievement of several of the activity goals has been limited by factors beyond the control of the Legal Liaison Division--for example, the Division cannot review more supplemental prosecution reports than the department prepares. 
+
+Therefore, these "goals" are now stated in percentage form as well as absolute numbers, so that, for example, the unit's goal is to review 100 percent of the reports filed rather than to review a set number. 13
+
+Other activity goals have even been eliminated altogether. For example, the Police Department conducted an intensive community relations program beginning in 1972, which included numerous visits by project attorneys to community group meetings and precinct citizens council meetings. Legal Liaison attorneys eventually concluded that, while the program may have been valuable, its time demands were simply too great to justify intensive attorney participation; thus, the amount of time devoted to meeting with community groups is now limited to a few critical situations. 
+
+With the ending of federal funding of the legal unit in October, 1975, none of the project's operating goals has changed. 
+
+2.3 Establishing Rapport 
+
+Much attention was devoted at the project's outset to the effort to establish healthy relationships with line officers and investigators. Liaison Division personnel heard reports of significant opposition to the program, with the predictable themes including police resentment of civilians, suspicion of innovation, distrust of lawyers, anger at seeing younger and less experienced personnel being paid at higher rates, unwillingness to have a non-police officer "tell me how to do my job," chafing at the restrictions on police operations which lawyers have devised and stand for, and so forth.
+
+It was essential for the Dallas program, which is explicitly aimed at the needs of detectives and patrolmen, to overcome this initial hostility as quickly as possible and to establish a confident attorney-client relationship. To do this, the attorneys stressed their independence of the top "brass," as evidenced by their Assistant City Attorney status, and tried to spend as much time as possible advising investigating officers on developing cases. 
+
+Consequently, good relations with detectives were established fairly quickly.
+
+Establishing rapport with field services or patrol officers was somewhat more difficult. It was aided significantly by several factors: the June, 1973 assignment of the attorneys to specific patrol field stations; the placement of one of these attorneys in 14
+
+an office in a station headquarters; the passage of the revised 
+
+Texas Penal Code (effective in January, 1974), which generated considerable uncertainty among the field officers and gave the project attorneys an opportunity to demonstrate their competence and usefulness to the patrol officers; and the approach taken by the project attorneys in dealing with patrol and investigative officers.
+
+Assigning specific attorneys to specific departmental units serves several purposes. First, it provides the basis for personal identification by giving the police officers in each unit one name and face to remember and to call upon, instead of an anonymous "legal unit" and a telephone number. From the lawyer's point of view, having one or two units to concentrate on makes the task of establishing good personal relationships easier; the target group with which the attorney must become familiar is clearly defined and reasonable in size. This assignment system reduces the possibility of inconsistent advice being given by different lawyers, through either inadvertence or "attorneyshopping" by officers. It also facilitates the development of substantive legal specialties by the attorneys in areas corresponding to the chief enforcement concerns of their assigned units. And, by making it clear to the lawyers and officers that advising the officers in specified units is the primary responsibility of the assigned attorneys, this system avoids the appearance and the actuality of a legal unit serving primarily as assistants to the Chief.
+
+The 1973 revision of the state penal law was, in a sense, a stroke of luck for the legal unit. The overhaul of the statute so comprehensive, with numerous substantive changes being accompanied by complete renumbering of the sections, that the need for retraining was obvious. The Legal Liaison Division stepped in, developing a three-day review course which was given to every sworn officer in the department, including the Chief. 
+
+Teaching responsibilities for the course were divided among the attorneys. The training sessions, each teaching about 60 officers, were conducted at the rate of two a week for about four months before every officer was reached. In conjunction with the course, complete booklet copies of the revised code were provided for every member of the department. 15
+
+Conducting this course for the officers was clearly a useful training program, but it had additional value to the legal advisors. It demonstrated the usefulness of the lawyers to the officers; it exposed every officer to all of the lawyers; it showed the expertise of the attorneys in a critical area; and it demonstrated the concern of the attorneys with protecting and assisting the police rather than "second-guessing" them.
+
+In their contacts with detectives and patrol officers, the lawyers emphasized several crucial policies which aided them in developing trust, including the following:
+
+The Division's emphasis on protecting officers, both by giving advice designed to minimize risk to police and by continuing to support and represent any officer who follows their advice.
+
+The attorneys' availability 24 hours a day, and their willingness to come to any scene if called. 
+
+The orientation of the staff attorneys toward serving line detectives and officers, and away from management and internal investigations duties. 
+
+The lawyers' independent status as Assistant City 
+
+Attorneys and the advisory nature of their opinions.
+
+Along with these policies, the lawyers also stressed their responsibility to see that "things are done right," both because of the inherent weakness of legally deficient or tampered cases and because of the attorneys' professional ethics. The tone of the attorneys' approach was, "If you make a bad arrest, I'll throw it out. .
+
+I won't report you, but I won't ignore the bad arrest either. If you make a good arrest, or even a questionable one, especially if it's on my advice, I'll back you up completely.' 11 Beyond representing the Legal Liaison Division favorably to the officers, each attorney adopted his or her own approach to getting to know the assigned unit's personnel. Frequent informal visits as well as evening and weekend riding on patrol were common. One attorney volunteered to accompany officers enforcing critical search warrants which he helped draft. Another went through the entire recruit training curriculum before assuming his patrol unit assignment. One attorney wrote an article for 16
+
+the department's in-house newspaper on the need for police officers to have wills.
+
+The Dallas Legal Liaison Division and the department's officers now report a healthy professional relationship between officers and attorneys. The police clearly see the project attorneys as "our lawyers" and have reportedly called on them in cases ranging from complex vice investigations to personal legal problems. 
+
+2.4 Developing an Attorney-Client Relationship 
+
+An attorney can represent the interests of a client most effectively only with the client's confidence and trust. When a client withholds information or provides deliberately misleading accounts of past events, the lawyer, and therefore the client's interests, are especially vulnerable to adversaries. To achieve the trust of clients, lawyers must demonstrate that they will observe scrupulous confidentiality and that they have no conflicting partisan interests.
+
+These generalizations are equally valid for the police attorney. 
+
+Here, the clients are the police department and its officers. 
+
+Thus, the attorneys must show clearly that within the constraints of professional responsibility, they have no client other than the police. They must honor their pledge of confidentiality to their clients. And they must vigorously protect their clients' interests, while equally vigorously demanding of them scrupulous observance of their legal responsibilities. 
+
+There are several factors which might operate to discourage the development of a sound attorney-client relationship between police attorneys and police, and which should be guarded against. 
+
+One is the identification of the attorney with one level or façtion within the department. This danger is particularly acute when, as is typically the case, there is a divergence of interest between line officers and departmental "brass." With the police chief or commissioner making the attorney hiring decisions and setting the legal advisor's priorities to a major extent, the implication that the lawyer is a "shoo-fly" or a management representative is difficult to avoid. It is a virtual certainty for any attorney who represents the departmental management in collective bargaining, grievance, or internal disciplinary proceedings. 17
+
+The Dallas program has made a marked effort to eliminate any impression that the project attorneys may be management representatives. Only rarely do any of the attorneys participate in salary negotiations, grievance proceedings, or disciplinary hearings. 
+
+The attorneys (except one) are City Attorney employees on assignment to the police department, with no formal stature in the department's command structure. Their assignments to operating units, with each attorney highly accessible to his unit, have been described, as has the emphasis placed on legal service to the line units.
+
+Other police officials will recognize that this solid attorneyclient relationship with the line officers and their supervisors has been accomplished at some cost. As noted above, the project attorneys are somewhat restricted in their availability to management for some of those functions which house counsel in a private-sector corporation would ordinarily handle. To the Dallas department, this focus on line operations is in keeping with the belief that the most important area in which legal counsel can improve police operations is the day-to-day functioning of the officers who interact most with the public and investigate, arrest, and charge most offenders.
+
+Of course it is not impossible for management to use specific project attorneys judiciously for internal discipline matters without significantly harming the attorney's credibility within the department. The line officer's attitude can be, "They're my lawyers and they represent me as best they can--but only if I try to stay honest. In a large department, different attorneys might handle different matters, with those assigned to field units completely excluded from the more management-oriented assignments. 
+
+The Dallas approach has been, for the most part, to limit toplevel contacts to the project director. 
+
+The important thing to recognize here is that police attorneys of the kind this report emphasizes -- on-line advisors and field staff trainers, concentrating on the reduction of avoidable police error may find it difficult to establish a solid rapport with field services staff without taking some steps affirmatively to establish their independence. The kinds of steps taken in Dallas have been mentioned and other rapportbuilding ideas may occur to others. 18
+
+2.Assessing the Need for Police Legal Advisors 
+
+No short formula will tell a police department or other law enforcement agency when it needs in-house legal counsel. In deciding whether to allocate scarce dollars to legal advisors instead of some other use, the planner or administrator should attempt to analyze his particular situation from several perspectives.
+
+One way of looking at a department's need for legal advisors should probably be rejected from the outset: there is simply no good way to analogize police departments to private businesses in this context. Although almost every other aspect of police administration could find a workable analogy in the private sector, there is no other organization whose staff have the same kind of day-to-day contacts with outsiders. Police professionals work, for the most part, independently or in pairs; their antagonists are clearly personally threatened, and thus the contacts between them are emotionally charged to the extreme; and yet the police must, as agents of the state and constrained by the Constitution, act with extreme restraint. The police need extensive legal training--training in criminal, not civil, law--and they need to rely on their training every day.
+
+Thus, the work of the line officer--the precise target of the Dallas police attorney program--is unique. Admittedly, the administrative legal needs of a police department are not so unusual; labor matters, probably the single most important such legal issue, are similar to union issues in private industry. But those legal needs are not the focus of the Dallas approach to legal advisors or of this report.
+
+Another avenue which might be explored in assessing the need for legal advisors is the comparison of one's own department to other police departments. Of course, this is a risky comparison as well; other departments may have more or less legal support from their City Attorneys, prosecutors and so forth, or they may have access to outside training facilities and not need in-house legal instructors, or they may face different and more or less complex kinds of enforcement problems. 19
+
+Probably the best way to assess the need for legal counsel in a police department is to focus on what counsel would do if hired and ask: 
+
+City attorneys, Is anyone else doing this task now? prosecutors, and police officers frequently bear certain responsibilities akin to those of legal advisors. Sometimes, they are readily available, expert, and professional. 
+
+If so, it is being done well enough and quickly enough?
+
+Non-police department legal advisors or experienced officers acting as advisors may not give police legal affairs their primary attention, and this may mean that police frequently have to act without counsel. 
+
+Could improvements be made without hiring police attorneys? In some localities, other agencies with a clear understanding of police needs may well be able to give adequate and timely legal advice. 
+
+If no one else is doing this task, what is the effect of its not being done? Is the detrimental impact great enough to justify the cost of bringing on new employees?
+
+Are there sufficient tasks available to keep the police attorneys fully and efficiently occupied? The answer to this question, of course, depends on an analysis of all the potential tasks of the legal advisors taken together.
+
+These questions should be considered in the context of each of the major possible areas of responsibility of the potential legal advisors.
+
+For example, one potential responsibility is legal training for police. At the least, the new recruit should be exposed to short courses in: state and local penal laws and ordinances, including elements of criminal offenses; administrative code regulations (fire, health, sanitation); 20
+
+warrant procedures and legal standards for the sufficiency of warrant affidavits; rules of evidence and courtroom procedure; laws and regulations governing the use of force; geographic and substantive jurisdictions of local, state, and federal law enforcement agencies; legal standards for the sufficiency of complaints; and liabilities for violations of police integrity.
+
+The materials used in these classes, while they need not be especially prepared by local personnel, should be reviewed regularly to take into account the effects of new local, state, and federal legislation and litigation. 
+
+Is the job being adequately done now? If not, there may still be alternatives to hiring a legal trainer. The training might be done at a state or regional police academy or a large nearby city. The updating of the materials may be manageable by a city attorney or an experienced police officer. What is the effect of not training adequately? Clearly, it is potentially very serious, and only in extreme situations could it be foregone. Would training keep an attorney or other staff member fully and efficiently occupied? In a smaller department, or one without regular recruit classes, probably not; but other duties might dovetail, as is the case in Dallas.
+
+If one potential task of in-house legal counsel is to intervene to reduce avoidable police error (incidences in which officers would have accomplished a conviction or some other departmental objective but for failure to observe some legal standard), a further inquiry of more general nature could be pursued. Specifically, it is advisable in most situations to attempt to measure the room for improvement before committing to a new program. In 
+
+Dallas, for example, the police department hypothesized that 29% of all Grand Jury prosecutions and 30% of all court cases might be susceptible to a change in result due to a vigorous police legal advisors program; in fact, smaller proportions were found to be police-related when more reliable information was collected. 21
+
+Whether or not the error which one's own survey might find is correctable, of course, is another question. The Dallas experience suggests that some police "legal errors" can be successfully prevented by better legal training or intercepted by lawyer screening. This may not be true to the same extent in every department, and those contemplating the establishment of a legal services unit may wish to review a sample of cases to make their own judgments.
+
+Finally, departmental decision makers will want to consult their memories and experiences. Have they received calls for answers to legal questions? Are field officers constantly guessing the answers in legally relevant situations? Is the City Attorney only interested in civil matters? Does that office react too slowly when asked for legal interpretations? Is there no one to turn to when a new and complicated law is enacted? Is the prosecutor's office too overworked even to provide feedback to officers when their cases are dismissed? Is anybody available to give realistic legal advice on enforcement questions?
+
+As the American Bar Association has noted: 
+
+Even in the largest cities in the country...municipal attorneys and their staffs tend not to become involved in the day-to-day operations of a police agency. As a result, municipal law offices do not develop the kind of expertise that is required if they are to be helpful in advising the police on the complicated issues and problems which they must confront. Advice, when rendered, is often based more on a textbook concept of police operations than on an understanding of the realities of police work. .
+
+Many of the most difficult aspects of the police functions involve complex legal issues which may not result in the invocation of the criminal justice process. Such matters, as critical as they may be, are outside the area typically of concern to the prosecutor.
+
+One additional concern for the administrator who has concluded that additional legal help is needed is how many attorneys to seek. The answer must depend on the situation what tasks the lawyers will be called upon to perform and whether they will have to start from scratch to do them. Nevertheless, 1975 IACP statis- 
+
+22
+
+tics, included in the Appendix, and the opinion of legal advisors in Dallas may be of some guidance. The survey data suggest that departments with fewer than 500 officers which have lawyers generally have no more than one advisor, and departments with 500 to 
+
+3,000 have one to four advisors. In Dallas, 2,000 officers are served by five lawyers, and a rule of thumb of one lawyer per 500 police has been suggested. 23
+
+CHAPTER ORGANIZATION & STAFF 3.1 Organizational Structure and Policy 
+
+The Dallas Legal Liaison Division occupies a dual organizational position. It is part of the Dallas Police Department, with its director, a sworn officer as well as an attorney, reporting to the Assistant Chief of Police/Special Services Bureau. However, its four other attorneys are Assistant City Attorneys on assignment to the Police Department not police employees. 
+
+These assistants are formally under the supervision of the Dallas City Attorney, who is responsible primarily for representing and advising the City in civil matters and for prosecution of minor criminal cases in municipal courts. Attorney hiring decisions are made jointly by the project director and the City Attorney. The Assistant City Attorneys are supervised on a day-to-day basis by the division director, but their personnel matters are handled by the City Attorney's office. In a sense, this double responsibility of the staff attorneys reflects the dual and often conflicting obligations of any attorney, to clients and to the standards of the profession. In the legal liaison division, there is no doubt that the client is the police department; the nominal legal superior, the City Attorney, recognizes this and limits his involvement with project attorneys to administrative matters and a largely reserved review authority. 
+
+The project attorneys are essentially divorced from the police command structure. The attorneys are advisory only; they do not have the authority to issue commands (although their memorandum opinions have the status of official departmental policy, once initialed by police superiors), and they are not subject to orders (except as citizens) from police field officers. Thus the attorneys, unrestrained by the tensions of superior-subordinate relations, are free to develop a more ideal attorney-client 25
+
+いい ​Assistant City Attorney Richard F. Seibert
+
+MR SEIBERT 
+
+26
+
+relationship with line personnel.
+
+When the costs of this project were fully assumed by the City of Dallas, in November 1975, this organizational structure remained unchanged. All the Dallas Legal Liaison attorneys strongly endorse this Assistant City Attorney form of organization, with the Division's director even recommending that his position be converted to an Assistant City Attorney job when he departs. In this opinion, the Dallas unit is in disagreement with the IACP's Guidelines ("unless the respected traditional attorney-client relationship breaks down in the public sector, and there is no reason why it should, police legal advisors should be hired, paid, promoted, disciplined, and dismissed by the chief of police"), the Task Force Report of the 1967 President's Commission, and the apparent implication of the ABA's Standards. 
+
+The argument against these authorities, and for the Dallas position, is that the police legal advisor is not really analogous to either a career police officer or a corporate house counsel. The police attorney should not be a departmental employee in quite the same sense as a planner or a deputy chief might be; the lawyer in the police setting must march both to the police beat and to the not-so-distant drum of his profession's standards and principles. And it is probably the latter obligation, the lawyer's adherence to professional standards, that is most threatened in an "inside" organizational position, especially inside a paramilitary organization such as the police department. Both 
+
+Presidential crime commission documents recognize this when they recommend hiring civilian legal advisors; but when they assume that non-departmental employees would be unacceptably divided in their loyalties, they ignore the possibility of a compromise inside/outside arrangement like the Dallas organization. 
+
+Similarly, the police attorney is also in a somewhat different position from corporate house counsel, the favored analogy of the ABA. The corporate house counsel is not (usually, anyway) a "civilian" in the domain of a special brotherhood, and he does have the opportunity (almost always) to refresh his professional objectivity through interaction with outside counsel. 
+
+The Dallas approach, then, is an effort to strengthen the police attorney's professional allegiance, while offering protection 27
+
+-- from the need to find a place in the police command and salary structure. Of course, the Dallas structure requires the cooperation of the City Attorney but in some cases this approach might have a special benefit. As several of the commentaries on police legal advisors note, the city attorney or his counterpart is frequently a source of opposition to the hiring of police attorneys, on the ground that advising the police is part of his office's responsibility, even though he may be ill-equipped to meet it. 
+
+By granting this point, the Dallas Police Department has gained the complete cooperation and support of their City Attorney, who now has in return a degree of additional personnel flexibility flowing from the presence of four more Assistant City Attorney positions, as well as the confidence that the police are receiving quality legal service without overburdening the City Attorney's other lawyers.
+
+Whether this form of administration is the best for any given jurisdiction will depend on such factors as the following:
+
+If The basic emphasis of the legal advisor program. the advisors are primarily to handle legal matters for departmental administrators, they will be identified with the administrators by the line officers in any event, and their relationship with officers in the field will perhaps be less critical to their success. 
+
+On the other hand, if support and counseling to line officers is the chief element of the program, as it is in Dallas, the attorneys may benefit from the independence which an extra-departmental affiliation can give. 
+
+The suitability of other agencies as employers. In 
+
+Dallas, the City Attorney was willing to adopt a handsoff approach to the day-to-day supervision of the attorneys, and thus conflict between representation of the police and of the state has not appeared. District attorneys are often elected officials, not uncommonly at loggerheads with the police and frequently extremely understaffed, and thus more likely to attempt to dominate the assignments of the project attorneys. 
+
+It is probably preferable in most places, as it was in Dallas, to obtain legal support and an administrative home for attorneys from the City Attorney, city solicitor, corporation counsel, or legal department. or, in smaller and more financially limited cities, the police may be able to call on the part-time services 28
+
+of an attorney shared with another department (e.g., the fire department or another nearby police department).
+
+The Dallas attorneys agree in principle with standards which stress the importance of having the legal advisors unit administratively subordinate only to the commissioner or chief of police. But their department's approach seems to have created no administrative problems. All the parties recognize that direct communication between the Chief and (at least) the head of the legal advisors unit is inevitably going to be frequent and direct. Routing all contact through the Deputy Chief would be impractical and unnecessarily inhibiting. Thus, the Deputy's role in practice has not been a strongly supervisory one, and the legal advisors unit appears to function day-to-day as if it were in the organizational position of the typical "house counsel," responsible to the chief executive and independent of any other lines of command, superior or subordinate, so that most of its relationships within the organization are advisory in nature. 
+
+It might even be argued that, when consultation with line investigators and field personnel is the primary thrust of the program, it could operate to the Division's advantage to occupy a somewhat less exalted position in the organizational hierarchy. The Dallas unit has discovered that investigators are reluctant to walk by the Chief's office to see an attorney, and similarly they may be less willing to consult an attorney who seems to be one of the "palace guard" than one in a lesser position. 
+
+3.2 Division of Responsibilities 
+
+As noted previously, the Legal Liaison Division has evolved through several organizational stages. As now constituted, it consists of the five attorneys, three clerical staff, and sixteen investigative and liaison personnel shown in the table of organization (Table 1). The attorneys' advisory assignments are indicated on the Dallas Police Department table of organization (Table 2). 
+
+The Division Director holds the city title of Director of Police a sworn position ranking between Captain (the highest rank 29
+
+TABLE Table of Organization, Dallas Legal Liaison Division November 1975 
+
+Assistant Chief of Police
+
+Special Services Bureau Director Legal Liaison Division 
+
+Coordinating Attorney (RFS) Stenog- graphers (2)
+
+Legal Advisor Unit District Attorney Liaison Unit 
+
+1 Sergeant 
+
+10 Investigators 
+
+Clerk
+
+Youth Section 
+
+Attorney (RAF) 
+
+Investigations 
+
+Attorney (JMK) 
+
+Vice, Etc. Attorney (DBR) 
+
+Note: Attorney's initials correspond to their assignments as indicated in Table 2. 
+
+Magistrates Unit 1 Sergeant 
+
+4 Police Officers 
+
+30
+
+TABLE Table of Organization, Dallas Police Department, November 1975, showing advisory assignments of Legal Liaison Division attorneys by initials (RFS, RAF, JMK, DBR).
+
+CHIEF OF POLICE Internal Affairs Division Inspections Division 
+
+Staff Services Coordinator
+
+EXECUTIVE ASSISTANT CHIEF OF POLICE Planning & Research Division 
+
+Fiscal Affairs
+
+Division Data Processing Division PATROL BUREAU Public Information Office 
+
+Training 
+
+Division 
+
+Personnel 
+
+Division SPECIAL SERVICES BUREAU SUPPORT SERVICES BUREAU 
+
+Central
+
+Division 
+
+Central (RFS) 
+
+Investigations (JMK) Division* 
+
+Northeast
+
+Division 
+
+(JMK) Community Services
+
+Identification 
+
+Division Property Division 
+
+Northwest
+
+Division Division 
+
+Detention (RAF) Services
+
+Traffic 
+
+Division 
+
+(DBR) Southeast
+
+Division 
+
+(DBR) 
+
+Division 
+
+Southwest
+
+Division Legal Liaison Division 
+
+(RFS) 
+
+Special Opera- Vice Control Division Report Division 
+
+Communications
+
+Division 
+
+(DBR) (DBR) 
+
+tions Division 
+
+Helicopter 
+
+Division 
+
+Intelligence 
+
+Division 
+
+Municipal 
+
+Court Unit (DBR) (RFS) 
+
+DA Unit (RFS) IIT Units (JMK) Youth Section (RAF) Includes Crimes Against Persons; Crimes Against Property; General Assignments 
+
+31
+
+-- assigned by examination) and Deputy Chief. He is selected by the Chief of Police and serves at his pleasure. The present incumbent served as an attorney/officer in the police department since well before the initiation of the present project. He is responsible personally for providing legal advice to the higher echelons of the department the chief, Assistant Chiefs, and other top-level officers. He also takes on special assignments from time to time as requested by the Chief of Police. The project director acts as principal liaison officer with the District Attorney and other criminal justice agencies, preparing departmental positions on legal aspects of police operations. And, of course, he is responsible for setting general policies for the attorney unit and supervising the work of the attorneys in general. 
+
+The Director of the Legal Liaison Division does control the work assignments of attorneys, but he does not handle general personnel matters for the lawyers that being the responsibility of the City Attorney. Hiring and salary decisions are made jointly by the Director and the City Attorney with the latter reserving final authority. The City Attorney is free to reassign the lawyers to other bureaus of his office but he does not expect them to work on any matters other than police problems while assigned to the police unit. (The qualifications and salaries of Division personnel are discussed in Chapter 7.) All of the Assistant City Attorneys are assigned both to specific units within the department and to geographical stations of the patrol bureau, as the tables of organization show. This enables the Legal Liaison Division to have an attorney assigned to each of the patrol divisions, and to develop expertise in specialized areas for special units of the department. Generally speaking, each attorney's responsibilities include: 
+
+Maintaining regular office hours and answering all relevant legal inquiries presented by those officers within his or her assigned units. 
+
+Reviewing all prosecution reports and supplemental prosecution reports filed by officers of his assigned units, usually before submission to the prosecutor or, if that is impractical, after they have been filed. 
+
+Developing and maintaining an expertise in a substantive area of relevant law (e.g., drugs, juvenile justice, 32
+
+or vice), keeping abreast of statutory and decisional developments, and preparing training materials and periodic bulletins on that specialty.
+
+Taking his or her turn in the 24-hour duty schedule, serving every fifth week on-call.
+
+Teaching from nine to twenty-one hours in each recruit training cycle (beginning every five or six weeks) and the same number of hours per auxiliary training cycle (spread over a year), in addition to teaching in in-service training sessions and assisting at the regional police academy. 
+
+The District Attorney Liaison Unit, composed of one police sergeant and ten police investigators, pre-dates the Legal Liaison Division. It was transferred en bloc and the expenses partly shifted to the division with the initiation of the latter's federal grant. The unit's primary responsibility is to assist the 
+
+Assistant District Attorneys in assembling information, keeping track of evidence, locating and notifying witnesses (including police officers), and so forth, in connection with pending Dallas Police Department-initiated cases. The sergeant and investigators are also responsible for reviewing grand jury "no-bill" cases and felony dismissals when necessary to compile the program statistics (discussed in Chapter 8). The District Attorney liaison unit does not ordinarily work with or for project attorneys (except to capture data), and its functions are logically different from those of police legal advisors (although its goal, increasing the number of convictions, is the same).
+
+Similar to the District Attorney unit in a way is the Magistrates Unit or Municipal Court Liaison Unit, which staffs the central police detention facility, performing many of the arrest processing functions described at the beginning of Chapter Four. 
+
+This unit consists of one sergeant and four police officers, plus additional officers on limited-duty assignment from time to time. 
+
+The clerical staff of the Legal Liaison Division includes two secretaries, who work in the central Legal Liaison offices, doing all the attorneys' clerical work and typing. In addition, a third clerical staff member works primarily with the District 
+
+Attorney Liaison Unit, performing the typing and clerical tasks 33
+
+necessary for collecting case disposition information from District Attorney and court records, and handling the distribution of subpoenas for police officers.
+
+The division of responsibilities among project attorneys is designed to encourage the creation of solid rapport between the lawyers and their clients in each part of the department by giving the impression and encouraging the reality of attorneys who are more a part of their assigned bureaus in day-to-day operations than members of some remote "general counsel's office," while still permitting the development of in-depth expertise in critical areas of the law. By spreading the responsibility for training among all the attorneys, the disruptive effect of hiring cycles and variations in the sizes of recruit classes is minimized. 
+
+Similarly, when legislative sessions end, the work of reviewing statutory changes in relevant areas is divided among the staff attorneys.
+
+In other jurisdictions, particularly those with smaller departments, the number of attorneys implied by this type of assignments policy might not be affordable; however, with a smaller number of personnel to train and counsel, a smaller contingent of attorneys could probably establish the same degree of rapport. 
+
+The cyclical effects of training might also be mitigated by the use of outside training assistance or delegation of some training responsibilities to police officers (for example, the provisions of the municipal code with which an experienced officer would be familiar).
+
+In a large city, however, the Dallas Legal Liaison Division's assignment strategy has a great deal of appeal. Perhaps the only significant weakness of this approach is that it leaves the staff attorneys largely free of supervision. In order to maintain high standards of legal service, and to avoid having the field attorneys lose their professional objectivity, the Dallas approach requires staff lawyers of high quality, well compensated, preferably with sufficient experience to prepare them for professional independence. 34
+
+3.The Legal Advisor “Law Firm" 
+
+The attorneys of the Dallas Legal Liaison Division emphasize that they try to work together as a "law firm." Work responsibilities are divided among the lawyers as outlined above, and yet a great deal of flexibility remains, with each attorney available to all the others for consultation and for helping out whenever one attorney has an unusual amount of work. For example, if an attorney has a stack of prosecution reports to review and is engaged in a meeting, another lawyer may take the reports and check them so that they can go to the District Attorney in the morning rather than the afternoon delivery.
+
+Besides helping each other out, the lawyers also try to "back each other up," that is, to avoid taking inconsistent positions or criticizing one another outside the "law firm." Officers have on occasion gone "attorney shopping," calling more than one lawyer in the Legal Liaison Division with the same problem, and the attorneys try to stay alert to this possibility. Whenever an officer from one of the other attorneys' assigned units calls, the answering lawyer asks whether the assigned attorney was consulted and what answer he gave. When the lawyers disagree, they will confer with each other, and frequently with the other attorneys as well, and arrive at a single opinion which becomes the "firm's" position and it is followed by all the lawyers. Within the Legal Liaison "law firm, decisions are made in collegial fashion whenever possible. On major legal (as opposed to administrative) matters, each attorney has an equal voice and all opinions are reached more or less by consensus. The candid and forceful discussion which is necessary for this kind of decision making is encouraged, Division staff agree, by the fact that the staff attorneys are civilian Assistant City Attorneys. 
+
+3.4 Staffing
+
+From the time that the Legal Liaison Division expanded and assumed its present focus in March 1973, through the end of federal funding for the Division in 1975, the unit has seen ten different attorneys, of whom five remain. The five who left did so for a variety of 35
+
+reasons: One retired after a full career as a police officer and police attorney; one was fired after three months; one resigned after three months to become an aide to the Governor; two stayed about two years and then resigned, one to become First Assistant City Attorney in another city and one to accept a promotion within the Dallas City Attorney's Office.
+
+All of those who remain now have roughly two to three years experience in the job (except the Director, a career police officerattorney). The five present attorneys include two who are relatively young and three who have 15 years or more of lawyering experience; four men and one woman. Their educational and employment records include the following:
+
+The project director, who has a Master's degree in addition to his law degree, twenty years of experience in police and legal capacities in addition to two years as a deputy sheriff, past and present part-time faculty positions in law enforcement, and several pertinent publications; • A former law teacher holding both the J.D. and LL.M. degrees and now a candidate for the S.J.D. (doctorate in law); 
+
+An Army Judge Advocate General's Corps veteran with advanced legal training and years of practice, civil and criminal (both as prosecutor and judge); and
+
+Two former municipal court prosecutors (Assistant City Attorneys).
+
+The hiring process which produced these lawyers was a joint effort by the Division director and the City Attorney, with the former generally doing the recruitment and initial contracts and interviews, and then both interviewing and agreeing on final hiring decisions. In recruiting attorneys, no notices of the openings were published, although the personnel register of the ACP's Legal Officers Section was consulted. Most of the hiring followed word-of-mouth recruitment through the City Attorney's office (from which two Assistant City Attorneys were transferred to the Division), Dallas law schools, and state and local government. 
+
+In choosing attorneys, the unit's director, of course, sought fundamentally competent attorneys; but beyond that, he emphasized two key factors experience and maturity. 36
+
+The candidate's prior experience in the criminal justice system or related fields was weighted heavily, though not decisively, in the decision. With a newly reoriented legal advisor program, now suddenly much more involved in the police department's dayto-day activities, there would simply be no chance for fresh law school graduates to be "brought along," learning from their elders and from their experience in their jobs. In the first place, there would be no elders from whom to learn; nor would there be a "job" to learn, since much of the job would have to be defined over time in response to the demands placed on the lawyers by their clients. Floundering would be unacceptable for the police officers, whose experience is unquestionably deep, would try the new lawyers both by design and as an incident of their requests for advice, from the first day of the new lawyer's work. 
+
+Thus, the Legal Liaison Division has concentrated on finding attorneys experienced in the criminal justice system, ideally as a prosecutor since former.defense attorneys might create compatibility problems. Also important is having some experience in an administrative system, since the processing of cases and documents both in the police department and in the criminal justice system generally is procedurally complex. 
+
+The second key factor, personal maturity, is harder to assess in a candidate, but it is even more essential to job survival as a police legal advisor. Police officers always test new colleagues (rookie policemen, chiefs, civilian lawyers) before accepting them. Passing this period of testing requires the ability to deal with the unexpected. So, for that matter, does responding to fast-moving enforcement situations. Again, the new lawyer's ability and judgment at the outset are most important; doing the job of a police legal advisor well requires acceptance by the clients, and acceptance is either won or lost in the beginning. 
+
+There is no time for emotional and judgmental maturation on the job.
+
+Thus, the Division has avoided recent law school graduates so far. 
+
+Now that the program is well-established, however, it is conceivable that a freshly minted lawyer of high competence might possibly be assimilated into the unit through a careful and somewhat protective approach. 37
+
+Obviously, the generalization that higher salaries attract better people is true in hiring a lawyer for the police. The Dallas 
+
+Legal Liaison Division has, from the 1973 start-up onward, paid well, and personnel there feel that this policy has resulted in the Division's attraction of attorneys. One lawyer suggested that the most important rules to observe in running a legal advisors unit may be simply: pay good money, get good people, and work them hard the rest will follow. Exactly what "good money" is will vary between locations. In Dallas, the legal advisors' salaries are generally competitive with those of attorneys in private practice or other governmental positions (Chapter 7 discusses salary-setting in more detail). In addition, the availability of an assigned vehicle 24 hours a day and the substantial city fringe benefits package (reportedly worth 25% of an employee's salary) are "sweeteners" which have proven their attractiveness in Dallas. 11 After hiring good lawyers, an administrator's next concern is retaining them. In Dallas, moderate staff turnover has occurred, and continued turnover is probably inevitable. The Dallas unit, after all, is composed of well-qualified attorneys who are attractive to other employers, and the apparent opportunities for promotion within the Legal Liaision Division are small. The availability of promotion within the City Attorney's office (moves both to and from the Division have occurred) mitigates the "career path" problem somewhat. Dallas personnel report that the availability of this path has had a noticeable effect in adding to recruitment success. 38 38
+
+CHAPTER REDUCING POLICE ERROR 
+
+Reducing legal error in cases brought by the Dallas police is a general goal of the Legal Liaison Division which is served by almost all of the unit's activities. The undertakings most directly related to police error in court cases are those considered in this chapter: documents review, warrant assistance, and alerting members of the department to likely sources of error. 
+
+To understand the project's approaches to intercepting police mistakes, a brief sketch of the way in which cases are usually processed is useful.
+
+Most cases in Dallas begin with an arrest by a police officer in a field unit. Upon making the arrest, the officer gives the suspect his Miranda warnings, using a printed card; makes an on-scene investigation, collecting evidence and talking with any witnesses in the area; and then takes the prisoner to a police jail, usually the Central Division in downtown Dallas. At the jail, the officer completes an Offense/Incident form, the basic form on which offenses are reported, and an Arrest Report giving details of the arrest and offense alleged. The Sergeant on duty as the "Jail Supervisor" is presented with the arrestee and the written forms. 
+
+The Jail Supervisor--who receives regular in-service training by the lawyers--is responsible for reviewing the Arrest Report and is expected to refuse any prisoner whose arrest does not meet a prima facie probable cause standard. Telephone calls to Legal
+
+Liaison Division attorneys at this stage are not uncommon; typically, the attorney will ask for the Arrest Report to be read verbatim over the telephone, and then may speak to the arresting officer or go to the jail if necessary before giving an answer. 39
+
+When a prisoner is accepted by the jail supervisor, the arresting officer returns to his post and the prisoner is photographed and finger-printed, and his criminal history retrieved from departmental or state files. As soon as the "rap sheet" is obtained, the prisoner is taken before a Magistrate, a Municipal Court judge who sits in a courtroom adjacent to the jail. There the prisoner is "magistrated," using a Magistrate's Warning form. This proce- dure, initiated partly as a result of a consent decree entered in a Federal District Court class action suit against the Dallas Police Department, involves reading the charge and specifics to the defendant, advising him of his rights in some detail, and setting a bail amount. Magistrates are available from 8 a.m. to 2 a.m., so almost all defendants appear before a magistrate shortly after arrest. A few of those reaching the jail after 2 a.m. are released before 8 a.m. through the efforts of their attorneys, who can have bail set and obtain writs for release ex parte from any Municipal 
+
+Court judge.
+
+After magistrating, the prisoner is permitted to make telephone calls while copies of the papers detailing his case are delivered to a police investigator, a member of the Criminal Investigation Division unless the case falls in a special category such as vice or drugs. The investigator is responsible for putting together the department's case. Under the consent decree noted above, the department has agreed either to file a case or to release the prisoner within 24 hours of arrest, not counting weekends, with occasional 24 hour extensions in complex cases. "Filing a case" is accomplished by preparing a Prosecution report form and submitting it to the District Attorney (except for traffic cases and minor misdemeanors, which are prosecuted by the City Attorney's office). 
+
+Prosecution reports contain all the information included in a complaint plus accounts of who the witnesses are and the facts to which each of them can testify. From the prosecution report, an assistant prosecutor prepares the necessary court document (complaint or grand jury bill), which is signed for the Police Department as complainant by a court-assigned police officer. 
+
+Some cases, of course, begin with investigations rather than arrests and are handled from the outset by investigators, who are still responsible for preparing prosecution reports to initiate court activity. 40
+
+Legal Liaison attorneys are inserted into this process by virtue of the requirement, embodied in a departmental General Order, that all prosecution reports for offenses other than traffic, internal corruption, and minor misdemeanors be approved and signed by an attorney before submission to the District Attorney. 
+
+4.1 Reviewing Filings 
+
+The procedure for reviewing prosecution reports is straightforward. 
+
+After preparing any prosecution report or supplemental prosecution report (with the exceptions noted above), all officers in the Police Department send the reports to the Legal Liaison office, where they are logged in and routed to the lawyer assigned to the unit which prepared the report. Those reports prepared by police officers which are free of legal error and, in the opinion of the project attorney, present legally sufficient facts are then submitted to the District Attorney's office for filing with the appropriate court. If the first draft of a report is not adequately prepared, it is returned to the police officer who prepared it for revision, and then filed or not depending on whether adequate corrections can be made. In a very few cases, reports have been filed without consultation with project attorneys due to time constraints; however, project attorneys then reviewed copies of the reports within a day or so of filing and recommended any revisions which they felt were necessary (and possible, in view of the fact that the reports had already been submitted). 
+
+The total number of prosecution reports reviewed per month sometimes exceeds 2,000, as shown in Table 3. 
+
+Project attorneys report that at the project's inception and thereafter a substantial number of prosecution reports were being rejected by the Division lawyers. Now, however, they say that only a handful less than half a dozen in an average week "kicked back," indicating great improvement in the department's report-writing abilities. 
+
+are In reviewing a report, a lawyer will usually concentrate first on the charge listed and the summary of the facts given to support the charge, ensuring that the two match. Then he examines all the 41
+
+TABLE Number of Prosecution and Supplemental Reports Reviewed 
+
+April, 1973 1,149 
+
+August, 1974 1,929 
+
+May, 1973 976 
+
+September, 1974 1,723 
+
+June, 1973 946 
+
+October, 1974 1,898 
+
+July, 1973 1,548 
+
+November, 1974 1,713 
+
+August, 1973 1,917 
+
+December, 1974 1,796 
+
+September, 1973 1,376 
+
+January, 1975 2,039 
+
+October, 1973 1,625 
+
+February, 1975 1,719 
+
+November, 1973 1,474 
+
+March, 1975 1,883 
+
+December, 1973 1,674 
+
+April, 1975 1,877 
+
+January, 1974 1,636 
+
+May, 1975 1,862 
+
+February, 1974 1,632 
+
+June, 1975 1,897 
+
+March, 1974 1,709 
+
+July, 1975 2,055 
+
+April, 1974 1,752 
+
+August, 1975 2,032 
+
+May, 1974 1,872 
+
+September, 1975 2,153 
+
+June, 1974 1,594 
+
+October, 1975 2,083 
+
+July, 1974 1,800 factual accounts in the report to make sure that any inconsistencies are explained. For example, in numerous cases suspects give one name when arrested, while their criminal histories are found under another name; the report must explain this and establish that the two names do in fact both apply to the same individual. 
+
+Certain accompanying documents are also given close scrutiny, including especially search warrants and affidavits and statements made by the accused. Under Texas law, only written confessions (and confessions which lead to and are corroborated by the discovery of other evidence) are admissible, and even these statements may confess to only one criminal incident. The Dallas Police 
+
+Department uses a printed form to record statements of defendants. 
+
+The remainder of the form is examined, in search of any defect. 
+
+The kinds of mistakes discovered in prosecution reports are suggested by the project's evaluation report for the first 18 months of its operation, which presented the following comprehensive list of occasional police errors: 42
+
+a) Failure to provide complete information regarding victims of the crime and witnesses thereto (full names, complete home and business addresses, other places where they may be contacted, etc.). b) Failure to perform necessary laboratory examinations, lack of reports on findings when examinations are performed, omissions of names of physicians conducting such examinations, and failure to state that such examinations have in fact been conducted. c) 
+
+Failure to notify the grand jury or the District
+
+Attorney's office concerning information developed as a result of investigation carried out after the case has been filed but before grand jury hearing. d) Illegible signatures on criminal complaint forms.
+
+Failure to make available to the grand jury information concerning a defendant's prior arrest and conviction records. e) f) g) h) 
+
+Failure to obtain proper identification of a suspect by means of a line-up following arrest. 
+
+Failure to state where property is discovered and the value of such property.
+
+Failure to state that property has been recovered. i) Failure to file supplemental or follow-up reports. j) k) Failure to follow up on witness leads and failure to interview known witnesses.
+
+Failure to question witnesses properly and to summarize their testimony adequately in written reports. 1) 
+
+Failure to obtain complete testimony of m) n) eyewitnesses.
+
+Failure to state the name of a parent in a juvenile case in which the name of the juvenile involved is different from that of a parent. 
+
+Failure to cross-reference companion charges properly. 43
+
+o) p) q) r) 
+
+Failure to cross-reference cases involving two or more defendants.
+
+Filing of cases on co-defendants without proof or corroboration to substantiate a companion case. 
+
+Failure to note the basic elements of a crime, with narrative describing an inadequate chain of events. 
+
+Failure to charge individuals as repeat offenders when they so qualify. s)
+
+Filing of lesser charges when a greater offense could be filed. t) Failure to state that a warrant of arrest or a search warrant was used to recover evidence. u) v) w) x) Failure to specify what was contributed to the case by each of the officers at the scene of the investigation. 
+
+Failure to develop information showing specific intent to commit a crime.
+
+Improper taking of written statements made by defendants.
+
+Failure to show possession of stolen articles in cases of burglary and theft.
+
+In addition to this list, several other types of police errors (not prosecution report errors) leading to possible in-court dismissals were noted. a) Improperly drawn and executed search warrants. b)
+
+Poorly written arrest and offense reports. c) Failure to list all witnesses to a crime. d) Incomplete summaries of witnesses' statements. e) Lack of positive identification of the accused by witnesses and victims. 44
+
+f) g) h) i) j) 
+
+Failure to record incriminating statements made by the accused, such as spontaneous statements made at the time of arrest and/or the time of the crime. 
+
+Failure to report supplemental information developed after filing and grand jury hearing.
+
+Lack of pre-trial coordination with District 
+
+Attorney's office. 
+
+Lack of case review prior to trial.
+
+Lack of knowledge on the part of the officers as to admissibility of evidence at trial. k) Poor presentation of courtroom testimony on the part of officers. 
+
+1) Poor procedures for collection, preservation, storage, notation, and examination of criminal evidence.
+
+The project's success in reducing errors of the types listed here is discussed in Chapter 8. 
+
+During the operation of the Dallas Legal Liaison Division as a grant-funded project, case filings review procedures focused particularly on "impact" or stranger-to-stranger offenses, defined primarily as "Part I" index crimes. With the institutionalization of the program as a city-supported operation, however, these distinctions will no longer be used and project attorneys will review documents filed in all cases except the three categories in which review has always been only at the election of a supervisory officer: that is, Traffic Division cases, Intelligence Division internal discipline and corruption cases, and minor misdemeanor cases filed in the municipal courts. 45
+
+4.Reviewing Warrants and Affidavits 
+
+Unless Warrants for arrests and warrants for searches and seizures are issued by courts upon the presentation of affidavits stating probable cause for the desired warrant. These affidavits must meet a particular legal standard which has been elucidated in a series of court decisions on the sufficiency of affidavits. the affidavit is prepared properly and includes sufficient information to support issuance of the warrant, all the evidence acquired through the use of the warrant will be excluded from any subsequent court proceedings. Moreover, the party seeking the warrant must prepare not only the affidavit but the warrant itself; an error in either document may forestall later conviction. 
+
+It cannot be assumed that any insufficient document will be rejected by the court; its most severe testing is likely to take place later at the hands of defense counsel. Therefore, it is critically important that affidavits and warrants be legally sufficient when submitted. 
+
+Since patrol officers almost never have the time to obtain warrants for the searches and arrests that they make, the warrant activity in the Dallas Police Department is centered in the investigative units. Investigators are not required to confer with the Legal 
+
+Liaison Division before seeking a warrant, but they are encouraged to use the lawyers in any unusual or troublesome cases.. When consulted, an attorney generally the one who has developed a research and teaching specialty in search and seizure law will usually review the entire case with the investigator and then draft the documents himself. The Legal Liaison Division reviews an estimated 12 affidavits for arrest and search warrants per month, perhaps a tenth of the total number of affidavits for warrants prepared by the Dallas Police Department. 
+
+4.3 Monitoring Police Error 
+
+The Legal Liaison Division's effort to reduce legal errors does not stop when prosecution reports and warrants have been approved for submission. All major Dallas Police Department cases are followed through the grand jury and court systems, both to check the performance of the documents-review procedures and to obtain insight into the specific areas in which police or lawyer 46
+
+David B.
+
+Rosen, Legal Advisor (right), conferring with 
+
+Sergeant James F. Brumit, Youth Section. 
+
+FILE 
+
+47
+
+improvement is needed. Monitoring is accomplished through cooperation between Division attorneys, police officers assigned to the 
+
+District Attorney Liaison Unit (part of the Legal Liaison Divi sion), and Assistant District Attorneys.
+
+Grand jury presentations and transcripts of them are confidential except for certain very limited purposes, and deliberations of the jurors are completely secret. Thus the reasons for failure to indict are sometimes impossible to determine. The Legal Liaison 
+
+Division has arrived at an understanding with the District Attorney, however, by which the Division receives a copy of the weekly grand jury report showing which defendants were indicted and which were not, and the Assistant District Attorney in charge of the grand jury informs the Division of his impression of the reasons for which no-bills were voted in the non-indicted cases. The reasons are couched in terms sufficiently specific in most cases to permit a judgment of whether "police error" was involved. If there is some question as to the grounds for decision, Division attorneys may re-read the case papers or ask the Assistant District Attorney for amplification. If the reasons for grand jury action could not be determined without questioning a juror and thus violating the privileged status of the jury's decision-making process, however, the inquiry would be dropped. (This has not yet happened.) If the possible reasons for failure to indict can be narrowed to a few, of which one is directly attributable to police conduct, then the case is considered one of "police error."
+
+Court dispositions are summarized every week on a computer-compiled listing including activity in all the local courts in which Dallas Police Department cases are handled. A copy of this printout is routinely provided to the Legal Liaison Division, which reviews all departmental cases dismissed. In many cases, the reason for dismissal is clear from the printout; in all other cases, an investigator assigned to the District Attorney's unit of the Legal Liaison Division goes to the court papers and examines them to find the reason for dismissal. If necessary, the prosecutor who handled the case or the investigator who filed it is consulted to make certain of the reason.
+
+Dismissals frequently occur for reasons other than "police error." 
+
+For example, one or more of a number of charges against a single defendant may be dropped in return for a guilty plea on the other(s), or a dismissal may be traded for valuable testimony against another defendant. Project attorneys are careful to avoid "second- 48
+
+guessing" any such decisions to dismiss made by the prosecutor.
+
+Strategies used by the prosecutor to handle his caseload and obtain convictions are his policy decisions, and others removed from the action are poorly qualified to criticize. 
+
+4.4 Selecting An Intervention Strategy 
+
+Thus far, this chapter has outlined the procedures used in Dallas to intercept police "legal error" before it transforms potential convictions into lost cases. In other locales, other police administrators with a similar concern might consider a number of possible strategies for improvement. For example, an intensive in-service training course could be required of all the officers, stressing the proper procedures to be followed and the matters to be covered in written reports. Or the prosecution agency might establish a "complaint room" screening and review process, in which an assistant district attorney goes over every complaint with the filing officer. All complaints or similar documents might be prepared by a special police unit in consultation with the arresting officers, as a part of the booking process. Or a "feedback" system might be initiated, so that each officer's performance in making cases would be evaluated according to what happens to his cases in grand jury and court proceedings presumably with promotion and transfer decisions turning in part on this record. 
+
+Perhaps each complaint or other filing might have to be submitted through the officer's superior, with both men responsible for achieving accuracy and completeness. Or a survey of reasons for "no-bills," dismissals, and acquittals might be made and roll-call bulletins prepared to alert the members of the force to the sources of error. An improved procedure for amending filings, at the request of the court or prosecutor, would be another way to decrease unnecessary non-convictions. 
+
+And there are probably other approaches. 
+
+The Dallas approach, review of every filing by a police attorney, was selected and has been championed by that department for several reasons. First, it offers an opportunity for multiple benefits: by combining this review function with legal research, legal policy formulation, counseling, and training responsibilities, the department can support a high quality legal staff and avoid having these various tasks either not done or performed of necessity by sworn officers trained, and better used, for other activities. Second, review of filings 49
+
+by police attorneys probably has a more direct and immediate impact on the quality of those documents than simply re-educating the line officers. Moreover, it can be combined with (and provide ideas for) training efforts. Third, this review process is not dependent on any other agency, such as the district attorney's office, but can be pursued solely within the police department. 
+
+4.5 Avoiding Abuse of the Legal Advisor 
+
+Are police legal advisors "used"?
+
+The question is a cynical one, to be sure, but it arises in two contexts, one venal and one very serious. First, one wonders whether police officers may rely on lawyers who review their every court filing to do the writing and the summarization required and thus relieve the police officer of what would ordinarily be his responsibility. Secondly, and much more seriously, the possibility exists that police officers, having been advised of ways in which their pre-trial procedures did not pass legal muster, and perhaps even encouraged by overzealous attorneys, might deliberately falsify their revised submissions to make it appear that they had acted properly when in fact they had not.
+
+As to the first possibility, excessive reliance on lawyer draftsmanship, it is fairly clear from the low number of police-written prosecution reports now being rejected that the Dallas unit has not suffered this potential abuse. It is also probably unlikely that this abuse of the lawyers would arise in a situation in which documents must be prepared initially by police officers and then reviewed by attorneys; a review which finds a mistake is a "rejection," and the albeit mild stigma of being rejected is probably sufficient to encourage a reasonable effort to "get it right" the first time. 
+
+The more serious avenue for abuse of attorney review is also, unfortunately, the harder to limit. When an officer reports that a defendant dropped the contraband on the ground, or that the butt of an illegal weapon was protruding from under the front seat of the car, he may well be telling the truth or he may not. The attorney's role, unless he has a superb personal relationship with the officer, can only be to take him at his word. If anyone is to challenge possibly false reports, it must be a superior police officer, not a civilian. 50
+
+le In some situations, an attorney may be able to "smell" a problem and avoid it, if he is sensitive enough. If he cannot, however, about all that can be said is that the problem existed before legal advisors, would exist without legal advisors, and can be finally eliminated only by police themselves. 51
+
+CHAPTER TRAINING SERVICES 
+
+The Dallas Legal Liaison Division is responsible for preparing and updating legal training materials and teaching recruits, veterans, and auxiliaries. At one time, one project attorney was assigned full-time to the training unit, with the responsibility for revising all the training materials (and some teaching). Now and for the foreseeable future, however, the responsibility for preparing materials and conducting training sessions is divided among all the Legal Liaision Division lawyers. 
+
+5.1 Recruit Training 
+
+The Dallas Police Department hires a group of approximately 20 to 30 new officers every two months or so. They undergo a training regimen lasting 17 weeks, including 74 hours of training in legal matters. All the legal material is taught by the attorneys of the Legal Liaison Division. Subjects included from the project's beginning are: 
+
+Foundations of Criminal Law (6 hours), Laws of Arrest (10 hours), Laws of Evidence (8 hours), Search and Seizure (10 hours),
+
+The Texas Penal Code, Family Code, and Controlled 
+
+Substances Act (28 hours), and 
+
+Dallas Municipal Ordinances (4 hours).
+
+In addition to these core courses, the second year of the Legal Liaison Division project saw the development of a course in Civil Law for Police (4 hours), and a Moot Court Exercise (4 hours). 53
+
+The way in which the project attorneys divide responsibilities for these courses is shown in Table 4. All attorneys are responsible for developing and updating materials for the subjects they teach. 
+
+In the process of updating materials they are also expected to produce occasional policy bulletins for general distribution to present police officers if significant legal changes take place. Generally, the training sessions are lecture classes, with a great deal of legal material covered in a more or less summary fashion. 
+
+The attorneys recognize, and explain to the students, that the topics are being covered too quickly to create real legal expertise. 
+
+The goal of the training is to give guidance for commonlyencountered situations and to provide a basic understanding of the way in which legal decisions are reached, not to make lawyers of policemen. To ensure that the recruits will keep up with the work, each course is followed by a short test usually involving sentence-completion, true-false, or multiple-choice type questions. 11 
+
+Foundations of Criminal Law 
+
+The training materials on the foundations of criminal law, a topic which includes basic constitutional provisions and general criminal law principles, were prepared by the present director of the Legal Liaison Division. The materials begin with definitions of law, an explanation of the idea of precedent, and a recounting of the present sources of state and federal law constitutions, the federal bill of rights, and statutes. The distinction between criminal and civil law is discussed, along with such basic notions as presumptions of innocence, burdens of proof, and notions of causation and intent. The hierarchical structure of criminal offenses is explained, along with the rules which apply to combinations of offenses and the way in which different offenses are assigned to the different state courts. State statutes with regard to who may be a party to a crime, what preparatory activities constitute criminal offenses and which excuses and defenses to criminal charges are available in all cases are discussed. In six hours, then, this course lays the foundations for sixty hours of study of particular criminal laws and particular enforcement situations. 54
+
+TABLE Distribution of Teaching Responsibilities 
+
+(Number of hours taught in recruit training curriculum) 
+
+Foundations of Criminal Penal 
+
+Search and 
+
+Instructor 
+
+Law 
+
+Code Arrest Evidence 
+
+Seizure
+
+Municipal Civil Moot Code Law Court 
+
+Division Director 
+
+3 
+
+Youth Attorney 
+
+18 
+
+Investigations 
+
+Attorney 
+
+Vice, etc. Attorney
+
+Coordinating Attorney
+
+10 3 10 28 10 10 10 Moot court is a four-hour exercise involving three instructors:
+
+13 21 13 4* 74 55
+
+Law of Arrest 
+
+Materials for this ten-hour course were prepared by the project director and are now taught by the coordinating attorney. The following topics are covered: who may make arrests; within which jurisdictions city police officers may make arrests; situations in which citizens may arrest others; the requirement or probable cause; when warrants must be obtained; how warrants are obtained; the different kinds of warrants; all the situations in which arrests may be made without warrants, and court interpretations of these situations; when force may be used and the amount of force permitted; who is immune to arrest; what searches may accompany arrests; and what happens when an improper arrest is made. 
+
+Law of Evidence 
+
+Teaching this eight-hour course and staying up-to-date in this field are the responsibilities of the project attorney assigned to the Youth Division. The course is a survey of the topics ordinarily covered in a law school course on evidence: the allocation of functions among judge, jury, prosecution, and defense at trial; general principles of admissibility of evidence; how evidence is presented; the hearsay exclusion and its many exceptions; expert witness and opinion evidence; statutory privileges from having to supply evidence; testimony of informants and accomplices; impeachment of witnesses; discovery and depositions in criminal actions; and confessions and the post-arrest warnings required before interrogation. 
+
+Laws of Search and Seizure
+
+This topic is taught in ten hours by the project attorney assigned to the Vice and Traffic Divisions. When a search warrant is required, how it is prepared, when it is not needed, most particularly when searches of automobiles may be made, and other situations in which extraordinary searches or seizures are permitted are the subjects of the course. What the Legal Liaison Division attorneys have learned in reviewing police officer submissions and 56
+
+Richard F. Seibert, Coordinating Attorney, instructing recruit class, Dallas Police Academy.
+
+going over reasons for no-bills and dismissals, along with recent developments in the law in this area, have made numerous revisions of the search and seizure curriculum necessary; these revisions are made by the attorney who teaches this subject. 
+
+Statutory Provisions 
+
+Some 28 hours of instruction are devoted to the specifics of Texas state criminal law, as embodied in the Penal Code, Family Code, and Controlled Substances Act. The sessions are spread over eight or more days and all the attorneys (including the project director) in the Legal Liaison Division teach from three to nine hours. 
+
+There is an additional four-hour course in the Dallas Municipal 
+
+Code as well.
+
+Other Courses 
+
+The course in civil law for police includes general principles of civil liability as well as a review of Federal civil rights law. 
+
+The ways in which police can incur civil liability for false arrest or imprisonment or deprivation of rights are explained and illustrated.
+
+The Moot Court exercise, which comes near the end of the legal subject part of the training cycle, is a demonstration of a mock criminal trial in which three attorneys represent a judge and opposing counsel. Recruits play the parts of witnesses and learn firsthand how trying and frustrating that role can be. 
+
+In addition to these courses, attorneys are involved from time to time in the preparation and teaching of other parts of the recruit curriculum. For example, a two-week session in crisis intervention is now part of the training cycle; an attorney usually devotes some time to explaining the legal limits on police intervention in domestic disturbances. 58 88
+
+5.In-Service Training 
+
+The Legal Liaison Division has provided several different types of formal in-service training programs, including both one-time efforts and periodically repeated courses. 
+
+The first in-service training program provided by the Division was a review course in report writing offered as part of a regular refresher curriculum for all patrol bureau personnel. 
+
+The review of report writing covered the preparation of prosecution reports, arrest reports, and other necessary documents. The project's survey of reasons for case failures was used to identify common reporting errors for emphasis. A review of changes in the 
+
+Penal Code, which affected the proper sections to be cited with reference to each offense, was also included. Project personnel taught one hour of the eight devoted to report writing in the forty-hour patrol refresher course. Sessions continued over ten months. It is now anticipated that review sessions on report writing will be conducted from time to time in the future. 
+
+A second in-service training program, a statutory refresher course for all officers, has also been conducted. This course focuses primarily on changes in the criminal law which have occurred since the previous course, with emphasis placed on the practically useful rather than the more esoteric developments in the law. The first of these sessions was occasioned by a comprehensive revision of the Penal Code which went into effect in January 1974. As noted in Chapter 2, a great deal of material was covered in a massive training effort requiring two three-day courses a week for about four months. Not only were all sworn officers in the department included, but so also were all the civilian employees, the building security force of the City of Dallas, and security personnel from the Dallas-Fort Worth airport about 2,500 students in all. In the future, statutory revisions and the interpretation of statutes through "case law" in the courts will be combined with a refresher review of criminal law provisions in general. Courses will be conducted every six months to one year, depending on the role at which new developments occur. 
+
+The special jail supervisors course is given in one-week sessions, two of which are required to reach all the department's jail supervisors (police sergeants). This course covers aspects of the laws 59
+
+of arrest, search and seizure, evidence, and other revisions of the criminal laws likely to be most pertinent to the jobs of these officers, who have a special responsibility for assaying the sufficiency of an arrest before accepting a prisoner into the jail. This course was first given in May, 1974, and repeated in May, 1975; its annual repetition will probably become the norm, to orient those new jail supervisors who have been appointed within the preceding year. 
+
+5.3 Roll Call Training 
+
+11 In-service training for officers at roll calls is an "as needed" process which can take several forms, depending on the subject matter. Generally, whenever a recent legal or policy development calls for notification of all officers, the lawyers prepare circulars for all unit commanders. In turn, unit commanders take appropriate steps to disseminate the information discussion at roll call, posting on the bulletin board, or updating of the unit's files. If requests for consideration of a legal point come from an officer within the department, the reply is generally an individual memorandum which the officer may choose to distribute to others. A special category of memoranda, the "roll call training bulletin, is also available for the attorneys to use with the approval of the Deputy Chief for Special Services; these bulletins must be read at every roll call assembly on three successive days to ensure that nearly all officers are exposed to them. The most formal documents for communicating guidance to officers are additions to the department's formal regulations, termed "general orders" (for permanent additions) and "special orders" (which are subject to revision). Documents become general or special orders only when approved and signed by the Chief of Police. "I Thus, the written work of the Division laying out legal standards is treated in each case in what appears to be the most fitting way. Major policy statements are usually contained in special or general orders. Statutory changes may appear in roll call bulletins. Interpretations of the law in specific fact situations (an example: what constitutes trespassing in a supermarket parking lot) may be sent out as memoranda to unit commanders, to be used as they see fit. In some cases, complex subjects are both covered in a written bulletin and discussed on the telephone or in person with key personnel. In at least one case, a statutory 60
+
+revision was discussed by project attorneys at roll call in every patrol substation; each attorney was responsible for going to his assigned patrol unit and ensuring that he had explained the new law in person to every officer. 
+
+5.4 Attorneys and Training 
+
+The training of police recruits and officers is the subject of numerous publications, and its complexities are sufficient to discourage any short version in this document. Nevertheless, a few observations on the Dallas experience may assist others in planning for police legal training by legal advisor attorneys. 
+
+An initial question here, of course, is whether legal training for recruits should be conducted by attorneys. The IACP takes the position that attorneys are not needed for initial recruit training, although they should conduct in-service training sessions in which more complex legal issues are likely to be addressed. The Dallas 
+
+Legal Liaison Division attorneys feel that, while much of the material (particularly the code provisions) used in legal training for recruits could be presented by an experienced police officer, there are still advantages for departments which can afford to have attorneys conduct these sessions. The primary advantage is probably the exposure that the attorney unit receives, with every recruit seeing every member of the unit before starting the job. 
+
+This exposure allows the lawyers to emphasize strongly the importance of legal restraints, while impressing the students with the availability and usefulness of the department's attorneys. In addition, having the people responsible for revising and updating the training materials also teach those materials ensures that they will stay alert to pedagogical aspects of the curriculum.
+
+Having teaching responsibilities which encompass the entire spectrum of police legal matters also encourages the attorneys to stay up-todate in their areas of expertise. In addition, having the staff attorneys teach recruits gives the lawyers a different kind of professional responsibility, adding to the variety, scope, and challenge of their jobs.
+
+This discussion notwithstanding, whether to use legal advisors as recruit instructors in legal matters is a decision that will vary 61
+
+from one department to another, depending on the time availability and preferences of the attorneys as well as the nature of the legal training which the department wants for its new officers. If training is to be a major element of a legal advisor unit's responsibility, training responsibilities must be allocated among the attorneys in some way. Dallas has avoided (except for a brief period) concentrating training responsibilities in a single attorney in favor of a more-or-less even distribution among all the lawyers, with each covering one or more subject matter area. 62 229
+
+Elig le ang 
+
+CHAPTER 6 GENERAL LEGAL COUNSEL 
+
+In addition to documents review and legal training, the Legal Liaison Division also provides general legal counseling services to the Dallas Police Department. This service, which is probably the single most time-consuming aspect of the unit's work, consists of answering questions, which usually come by telephone and can be asked by almost any officer in the department. The way in which the question is presented, where it comes from, and what it is about determine how the Division responds. 
+
+6.1 Legal Opinions and Policy Statements 
+
+The most formal, most time-consuming, and most exacting kind of response the Legal Liaison Division can give to a question is the written legal opinion. This means of advising a client is usually reserved for serious reconsiderations of departmental practices, considerations which have been initiated by (or discussed with) top commanders.
+
+The opinion of a Legal Liaison attorney, or of the Division, must be distinguished from a formal City Attorney opinion, signed by the Dallas City Attorney. City Attorney opinions, to which most cities have counterparts (Corporation Counsel or City Solicitor opinions, for example), are the last word on the city's legal position. Any city employee who acts contrary to a City Attorney's opinion cannot expect to be defended by the city in subsequent litigation arising from his action. A Legal Liaison Division opinion, even though it is issued by a group composed primarily of Assistant City Attorneys, is different; only within the police. department does this opinion have its force, and it is subject to overriding by the City Attorney. Of course, the opinion of the 63
+
+Division is not at all an instruction to the department on how it must act, just as an attorney's advice to his client may be disregarded at the client's peril. But the Legal Liaison Division occupies a sufficiently lawyer-like position within the department that the attorneys take the position that the City Attorney is not bound to defend those who disregard their considered opinions.
+
+In some cases, documents prepared by the Division are adopted by the Chief of Police as a general or special order of the department. In this status, the opinion becomes a duly promulgated internal regulation. For the purposes of this report, all written statements of the Division general orders, special orders, memoranda to all units, and roll call training bulletins -- are considered together as comparable "policy statements." A summary of the topics covered appears in Table 5. 
+
+6.2 Ad Hoc Legal Advice 
+
+The Legal Liaison Division's lawyers are available virtually all the time, and officers are encouraged to raise questions at any time. Every attorney is equipped with a pocket voice pager so that he can be reached when off-duty or serving on-call duty. 
+
+The pagers are not turned off during the working day each lawyer is available, whether by telephone, car radio, or pager, virtually all the time. The most common means of contact with project attorneys, of course, is by telephone; all the lawyers are expected to be in their offices during the department's office hours (8:15 A.M. to 5:00 P.M.) or to leave word of their whereabouts whenever out of the office. 
+
+The most common type of question addressed to the lawyers is the request for a legal analysis of a very specific fact situation. 
+
+An investigator, knowing all or nearly all of the facts surrounding an incident and/or arrest, may still be uncertain what offenses have been committed. A field officer, after a fast-moving street incident, may have an individual in custody without his, or his sergeant's being certain whether the prisoner has committed an offense at all. A sergeant-jail supervisor may have an arrest report stating facts which put him in doubt as to whether the prisoner should be put in jail or released. According to project 64
+
+John M. Knight, Legal Advisor, (left) Criminal Investigation Division, advising Herman O. Wilkerson, Investigator, (right), Crimes Against Property Section, Dallas Police Department. 
+
+65
+
+April 1974 
+
+TABLE 5 Policy Statements Issued by the Dallas Legal Liaison Division 
+
+Definition of "convicted" in statute on "repeat and habitual felony." • On arresting occupants of motor vehicles for unlawful possession of marijuana. • Provisions of the Dallas city ordinance regulating home solicitation. • Possible violations of law during picketing (occasioned by the 
+
+U.S. Appeals Court, 5th Circuit's decision to overthrow the 
+
+Texas law against picketing).
+
+May 1974 Criteria for filing burglary of vehicle and theft cases. 
+
+Criteria for filing auto theft and unauthorized use of motor vehicle cases. • Criteria for filing burglary of vehicle and burglary of habitation cases. • Arrest of persons for parking violations. • Elements of burglary, attempted burglary, theft, criminal mischief and criminal trespass. • Failure to display state safety inspection sticker on a motor vehicle bearing temporary cardboard license tags. 
+
+Guidelines for filing cases under Texas Penal Code 43.02 (a), (which prohibits commercial vice) by use of a Dallas policewoman. June 1974 
+
+Witness lineup identification forms. 
+
+Requirement that magistrates read search and arrest warrants before signing them.
+
+Arrests of occupants of motor vehicles for possession and unlawful carrying of weapons.
+
+Requirement that at least one suspect be included in lineups. 
+
+Treatment of abandoned automobiles. 
+
+July 1974 Revision of June memo on weapons possession. 
+
+Advice to cease arresting persons for violation of immigration laws. August 1974 • Arrests for driving while license suspended. 
+
+Inclusion of generic name of drugs in arrest reports. 66
+
+Revision of June memo advising partial resumption of arrest of illegal aliens.
+
+September 1974 • Investigative jurisdiction for criminal trespass cases. • Restriction on release of juvenile records. 
+
+Proposed legal modifications to Texas Controlled Substances Act and the section of the Texas Penal Code dealing with promotion of prostitution.
+
+October 1974 Elements of criminal trespass: not applicable in public premises. 
+
+Revision of August revision of June memo regarding arrest of illegal aliens, approximately restoring the status quo ante. 
+
+Procedure for bonding of persons arrested on warrants.
+
+November 1974 
+
+Proposed procedures for abandoned motor vehicles in garages and parking lots.
+
+Inapplicability of trespass laws to youths using shopping center parking lots at night. • Unlawful carrying of weapons.
+
+December 1974 • Elements of burglary and criminal trespass. 
+
+Parking enforcement in school zones. • Liability of City of Dallas for damages incurred during activities of Dallas Police Department Mounted Patrol.
+
+January 1975 
+
+• Suggested procedures for placing holds on property in pawnshops. • Pedestrians interfering with traffic. • Distinction between burglary of vehicle and burglary of building. 
+
+February 1975 • Preparation of wanted persons reports to meet NCIC format. • Memorandum on problems concerning handling of juvenile offenders. 
+
+March 1975 
+
+Requirement to take arrested persons before magistrate. • Criminal discovery: appropriate scope of defendant's motions. 
+
+Criminal trespass. • Possible grounds for arrest of participants in Brown Beret Parade. 67
+
+April 1975 
+
+• Disturbance alarms. 
+
+Booking procedures for cases involving short-barrel firearms 
+
+• Interpretation of Dallas City Code Chapter 6A Section 6A-1 on 
+
+"Amusement Centers." • Arrest powers of private security guards. 
+
+May 1975 • Arrested persons charged with parking violations. 
+
+Double jeopardy. • Interpretation of the criminal trespass statute. 
+
+Safety inspection sticker enforcement. • Magistrate's bonds--notification of action taken. 
+
+June 1975 • Commemorative plaques for retiring officers.
+
+Taking of blood samples at Parkland Hospital. 
+
+Arrest powers of public service officers. 
+
+July 1975 • Shoplifts that evolve into robberies. • Destruction of weapons. 
+
+DPD convictions in felony drug cases. • Magistrate's bonds--notification of action taken (revision). 
+
+August 1975
+
+Situations involving the arrest of persons for certain controlled substances and dangerous drugs. 
+
+September 1975 • Clarification of the distinction between sections 22.02 and 
+
+22.05 of the Texas Penal Code. 
+
+Gasoline thefts. • The police function at City Council meetings. 
+
+Change in enforcement of criminal trespass. 
+
+October 1975 
+
+• Disposition of weapons. • Current status of carrying handguns by security guards. • Auto thefts from private parking lots and/or garages. • Penal Code provisions on fraudulent destruction, removal, or concealment of writing. 68
+
+estimates, responding to these questions (usually ending in "what charge?") makes up half or more of the Division's "ad hoc" consultations. Most of the inquiries come from investigators rather than patrol personnel.
+
+Sometimes, a somewhat more general fact situation may be presented in a request for advice. A field commander anticipating a civil demonstration or dispute may have the time to ask a project lawyer what his options are in controlling the situation. When a recurrent enforcement problem has a field supervisor puzzled, he may want to know with some precision what charges he has at his disposal in the specific situation. An observation or incident may pique a good policeman's curiosity: "there's a private security guard in my sector when can he make an arrest?" 
+
+6.3 On-Call Availability 
+
+The Legal Liaison Division's "on-call" program is an important element of the legal services package provided to Dallas police since it guarantees the availability of an attorney at any time, not just during office hours. All the attorneys serve as "duty legal advisors" on a rotating schedule, so that each attorney is on call every fifth week (from 8:15 A.M. Monday through 8:15 A.M. the next Monday). The duty schedule is prepared monthly and distributed to all commands in the department with each lawyer's telephone numbers office, home, and paging device.
+
+Each attorney is provided with a city car equipped with a police multi-channel radio, as well as a pocket paging device which permits anyone on the police telephone network to dial any paging unit and deliver a voice instruction which will be received anywhere in the metropolitan area.
+
+When a call is placed to a duty legal advisor (or any other project attorney), the staff attorneys are themselves bound to certain standards. First, of course, they always respond. If the calling officer indicates a desire for the attorney to come to the scene in person, he or she will always go. And once informed of the situation, the attorney will always give a clear and firm answer. 
+
+Only in situations in which time is obviously not critical may 69
+
+-- attorneys delay giving an answer until they have researched the question. In fast-moving situations, police officers cannot wait for a lawyer to think it over they need immediate advice as to exactly what they should do, or they would not have called in the first place. And it is the attorney's job to give that advice to the best of his or her knowledge and ability; although he may change his mind later, he must accept professional responsibility for the effect of his initial recommendation as well. 
+
+The way in which police legal advisors respond to requests for advice is of such importance that it bears further emphasis. The problem of building rapport has been discussed in Chapter 2, and one point made there is relevant here: the nature of the first contact with a client is critical. Furthermore, in a department of 2,000 officers, almost any call for advice may be a first call by that officer. So the "musts" emphasized by the Dallas legal advisors are always relevant. Legal advisors must answer every question. They must never give a conditional, on-the-one-hand/ on-the-other-hand answer to a practical question. They must never give a different account of their advice in hindsight. They must never refuse to listen. Doing any of these things just once is likely not only to prevent that particular officer from ever calling on that particular lawyer again, but also to have a similar effect through informal discussions between officers as to all officers and all the lawyers in the advisors unit. Police, based on their experience, are ready to distrust civilians and lawyers if given a basis for that distrust. And police are gregarious among themselves; word travels fast. In short, the police legal advisor has to earn client respect to receive client support. 
+
+Although no records are kept, project attorneys estimate that the duty legal advisor receives an average of 10-20 calls in a oneweek tour, of which one or two may require on-site visits. While most of the inquiries involve the applicability of specific statutes to particular factual situations, other calls cover subjects ranging from shooting incidents to fist-fights between officers to mass demonstrations. (In one demonstration incident, a Legal 
+
+Liaison attorney wrote out a short statement for the ranking officer on the scene to deliver to the demonstrators ordering them to cease blocking access to a building and spelling out the consequences of refusal to move.) 70
+
+The 
+
+es- except for
+
+Guidelines for calling the duty legal advisor are general sentially, whenever an officer wants legal advice -one situation: the use of deadly force by or against a police officer. Whenever deadly force is used, the duty advisor must be called; if any injury results from the incident, the advisor must go to the scene. In either event, the police attorney is expected to make an independent assessment of the justification for use of a weapon by an officer, to complement the similar but independent investigation required of the officer's supervisor. The seriousness of these injuries is underscored by the Department's practice of filing charges against officers who inflict injury with firearms (including murder charges in every case in which death results) in order to obtain a third judgment that of the District Attorney, judge, or jury on the propriety of the officer's action. 
+
+6.4 The Limits of Counseling 
+
+As lawyers to the police department, the staff of the Legal Liaison Division receive inquiries on many subjects. Some, for example those just discussed, are clearly within their area of responsibility. But others raise questions which the Dallas unit, like any other police attorney program, has had to answer. Should lawyers advise police on their personal affairs? Can they get involved in internal discipline matters? What about employment disputes or salary negotiations? 11 The first of these problems is clearly universal. In business corporations, public agencies, the military wherever people deal with lawyers in the course of their work the lawyer can expect some of his professional acquaintances to call on him when they are uncertain what to do in some personal matter which seems to call for legal judgment. Housing arrangements, marital disputes, wills, deaths in the family, children running afoul of the law -all these events raise legal questions. 
+
+When individual police officers bring these problems up with project attorneys, they are not turned away. The Division lawyer will listen, advise (without doing legal research), and tell the officer whether he is likely to need to retain an attorney. The 71
+
+Division attorney will not represent the officer in court, draft documents for him, or negotiate with another party as the officer's representative. Division attorneys (like all Assistant 
+
+City Attorneys) are forbidden by a Dallas City Charter provision from accepting a fee for legal services from police officers or anyone else. The precise point in any given situation in which informal advice on personal issues gives way to the improper "practice of law" may be hard to find; the clear statements of the preceding paragraph do have fuzzy edges (How much reading constitutes "research"?
+
+When is looking closely at a document such as a will too much like drafting?). But the justification for handling personal legal questions in this way is strong; it relates primarily to the building and maintenance of rapport with the police officers which was discussed earlier in Chapter 2. It can be very difficult for civilian attorneys to gain the trust and support of police officers, and a curt refusal to talk about what is important to one officer can poison the lawyer's relationship with not only that officer but many others with whom he talks. The officer's perception, oversimplified, may be that the lawyer is either "for him" or "against him" and if the lawyer won't make the same extra effort to help with a personal matter that one policeman will always make for another, the lawyer must be "against." Lawyers in business settings recognize the necessity for "bending" to help out with personal legal problems, and the same need exists with even more justification within the closely knit world of the law enforcement officer.
+
+In the Dallas Legal Liaison Division, giving personal advice from time to time has not caused any problems, nor has it consumed a significant amount of time. In one instance, a project attorney's discovery that many police officers did not have wills (despite the fact that their estates could be sizable, considering insurance and sizable death benefits for any officers dying in the line of duty) led to a bit of extra effort to encourage them to have wills drawn. Personal encouragement of the officers to have wills prepared was supplemented by an article in the department's internal newsletter explaining the benefits of estate planning and how to go about having a will prepared.
+
+With regard to the fundamental business of the police department, legal advisors also face the difficult issue of which matters they 72
+
+should and should not take on. The Dallas unit has not excluded any subject absolutely from its purview, but certain matters are handled very carefully. For example, management issues which may reflect or create tension between the department's top administrators and its line officers are handled for the Legal Liaison Division exclusively by the Director of the Division. 
+
+Similarly, any issues of legal significance relating to police officers' salaries and working conditions, the usual stuff of collective bargaining agreements, are handled quietly for the department's administrators by the coordinating attorney, the de facto deputy director of the Legal Liaison Division. That the legal aspects of such matters can be clarified in low-profile consultation with administrators is due primarily to the absence of a police union in Dallas an absence mandated by a law which the voters have refused to modify by referendum. Should police unionization and collective bargaining come to Dallas, the Division's attorneys recognize that representing the department in negotiations would place great stress on their relationships with the officers and might best be avoided or somehow strictly segregated from their other activities. 
+
+In general, the Legal Liaison Division, despite its emphasis on serving line investigators and officers, does a significant amount of consulting with top brass on the legal aspects of management and policy issues. But this consultation is limited to legal issues, and it is not permitted to impair the Division's ability to keep up with the bread-and-butter work of reviewing filings and consulting on ongoing cases. Limiting the attorney unit's work for top management to legal matters differentiates the Dallas legal advisors from those of many probably most other cities. 
+
+Dallas attorneys do not prepare grants (other than their own), perform planning or analysis functions, or act as all-purpose firefighters for the chief. They are lawyers, not police and not administrators. Their status as Assistant City Attorneys and their "law firm" approach to their work are particularly important factors in maintaining this professional status and avoiding being "drafted" into other duties.
+
+Internal discipline is an especially touchy area in any police department, and Dallas is no exception. The IACP's Guidelines for a Police Legal Unit and the National Advisory Commission on Stand- 73
+
+The Com ards and Goals are unambiguous, and nearly verbatim, on the topic of legal advisors' involvement in disciplinary matters. mission states: There is a natural inclination on the part of a police chief to use his legal advisor for this purpose. 
+
+There are at least four important reasons why the legal unit should not become involved: 1. 2. 3. 4. 
+
+Police officers would be likely to view legal advisors as "hatchet men;"
+
+Legal advisors would be identified personally with the disciplinary policies of the incumbent police chief, whose policies may be widely resented in the lower echelons of the agency; 
+
+Field personnel might be reluctant to discuss enforcement problems with a legal advisor because they fear their actions were or might be improper; and 
+
+A conflict of interest could arise.
+
+It takes many months for legal advisors to build confidence and trust among operating personnel; a single internal prosecution could destroy this work overnight. The Dallas Legal Liaison unit's involvement in internal affairs, investigations and disciplinary actions is quite limited, though not nonexistent. The limitations have three aspects: (1) Disciplinary matters are never discussed with (2) (3) any attorney other than the director or the coordinating attorney.
+
+The City Attorney, not the Legal Liaison Division, prosecutes in all Civil Service disciplinary hearings. The Division is only consulted with regard to particularly serious infractions. 74
+
+Project attorneys recognize the danger in becoming involved in disciplinary matters, but they feel that officers recognize that the unit's limited role in only the most egregious cases does not prevent the lawyers from giving officers other than the most corrupt or negligent the utmost support. 
+
+6.5 Advising Patrol Units 
+
+There is one other way, in addition to those just noted, in which Legal Liaison counseling is limited. Members of patrol bureau holding the rank of police officer (formerly patrolman or patrolwoman) are instructed not to call an attorney until the problem has been discussed with the supervising patrol sergeant (although exceptions to this principle are permissible in exceptional situations). This policy has several benefits. First, it "screens out" many inquiries which the sergeants, in their greater experience and (frequently) more extensive training, can answer. Second, it minimizes disruption in the command structure of the department --the police officers may disagree with their sergeants, but they are restrained from surreptitiously going "over the sergeants' heads" to obtain a conflicting opinion. And the number of officers with whom the lawyers must establish working relationships is significantly reduced without a great reduction in effectiveness.
+
+It should be noted here that to require a patrol police officer to consult with his sergeant is to impose a lesser burden than would be involved in any other kind of required "going through channels." 
+
+The patrol sergeant is always available within minutes to the officer on the street; never is the assigned patrol sergeant on a day off or on vacation or working another shift. Nor is he inaccessible, out of the patrol district; his job is to be always accessible. The work of an investigator, or indeed the work of the patrol sergeant himself, is different from the patrol officer's in that it is less closely supervised, and thus seeking out and conferring with one's supervisor is much more likely to be a burden for anyone other than the patrol officer.
+
+Furthermore, the patrol bureau police officers always include the least experienced members of the department, and thus those most likely to have questions easily answerable by more senior officers. 75
+
+6.Liaison and Other Duties 
+
+Beyond the duties discussed thus far, the Legal Liaison Division has or has had a number of other miscellaneous responsibilities, including supervising the District Attorney Liaison and Magistrates' Units; handling claims against the Police Department; and various ad hoc liaison, advisory, and planning duties. 
+
+The District Attorney Liaison Unit, administratively the respon sibility of the Director of the legal unit, consists of ten sworn officers commanded by a sergeant and assigned to each of the various courts in which the District Attorney prosecutes cases. Under the day-to-day supervision of Assistant District Attorneys, these officers aid in the investigation, preparation, and prosecution of Dallas Police Department cases. Their regular responsibilities to the Legal Liaison Division are generally limited to transporting documents such as prosecution reports to the District Attorney's office and reporting the dispositions of cases and the reasons for the outcomes back to the legal unit. At the outset of the Legal Liaison Project, the District Attorney police unit was already in existence, but its performance was considered poor.
+
+The Division director and the Chief moved quickly to upgrade the unit, replacing personnel and making the assignment more attractive for their replacements by coupling it with promotions to investigator and increases in compensation. Through these improvements, and consultations with the District Attorney, the unit was transformed into a more useful investigative team. Now, the Legal Liaison Director, a sworn officer, handles all the necessary supervisory matters but reports that the unit generally "runs itself." Were the present director to be replaced by a civilian attorney (as he in fact recommends), the present organizational arrangement would probably be continued. Civilian personnel are in command of police personnel in two major divisions and one section of the Dallas Police Department (Detention Services Division, Data Processing Division, and Public Information 
+
+Section). 
+
+The Magistrates Unit, as described earlier (Chapter 3), processes prisoners in the central jail, including bringing them before the Magistrate. Although this small unit functions under the immediate supervision of a sergeant and the central jail supervisor, 76
+
+their functions of "magistrating," report-routing, and prisoner handling are considered to be legally sensitive, so they are over seen by the Legal Liaison Division. 
+
+Part of the job of almost any "house counsel" is to represent his employer in civil disputes and lawsuits. It is also true, however, that one of the major functions of a City Attorney (Solicitor, Corporation Counsel, Law Department) is to defend lawsuits against the city or any city department. The difficulty here for police "house counsel" has been resolved by different cities' police legal advisors in different ways. Some police units are excluded from handling any claims against (or by) the department, while others (presumably units composed of Assistant City Attorneys or their local equivalent) reportedly are officially designated to handle all civil litigation. 
+
+The Dallas Division, with the flexibility which its Assistant City Attorney composition permits, takes a middle course. All claims against the department are initially channeled to the coordinating attorney, who assigns these claims on a rotating basis. The attorney assigned the claims then has the authority to negotiate with the claimant and grant, deny, or compromise such claims. Whenever any matter goes to litigation, however, the defense remains the responsibility of the City Attorney. 
+
+Typically, much of the investigation and preparation of the case is performed by the Legal Liaison Division, and the Legal Liaison attorney may appear in court as "second chair" to the City Attorney lawyer, but the City Attorney retains control over the lawsuit. 11 As one project attorney noted, this involvement in civil lawsuits is in a sense "a luxury. The involvement does benefit the Legal 
+
+Liaison Division by providing some trial work for the lawyers, adding to their professional stature as attorneys, and giving them additional professional visibility within the department, particularly in cases involving police conduct in which the lawyer appears literally as a defender of the policeman. However, these benefits generally could not justify a degradation in the quality of the day-to-day legal services provided to the department. After all, the City Attorney can certainly defend the city in court without assistance from the police attorney. On the other hand, no one else is available to "fill in" for the police legal advisor when an officer needs assistance and the legal advisor is unavailable. 77
+
+An additional set of activities undertaken by Legal Liaison attorneys are those not required of them as conditions of their employment, but undertaken as part of their collective attempt to give the department the benefit of highly informed legal assistance. 
+
+Included are bar association activities, IACP participation, and extracurricular teaching and writing. Participation in the IACP's 
+
+Legal Officers Section (LOS) has included service as officers of the section (one Dallas attorney is now Past General Chairman, one is Vice-Chairman, and another is an Officer-at-Large), conducting seminars at LOS conferences, and consulting with other police legal advisors. Extracurricular teaching includes conducting courses at a regional police training academy and an advanced training course for police professionals conducted by the Southwestern Legal Foundation. Bar Association involvement includes committee membership and the like; one attorney now serves on a local bar association committee on detention facilities, for example. 78
+
+CHAPTER PROJECT COSTS AND BUDGETING 
+
+The annual budget for the Dallas Legal Liaison Division as of 
+
+November, 1975, the date of city assumption of program expenses, is shown in Table 6. During the 32 months of Law Enforcement Assitance Administration funding beginning in March, 1973, the Division's expenditures (on an annual basis), including both LEAA and city funds, were somewhat larger, reflecting the following factors: 
+
+Additional attorneys. The project started in March, 1973, with five attorneys, expanded to six and then seven, but has now been reduced to five again. 
+
+Starting a library. The initial grant provided the 
+
+Division with a solid legal research capability, which now needs only smaller annual expenditures to be kept up to date. 
+
+Automobiles, radios and voice pagers. The first grant provided for the purchase of four cars and radios; with the addition of extra attorneys, additional radio cars were provided with city funds. Now that the city has assumed the entire program budget, replacement cars will have to be purchased periodically by the Police Department and assigned from their pool to the attorneys. 
+
+Office equipment. The desks, typewriters, and other items purchased with grant funds will probably last several more years, and will be replaced by the department as the need arises. 79
+
+Thus, the $338,000 budget in Table 6 represents the continuing cost, exclusive of car and equipment operation, maintenance, and replacement, of the Legal Liaison "law firm" (about $125,000) 
+
+plus the District Attorney Liaison Unit and the Municipal Court Liaison Unit. 
+
+TABLE 6 Dallas Legal Liaison Division Budget (November 1975) Director's Salary Assistant City Attorneys' Salaries (4) 
+
+$ 20,136 79,836 
+
+Secretaries' Salaries (3) 
+
+29,808 
+
+Magistrate Unit 
+
+1 Sergeant & 5 Patrolmen 
+
+72,956 
+
+District Attorney Liaison Unit -- 1 Sergeant & 11 Investigators 
+
+126,828 
+
+Administrative Costs Supplies 
+
+Services 
+
+Sundry Charges 
+
+7,610 860 385 
+
+TOTAL 
+
+$338,419 
+
+7.1 Budgeting and Policy Decisions 
+
+Listing the general budget items a legal advisors unit will require is relatively straightforward. However (as is generally true of budget making), arriving at specific item descriptions and dollar amounts requires that several important policy decisions be made, explicitly or by default. 
+
+The logical first budget category, attorneys' salaries, requires serious thought, for example. Beyond the question of how many 80
+
+lawyers are needed (discussed in Chapter 2), there is the matter of salary levels. The starting point for salary-setting will almost surely be the assigned price for a civil service attorney title; if the police attorneys are Assistant City Attorneys, as they are in Dallas, the City Attorney will have an established scale of salaries for lawyers at various levels of experience and responsibility one which he or she will be extremely reluctant to upset. It may be a simple matter to match the experience of the attorneys to be hired (recalling that the Dallas approach requires lawyers with relevant practical experience) with the corresponding civil service grade and pay on the basis of civil service regulations and practice. 
+
+This approach to setting attorneys' compensation is not sufficient however. The Dallas experience is that the degree of responsibility placed on project attorneys, their operational independence in dealing with their assigned bureaus, and the maturity required to establish the proper attorney-client relationship within the department demand a high level of competence. Attracting highly qualified attorneys generally means competing with private law firms, federal regulatory and prosecutorial agencies, and the like. 
+
+Legal advisors' salaries should be "competitive" in this market, although the availability of "fringes" such as radio cars and the unique nature of the work are sufficiently attractive that exact parity is probably unnecessary. In Dallas, the attorneys' salaries as of November 1975 average about $20,000, most of them having started two and a half years ago at $17,500 or somewhat less. As the variety of their backgrounds (Chapter 3) would suggest, there is some variation around these figures, with actual salaries ranging from $17,200 to $23,000. For purposes of comparison, the starting salary for a highly qualified but inexperienced law school graduate at the best Dallas law firms is about $17,000; and the average salary of police legal advisors nationwide responding to a mid-1975 survey was about $18,000 (with 45% having cars provided, 61% being less than 5 years out of law school, and 83% having less than 5 years on the job). average starting salary for police legal advisors nationwide appears to be in the $13,000-$16,000 range. The Of course, the salaries for attorneys cannot be grossly variant from the City Attorney's pay structure, but some "sweetening" can palatably be added to the structure by making the police legal advisors positions middle or upper-level jobs to which other Assistant City Attorneys can be promoted (probably in addi- 81
+
+tion to new hiring "lateral entry"). Alternatively, an additional "special assignment" increment can be added to the usual pay rate for assignments to the police unit, arguably to reflect the additional demands of on-call availability, occasional evening roll call attendance, Saturday training sessions, and so forth. 
+
+Vehicles comprise another budget category requiring some thought before any decision is made. Admittedly, providing cars for legal advisors is costly, even if the assignment of cars is considered to enhance the drawing power of attorneys' salaries. And there are compromise alternatives: paying a mileage allowance instead for use of a private automobile (and presumably giving up the advantages of two-way radio), or obtaining one car to rotate with the "duty officer" assignment in a multi-lawyer unit. 
+
+The attorneys in Dallas, however, are in agreement with the IACP that "[e lach advisor should be permanently assigned an unmarked vehicle equipped with a two-way multi-channeled radio." Provision of a car gives the police attorney the same mobility as his or her client. Obviously, if the lawyer is expected to go. on-scene when called, he must have rapid transportation. Further, the availability of the car tends to encourage field visits, evening and weekend riding on patrol to become familiar with the practicalities of police work, shuttling to the academy to teach, and so forth. In deciding whether to provide cars for all the attorneys, another consideration has to be the comparison of the attorneys to other department staff and some reflection on the status effects of automobiles within the department. As one 
+
+Dallas attorney points out, to "be like the rest of the people" in the department in terms of perceived status demands an automobile and a "call number."
+
+Research materials is another area to which some thought should be given in estimating project costs. The basic office requirements for a functioning police lawyer surely include a copy of the annotated state penal code, a copy of the municipal ordinances, the annotated federal penal laws, and a state practice manual. 
+
+To keep up to date, subscriptions to a criminal law reporter service and a Supreme Court reporting service are essential. yond these fundamentals, the police legal advisor will require frequent access to an additional legal library of a more complete nature. Most lawyers and law firms would prefer to have a library which could cost $20,000 or so, plus an annual $2,000Be- 82
+
+$3,to keep current, for a fairly complete collection of state and federal law sources and pertinent periodicals. A primarily state-law library would be less expensive; a more complete collection including law reviews and treatises could cost much more. 
+
+Where to "draw the line" for a given legal advisors program will depend on several factors, including: the availability of funds; the accessibility of another library, such as the 
+
+City Attorney's, within reasonable walking distance; the number of attorneys; and the scope of their duties (e.g., labor law reporters would not be needed by attorneys who stay away from labor matters).
+
+The Dallas program opted for a reasonably complete library. The accessibility of resource materials is clearly an important element in producing high quality legal work. Without the materials, time-consuming library trips limit the amount and timeliness of advice a lawyer can give, especially when he is called upon for fast reactions, as a police legal advisor is. The temptation to go without checking every reference when they are troublesome and time-consuming to locate, and when many will probably be "blind alleys" anyway, becomes very strong and as a result important bits of the legal analysis of a problem may be inferior. 
+
+A final observation on research materials should be to note the availability of several publications specifically attuned to the needs of the police lawyer. The publications of the IACP's Legal 
+
+Officers Section include a newsletter and occasional other materials, in addition to the annual Police Law Reporter. The IACP itself issues publications of interest, such as the Public Safety 
+
+Labor Reporter, Legislative Research Digest, and Legislation and
+
+Litigation Report. 
+
+83 888
+
+CHAPTER MONITORING AND EVALUATION 
+
+For the purpose of analyzing the effectiveness of the Dallas Legal Liaison Division, the program can be viewed as having two broad and still somewhat overlapping goals: 
+
+Reduction of police error in the preparation of legal documents and in adherence to legal procedures; and 
+
+Provision of general legal counsel to the Police
+
+Department, acting as the department's "in-house counsel."
+
+These objectives, or rather substitute measures of them, are the subjects of both the Division's monitoring system and its evaluation of overall effectiveness. 
+
+8.1 The Monitoring System 
+
+In order to guide its efforts to achieve its goals, the Legal Liaison Division set a number of quantified activity target levels at the beginning of the project. Based on the best approximations then available, the project set monthly milestones for such things as the number of times the attorneys would assist at a crime scene or other location, prepare affidavits for arrest and search warrants, review prosecution reports, and review unsuccessful cases found to have no true bill or dismissed. The project also set target levels for the number of legal policy statements issued and the amount of training provided to the Dallas Police Department. Finally, the Division also projected specific percentage reductions in the proportion of cases whose prosecution fails due to police error. 85
+
+Monthly reports are prepared to compare each of these objectives to actual performance. Whenever a goal is not met, the project attempts to find the reason by careful investigation. If a target level is found to be unrealistic (as some of those based on pre-project records were), it is revised. If the cause is within the project, it is corrected. 
+
+Some target levels have been modified, in definition or in quantity; some have been exceeded while others have not been met; some have been "de-emphasized"; some are largely dependent on factors beyond the program's control and thus are poor measures of either "effort" or "success."
+
+One of the program's most basic activities is the review of all police-prepared "prosecution reports" (except for traffic, minor misdemeanor and internal corruption cases), before they are filed, to find and correct any errors which may have an effect on later court processing. At the outset of the program, 1,200 "prosecution reports" and 150 "supplemental prosecution reports" per month were expected to be reviewed and filed. By all accounts, every one of these reports filed by the Dallas Police Department since April, 1973, has been reviewed by a legal aide, virtually all before filing. The total number of reports reviewed per month averaged over 1,900 for the 12 months ending in October, 1975, as Table 3 (p. 40) shows.* More meaningful than keeping a scorecard, however, is observing that the activity levels have been continuously monitored during the term of the project, so that project personnel can focus their attention on following the initial plan and make deliberate, considered decisions before departing from it. By maintaining a monitoring system, the project avoids drifting into certain areas of activity and away from others without realizing that de facto policy decisions are being made. In addition, a clear documentation of program activities is created so that judgments of program effectiveness can at least begin from firm evidence of the program's activities. Other project targets included: the provision of assistance in the preparation of affidavits for search and arrest warrants in 12 cases per month; the preparation of 24 policy memoranda per year; and response to 200 calls for assistance at crime scenes, division stations, etc. on evenings, holidays and weekends. Each of these targets has been met or substantially exceeded during the project's first two years of operation. 86
+
+8.Evaluation 
+
+In order to judge its success in improving police filings, the project reviews all cases initiated by Dallas police in order to determine their dispositions. This has been done since September, 1973, and these two key statistics have been computed: the percentage of all cases presented to the grand jury which do not result in indictments because of some police error (grand jury "no-bills"); and the percentage of criminal cases dismissed in court due to police error.
+
+Even taken together, these matters do not give a perfect assessment of the extent of "police error" or its reduction but, as discussed below, they do permit a cautious assessment of police performance in the important area of legal document preparation. 
+
+The most obvious initial observation is that both police-caused no-bills and police-caused dismissals have declined significantly. 
+
+Figures 7 and 8, respectively, show the monthly percentage of no-bills and dismissals from June 1973 to March 1975. In each case there is a steady decline, at an average rate of .6% per month for no-bills, and .27% per month for dismissals. Both declines are statistically significant at high confidence levels. (For no-bills, t = 5.98, p <.001; for dismissals, t = 2.65, p <.01.). 
+
+Taken in combination, these results suggest that more than 1,000 cases per year are being won due to the efforts of the Legal Liaison Division. As discussed below, there are, however, alternative explanations. 10% 0% J J A SO ND 1973 ठा 
+
+F M AM J J A S ON 
+
+1974 1975 
+
+Figure 7: 
+
+No True Bill (Police Error) 
+
+87
+
+5% 0%
+
+J A SON D 
+
+1973 
+
+MA M J J A S ON 
+
+1974 1975 
+
+Figure 8: 
+
+Case Dismissal (Police Error) Reduction of Grand Jury No-Bills Due to Police Error 
+
+Before the Dallas Legal Aides for Police program was initiated, no detailed analysis of the reasons for "successful" and "unsuccessful" grand jury presentations had been attempted. It was known that approximately 29 percent of the cases* presented did not result in indictments, but the reasons for these no-bills had not been explored. One of the hypotheses on which the Legal Liaison Division was begun was that a significant proportion of the 29% of cases nobilled represented cases in which indictments should have been obtainable and could be obtained by improved case handling by the police. Partly because of the legal prohibition against releas-ing grand jury minutes, it was not feasible to examine old records to estimate the proportion of no-bills attributable to police error. And it was three months after the program attorneys began reviewing all police filings for legal errors before the program's new reporting procedure (described in Chapter Four) produced any data. At that time (July, 1973), the figures revealed an overall no-bill rate of about 23% and a rate of no-bills due to police error of about 14%. Two years later (July, 1975), the overall rate was about 20% and the police error rate about 4%. The data for this two-year period are summarized in Table 9. A case is defined as one charge against one defendant.
+
+88
+
+TABLE No-Bill Rates 1973-1975 Grand Jury 
+
+Period
+
+Cases 
+
+No-Bills 
+
+Police Error Other
+
+No-Bills No-Bills July-December 
+
+1973 4,600 1,056 637 (100%) (22.9%) (13.8%) 419 ( 9.1%) January-June 3,975 703 1974 (100%) (17.7%) 309 ( 7.8%) 394 ( 9.9%)
+
+July-December 
+
+4,129 744 1974 (100%) (18.0%) 236 ( 5.7%) 508 (12.3%) January-June 1975 4,301 (100%) 859 (20.0%) 184 675 ( 4.3%) (15.7%)
+
+The figures displayed in this table show, for this period of the program's operations, a small reduction in total no-bills, a significant reduction in police no-bills, and a significant increase in no-bills attributed to causes other than police error. They also show an initial no-bill rate six percentage points lower than had been anticipated a decline which might be attributable to the inception of the Legal Liaison program three months before the data begin, or which might be due to some other factor. 
+
+These statistics are open to differing interpretations. On the one hand, the initial estimate of 29% no-bills, with most due to police error, was made before the Legal Liaison's data system came into effect, and may be substantially erroneous. On the other, there may have been an abrupt immediate improvement in case quality with the introduction of the Division, which would not be reflected in the unit's data system.
+
+The continuing trend of increasing "other" causes and decreasing "police error" causes can be explained in a number of ways. It is possible that the nature of indictments was undergoing some long-term change during the period. Another possible explanation arises from the observation that some cases suffer both police errors and other causes of failure. The project classifies such cases as errors. With a decline in the frequency of police error, cases which would otherwise have been in this category will continue to be no-billed, but will no longer be classified as due to police error. If police error and other causes are 89
+
+statistically independent, this effect would account for a 1-2 percentage point increase in the "other" rate. If the various causes of no-bills are correlated, as they may well be, this number will be somewhat higher. A third potential source of the observed shift may be changes in the Division's classification policies from its early months to later periods. It is possible that as the project matured, its classifications became more accurate and the increased accuracy resulted in fewer reported police errors. There is some testimony tending to contradict each interpretation. 
+
+One Assistant District Attorney handled grand jury presentations during this period, and reported that his recommendation policies had not changed. The personnel responsible for compiling these statistics report no significant changes in the way in which police error has been detected. Similarly, Police Department officials know of no secular changes in crime patterns or other factors which might have made "other" errors more likely.
+
+This difficulty of interpretation is compounded by the fact that the exact operational definition of "police error" is not made explicit in monthly and quarterly reports. Project personnel defined "police error" as a positive response to this question: "Could we have prevented the loss of the case by having done something differently within the police department?" Such a broad definition is certainly subject to interpretation in its application to particular cases. There is no category, for example, for cases which are defective in more than one respect. While general division policy has been to classify such cases as police error, as noted above, there is necessarily a certain amount of judgment involved in the classification process. In difficult instances, some random elements will be reflected in the classification. permit comparisons, the assumption must be that whatever subjective and random forces were in effect during early measurements persist unaltered during later measurements of the same variables. 
+
+Project attorneys stated that they consistently erred on the side of including a case in the police error category whenever a question arose. And every no-bill and dismissal case assigned to the "police error" category is reviewed by a staff attorney and a Deputy Police Chief, a procedure which should tend to achieve consistent results over a large number of cases. То Thus, the only certain conclusion possible is that, by an interpretation, there has been some reduction in grand jury no-bills due 90
+
+to police error during the period of project operations; as presently measured that rate of police error is less than 5 percent. 
+
+Reduction in Felony Case Dismissals Due to Police Error 
+
+As was the case with grand jury no-bill information, data on the reasons for felony case dismissals were not consistently available until after the Legal Liaison Division program was instituted. 
+
+However, even though the first program-generated data on dismissals begins five months after the program started, the characteristic delay between case filing and disposition (averaging six or more months during this period) means that the first month or so of case dismissal data represents largely cases filed before the legal advisors began reviewing every police filing. Taking the first four months' data, which are relatively consistent from month to month, as a base period, then, the data in Table 10 show an overall dismissal rate varying between 19.1% and 23.9% (six-month averages), and a rate of dismissals due to police error declining from over 6% to under 3%. During the same period, other-caused dismissals appear to have increased by three percentage points. 
+
+TABLE 10 Dismissal Rates 1973-1975 Case 
+
+Police Error Other 
+
+Period
+
+Dispositions Dismissals Dismissals Dismissals 
+
+September- 2,194 December 1973 (100%) 937 (19.9%) 141 (6.4%) 296 (13.5%) (four months)
+
+January-June 
+
+3,564 807 1974 (100%) (23.6%) 169 (4.7%) 638 (17.9%)
+
+July-December 
+
+3,727 890 149 741 1974 (100%) (23.9%) (4.0%) (19.9%) January-June 1975 4,499 (100%) 860 (19.1%) 115 (2.6%) 745 (16.5%) 91
+
+Like the no-bill data, then, the dismissal data suggest either a countervailing increase in non-police causes or a change over time in the process used to assign cases dismissed to the "police" and "other" categories. The same possibility exists that cases with both police and other error in the early stages of the project have been replaced by cases with only non-police errors. Also, the same ambiguities as to what "police error" represents are present. Clearly, whatever reduction in police error has occurred has had relatively little impact on the overall dismissal rate, since most dismissals are unrelated to police error. Again, the precise relationship of police error to dismissals was unknown before the project began to collect its data, so the fact that only a small proportion of dismissals are due to police error can hardly be regarded as a shortcoming of the program. 
+
+8.3 Future Evaluation Considerations 
+
+The type of monitoring system implemented in Dallas has clearly proved its worth as a management tool. As used there, it not only allowed the program to evaluate its success, but also provided the Dallas Police Department with information about the quality of its cases which had never before been collected. Information collected by the feedback system also played a role in reshaping the Legal Liaison Division's goals and activities, as evidence accumulated to show more precisely what errors the police were committing. 
+
+While the Dallas monitoring system has served the needs of the project well, it has left unanswered several questions which future evaluations of other similar legal advisor programs might wish to address. Among these is the problem posed by the increases in dismissals and no-bills for reasons other than police error. 
+
+A more rigorous evaluation would impose explicit classification rules, that is, more exact and more completely spelled-out ways of deciding what is "police error" and what is not, and of identifying multiple-error cases. This might then show more clearly the extent to which any decrease in observed police error reflects factors other than actual changes in the quality of the filings. 92
+
+A complete evaluation could also be designed to give more direct qualitative attention to the additional roles played by legal advisors. The Dallas unit, like most police attorney groups, plays a role in the shaping of police department policy. Such a measure as the number of policy memoranda issued each month does not really address the extent to which such memoranda actually influence policy, or the impact of these policy changes on actual practices. There are instances in which it may be possible to test the influence of specific policy decisions by observing subsequent police actions. In a thorough evaluation, such mini-studies might provide useful information. If substantial amounts of time are devoted to the policy role, or if it seems that the unit imposes significant changes on the department, such matters as the effects of policy statements are clearly worth examining. To take another example, the Dallas Legal Liaison Division and others like it play an important role in the training of both recruits and regular officers. While evaluating the quality of training programs is never easy, and cannot be adequately covered in this brief chapter, it may well be worth doing, in light of the time invested in the process by both trainers and trainees.
+
+Another evaluation question deals with the relationship of costs to project "output." In one sense, it is never possible to produce perfect cost-benefit ratios for a social investment like a police legal advisor program. Nevertheless, budgeting decisions must be made, and ultimately they are based on opinions of what the costs and benefits of alternative programs are. Even rough approximations can sometimes be of help. 
+
+The first question to be asked in such an analysis is: how much does it cost, on an average, for each case which is won instead of lost through legal unit services? In the Dallas instance, the answer is unclear: if the decline in police error rates first described above (Section 8.2) can be taken at face value, and attributed to the Legal Liaison "law firm" alone (not the investigative personnel), the answer is approximately $125 per case, a not unreasonable figure given the amount of effort usually expended on finding and prosecuting alleged offenders. If, however, the unit is credited with a smaller decline in total no-bills and dismissals (only the total reduction in no-bills and dismissals, say), the result jumps to $450 per case or more, somewhat more questionable as an investment. Clearly, greater precision is required before a trustworthy cost estimate can be produced. 93
+
+That the uncertainty in the Dallas example is so high results almost entirely from the unanticipated increase in cases which failed without police error. Had the evaluation been designed to explain or circumvent this problem (by more accurate pre-project data, for example), more confidence could be placed in the observed change in police error, and more precise average cost estimates could be constructed. An evaluator who wishes to discuss "cost-effectiveness" will clearly have to make some appropriate provision to deal with this problem. 
+
+Of course, a discussion of cost-effectiveness should not be confined to the effects of the project on the number of cases lost. 
+
+Significant benefits also accrue from the training and policy formulation activities of the Division noted above, as well as from its role of general legal counsel for the policy department, and these should clearly be considered in assessing the worth of the program. 94
+
+APPENDICES Annotated References Excerpt from IACP Legal Officers Section News: 
+
+Legal Advisors Survey Results 
+
+95 95
+
+REFERENCES 
+
+These few paragraphs are not a comprehensive bibliography of police legal advisor literature. Instead, only four leading documents on the subject are presented and briefly described. From an examination of the cited sources, the reader can quickly learn the conventional wisdom on the subject. By pursuing the additional references mentioned in the documents listed below, the reader can probably become an expert on police legal advisors. 
+
+The President's Commission on Law Enforcement and the Administration of Justice, Task Force Report: The Police, Washington, D.C. 
+
+U.S. GPO, 1967, 239 pp. 
+
+A brief but cogent discussion of the police legal advisor's role (p. 50) is expanded by a staff report (p. 63) which introduces many of the most important issues in the area. The staff report apparently served as ah impetus for the establishment of many legal advisor programs after the initiation of the Law Enforce ment Assistance Administration grant program. 
+
+Wayne S. Schmidt, ed., Guidelines for a Police Legal Unit, Gaithersburg, Maryland, International Association of Chiefs of Police, 1972, 33 pp. Available from the IACP, Eleven Firstfield Road, Gaithersburg, Maryland 20760.
+
+This document covers the field, providing general information plus the recommendations of the IACP's Police Legal Center, based on extensive contact with police legal advisors. Topics discussed include the rationale for the police legal unit, the history of such units in the United States, and key practical considerations such as the organization of a unit, staffing and staff duties, training duties, liaison functions, sources of funds, and special problems. A sample budget and sample standard operating procedures for a police legal advisor's unit are included as appendices. 
+
+The IACP is now revising and expanding these guidelines, with the new edition expected by mid-1976. In addition to these publications, the IACP has a Legal Officers Section which generates regular newsletters and maintains a registry of police legal advisors. 
+
+From time to time, the IACP has sponsored legal advisor training courses. By contacting the Police Legal Center of the IACP, one may obtain additional materials and assistance.
+
+97
+
+National Advisory Commission on Criminal Justice Standards and 
+
+Goals, Report on Police, Washington, D.C., U.S. GPO, 1973, 668 pp.
+
+Standard 11.2 (p. 280) of this report urges all police agencies to obtain legal assistance of one variety or another and outlines possible ways of doing this, possible duties of the advisors, and recommended limitations on the legal advisors' activities. Black letter standards are accompanied by a similarly declarative commentary and a list of references. 
+
+American Bar Association Project on Standards for Criminal Justice, Standards Relating to the Urban Police Function, Chicago: Ameri can Bar Association, 1973, 303 pp. Available from the American 
+
+Bar Association, 1155 East 60th Street, Chicago, Illinois 60637. 
+
+Sections 7.12, 7.13 and 7.14 of the ABA standards argue for the establishment of police legal advisor positions and the involvement of police attorneys in planning and policy formulation. 
+
+General policy concerns are outlined. Black letter standards are accompanied by a commentary. 988
+
+LEGAL ADVISORS SURVEY RESULTS The following excerpt from the IACP's Legal Officers Section News presents the results of a survey of police legal advisors taken at an "in-service" training course for legal advisors in 1975. 
+
+The bias, if any, of the survey respondents is unclear. They probably include more than one representative of some larger departments, and yet 69 of the 110 are "solo practitioner" police lawyers; the participants did not have to pay tuition to participate, but they did have to devote a week to the course. 99 66
+
+RESEARCH LEGAL 
+
+IACP 
+
+LEGAL OFFICERS SECTION NEWS 
+
+POLICE 
+
+June July 1975 
+
+"SHORT COURSE FOR POLICE LEGAL ADVISORS" SURVEY RESULTS 
+
+During the Short Course in Cleveland, over one hundred Police Legal Advisors filled out survey forms pertaining to their employment. This represents over one-third of existing PLAS, and because the conference was provided without cost to legal advisors, the survey must be considered economically random and statistically valid.
+
+Salaries: 
+
+Under $10,000: 2 $10,000 - $12,999: 8 $18,107 median: $17,860 13,000 
+
+15,999: 26 mean: 16,000 
+
+18,999: 31 19,000 
+
+21,999: 18 
+
+Mode: 
+
+22,000 
+
+24,999: 12 25,000 
+
+27,000: 7 
+
+28,000 - 29,999: 0 
+
+Over $30,000:
+
+Automobile Provided: 
+
+2 
+
+Vol. 2, No. 4 % of Time Devoted to Outside Practice: 
+
+Under 10%: 21 
+
+10% - 25%: 24 
+
+26% 50%: 4 
+
+Over 50%: 
+
+Fringe Benefits: 
+
+Yes 
+
+106; No 4. 
+
+Travel Funds: 
+
+Mean: 13% 
+
+Median: 10%
+
+Mode: 
+
+5%, 10% 
+
+Yes 68; No 39; No response
+
+Amount of Travel Funds (per year): 
+
+$18,000 
+
+Under $1,000: $1,000 - $1,499: 23 $1,500 
+
+$1,999: $2,000 and over: "As required": "On Call" 24 Hours: 3. Yes 
+
+49; No 61. 
+
+Mileage Provided: Yes 
+
+36; No 
+
+Mean : 12¢/mi. Median: 17¢/mi. Mode: 12¢/mi. Yes 
+
+98; No 
+
+10; No response 
+
+2. 
+
+44; No response - 30.
+
+Off Duty Call-Back Capabilities: 
+
+Yes 64; No 39; No response 1. 
+
+How Long Has Legal Unit Been in Existence? 
+
+Under 1 year: 12 
+
+1 - 5 years: 67 
+
+10 years: 
+
+11 and above:
+
+No response: 
+
+12 12 
+
+How Long Have You Been a Legal Advisor? 
+
+Secretary Provided: 
+
+Full Time: 57
+
+Part Time: 34 
+
+None: 19 
+
+Outside Practice Allowed: 
+
+Yes 66; No 
+
+42; No response 2. 
+
+Under one year: 31 
+
+1 - 5 years: 70 
+
+6 - 10 years: 
+
+Above 10 years:
+
+No response: 
+
+30432 101
+
+How Long do you Intend to Remain a Legal Advisor? 
+
+5 years: 
+
+10 years: 51 
+
+Above 10 years: 8
+
+No response: 
+
+44 
+
+Number of Preceding Legal Advisors: 
+
+None: 49 
+
+One: 27 
+
+Two: 13 
+
+Three: 6 Four Six: 
+
+Seven Thirteen: 
+
+No response: 
+
+465 
+
+Number of Legal Advisors Presently in Unit: 
+
++880 One: 69 
+
+Two - Four: 
+
+30 
+
+Five Ten: 
+
+Over ten: 
+
+No response: 
+
+1 
+
+Are you Designated as Something Other Than a 
+
+Police Legal Advisor? (If so, list title.) Yes 
+
+54; No 54; No response 
+
+(Other Designations) 
+
+Assistant City Attorney: 9
+
+Deputy City Attorney: 
+
+2. 
+
+Special Assistant Corporation Counsel: 3 
+
+Assistant State Attorney:
+
+Legal Coordinator: 2 Deputy District Attorney: 
+
+Police Captain: 2
+
+Assistant General Counsel: 
+
+General Counsel: 1 
+
+2 2 
+
+Law Enforcement Legal Advisor: 1 Deputy General Counsel: 1 Administrative Assistant: 1 Sheriff's Legal Advisor: 
+
+1 
+
+Sergeant, Attorney: 1
+
+Legal Liaison Officer: 1 Department Advocate: 
+
+1 Interns: 75 58 None: 
+
+One Two: 18 
+
+Three Five: 1 213 
+
+Six - Ten: 2 
+
+Over ten: 1 
+
+No response: 
+
+Number of Years out of Law School: 
+
+0 5 years: 
+
+6 - 10 years: 629 66 22 
+
+Over 16 years: 11. 2 
+
+11 15 years:
+
+No response: 
+
+Are You a Sworn Police Officer? 
+
+Yes 38; No 
+
+70; No response 2.
+
+Legal Consultant: 1 Police Attorney: 1 
+
+Staff Attorney: 1
+
+Legal Advisor: 1 Legal Advisor to Chief of Detectives: 1 Legal Counsel: 1 
+
+Assistant Attorney General and Counsel to the Department: 1
+
+Deputy Attorney General: 1 
+
+Assistant County Prosecutor:
+
+Police Specialist: 1 Law Enforcement Consultant: 1 Legal Officer: 1 Agency Legal Counsel: 1 Police Law Specialist: 1 
+
+1 
+
+Associate Counsel and Legal Advisor: 1 Special Deputy County Attorney: 1 Detective Captain: 1 No response: 3 
+
+Are you Specialized in your Department?
+
+Number of Departments Served: 
+
+One : 90 
+
+Two - Five: 7 Over five: 
+
+Number of Officers Served: 
+
+Under 500: 500 - 999: 59 13 
+
+1,000 - 2,999: 18 
+
+3,000 - 4,999: 6 
+
+Over 5,000:
+
+No response: 
+
+659 Yes 
+
+19; No 90; No Response - 1. 
+
+(Area of Specialization) 
+
+Discipline Cases: 4 
+
+Prosecution: 3
+
+Narcotics Prosecution and Investigation: 1 Administrative Policies and Rulemaking: 
+
+Litigation of Police Suits: 1 
+
+1 
+
+Airport/Seaport Security Project Advisor: 1 Matters affecting Detective Bureau (Disci pline, Corruption, New Laws):
+
+Legal Advisor/Agent--Criminal Intelligence Section: 1 Drug Prosecutions, Police Training, Workmens Compensation, Tort Claims: 1 
+
+102
+
+S.T.O.P. Robbery and Burglary: 
+
+Law Instructor at Academy; Employee Relations, Discipline, etc.: 1 Criminal Law Matters: 
+
+Property Releases, Coordinating Civil and Criminal Cases: 1 EEO Contractor, Discipline: 1 I Make Court Appearances: 
+
+Do You Carry a Weapon? Yes 
+
+51; No 59. 
+
+CCW Permit? Yes 
+
+19; No 
+
+57; No response 34. Yes 
+
+70; No 39; No response 1.
+
+Was Your Legal Unit Ever Funded by Federal or State Monies? 
+
+Are You a Member of the State Bar Where 
+
+You are a Legal Advisor? 
+
+Yes 106; No 4. 
+
+Is Bar Membership a Requirement? Yes 
+
+50; No 
+
+32; No response - 28. 
+
+Yes 78; No 
+
+31; No response .ܢ 
+
+Do You Take an Active Part in Internal 
+
+Discipline? Yes 
+
+26; No 
+
+83; No response - 1.
+
+Participation in Field Work: 
+
+Is Bar Membership a Necessity (Opinion)? 
+
+Yes 
+
+93; No 
+
+15; No response 2. 
+
+Do You Attend Police Staff Meetings? Yes 
+
+86; No 24.
+
+% of Time in the Field: 
+
+10% or less: 48 
+
+11% - 20%: 10 
+
+More than 20%: 18 
+
+No response: 
+
+10 
+
+Yes 69; Limited 
+
+29; No 12. 
+
+Do You Experience Resistance or Objection to the Police Legal Advisor Concept? 
+
+Yes 19; No 83; No response 8. Activity 
+
+Police Lineups 
+
+Are You Involved in the Following as a Legal Advisor?
+
+Police Interrogations Drafting Arrest Complaints Drafting Search Warrants Viewing Crime Scenes Field Investigations Police Raids 
+
+Civil Disturbances
+
+Electronic Surveillance 
+
+Yes 2 2 2 Limited 855 No 
+
+No Response 
+
+27 44 39 15 43 51 1 21 30 57 48 40 21 44 44 1 53 33 49 34 2 29 18 2 23 33 47 21 24 * 2 2 2 5 2 25 61 # 3 g 23 103
+
+EXEMPLARY PROJECTS REVIEW BOARD 
+
+Members of the Exemplary Projects Review Board in September, 1975, when the Legal Liaison Division of the Dallas Police Department was selected, were the following:
+
+State Planning Agency Directors Jay Sondhi, Executive Director Missouri Law Enforcement Council 
+
+Benjamin H. Renshaw, Director
+
+District of Columbia Office of Criminal Justice Plans and Analysis LEAA Officials 
+
+Mary Ann Beck (Chairperson)
+
+National Institute of Law Enforcement and Criminal Justice Louis Biondi National Institute of Law Enforcement and Criminal Justice 
+
+Robert Diegleman
+
+Office of Planning and Management 
+
+Dr. James Howell
+
+Office of Juvenile Justice and Delinquency Prevention 
+
+James C. Swain
+
+Courts Division Office of Regional Operations 
+
+Paul Sylvestre
+
+National Criminal Justice Information and Statistics Service 
+
+Gwen Monroe
+
+San Francisco Regional Office 
+
+James Vetter
+
+Denver Regional Office 
+
+U.S. GOVERNMENT PRINTING OFFICE: 1976 O-215-585 
+
+104
+
+(CUT ALONG THIS LINE) 
+
+4. 3. 
+
+EXEMPLARY PROJECT: THE DALLAS POLICE Legal Liaison Division 
+
+To help LEAA better evaluate the usefulness of this document, the reader is requested to answer and return the following questions. 1. 
+
+What is your general reaction to this document? 2. Excellent
+
+Above Average 
+
+Average Poor Useless
+
+To what extent do you see the document as being useful in terms of: (check one box on each line)
+
+Modifying existing projects Training personnel Administering ongoing projects 
+
+Providing new or important information Highly Useful
+
+Of Some 
+
+Use Not Useful
+
+Developing or implementing new projects To what specific use, if any, have you put or do you plan to put this particular document?
+
+Modifying existing projects Training personnel Administering ongoing projects Developing or implementing new projects 
+
+Other: 
+
+Do you feel that further training or technical assistance is needed and desired on this topic? If so, please specify needs. 5. 
+
+In what ways, if any, could the document be improved: (please specify, e.g. structure/ organization; content/coverage; objectivity; writing style; other) 6. 
+
+How did this document come to your attention? (check one or more) 7. 
+
+LEAA mailing of package 
+
+Contact with LEAA staff 
+
+Your organization's library 
+
+Other (please specify),
+
+LEAA Newsletter 
+
+National Criminal Justice Reference Service 
+
+Have you contacted or do you plan to contact the Los Angeles Project site for further information?
+
+8. 
+
+Check ONE item below which best describes your affiliation with law enforcement or criminal justice. If the item checked has an asterisk (*), please also check the related level, i.e.,
+
+State 
+
+Federal 
+
+LEAA Regional Office Headquarters, LEAA 
+
+County
+
+Local Police Court 
+
+State Planning Agency Regional SPA Office College, University Commercial Industrial Firm Citizen Group Correctional Agency 
+
+Legislative Agency 
+
+Other Government Agency Professional Associations * Crime Prevention Group 
+
+U.S. DEPARTMENT OF JUSTICE LAW ENFORCEMENT ASSISTANCE ADMINISTRATION 
+
+WASHINGTON, D.C. 20531
+
+OFFICIAL BUSINESS PENALTY FOR PRIVATE USE, $300 
+
+9. 10. 
+
+POSTAGE AND FEES PAID U.S. DEPARTMENT OF JUSTICE 
+
+JUS-436 
+
+U.S.MAIL 
+
+Director
+
+Office of Technology Transfer National Institute of Law Enforcement and Criminal Justice U.S. Department of Justice 
+
+Washington, D.C. 20531
+
+Your Name Your Position Organization or Agency. 
+
+Address Telephone Number Area Code: 
+
+Number: 
+
+If you are not currently registered with NCJRS and would like to be placed on their mailing list, check here. 9506 84 
+
+FOLD 
+
+FOLD 
+
+(CUT ALONG THIS LINE)
+
+U.S. DEPARTMENT OF JUSTICE LAW ENFORCEMENT ASSISTANCE ADMINISTRATION 
+
+WASHINGTON, D.C. 20531 OFFICIAL BUSINESS POSTAGE AND FEES PAID U.S. DEPARTMENT OF JUSTICE 
+
+JUS-436 
+
+THIRD CLASS 
+
+U.S.MAIL
+
+DATE DUE 
+
+APR 271984 
+
+HARVARD LAW LIBRARY 
+
+3 2044 032 501 264 
+
+GAYLORD 
+
+PRINTED IN U.S.A.

@@ -1,0 +1,12 @@
+  streamed 3000: modern=23 old=2977
+  streamed 6000: modern=148 old=5852
+
+modern=150  old=6000
+
+variant           recall ≥1  recall ≥2    |  FP old ≥1  FP old ≥2
+raw (no clean)        99.3%      96.0%    |      31.9%       7.4%
+stamp-stripped        98.7%      95.3%    |      16.4%       5.1%
+date-context          94.0%      88.0%    |       7.5%       2.2%
+context + front 20%      74.7%      63.3%    |       1.9%       0.5%
+
+recall = % of modern books caught; FP = % of genuinely old books wrongly flagged.

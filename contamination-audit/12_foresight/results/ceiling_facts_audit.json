@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "version": "v1",
+  "date": "2026-07-07",
+  "reader": "Qwen/Qwen2.5-3B",
+  "scoring": "certified v41 path",
+  "items": "13 universally-known facts, plain register"
+ },
+ "accuracy": 1,
+ "mean_p_truth": 0.891,
+ "n": 13,
+ "misses": [],
+ "rows": [
+  {
+   "name": "moon_first",
+   "truth": "Neil Armstrong",
+   "p_truth": 0.937,
+   "picked": "Neil Armstrong",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "wwii_germany",
+   "truth": "Adolf Hitler",
+   "p_truth": 0.994,
+   "picked": "Adolf Hitler",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "first_potus",
+   "truth": "George Washington",
+   "p_truth": 0.745,
+   "picked": "George Washington",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "mona_lisa",
+   "truth": "Leonardo da Vinci",
+   "p_truth": 0.995,
+   "picked": "Leonardo da Vinci",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "relativity",
+   "truth": "Albert Einstein",
+   "p_truth": 0.989,
+   "picked": "Albert Einstein",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "titanic",
+   "truth": "the Titanic",
+   "p_truth": 0.976,
+   "picked": "the Titanic",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "atom_bomb",
+   "truth": "the United States",
+   "p_truth": 0.96,
+   "picked": "the United States",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "sputnik",
+   "truth": "Sputnik",
+   "p_truth": 0.974,
+   "picked": "Sputnik",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "everest",
+   "truth": "Mount Everest",
+   "p_truth": 0.954,
+   "picked": "Mount Everest",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "hamlet",
+   "truth": "William Shakespeare",
+   "p_truth": 0.966,
+   "picked": "William Shakespeare",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "gravity",
+   "truth": "Isaac Newton",
+   "p_truth": 0.888,
+   "picked": "Isaac Newton",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "atlantic",
+   "truth": "the Atlantic",
+   "p_truth": 0.559,
+   "picked": "the Atlantic",
+   "correct": true,
+   "covered": true,
+   "type": "name"
+  },
+  {
+   "name": "lion_phrase",
+   "truth": "the lion",
+   "p_truth": 0.649,
+   "picked": "the lion",
+   "correct": true,
+   "covered": true,
+   "type": "phrase"
+  }
+ ],
+ "verdict": "ARM READS KNOWLEDGE. On 13 universally-known facts the exact certified arm, driven by a small (3B) reader, scores 100% correct (mean p(truth)=0.89). The arm turns knowledge into the right pick. So the battery misses (incl. nazi_path ~33%) are ITEM/framing difficulty, not an arm defect: KEEP the arm; fix/flag ambiguous items; and note the arm needs a competent reader + clean options to be trusted."
+}

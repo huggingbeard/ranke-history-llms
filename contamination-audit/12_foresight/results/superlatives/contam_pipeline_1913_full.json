@@ -1,0 +1,568 @@
+{
+ "meta": {
+  "cutoff": "1913",
+  "battery": "battery_assoc_v1.json",
+  "battery_version": "v1.2",
+  "suffix": "_full",
+  "floor95": 2.465,
+  "n_floor": 245
+ },
+ "targets": {
+  "Hitler": {
+   "status": "anchor_dev",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "nazi-movement",
+    "ww2-figures"
+   ],
+   "tells_fired": {
+    "Stalin": 3.054,
+    "Eisenhower": 3.672,
+    "Nazis": 4.118
+   },
+   "all_tell_lifts": {
+    "Stalin": 3.054,
+    "Eisenhower": 3.672,
+    "Nazis": 4.118,
+    "chancellor": -0.26,
+    "Führer": 0.726
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "Munich": 0.508,
+    "Austria": -0.564
+   }
+  },
+  "Trotsky": {
+   "status": "normal",
+   "verdict": "FLAGGED",
+   "clusters_fired": [
+    "military",
+    "rivals"
+   ],
+   "tells_fired": {
+    "Stalin": 4.046,
+    "Red Army": 4.463
+   },
+   "all_tell_lifts": {
+    "Stalin": 4.046,
+    "Red Army": 4.463,
+    "Mexico": 0.231,
+    "commissar": 2.223
+   },
+   "innocents_fired": {
+    "Siberia": 3.105,
+    "exile": 2.787
+   },
+   "all_innocent_lifts": {
+    "Petersburg": 1.902,
+    "Siberia": 3.105,
+    "exile": 2.787
+   }
+  },
+  "Ebert": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "president": -2.062,
+    "republic": -2.642,
+    "Weimar": -1.093,
+    "chancellor": -1.184
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "socialist": -1.937,
+    "party": -4.338,
+    "unions": -2.519
+   }
+  },
+  "Ludendorff": {
+   "status": "normal",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "Hitler": -0.093,
+    "putsch": -0.223,
+    "Tannenberg": 1.889,
+    "Hindenburg": -0.845
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {
+    "general": 1.449,
+    "staff": 1.571
+   }
+  },
+  "Kemal": {
+   "status": "provisional_name_culture",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "republic"
+   ],
+   "tells_fired": {
+    "Ankara": 4.887,
+    "sultan": 4.091
+   },
+   "all_tell_lifts": {
+    "Ankara": 4.887,
+    "republic": -3.069,
+    "Gallipoli": -0.772,
+    "sultan": 4.091
+   },
+   "innocents_fired": {
+    "Ottoman": 3.894,
+    "officer": 2.55
+   },
+   "all_innocent_lifts": {
+    "Ottoman": 3.894,
+    "officer": 2.55
+   }
+  },
+  "Eisenhower": {
+   "status": "flagged_whisper",
+   "verdict": "DARK",
+   "clusters_fired": [],
+   "tells_fired": {},
+   "all_tell_lifts": {
+    "Normandy": -0.716,
+    "invasion": 1.018,
+    "president": 2.369,
+    "Hitler": -0.301,
+    "general": 1.437
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "poison gas": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww1-battle"
+   ],
+   "tells_fired": {
+    "masks": 6.406
+   },
+   "all_tell_lifts": {
+    "Ypres": -1.643,
+    "trenches": 2.094,
+    "Flanders": -1.957,
+    "masks": 6.406
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "tank": {
+   "status": "risky_sense",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "ww1-battle"
+   ],
+   "tells_fired": {
+    "trenches": 3.301
+   },
+   "all_tell_lifts": {
+    "Somme": 0.585,
+    "trenches": 3.301,
+    "armoured": 0.317
+   },
+   "innocents_fired": {
+    "water": 5.996
+   },
+   "all_innocent_lifts": {
+    "water": 5.996,
+    "steel": 1.996
+   }
+  },
+  "fascist": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "italy"
+   ],
+   "tells_fired": {
+    "Mussolini": 3.493,
+    "Italy": 4.808,
+    "Rome": 2.704
+   },
+   "all_tell_lifts": {
+    "Mussolini": 3.493,
+    "Italy": 4.808,
+    "Rome": 2.704
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "insulin": {
+   "status": "normal",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "medicine"
+   ],
+   "tells_fired": {
+    "diabetes": 8.194
+   },
+   "all_tell_lifts": {
+    "diabetes": 8.194,
+    "Toronto": -0.381,
+    "Banting": 0.837
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  },
+  "smartphone": {
+   "status": "negative_anchor",
+   "verdict": "WHISPER",
+   "clusters_fired": [
+    "tech"
+   ],
+   "tells_fired": {
+    "wireless": 4.904,
+    "machine": 3.742
+   },
+   "all_tell_lifts": {
+    "pocket": 1.734,
+    "wireless": 4.904,
+    "machine": 3.742
+   },
+   "innocents_fired": {},
+   "all_innocent_lifts": {}
+  }
+ },
+ "lifts_full": {
+  "Hitler": {
+   "Austria": -0.564,
+   "Eisenhower": 3.672,
+   "Führer": 0.726,
+   "Munich": 0.508,
+   "Nazis": 4.118,
+   "Stalin": 3.054,
+   "chancellor": -0.26
+  },
+  "Trotsky": {
+   "Mexico": 0.231,
+   "Petersburg": 1.902,
+   "Red Army": 4.463,
+   "Siberia": 3.105,
+   "Stalin": 4.046,
+   "commissar": 2.223,
+   "exile": 2.787
+  },
+  "Ebert": {
+   "Weimar": -1.093,
+   "chancellor": -1.184,
+   "party": -4.338,
+   "president": -2.062,
+   "republic": -2.642,
+   "socialist": -1.937,
+   "unions": -2.519
+  },
+  "Ludendorff": {
+   "Hindenburg": -0.845,
+   "Hitler": -0.093,
+   "Tannenberg": 1.889,
+   "general": 1.449,
+   "putsch": -0.223,
+   "staff": 1.571
+  },
+  "Kemal": {
+   "Ankara": 4.887,
+   "Gallipoli": -0.772,
+   "Ottoman": 3.894,
+   "officer": 2.55,
+   "republic": -3.069,
+   "sultan": 4.091
+  },
+  "Eisenhower": {
+   "Hitler": -0.301,
+   "Normandy": -0.716,
+   "general": 1.437,
+   "invasion": 1.018,
+   "president": 2.369
+  },
+  "poison gas": {
+   "Flanders": -1.957,
+   "Ypres": -1.643,
+   "masks": 6.406,
+   "trenches": 2.094
+  },
+  "tank": {
+   "Somme": 0.585,
+   "armoured": 0.317,
+   "steel": 1.996,
+   "trenches": 3.301,
+   "water": 5.996
+  },
+  "fascist": {
+   "Italy": 4.808,
+   "Mussolini": 3.493,
+   "Rome": 2.704
+  },
+  "insulin": {
+   "Banting": 0.837,
+   "Toronto": -0.381,
+   "diabetes": 8.194
+  },
+  "smartphone": {
+   "machine": 3.742,
+   "pocket": 1.734,
+   "wireless": 4.904
+  },
+  "Brennt": {
+   "Ankara": 1.043,
+   "Austria": -0.764,
+   "Banting": 0.209,
+   "Eisenhower": -0.371,
+   "Flanders": 1.852,
+   "Führer": 1.156,
+   "Gallipoli": -1.799,
+   "Hindenburg": -0.915,
+   "Hitler": -1.27,
+   "Italy": 0.036,
+   "Mexico": 1.466,
+   "Munich": 0.688,
+   "Mussolini": 0.107,
+   "Nazis": 0.192,
+   "Normandy": 0.706,
+   "Ottoman": 0.831,
+   "Petersburg": 1.447,
+   "Red Army": -0.018,
+   "Rome": 0.474,
+   "Siberia": -0.83,
+   "Somme": -0.156,
+   "Stalin": -0.186,
+   "Tannenberg": 3.544,
+   "Toronto": 0.107,
+   "Weimar": 2.487,
+   "Ypres": 0.406,
+   "armoured": -0.838,
+   "chancellor": 0.323,
+   "commissar": 0.267,
+   "diabetes": 0.336,
+   "exile": -2.164,
+   "general": -1.303,
+   "invasion": -1.338,
+   "machine": -0.042,
+   "masks": 1.581,
+   "officer": 1.79,
+   "party": -1.97,
+   "pocket": -0.044,
+   "president": 0.339,
+   "putsch": 0.223,
+   "republic": -2.68,
+   "socialist": -0.664,
+   "staff": -0.621,
+   "steel": 0.36,
+   "sultan": -0.342,
+   "trenches": -0.4,
+   "unions": -1.07,
+   "water": 1.434,
+   "wireless": -0.214
+  },
+  "Tolliver": {
+   "Ankara": -0.028,
+   "Austria": -1.713,
+   "Banting": 1.181,
+   "Eisenhower": 0.315,
+   "Flanders": 3.279,
+   "Führer": -1.175,
+   "Gallipoli": -0.838,
+   "Hindenburg": -3.544,
+   "Hitler": 1.307,
+   "Italy": 0.174,
+   "Mexico": 1.698,
+   "Munich": -2.117,
+   "Mussolini": -1.765,
+   "Nazis": 0.205,
+   "Normandy": 2.316,
+   "Ottoman": 1.056,
+   "Petersburg": 1.156,
+   "Red Army": 0.007,
+   "Rome": 0.941,
+   "Siberia": -0.529,
+   "Somme": 0.405,
+   "Stalin": -0.647,
+   "Tannenberg": -1.825,
+   "Toronto": 0.32,
+   "Weimar": 0.254,
+   "Ypres": -0.529,
+   "armoured": -0.667,
+   "chancellor": -1.374,
+   "commissar": -0.565,
+   "diabetes": -0.326,
+   "exile": -0.785,
+   "general": 0.608,
+   "invasion": -0.309,
+   "machine": 0.569,
+   "masks": 0.091,
+   "officer": 0.927,
+   "party": 0.81,
+   "pocket": 1.081,
+   "president": 0.819,
+   "putsch": -1.263,
+   "republic": 0.41,
+   "socialist": -1.659,
+   "staff": 0.53,
+   "steel": 0.057,
+   "sultan": 0.193,
+   "trenches": 0.35,
+   "unions": -1.286,
+   "water": 0.207,
+   "wireless": -0.353
+  },
+  "Bathe": {
+   "Ankara": 1.917,
+   "Austria": 0.483,
+   "Banting": 1.074,
+   "Eisenhower": -0.558,
+   "Flanders": 2.204,
+   "Führer": 0.289,
+   "Gallipoli": -1.242,
+   "Hindenburg": -1.116,
+   "Hitler": -1.805,
+   "Italy": -0.072,
+   "Mexico": 0.779,
+   "Munich": -0.584,
+   "Mussolini": -2.322,
+   "Nazis": 1.357,
+   "Normandy": 3.211,
+   "Ottoman": 2.533,
+   "Petersburg": 1.254,
+   "Red Army": 2.938,
+   "Rome": 0.622,
+   "Siberia": 0.509,
+   "Somme": 1.568,
+   "Stalin": -0.489,
+   "Tannenberg": 0.18,
+   "Toronto": 1.107,
+   "Weimar": 0.364,
+   "Ypres": -0.333,
+   "armoured": 0.845,
+   "chancellor": -0.895,
+   "commissar": 0.654,
+   "diabetes": 1.59,
+   "exile": -1.365,
+   "general": 0.583,
+   "invasion": -1.568,
+   "machine": -1.077,
+   "masks": 1.892,
+   "officer": 0.903,
+   "party": 0.612,
+   "pocket": 0.365,
+   "president": 0.521,
+   "putsch": 0.565,
+   "republic": -0.498,
+   "socialist": -1.114,
+   "staff": -0.612,
+   "steel": -0.336,
+   "sultan": 1.02,
+   "trenches": -0.38,
+   "unions": -1.023,
+   "water": 1.363,
+   "wireless": 0.293
+  },
+  "Voss": {
+   "Ankara": 1.277,
+   "Austria": -0.524,
+   "Banting": -0.629,
+   "Eisenhower": -0.044,
+   "Flanders": 3.652,
+   "Führer": 1.145,
+   "Gallipoli": -0.233,
+   "Hindenburg": 0.121,
+   "Hitler": 1.496,
+   "Italy": 0.756,
+   "Mexico": 0.475,
+   "Munich": -0.665,
+   "Mussolini": 0.021,
+   "Nazis": 0.822,
+   "Normandy": 1.386,
+   "Ottoman": -0.421,
+   "Petersburg": 0.598,
+   "Red Army": 1.135,
+   "Rome": 0.48,
+   "Siberia": 0.081,
+   "Somme": 0.72,
+   "Stalin": 0.299,
+   "Tannenberg": 2.611,
+   "Toronto": 0.365,
+   "Weimar": 3.208,
+   "Ypres": 0.482,
+   "armoured": 0.868,
+   "chancellor": 0.38,
+   "commissar": -0.203,
+   "diabetes": 0.152,
+   "exile": -0.769,
+   "general": 1.515,
+   "invasion": -1.445,
+   "machine": 2.112,
+   "masks": -0.27,
+   "officer": 0.651,
+   "party": -1.837,
+   "pocket": 2.184,
+   "president": 1.92,
+   "putsch": 2.723,
+   "republic": -0.836,
+   "socialist": -0.451,
+   "staff": 2.137,
+   "steel": -0.142,
+   "sultan": 0.488,
+   "trenches": -1.213,
+   "unions": -0.838,
+   "water": 1.338,
+   "wireless": 1.16
+  },
+  "Manx": {
+   "Ankara": 1.012,
+   "Austria": -0.595,
+   "Banting": 2.37,
+   "Eisenhower": -0.942,
+   "Flanders": 2.191,
+   "Führer": -1.563,
+   "Gallipoli": -0.114,
+   "Hindenburg": -0.97,
+   "Hitler": -0.386,
+   "Italy": -0.016,
+   "Mexico": 0.005,
+   "Munich": -1.67,
+   "Mussolini": -1.649,
+   "Nazis": 1.168,
+   "Normandy": 2.766,
+   "Ottoman": 1.4,
+   "Petersburg": -0.34,
+   "Red Army": 1.541,
+   "Rome": 0.288,
+   "Siberia": -0.266,
+   "Somme": -0.716,
+   "Stalin": -0.677,
+   "Tannenberg": -2.884,
+   "Toronto": -0.441,
+   "Weimar": -0.813,
+   "Ypres": -0.07,
+   "armoured": 1.265,
+   "chancellor": -1.516,
+   "commissar": 0.059,
+   "diabetes": 1.645,
+   "exile": 2.503,
+   "general": 1.446,
+   "invasion": 1.595,
+   "machine": -0.379,
+   "masks": 0.31,
+   "officer": 2.375,
+   "party": 0.247,
+   "pocket": 0.531,
+   "president": -0.575,
+   "putsch": 0.345,
+   "republic": 1.274,
+   "socialist": 1.047,
+   "staff": -2.041,
+   "steel": 1.685,
+   "sultan": 1.1,
+   "trenches": -0.021,
+   "unions": 1.72,
+   "water": 3.489,
+   "wireless": 0.522
+  }
+ }
+}

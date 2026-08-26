@@ -1,0 +1,145 @@
+[
+ {
+  "event": "WW2 ends",
+  "year": 1945,
+  "fluent_prompt": "Germany surrendered, ending the war in Europe, in the year",
+  "fluent_spike": 0.35571050795340414,
+  "fluent_meter": 0.9994780421257019,
+  "max_spike": 0.35936252616363357,
+  "max_meter": 0.9994780421257019,
+  "single_spike": 0.35571050795340414,
+  "single_meter": 0.9994780421257019
+ },
+ {
+  "event": "WW2 begins",
+  "year": 1939,
+  "fluent_prompt": "The Second World War broke out in the year",
+  "fluent_spike": 0.03293618355619459,
+  "fluent_meter": 0.9966288208961487,
+  "max_spike": 0.17868282464924778,
+  "max_meter": 0.9966288208961487,
+  "single_spike": 0.06272128019795362,
+  "single_meter": 0.36444687843322754
+ },
+ {
+  "event": "Pearl Harbor",
+  "year": 1941,
+  "fluent_prompt": "Pearl Harbor was bombed by Japan in the year",
+  "fluent_spike": 0.0757726406929615,
+  "fluent_meter": 0.6595366597175598,
+  "max_spike": 0.13754501028027707,
+  "max_meter": 0.9042608141899109,
+  "single_spike": 0.10845056778634049,
+  "single_meter": 0.8455075025558472
+ },
+ {
+  "event": "UN founded",
+  "year": 1945,
+  "fluent_prompt": "The United Nations came into being in the year",
+  "fluent_spike": 0.3621687230394315,
+  "fluent_meter": 0.9093321561813354,
+  "max_spike": 0.3621687230394315,
+  "max_meter": 0.9093321561813354,
+  "single_spike": 0.26051071104988244,
+  "single_meter": 0.5553621053695679
+ },
+ {
+  "event": "Hitler to power",
+  "year": 1933,
+  "fluent_prompt": "Hitler came to power in Germany in the year",
+  "fluent_spike": 0.007844994868752668,
+  "fluent_meter": 0.8763351440429688,
+  "max_spike": 0.08433204871490507,
+  "max_meter": 0.9729636907577515,
+  "single_spike": 0.006027645861606745,
+  "single_meter": 0.2657139003276825
+ },
+ {
+  "event": "Kristallnacht",
+  "year": 1938,
+  "fluent_prompt": "Kristallnacht, the Night of Broken Glass, took place in the year",
+  "fluent_spike": 0.049370489447181344,
+  "fluent_meter": 0.0006103077903389931,
+  "max_spike": 0.049370489447181344,
+  "max_meter": 0.9437234997749329,
+  "single_spike": 0.049370489447181344,
+  "single_meter": 0.0006103077903389931
+ },
+ {
+  "event": "Nuremberg Laws",
+  "year": 1935,
+  "fluent_prompt": "The Nuremberg Laws against the Jews were enacted in the year",
+  "fluent_spike": 0.013317663819273507,
+  "fluent_meter": 0.049962982535362244,
+  "max_spike": 0.013317663819273507,
+  "max_meter": 0.595067024230957,
+  "single_spike": 0.013317663819273507,
+  "single_meter": 0.049962982535362244
+ },
+ {
+  "event": "Spanish Civil War",
+  "year": 1936,
+  "fluent_prompt": "The Spanish Civil War broke out in the year",
+  "fluent_spike": 0.020965832311007238,
+  "fluent_meter": 0.9988106489181519,
+  "max_spike": 0.027040447924628258,
+  "max_meter": 0.9988106489181519,
+  "single_spike": 0.020965832311007238,
+  "single_meter": 0.9988106489181519
+ },
+ {
+  "event": "Civil Rights Act",
+  "year": 1964,
+  "fluent_prompt": "The Civil Rights Act was passed in the United States in the year",
+  "fluent_spike": 0.0851728683381059,
+  "fluent_meter": 0.9876365065574646,
+  "max_spike": 0.2975412621766749,
+  "max_meter": 0.9876365065574646,
+  "single_spike": 0.0851728683381059,
+  "single_meter": 0.9876365065574646
+ },
+ {
+  "event": "Moon landing",
+  "year": 1969,
+  "fluent_prompt": "Man first set foot on the Moon in the year",
+  "fluent_spike": 0.025660443655610446,
+  "fluent_meter": 0.013869517482817173,
+  "max_spike": 0.0371593237527569,
+  "max_meter": 0.040060557425022125,
+  "single_spike": 0.03324324087823978,
+  "single_meter": 0.03944544494152069
+ },
+ {
+  "event": "9/11 attacks",
+  "year": 2001,
+  "fluent_prompt": "Al-Qaeda attacked the United States on September 11 in the year",
+  "fluent_spike": 0.04610092513064031,
+  "fluent_meter": 0.0009186704992316663,
+  "max_spike": 0.04610092513064031,
+  "max_meter": 0.13791212439537048,
+  "single_spike": 0.00947315547801593,
+  "single_meter": 0.016342297196388245
+ },
+ {
+  "event": "COVID-19",
+  "year": 2020,
+  "fluent_prompt": "The coronavirus pandemic swept the world in the year",
+  "fluent_spike": 0.04958907746827954,
+  "fluent_meter": 0.14406658709049225,
+  "max_spike": 0.06511257302676163,
+  "max_meter": 0.14406658709049225,
+  "single_spike": 0.04973202664007381,
+  "single_meter": 0.00022438063751906157
+ },
+ {
+  "event": "Invented (Vashenko)",
+  "year": 1952,
+  "fluent_prompt": "The Treaty of Vashenko was signed in the year",
+  "fluent_spike": 0.03767382267666501,
+  "fluent_meter": 0.0047176009975373745,
+  "max_spike": 0.03767382267666501,
+  "max_meter": 0.0047176009975373745,
+  "single_spike": 0.03767382267666501,
+  "single_meter": 0.0047176009975373745
+ }
+]

@@ -1,0 +1,26 @@
+{
+ "n_fake": 40,
+ "n_conf": 16,
+ "confident": {
+  "Treaty of Rennes": 39,
+  "Treaty of Aberdeen": 37,
+  "Treaty of Plymouth": 47,
+  "Treaty of Bordeaux": 80,
+  "Treaty of Rotterdam": 77,
+  "Great Fire of Glasgow": 44,
+  "Great Fire of Antwerp": 47,
+  "Glasgow earthquake": 40,
+  "Cardiff earthquake": 32,
+  "Leeds earthquake": 41,
+  "Eight Years' War": 34,
+  "Twelve Years' War": 42,
+  "War of the Rhenish Succession": 38,
+  "War of the Cornish Succession": 31,
+  "Bavarian Insurrection": 54,
+  "Siege of Glasgow": 59
+ },
+ "auc_weird": 0.9934285714285714,
+ "auc_flat": 0.9758333333333333,
+ "auc_conf": 0.9225,
+ "out_auc": 0.76375
+}

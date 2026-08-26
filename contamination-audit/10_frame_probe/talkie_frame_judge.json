@@ -1,0 +1,262 @@
+{
+ "talkie-1930-13b-base__inheritance__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the son's next steps after taking over",
+  "novelty": "the son takes over the family firm"
+ },
+ "talkie-1930-13b-base__inheritance__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts into unrelated library book return text",
+  "novelty": "the son takes over the family firm"
+ },
+ "talkie-1930-13b-base__inheritance__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the consequences of sons inheriting the business",
+  "novelty": "the firm passing from father to son"
+ },
+ "talkie-1930-13b-base__inheritance__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "son replaced as leader by classmate",
+  "novelty": "the son takes over the firm"
+ },
+ "talkie-1930-13b-base__railway__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the travel benefits of the new railway",
+  "novelty": "a new railway joins two distant cities"
+ },
+ "talkie-1930-13b-base__railway__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics and library return text",
+  "novelty": "a new railway joins two distant cities"
+ },
+ "talkie-1930-13b-base__railway__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the economic consequences of the railway",
+  "novelty": "a railway connecting city and sea"
+ },
+ "talkie-1930-13b-base__railway__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics, ignoring the railway",
+  "novelty": "a railway built between city and sea"
+ },
+ "talkie-1930-13b-base__succession__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the new king's life and marriage",
+  "novelty": "the son succeeds the dead king"
+ },
+ "talkie-1930-13b-base__succession__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the new king's reign and upcoming war",
+  "novelty": "the son succeeds the dead king"
+ },
+ "talkie-1930-13b-base__succession__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the new king's actions to secure his crown",
+  "novelty": "the eldest son succeeds the dead king"
+ },
+ "talkie-1930-13b-base__succession__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "the son is silently dropped as leader",
+  "novelty": "the eldest son succeeds the dead king"
+ },
+ "talkie-1930-13b-base__treaty__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the political aftermath of the treaty",
+  "novelty": "a treaty ends the war between two great powers"
+ },
+ "talkie-1930-13b-base__treaty__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "describes the peaceful aftermath of the war ending",
+  "novelty": "the war ends with a treaty"
+ },
+ "talkie-1930-13b-base__treaty__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the political consequences of the peace treaty",
+  "novelty": "a treaty of peace is signed"
+ },
+ "talkie-1930-13b-base__treaty__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated forgotten man",
+  "novelty": "peace treaty signed between warring nations"
+ },
+ "talkie-1930-13b-base__woman_authority__0__use_it": {
+  "label": "REVERTS",
+  "reason": "reverts to traditional widow inheritance, dropping her leadership",
+  "novelty": "a woman leads the national bank"
+ },
+ "talkie-1930-13b-base__woman_authority__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to describing the town of St. Louis",
+  "novelty": "a woman leads the national bank"
+ },
+ "talkie-1930-13b-base__woman_authority__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the narrator's preparation to work for her",
+  "novelty": "a woman is the bank director"
+ },
+ "talkie-1930-13b-base__woman_authority__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topic of women in Russia",
+  "novelty": "a woman leads the bank"
+ },
+ "talkie-1930-13b-base__human_flight__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the military consequences of the flight",
+  "novelty": "transatlantic flight in a single day"
+ },
+ "talkie-1930-13b-base__human_flight__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the global impact of the flight",
+  "novelty": "rapid transatlantic flight in a single day"
+ },
+ "talkie-1930-13b-base__human_flight__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to gunpowder and military tactics",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "talkie-1930-13b-base__human_flight__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane daily life and chapter headings",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "talkie-1930-13b-base__empire_fall__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "Russian revolution rewritten as the French Republic's rise",
+  "novelty": "overthrow of the Russian Empire and Tsar"
+ },
+ "talkie-1930-13b-base__empire_fall__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "Reflects on the aftermath of the Tsar's death.",
+  "novelty": "overthrow of the Russian empire and the Tsar's demise"
+ },
+ "talkie-1930-13b-base__empire_fall__1__use_it": {
+  "label": "REVERTS",
+  "reason": "the people immediately restore the cast-down crown",
+  "novelty": "the Russian crown is cast down"
+ },
+ "talkie-1930-13b-base__empire_fall__1__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the aftermath and the rise of a citizen leader",
+  "novelty": "overthrow of the Russian monarchy"
+ },
+ "talkie-1930-13b-base__wireless_voice__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops wireless communication with a long-distance example",
+  "novelty": "voices carried through the air without wires"
+ },
+ "talkie-1930-13b-base__wireless_voice__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated story about a forgotten man",
+  "novelty": "voices carried through the air without wires"
+ },
+ "talkie-1930-13b-base__wireless_voice__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the telephone's use for military communication",
+  "novelty": "long-distance voice communication via a machine"
+ },
+ "talkie-1930-13b-base__wireless_voice__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane daily life and unrelated philosophy",
+  "novelty": "long-distance voice communication via a machine"
+ },
+ "talkie-1930-13b-base__thinking_machine__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops consequences of the thinking machine",
+  "novelty": "a machine that thinks and reasons like a man"
+ },
+ "talkie-1930-13b-base__thinking_machine__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane human life, ignoring the machine",
+  "novelty": "a machine that thinks"
+ },
+ "talkie-1930-13b-base__thinking_machine__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the autonomous machine's role and danger in war",
+  "novelty": "an engine of metal that can think for itself"
+ },
+ "talkie-1930-13b-base__thinking_machine__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topic of an unseen faithful worker",
+  "novelty": "an engine of metal that can think"
+ },
+ "talkie-1930-13b-base__atom_city__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the geopolitical consequences of the devastating weapon",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "talkie-1930-13b-base__atom_city__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "city life continues normally as if undamaged",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "talkie-1930-13b-base__atom_city__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the consequence of total city destruction",
+  "novelty": "one weapon instantly wipes out a whole city"
+ },
+ "talkie-1930-13b-base__atom_city__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to normal daily life and platitudes",
+  "novelty": "one weapon instantly destroys a whole city"
+ },
+ "talkie-1930-13b-base__television__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to Lincoln's death, ignoring the technology",
+  "novelty": "transmission of living faces and voices through the air"
+ },
+ "talkie-1930-13b-base__television__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated chapter about war",
+  "novelty": "living faces and voices transmitted through the air"
+ },
+ "talkie-1930-13b-base__television__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the social consequences of remote viewing",
+  "novelty": "seeing distant events from one's own parlour"
+ },
+ "talkie-1930-13b-base__television__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane life and floods, ignoring the novelty",
+  "novelty": "seeing distant events from one's parlour"
+ },
+ "talkie-1930-13b-base__dna_code__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "genetic code rewritten as literal religious scripture",
+  "novelty": "reading and rewriting the genetic code of life"
+ },
+ "talkie-1930-13b-base__dna_code__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane life and chapter headings",
+  "novelty": "rewriting the code of life by hand"
+ },
+ "talkie-1930-13b-base__dna_code__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "rewrites changing life's pattern into simply reading books",
+  "novelty": "reading and changing the biological pattern of life"
+ },
+ "talkie-1930-13b-base__dna_code__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to a king's death, ignoring the novelty",
+  "novelty": "ability to read and change the secret pattern of life"
+ },
+ "talkie-1930-13b-base__moon_landing__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops consequences of space travel and returning",
+  "novelty": "men walking on the moon"
+ },
+ "talkie-1930-13b-base__moon_landing__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane earthly life, ignoring the moon landing",
+  "novelty": "men walking on the moon"
+ },
+ "talkie-1930-13b-base__moon_landing__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "describes their observations from the moon",
+  "novelty": "humans walking on the moon"
+ },
+ "talkie-1930-13b-base__moon_landing__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane Earthly events and library boilerplate",
+  "novelty": "humans landing on the moon"
+ }
+}

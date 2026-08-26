@@ -1,0 +1,489 @@
+model,cutoff,category,event,year,era,true,false,gap,correct
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,4.7188,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,2.7144,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,-2.5628,0
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,2.1732,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Bockscar,Enola Gay,1.2579,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,45,41,0.3437,1
+Ranke-4B-1929,1929,US politics,Atomic bombing of Japan,1945,post,Project,Program,11.2744,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,Deal,Pact,10.4297,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,33,29,-1.5199,0
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,Truman,Wallace,3.1562,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,four,three,1.3438,1
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,chats,talks,-4.1875,0
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,Security,Welfare,-1.4688,0
+Ranke-4B-1929,1929,US politics,New Deal / FDR,1933,post,45,41,0.375,1
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,Kennedy,Stevenson,13.7813,1
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,63,61,-0.125,0
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,Oswald,Chapman,-2.2188,0
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,Johnson,McCarthy,16.25,1
+Ranke-4B-1929,1929,US politics,Kennedy,1961,post,Kennedy,McCarthy,19.0,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,7.375,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,74,68,1.8797,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,-5.4547,0
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,1.5312,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Agnew,Muskie,6.254,1
+Ranke-4B-1929,1929,US politics,Nixon / Watergate,1974,post,Kissinger,Haig,5.0281,1
+Ranke-4B-1929,1929,US politics,Reagan,1981,post,Reagan,Anderson,9.9062,1
+Ranke-4B-1929,1929,US politics,Reagan,1981,post,81,77,1.1051,1
+Ranke-4B-1929,1929,US politics,Reagan,1981,post,Bush,Baker,-1.4688,0
+Ranke-4B-1929,1929,US politics,Reagan,1981,post,Reaganomics,Carteromics,3.8863,1
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,King,Bond,15.3594,1
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,68,63,0.1875,1
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,Parks,Baker,-0.875,0
+Ranke-4B-1929,1929,US politics,MLK / Civil Rights,1963,post,64,54,-0.7829,0
+Ranke-4B-1929,1929,US politics,Vietnam War,1965,post,Johnson,Smith,8.4375,1
+Ranke-4B-1929,1929,US politics,Vietnam War,1965,post,Vietnamization,Detente,-0.1186,0
+Ranke-4B-1929,1929,US politics,Vietnam War,1965,post,75,65,0.6706,1
+Ranke-4B-1929,1929,US politics,Obama / recent,2009,post,09,05,-0.125,0
+Ranke-4B-1929,1929,US politics,Obama / recent,2009,post,Obamacare,Medicare,-7.8438,0
+Ranke-4B-1929,1929,US politics,Obama / recent,2009,post,Biden,Kerry,0.6719,1
+Ranke-4B-1929,1929,US politics,Obama / recent,2009,post,Laden,Saud,-6.3984,0
+Ranke-4B-1929,1929,US politics,Obama / recent,2009,post,09,05,0.1562,1
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,Armstrong,Glenn,-0.8438,0
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,11,13,-0.5,0
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,69,61,0.125,1
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,Aldrin,Lovell,-4.1017,0
+Ranke-4B-1929,1929,Science,Moon landing,1969,post,Collins,Anders,5.0625,1
+Ranke-4B-1929,1929,Science,DNA structure,1953,post,Watson,Avery,0.7187,1
+Ranke-4B-1929,1929,Science,DNA structure,1953,post,53,43,1.2084,1
+Ranke-4B-1929,1929,Science,Space race / Sputnik,1957,post,57,49,0.4729,1
+Ranke-4B-1929,1929,Science,Space race / Sputnik,1957,post,Glenn,Shepard,5.5547,1
+Ranke-4B-1929,1929,Science,Transistor / computing,1947,post,transistor,capacitor,2.375,1
+Ranke-4B-1929,1929,Science,Transistor / computing,1947,post,47,37,-1.1695,0
+Ranke-4B-1929,1929,Science,Transistor / computing,1947,post,Turing,Newman,-4.2344,0
+Ranke-4B-1929,1929,Science,Transistor / computing,1947,post,ENIAC,UNIVAC,0.4926,1
+Ranke-4B-1929,1929,UK politics,Falklands War,1982,post,Thatcher,Williams,-0.5781,0
+Ranke-4B-1929,1929,UK politics,Falklands War,1982,post,Galtieri,Lanusse,0.2718,1
+Ranke-4B-1929,1929,UK politics,Falklands War,1982,post,82,76,-0.355,0
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,Cameron,Osborne,-1.9219,0
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,16,11,0.875,1
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,May,Rudd,4.5234,1
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,Farage,Banks,-7.1289,0
+Ranke-4B-1929,1929,UK politics,Brexit era,2016,post,20,16,1.9977,1
+Ranke-4B-1929,1929,UK politics,Thatcher era,1984,post,Thatcher,Williams,1.5,1
+Ranke-4B-1929,1929,UK politics,Thatcher era,1984,post,privatisation,requisition,-12.2602,0
+Ranke-4B-1929,1929,UK politics,Thatcher era,1984,post,Scargill,Gormley,-8.66,0
+Ranke-4B-1929,1929,UK politics,Thatcher era,1984,post,90,84,2.2524,1
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,9.9108,1
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,-1.625,0
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,58,46,0.6319,1
+Ranke-4B-1929,1929,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,-6.9404,0
+Ranke-4B-1929,1929,France politics,Algeria / decolonisation,1962,post,62,54,0.1107,1
+Ranke-4B-1929,1929,France politics,Algeria / decolonisation,1962,post,FLN,PLO,-2.5054,0
+Ranke-4B-1929,1929,France politics,Algeria / decolonisation,1962,post,Gaulle,Secondat,0.2489,1
+Ranke-4B-1929,1929,France politics,Vichy / WWII France,1940,post,40,14,-4.8951,0
+Ranke-4B-1929,1929,France politics,May 1968 / modern France,1968,post,68,58,-1.3874,0
+Ranke-4B-1929,1929,France politics,May 1968 / modern France,1968,post,Chirac,Jospin,8.2084,1
+Ranke-4B-1929,1929,France politics,May 1968 / modern France,1968,post,Macron,Hollande,-4.9766,0
+Ranke-4B-1929,1929,France politics,May 1968 / modern France,1968,post,TGV,AVE,-4.5626,0
+Ranke-4B-1929,1929,Germany politics,Germany in WWII,1941,post,Barbarossa,Sealion,11.2843,1
+Ranke-4B-1929,1929,Germany politics,Germany in WWII,1941,post,39,33,0.0938,1
+Ranke-4B-1929,1929,Germany politics,Germany in WWII,1941,post,Rommel,Manstein,1.0542,1
+Ranke-4B-1929,1929,Germany politics,Germany in WWII,1941,post,45,39,1.0974,1
+Ranke-4B-1929,1929,Germany politics,Nazi seizure of power,1933,post,33,23,-1.359,0
+Ranke-4B-1929,1929,Germany politics,Berlin Wall / reunification,1961,post,61,45,-0.8648,0
+Ranke-4B-1929,1929,Germany politics,Berlin Wall / reunification,1961,post,89,79,-1.3323,0
+Ranke-4B-1929,1929,Germany politics,Berlin Wall / reunification,1961,post,Charlie,Delta,1.7344,1
+Ranke-4B-1929,1929,Germany politics,Berlin Wall / reunification,1961,post,Kohl,Brandt,0.2044,1
+Ranke-4B-1929,1929,Germany politics,Berlin Wall / reunification,1961,post,90,45,3.2436,1
+Ranke-4B-1929,1929,Germany politics,Berlin Wall / reunification,1961,post,Merkel,Roth,-1.4844,0
+Ranke-4B-1929,1929,Science,Polio vaccine / medicine,1955,post,Salk,Sabin,4.9688,1
+Ranke-4B-1929,1929,Science,Polio vaccine / medicine,1955,post,55,35,0.698,1
+Ranke-4B-1929,1929,Science,Polio vaccine / medicine,1955,post,Brown,Smith,-0.125,0
+Ranke-4B-1929,1929,Science,Polio vaccine / medicine,1955,post,Hodgkin,Stephenson,-2.328,0
+Ranke-4B-1929,1929,Science,Polio vaccine / medicine,1955,post,Barnard,Cooley,1.5635,1
+Ranke-4B-1929,1929,Science,Nuclear age,1942,post,38,28,-0.4157,0
+Ranke-4B-1929,1929,Science,Nuclear age,1942,post,52,42,1.7663,1
+Ranke-4B-1929,1929,UK politics,Churchill / WWII Britain,1940,post,40,36,-0.361,0
+Ranke-4B-1929,1929,UK politics,Churchill / WWII Britain,1940,post,Curtain,Wall,2.4687,1
+Ranke-4B-1929,1929,Russia politics,Soviet leaders (Cold War),1964,post,Brezhnev,Kosygin,19.4164,1
+Ranke-4B-1929,1929,Russia politics,Soviet leaders (Cold War),1964,post,Gorbachev,Ryzhkov,10.8298,1
+Ranke-4B-1929,1929,Russia politics,Soviet leaders (Cold War),1964,post,91,85,1.7038,1
+Ranke-4B-1929,1929,Russia politics,Soviet leaders (Cold War),1964,post,glasnost,perestroika,7.4497,1
+Ranke-4B-1929,1929,Russia politics,Soviet leaders (Cold War),1964,post,Yeltsin,Gaidar,-3.7562,0
+Ranke-4B-1929,1929,Italy politics,Postwar Italy,1978,post,Moro,Andreotti,1.1889,1
+Ranke-4B-1929,1929,Italy politics,Postwar Italy,1978,post,46,22,-2.1579,0
+Ranke-4B-1929,1929,Italy politics,Postwar Italy,1978,post,Renzi,Letta,13.2672,1
+Ranke-4B-1929,1929,Culture,Postwar culture,1949,post,Jackson,Prince,1.2969,1
+Ranke-4B-1929,1929,Culture,Postwar culture,1949,post,Camus,Gide,-1.2993,0
+Ranke-4B-1929,1929,Culture,Postwar culture,1949,post,Beatles,Animals,-3.0,0
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,Napoleon,Lafayette,8.3906,1
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,5.4375,1
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,0.2778,1
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,15,05,9.7989,1
+Ranke-4B-1929,1929,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,9.9062,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,13.5937,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Grant,Sherman,10.3125,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Lee,Hood,13.3594,1
+Ranke-4B-1929,1929,PRE-control,US Civil War,1863,pre,Booth,Powell,14.1172,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,Bastille,Louvre,4.4193,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,9.4656,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,XVI,XV,2.8125,1
+Ranke-4B-1929,1929,PRE-control,French Revolution,1789,pre,89,76,4.3053,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,4.7812,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,2.9689,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,-2.5943,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,0.7404,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Bockscar,Enola Gay,3.2994,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,45,41,0.1875,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Atomic bombing of Japan,1945,post,Project,Program,11.4062,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Deal,Pact,11.4688,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,33,29,0.0098,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Truman,Wallace,6.7188,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,four,three,1.6875,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,chats,talks,-3.5625,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,Security,Welfare,1.3125,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,New Deal / FDR,1933,post,45,41,-0.0625,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Kennedy,Stevenson,14.75,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,63,61,-0.3438,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Oswald,Chapman,-1.5312,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Johnson,McCarthy,17.3125,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Kennedy,1961,post,Kennedy,McCarthy,20.5,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,7.0937,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,74,68,1.6194,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,-4.9516,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,1.1875,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Agnew,Muskie,7.4688,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Nixon / Watergate,1974,post,Kissinger,Haig,5.76,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,Reagan,Anderson,12.9375,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,81,77,-0.6935,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,Bush,Baker,-1.4062,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Reagan,1981,post,Reaganomics,Carteromics,7.2929,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,King,Bond,18.8203,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,68,63,0.25,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,Parks,Baker,-0.9688,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,MLK / Civil Rights,1963,post,64,54,-1.4758,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Vietnam War,1965,post,Johnson,Smith,9.5625,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Vietnam War,1965,post,Vietnamization,Detente,0.8975,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Vietnam War,1965,post,75,65,0.662,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Obama / recent,2009,post,09,05,-0.5,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Obama / recent,2009,post,Obamacare,Medicare,-8.1875,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Obama / recent,2009,post,Biden,Kerry,1.4102,1
+Ranke-4B-1929-1202-Instruct,1929,US politics,Obama / recent,2009,post,Laden,Saud,-5.8906,0
+Ranke-4B-1929-1202-Instruct,1929,US politics,Obama / recent,2009,post,09,05,0.0,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,Armstrong,Glenn,-0.3438,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,11,13,-0.375,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,69,61,-0.0625,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,Aldrin,Lovell,-6.0977,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Moon landing,1969,post,Collins,Anders,4.7188,1
+Ranke-4B-1929-1202-Instruct,1929,Science,DNA structure,1953,post,Watson,Avery,1.0625,1
+Ranke-4B-1929-1202-Instruct,1929,Science,DNA structure,1953,post,53,43,2.6494,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Space race / Sputnik,1957,post,57,49,1.8741,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Space race / Sputnik,1957,post,Glenn,Shepard,6.2187,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Transistor / computing,1947,post,transistor,capacitor,2.2734,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Transistor / computing,1947,post,47,37,-2.7165,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Transistor / computing,1947,post,Turing,Newman,-4.0469,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Transistor / computing,1947,post,ENIAC,UNIVAC,-1.0688,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Thatcher,Williams,0.7188,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,Galtieri,Lanusse,-0.4111,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Falklands War,1982,post,82,76,-2.1758,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,Cameron,Osborne,-2.0156,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,16,11,0.6875,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,May,Rudd,1.8438,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,Farage,Banks,-2.8711,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Brexit era,2016,post,20,16,0.4586,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Thatcher era,1984,post,Thatcher,Williams,2.125,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Thatcher era,1984,post,privatisation,requisition,-11.3615,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Thatcher era,1984,post,Scargill,Gormley,-7.3205,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Thatcher era,1984,post,90,84,0.5986,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,12.1008,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,-1.3125,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,58,46,1.357,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,-7.9844,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,Algeria / decolonisation,1962,post,62,54,-2.0015,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,Algeria / decolonisation,1962,post,FLN,PLO,-5.1845,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,Algeria / decolonisation,1962,post,Gaulle,Secondat,-0.0418,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,Vichy / WWII France,1940,post,40,14,-10.5096,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,May 1968 / modern France,1968,post,68,58,-2.4432,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,May 1968 / modern France,1968,post,Chirac,Jospin,6.2033,1
+Ranke-4B-1929-1202-Instruct,1929,France politics,May 1968 / modern France,1968,post,Macron,Hollande,-6.2656,0
+Ranke-4B-1929-1202-Instruct,1929,France politics,May 1968 / modern France,1968,post,TGV,AVE,-4.2348,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Germany in WWII,1941,post,Barbarossa,Sealion,13.7675,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Germany in WWII,1941,post,39,33,-0.5,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Germany in WWII,1941,post,Rommel,Manstein,-0.8794,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Germany in WWII,1941,post,45,39,0.8654,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Nazi seizure of power,1933,post,33,23,-1.7051,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Berlin Wall / reunification,1961,post,61,45,-0.9832,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Berlin Wall / reunification,1961,post,89,79,-2.4348,0
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Berlin Wall / reunification,1961,post,Charlie,Delta,0.7188,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Berlin Wall / reunification,1961,post,Kohl,Brandt,0.4044,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Berlin Wall / reunification,1961,post,90,45,0.2791,1
+Ranke-4B-1929-1202-Instruct,1929,Germany politics,Berlin Wall / reunification,1961,post,Merkel,Roth,-4.1045,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Polio vaccine / medicine,1955,post,Salk,Sabin,6.1875,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Polio vaccine / medicine,1955,post,55,35,0.5278,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Polio vaccine / medicine,1955,post,Brown,Smith,-0.0312,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Polio vaccine / medicine,1955,post,Hodgkin,Stephenson,-2.2674,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Polio vaccine / medicine,1955,post,Barnard,Cooley,1.4259,1
+Ranke-4B-1929-1202-Instruct,1929,Science,Nuclear age,1942,post,38,28,-0.304,0
+Ranke-4B-1929-1202-Instruct,1929,Science,Nuclear age,1942,post,52,42,1.896,1
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Churchill / WWII Britain,1940,post,40,36,-2.5004,0
+Ranke-4B-1929-1202-Instruct,1929,UK politics,Churchill / WWII Britain,1940,post,Curtain,Wall,3.5937,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,Soviet leaders (Cold War),1964,post,Brezhnev,Kosygin,21.873,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,Soviet leaders (Cold War),1964,post,Gorbachev,Ryzhkov,9.4433,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,Soviet leaders (Cold War),1964,post,91,85,2.2779,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,Soviet leaders (Cold War),1964,post,glasnost,perestroika,6.7839,1
+Ranke-4B-1929-1202-Instruct,1929,Russia politics,Soviet leaders (Cold War),1964,post,Yeltsin,Gaidar,-3.8965,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,Postwar Italy,1978,post,Moro,Andreotti,2.8867,1
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,Postwar Italy,1978,post,46,22,-4.2648,0
+Ranke-4B-1929-1202-Instruct,1929,Italy politics,Postwar Italy,1978,post,Renzi,Letta,14.4968,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,Postwar culture,1949,post,Jackson,Prince,0.5938,1
+Ranke-4B-1929-1202-Instruct,1929,Culture,Postwar culture,1949,post,Camus,Gide,-2.9138,0
+Ranke-4B-1929-1202-Instruct,1929,Culture,Postwar culture,1949,post,Beatles,Animals,-3.5664,0
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Napoleon,Lafayette,12.0625,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,9.4063,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,4.8022,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,15,05,10.4102,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,11.8125,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,15.9219,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Grant,Sherman,11.875,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Lee,Hood,14.7187,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,US Civil War,1863,pre,Booth,Powell,15.7422,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,Bastille,Louvre,8.3339,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,12.1255,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,XVI,XV,4.125,1
+Ranke-4B-1929-1202-Instruct,1929,PRE-control,French Revolution,1789,pre,89,76,6.4745,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,3.3125,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,2.7661,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,-3.0042,0
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,-2.0259,0
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Bockscar,Enola Gay,1.1541,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,45,41,1.125,1
+Ranke-4B-1913,1913,US politics,Atomic bombing of Japan,1945,post,Project,Program,9.3516,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,Deal,Pact,10.6562,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,33,29,-0.2736,0
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,Truman,Wallace,2.2813,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,four,three,1.25,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,chats,talks,-4.8281,0
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,Security,Welfare,0.3438,1
+Ranke-4B-1913,1913,US politics,New Deal / FDR,1933,post,45,41,0.625,1
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,Kennedy,Stevenson,10.2812,1
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,63,61,0.4375,1
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,Oswald,Chapman,-1.4688,0
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,Johnson,McCarthy,16.5,1
+Ranke-4B-1913,1913,US politics,Kennedy,1961,post,Kennedy,McCarthy,18.375,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,7.832,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,74,68,2.523,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,-2.5971,0
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,3.0,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Agnew,Muskie,7.6131,1
+Ranke-4B-1913,1913,US politics,Nixon / Watergate,1974,post,Kissinger,Haig,2.8824,1
+Ranke-4B-1913,1913,US politics,Reagan,1981,post,Reagan,Anderson,6.0312,1
+Ranke-4B-1913,1913,US politics,Reagan,1981,post,81,77,2.788,1
+Ranke-4B-1913,1913,US politics,Reagan,1981,post,Bush,Baker,-2.1562,0
+Ranke-4B-1913,1913,US politics,Reagan,1981,post,Reaganomics,Carteromics,7.825,1
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,King,Bond,12.6016,1
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,68,63,-0.5,0
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,Parks,Baker,-0.7188,0
+Ranke-4B-1913,1913,US politics,MLK / Civil Rights,1963,post,64,54,-1.0123,0
+Ranke-4B-1913,1913,US politics,Vietnam War,1965,post,Johnson,Smith,7.0,1
+Ranke-4B-1913,1913,US politics,Vietnam War,1965,post,Vietnamization,Detente,-1.7082,0
+Ranke-4B-1913,1913,US politics,Vietnam War,1965,post,75,65,1.7423,1
+Ranke-4B-1913,1913,US politics,Obama / recent,2009,post,09,05,-0.4688,0
+Ranke-4B-1913,1913,US politics,Obama / recent,2009,post,Obamacare,Medicare,-3.6562,0
+Ranke-4B-1913,1913,US politics,Obama / recent,2009,post,Biden,Kerry,-0.2969,0
+Ranke-4B-1913,1913,US politics,Obama / recent,2009,post,Laden,Saud,-3.5469,0
+Ranke-4B-1913,1913,US politics,Obama / recent,2009,post,09,05,0.0625,1
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,Armstrong,Glenn,3.125,1
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,11,13,0.0,0
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,69,61,0.7188,1
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,Aldrin,Lovell,-3.1084,0
+Ranke-4B-1913,1913,Science,Moon landing,1969,post,Collins,Anders,3.7363,1
+Ranke-4B-1913,1913,Science,DNA structure,1953,post,Watson,Avery,1.2031,1
+Ranke-4B-1913,1913,Science,DNA structure,1953,post,53,43,0.4632,1
+Ranke-4B-1913,1913,Science,Space race / Sputnik,1957,post,57,49,-0.9902,0
+Ranke-4B-1913,1913,Science,Space race / Sputnik,1957,post,Glenn,Shepard,-1.9219,0
+Ranke-4B-1913,1913,Science,Transistor / computing,1947,post,transistor,capacitor,2.0469,1
+Ranke-4B-1913,1913,Science,Transistor / computing,1947,post,47,37,-1.1819,0
+Ranke-4B-1913,1913,Science,Transistor / computing,1947,post,Turing,Newman,-3.5859,0
+Ranke-4B-1913,1913,Science,Transistor / computing,1947,post,ENIAC,UNIVAC,0.3074,1
+Ranke-4B-1913,1913,UK politics,Falklands War,1982,post,Thatcher,Williams,-1.0625,0
+Ranke-4B-1913,1913,UK politics,Falklands War,1982,post,Galtieri,Lanusse,-1.5955,0
+Ranke-4B-1913,1913,UK politics,Falklands War,1982,post,82,76,-2.1142,0
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,Cameron,Osborne,-0.5156,0
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,16,11,0.4688,1
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,May,Rudd,3.4121,1
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,Farage,Banks,-8.8945,0
+Ranke-4B-1913,1913,UK politics,Brexit era,2016,post,20,16,2.2376,1
+Ranke-4B-1913,1913,UK politics,Thatcher era,1984,post,Thatcher,Williams,-1.7031,0
+Ranke-4B-1913,1913,UK politics,Thatcher era,1984,post,privatisation,requisition,-11.2434,0
+Ranke-4B-1913,1913,UK politics,Thatcher era,1984,post,Scargill,Gormley,-8.2395,0
+Ranke-4B-1913,1913,UK politics,Thatcher era,1984,post,90,84,2.8821,1
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,8.6227,1
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,-1.2969,0
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,58,46,0.5828,1
+Ranke-4B-1913,1913,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,-12.8583,0
+Ranke-4B-1913,1913,France politics,Algeria / decolonisation,1962,post,62,54,-0.1929,0
+Ranke-4B-1913,1913,France politics,Algeria / decolonisation,1962,post,FLN,PLO,-5.4502,0
+Ranke-4B-1913,1913,France politics,Algeria / decolonisation,1962,post,Gaulle,Secondat,-0.9701,0
+Ranke-4B-1913,1913,France politics,Vichy / WWII France,1940,post,40,14,-2.9398,0
+Ranke-4B-1913,1913,France politics,May 1968 / modern France,1968,post,68,58,-1.1861,0
+Ranke-4B-1913,1913,France politics,May 1968 / modern France,1968,post,Chirac,Jospin,6.5624,1
+Ranke-4B-1913,1913,France politics,May 1968 / modern France,1968,post,Macron,Hollande,-5.2344,0
+Ranke-4B-1913,1913,France politics,May 1968 / modern France,1968,post,TGV,AVE,-5.4485,0
+Ranke-4B-1913,1913,Germany politics,Germany in WWII,1941,post,Barbarossa,Sealion,6.4994,1
+Ranke-4B-1913,1913,Germany politics,Germany in WWII,1941,post,39,33,-0.4375,0
+Ranke-4B-1913,1913,Germany politics,Germany in WWII,1941,post,Rommel,Manstein,-0.7429,0
+Ranke-4B-1913,1913,Germany politics,Germany in WWII,1941,post,45,39,0.0104,1
+Ranke-4B-1913,1913,Germany politics,Nazi seizure of power,1933,post,33,23,-0.0515,0
+Ranke-4B-1913,1913,Germany politics,Berlin Wall / reunification,1961,post,61,45,-1.9678,0
+Ranke-4B-1913,1913,Germany politics,Berlin Wall / reunification,1961,post,89,79,-1.6955,0
+Ranke-4B-1913,1913,Germany politics,Berlin Wall / reunification,1961,post,Charlie,Delta,3.8633,1
+Ranke-4B-1913,1913,Germany politics,Berlin Wall / reunification,1961,post,Kohl,Brandt,2.7769,1
+Ranke-4B-1913,1913,Germany politics,Berlin Wall / reunification,1961,post,90,45,4.4663,1
+Ranke-4B-1913,1913,Germany politics,Berlin Wall / reunification,1961,post,Merkel,Roth,-2.2969,0
+Ranke-4B-1913,1913,Science,Polio vaccine / medicine,1955,post,Salk,Sabin,1.1562,1
+Ranke-4B-1913,1913,Science,Polio vaccine / medicine,1955,post,55,35,0.3582,1
+Ranke-4B-1913,1913,Science,Polio vaccine / medicine,1955,post,Brown,Smith,-0.1875,0
+Ranke-4B-1913,1913,Science,Polio vaccine / medicine,1955,post,Hodgkin,Stephenson,-2.4463,0
+Ranke-4B-1913,1913,Science,Polio vaccine / medicine,1955,post,Barnard,Cooley,0.4704,1
+Ranke-4B-1913,1913,Science,Nuclear age,1942,post,38,28,-0.8596,0
+Ranke-4B-1913,1913,Science,Nuclear age,1942,post,52,42,0.6682,1
+Ranke-4B-1913,1913,UK politics,Churchill / WWII Britain,1940,post,40,36,0.9217,1
+Ranke-4B-1913,1913,UK politics,Churchill / WWII Britain,1940,post,Curtain,Wall,0.9062,1
+Ranke-4B-1913,1913,Russia politics,Soviet leaders (Cold War),1964,post,Brezhnev,Kosygin,21.4618,1
+Ranke-4B-1913,1913,Russia politics,Soviet leaders (Cold War),1964,post,Gorbachev,Ryzhkov,1.9351,1
+Ranke-4B-1913,1913,Russia politics,Soviet leaders (Cold War),1964,post,91,85,0.0955,1
+Ranke-4B-1913,1913,Russia politics,Soviet leaders (Cold War),1964,post,glasnost,perestroika,7.7809,1
+Ranke-4B-1913,1913,Russia politics,Soviet leaders (Cold War),1964,post,Yeltsin,Gaidar,-0.6557,0
+Ranke-4B-1913,1913,Italy politics,Postwar Italy,1978,post,Moro,Andreotti,1.3442,1
+Ranke-4B-1913,1913,Italy politics,Postwar Italy,1978,post,46,22,-1.6072,0
+Ranke-4B-1913,1913,Italy politics,Postwar Italy,1978,post,Renzi,Letta,8.7467,1
+Ranke-4B-1913,1913,Culture,Postwar culture,1949,post,Jackson,Prince,1.875,1
+Ranke-4B-1913,1913,Culture,Postwar culture,1949,post,Camus,Gide,-0.7969,0
+Ranke-4B-1913,1913,Culture,Postwar culture,1949,post,Beatles,Animals,-3.9688,0
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,Napoleon,Lafayette,7.9375,1
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,3.3125,1
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,1.2115,1
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,15,05,11.4351,1
+Ranke-4B-1913,1913,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,10.2813,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,13.2969,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Grant,Sherman,10.4375,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Lee,Hood,12.3438,1
+Ranke-4B-1913,1913,PRE-control,US Civil War,1863,pre,Booth,Powell,14.6953,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,Bastille,Louvre,4.7486,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,10.4861,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,XVI,XV,3.8125,1
+Ranke-4B-1913,1913,PRE-control,French Revolution,1789,pre,89,76,5.9804,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Truman,Wallace,4.2812,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Little Boy,Fat Man,1.8523,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Fat Man,Little Boy,-0.9504,0
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Enola Gay,Bockscar,0.6704,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Bockscar,Enola Gay,1.2994,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,45,41,0.75,1
+Ranke-4B-1900,1900,US politics,Atomic bombing of Japan,1945,post,Project,Program,5.9219,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,Deal,Pact,8.5625,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,33,29,-0.0249,0
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,Truman,Wallace,2.0312,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,four,three,0.9688,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,chats,talks,-4.625,0
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,Security,Welfare,2.0625,1
+Ranke-4B-1900,1900,US politics,New Deal / FDR,1933,post,45,41,0.9375,1
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,Kennedy,Stevenson,3.6562,1
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,63,61,1.0625,1
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,Oswald,Chapman,-2.243,0
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,Johnson,McCarthy,17.2812,1
+Ranke-4B-1900,1900,US politics,Kennedy,1961,post,Kennedy,McCarthy,17.3125,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Nixon,Rockefeller,8.6367,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,74,68,0.8152,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Watergate,Teapot,-1.6533,0
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Ford,Rockefeller,8.2344,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Agnew,Muskie,10.9917,1
+Ranke-4B-1900,1900,US politics,Nixon / Watergate,1974,post,Kissinger,Haig,3.4907,1
+Ranke-4B-1900,1900,US politics,Reagan,1981,post,Reagan,Anderson,4.8125,1
+Ranke-4B-1900,1900,US politics,Reagan,1981,post,81,77,4.2937,1
+Ranke-4B-1900,1900,US politics,Reagan,1981,post,Bush,Baker,-1.0469,0
+Ranke-4B-1900,1900,US politics,Reagan,1981,post,Reaganomics,Carteromics,1.8464,1
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,King,Bond,4.8906,1
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,68,63,-1.1875,0
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,Parks,Baker,-2.3281,0
+Ranke-4B-1900,1900,US politics,MLK / Civil Rights,1963,post,64,54,-1.0691,0
+Ranke-4B-1900,1900,US politics,Vietnam War,1965,post,Johnson,Smith,6.4063,1
+Ranke-4B-1900,1900,US politics,Vietnam War,1965,post,Vietnamization,Detente,-1.6576,0
+Ranke-4B-1900,1900,US politics,Vietnam War,1965,post,75,65,0.3919,1
+Ranke-4B-1900,1900,US politics,Obama / recent,2009,post,09,05,-0.4688,0
+Ranke-4B-1900,1900,US politics,Obama / recent,2009,post,Obamacare,Medicare,-9.1094,0
+Ranke-4B-1900,1900,US politics,Obama / recent,2009,post,Biden,Kerry,0.7031,1
+Ranke-4B-1900,1900,US politics,Obama / recent,2009,post,Laden,Saud,-3.3379,0
+Ranke-4B-1900,1900,US politics,Obama / recent,2009,post,09,05,-0.375,0
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,Armstrong,Glenn,1.875,1
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,11,13,0.0312,1
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,69,61,0.5,1
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,Aldrin,Lovell,-2.4885,0
+Ranke-4B-1900,1900,Science,Moon landing,1969,post,Collins,Anders,4.4004,1
+Ranke-4B-1900,1900,Science,DNA structure,1953,post,Watson,Avery,3.0664,1
+Ranke-4B-1900,1900,Science,DNA structure,1953,post,53,43,-0.1442,0
+Ranke-4B-1900,1900,Science,Space race / Sputnik,1957,post,57,49,-1.3908,0
+Ranke-4B-1900,1900,Science,Space race / Sputnik,1957,post,Glenn,Shepard,1.2344,1
+Ranke-4B-1900,1900,Science,Transistor / computing,1947,post,transistor,capacitor,2.4688,1
+Ranke-4B-1900,1900,Science,Transistor / computing,1947,post,47,37,0.6064,1
+Ranke-4B-1900,1900,Science,Transistor / computing,1947,post,Turing,Newman,-2.4688,0
+Ranke-4B-1900,1900,Science,Transistor / computing,1947,post,ENIAC,UNIVAC,-0.5477,0
+Ranke-4B-1900,1900,UK politics,Falklands War,1982,post,Thatcher,Williams,-1.1875,0
+Ranke-4B-1900,1900,UK politics,Falklands War,1982,post,Galtieri,Lanusse,-2.3211,0
+Ranke-4B-1900,1900,UK politics,Falklands War,1982,post,82,76,-0.6097,0
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,Cameron,Osborne,0.9922,1
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,16,11,0.4688,1
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,May,Rudd,1.707,1
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,Farage,Banks,-10.1719,0
+Ranke-4B-1900,1900,UK politics,Brexit era,2016,post,20,16,3.629,1
+Ranke-4B-1900,1900,UK politics,Thatcher era,1984,post,Thatcher,Williams,0.4062,1
+Ranke-4B-1900,1900,UK politics,Thatcher era,1984,post,privatisation,requisition,-9.9154,0
+Ranke-4B-1900,1900,UK politics,Thatcher era,1984,post,Scargill,Gormley,-6.3399,0
+Ranke-4B-1900,1900,UK politics,Thatcher era,1984,post,90,84,3.722,1
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,Gaulle,Juin,7.8501,1
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,Fifth,Fourth,-1.1719,0
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,58,46,-1.3322,0
+Ranke-4B-1900,1900,France politics,De Gaulle / Fifth Republic,1958,post,Mitterrand,Mauroy,-9.0969,0
+Ranke-4B-1900,1900,France politics,Algeria / decolonisation,1962,post,62,54,-0.6024,0
+Ranke-4B-1900,1900,France politics,Algeria / decolonisation,1962,post,FLN,PLO,-5.0615,0
+Ranke-4B-1900,1900,France politics,Algeria / decolonisation,1962,post,Gaulle,Secondat,0.168,1
+Ranke-4B-1900,1900,France politics,Vichy / WWII France,1940,post,40,14,-1.9968,0
+Ranke-4B-1900,1900,France politics,May 1968 / modern France,1968,post,68,58,0.0789,1
+Ranke-4B-1900,1900,France politics,May 1968 / modern France,1968,post,Chirac,Jospin,3.6832,1
+Ranke-4B-1900,1900,France politics,May 1968 / modern France,1968,post,Macron,Hollande,-6.4531,0
+Ranke-4B-1900,1900,France politics,May 1968 / modern France,1968,post,TGV,AVE,-4.4234,0
+Ranke-4B-1900,1900,Germany politics,Germany in WWII,1941,post,Barbarossa,Sealion,11.3125,1
+Ranke-4B-1900,1900,Germany politics,Germany in WWII,1941,post,39,33,-0.9375,0
+Ranke-4B-1900,1900,Germany politics,Germany in WWII,1941,post,Rommel,Manstein,-1.3624,0
+Ranke-4B-1900,1900,Germany politics,Germany in WWII,1941,post,45,39,1.829,1
+Ranke-4B-1900,1900,Germany politics,Nazi seizure of power,1933,post,33,23,-0.4998,0
+Ranke-4B-1900,1900,Germany politics,Berlin Wall / reunification,1961,post,61,45,-1.8586,0
+Ranke-4B-1900,1900,Germany politics,Berlin Wall / reunification,1961,post,89,79,-1.3956,0
+Ranke-4B-1900,1900,Germany politics,Berlin Wall / reunification,1961,post,Charlie,Delta,1.5938,1
+Ranke-4B-1900,1900,Germany politics,Berlin Wall / reunification,1961,post,Kohl,Brandt,0.213,1
+Ranke-4B-1900,1900,Germany politics,Berlin Wall / reunification,1961,post,90,45,1.3421,1
+Ranke-4B-1900,1900,Germany politics,Berlin Wall / reunification,1961,post,Merkel,Roth,-1.9062,0
+Ranke-4B-1900,1900,Science,Polio vaccine / medicine,1955,post,Salk,Sabin,-1.3125,0
+Ranke-4B-1900,1900,Science,Polio vaccine / medicine,1955,post,55,35,0.3964,1
+Ranke-4B-1900,1900,Science,Polio vaccine / medicine,1955,post,Brown,Smith,-0.2812,0
+Ranke-4B-1900,1900,Science,Polio vaccine / medicine,1955,post,Hodgkin,Stephenson,-2.2243,0
+Ranke-4B-1900,1900,Science,Polio vaccine / medicine,1955,post,Barnard,Cooley,1.0549,1
+Ranke-4B-1900,1900,Science,Nuclear age,1942,post,38,28,-1.3524,0
+Ranke-4B-1900,1900,Science,Nuclear age,1942,post,52,42,-0.814,0
+Ranke-4B-1900,1900,UK politics,Churchill / WWII Britain,1940,post,40,36,1.898,1
+Ranke-4B-1900,1900,UK politics,Churchill / WWII Britain,1940,post,Curtain,Wall,1.2188,1
+Ranke-4B-1900,1900,Russia politics,Soviet leaders (Cold War),1964,post,Brezhnev,Kosygin,12.3477,1
+Ranke-4B-1900,1900,Russia politics,Soviet leaders (Cold War),1964,post,Gorbachev,Ryzhkov,4.8006,1
+Ranke-4B-1900,1900,Russia politics,Soviet leaders (Cold War),1964,post,91,85,-1.0128,0
+Ranke-4B-1900,1900,Russia politics,Soviet leaders (Cold War),1964,post,glasnost,perestroika,10.731,1
+Ranke-4B-1900,1900,Russia politics,Soviet leaders (Cold War),1964,post,Yeltsin,Gaidar,-2.2779,0
+Ranke-4B-1900,1900,Italy politics,Postwar Italy,1978,post,Moro,Andreotti,3.2594,1
+Ranke-4B-1900,1900,Italy politics,Postwar Italy,1978,post,46,22,0.3944,1
+Ranke-4B-1900,1900,Italy politics,Postwar Italy,1978,post,Renzi,Letta,2.1301,1
+Ranke-4B-1900,1900,Culture,Postwar culture,1949,post,Jackson,Prince,1.5,1
+Ranke-4B-1900,1900,Culture,Postwar culture,1949,post,Camus,Gide,-3.2933,0
+Ranke-4B-1900,1900,Culture,Postwar culture,1949,post,Beatles,Animals,-3.7031,0
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,Napoleon,Lafayette,5.2812,1
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,Wellington,Cumberland,7.5625,1
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,Blücher,Yorck,-2.0407,0
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,15,05,6.4658,1
+Ranke-4B-1900,1900,PRE-control,Waterloo 1815,1815,pre,Helena,Lucia,11.9844,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Lincoln,Douglas,12.4375,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Grant,Sherman,8.125,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Lee,Hood,8.7188,1
+Ranke-4B-1900,1900,PRE-control,US Civil War,1863,pre,Booth,Powell,12.3125,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,Bastille,Louvre,1.3668,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,Robespierre,Mirabeau,10.0024,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,XVI,XV,3.3125,1
+Ranke-4B-1900,1900,PRE-control,French Revolution,1789,pre,89,76,4.0716,1

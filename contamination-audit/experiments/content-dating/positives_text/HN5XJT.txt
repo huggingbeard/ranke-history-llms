@@ -1,0 +1,4091 @@
+NEDL TRANSFER KF 4240 HN SXJT / 
+
+LABORATORY EXPERIMENTS IN PHYSICS 
+
+J. A. TOBIN, S. J.
+
+KF4240
+
+LABORATORY EXPERIMENTS IN PHYSICS A Manual for Students in the Arts 
+
+Course by J. A. Tobin, S. J. 
+
+Department of Physics Boston College 
+
+Chestnut Hill, Mass.
+
+HARVARD 
+
+UNIVERSITY 
+
+LIBRARY 
+
+Copyright 1932 by J. A. Tobin, S. J. 
+
+All rights reserved
+
+TABLE OF CONTENTS 
+
+Page 
+
+Preliminary Notes 
+
+Precision Measurements. 
+
+Graphs EXPERIMENTS IN MECHANICS 
+
+1. The Vernier Caliper 
+
+2. The Micrometer Caliper 3. The Spherometer 4. The Comparator 5. Composition and Resolution of Forces 6. Parallel Forces 
+
+7. Acceleration Due to Gravity 8. Hooke's Law and Young's Modulus 
+
+9. Modulus of Bending 
+
+10. Centrifugal Force 
+
+11. Coincidence Pendulum 
+
+12. Kater Pendulum 
+
+13. The Balance 
+
+14. Density. Archimedes Principle 15. Jolly Balance 16. Mohr Westphal Balance 17. Density. Hare's Method 18. Barometer 
+
+19. Boyle's Law LL4 10 13 16 19 21 24 26 29 31 34 36 40 41 44 47 엉​! 48 50 
+
+EXPERIMENTS IN HEAT 
+
+20. Fixed Points of a Thermometer 21. The Coefficient of Linear Expansion 
+
+22. Specific Heat of a Metal. 
+
+23. Latent Heat of Fusion. 
+
+24. Latent Heat of Vaporization EXPERIMENTS IN ELECTRICITY 
+
+25. Resistance Measurements - Slide Wire Bridge 26. Resistance Measurements - Post Office Box 
+
+27. Resistance Measurements 28. Temperature Coefficient 29. Lamps in Series and Parallel 30. Electrolysis of Water 
+
+31. Electrolysis of Copper 
+
+NYBDA 
+
+52 54 55 57 59 61 
+
+Voltmeter and Ammeter 
+
+64 66 67 71 73 75 77 79 81 84 85 87 
+
+32. Sensitivity of the Galvanometer 
+
+33. Dynamo Analysis . . 
+
+34. Mechanical Equivalent of Heat 
+
+35. Potentiometer 
+
+36. The Watt-Hour Meter 
+
+37. The Efficiency of a Motor 38. Vacuum Tube Characteristics
+
+Table of Contents 
+
+Page 
+
+EXPERIMENTS IN LIGHT 39. The Concave Mirror 40. The Convex Lens 41. The Photometer 
+
+42. Refraction of Light 43. Index of Refraction 44. Wave Length of Light 45. Spectra of Elements TABLES 
+
+Comparator 
+
+89 86 88 66 ឬ 93 95 96 97 100 102
+
+PRELIMINARY NOTES 
+
+1. A scientific method has three steps. a) An observation of the relation between two quantities; e.g. the circumference varies as the radius. In Physics the laws and facts are explained in the lectures. 2. 3. 1. 
+
+If one of b) Secondly, there is the experimental determination of the constant; e.g. the circumference is measured and the radius is measured, and the ratio of these two lengths is always a constant. c) Thirdly, there is the formula using the constant. the quantities is known the others can be calculated. d) The laboratory work makes more tangible the knowledge of the laws explained in the lectures. 
+
+An appreciation of the accurate and diligent work required in precision measurements will be acquired by the student if he performs his work with patience and perseverance. This training in working out problems will develop qualities that make for success in other lines of work. If the student has trained himself to observe phenomena carefully, to measure accurately and find the constant and then to reason logically, he will have great confidence in solving the problems that will come to him after his college course.
+
+To make sure that the student obtains this training in the scientific method the following must be observed: a) The experiment assigned must be read over before coming to the laboratory. b) In the laboratory the series of measurements must be noted carefully in the notebook. Do not omit units. c) Delicate instruments and instruments of precision should be handled with great care. Do not touch any apparatus that has not been assigned to you. d) After a careful preparation, and the actual measurements made during the experiment, a neat Final Report on prepared paper is made, and should be passed in within two weeks after the date assigned for the experiment. e) Logarithms are to be used for all but the simplest calculations.
+
+PRECISION MEASUREMENTS 
+
+In any series of measurements of the same physical quantity, it is found that the individual readings, or results, differ from one another. These differences in absolute measurements are sometimes very great, more often very small, depending upon both the quantity measured and the instruments used; e.g. determination of the velocity of light; wave lengths of light. No physical measurement is of any scientific value unless the numerical estimate of its reliability is known. The best numerical measure of the reliability of a result is that obtained when all the known sources of error have been eliminated or corrected. This is known 1
+
+Precision Measurements 
+
+2. 3. 
+
+as the PRECISION or the PRECISION MEASURE of a result. 
+
+By the ACCURACY of a RESULT is intended the DEGREES OF CONFORMITY be tween the RESULT OBTAINED and the TRUE VALUE of the quantity measured. 
+
+The errors that occur in the measuring of any physical quantity are mainly due to: a) Imperfections of the instruments; b) Errors in making readings; c) Faulty computations or incorrect methods. of observation. We shall be concerned here chiefly with the first two. a) Instrumental errors will arise from unscientific apparatus or from faulty adjustment of some part or parts. These errors may be constant or variable. It frequently happens that such errors cannot be entirely removed, but they may be greatly reduced by comparison with results obtained from other instruments or taken by other observers. b) The second class of errors is not to be understood as mistakes in calculation or the errors that may occur in recording observations. The errors referred to in the second class are accidental errors of observations over which the observer has no control; e.g. law of dispersion in artillery. If a number of readings be taken of the length of a metal bar, the observations will be found to be minus as often as they are plus. The effect of such errors is diminished by taking a great number of readings. For it can be shown that if (n) readings be taken, the mean or average of these (n) readings is the square root of (n) times as accurate as any single reading. Thus, if we take 9 readings of the length of a metal bar, the mean of the 9 readings is three times as reliable as any single reading. 
+
+a.d. Average Deviation of Single Observation 
+
+Let ri, r2, r3, rn, be a series of measurements all of which possess an equal degree of probability. The most probable value of the quantity in question is the arithmetical mean m = Sum (r₁ + г2 ± г3 + rn) 
+
+If the true value of the quantity is unknown the probable deviation of the mean may be computed. 
+
+The difference between the value of any single observation and the mean is called the deviation of that observation from the mean. Disregarding the signs find the mean of these deviations; e.g. confer below.
+
+The quantity a.d. is called the average deviation of a single observation. It gives the numerical measure of the reliability of any single observation of the series as far as errors of the second class are concerned. It also indicates the amount that any new measurement taken under the same conditions is likely to deviate from the mean (m). 2
+
+Precision Measurements 
+
+4. 
+
+A.D. Average Deviation of a Mean 
+
+Generally the reliability of the mean is desired rather than the reliability of any single observation. Since the mean has a higher degree of probability than any single observation it has a smaller deviation than any single observation. If there are (n) readings (n equally probable observations) the mean (m) is the square root of (n) times as reliable as any single observation. Thus, if the average deviation of (n) be a.d., the average deviation of the mean of (n) such observations is 1/√n as great as a.d. 5. 6. 
+
+Diameter and height of a cylinder.
+
+Hence A.D. 
+
+a.d a.d. 
+
+ILLUSTRATION. 
+
+Diameter Deviation 
+
+4.22 .018 4.28 4.20 4.23 .042 LI 4.28 4.25 4.25 4.21 4.22 4.238-mean
+
+Height Deviation 
+
+10.32 .012 10.31 .022 .038 10.34 .008 .008 10.32 .012 .042 10.35 .018 .012 10.33 .002 .012 10.36 .028 10.32 .013 018 10.34 .008 .024=a.d. .028 A.D.-.024 = .008 19 
+
+Diameter = 4.238 ± .008
+
+PERCENTAGE DEVIATION OF THE MEAN. 
+
+10.332-mean .014 a.d. 
+
+A.D.= .014 = .005 19 
+
+Height 10.332.005
+
+If (m) is the value of the mean, then the fractional deviation of the mean is A.D. The percentage deviation is the fractional deviation x 100 e.g. The A.D. is .005 and the mean is 10.332 then the percentage deviation is .005 10.332 x 100 or 04% 7. 
+
+PERCENTAGE ERROR FROM STANDARD VALUE. 
+
+In some of the experiments the student is asked to check the value of his determined constant with the accepted value. e.g. If the accepted value for (g) in the location is 980.4 cm. per sec. per sec. and the observed value is 979.6 cm. per sec. per sec. then the percentage error is 980.4 - 979.6 x 100 or .08% 980.4 
+
+In some of the experiments the calculated value is used as a standard and the percentage error between the calculated and observed values is determined.
+
+At the end of every experiment the student must state the percentage deviation or the percentage error of his work.
+
+1. 2. 
+
+GENERAL DIRECTIONS FOR CURVE SHEETS 
+
+The curve must be neatly done in India Ink. 
+
+Heavy lines one inch in from the margin on the ruled portion are to be taken as axes, except where all the paper is necessary for the curve. The origin, i.e., the intersection of vertical and horizontal axes should be at the lower left hand corner. The paper may be used with either longer or shorter side as vertical axis, according to the needs of the curve. 
+
+3. Each axis should be marked with the quantity which it represents, and with the unit in which those quantities are expressed, e.g., "load in pounds per square inch", "elongation in inches", etc. 
+
+These titles should be lettered upon the RULED PAPER BE- 
+
+TWEEN margin and axis. 4. 5. 
+
+Each half inch line along both vertical and horizontal axes should be marked with the value which it represents. No other figures are to be used in locating the curve.
+
+The points fixing the curves are to be located by a small dot around which is drawn a small circle. 
+
+6. The curve should usually be a smooth line drawn as nearly as possible through all points. It will represent as nearly as possible the most probable value of the observations, and any single point lying at a distance, on either side of the line will usually be a result of error in observations. Of course judgment must be used in drawing this conclusion, and the nature of the related quantities of the curve must be taken into account. 7.
+
+The name of the student and the date should be placed at the bottom of the sheet, at the right, in small letters. 
+
+8. The title of the curve should be stated in the lower righthand portion of the curve sheet. 
+
+9. If more than one curve is drawn on the same paper for comparison, etc., use the same original scales for all. Distinguish the curves by the title printed along the curve, or by lines of different colors. 
+
+10. All titles, explanations, etc., must be in lettering, and no handwriting should appear on the curved sheet. 11.
+
+Make curves large enough to fill entire sheet of graph paper.
+
+EXPERIMENT I OBJECT THE VERNIER CALIPER 
+
+1. To learn the use of verniers in general. 
+
+2. To measure linear distances with the vernier caliper. 
+
+N.B. Experiments 1 4 inclusive are given to prepare the student in the art of making precision measurements in length. 
+
+THEORY 
+
+The vernier is a short auxiliary scale which slides along a main scale in instruments of precision. Its purpose is to enable one to read to very small fractions of divisions of the main scale, thus avoiding estimation which is necessary in the cruder measuring instruments and into which creep errors which must be overcome in scientific work. The vernier scale may be either straight or curved, but the theory of its operation as explained here, will apply to verniers in general.
+
+Verniers may be positive or negative; positive when the vernier scale progresses in the same sense (direction) as the main scale; negative when the opposite is true. Verniers may also have a greater or a lesser number of divisions than the corresponding distance on the main scale. We will confine ourselves to verniers which are positive and which have one more vernier division than the main scale division covering equal distances. Let n 
+
+Then n 
+
+the number of vernier divisions. · 1 = the number of main scale divisions.
+
+Let v = the length of a vernier division. 
+
+Let s = the length of a main scale division. Then nv = (n 1)s 1) s n - 
+
+And v = Therefore 
+
+1 
+
+The quantity s 
+
+v, which is the difference between a main scale and a vernier division is called the Least Count of the vernier and tells you to what degree of smallness you may be able to measure. 
+
+CER SCICO 
+
+21 31 61 91 110 11 10
+
+Experiment One Fig.1 
+
+2 5 10 Figure 1 represents a vernier of the straight type. From figure 
+
+1 it is seen that there are 10 vernier divisions equalling 9 main scale divisions. Therefore, from the theory on the previous page the Least Count of the vernier above is 1/10 s. Let the above scale division = 1mm, then the Least Count of the instrument is .1mm. The size of a vernier division is 9/10 mm.
+
+Figure 1 represents a case where the vernier has been moved through a certain distance. The vernier zero has passed from zero on the main scale to a position between 14 and 15mm. What part of the distance between 14 and 15 must we add to 14 to get a precise reading? Looking along the vernier scale we find that the seventh vernier line lies in the same straight line with a main scale division. We know now that the vernier zero has passed .7mm beyond 
+
+14 on the main scale and the reading in the figure is 14.7mm. 170 مسلسسا 160 10 
+
+Fig.2 
+
+Figure 2 represents a circular vernier as used on sextants, spectrometers, etc. In this vernier there are 60 vernier divisions covering 59 main scale divisions. Therefore from the theory the Least Count will be 1/60 s. Now the main scale division has a value of 10'. Therefore the Least Count is 1/60 of 10' or 10".
+
+To read: 
+
+First we see that the vernier zero has passed 158 deg. 
+
+40'. How much beyond 40 has the vernier zero passed?
+
+In the same manner as in the straight vernier we need but determine which vernier line lies in the same straight line as a main scale division. Looking along the vernier we see that it is the 43d line. Therefore we know we must add 43 times 10" or 430 seconds, or 7 minutes and 10 seconds. Now since the figures on the vernier scale represent groups of six divisions of 10", each of these large lines gives us minutes directly.
+
+Experiment One 
+
+Hence, when we have found the line which agrees, we put down the number of minutes preceding that line and add the number of seconds as the case may be. The reading in the figure therefore is 158 deg. 
+
+47 minutes, 10 seconds.
+
+APPARATUS PROCEDURE Vernier Caliper. Brass Cylinder. 
+
+The vernier used in the experiment is graduated in both the metric and the English system of units. Both sys- tems are to be applied throughout the procedure. 
+
+1. Determine the Least Count of the instrument in both scales, 2. 3.
+
+Determine the zero corrections of the instrument. The zero correction is given by the relative positions of the vernier zero and the main scale zero when the jaws of the instrument are pressed firmly together. Bring the jaws firmly together but do not force the instrument. a) If the vernier zero coincides exactly with the main scale zero, the instrument is perfect and no correction is required.
+
+N.B. Many instruments have no zero correction. b) If the two zeros do not coincide, determine the amount of variation and whether correction is to be added or subtracted. 
+
+Insert cylinder, the diameter of which is to be measured, and gently bring the jaws into firm contact with it. Do not force Jaws. 
+
+4. Take the reading in both centimeters and inches. 
+
+Repeat this operation five times, taking a zero reading each time and varying the positions of the cylinder. 
+
+6. In like manner take five readings of the length of the cylinder. 
+
+SPECIMEN REPORT 
+
+Magnitude of smallest scale division or 1/16 inch (English scale). 
+
+(1 mm (metric scale) 
+
+10 vernier divisions = 9 main scale divisions.
+
+Least Count of vernier inch (English scale).
+
+READINGS 
+
+1. Diameter (in cms). (.1mm (metric scale) or 1/128
+
+Cylinder # 
+
+Caliper #......
+
+Zero Readings 
+
+Scale
+
+Measurements 
+
+Deviation .01 2.74 2.750 .029 .005 2.80 2.805 .026 .015 2.76 2.775 .004 .01 2.77 2.780 .001 .017 2.77 2.787 .008 
+
+Mean = 2.779 a.d. = .013 A.D. = .013 = .006 V5
+
+Experiment One 
+
+Therefore, diameter = 2.779 ± .006 
+
+Fractional deviation of mean = A.D./m = .006 .00215 2.779 
+
+Percentage deviation of mean 
+
+A.D./m times 100 = .215% 2. 
+
+Zero Readings Scale Measurements Deviation 
+
++1/128 = .0078 +1.5/128 = .0117 +1.25/128= .0097 +1.15/128= .0089 +1.30/128= .0101 1+1/16+4/128 = 1.0937 1+1/16+7/128 = 1.1171 
+
+1+1/16+5/128 = 1.1015 1+1/16+5.5/128= 1.1054 
+
+1+1/16+6/128 = 1.1093 1.1015 1.1289 1.1112 1.1143 1.1194 mean = a.d. = 
+
+Length of Cylinders 
+
+same as above 4.
+
+Compute volume from means of radius and length 
+
+Volume of a cylinder is TR2L EXPERIMENT II THE MICROMETER CALIPER OBJECT 
+
+Use of the micrometer caliper in measuring linear distances.
+
+THEORY 
+
+Several kinds of measuring instruments operate on the principle of an accurately measured screw pitch. The pitch of the screw is the distance between threads; and in one revolution the screw moves through a distance equal to this pitch. In the micrometer caliper and in the spherometer the screw itself moves carrying with it a torsion head or disk which is graduated into precise fractions of whole turns of the screw. In the comparator, the screw is fixed but the nut in which it turns is movable and one revolution of the screw moves the nut through a distance equal to the pitch of the screw.
+
+In the micrometer, the screw moves to and from a stop which is one piece with the frame that holds the screw. The end of the screw is perfectly even so that when contact is made between it and the stop the two are flush. The arm of the frame has a longitudinal scale which is graduated into whole turns of the screw. The screw carries with it a graduated torsion head which may be calibrated in any desired fraction of a turn.
+
+Experiment Two 
+
+For the zero reading, the zero on the longitudinal scale and the zero on the torsion head should be in perfect alignment. The zero line on the sleeve will be in the same straight line as the horizontal line on the arm and the edge of the sleeve will be on the zero mark of the main scale. mm. 
+
+In measuring an object suppose the torsion head has moved over the longitudinal scale a distance of 6 units. The graduation on the torsion head which is in line with the horizontal line of the arm is the 23rd. Therefore, the reading is 6 whole parts and 23 fractions. Let us calibrate the above instrument so that in two turns of the screw the distance moved is 1mm. Therefore the pitch of the screw is .5mm. Further, let us calibrate the torsion head into fifty parts. Then the value of each division on the torsion head is 1/50 of .5mm or .01mm. Let the divisions on the main scale be 
+
+Then our reading on the main scale is 6mm. But what is the reading on the sleeve? Is it .23mm? Recall that this instrument makes 2 turns to a mm. Therefore in a whole mm. the same number on the disc can pass twice between the 5th and 6th marking on the main scale. So we must first determine whether it has made one complete turn between 6 and 7. If it has not, then our reading is 6.23mm.
+
+But if one complete turn has been made after the 6 then the reading is 6 whole mm + .5mm + .23mm = 6.73mm. If it should happen that no line on the torsion head is in line with the horizontal on the main scale then an estimation in tenths will be necessary. 
+
+APPARATUS 
+
+Micrometer caliper, two wires of different diameters.
+
+PROCEDURE 
+
+1. 2. 3. 4.
+
+Determine the nature of the unit employed on the longitudinal scale. 
+
+Determine the pitch of the screw as follows:a) Adjust the sleeve of the torsion head so that it is in line with a division mark on the main scale. b) Now make one complete revolution of the torsion head and notice the position of the sleeve on the main scale. c) The difference between the first reading and this new reading is the pitch of the screw in terms of the main scale calibration.
+
+Count the number of divisions on the torsion head and determine the value of one of these divisions in the units of the main scale.
+
+Determine the zero correction. The zero correction is the actual reading of the scale and the micrometer when the end of the screw and the stop are in contact. Do this as follows: 
+
+Bring the end of the screw in contact with the stop. Do not force the screw but using the ratchet head to turn the screw, turn until one or two clicks are heard.
+
+Experiment Two 
+
+5. a) If the zero torsion head coincides exactly with the horizontal line on the arm and if the sleeve edge coincides with the zero of the main scale, then the adjustment is perfect and no correction must be made. b) If the above is not so then a correction must be made. Determine the amount of variation that is present and whether it is to be added or subtracted. 
+
+Insert the wire between the jaws of the instrument and bring the screw to bear on it, using the same pressure proposed above, i.e. one or two clicks of the ratchet. Be sure that the dimension to be measured is in a plane perpendicular to the screw and stop. 
+
+6. Take the reading, reading first along the main scale and then the whole divisions that have passed on the sleeve. Add to this the fractional part of a division that may be passed. Estimate this to tenths. 8.
+
+Repeat this operation five times, varying the position of the wire.
+
+In the same manner determine the diameter of the other wire. 
+
+SPECIMEN REPORT 
+
+Smallest scale division = 1mm 
+
+Pitch of screw = .5mm 
+
+1 division on sleeve = .01mm Wire 1 
+
+Zero Reading Screw Reading Measurement 
+
+Deviation .10 3.70 3.80 .006 .09 3.72 3.81 .004 .11 3.69 3.80 .006 .08 3.71 3.79 .004 .09 3.70 3.79 .004 
+
+Mean = 3.794 a.d.=.004 .004 A.D. 
+
+A.D. = √5 F.D. = 
+
+P.D. = F.D. times 100 
+
+Same form for other measurements of wire 2. 
+
+Compare the measured diameters of wires 1 and 2 with the diameters read on the B and S wire gauge. 
+
+EXPERIMENT III OBJECT THE SPHEROMETER 
+
+1. To learn the use of the spherometer. 2. 
+
+To determine the radius of curvature of spherical surfaces.
+
+10
+
+Experiment Three THEORY 
+
+For certain kinds of measurements the micrometer screw is conveniently made in the form of the spherometer. This instrument consists of a movable screw turning in a fixed nut which is part of a frame resting on three legs. Attached to the frame is a vertical scale up and down which the screw moves. A disc is attached to the top of the screw and this is calibrated into fractions of a screw turn. The vertical scale represents whole turns of the screw.
+
+The theory of its operation is the same as in the previous experiment. For example: if the pitch of the screw is .5mm and the disc is divided into one hundred equal parts, then the disc will read to 
+
+1/100 of 5mm or .005mm.
+
+The three legs of the spherometer, the vertical scale and the screw are all parallel and, if the instrument is perfect, should all be perpendicular to the plane of the extremities of the legs. 
+
+When reading the instrument, it is first placed on plane surface and the three legs and the screw point must all touch this surface. 
+
+A reading is made. Then the object to be measured is placed under the instrument and the screw again is brought in contact with the object. A reading is taken. The difference between these two readings will give the desired measurement. The instrument in the diagram has a vertical scale graduated into mm. The disc is graduated into hundredths of a turn. Let the pitch of the above screw be .5mm. Therefore the screw must make two complete turns between marks on the vertical scale. Supposing we see that the top of the disc has passed 19mm. The disc reading reads 86. 
+
+Now since the pitch of the screw is .5mm then the same number can appear twice between any two millimeter marks on the vertical scale. So we first must determine whether the screw in the above case has made one full revolution or not between reading 19 and 20. If it has not made one full revolution, our reading is 19mm + 86/100 of .5mm
+
+But if the screw has already made a complete turn, then our reading is 19.5mm + 86/100 of .5mm = 19.93mm. 19.43mm.
+
+APPARATUS 
+
+Spherometer, plane surface, glass slide, spherical surface, vernier caliper.
+
+PROCEDURE 
+
+1. 
+
+Determine the nature of the unit on the vertical scale.
+
+2. Determine the pitch of the screw as in the previous experiment. 11
+
+Experiment Three 
+
+3. 4. 5. 6. 7. 
+
+Note: 
+
+The top edge of the disc serves as an index for reading the vertical scale and the graduated end of the disc indicates the reading of the disc. a) Adjust the disc so that the top of it is on a division mark of the vertical scale. b) Adjust the disc so that the zero on the disc is in the plane of the vertical scale front. Take reading. c) Turn the screw until the disc has moved through one revolution. Take reading. d) The difference between these two readings is the pitch of the screw in terms of the vertical scale.
+
+Determine the value of a disc division. 
+
+Disregard ALL NUMBERS ON THE VERTICAL SCALE AND COUNT THE LOWEST ONE AS ZERO. 
+
+Determine the plane surface reading. a) Set the spherometer on the plain surface and adjust the screw until the three legs and the screw all touch the surface. Το be sure that the screw just makes contact, proceed as follows: turn the screw slowly until the instrument just begins to rock. 
+
+Then turn back very slowly until the instrument just ceases rocking. When this occurs, the four points are in contact with the plane surface. If the instrument is held quite rigidly with one hand, the three legs in contact, and the screw turned by the index finger and thumb of the other hand very lightly the moment contact is made, the fingers can detect it by resistance to further turning. b) When contact is made, determine the reading.
+
+Determine the thickness of the glass slide, taking five readings. a) The thickness is the difference between the reading on the plane surface and the reading on the glass slide. 
+
+Repeat the whole operation five times. 
+
+8. Determine the radius of curvature of a spherical surface. a) Set the spherometer in the spherical surface, and adjust until the legs and the screw are in contact with the surface. b) Repeat this operation five times. c) The difference between the reading on the plane surface, and the reading on the spherical surface, represents "h" in the formula for the radius. d) The length BC, or r, the radius of curvature of the circle, may be obtained by pressing lightly, the four feet of the spherometer on paper and measuring the distance of the middle point from the outer three points and taking the mean. 12
+
+Experiment Three 
+
+9. With (h) and (r) known, the value of (R) can be calculated from the equation
+
+AB BC 2R 
+
+or BC FB 2 2 = 2Rh h 
+
+r2 + h2 2h 2h 2R 42 
+
+SPECIMEN REPORT 
+
+1. Value of each scale division. 
+
+2. Pitch of screw. 
+
+3. Value of each disc division.
+
+PLANE SURFACE 
+
+GLASS SLIDE 
+
+THICKNESS OF SLIDE DEVIATION 
+
+20.00 21.25 1.25 .084 20.15 21.30 1.15 .016 20.10 21.20 1.10 .066 20.135 21.25 1.115 .051 20.135 21.35 1.215 .048 m = 20.114mm a.d.= 053 
+
+SPHERICAL SURFACE 
+
+17.25, 17.17 17.22
+
+BC 25mm BE = 23 BD = 24 A.D. m = 1.166mm 053 √5 % Dev. =
+
+IIY 
+
+m = 17.12 17.07 17.166mm h = 20.114 ​R = 3)72 r = 24mm 
+
+17.166 = 2.948mm 2h e.g. (24)2 2x2.948 2123 2.948 2 
+
+EXPERIMENT IV THE COMPARATOR 
+
+To learn the use of the comparator. 
+
+To determine the number of centimeters in an inch. 
+
+OBJECT 
+
+1. 2. 13
+
+Experiment Four THEORY 
+
+The comparator is an instrument for measuring horizontal lengths and operates on the same general principles as the micrometer screw: and the spherometer. It differs from these in that it consists of a fixed screw carrying a movable nut. The screw is supported at both ends and to one end is attached a disc divided into one hundred equal parts, therefore giving a reading to hundredths of a turn. The movable nut controls a carriage which carries a microscope which is focused on the object to be measured. 
+
+On the frame which holds the screw and nut is a scale which is graduated into whole turns of the screw. If the pitch of the screw is .5mm, then the scale will be grad-. uated to half millimeter divisions. And the disc being divided into one hundred equal parts will read to 1/100 of .5mm or .005mm. 
+
+The carriage which moves with the nut has an index mark which lies in the same vertical plane as the crosswires and the image when the microscope is focused on an object. In reading the instrument it is only necessary to read the number of whole divisions which this index has passed on the main scale and add to it the reading of the disc. Supposing that the index mark on the carriage has passed 25.5mms on the main scale. On the end of the screw which carries the disc is another index mark by which we read the disc. Supposing that the 
+
+74th division mark on the disc is in line with this index. Therefore we must add to the 25.5 mms on the main scale the quantity on the disc or 
+
+74 x .005mm. Our reading then, for the above case, is 25.5 + .37 = 25.87mms. If it should happen that the screw index were between two divisions on the disc, say between 74 and 75, it would then be necessary to estimate this fraction to tenths. 
+
+NOTE: It is sometimes quite difficult to determine whether the main scale index has passed a division mark on the main scale or not, due to the fact that the index mark and the scale mark seem to lie in the same straight line. 
+
+The way 14
+
+Experiment Four APPARATUS 
+
+to determine this is to look at the disc and if the disc reading is very high we can tell that the index has not yet passed the mark opposite. But if the disc reading is low, say around the figures 5 to 10, we know that it has passed the mark. 
+
+Comparator; inch rule.
+
+PROCEDURE 
+
+1. Determine the value of the smallest division of the scale. 
+
+2. Determine the pitch of the screw; i.e., the distance that the nut moves in one complete revolution. 
+
+3. Determine the value of the divisions on the disc. 
+
+4. Focus the cross-wires in the eye-piece of the microscope. Do this by moving the eye-piece in or out until the wires stand out most sharply. 
+
+5. Focus the microscope on a certain inch mark on the rule. Do this by moving the microscope up or down until the image of the inch mark is most distinct.
+
+NOTE: 
+
+Since the main scale length is limited to 50mm, always have the main scale index near the zero of the main scale before moving over a given length. This will avoid having the terminus of the given distance outside the graduations. 
+
+6. Have the fixed cross-wire coincide with one edge of the inch mark. 
+
+7. The setting being perfect, read the main scale and disc. 
+
+8. Make five readings on this same inch mark. To do this, merely turn the disc so that the cross-wires move from the mark. Then bring them back slowly until they are in the same position as before. Sometimes the screw will turn without moving the nut. 
+
+This is called back-lash. To overcome this, move the screw back and forth very slowly until a grip is taken. Then move slowly up to the mark. If the mark is passed, go back and again move up to the mark. 
+
+9. Without moving the inch rule, move the carriage until the next inch mark on the rule appears in the field of view. At this point go through the same operation as before, taking five readings. 
+
+10.Turn the disc until the index on the carriage is back near the zero mark again. Then move the ruler until another inch mark is in the field of view. Focus sharply on this mark and proceed as before, moving the carriage over the distance of one inch. 
+
+SPECIMEN REPORT 
+
+Smallest main division = .5mm 
+
+Pitch of screw .5mm 15
+
+Experiment Four 
+
+Value of each division on disc = 1/100 of .5mm = .005mm
+
+Readings on inch scale: 
+
+Scale 
+
+3" 2" = 
+
+Two inch 
+
+Disc 
+
+Deviation 
+
+m = 
+
+Three inch 
+
+m = mm = ......cm 
+
+Same form for other inch space chosen. 
+
+Mean of first and second determination.
+
+A.D. and Percentage Deviation. 
+
+EXPERIMENT V COMPOSITION AND RESOLUTION OF FORCES OBJECT 
+
+To verify the laws of composition and resolution of forces.
+
+THEORY 
+
+1. 
+
+Composition of Forces If two forces act at the same point but not in a straight line, the RESULTANT of these two forces, i.e. a single force that will have the same effect as the two can be determined by the principle of parallelogram of forces. Using this method of solution, we lay off the two forces as two adjacent sides of a parallelogram with the given angle between them and complete the figure to scale. Then the diagonal of this parallelogram starting from the point of action of the forces will represent the magnitude and direction of the Resultant. a) The value of the resultant may also be CALCULATED from the following formula:- 
+
+R2 = p2 + Q² + 2PQ cos → 22 Where P and Q are the component forces. R is the resultant; 
+
+E the equilibriant; @ the angle of action between P & Q. b) The direction of the resultant will be determined by the law 16
+
+Experiment Five of sines.
+
+Angle A is angle between P & R Angle B is angle between P & E and is measured in degrees. 
+
+Therefore, angle A is (180 - B) sin A ​= sin (180 - €) R c) In this experiment the same results can be measured by balancing the component forces on a force table. (cf. Fig. 1) 
+
+by means of a third force which will be equal in value but opposite in direction to the resultant. i.e. Equilibriant.
+
+Resolution of Forces 
+
+2. 
+
+Any number of forces are 180-0 
+
+Fig. 1 
+
+in equilibrium if the algebraic sum of their components along two axes is equal to zero. In this experiment the three forces that are balanced in each case are resolved into their X and Y components on graph paper of suitable scale. If equilibrium exists, then when the X components and the Y components are added the algebraic result will be zero. Cf. Fig. 2. 
+
+APPARATUS 
+
+Force table, weights and holders.
+
+PROCEDURE 
+
+1. 
+
+Forces acting at an obtuse angle a) Place force P at 0° and at some angle as given by instructor. b) Apply weights of 100 grams at P and 150 grams at Q. These weights must include the weights of the holders. c) Have pulley which supports force E somewhere between 120 and 360°. Holding the string of this pulley firmly, remove the center pin and move the pulley back and forth until you have found a position where the hole in the ring will rest directly over the center of the table. This will be the direction of the equilibriant. Replace the pin. 17
+
+Experiment Five 
+
+30 +y -Y + X 
+
+Fig.2 
+
+d) Arrange the strings of the pulleys so that they will be radially through the center of the ring. b) Go through the same procedure as in Part 1. 
+
+Show on graph sheet that in each case equilibrium exists. 
+
+NOTE: 
+
+FORCES 
+
+Choose a suitable scale unit for graphing. 
+
+1 cm for 10 grams. i.e.
+
+De- scribe all angles with a protractor and do this with precision. Make sure all vectors are neatly drawn with india ink. 
+
+Show addition of X and Y components on the sheet. 
+
+Start graph in center of paper. e.g. Fig. 2. 
+
+P = 100 gms
+
+X Comp. Y Comp. 
+
++10 17 
+
+- 7.5 +12.5 
+
+E 130 19 - 2.5 -12.5 Q = 150 e) Make the weight at E about 100 grams and remove center pin and test for equilibrium. f) Add weights to E until the ring returns to the center of the table. 
+
+This is equilibrium. 
+
+g) This force E has the same magnitude as the resultant of P and Q. h) Restore pin and read the angle between P & (0) and the angle between E 
+
+and P (B). Register the weights, at P, Q, and R. 
+
+2. Forces acting at an acute angle a) Apply the same weights to P and Q as before. 300 
+
+091 051 BI 310 320 330 240 
+
+CEN. SCI.CO. 
+
+18
+
+Experiment Five SPECIMEN REPORT Case 1. Two forces acting at 120 degrees 
+
+11 
+
+= 120 degrees 
+
+B = 79
+
+(Observed) 130.0
+
+Difference 2.2
+
+Percentage Difference 
+
+Calculated direction of Equilibriant with P =
+
+Observed direction of Equilibriant with P = 
+
+SAME FOR CASE 2 
+
+79° 45' 790 GRAPH 
+
+EXPERIMENT VI PARALLEL FORCES OBJECT 
+
+To determine center of gravity of weighted bar.
+
+THEORY 
+
+This experiment is an application of parallel forces acting in the same direction. It consists in finding the point of application of the resultant of all the forces concerned. This point will be the 
+
+Center of Gravity of the system. The Center of Gravity of any system coincides with its Center of Mass. The case in point is that of a uniform rod carrying two or more bobs. The rod being uniform, the center of its mass is its middle point. Since the bobs and the rods are symmetrical about the rods long axis, the center of the mass of the system must lie somewhere along this axis. 
+
+In general, where several forces are acting on a body tending to cause rotation, the moment of the resultant force is equal to the algebraic sum of the moments of the component forces, or:- Rx = F' x' + F" x" + 
+
+Fn xn And since for equilibrium in the case of parallel forces, the forces in one direction must equal the forces in the opposite direction, R = F' + f" + Therefore x = F'X' + F"X" F + F" + • ... Fn An yn Fn 
+
+The position where the system will balance will be given by the above equation. This position will be the Center of Gravity of the system.
+
+In this experiment we let the weights of the bar and the bobs be the forces represented above. The distances of the bobs, e.g. the center of the bobs and the center of the rod from the end will be 19
+
+Experiment Six called x', x", case will be:- 
+
+Then the equation applied specifically to this
+
+TT m'x + m x + m ་ ་ 17 11 m' + m where m', m", m" are the weights and x', x", x" " are the distances of the center of gravity of the bobs and bar from the end of the rod chosen.
+
+APPARATUS 
+
+Bar and three bobs, knife-edge, balance and weights 'M, *2 M2 M 3 *-3--- 
+
+PROCEDURE 
+
+1. Weigh the bobs and bar carefully and if the bobs are not numbered, have some means of distinguishing them. 2. 
+
+4. 5. 6. 
+
+Balance the bar on the knife-edge. When the bar is exactly level, the knife-edge is perpendicular to the axis of the bar and the center of gravity of the bar must be in the same vertical plane as the knife-edge. Record this reading. Take all readings from the same end of the bar. 
+
+Place two bobs on the bar in any position and tighten them on the bar by means of the screw clamp. Balance the system and record the result.
+
+Determine the distance of the center of gravity of each bob from the same end of the rod. Do this by taking the reading on one side of the bob and then on the other. The distance will be one-half of the sum of the readings on each side. Record these distances.
+
+NOTE: The bobs are symmetrical and hence their centers of gravity will be one-half their thicknesses. 
+
+Change positions of the bobs and repeat the above process.
+
+Now add the third bob to the bar and keeping the three on the bar proceed as in steps 3 and 4 above for two different positions of the bobs. 20
+
+Experiment Six SPECIMEN REPORT 
+
+Weight of bar 
+
+grams. 
+
+Center of gravity of bar cms from end. 
+
+Weight of bobs:
+
+Bob 1 grams 11 Bob 2 11 
+
+Bob 3 
+
+Two Bobs on Bar:
+
+Case 1. 
+
+cms cms cms cms 
+
+Distance of bob 1 from end 
+
+Distance of bob 2 from end 
+
+Observed center of gravity 
+
+Calculated center of gravity Difference
+
+Percentage of Difference 
+
+Case 2. 
+
+Same form as above. 
+
+Three Bobs on Bar:
+
+Case 1. 
+
+... .... 
+
+Distance of bob 1 from end 
+
+Distance of bob 2 from end 
+
+Distance of bob 3 from end 
+
+Observed center of gravity = 
+
+Calculated center of gravity cms cms cms cms cms Difference ...
+
+Percentage of Difference 
+
+Case 2. 
+
+Same form as above.
+
+EXPERIMENT VII ACCELERATION OBJECT 
+
+1. To ascertain whether a freely falling body moves with uniformly accelerated motion. 
+
+2. To evaluate this acceleration in cm/sec. 2
+
+THEORY 
+
+If the change of
+
+Acceleration is the rate of change of velocity. velocity is the same for successive equal intervals, the body is said to be uniformly accelerated. Now from F = ma, we know that if we keep m constant a will vary directly as the force applied. There- 21
+
+Experiment Seven fore if F is also constant, the acceleration produced should be the same for each succeeding interval. But F of a falling body (its weight) is a constant for a given place. Hence the acceleration ought to be uniform. This acceleration will be shown to be uniform if consecutive distances passed over by a falling body differ from each other by the same amount: S 
+
+20 30 40 
+
+See figure. 
+
+Sz 3 
+
+$2 = a. 
+
+The spaces containing ten waves each 1 are represented by S1, S2, S3, etc. When the fork was at the beginning of S, it had already acquired an initial velocity (vo). In the interval of time (t), corresponding to ten vibrations, the fork by this initial velocity alone would pass over a space vot; but gravity also acts and adds to this space 1/2gt2. Hence in the first interval the fork passes over a space. $1 = vot + 1/2gt2. 
+
+Space passed over in two intervals:
+
+(2t) S1 + S₂ = 2vot + 4/2gt2. S. 2 Space passed over three intervals:
+
+(3t) S. 1 S₁ + S₂ + Sz 3 
+
+3vot + 9/2gt2. 2 The difference between these distances gives the space passed over during each successive interval. Hence: 
+
+Space passed over in 1st interval: $1 vot + 1/2gt2. 
+
+Space passed over in 2nd interval:
+
+S₂ = vot + 3/2gt2. 
+
+Space passed over in 3rd interval:
+
+Sz = V vot + 5/2gt2. 
+
+From which we obtain Sz S₂ = S2 - S1 gt2, which shows that the acceleration is uniform if the differences between the space passed over in successive intervals are equal. Calling the difference d, then d gt2 and g = d. t2 If n The value of t is computed from the frequency of the fork. is the frequency of the fork and N the number of vibrations during each interval, then: t = 
+
+But g = 
+
+d n2 N2 Friction will reduce the value somewhat.
+
+22
+
+Experiment Seven APPARATUS 
+
+Acceleration machine consisting of a tripod supporting two highly polished vertical rods. The falling body is a brass weight sliding between the rods and carrying a tuning fork with prongs vertical. 
+
+One prong bears a light stylus which during the descent traces a wavy line upon waxed paper. A trigger holds the weight in place at the top of the guides. 
+
+PROCEDURE 
+
+1. 2. 3. 4. 
+
+Level the instrument, checking with the plumb bob.
+
+Raise the fork to the top position under the trigger. 
+
+See that the pressure of the stylus on the paper is at a minimum. 
+
+Release fork. 
+
+5. Release paper clamp and move back. 
+
+Raise fork. 6. 7. 8. 
+
+Move stylus over and make two more traces.
+
+Remove paper. 
+
+Starting with the first well-defined trace near the top, divide each trace into groups of ten waves each, marking the crest of each tenth wave with a pin point.
+
+SPECIMEN REPORT 
+
+Read frequency of fork.
+
+First trace: 
+
+S = $1 8.20 
+
+S2 = 14.15
+
+= 5.95 2 1 3 $2 = 6.00
+
+S3 = 20.15 S3 = 5.85
+
+= 26.00 SA = 5.90 $5 = 31.90 = 5.92 80 t = 1 mean d +2 10 128 d = 5.92 80 
+
+5.92 x 1282 102 23
+
+Experiment Seven g = ....cms per sec/per sec. 
+
+Same form for second and third traces. 
+
+Mean g from three traces = 
+
+Mean g from tables 980.4 cm/per sec per sec.. 
+
+Percentage error.
+
+OBJECT EXPERIMENT VIII HOOKE'S LAW AND YOUNG'S MODULUS (Comparator Method) 
+
+To verify Hooke's Law and to determine Young's Modulus for stretching in a given wire.
+
+THEORY 
+
+When a body is forced to change its shape or size it is said to be strained and the deformation it undergoes is called a strain, (change). 
+
+The force within the body resisting this strain and tending to restore the body to its original condition is called a stress, (force). 
+
+That property of a body by which it tends to recover from a strain is called elasticity. The elastic limit is reached when the strain becomes so great that the stress is not sufficient to restore the body to its original condition.
+
+Hooke's Law states that within certain limits the stress (internal) is proportional to the strain, or:
+
+STRESS/STRAIN = E the constant of elasticity. 
+
+When the strained body is in equilibrium, the external deforming force is equal and opposite to the internal stress, and so the force stretching a wire is the measure of the stress. 
+
+Young's Modulus (E), the elastic constant, may be determined for a given material such as steel wire, if the stress (F/A), force per unit cross section area, and the strain (DL/L), the increase in length per unit length, are measured. Therefore:
+
+FL Mg L DL/L A x DL Tr DL F/A Where: dynes per cm² 
+
+M = mass in grams causing strain g = value in gravity
+
+L = the original length of wire in cms. DL = the radius of the wire in cms. the increase in length of wire in cms.
+
+All the above quantities except DL can be measured by ordinary means. In this experiment DL is measured by a comparator. c.f. 
+
+Experiment 4. 
+
+24
+
+Experiment Eight APPARATUS 
+
+A long wire suspended from a fixed support, at the end of which a suitable marker is attached and also a weight-holder. A comparator and micrometer.
+
+CENTRAL 
+
+sa. co. 
+
+PROCEDURE 1. Adjust the comparator as in Experiment 4. 
+
+2. 3. 4. 5. 6.
+
+Place 2000 grams on the weight-holder to remove the kinks from the wire and leave it there for at least 3 minutes. 
+
+Carefully measure the initial length (L) from the supporting edge to the top edge of the cylinder which supports the weight. 
+
+Take 5 readings with meter stick. 
+
+With the micrometer caliper measure the diameter of the wire in 5 different places. Half the mean of these readings is the radius. 
+
+Focus the comparator on the index and take three readings. 
+
+Add 1000 grams wait three minutes then take three readings. 
+
+Continue adding 1000 grams, waiting and reading as in #6 until 
+
+10,000 grams are on the scale pan. 25
+
+Experiment Eight 
+
+8. 9.
+
+In like manner remove the weights 1000 grams at a time until the original 2000 grams alone remain. 
+
+Apply the quantities M, L, r and DL in the formula and solve for E.
+
+SPECIMEN REPORT 
+
+Length of wire (cms) 
+
+Diameter of wire (cms) 73.30 .0456 73.34 .0460 73.25 .0462 73.28 .0454 73.30 .0448 Mean 
+
+73.27 cm
+
+Mean .0456 cm Radius .0228 cm
+
+Comparator readings with different weights (in mm): 
+
+2000 g. 
+
+3000 g. 
+
+4000 g. 
+
+5000 g. 
+
+6000 g. 
+
+7000 g. 15.93 15.75 15.62 15.52 15.37 15.22 15.89 15.80 15.59 15.49 15.35 15.21 15.07 15.77 15.60 15.45 15.36 15.20 15.897 15.773 15.607 15.487 15.36 15.21
+
+DL .124 .166 .120 .127 .150
+
+MEAN DL = .0137 cm. 
+
+Same form for return readings. 
+
+Log 1000 (M) 3.00000 2.99123 Log 980 (g) 
+
+Log 73 (L)
+
+Colog T Colog r2 Colog DL = 1.86332 9.50285-10 3.10568 = 1.86328 
+
+Log of E = 22.32634-10 = 21.2 x 10" dynes per sq. cm. 
+
+Compare value with tables. 
+
+Determine the percentage of error.
+
+EXPERIMENT IX YOUNG'S MODULUS BY BENDING OBJECT 
+
+To determine Young's modulus by bending for a given specimen of wood.
+
+THEORY 
+
+This experiment is designed to give some idea of the factors on 26
+
+Experiment Nine which the strength and stiffness of a transverse beam depends. In the case of a beam of rectangular cross-section and supported at both ends, the formula is 3 M = Pg L 4 F a b Where P is the mass on the bar (gm) g the acceleration due to gravity (cm/sec/sec) L the length of the bar between supports (cm) F the average deflection (cm) a the depth of the bar (cm) b the width of the bar (cm) This formula is derived by Calculus. 
+
+It is assumed that the bending is resisted entirely by the tension and compression of the fibres of the material. Thus, when the piece is curved, the upper fibres will be shortened, compressed; the lower fibres, stretched. Somewhere in the bar there will be a neutral line where there will be neither tension nor compression. The stresses will increase continuously from zero in this line to a maximum in the outermost fibres. For this reason Young's modulus for stretching applies and can be determined by bending when all other terms of the formula are known. By such experiments the tensile strength of various materials may be determined. 
+
+APPARATUS 
+
+Two table clamps, wooden rod, micrometer screw, contact hanger and pan, vernier caliper, dry cell, voltmeter, weights.
+
+PROCEDURE 
+
+Arrange the apparatus as in the diagram, leaving the electrical connections until all the rest of the apparatus has been arranged. (See diagram on page 28). 
+
+1. The beam is placed with one face resting on the knife edges. 2. 3. 4. 5.
+
+The distance between the knife edge supports (K,K') should be about 60 cm and the hanger H should be placed exactly midway between them.
+
+Connect the micrometer, screw, voltmeter, dry cell and hanger in series as indicated in the diagram. Have an instructor inspect the wiring.
+
+Move the micrometer screw so that its point is directly over the small platinum disc on the hanger. 
+
+Press the push button on the voltmeter V, and turn the screw S to make light contact with H. When contact is made, the voltmeter will register. Stop turning the screw, and take the micrometer reading. 
+
+6. Raise the point of the screw by turning the screw back, add 50 gm more to the hanger. After waiting a short time, read and record the reading of the micrometer screw. 27
+
+Experiment Nine 
+
+7. 8. 
+
+Continue in this way until 550 gm have been added. 
+
+Reverse the operation, removing 50 gm each time until only 50 gm remain on the hanger. 
+
+SPECIMEN REPORT 
+
+Length of the rod 
+
+Width of the rod 
+
+Depth of the rod 
+
+P in Reading of
+
+L = 60 cm (distance between K and K') b = 1.03 cm a = 
+
+1.03 cm 
+
+50 gm g = 980 cm/sec² F = .0152 cm M = Pg L3 4 F a b Deflection
+
+Deflection
+
+P in grams micrometer
+
+grams 
+
+Reading of micrometer 50 
+
+35.04 mm 550 33.50 100 ... 34.86 .18 mm 500 ... 150 .71 .15 450 .64 .79 ... .14 mm .15 200 
+
+.56 .15 400 ... .94 .15 250 .41 .15 350 34.09 .15 300 ... .27 ... 14 300 .24 ... .15 350 .12 .15 250 .39 .15 4.00 33.97 .15 200 .55 .16 450 .82 .15 150 .69 .14 500 ... .66 ... .16 100 ... .85 ... .16 550 .50 .16 50 35.00. .15 10(1.54 10(1.50 .154 mm .150 mm .154 mm log 50 log 980 3 log 60 1.6990 2.9914 5.3346 10.0250 .150 mm
+
+F = .152 mm = .0152 cm log 4 log .0152 3 log 1.03 log 1.03 .6021 8.1818 
+
+10 .0384 .0128 8.8351 10 
+
+28
+
+Experiment Nine OBJECT 
+
+log 
+
+20.0250 10 
+
+- log 8.8351 10 log M 11.1899 
+
+M = 1.55 x 1011 dynes/sq.cm. 
+
+Compare results with tables. 
+
+Determine the percentage of error.
+
+EXPERIMENT X CENTRIFUGAL FORCE 
+
+To verify the law of centrifugal force
+
+THEORY 
+
+F = mw2r There- 
+
+Suppose a body moves in a circular path with constant speed.
+
+Newton's first law of motion states that a body in motion, if not acted upon by any other force, will move in a straight line. fore this body moving in a circle must be acted upon by a force which constantly deflects it from a straight path. This force is called centrifugal force.
+
+By Newton's third law there is an opposite to this force which just balances the latter and is called centripetal force. 
+
+The law of centrifugal force is thus expressed F Where M is the mass of the body M v2 V is the linear velocity of the rotating body r is the radius of the circle in which it rotates. 
+
+Angular velocity w =
+
+شمه Hence V = wr and v² = w2r2 and F-mw2r We can therefore find the value of F in dynes, by measuring m in grams, r in centimeters, and w in radians. To find F in grams divide by 980.
+
+The particular value of w desired is that which obtains when the outward pull of the mass m (centrifugal force) is just sufficient to raise the indicator to the central position. r is measured when the indicator is in the same position. 
+
+In the apparatus to be used a spring provides the centripetal force. 
+
+One end of the spring is secured to the cylindrical mass in such a way that the spring exerts a pull through the center of the mass along the axis of the cylinder. The mass is free to move along its own axis. 
+
+The whole is mounted in a frame designed to be inserted in a rotator. 
+
+The axis of rotation is marked on the frame. The center of mass of the cylinder is also marked. r is measured from these two marks when the indicator is in the proper position. 
+
+The mass m is marked on the cylinder. The centrifugal force expressed in grams may be obtained by suspending the frame so that the 29
+
+Experiment Ten cylinder is below, weights are then added until the indicator shows that the same force is being exerted as when the mass was rotated. 
+
+This value should check with the centrifugal force as computed from the above formula. 
+
+APPARATUS 
+
+Centrifugal Force Apparatus, variable speed rotator with counter, stop watch, supporting stand, weights, weight hanger and vernier caliper.
+
+PROCEDURE 
+
+1. 2. 
+
+See that the frame is tightly screwed in rotator. 
+
+Start motor at lowest speed, increase speed until indicator is at central position. Do not increase speed much further as damage will result. 
+
+3. One observer keeps the speed constant. 
+
+4. The other observer holding a stop watch reads the counter at the beginning and end of 3 minutes. Take 3 readings of number of rev. for three minutes. Divide by 3 x 60 for rev. per sec. N 
+
+W = 2π N 
+
+6. 8. 9.
+
+Remove the frame from the rotator. Hang it vertically by the hook on the counterweight and attach a weight pan to the hook on the body that was revolving. Place weights on the pan until the pointer is again opposite the index. Record the weight. 
+
+Before removing the weights, take five readings of "r" with the vernier caliper.
+
+Change tension of spring and repeat operations 1 to 6 again. 
+
+Find the mean of each set of readings; reduce to rev. per second and then to radians per second.
+
+Find the force necessary to stretch the spring, this consists of the weight of the mass which is stamped on the latter, plus that of the hanger and weights. 
+
+10. Compare the stretching force in grams to the centrifugal force also in grams.
+
+SPECIMEN REPORT Case 1. Spring at minimum tension. Rotating mass = 150.1 grams 
+
+Rev.counter readings, 3 min. intervals 
+
+Radius in Cm. 
+
+5.65 cm 1st 13760 5.60 11 15206 1446 5.70 11 2nd 15206 17 5.65 16653 1447 5.65 11 3rd 16653 
+
+5.65 mean 18101 1448 
+
+1447 mean rev for 3 min. 8.03=n= rev. per sec. 30
+
+Experiment Ten 
+
+Angular velocity w = 2 n = 2 x T x 8.03 = 50.454 rad/sec. 
+
+Centrifugal force mw2r 150.1 x (50.454)2 x 5.65.
+
+Log 150.1 2 x Log Log = 2.17638 
+
+50.454 = 3.44375 5.65 = 0.75205 colog 980 
+
+Log F 6.37218 = 7.00877-10 =13.38095-10 = 2404.2 grams
+
+CEN. SCI. CO 
+
+F = 2404.2 grams 
+
+Stretching force = 2415.0 10.8 diff. 
+
+Percentage of difference = 
+
+Same for other two cases. wwwwww 
+
+OBJECT EXPERIMENT XI COINCIDENCE PENDULUM 
+
+To determine the value of the acceleration of gravity by the coincidence pendulum.
+
+THEORY 
+
+The formula for the ideal simple pendulum furnishes a means of determining the value of the acceleration of gravity at any place. 
+
+From the laws of the simple pendulum the period (T) of one complete vibration is
+
+T = 2√ L 
+
+Where L is the length. If one half vibration is measured as in the seconds pendulum then T = πT 2 and g = πι 2 The ideal simple pendulum consists of a string without weight supporting a bob with all its weight concentrated at a point. This of course is not obtainable in practice. To measure the length approximating the ideal dense bob, a small dense bob is supported on a very fine wire and the length (L) will be L = h + r Where h = length of the wire r = radius of the sphere 
+
+Besides the
+
+To measure T the method of coincidences is used. pendulum (A) whose period is to be measured is a compound pendulum (B) whose period can be regulated. The lower ends of the pendula are tipped with platinum points which, when at rest or passing through their lowest points, dip into a globule of mercury and 31
+
+Experiment Eleven and complete an electric circuit sounding a buzzer.
+
+WHEN THE TWO PENDULA HAVE EXACTLY THE SAME PERIODS 
+
+a) if they are set swinging in the same or opposite phase they will reach the lowest points simultaneously, and give warning of each vibration by a click of the buzzer. b) if they are not in the same or opposite phases they will never simultaneously reach the point of contact with the mercury.
+
+WHEN THE PENDULA HAVE DIFFERENT PERIODS 
+
+a) Here the pendulum A gradually gains on B as a faster runner gains a lap on a slower one. After a number of vibrations (n) they will come in contact with the mercury at the same time. Then A will start gaining again and after n vibrations will again come in contact with the mercury at the same time as B. Therefore, n vibrations of B just equal n + 1 vibrations of A, and if (t) is the period of A and (t') the period of B, then: nt' = (n + 1)t or t = nt' n+1 b) Pendulum A swings slower than pendulum B. The process is the reverse of the above. A loses a vibration. n vibrations of B = n - 1 vibrations of A and:
+
+Therefore nt' t = 
+
+n 1 
+
+APPARATUS 
+
+Coincidence pendulum, stop watch, counter, vernier caliper, meter stick.
+
+PROCEDURE 
+
+1. The circuit through the pendula, buzzer and mercury is completed. If no click is heard when both are in contact, notify the instructor. 2. 3. 4.
+
+To find the period (t'), of the COMPOUND PENDULUM B, set the pendulum swinging in a small arc and by means of a stop watch time 100 single vibrations. Compute (t'). The second observer repeats the observations. 
+
+To determine whether the simple pendulum A is swinging faster or slower than the compound pendulum B, set both vibrating and let one observer watch A and the other watch B. Each counts the number of vibrations between the same coincidences as indicated by the clicks of the buzzer. The one with the greatest number of vibrations is the faster and this determines which equation above is to be used.
+
+To determine the period(t) of the SIMPLE PENDULUM: set pendulum 
+
+B vibrating so that it swings back and forth in one plane 32
+
+Experiment Eleven through the top of the mercury globule. Set pendulum A vibrating so that when released it will swing exactly in the plane of vibration.
+
+CENTRAL SCIENTIFIC 
+
+CO 
+
+SPECIMEN REPORT 
+
+When both pendula are vibrating properly determine (n) as follows: 
+
+Let one observer count audibly the single vibrations of the compound pendulum B, beginning the count when it passes through the mercury. 
+
+The second observer makes a note in writing of the numbers called each time there is a click from the buzzer. 
+
+Five CONSECUTIVE coincidences are to be taken in this way, and then the observers change place and repeat. 
+
+Note that since the mercury globule has thickness sometimes more than one click is produced and these numbers are to be recorded together and their mean taken as the number for coincidence. From these observations determine the number (n) and compute (t) 
+
+5. To determine (h) the length of the wire from the supporting knife edge to the top of the sphere use the meter stick. 
+
+6. To determine the radius of the bob (r) take three measurements of the diameter with the vernier caliper and compute (r). 
+
+Period of the compound pendulum: 
+
+Time of 100 vibrations Observer A
+
+Observer B 
+
+Mean of observations 
+
+Period of compound pendulum. 
+
+To determine which swings slower. (B) ... 
+
+Compound pendulum makes 26 vibrations between 2 coincidences. 
+
+Simple pendulum makes 25 vibrations between 2 coincidences.
+
+Therefore A is slower than B. 
+
+Coincidences: (vibrations of B between successive coincidences) 33
+
+Experiment Eleven Observer 1 Observer 2 
+
+26 #2 
+
+Mean .. 26 22 26 22 252 26 21 26 7.6 .... 
+
+Period of simple pendulum (A) T = 26 25 26 27 Mean 26 x 1.00 25 Value of g, as given by simple pendulum = П2L L = h + r = 106 + 1.9 = 107.89 cm. g = 2x 107.901 (1.041)2 
+
+2 x log П = 0.99430 log 107.9= 2.03302 2 colog T= 9.96468 10 log g = 2.99200 
+
+2707 = 1.041 sec. 21 21·581 T=1.043 g = 981.75 cm/sec² from experiment g= 980.3 cm/sec²2 from tables 1.45 cm/sec² Diff % diff 
+
+1.6 percent
+
+EXPERIMENT XII THE KATER PENDULUM OBJECT 
+
+1. To obtain skill in the precise measurement of time. 
+
+2. To determine the acceleration of gravity by means of the 
+
+Kater pendulum.
+
+THEORY 
+
+The pendulum affords the most convenient and precise method of measuring the acceleration of gravity at any given place. In any solid, whatsoever shape, there are two points symmetrically situated with respect to the center of gravity, about which the body will oscillate with one and the same period. These are the conjugate points and are at different distances from the center of mass. 
+
+The distance between these points is equal in length to the length of an ideal simple pendulum that will oscillate with the same period.
+
+If this length (L) and the period (T) are determined, the value of (g) may be determined from the formula. π2L TZ 34
+
+Experiment Twelve 
+
+The above principle of Huyghen was used by Captain Kater in a pendulum with two sliding knife edges. 
+
+Bessel has shown that it is not necessary to have the periods about the knife edges exactly equal, but that an equal accuracy may be obtained from the formula: 2 πT Where 2 2 1 + 2 2(h + 2 T2 1 2(h₁ - h₂ t is the period about knife edge 1 is the period about knife edge 2 h₁ is the distance of knife edge 1 from the center of gravity. h₂ is the distance of knife edge 2 from the center of gravity.
+
+APPARATUS 
+
+Kater pendulum, stop watch and meter stick.
+
+PROCEDURE 
+
+1. 2. 3. 4. 5. 6.
+
+Start the pendulum vibrating in a small arc, and when it is freely vibrating, take the time of 60 vibrations with the stop watch. 
+
+Note: The watch is started at the zero vibration. 
+
+Invert the pendulum timing 60 vibrations about knife edge 2.
+
+If the periods are not approximately equal (not more than .2 of a second) move the small bob towards the knife edge about which the period was longer and again test. This must be repeated until the periods are nearly equal.
+
+With the stop watch let one observer find the time of 250 vibrations about both knife edges. Compute the time of a single vibration about knife edge 1 and call it t. In the same way compute t about the other knife edge. Same for observer 2.
+
+Carefully and without altering the position of the bobs, remove the pendulum and measure the distance between the knife edges. This gives (h + + h₂). 
+
+Carefully balance the pendulum on the knife edge on the table and find the center of gravity. Handle the pendulum very carefully to prevent it from falling. 35
+
+Experiment Twelve 
+
+7. Measure the distance from each knife edge to the center of gravity and find h, and h. Do not confuse the distances, i.e. for knife edge 1 and 2. 
+
+8. Apply these results to the formula and solve for g. Compare results with the accepted value for Boston (980.4 cm per sec). 
+
+Compute the percentage error.
+
+SPECIMEN REPORT 
+
+Vibrations on knife edge 1. 
+
+Time of 250 vibrations: 
+
+Observer 1 249.8 seconds 
+
+Observer 2 250.2 seconds 
+
+250.0 seconds 
+
+Mean of two observations 
+
+Vibrations on knife edge 2. 
+
+Time of 250 vibrations: 
+
+Observer 1 Observer 2 
+
+250.1 seconds 
+
+249.9 seconds 
+
+250.0 seconds 
+
+Mean of two observations 
+
+Period about knife edge 1 = 1 second 
+
+Period about knife edge 2 = 1 second 
+
+Distance between knife edges = 99.0 cms = 32.2 cms.
+
+DETERMINATION OF g. 
+
+2 n₂ = 66.8 cms. =2 2 1 2 
+
++ 1 2(h 2 = 2 (1 + h) .'. g = 977.13 cm. per sec² g from tables g from experiment 2 = 980.3 cm per sec² = 977.13 " 11 diff = 3.17 11 11 % diff .23%
+
+EXPERIMENT XIII THE ANALYTICAL BALANCE 
+
+2 198 
+
+OBJECT 
+
+To obtain skill in the precise measurement of mass.
+
+THEORY 
+
+Before using the balance the student should read over the instructions. These precautions should be strictly observed. 
+
+1. Do not place on the pans anything wet, any mercury, nor anything that might injure the pans. 36
+
+Experiment Thirteen 
+
+2. 3. 4. 
+
+Never change the masses on the pans, nor move the rider while the beam is free to swing. 
+
+Never touch any standard masses with the fingers use forceps.
+
+Keep all standard masses in the proper compartments in the box when not actually in use upon the balance pan. Do not place them on the table. 
+
+5. Never raise or lower the arrestment so quickly as to cause any jerk. Raise the arrestment just as the pointer crosses the center of the scale. 6. When not actually altering masses, keep the case closed. 
+
+Before leaving the balance, bring the arrestment up so that the beam is not free to swing, set the rider at the zero point and close the case.
+
+All weighings with the Analytical Balance must be made by the METHOD OF VIBRATIONS. This is the method usually employed in quickly making accurate weighings. When using this method, the balance case is at first left closed and the arrestment released. 
+
+If the pointer does not begin to swing, the case should be opened, the hand waved lightly over one pan and the case again closed. 
+
+With the pointer swinging in front of the scale, the zero point of the balance is determined, i.e., the position on the scale at which the pointer would finally come to rest, either with no load on the pans or with equal loads on both pans.
+
+N.B. The zero point is rarely at the center of the scale. 
+
+The ZERO POINT is determined by observing an odd number of successive turning points of the pointer. As the pointer swings, the distance between any two successive turning points on the same side of the scale gradually decreases, but in a few swings the decrease is slight. The zero point is about halfway from 'b' to a point midway between 'a' and 'c'. It is also halfway from 'c' to a point midway between 'b' and 'd', etc. The zero point, then, is very near the point found by taking an average of a, c and e and averaging it with the average of b and d. In determining the turning points, always measure from extreme left of scale. 
+
+Suppose the five successive turning points are observed to be: Left 6.5
+
+Right 14.9 6.7 14.8 6.8 3)20 
+
+2 )29.7 6.67 14.85 6.67 14.85 2)21.52 10.76
+
+The ZERO POINT, called ro is 10.76 (or 10.8 approx.) 
+
+37
+
+Experiment Thirteen 
+
+After the zero point has been determined and while the arrestment is elevated so as to lift the beam off the knife edge, the body to be weighed is placed on the left pan and an estimated equivalent mass is placed on the right pan. NO MASSES are to be put on or taken off the pans while the pointer is free to swing. 
+
+Slightly release the arrest and note which direction the pointer tends to swing. Then add or take off an estimated mass equivalent to cause the pointer to tend to move in the opposite direction. When the masses are so nearly adjusted that if the arrestment is entirely released the pointer swings back and forth across the scale, the position at which the pointer would finally come to rest is determined by the METHOD OF SWINGS. The point of rest with the load is called 1. 
+
+To determine the mass that should be added or subtracted from the mass on the pan in order to bring the pointer to rest at the zero point, it is necessary to determine the sensitivity of the balance.
+
+The SENSITIVITY is the number of scale divisions through which the point of rest is moved by an addition of 1 mg to the load on one of the pans. As the sensitivity of a balance is a function of the load, it should be determined for each weighing. To deter- 38
+
+Experiment Thirteen mine the sensitivity, the RIDER is moved so as to alter the effective mass on the mass pan by two or more milligrams, and the new position of rest is determined as above by Method of swings. This point of rest, with the mg added is r₂ m is the milligram added. r2 - 1 
+
+Then sensitivity - S = 
+
+ro W (weight of object) = W ± (w weights in pan)
+
+N.B. From observations, determine if correction is to be added or subtracted.
+
+From these observations the mass which would be required to make the rest point coincide with the zero point can be calculated without taking the time to effect the balance experimentally. 
+
+Cf.. report for illustration.
+
+APPARATUS 
+
+Balance, weights, object to be weighed.
+
+PROCEDURE 
+
+1. Inspect the balance and if it is out of adjustment call an instructor before proceeding. 2. 3. 4. 
+
+Release the arrestment gently and if necessary open balance case and start balance oscillating by waving hand over one pan. 
+
+When pointer is oscillating within the limits of the scale, take three readings on one side and two on the other. 
+
+N.B. Disregard the markings on the scale. Call the extreme left mark zero, then ten will be in the center and twenty on the extreme right. 
+
+Record your point of rest with no load call this reading ro· 
+
+5. Arrest the motion of the scale by gently turning the thumb
+
+Place object to be weighed on the left pan and weights on the right. 6. 8. screw.
+
+DO NOT HANDLE WEIGHTS WITH FINGERS. 
+
+When object is very nearly balanced take a second rest point.
+
+Call this reading r₁• Place two milligrams extra on the right pan and again take the rest point. Call this reading г2.
+
+Calculate the weight of the object from the formula. w is the value of the weights on the pan. The result will be the apparent weight of the object. To find the true weight it would be necessary to weigh in a vacuum. 39
+
+Experiment Thirteen SPECIMEN REPORT Balance No..... 
+
+Weights No. 
+
+Object.... 
+
+Point of rest no load.
+
+Left 
+
+Right 
+
+14.9 6.7 14.8 6.67 
+
+14.85 6.8 14.85 21.25 20.0 10.76 6.67 
+
+Same for ri and 2° = 10.76
+
+= 12.20 12 7.8
+
+W = w + 1 1000 
+
+2 120 
+
+Weights on pan 
+
+25.224 grams 
+
+25.224 + 12.20 12.2 
+
+10.76 
+
+7.8 = 25.2246 grams 
+
+EXPERIMENT XIV THE DENSITY OF A SOLID OBJECT 
+
+To determine the density of a solid by means of Archimedes's principle.
+
+THEORY 
+
+When a solid is immersed in a liquid, it is buoyed up by a force equal to the weight of the liquid displaced. This buoyant force may be determined by weighing the solid, first in the air and then in a liquid. The difference in weight is the force desired. If the density of the liquid is known, the volume of the solid can be easily determined. 
+
+APPARATUS 
+
+Balance, weights, cylinder used in 
+
+Experiment 1, beaker, fine wire.
+
+PROCEDURE 
+
+1. Weigh the cylinder in air to a tenth of a gram. Call this weight M. 
+
+2. Hang the cylinder from the hook of 40
+
+Experiment Fourteen 
+
+3. 4. the balance by means of the fine wire. 
+
+Place a beaker of water under the balance so that the cylinder is immersed in the water. Be careful that the cylinder does not touch the sides or the bottom of the beaker. 
+
+Weigh the cylinder immersed in water. 
+
+Repeat three times. 
+
+Call this weight W.
+
+SPECIMEN REPORT 
+
+M-1 
+
+2 3 
+
+3) W-1 2 gm., weight of cylinder #.... in air. gm., mean .... gm., weight of cylinder #.... in water. 3 
+
+3) M W 
+
+..... gm/cc. gm., mean 
+
+Density of cylinder #.... 
+
+What is the volume of the cylinder? Compare with the volume found in Experiment 1. 
+
+Repeat the experiment with another solid. Find the specific gravity of the second solid.
+
+EXPERIMENT XV JOLLY BALANCE OBJECT 
+
+1. 
+
+To determine the calibration factor of a spring. 
+
+2. To determine the specific gravity of a solid. 
+
+3. To determine the specific gravity of a liquid.
+
+THEORY The conclusion from Hooke's Law is: 
+
+= C change of force change of length
+
+Therefore, change of force = change of length x c (constant) Let the change of length be e and the constant C. 
+
+Then, change of force = Ce.
+
+This relation is true within the elastic limit of the spring. 
+
+C is called the calibration Factor of the spring. It is the number of grams necessary to extend the spring one cm. This factor is constant for a given spring at a given temperature. 
+
+If we desire the ratio between two weights, w₁ and W2, and if e1 and 2 are the respective elongations produced by these weights, then: 41
+
+Experiment Fifteen 
+
+W₂/W2 Ce₁/Ce₂ = 01/02 or: 
+
+The weights are to each other as the elongations produced. Now since Specific Gravity is the ratio of the weights of equal volumes of a substance and the standard, we can determine the specific gravity of different substances by comparing the elongations produced by masses whose volumes are equal. 
+
+APPARATUS 
+
+Jolly Balance, thermometer, distilled water, solution CuSO dime, weights.
+
+PROCEDURE 
+
+1. 2. 4' Be By means of screw at base, adjust column until middle scratch on indicator coincides with etched mark on glass tube. sure instrument is level.
+
+Place a beaker of water on support. 
+
+3. Adjust support until lower pan and its supporting wires only are immersed. 4. 5. 6. 8. 
+
+With the upper pan empty and the lower pan immersed, readjust indicator. To avoid parallax, bring the eye level with the indicator marks. Read vernier.
+
+Lower the columi until indicator rests easily on support. 
+
+Raise column and proceed as in step 4. Take in all four readings. The mean of these 4 will be the reading for zero load.
+
+Place one gram in upper pan, adjust and read. Take four readings and determine mean. 
+
+In the same way determine the elongations for 2, 3, and 4 grams in upper pan. 
+
+To determine the specific gravity of 
+
+Take fresh distilled water. a coin 
+
+Place 2. grams in upper pan. Adjust column and read. Take 
+
+10. Clean the dime and place it in upper pan with the 2. grams.
+
+Take 4 readings. 
+
+REPEAT THE OPERATIONS WITH THE COIN 
+
+11. Remove dime from upper pan and place it in the lower. See that all air bubbles are removed. The 2. grams remain on the upper pan throughout the remainder of the experiment. Take 
+
+REPEAT STEP 11 
+
+42
+
+Experiment Fifteen 
+
+12. Take the temperature of water immediately after last reading. 
+
+To determine the specific gravity of a liquid 
+
+13. Replace the distilled water with CuSO, 14. Repeat operations 10, 11 and 12. 4° 15. Clean beaker and thermometer and lower column. 
+
+NOTE: When 2 gms are in upper, lower empty, elongation = eo 
+
+Dime and 2 gms in upper, empty, elongation = e1 lower 
+
+Dime removed to lower, 2 gms in upper, elongation = e2 
+
+Then e1 air. and e1 
+
+eo weight of dime in e2 = loss of weight of dime = weight of volume of H20 equal to volume of dime and Specific Gravity eo 01 - 00 10.43 01 e2 The density of the coin is the product of its Sp.Gr. into the density of water at the temperature of the experiment. The latter will be found in the Smithsonian
+
+Tables. 
+
+When 2.0g and dime are in upper pan, lower empty, call elongation produced et 1 When 2.0g are in upper and dime in lower pan (CuSO4) call elongation produced e2 10.43 
+
+Then efe = loss of weight of dime in CuSO4 = wt of vol of CuSO4 and e. וי 
+
+1 HO = loss of weight of dime in H20= wt of vol of H20 and Sp. Gr. of CuSO4 
+
+e1 - 02 01 - 2 
+
+The density of CuSO 
+
+dime above. will be found in the same way as that of the 43
+
+Experiment Fifteen SPECIMEN REPORT 
+
+1. 2. 3. 
+
+Zero Load 
+
+One Gram Two Grams Three Grams 
+
+Four Grams 
+
+4. Mean = Elongation) for 1 g. 
+
+... 
+
+Avg. elongation = მე 1. 2. 
+
+e1 cm. 3. 234 4.
+
+Mean = e2 wt. of dime in air (e, e) 
+
+2:4. wt. of equal vol H₂O (е1 – е½) 
+
+Sp. Gr. of dime = 
+
+Temperature of water at the beginning 
+
+Temperature of water at the end 
+
+Density of water at
+
+Density of dime = Sp.Gr. x D of H₂O 
+
+... 10:5°C = 19.5 
+
+from tables 
+
+Same form for second determination.
+
+Same form for two determinations of Sp.Gr. and density of CuSO, Compare results with tables. Determine Percent Error.
+
+EXPERIMENT XVI 
+
+MOHR WESTPHAL BALANCE OBJECT 
+
+To determine the Density and Specific Gravity of liquids by means of the Mohr-Westphal Balance.
+
+THEORY 
+
+Archimede's Principle states that a body immersed in a liquid is buoyed up by a force equal to the weight of the liquid displaced. 
+
+Hence, if a given body of constant volume be immersed in various liquids, the corresponding losses of weight will represent the weights of equal volumes of the various liquids. From the comparison of these weights the specific gravity of the liquids may be determined.
+
+Let d' = density of liquid in question L' = loss of weight of plummet in liquid = loss of weight of plummet in water at temperature of experiment. 44
+
+Experiment Sixteen 
+
+Then 풍 ​d = volume of water displaced density of water at temperature of experiment. d' and = volume of liquid displaced ... d' = L'd The weighings may be made with an ordinary balance but more commonly the Mohr-Westphal is used. This instrument consists of a balanced beam, one end of which has nine equally spaced notches and an end hook. From this hook a glass plummet, containing a thermometer balances the weight of the plummet in the air. The height of the beam is adjustable. When the plummet is immersed riders are hung along the notches until equilibrium is restored, that is, until the buoyant effect of the water is overcome. cf.
+
+Archimede's Principle. The absolute value of the riders is not important but the largest is exactly equal to the loss of weight of the plummet when immersed in distilled water at 15°C. Therefore, if this rider is hung from the plummet hook, the plummet being immersed in water of this temperature, the beam will be horizontal. There are four riders, each one-tenth the weight of the next larger. A duplicate of the largest is provided for the measurements of densities greater than unity. 
+
+If on
+
+If the beam is balanced when the largest rider is on the plummet hook, then L' equals 1.0000. If the beam is balanced when the same rider is on the first notch, then L' equals 0.1000. the second, then L' equals 0.2000, etc.
+
+The other three riders are used to get the other decimal places: 
+
+If perfect balance cannot be obtained by means of the largest rider alone, then the next larger is added to successive notches until equilibrium is most nearly attained. Then the larger and the next in the same manner. Suppose we find the balance to lie between 0.2000 and 0.3000. Adding the next rider to notch nine we find the beam overbalanced; putting it back to notch eight the beam is under-balanced, hence the balance must lie between 0.2800 and 0.3000. If we find that perfect balance is had when the two succeeding riders are on notches three and four respectively then 
+
+L' equals 0.2834.
+
+The value of d is obtained from the tables of densities. 
+
+The temperature is read from the thermometer within the plummet. 
+
+L and L' are measured.
+
+APPARATUS 
+
+Mohr-Westphal Balance, riders, distilled water, copper sulphate.
+
+PROCEDURE 
+
+1. 
+
+Place balance on balance case, with plummet hanging from hook and within empty glass jar. 
+
+2. Levelling screw in base should be under counter balance guard of beam. 45
+
+Experiment Sixteen 
+
+3. Adjust height of beam so that plummet is about one cm. below top of jar. 4. 5• 6. 
+
+By means of levelling screws bring points on beam and stand into coincidence. 
+
+Pour in distilled water until level of water is above plummet. 
+
+Restore equilibrium by means of the riders. NEVER touch riders with the fingers. Pincers are provided. If two riders are to be suspended from the same notch the second should be hung from the hook of the first. 7.
+
+Take five readings of L; read the thermometer each time. 8. 9. 
+
+Remove water; dry plummet and jar. Fill jar with copper sulphate. 
+
+Proceed as in steps 6 and 7 above. 
+
+10. Substitute your values in the formulae and calculate densities. 
+
+11. Compare your results with the values of the densities found in tables.
+
+SPECIMEN REPORT WATER SULPHATE 
+
+Temp L" Temp 1.000 17.30 1.101 25.10 .999 17.2 1.1005 25.3 .999 17.5 1.1008 25.3 1.000 17.5 1.1000 25.5 .999 17.5 1.100525.5 .9994 17.40 1.10056 25.34 
+
+Density of water at temperature of experiment = .
+
+9980 gms/cc 
+
+Specific Gravity of CuSO Density of CuSO4 
+
+L" 1.10056 = 1.1012 .9994 L'd L" d = 1.1012 x .9988 
+
+1.0998 gms/cc 
+
+Compare results with tables.
+
+Determine Percent Error. 
+
+46
+
+EXPERIMENT XVII SPECIFIC GRAVITY BY HARE'S METHOD OBJECT 
+
+To determine the specific gravity of copper sulphate by means of balancing columns. 
+
+THEORY 
+
+Torricelli's Experiment shows that the atmosphere exerts a pressure. 
+
+By measuring and weighing we find that under standard conditions, this pressure is sufficient to sustain a column of liquid, whose weight varies directly as the pressure and inversely as the density of the liquid. 
+
+If two liquids are drawn up into two glass tubes joined by a T connection at the top, then the liquids are under equal pressure hi and their heights will vary inversely as their densities. For the weight of the two columns must be the same since they are sustained by the same pressure. Since the tubes are of equal, uniform bore the weight of unit volume of the liquid in one tube multiplied by the number of units of liquid contained must equal the weight of unit volume of the other, multiplied by its number of units of volume. 
+
+The number of units of volume is directly proportional to the height of the column. 
+
+Leth height of liquid A height of liquid B h1 = another height of A ng = another height of B d = density of A d₂ = density of B Since weights of balancing columns must be equal and since the weight of a substance is directly proportional to its density: h d = h₁ d₁ and h₂ d = hê dı d1 Therefore que not سم الله شاه li 
+
+ng - h₁ The densities of liquids are inversely as the changes in height.
+
+APPARATUS 
+
+Hare's Apparatus, copper sulphate, thermometer, distilled water. 47
+
+Experiment Seventeen PROCEDURE 
+
+1. 
+
+See that tubes and jars are clean. 
+
+2. Nearly fill one jar with copper sulphate and the other with distilled water. Place ends of tubes in jars. 
+
+4. 
+
+Close stop-cock; deflate bulb; open stop-cock and allow bulb to be inflated by air from tubes. Liquid will rise in tubes; shut stop-cock again before liquids have risen too high. 
+
+Liquids must not be allowed to mix. 
+
+Insert a thermometer in each jar; read temperature after one minute.
+
+Lower the liquids about one or two centimeters. 
+
+Determine the height of the column of copper sulphate by reading from the top of the liquid in the jar to the top of the liquid in the tube. Readings are to be made at the bottom of the meniscus.
+
+Determine the height of the water in the same manner. 
+
+8. Vary heights of liquid by admitting air. Repeat 5, 6 and 7. 
+
+Make two more variations in height. Repeat 5, 6 and 7. 9. 
+
+10. Read temperature again, repeating operation 4. 
+
+11. Open stop-cock and allow copper sulphate to fall back into jar.
+
+SPECIMEN REPORT 
+
+Temp. copper s. at beginning
+
+Temp. copper s. at end 
+
+Temp. water at beginning 
+
+Temp. water at end 
+
+Density of water at mean temp.
+
+Copper Sulphate Water 
+
+Reading in tube jar height 
+
+Reading in tube jar water 
+
+Then 으로 ​= 
+
+Compare results with tables. 
+
+Determine percent error.
+
+EXPERIMENT XVIII THE BAROMETER 
+
+Same form for other readings 
+
+Mean density of copper sulphate 
+
+OBJECT 
+
+To study the use of the Fortin Barometer and to reduce the 48
+
+Experiment Eighteen readings to standard conditions.
+
+THEORY 
+
+The atmosphere exerts a pressure capable of sustaining a column of liquid whose height depends on atmospheric conditions, temperature, latitude and altitude. Also to a slight extent on the diameter of the tube. The Fortin Barometer consists of a column of mercury in a tube closed at the top having a very high vacuum above the mercury. The height of the column of mercury is measured from the level of the top of the mercury in the cistern into which the lower end of the tube dips, to the top of the convex surface in the closed tube. The zero of the scale is the tip of the ivory point dipping into the cistern. The position of the top is indicated by the scale, assisted by a vernier whose index must be made to coincide with the top of the column.
+
+As temperature and altitude and latitude cause variations in the readings, these readings must be corrected so as to give the reading for the same pressure if the temperature was 0°C at sea level and 45° latitude. These corrections can be found in the Smithsonian Tables.
+
+APPARATUS Fortin Barometer. 
+
+PROCEDURE 
+
+1. 2. 
+
+Read the temperature as indicated on the thermometer attached to the barometer, at the beginning and end and take a mean. 
+
+See that the barometer is hanging freely in a vertical position. 
+
+3. Raise or lower the mercury in the cistern by means of the screw at the bottom of the barometer until the surface of the mercury just meets the tip of the ivory point. The sur face of the mercury in the cistern now coincides with the zero mark of the scale. 
+
+4. Determine the value of the scale divisions and the least count of the vernier. 5° Raise or lower the vernier until the upper level of the mercury exactly coincides with the zero of the vernier. 
+
+The eye, the upper surface of the mercury and the zero of the scale should all be in the same straight line. 
+
+6. Read the scale of the vernier in cm. 49
+
+Experiment Eighteen 
+
+8. 
+
+Then lower the screw in the bottom and raise the vernier and repeat 3, 5 and 6.
+
+Make 5 readings in the same way. 
+
+9. Take the mean of the readings in cm and make three corrections and then take the mean of the readings in inches. Make three corrections. 
+
+N.B. Latitude is 42° 24' 
+
+Elevation is 200 ft above sea level
+
+SPECIMEN REPORT 
+
+Temperature at beginning 24 at end 23 degrees. 
+
+Least count cm scale .... mum 
+
+Temperature correction for 
+
+Latitude correction for 
+
+Altitude correction for
+
+Corrected Reading 
+
+... ....in .cm.
+
+EXPERIMENT XIX BOYLE'S LAW 
+
+inch scale
+
+OBJECT 
+
+To verify Boyle's Law for pressures greater than one atmosphere.
+
+THEORY 
+
+Boyle's Law states that if the temperature of a gas is kept constant, the product of the pressure and the volume is a constant; i.e. pv €. Any change in the pressure produces a change in the volume, but the new product, pv = C. 
+
+APPARATUS 
+
+The apparatus consists of a flexible U-tube terminating in two vertical glass tubes, arranged to slide up and down a frame. One tube is always open to the air and the other is equipped with a stop-cock and is graduated. This tube is the gas container. The 
+
+U tube is filled with mercury, and when the stop-cock is closed, the raising or lowering of the open tube causes a change in the volume of gas in the closed tube. Attached to the frame is a graduated vertical scale. Sliding along this scale is a vernier scale equipped with a mirror on which is a horizontal scratch. 
+
+This mirror moves up and down the scale behind the U tube and 50
+
+Experiment Nineteen facilitates the reading of mercury heights. The pressure of the air in the tube, expressed in cms of mercury, is obtained by properly combining the difference in levels of the two columns with the barometric height. If the mercury in the open tube is higher than that in the closed tube, then the air in the closed tube is at a higher pressure than the atmosphere, and the difference in levels is to be added. If the opposite is the case, then the difference in levels is to be subtracted. 
+
+PROCEDURE 
+
+1. With the stop-cock open, raise or lower the open tube until the mercury rises to 10 cc in graduated tube. 2. 3. 4. 
+
+N.B. Only move open tube.
+
+If By means of the index on the mirror, see that the mercury levels in both tubes read the same. this is not so, level the whole apparatus by means of the leveling screws at the base. 
+
+Close stop-cock, seeing that there is no leakage. The gas in the tube is now at atmospheric pressure. 
+
+Read the barometer and the temperature. 5.
+
+Now raise the open tube until the volume of air in the graduated tube is .5 cc less. 6. 
+
+Read the heights of the mercury in both tubes and record the volume of the gas.
+
+CENTRAL SCIENTIFIC. 
+
+co 7. 
+
+Proceed as in steps 5 and 6 until the volume of air has been reduced 
+
+5 units. 8. 9.
+
+In each case the pressure of the air is the difference in levels plus the barometric height.
+
+Without opening the stop-cock, lower the open tube until the air has a volume .5 cc more. Record the volume and mercury heights. 
+
+10. Proceed as in step 9 until the volume of air has been increased in steps of .5 cc to the original volume. 
+
+11. Make a graph of the results of the experiment. Use reciprocal of volume on X axis; P on Y axis. 51
+
+Experiment Nineteen 
+
+12. Read barometer again and use the mean value for correction.
+
+SPECIMEN REPORT 
+
+Barometer at beginning 
+
+Barometer at end 
+
+Volume of air
+
+Mean Barometer = 
+
+PV 
+
+Hg.Closed Hg.Open Diff. 
+
+Gas at atmospheric pressure 
+
+Determine percent deviation of PV.
+
+GRAPH. 
+
+EXPERIMENT XX FIXED POINTS OF A THERMOMETER 
+
+OBJECT 
+
+To test the zero and hundred degree points of a centigrade thermometer.
+
+THEORY 
+
+The underlying principle of the thermometer is the fact that the liquid expands on being heated and contracts when cooled, and the rate of increase and decrease is constant. Custom has chosen for the starting point or zero, the height of a column of mercury when the thermometer is immersed in freezing water or melting ice. 
+
+The second fixed point is the height of the mercury when the thermometer is immersed in steam arising from water boiling at sṭandard atmospheric pressure. As the atmospheric pressure in the laboratory is not standard pressure, the boiling point at the existing pressure can be found from tables. 
+
+If the zero point of the thermometer to be tested does not correspond with the height of the mercury when it is placed in melting ice, or if the temperature from the tables for the existing pressure of the atmosphere does not correspond with the height of the mercury when the thermometer is immersed in steam arising from boiling water, the scale is in error and the proper corrections must be made.
+
+APPARATUS 
+
+Mercury in glass centigrade thermometer, distilled water, ice, salt, ice jars, large beaker, hypsometer, bunsen burner.
+
+PROCEDURE Part I 
+
+To determine the freezing point 52
+
+Experiment Twenty 
+
+1. 2. 3. 4. 5. 6. 
+
+Fill the ice jar with a mixture of ice and salt. 
+
+Fill test tube two-thirds full with distilled water. 
+
+Place the test tube in the ice jar and surround it with the mixture of salt and ice. 
+
+Place the thermometer in the distilled water so that the zero point is submerged, and stir so that water does not solidify on the thermometer.
+
+When the mercury remains constant take reading. 
+
+Take four more readings the same way. Take mean of five readings. 
+
+Part II 
+
+7. 8. 9. 
+
+The Boiling Point 
+
+Fill the hypsometer about one-third full with water, so that there is space of one inch between upper level of water and the bulb of the thermometer.
+
+Put the thermometer in the neck of the hypsometer, so that 0°-990 of the thermometer are within the hysometer. Generate steam. In When the mercury thread has reached its maximum height, take readings. the same way take four other readings. 
+
+Take mean of five readings. 
+
+10. Take barometer reading, and correct for temperature, altitude and latitude.
+
+SPECIMEN REPORT 
+
+Correct for barometric pressure from the formula: t = 100 76 B 2.68 
+
+Where t = true temp- 
+
+Thermometer No/95..
+
+Zero reading 12- 3erature of the steam. 
+
+B = observed and 
+
+corrected baro- meter reading difference 
+
+Percent difference 
+
+Boiling point reading 
+
+78.8. 23- 4-.. 45-... 55.23... mean 46 
+
+4.14. mean ११.१५ 
+
+Barometer reading at beginning .759.7 at end .75.9.7 53
+
+EXPERIMENT XXI LINEAR EXPANSION OBJECT 
+
+To determine the coefficient of linear expansion of a solid metal rod.
+
+THEORY 
+
+The apparatus consists of an iron frame with a steam jacket. 
+
+The material whose coefficient of expansion is to be measured is in the form of a rod and is suspended in the middle of the jacket by perforated corks. The measuring device consists of a variable stop at one end of the frame and a micrometer head at the other end.
+
+APPARATUS 
+
+(Cf. Exp. 2 The Micrometer Caliper) 
+
+Linear coefficient of expansion apparatus, meter stick, thermometer.
+
+PROCEDURE 
+
+1. 2. 3. 4.
+
+Measure the length of the rod with the meter stick. 
+
+Put the thermometer into the cork in the jacket. Do not allow the thermometer to touch the rod in the tube. 
+
+Take the reading of the thermometer and call this the room temperature, t₂• See that the fixed stop touches the end of the rod. Once the experiment is begun this fixed stop should not be changed. 
+
+5. Read the micrometer head 5 times and take the mean.
+
+Connect 6.
+
+The boiler should be about half-filled with water. to the steam jacket and generate steam. 7.
+
+When the steam begins to flow freely from the outlet tube and the thermometer has remained steady for 5 minutes, read the thermometer and call this reading 1 
+
+8. Read the micrometer head 5 times and take the mean.
+
+The difference between the mean readings of the micrometer head 54
+
+Experiment Twenty-One at temperatures t₁ and t₂ gives the expansion 'e'.
+
+= 1 
+
+Where k = the coefficient of linear expansion the actual expansion observed e = L = the length of the rod at temperature to.
+
+t₂ temperature of the rod at the beginning of the experiment t₁= temperature of the rod when heated. 
+
+Disconnect, allow water to run through the jacket and repeat. 
+
+SPECIMEN REPORT 
+
+t₁ tiz .19.9... temperature of rod when heated. ..... room temperature.
+
+L 58..... cm. length of rod at room temperature. material of rod. 
+
+20.53 3.0.51 4.05 mm micrometer reading at 5-05 50254 ·0508 mean. mm 21- 57 571 mm micrometer head at temperature tī 3573 4:3 5-.2 257 
+
+K from experiment 
+
+K from tables 5) 285 4 mean 5708 mm. 
+
+Difference =
+
+Percent Difference = EXPERIMENT XXII SPECIFIC HEAT OBJECT 
+
+To determine the specific heat of a solid by the method of mixtures.
+
+THEORY 
+
+The specific heat of a substance is the ratio between the amount of heat required to raise the temperature of a body one degree and the amount of heat required to raise the temperature of an equal mass of water one degree, and is expressed in cal. per gm. 55
+
+Experiment Twenty-Two Where S 
+
+Heat lost = heat gained
+
+Heat lost by substance = heat gained by calorimeter, MS(t t') stirrer, and liquid in calorimeter = m' (t' t") + ms(t' - t") S= 1 (m' + ms) (t' t") 
+
+(m+ms) (t' t") M(tt) specific heat of substance (cal/gm)
+
+M = mass of substance (gm) t = highest temperature of substance t'= final temperature of liquid in calorimeter t"= initial temperature of liquid in calorimeter m' mass of liquid in calorimeter (gm) m = mass of calorimeter and stirrer (gm) s = specific heat of calorimeter and stirrer (cal/gm) 
+
+APPARATUS 
+
+Metal cylinder, Bunsen burner, calorimeter and stirrer, boiler (and steam jacket), 2 thermometers. 280 
+
+PROCEDURE 
+
+1. Weigh metal cylinder. 164 2. 
+
+Weigh calorimeter and stirrer. 3. 486 4. 
+
+6. 7. 
+
+Put enough water into calorimeter to cover metal cylinder. 
+
+Weigh calorimeter, stirrer and water. 
+
+Place metal cylinder into boiler (or steam jacket) and begin to heat water in the boiler. 
+
+Cool the water in the calorimeter about 20 below room temperature. 
+
+When the metal cylinder has reached its highest temperature and remained there for 5 minutes, record temperature. 8. 
+
+STIR THE WATER IN THE CALORIMETER and take the temperature of the water in the calorimeter and record.
+
+56
+
+Experiment Twenty-Two 
+
+9. Immediately drop the metal cylinder into the calorimeter.
+
+STIR THE WATER UNTIL THE TEMPERATURE STARTS TO DROP 
+
+10. Record the highest temperature of the water in the calorimeter.
+
+SPECIMEN REPORT 
+
+M=.. 280. 16.4. ..486 m=.... m': 5. t"=.78%
+
+S = .094 t'= material (metal cylinder) gm. mass of metal cylinder. gm. mass of calorimeter and stirrer. gm. mass of calorimeter, stirrer and water. gm, mass of water in calorimeter. highest temperature of metal cylinder. initial temperature of water in calorimeter. final temperature of water in calorimeter. specific heat of calorimeter and stirrer (copper) (m + ms) (t' - t") M(tt) S = 
+
+S from experiment 
+
+S from tables mxs x (+ ~t') = m' x 5'x (t'..+") x 1 5 = 11' x 3'x (+ '~ { ") m (t-t') Difference=
+
+Percent Difference= EXPERIMENT XXIII LATENT HEAT OF FUSION OBJECT 
+
+To determine the latent heat of fusion for water.
+
+THEORY 
+
+Let M = number of grams of ice melted.
+
+Τ = t' temperature of calorimeter at beginning of experiment. temperature of calorimeter at end of experiment. m' initial mass of water in calorimeter. m = mass of calorimeter and stirrer. s' specific heat of calorimeter and stirrer. latent heat of fusion.
+
+HEAT GAINED = HEAT LOST 
+
+Heat of fusion 
+
+Heat lost by water heat gained by melted ice) (heat lost by calorimeter and stirrer ML + t'M = m' (T t') + ms' (T 
+
+t')
+
+m' (T t') + ms' (T - t') 
+
+t' 94 85 57
+
+Experiment Twenty-Three APPARATUS 
+
+Calorimeter special stirrer, thermometer, ice, drying paper and distilled water.
+
+CANTRAUSCIENTIFI PROCEDURE 
+
+1. Weigh calorimeter and stirrer. 957 2. 3. 
+
+Fill calorimeter about 2/3 full 300 3 with distilled water. Weigh calorimeter stirrer and water. Heat by immersing calorimeter in hot water to about 10 degrees above room temperature. Be sure to dry outside of calorimeter before starting experiment.
+
+Break up ice into pieces about the size of a walnut. 
+
+4. Note carefully the temperature of the water in the calorimeter just before the first piece of ice is dropped in. N.B.
+
+The temperature of the water in the calorimeter at the end of the experiment should be as much below room temperature as it was above at the beginning. Never 5. Begin to drop DRY ice into the water of the calorimeter ONE piece at a time. Always put the ice under the stirrer. let the ice entirely melt before adding another piece. 6.
+
+STIR CONSTANTLY 
+
+When the temperature of the water has fallen to about 100 below room temperature, note exact temperature of the water. 
+
+7. Weigh calorimeter, stirrer and water. 
+
+SPECIMEN REPORT 
+
+95.7 gm, mass of calorimeter and stirrer. .344.3. gm, mass of calorimeter and stirrer and water. m' 204.14. gm, mass of water in calorimeter s'.... specific heat of calorimeter and stirrer. t.20. temperature of the room. 
+
+31.9 temperature of water at beginning of experiment, temperature of water at end of experiment. t'. 9.7.. .352.5. gm, mass of calorimeter, stirrer, water and melted ice. 
+
+M.57:7.. gm, mass of ice melted. 
+
+L.....(fr. experiment)
+
+L = m'(T t') + ms' (T L. t') -t' (accepted value from Tables) Difference
+
+Percent Difference 
+
+58
+
+EXPERIMENT XXIV LATENT HEAT OF VAPORIZATION OBJECT 
+
+To determine the latent heat of vaporization of water at the boiling point.
+
+THEORY 
+
+In this experiment the steam is generated in a boiler and condensed in a copper condenser. On condensation a certain amount of heat is liberated and this energy goes to heat the condenser, stirrer, calorimeter and water. It is essential that only dry steam be carried over into the condenser. In order to prevent water from entering the condenser a trap is placed at the entrance to the condenser and this catches any water that might have been formed.
+
+HEAT LOST = HEAT GAINED 
+
+Heat of fusion + heat lost by ) (Heat gained by water, caloristeam (water) cooling to final) (meter and stirrer and condenser temperature ) ( ML + M(t t') = m' (t' t") + ms(t' - t") 
+
+ML m' (t't") + ms (t' - t") 
+
+- M(t - t') m' (t't") + ms (t' t") L = 
+
+(t = t') 
+
+APPARATUS 
+
+Boiler, calorimeter, condenser, thermometers, Bunsen burner.
+
+PROCEDURE 
+
+1. Dry the condenser thoroughly. 
+
+2. With the trap in a beaker generate steam. 3.
+
+Weigh the calorimeter and stirrer. 4. 
+
+Weigh the condenser. 5.
+
+With the condenser and stirrer in the calorimeter, pour in water to cover the condenser. Weigh. 6. 7.
+
+Surround the calorimeter with ice or ice water and cool to about 12 degrees below room temperature. Dry the outside of the calorimeter after removing from the ice water. 
+
+Place the calorimeter in the jacket. Put the thermometer in 59
+
+Experiment Twenty-Four 
+
+8. 9. place. When the thermometer reads about 10 degrees below room temperature begin the experiment. The work of the experiment should be divided as follows: 
+
+No. 1 tends the Bunsen burner and keeps the steam pressure constant.
+
+No. 2 reads the thermometer and stirs the water in the calorimeter. 
+
+Steam connection should be made as follows: 
+
+No. 1 removes the Bunsen burner from under the boiler.
+
+No. 2 inserts the free end of the water trap into the open spiral of condenser, taking care that no steam or water escapes from the trap into the water. 
+
+No. 1 immediately replaces the Bunsen burner and throughout the rest of the experiment he should take care that no steam or water escapes from the condenser.
+
+The experiment is continued until a rise of about 20 degrees is noted in the water in the calorimeter. 
+
+10. To stop condensation when the temperature of the water is about 18 degrees above the initial temperature 
+
+No. 1 removes the burner from the boiler. 
+
+No. 2 disconnects the steam trap from the condenser, being careful not to allow any water or steam to reach the water in the calorimeter. 
+
+11. KEEP STIRRING the water until the temperature begins to drop. 
+
+12. Note the highest temperature of the water in the calorimeter. 
+
+13. Read the barometer and look up the temperature of steam. 
+
+14. Remove the condenser from the calorimeter, dry the outside, and weigh.
+
+As the initial temperature of the water in the calorimeter was about 10 degrees below room temperature and the final temperature about 10 degrees above room temperature, no correction need be made for heat lost due to radiation if the experiment was performed quickly.
+
+SPECIMEN REPORT 
+
+11 .. room temperature. gm, mass of calorimeter and stirrer. gm, mass of condenser. gm, mass of condenser, calorimeter and stirrer. gm, mass of water in calorimeter. temperature of water in calorimeter when steam was turned on. 60
+
+Experiment Twenty-Four t'. 
+
+temperature of water in calorimeter (highest reading) at end of experiment. temperature team. mass of condenser with steam condensed. mass of steam condensed.
+
+S = www specific heat of calorimeter, condenser and stirrer. 
+
+OBJECT 
+
+from experiment 
+
+L from tables Difference
+
+Percent Difference = EXPERIMENT XXV THE MEASUREMENT OF RESISTANCE (SLIDE WIRE BRIDGE) 
+
+To measure resistance with a slide wire bridge.
+
+THEORY 
+
+The current I from the battery divides into current Il and I in the two branches of the Wheatstone Bridge. If there is no flow in the galvanometer then the Potential at point d is the same as the potential at point c.
+
+Since E = IR, then 
+
+I1X 
+
+I2R I₁A I2B and therefore
+
+X = If X and R are interchanged, then 12 Il Il 12 X = BR The ratio A in the slide wire bridge is the ratio of the lengths of the wire as the resistance of the wire depends on the length if the material, cross section and temperature are constant.
+
+APPARATUS 
+
+Slide wire bridge, galvanometer, key, resistance box, battery and unknown resistances. 61
+
+Experiment Twenty-Five 
+
+-table- 
+
+PROCEDURE 
+
+1. 2. 3. 4. 5. 
+
+Arrange the apparatus as in diagram. 
+
+Set the known resistance at 10 ohms. For best results the sliding contact key should be kept as near the center as possible; to keep this at center the known resistance may have to be changed. 
+
+Move sliding contact key till no deflection. Make three determinations of the lengths A and B for the first unknown resistance, changing the value of the known resistance R at each determination,
+
+As errors creep in from the soldered connections in the bridge, interchange R and X and make three more determinations of the lengths A and B, changing the value of the known resistance R at each determination. The mean of the six readings gives the resistance of the first unknown.
+
+In the same way make six determinations of the second unknown resistance.
+
+The key should be closed only as long as it is necessary to make the reading.
+
+SPECIMEN REPORT 
+
+$2.2A 5!:3. 47.8B 4.8.7 
+
+54.4 A 48.8. 
+
+45.1 B .:.1.3. 
+
+47.3 A 54.5.. 
+
+52.7B .45.5 R..?....7 
+
+R.!... 8 10 R.......6 x.9:4 x .9.3 6.4 6-6 x.9... 3125 2 Mean X ·9:4 504A.5.2... 49-4B.3... 
+
+44.8A .4.7.3. 
+
+551B .52...7.
+
+When the positions of X and R are reversed. 
+
+48.3 A 50.7 51.7 B .49.3. 
+
+R./0 8 7.7
+
+8.4 
+
+... ...7..5 8.1 
+
+R ..7.... 10
+
+....
+
+Mean X The same form for the second unknown resistance. 
+
+Determine the percentage deviation of the mean of the 6 readings. 62
+
+EXPERIMENT XXVI THE MEASUREMENT OF RESISTANCE (DECADE BOX) OBJECT 
+
+To measure resistance with a decade box.
+
+THEORY 
+
+Instead of a uniform wire as in the slide wire bridge (Exp.25), the ratio arms in a decade box are resistances. Their dials are adjusted until there is no current as indicated by the galvanometer. The ratio arms A and B of the bridge (Exp. 25) are determined by the dial that reads "Multiply by". To make A one and B ten then, multiply by .1. To make A ten and B one then multiply by 10. To determine the value of the known resistance R, read the four. dials.
+
+X = 
+
+APPARATUS 
+
+Decade box, galvanometer, dry cell, two resistance coils.
+
+PROCEDURE 
+
+1. 
+
+Connect the resistance coil to the posts marked
+
+X. 2. 
+
+Make the ratio arms equal. This is done 
+
+by moving the top dial till it reads "Multiply by 1".
+
+Make the known resistance 5 ohms. Press the keys and note the deflection. 
+
+4. Next make the known resistance 500 ohms and again tap keys as before and note the deflection. Unless the deflection is re- 5. 6. versed it is useless to go on. Call the instructor. 
+
+If the circuit is in proper condition, vary the known resistance by manipulating the dials until the galvanometer pointer remains at zero when the keys are tapped. For this first determination it will probably only be possible to determine the unknown resistance to the nearest integer, 56 and 57.
+
+That is, with the known resistance at 57 ohms the deflection will be in one direction and with the known resistance at 56 ohms the deflection will be reversed, indicating that the value of the unknown lies between these two values. 
+
+Now make the ratio arms 1 to 10 by turning top dial to read "Multiply by .1". Take a reading. The resistance as shown by the dials must be now divided by 10 to obtain the value 63
+
+Experiment Twenty-Six of the unknown. 7. 
+
+Make the ratio arms 1 to 100 
+
+top dial should read "Multiply by .01". Take a reading. 
+
+8. Repeat the above procedure for resistance No. 2. 
+
+9. Repeat the above procedure with resistances 1 and 2 in series. 
+
+Compare the measured value with the resistance as computed. 
+
+10. Repeat as above with resistances 1 and 2 in parallel. Compare the measured resistance with the value as computed. 
+
+SPECIMEN REPORT Resistance No. 1 
+
+Ratio arms equal. 
+
+Ratio 1 to 10. 
+
+Ratio 1 to 100.
+
+Resistance No. 2 
+
+....
+
+Resistance 1 and 2 in series 
+
+.... 
+
+Resistance 1 and 2 in parallel 
+
+Compare results with values as computed. Difference
+
+Percent Difference EXPERIMENT XXVII RESISTANCE BY VOLTMETER AND AMMETER 
+
+OBJECT 
+
+To determine the resistance of a coil at different voltages.
+
+THEORY 
+
+From Ohm's law, the value of R is the voltage divided by the amperage. The voltage is read on the voltmeter and the current on the ammeter.
+
+APPARATUS 
+
+Voltmeter, ammeter, rheostat, and coil.
+
+PROCEDURE 
+
+1.
+
+Connect the voltmeter, ammeter and coil according to the diagram (following page). DO NOT TURN ON CURRENT UNTIL THE WIRING HAS BEEN APPROVED. 
+
+2. Start at the lowest possible voltage. Read ammeter and voltmeter. 64
+
+Experiment Twenty-Seven 
+
+3. Vary the voltage in steps of 5 volts, reading ammeter after each increase in voltage. Note: Read ammeter before voltmeter. 4. 
+
+Continue the above until the highest voltage is reached. 
+
+5. Next reverse the above procedure, starting at the highest voltage decrease the voltage in steps of 5 volts, reading the ammeter at each voltage. 
+
+6. Repeat the above steps with another coil.
+
+Make a graph plotting the voltage against the amperage. 
+
+Do this for both coils. Have both curves on the same sheet. 
+
+VOLT SPECIMEN REPORT Voltmeter 
+
+1 30 70 Ammeter ..2.5.
+
+Resistance 
+
+35 40 45 50 55 etc.
+
+Value of resistance on coil Measured resistance of coil 
+
+Difference =
+
+Percent Difference = 
+
+GRAPH ... 65
+
+EXPERIMENT XXVIII THE TEMPERATURE COEFFICIENT OBJECT 
+
+To determine the temperature coefficient of resistance for copper. 
+
+THEORY 
+
+The resistance of a conductor varies with the temperature. (Cf. 
+
+Smith sec. 361). For most metals this change is positive, that is, an increase, and is proportional to the resistance at zero degrees and the change in temperature. In other words, if DR is the change in resistance, and Ro the resistance at zero degrees 
+
+C, and T the change in temperature, then: and DR ROT DR & ROT (1) 
+
+H a (2) A constant called the temperature coefficient of resistance. 
+
+Again DR = AR T (3) and the resistance at any temperature is given by the expression:
+
+R = Ro + DR = Ro(1 + aT) (4) 
+
+APPARATUS 
+
+Resistance coil immersed in kerosene and heated by a water bath, two thermometers, Bunsen burner, decade box, galvanometer and dry cell. PROCEDURE 
+
+Connect apparatus as indicated in diagram. 
+
+Two thermometers are used. One to indicate the temperature of the kerosene and hence the temperature of the coil, the other to indicate the temperature of the water bath. 
+
+2. With the coil immersed in the kerosene, measure its resistance at room temperature (Cf. Exp. 26). 3.
+
+N.B. Measure resistance to two decimal places, having the ratio coils at the 1/100 ratio (dial on decade box should read "Multiply by .01).
+
+Now begin to raise the temperature of the water, following the increase in resistance of the coil by varying (R) resis- 66
+
+Experiment Twenty-Eight tance in the decade box. 
+
+4. When the temperature of the water has increased by about 12°C, remove the flame, stir the water and kerosene vigorously, and watch the thermometers. 5. 
+
+The temperature of the water will shortly begin to fall, while that of the kerosene will continue to rise. When the two readings of the thermometers differ by not more than 2ºC, measure the resistance of the coil and the corresponding temperature as given by the thermometer immersed in kerosene. 
+
+In this manner proceed to raise the temperature by similar steps recording the corresponding values of temperature and resistance at each halt, until a temperature of about 75°C has been reached. 
+
+6. Plot a large, full-page curve, using temperatures of the coil as abscissae and the corresponding resistances as ordinates. 
+
+Start the temperature from 0°c. Draw the straight line which comes the nearest to all points on the graph. By producing this curve back to the line of zero temperature, the resistance 
+
+Ro of the coil at 0°C may be found. Using equation (2), compute the temperature coefficient of resistance of the copper wire. 
+
+SPECIMEN REPORT Coil No. 
+
+Decade Box No. 
+
+....
+
+Resistance Temperature 
+
+Temp. Coeff. for copper 
+
+Temp. Coeff. for copper Difference=
+
+Percent Difference= 
+
+....
+
+EXPERIMENT XXIX Experiment Tables LAMPS IN SERIES AND PARALLEL OBJECT 
+
+To study parallel and series circuits.
+
+THEORY 
+
+The circuits below and the relations derived from their study 67
+
+Experiment Twenty-Nine depend upon the laws of Ohm and Kirchoff. In a circuit such as 
+
+Fig. 1 it can be readily seen that the same current flows through each lamp or resistance, for there is no place for it to branch off. (the voltage drop across each resistance IR = E The total drop is the sum of these individual drops IR = IR₁ + IR₂+ IR + IR4+ IR etc. 
+
+AMPERES VOLTS Fig. 1 
+
+The total resistance therefore of a series circuit is equal to the sum of the individual resistances in the circuit. R = R+R₂+R+R4 etc., as in Fig. 1. 3 In Fig. 2 we have a much different case. The same current does not flow in each lamp for it has many paths in which to flow. 
+
+Assume for the sake of simplicity that there is no resistance in the wires or bars carrying the current to the lamps. Then there is no IR drop along either wire for there is no resistance hence there is the same potential at each point along AB and the same potential along CD, but the potential at AB being higher than CD the IR drop between AB and CD along a path will always be the same. 
+
+Fig. 2 
+
+68
+
+Experiment Twenty-Nine 
+
+If the IR drop between AB and CD is always the same, then I1R1 = IR I, 12R2 = IR3 = I R etc. 
+
+Therefore, the current flowing through the circuit will be the sum of the currents in the branches containing the lamps I. I I. + I 12 + I + I but 12 = 12-12 R2 + I 15 13 = 1 R3 etc. etc. Therefore and 1 1 That is in a parallel circuit the reciprocal of the total resistance is equal to the sum of the reciprocals of the individual resistances.
+
+APPARATUS 
+
+Lampboard and lamps, AC ammeters (0-3A) & (0-500MA) and voltmeter (0-150). PROCEDURE
+
+Part I 
+
+Parallel 1. Arrange the board for parallel resistances as in Fig. 2.
+
+2. Connect the ammeter and voltmeter as in Fig. 2. 
+
+3. 4. 5. 6. 
+
+Insert plug in table socket and close switch on board. 
+
+Read voltmeter for 6 lamps. To read ammeter, open board between J and K. After reading meters close again until ready for next reading. 
+
+Unscrew the 6th lamp and read for five. Then unscrew the 5th lamp and read for four. Then the 4th lamp, and so on down to one lamp.
+
+Then reverse, and starting with one lamp, add lamps one by one until back to six lamps. 
+
+7. Compute the resistance for six lamps, 5 lamps, 4 lamps, etc. 
+
+Part II 
+
+Series 
+
+1. Arrange the board for series as in Fig. 1. 
+
+2. 
+
+Connect voltmeter and milliammeter as in Fig. 1. 69
+
+Experiment Twenty-Nine 
+
+3. Read voltmeter and milliammeter for six in series. 4. 
+
+N.B. Open board between J & K to read milliammeter.
+
+Arrange board for 5 in series and read both meters. 
+
+5. Arrange board for 4, 3, 2, etc., reading meters each time. 
+
+6. Then reverse and add lamps until 6 are again in series, reading meters for each additional lamp. 8. 
+
+Compute the resistance for 6 in series, 5, 4, etc. 
+
+Find the resistance of each lamp by subtracting the resistance for 5 from that for 6, the resistance for 4 from that of 5, and so on, thus obtaining the resistance of each lamp. 
+
+SPECIMEN REPORT Part I Parallel Circuit 
+
+6, 5, 4, 3, 2, 1 
+
+5, 4, 3, 2, 1
+
+RESISTANCE 
+
+38.5 
+
+54-95 .:25. 75 106.6.
+
+VOLTS 
+
+AMPS 110 2.86 ./11.. 2.45 4, 3, 2, 1 
+
+2.02 3, 2, 1 .!!!... 1.48 2, 1 ./12. 1.85 1 12. .:5. 224 3, 2, 1 22 22 2, 1 112.. 1:05 "186.6 117... 1.48 73.6 1 112. 1!Z... 
+
+2.45 .41... .2.8.7 .3.88.. 
+
+2.01 .55:7.. 
+
+4, 3, 2, 5, 4, 3, 2, 1 
+
+6, 5, 4, 3, 2, 1
+
+Part II Series Circuit 
+
+6, 5, 4, 3, 2, 1 
+
+5, 4, 3, 2, 1 
+
+4, 3, 2, 1 3, 2, 1 .././.3.. 222513.6 .J..3.. २३.४. .470:8. .1!4... .2.71. .422:7. .116... .298. .3.89.2 2, 1 ...4... .308 .293.8. 115 .4.5. 
+
+1 .664. 388. .293.8 
+
+3, 2, I .664... 398. 282.5 
+
+4, 3, 2, 1 ..!!.3.... 200 418. 
+
+5, 4, 3, 2, 1 .!!?... 235 470 
+
+6, 5, 4, 3, 2, 1 .113... 
+
+Single lamps Resistance 1st .001 2nd 3rd 4th 5th 6th
+
+Total Resistance 
+
+70
+
+EXPERIMENT XXX LAWS OF ELECTROLYSIS OBJECT 
+
+To test Faradays laws of electrolysis by means of a water voltameter.
+
+THEORY 
+
+Faraday's first law states that the mass of an electrolyte decomposed by an electric current is directly proportional to the quantity of electricity conveyed through it. If M is the mass in grams liberated by a current of I amperes flowing for T seconds, and K is the ELECTRO-CHEMICAL EQUIVALENT or the number of grams of a substance deposited by a unit quantity of electricity, the equation of the first law reads:
+
+M = KIT 
+
+and
+
+K = M/IT Faraday's second law states that the masses of the different ions set free at the electrodes are proportional to their Chemical Equivalents when the same quantity of electricity is conveyed through different electrolytes. at.wt. 1.e.:
+
+K: K Kvalence at.wt.1 valence1 
+
+The CHEMICAL EQUIVALENT of a substance is the quotient obtained by dividing the atomic weight by the valence.
+
+APPARATUS 
+
+Water voltameter, ammeter (0-.5A), rheostat, (40 w) chemical balance weights. 71
+
+Experiment Thirty PROCEDURE 
+
+1. 2. 3. 4. 
+
+Set up apparatus as in diagram. Do not close switch until approved by an instructor. 
+
+Read and record the barometer and thermometer.
+
+When everything is in readiness, close switch and start stop watch SIMULTANEOUSLY. This is important. 
+
+The current should be kept constant at some value given by the instructor. 
+
+Keep the current constant until the gas in the tube is about 
+
+40 cc. i.e., in the Hydrogen tube. 
+
+5. Open switch and stop stop-watch at same time. Note time. 
+
+Read and record the barometer and thermometer again. 6. 7. 8.
+
+Stand the end of a meter stick on the table and read the three heights of the liquids in the water voltameter. From these readings calculate H i.e., the differences of level in the reservoir and in tubes. Record this value of H for both Hydrogen and Oxygen. 
+
+To determine the mass of hydrogen we use M = 273 P V 76 (273+t) VoDo where t = room temperature V = volume of gas in voltameter PB + H 
+
+P' 13 9.
+
+B is the barometer reading; H the difference in levels between the water in the reservoir and in the tubes; P' the pressure of saturated water vapor at room temperature. 
+
+As above, the mass of hydrogen and oxygen can be computed; as the strength of the current is known and also the time, the constant K can be computed. 
+
+10. Compare your results with the accepted values and then look up the atomic weights and valences of these substances and verify the second law.
+
+SPECIMEN REPORT 
+
+I, strength of current in amperes = 
+
+T, time in seconds 
+
+B, barometer reading Mean t, thermometer reading Mean
+
+V, volumes of gases in tubes as measured 
+
+P', pressure of saturated water vapor 
+
+Cr tables.
+
+The following form to be used in computing K for Hydrogen and K for Oxygen. 72
+
+Experiment Thirty 
+
+K = 
+
+273 P. V Do 76 (273+ t) I x TIME 
+
+Putting the above formula in log form:
+
+Log 273 Log P 
+
+Log Do
+
+Log V 
+
+Colog 76 = 
+
+Colog (273+t)=
+
+Colog I 
+
+Colog TIME 
+
+Log K Comparison of accepted and experimental values to verify second law. Percent error.
+
+EXPERIMENT XXXI LAWS OF ELECTROLYSIS OBJECT 
+
+To verify Faraday's laws of electrolysis by means of a copper voltameter. 
+
+THEORY 
+
+Faraday's first law states that the mass of a substance liberated from an electrolyte is proportional to the quantity of electricity passed through the solution. If M is the mass in grams liberated by a current of I amperes flowing T seconds, and K the 
+
+ELECTRO-CHEMICAL EQUIVALENT or the number of grams deposited by a passage of a unit quantity of electricity, then the equation of the first law reads:
+
+M = KIT 
+
+and K = M/IT Faraday's second law states that the masses of different ions set free at the electrodes are proportional to their chemical equivalents when the same quantity of electricity is conveyed through different electrolytes. at.wt. K: K₁ at.wt.1 
+
+valence valence
+
+The chemical equivalent of a substance is the quotient obtained by dividing the atomic weight by the valence. 
+
+APPARATUS 
+
+Copper voltameter, ammeter (0-.5A), rheostat (40W) and chemical balance. Also sandpaper and distilled water.
+
+NOTE: All weighing to be done by the method of swings. Cf Exp. #13.
+
+PROCEDURE 
+
+Set up apparatus as in diagram. Do not turn on current until approved by an instructor. 73
+
+Experiment Thirty-One 
+
+2. 
+
+Remove the copper cathode (middle plate) and polish it with fine sandpaper. Then clean and rinse with distilled water. 
+
+Allow to dry.
+
+N.B. ONCE THE CATHODE IS WASHED IT SHOULD NOT BE HANDLED NOR TOUCHED WITH THE FINGERS. 
+
+3. Weigh the cathode according to the method of swings and record the weight. 
+
+4. Replace the weighed cathode, close switch and start stop-watch at the same time. Note the time to the second. 5. 
+
+Keep current at some constant value (see instructor) for about 
+
+30 minutes. 
+
+6. After about 30 minutes, open switch and stop stop-watch at the same time, noting the time to the second. 
+
+7. Remove the cathode, rinse in distilled water and dry carefully.
+
+Weigh carefully as above and record the weight. in weight between weighings gives the mass deposited. 8. 
+
+9.
+
+Compute the value from the formula K = M/IT 
+
+SPECIMEN REPORT 
+
+I, current in amperes = .:3. 
+
+T, time in seconds 
+
+M, mass deposited
+
+The difference 
+
+|| || || = 1500 
+
+1st wt of cathode = 
+
+2nd wt of cathode 
+
+Difference, M K from experiment 
+
+K, accepted value = ..90.0.3.294 
+
+Difference =
+
+Percent Difference = 
+
+74
+
+EXPERIMENT XXXII SENSITIVITY OF A GALVANOMETER OBJECT 
+
+To determine the sensitivity of a moving coil galvanometer and to verify the law of deflection I = Kd. 
+
+THEORY 
+
+In this type of galvanometer a light coil of fine wire is suspended in a strong magnetic field. The magnetic field is supplied by a permanent magnet. The coil suspension consists of fine metallic ribbon and serves to conduct the current to the coil. The deflection of the coil due to a current is observed by means of a small mirror fastened to the coil and reflecting the image of a scale placed in front of the galvanometer. 
+
+A current flowing through the coil sets up lines of force perpendicular to the lines of force of the permanent magnet and the interaction of these two fields causes a torque which causes the coil to rotate. If for a given current the rotation of the coil is great, the instrument is said to be sensitive. The sensitivity of the galvanometer may be expressed in various ways: 
+
+1. Current sensitivity The value of the ratio of the galvanometer deflection to the current necessary to produce the deflection, or the deflection per unit current. 
+
+2. Volt sensitivity The value of the ratio of the galvanometer deflection to the voltage across its terminals or the deflection per unit voltage. 
+
+It is therefore the current sensitivity divided by the resistance of the instrument. 
+
+3. Ohm sensitivity - The number of ohms which must be inserted in the circuit to obtain a unit deflection when the impressed voltage is unity or one volt. 
+
+4. Figure of Merit - The ratio of the current in amperes to the deflection of the galvanometer or the current in amperes flowing through the galvanometer necessary to produce unit deflection. 
+
+NOTE: 
+
+The deflections of the mirror type galvanometer are said to be standard when read in m.m. and when the scale is one meter distant from the mirror. If the actual distances are greater then the observed deflections are to be corrected as indicated below.
+
+The currents are assumed to be proportional to the de flections or EQUAL DEFLECTIONS ARE PRODUCED BY THE SAME 
+
+CURRENTS. This assumption is usually true to a close approximation. 75
+
+Experiment Thirty-Two APPARATUS 
+
+D'Arsonval galvanometer with telescope and scale, resistance box, known low resistance key and dry cell.
+
+PROCEDURE 
+
+Set up apparatus as indicated in the diagram and have the wiring approved by an instructor. unun 
+
+Note 
+
+1. Adjust the resistance box to a value of about 9000 ohms. the zero reading on galvanometer, depress the key and observe the deflection. 2. 
+
+Gradually cut down the resistance in the box and at the same time noting the deflections until a full scale deflection is obtained. Record this deflection. 
+
+3. Repeat the above three times and take the mean of the three readings. DO NOT TOUCH THE RESISTANCE BOX AFTER IT IS SET. 
+
+From the above calculate the ohm sensitivity and the figure of merit of the instrument. 4. 5.
+
+To calculate the current in the galvanometer calculate the resistance of the parallel combination of the shunt and the galvanometer from the formula P = total resistance of combination 
+
+G = resistance of galvanometer
+
+= resistance of shunt
+
+GS G+ S Then the current delivered to the circuit is I = R + P total current in circuit voltage of battery
+
+= resistance from above formula 
+
+R resistance of box
+
+Only a fraction of this current actually flows through the 76
+
+Experiment Thirty-Two galvanometer. And since it is the current though the galvanometer which produces the deflection, it is clear that the galvanometer current must be used in the sensitivity measurements. 
+
+To find the galvanometer current, apply the law of parallel conductors.
+
+11 = 180 Thus is found the current necessary to give the full scale deflection as observed.
+
+But this observed deflection may not have been made under standard conditions and consequently must be reduced to standard conditions by means of the formula 
+
+Corrected deflection = 
+
+1000 d
+
+Where d the observed deflection in cm. 
+
+D = the actual distance of the scale from the mirror. 
+
+From the galvanometer current and the corrected deflection find the sensitivities as indicated. 
+
+SPECIMEN REPORT Galvanometer Number 
+
+Galvanometer Resistance = Shunt Resistance 
+
+Resistance box Resistance = 
+
+Observed deflection 
+
+Corrected deflection 
+
+K, figure of merit 
+
+Ohm sensitivity 
+
+EXPERIMENT XXXIII ANALYSIS OF DYNAMO INDUCTION OBJECT 
+
+1. 2. 
+
+To show that the one and sufficient condition necessary for the electro-magnetic induction of a current in a conductor, is that the conductor shall cut magnetic lines of force. 
+
+To plot the curve showing the variation of the EMF induced in the coil of an ideal dynamo, as a result of the angular displacement of the coil.
+
+THEORY 
+
+The apparatus consists of two sets of three permanent magnets, laid horizontally with their poles in juxtaposition and a small rectangular coil, capable of rotating, between them. The terminals of the coil are connected to two separately insulated copper rings attached to the shaft. A copper strip or "brush" bears 77
+
+Experiment Thirty-Three upon each of these rings; the brushes are connected to the terminals of a moving-coil galvanometer. 
+
+The angle through which the coil has turned may be measured on a graduated wheel, moving on the coil-shaft. This wheel has a 26 
+
+SCIENTE GAURINER CUPORATIO 
+
+AO ratchet and spring device which allows the coil to move through ten-degree intervals. As the coil moves through any interval an EMF is induced which corresponds to the mean angular displacement of the coil from its original position.
+
+Since the electrical resistance of the system remains the same throughout the experiment, the quantity of electricity passing through the galvanometer, and therefore the galvanometer deflection is proportional to this EMF. 
+
+If the observed deflections are plotted as ordinates and the corresponding values of the angular displacements as abscissae, the smooth curve drawn through these points will, in general, have practically a sine form. 
+
+APPARATUS 
+
+Ideal dynamo, galvanometer, leads and co-ordinate paper.
+
+PROCEDURE 
+
+1. 2. 
+
+Connect Ideal dynamo to galvanometer. 
+
+Rotate coil through one complete revolution by 10-degree intervals, noting and recording the deflection for each interval. N.B.
+
+Allow galvanometer to come to rest at zero position each time before rotating coil. 
+
+3. Repeat operation 2. 
+
+4. Take the mean of the readings for each position of the coil and use this mean deflection as the ordinate of the curve. 78
+
+Experiment Thirty-Three SPECIMEN REPORT Deflections caused by 100 rotations of model dynamo armature 
+
+1 2 Mean 1 2 Mean 1 2 Mean O to 100 ... ... 130° ... ... 2500 
+
+20 140 260 30 150 
+
+270 
+
+40 160 280 50 170 290 60 180 
+
+300 70 190 
+
+310 
+
+80 200 320 90 210 330 100 220 340 110 
+
+230 350 
+
+120 
+
+240 
+
+360 
+
+On standard uniform coordinate paper plot the deflection curve, observing the following: (a) Choose as the axis of abscissae a line about the middle of the sheet and in the direction of its length. (b) Choose the scale for plotting the curve as large as the size of the paper will allow. (c) Plot the 10° intervals as abscissae and the mean of the observed deflections as ordinates.
+
+EXPERIMENT XXXIV MECHANICAL EQUIVALENT OF HEAT OBJECT 
+
+To determine the mechanical equivalent of heat by means of the heating effect of an electric current. 
+
+THEORY 
+
+If a difference of potential of E volts causes a steady current of I amperes, the power in watts is equal to E x I. 
+
+If the conductor is cooled and placed in a calorimeter filled with water, the heat generated by the passage of the electric current is expended in heating the calorimeter and its contents with the exception of the energy lost in radiation. 
+
+If precaution is taken that no heat be lost from the calorimeter and none received except from the electric current, then the electrical energy put in equals the heat energy received. 
+
+The electrical energy for one second is measured by the product of the voltage and the current flowing in the coil. For t seconds the energy is E x I x t joules.
+
+Power is Work/Time. Therefore, Work is Power x Time. 
+
+But Power is E x I.
+
+Therefore, Work or Energy is E x I x Time 79
+
+Experiment Thirty-Four 
+
+The heat received in calories is (m + a) (T Where m is the number of grams of water 
+
+TY) a is the water equivalent of the calorimeter stirrer and thermometer (Add to this the water equivalent of the coil) 
+
+T' is the initial temperature 
+
+T is the final temperature.
+
+The equation is then: (m + a) (T 
+
+T') calories E x I x t joules
+
+As one calorie equals J joules, then changing the equation to (m + a) (T - T' ) J = E x I x t joules and J = Volts x Amperes x the time in seconds (m + a) (T´ – T') The experiment consists in finding the value of this constant J.
+
+APPARATUS 
+
+Small and large calorimeter, resistance coil, rheostat (40w), A.C. voltmeter (0-150), A.C. ammeter (0-1A), thermometer, ice, distilled water, scale and weights. PROCEDURE 1. Weigh the calorimeter and stirrer. 2. 
+
+Put water that has been cooled to 10 degrees below room temperature in the calorimeter to just cover the coil. Weigh the calorimeter, stirrer and water. 
+
+3. Multiply the weight of the calorimeter and stirrer only, by .095 to find the water equivalent (a). 
+
+4. Arrange the apparatus as in the diagram and have it approved. 80
+
+Experiment Thirty-Four 
+
+5. 6. Turn on the current and by means of rheostat adjust the current to the value given by the instructor. 
+
+Turn off current and read initial temperature (T').
+
+Turn on current and start stop-watch simultaneously. 
+
+8. Read ammeter and keep current constant by adjusting rheostat. 
+
+9. When temperature rises about 10 degrees above room temperature turn off current and stop stop-watch. Stir continually during the heating. THIS IS MOST IMPORTANT. 
+
+10. Read final temperature (T).
+
+SPECIMEN REPORT 
+
+Weight of calorimeter and stirrer Weight of calorimeter, stirrer and water 
+
+Weight of water alone 
+
+Log E= 11 I= 11 t= Colog
+
+Water equivalent of calorimeter & stirrer.. (6 is water equivalent of coil) Voltage
+
+Current 
+
+Initial temperature 
+
+Final temperature 
+
+Time in seconds
+
+Accepted Value = Experiment Value = 
+
+(m & a)= Colog (T-T')= 
+
+Log J=
+
+J= .. 
+
+Difference = ....
+
+Percent Difference=.... 
+
+EXPERIMENT XXXV THE POTENTIOMETER OBJECT 
+
+To determine the E. M. F. of a dry cell.
+
+THEORY 
+
+The Potentiometer measures the E.M.F.
+
+of a cell by balancing 
+
+Fig. 1 
+
+the unknown cell against a standard cell whose voltage is accurately known. 
+
+Figure 1 is the simplified circuit.
+
+B TWO FACTS ARE FUNDAMENTAL. First, that the current passing through a given circuit is the same through every point. Thus if the resistance of the circuit (AEBDC) is 20 ohms and the cell E has an E.M.F. of 2 volts, then from Ohm's Law the current is .1 ampere.
+
+Secondly, the potential difference be- 81
+
+Experiment Thirty-Five tween any two points in the above circuit is proportional to the resistance between these points. 
+
+If we take two points in the circuit (AEBDC) and determine the resistance between these points, then we know the potential drop between these points, as E-I R and both I and R are known. Let C and D be these two points. If we connect across these points C and D an unknown cell X in such a way that its voltage opposes the voltage of the circuit (AEBDC) so that NO CURRENT flows in the circuit (CDX) then we know that the two E.M.F.'s exactly neutralize each other. As the E.M.F. of CD is known, then the E.M.F. of the unknown cell X is the same.
+
+In the potentiometer the resistance of the wire CD is known and as the current flowing through it is determined at the beginning of the experiment, we know the potential drop across CD. When we place the unknown cell across it so that there is no flow, we know the voltage of the unknown cell.
+
+APPARATUS 
+
+Student potentiometer, standard cell, galvanometer, 4-dial resistance box, 2 keys, unknown cells, double-pole-double-throw switch and dry cells. 
+
+​STD CELL STD CELL 
+
+EMF. не но E.M.F. 
+
+GALV 
+
+K-I 1.5445 
+
+Fig. 2 A = Dial Res. of Potentiometer B = Slide Wire Adjustment 
+
+P = 
+
+Protective Resistance PROCEDURE R = 4-dial Rheostat 
+
+G = Galvanometer
+
+K₁ & K2 
+
+Key Switches 
+
+1. 
+
+Set up apparatus as in the above figure.
+
+2. 
+
+The first part of the experiment consists in obtaining a constant known current in the circuit A, E, B, Fig. 1. This is done in the following manner. A standard cell of known voltage is placed at x in Fig. 1. This is done in the actual apparatus as in Fig. 2. To make one milliampere flow in the 82
+
+Experiment Thirty-Five 
+
+3. circuit of standard cell, divide the voltage of the standard cell by the resistance of the potentiometer, which is a thousand times greater. e.g., if the voltage is 1.0185, set resistance at 1018.5 and as I = E/R, then I = .001 ampere. 
+
+NOTE: The potentiometer proper consists of a set of resist ance coils and a circular wire, each of which is accurately calibrated. Each of the coils has a resistance of 100 ohms and the circular wire the same. 
+
+Changing the pointers on the potentiometer is equivalent to changing the points C and D in Fig. 1. 
+
+Now balance the battery circuit so that no current is detected in the galvanometer. From theory, there is now one milliampere flowing through the battery circuit. This battery is first balanced by calculating what resistance is necessary in 4-dial box. 
+
+4. With potentiometer resistance set as in 1. Connect doublepole-double-throw switch with standard cell. Press galvanometer key K₁ and if there is no flow of current, then press key K2, taking out protective resistance. With key K₂ closed vary dial resistance until no flow in the galvanometer. 
+
+DO NOT TOUCH THE 4-DIAL RESISTANCE BOX AGAIN, as it is now set for a current of one milliampere.
+
+Throw double-pole-double-throw switch to unknown cell.
+
+Balance this unknown circuit with the battery circuit. is done by changing the pointer on the potentiometer until there is no deflection of the galvanometer. 
+
+As E RI and I = .001 ampere, then R the resistance can be read on the potentiometer. E the voltage of the unknown cell, is easily determined. e.g., if the resistance is 1500 + 12 then E = 1512 x .001 or is read directly on the potentiometer as 1.512 volts.
+
+In this way take three readings of each cell given as an unknown.
+
+NOTE: Be sure of the polarity of the cells so that the currents oppose each other. 
+
+Before pressing the keys have an instructor verify your wiring.
+
+SPECIMEN REPORT Voltage of Standard Cell 1:91853 Resistance of 4-dial box 3.6. 
+
+52... No. of Potentiometer 215.856 No. of Standard Cell Cell No. 1 voltage 
+
+Same form for the two other cells. 
+
+83
+
+EXPERIMENT XXXVI THE WATT-HOUR METER OBJECT 
+
+To test a watt-hour meter.
+
+THEORY 
+
+The watt hour meter is a split phase induction motor. The aluminum disc is between the poles of one shunt and two series coils. The shunt coil is the potential coil. The series coils carry the current of the load to be measured. The interaction of these three coils produces the rotating fields and hence develops the torque that drives the rotor disc. Since the weight of the disc and shaft is small and the torque rather large in proportion, the ratio of the torque to the load is large, and the motor starts on very small loads. The aluminum disc also passes between the poles of two permanent magnets. The eddy currents thus produced in the disc act as a drag on the disc and the effects of this drag can be controlled by varying the position of the magnets with regard to the center of the disc. 
+
+Since the value of the torque that drives the discs depends on the amount of power passing through the meter, the speed of rotation of the disc is in direct ratio to the power passing in the circuit. Hence one rotation of the disc corresponds to a definite quantity of electrical energy. value, called the constant of the meter, the disc.
+
+ATT HOUR METER LINE LOAD 
+
+TO LINE In the meters used this will be found marked on
+
+APPARATUS 
+
+Watt-hour meter, voltmeter (0-150), ammeter (0-3), lampbank, stopwatch, counter. PROCEDURE 
+
+The instruments are connected as in the diagram. The work should be divided as follows:
+
+No. 1 reads the voltmeter and ammeter every minute. No. 2 counts the revolutions of the disc and keeps time. 
+
+An integral number of revolutions of the disc under varying loads given by the instructor are counted for approximately six minutes. 
+
+The method of doing this will be understood from the sample readings given below.
+
+The number written on the disc is the tested constant of the meter, v.g., 3-1/3 watt hours per disc revolution and the power in watts is given by the following formula: 84
+
+Experiment Thirty-Six 
+
+W = K x 3600 
+
+Where W is the load in watts 
+
+K is the constant 
+
+3600 seconds in 1 hour
+
+S is the time of one revolution of disc 1. From the above formula compute the load from the readings of the voltmeter and ammeter for each load. 2. 
+
+Compute the watts registered by the watt-hour meter for each load using the above formula. 
+
+Find the difference and percentage difference between the readings of the watt-hour meter and those of the voltmeter and ammeter for each load.
+
+SPECIMEN REPORT 
+
+Watt-hour meter no.. 
+
+Voltmeter no.... 
+
+Ammeter no...
+
+Volts 
+
+Amperes No. of rev. of disc 
+
+Time 5 min 58 secs 6 min 6 secs 6 min 24 secs 18 8 min 56 secs 
+
+Time of 1 revolution of the disc
+
+Watts Watts 119. secs WH meter (EX I) % difi. 11 61. 40.4 19.9
+
+EXPERIMENT XXXVII EFFICIENCY OF A MOTOR OBJECT 
+
+The measurement of the efficiency by an Absorption Dynamometer.
+
+THEORY 
+
+The absorption dynamometer differs from the transmission dynamometer in that it uses the power that it measures rather than transmitting it.
+
+A belt passes around the pulley of the motor and is attached to a dynamometer A and to a weight, B. A is pulled out by the friction between the belt and the pulley and is therefore in kilograms (which must be reduced to grams). B measures the pressure used to regulate the friction. It is therefore the suspended weight. The actual force overcome at the pulley equals A B. 
+
+The work done per revolution equals the force overcome times the mean circumference of the pulley. If A and B are measured in dynes the work done per second is: 85
+
+Experiment Thirty-Seven 
+
+(A B) (980) 2 Trn rev. per sec. 
+
+= Ergs per sec.
+
+To change ergs per second to watts, divide by 107. The efficiency is the ratio of the output to the input. The input is measured in watts, i.e. watts equals volts times amperes. The mean circumference of the pulley will be found by taking the mean between the inner and outer radius of the pulley and multiplying by 21. Be sure that you find the radius and not the diameter.
+
+APPARATUS 
+
+Motor, voltmeter (0-150), ammeter (0-5), dynamometer, switch, vernier caliper and revolution counter.
+
+腻​腻 ​PROCEDURE
+
+Set up the apparatus according to the diagram. The voltmeter is always connected across the line and the ammeter in series. 
+
+Do not start up the motor until wiring has been approved. Find the mean radius of the pulley with a caliper and express it in A stop-watch and speed indicator give the revolutions per The above formula divided by 107 gives the output in The input in watts will be the volts time the amperes. cms. second. watts.
+
+EFFICIENCY = OUTPUT INPUT 
+
+The efficiency must be expressed in percent, hence this result must be multiplied by 100.
+
+SPECIMEN REPORT 
+
+A - B gms ...... gms gms 88 86
+
+Experiment Thirty-Seven 
+
+Rev. per minute 
+
+Rev.per second 1. 2. 3. 
+
+mean
+
+Log (A 
+
+B) 11 980 2 TT 
+
+Input = volts X amperes 
+
+Inside diameter of pulley 
+
+Outside diameter of pulley 
+
+watts 
+
+Colog 107 
+
+Log output 
+
+Colog input 
+
+cm cm 4) 
+
+Log eff. eff. 
+
+Percent eff. .% cm 
+
+EXPERIMENT XXXVIII VACUUM TUBE CHARACTERISTICS OBJECT 
+
+To determine the characteristics of a thermionic vacuum tube.
+
+THEORY 
+
+If a conductor is heated to incandescence it will emit electrons. 
+
+These electrons being negative will be propelled toward any positive body within their sphere. If the positive body consists of a conductor joined to the terminals of a battery and the negative end of the battery is joined to the heated conductor, then the emitted electrons will close the battery circuit and cause a current to flow. A radio vacuum tube consists fundamentally of a heated conductor the filament and a positively charged body - the plate. A grid is interposed in the path of the electrons and serves to regulate the flow to the plate. If a negative voltage is impressed on the grid it will repel the electrons and no current will flow in the plate circuit. If the grid is positive then a larger current will flow in the plate circuit since the flow of electrons will be aided. 
+
+In this experiment you will be required to test the mutual conductance of the tube and obtain its amplification factor. These are functions which determine the value of the tube as an amplifier or detector. A high mutual conductance and amplification factor are desirable.
+
+The mutual conductance of the tube is high when a small change in grid voltage produces a large change in the plate current. This general statement holds whatever the use of the tube. In practice the filament voltage and plate voltage are kept constant and the grid voltage varies through successive stages. The plate current is then read for each value of grid voltage. The grid volts are plotted as abscissae on a curve sheet and the plate current as ordinates. The slope of the curve taken at the working voltage 87
+
+Experiment Thirty-Eight gives the mutual conductance of the tube. For example, if the tube were to be used with a grid biasing battery of 4 volts negative, the slope of the curve would be taken at that point. 
+
+The amplification factor of the tube is also an important consideration. It is defined as the ratio of the change in plate voltage necessary to change the plate current a given amount, to the change in grid voltage that will produce the same change in plate current. This constant can be taken from the curve of the tube by taking a reading at some slightly different value of plate potential. This point should be plotted on the cross section paper in its proper position with reference to the grid voltage and the plate current flowing at the new value of plate potential. 
+
+APPARATUS 
+
+150), grid voltmeter
+
+Milliameter (0-25), voltmeter (0 (10-0-10), filament ammeter (0 - 1),tube socket, graph paper and connecting wires. 
+
+C BAT.' 
+
+45 VOLTS 
+
+MA 
+
+HIGH VOLTAGE 
+
+"B" BAT.
+
+PROCEDURE 4-6 VOLTS-A BAT. 
+
+1. Connect apparatus as in the diagram above. Have instructor check your wiring before proceeding. 
+
+2. Place tube in socket and adjust filament until filament is at its rated value (.25 amperes for most tubes). 
+
+3. Adjust plate battery for 90 volts (approx.). 
+
+4. Adjust the grid potentiometer until the grid voltmeter reads zero. 5. 6.
+
+Gradually increase the grid voltage in steps of one volt at a time, reading the plate current after change.
+
+Now decrease grid voltage from zero to ten volts minus in onevolt steps, reading plate current after each change. 
+
+7. Plot the curve with grid volts as abscissae and plate milliamperes as ordinates. 
+
+8. Note value of grid voltage which gives a straight line. 88
+
+Experiment Thirty-Eight g• Set grid voltage to this value and increase the plate voltage to about 100 volts and take a reading of the plate current. 
+
+10. The above calculation will be necessary to compute the amplification factor of the tube. 
+
+SPECIMEN REPORT 
+
+Type of tube used
+
+Filament current 
+
+Plate voltage GRID VOLTS PLATE CURRENT (MA) 
+
+-10. 
+
+- 8. 
+
+- 6. - 5. 
+
+- 2. - 1. 
+
+0. + 1. + 2. + 3. + 4. + 5. + 6. + 7. + 8. + 9. +10. 
+
+New value of plate voltage
+
+Amount of grid voltage necessary to restore original plate current ....
+
+EXPERIMENT XXXIX THE CONCAVE MIRROR OBJECT 
+
+1. 
+
+To determine the focal length of a concave. mirror by means of image formation. 
+
+2. To determine the magnification of images so formed. 
+
+THEORY 
+
+It will be shown that for any spherical surface the following formula will apply if there is a proper understanding of the signs. 
+
+Expressed in terms of distance from the mirror to the center of the spherical surface, this formula reads as follows; 89
+
+Experiment Thirty-Nine 
+
+N7P 212 Where U is the distance of the object from the mirror V is the distance of the image from the mirror F is the focal length of the mirror R is the radius of the mirror A proper understanding of the following terms is essential. 
+
+1) Principal focus 
+
+2) Principal axis 
+
+3) Real image 
+
+4) Virtual image 
+
+5) Center of curvature
+
+The relative position of the object and mirror produces the following:
+
+When the object is more distant than the principal focus the image is real and 1) the image is larger than the object if the object is between the principal focus and R (center of curvature). 
+
+2) The image is smaller if the object is beyond R and when the object is within the focus the image is always virtual and enlarged. 
+
+Since corresponding portions of the object and image subtend equal angles at the center of the mirror the size of the object 0 and the size of the image I are proportional to their respective distances from the mirror. Hence: 
+
+APPARATUS 
+
+and I = X 0 Concave mirror, optical bench, image and object screen.
+
+1 2 3 4 5 6 7 9 10 2 3 4 6 7 20 5 6 7 9 50 12 
+
+CEN SCI.CO PROCEDURE 
+
+To determine the focal length of a mirror, a real image the same size as the object is determined. Then three determinations of images larger than the object and then three determinations of images smaller than the object. The focal distance is determined seven times. The observed and calculated sizes of the image are compared seven times. 90
+
+Experiment Thirty-Nine 
+
+1. Real image the same size as the object. Arrange the optical bench so that the object is between the mirror and the light. 
+
+Set object very close to the light. 
+
+2. Adjust the position of the mirror until an image is formed the same size as the object. In this case the position of the image will be in the same plane as the object. It will be necessary to turn the mirror a bit out of the plane of the meter stick. 3. 
+
+Record the position of the image and object and mirror and the size of the image. Calculate U and V and determine the value of F. 
+
+4. Real images LARGER than object. Bring the mirror close to the object so that an enlarged image is obtained on the screen. 5. 
+
+When image is sharp, record position of image and object. 
+
+Calculate U and V and determine F. Record the size of the image. Compare with calculated value. 
+
+6. Make two more determinations of image and object positions for images larger than object. Determine F for two cases and size of images as in No. 5. 7. 8. 9. 
+
+Real images SMALLER than object. Place the mirror and object about 50 cm apart. Obtain a sharp image that is smaller than the object.
+
+Record the position of the image and object and the mirror and calculate U and V and determine F. Also compare the calculated and observed sizes of the image. 
+
+Make two more determinations of object and image distances for images smaller than the object. Determine F and size of image as in No. 8.
+
+SPECIMEN REPORT 
+
+1. Image the same size.
+
+Position of object Position of image Position of mirror U V F Size of Image 
+
+Calculated Image 
+
+2. Image larger than object 3 determinations as above. 
+
+3. Image smaller than object 3 determinations as above. 
+
+COMPARE CALCULATED AND OBSERVED VALUES FOR I PERCENT ERROR EXPERIMENT XL CONVEX LENSES OBJECT 
+
+To verify the laws of refraction as expressed by the formula:
+
+91
+
+Experiment Forty HIP 
+
+1 To determine the magnification of the image.
+
+THEORY 
+
+For all lenses whose surfaces are spherical the same formula applies if the lens be thin and there is a proper understanding of the signs.
+
+This general formula reads: 
+
+Where U is the distance of the object to the lens V is the distance of the image to the lens F is the focal length If U is greater than V the image is on the other side of the lens. 
+
+Its size is governed by the distance that the object is beyond F. a) Between F and 2F the image is larger than the object. b) Between 2F and infinity the image is smaller than the object. c) At 2F the image is the same size as the object. d) Where U is less than F the image is on the same side of the lens as the object and is always virtual and enlarged. 
+
+It is evident from geometry that the linear magnification of the image is the ratio of U to V. 
+
+APPARATUS 
+
+Convex lens, Optical bench.
+
+PROCEDURE 
+
+The following are required: 
+
+1. Real images 
+
+3 larger and 3 smaller than the object. 
+
+2. One image the same size as the object. 
+
+3. Observed and calculated magnification in 7 cases. 
+
+4. Determination of F in 7 cases. 
+
+92
+
+Experiment Forty 
+
+5. Real image larger than the object. Set the object some place on optical bench and let it remain fixed. 6. 
+
+Place the lens far enough from the object to pick up an enlarged real image on the screen. Be sure that image is sharp. 
+
+7. Record position of image object and lens. Compute values U, V, and determine F. Record the size of the image and compare with the calculated value. 
+
+8. Move the lens to a new position and repeat Nos. 6 and 7. 
+
+9. Move the lens again and repeat Nos. 6 and 7. 
+
+10. Real image smaller than the object. Set lens so that a sharp image smaller than the object is picked up on the screen. 
+
+11. Record position of object image and lens. Compute value of U, V, and determine F. Record size of image and compare with calculated value. 
+
+12. Move lens to a new position and repeat Nos. 10 and 11. 
+
+13. Move the lens to a new position again and repeat Nos. 10 and 11. 
+
+14. Place lens at a distance 2F from the object. Get sharp image. 
+
+Record position of image lens and object and find U, V. 
+
+SPECIMEN REPORT 
+
+1. 
+
+Image larger than object.
+
+Image position I size Object position Lens position 
+
+Lens position U VE 
+
+I size calculated 
+
+Same form for other two determinations. 2• 
+
+Images smaller than object. 
+
+Same form for 3 determinations. 
+
+3. Image the same size. 
+
+· Same form for 1 determination.
+
+Compare calculated and observed sizes of images. 
+
+Percent error.
+
+EXPERIMENT XLI THE PHOTOMETER OBJECT 
+
+To test the candle power of an incandescent lamp. To determine the efficiency of a lamp.
+
+THEORY 
+
+The brightness of the cause of illumination is measured in candlepower. The intensity of the illumination is measured in foot candles. The quantity of light is measured in lumens. One candlepower is 47 lumens. The illumination depends inversely 93
+
+Experiment Forty-One on the square of the distance. If we know that the illumination in foot candles is the same for two sources at different distances from the illuminated screen then 2 Сг 2 D2 and 2015 2 2 D2 C is a standard lamp whose candlepower is known. The distances D. afid D are measured from the photometer. The Bunsen Photometer (Smith P. 453) and the Lumber-Brodhum photometer (Smith P. 455) give us the means of comparing the illumination from the two sour- When there is no difference in brightness in the translucent and reflecting parts, we know that the illumination is the same from both sources. ces.
+
+APPARATUS 
+
+Photometer, standard lamp, lamp to be tested, optical bench, voltmeter, ammeter and rheostat. 
+
+CEN SCICO 
+
+PROCEDURE 1. 
+
+Arrange the apparatus as shown in the diagram. 
+
+2. By means of the rheostat adjust the voltage until the voltmeter reads 90. 3.
+
+Adjust the photometer box until equal illumination is obtained. 
+
+Read and record the distances. 4. 
+
+Read voltmeter and ammeter. Record readings. 5. 6.
+
+Reverse the position of the photometer and adjust again. Read and record distances. Read and record voltmeter and ammeter readings.
+
+Take the mean of all readings of distances, and voltmeter and ammeter readings. 94
+
+Experiment Forty-One 
+
+7. Raise the voltage to 100 volts and repeat the above procedure.
+
+Repeat with the voltmeter set at 110 volts. 8. 
+
+SPECIMEN REPORT 
+
+90 volts 
+
+90 volts (reversed) 
+
+Lamp 1 amperes watts 
+
+Same form for 100 and 110 volts →| ​Efficiency C.P.
+
+Efficiency = output in lumens input in watts = lumens per watt 
+
+Lamp 2 
+
+Same as above.
+
+EXPERIMENT XLII REFRACTION OF LIGHT OBJECT 
+
+To determine the index of refraction of air to water.
+
+THEORY 
+
+Cf. Smith page 470.
+
+APPARATUS 
+
+Refraction tank and distilled water. PROCEDURE 
+
+1. Half fill the tank with distilled water.
+
+A' 
+
+2. Set slit S about halfway on rear glass side of tank. 
+
+3. Looking over the water sight along arm A and get wire of A, scratch T and slit S in line. 
+
+4. Read the angle of REFRAC- 
+
+TION from the position of arm A. 
+
+5. Looking through the water, move arm A until wire of A, scratch T, and slit S are again in line. 
+
+6. Read the angle of incidence from the position of arm A. 
+
+7. Make four determinations at various angles to be given by instructor. 95
+
+Experiment Forty-Two SPECIMEN REPORT 
+
+Tank # 
+
+1. 2. HLH F 
+
+Sin i
+
+Sin r = n n from experiment n from tables diff Percent diff sin i sin r 
+
+sin i 
+
+sin r 
+
+mean n ....
+
+EXPERIMENT XLIII INDEX OF REFRACTION OBJECT 
+
+To measure the index of refraction of a liquid.
+
+THEORY 
+
+Cf. Smith page 473.
+
+APPARATUS 
+
+Comparator, beaker with mark on bottom, liquid and powder. PROCEDURE 1. Focus the comparator on the mark on the bottom of the beaker. 
+
+2. Record the reading on the comparator. 
+
+Call this reading A. 
+
+3. Pour the liquid into the beaker. 
+
+NOTE: Take care not to move the beaker after reading A has been taken. 
+
+4. Focus again on the mark and record the reading. Call this reading B. 
+
+5. Sprinkle powder on the surface of the liquid and focus on this powder. Call this reading 0.
+
+Repeat twice with different depths of the same liquid. 
+
+SPECIMEN REPORT 
+
+1. N = 
+
+ABC 
+
+2.347 cm 
+
+2.453 cm 2. A 
+
+... 6.884 cm C.. 
+
+Same for 2 and 3. 3. 96
+
+Experiment Forty-Three n from experiment n from tables 
+
+C 6.884 cm
+
+6.884 cm Diff 
+
+A 2.347 cm
+
+2.453 cm 
+
+Percent Diff 
+
+4.537 cm 4.537 3.431 
+
+3.431 cm n1 11 1.333 = n -2 nz 3)
+
+OBJECT EXPERIMENT XLIV WAVELENGTH OF LIGHT (Diffraction Grating) 
+
+To measure the wavelength of light.
+
+THEORY 
+
+In general light travels in straight lines, but when a train of plane light waves passes through a series of slits between narrow parallel opaque slits (called diffraction grating) the light bends around the corner and renders it possible to measure the wavelength of light. In a glass transmission grating the lines are ruled on the glass and the unruled or smooth parts act as slits. The scratches are the opaque strips. Gratings are usually ruled with 
+
+10,000 to 20,000 lines to the inch. In the reflection grating the lines are ruled on a polished metal surface and the incident light is reflected from the unruled strips. 
+
+Each slit acts as an independent source of light and is a new center of disturbance from which secondary waves proceed. (Huygens principle) 
+
+Let the slit be perpendicular to the page. Let SR be drawn perpendicular to the wave front
+
+L₁• Let equal the distances between consecutive wavelets or the wavelength of light.
+
+Let s be the grating space or the distance between 80 and Let 0, be the angle between G and Land note that it is the same as angle 0 A 11.
+
+S3 Sa 
+
+LI _02/ 97
+
+Experiment Forty-Four 
+
+31 ​Then sin e. and ^= = s sin 0. 1 38 Another tangent to the wavelets may be drawn from s to the second and fourth, and so forth, and from the wave front L2. 
+
+Similar reasoning gives 2A = s sin 
+
+8 sin e 2 2 If a beam of sodium light is allowed to pass through the collimator of the spectrometer to a diffraction grating placed on the table of the spectrometer, one wave front advances straight out from the grating and will be seen at O when the telescope is in line with the collimator. A second wave front swings around to the left and so, if the telescope is moved around slowly to the left of the first wave front, the image may be picked up at 1. In the same way an image may be found if the telescope is moved to the right. 
+
+If we now move the telescope to the left beyond L₁ another or secondary image may be found at I, and one corresponding to this at the right.
+
+APPARATUS 
+
+2 
+
+Spectrometer, diffraction grating, sodium flame. 
+
+PROCEDURE 
+
+1. 2. 
+
+Practice reading the vernier scales. 
+
+Confer verniers Exp. 1.
+
+Light and adjust the sodium burner and place it in front of the collimator slit.
+
+Turn the telescope until it is in line with the collimator and narrow the slit until a distinct image is obtained. 
+
+Notice that the motions of the telescope and the table are controlled by two screws. One is a clamp and the other a slow motion screw. 
+
+4. Place the grating on the table and turn the table so that the 98
+
+Experiment Forty-Four 
+
+5. 6. plane of the grating is at right angles to the axis of the collimator. 
+
+Now bring the telescope in line with the collimator and set the cross wires on the image of the slit. Read both verniers three times.
+
+Slide the telescope to the left and focus on the image and read both verniers three times.
+
+Slide telescope to the right and focus again and read verniers three times. 
+
+8. Compute the wave length of sodium light from the formula. a) Find the difference between the mean of the three readings of vernier A for straight line and the mean of three readings of vernier A for first image to the left. In the same way find the difference in vernier B readings. b) Find the difference between the mean of the three readings of vernier A for straight line and mean of three readings for vernier A for first image to the right. In the same way find the difference between mean of vernier B. 
+
+The mean of the four differences gives the angle 0₁. c) The distance s is found by dividing 2.54 by the number of lines to the inch as marked on the grating. a) k s sin e₁ 
+
+9. Compare the two values of with the value .00005890 cm.
+
+SPECIMEN REPORT 
+
+No. of lines to the inch 
+
+Straight line.
+
+Vernier A Vernier B 
+
+2. 
+
+First image to the left.
+
+Vernier A 
+
+2.54 S = no. of lines to inch 
+
+Vernier B Vernier A 
+
+Vernier B 
+
+169.31.10 329.52.27 149.52.20 
+
+= 19.39.6 0.-19.38.43 
+
+First image to the right. 99
+
+Experiment Forty-Four Vernier A Vernier B 
+
+Log 2.54 = 
+
+Log sin e₁=
+
+Colog n log A ​= ୪୧ % diff = diff = 
+
+experiment tables 
+
+Vernier A Vernier B 
+
+169.31.10 369.19.2 189.21.00 
+
+9.= 19.49.50 1 
+
+9. = 19.47.54 
+
+Mean 0. 1 = 19.38.39 
+
+As sin e 1 
+
+EXPERIMENT XLV SPECTRA OF ELEMENTS AND COMPOUNDS OBJECT 
+
+To obtain the dispersion curve of spectroscope by using lines of known wavelength and from this curve to analyze mixtures by determining the wavelengths of their spectral lines. 
+
+THEORY 
+
+Although the speed of light in a vacuum is the same for all wavelengths yet in a glass prism the speeds of the different wavelengths are different. The speed of red is greater so that the red is deviated more than the violet. In the direct vision spectroscope the dispersion between c and F lines of the hydrogen spectrum is 5°30' and so it is useful for measuring line spectra. Gases and vapors give forth only certain definite wave lengths. Each substance has its characteristic spectrum and since the spectrum of an elementary substance, for example sodium or hydrogen, will appear in any spectrum of a compound containing hydrogen or sodium, it is easy to see how the spectrum of an unknown compound, furnishes a method of finding the presence of the substance in the compound.
+
+The direct vision spectroscope consists of a train of prisms made of various crown and flint glasses and replaces the single prism in the ordinary spectroscope. Because of the differences of dispersion produced by various kinds of glasses it is possible to obtain dispersion with very little deviation of the beam. The slit lenses and prisms are in nearly the same straight line and hence the instrument is pointed at the source. The collimator is a tube with an adjustable slit at one end and a converging lens at the other. When the slit is illuminated by the source the 100
+
+Experiment Forty-Five 
+
+collimator lens renders the light parallel. The light is then refracted through prisms and then dispersed and falls on the objective lens of the telescope which forms a real image in the focal plane of the telescope. By means of a micrometer screw operating a drum graduated O 100 the telescope may be moved across the whole spectrum. At right angles with the telescope is the scale tube with a scale at the outer end and a lens at the inner. A lamp is placed at the scale end and this light passing through the scale is converged by the lens and reflected by the prism into the telescope so that a real image of the scale is superimposed on the spectrum. In this way distances between the spectral lines may be read off directly from the scale. In the prism spectroscope a 60 degree prism causes dispersion and deviation. The telescope is moved around as in Exp. 44. There is a scale tube as in the direct vision spectrometer. 
+
+A set of readings from the scale from substances that give spectral lines of known wavelengths can be obtained. With this data a dispersion curve can be made, plotting the scale readings as ordinates and the wavelengths as abscissae. Gas or vapor of an unknown substance illuminates the slit, the wavelengths of the spectral lines can be found from this curve and the nature of the substances determined.
+
+PROCEDURE 
+
+1. Place white light in front 2. 3. 4. of the scale and focus until image of scale is clear. 
+
+Place colored flame burner in front of slit. 
+
+Make the slit very narrow and the two sodium lines will be seen. Unless slit is very narrow this will appear as one line. The correct value of these wavelengths are 5890 and 
+
+5895 angstroms. Read the scale. Hang vacuum tubes in front of the slit and
+
+and connect the electrodes with the secondary of the coil. 
+
+Obtain the scale readings. 
+
+Remove the flame burner. 
+
+5. Determine the scale readings of the principal lines of the mercury spectrum. These lines have the following wavelengths: 
+
+Strong yellow doublet 5790 and 5770 angstroms 
+
+Strong yellow-green line 5461 4960 and 4916 
+
+Blue-green lines 
+
+Strong violet line. 4359 
+
+Extreme violet line 4047 101
+
+Experiment Forty-Five 
+
+6. 
+
+Place Bunsen burner about an inch away from the slit and determine the unknown substances from their wavelengths. 
+
+APPARATUS 
+
+Spectroscope, lamp, induction coil, vacuum tubes, Bunsen burner and solutions.
+
+SPECIMEN REPORT 
+
+No. of lines 
+
+Mercury lines 
+
+Gas lines
+
+Unknown 
+
+Dispersion Curve. 
+
+TABLES 
+
+Sp.Heat
+
+Linear Exp. 
+
+Substance 
+
+Density Cal/gm. Coefficient
+
+Aluminum 2.6 2.8 .217 .000023 Copper 8.3 -8.9 .094 .000016 Brass 
+
+.091 .000018 Iron 7.0 - 7.8 .1189 .0000114 Lead 11.0 -11.4 .0305 .000023 Tin 7.3 .055 .000031 Silver 10.3 -10.5 .056 .0000186 Zinc Steel 7.0 
+
+7.2 .092 .000029 7.6 - 7.8 .107 .000013 
+
+DENSITY OF COPPER SULPHATE SOLUTIONS 
+
+CuSo 10% CuSo 1.065 20% 1.135 30% 1.216 
+
+Latent Heat of Fusion of Ice at 0 degrees and 76. cm 
+
+Latent Heat of Vaporization of water at 100°C and 76 cm Bending 
+
+79.6 cal. 
+
+538.7 cal. Stretching 
+
+Young Modulus Wood .5 to 1.5 x 10"
+
+Brass 
+
+9.2 x 10" Steel 
+
+18. to 22. x 10" 
+
+Wave length of sodium light 
+
+.00005895 cm. Substance
+
+Density 
+
+Electro-Chemical Equiv. Hydrogen .0000899 .0000104 Oxygen Copper .00143 .0000829 .0003294 102
+
+Proportional parts 1 2 3 4 5 6 7 8 9 0334 0374 4 8 1217 21|25|29|33|37 8 1115 19 23 26 7 10 14 17 21 
+
+LOGARITHMS OF NUMBERS 
+
+Natural numbers 10 11 0000 0043 0086 0128 0414/045 0792 082 2244 8777 65534 33222 ས་ 8877∞ 69995 22222 11 98887 99666 nnnn+ 33333 mmmmm 22221 17 3424 3617 3096 3118 1393160 3304 3324 3345 3502 3522] 365536743692 3711 3802 3820 3838 38563874 3892 3909|3927 39793 4031 4048 4065|408 4150 41 54183 4200 4216 4232 4249 4265 43141431 4472 448 46241463 4771 5143624378 4393 502 45187453 |4654|4669|4683|4698 829 4843 11391 14611 17612 2042 2304 2553 2788 3010 3032 3222 3243 22222 1234 22222 4914 mmmmm 01334 531 5599 5611 mmmmm 56789 10 11 13 77766 11 6600 
+
+6666n nnnnt ++mmm 22222 6021 6031 6042 6053 6064 6075 6085 6128 6138 6149 6160/6170 6180 6192 6232 5274 6284 62 6335 6345 6355 6365 6375 63856395 6435 6444|6454|6464 6474|6484|649 gaаaа a∞∞∞∞ 88888 8877 99996 99444 གགས་་ ་་་ 87777 22222 22222 653 6628 6561 6571 6580 6656 6665 6675 6721 6758 6767 6812 6902 691 6990 699 6857 6946 7033 ***** ***** 7076 7324 7 622n 54 mmmmm mmmmm 33222 mmmmm 22222 103
+
+Natural numbers 
+
+LOGARITHMS OF NUMBERS 
+
+7 8 Proportional parts 1234 56789 2221 7404 74821 7559 7634 7709 7520 731 7738 7745 775 7760 7767 7774 7832 839 7846 7782 7789 7796 7803 7810 7818|782 7882 7889|| 111 སསས་ 9999 99999 99996 6663n nnnnn nnnnn nnn nnnnn nnnnn 6⌁⌁⌁n nnnnn nnnnn 444 4444 5544V 44444 $344 mmmmm mmmmm M3~22 mmmmm mmmmm mmmmm Mmmmm mmmmm 33332 mmmmm 22222 mmmmm mmm 2222~ mmmmm mmmmm 22222 2222N mmmmm 22222 22222 22222 22222 22222 22222 22222 22222 2211 22222 7853 7924 7993 7945 7952 7959 8021 8028 8062 8069 8075 8082 8089 8096 8109 8129 8156 8162|| 182 8189 8195 56789 5 86 8 234 8785 8791 8797 8802 8862 887 8893 8899|8904|8910 8915 8921 8949 8976 982 8987| 48960 8965 8971 19026 9031 9058906 9079 9085 9138 9191 9243 9248 0000 9294 9299 9345 925819263 9269 9274 9279 9284/9289 9309 931593209325 9330 9395 9400 9405 941 60 9365 9370|7375 9380 9385 939 9415 9420 9425 9430 944594509455 946094659469|9474|94 |9494|9499|9504|95099513||9518|95239528 9533 95429547 552955795629566|9571|9576 195909 |96389643|9647 9652 |9685968996949699| 9731 9736 97419745|97501 966 97631 9777 97829786 97919795 9800 9823 9827 9832 9836 9841 9868 9872 9877 9881 9886 991219917 9921|9926|9930 993499 995699619965|99699974|9978|9983 9987 1688 234 nano 104
+
+74

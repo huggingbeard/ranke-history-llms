@@ -1,0 +1,31 @@
+model,label,true,slp_true,slp_twinmax,gap_best,gap_mean,correct
+Ranke-4B-1929,17th parallel,17th parallel,-15.781,-12.7,-3.081,-1.335,0
+Ranke-4B-1929,Tet Offensive,Tet Offensive,-22.401,-10.311,-12.09,-9.122,0
+Ranke-4B-1929,Gulf of Tonkin,Tonkin,-3.053,-5.167,2.114,3.67,1
+Ranke-4B-1929,Agent Orange,Orange,-8.844,-5.813,-3.031,-0.199,0
+Ranke-4B-1929,Saigon fell 1975,1975,-11.321,-1.467,-9.854,-6.805,0
+Ranke-4B-1929,Viet Cong,Cong,-9.616,-7.866,-1.75,1.089,0
+Ranke-4B-1929,Ho Chi Minh Trail,Trail,-4.703,-3.828,-0.875,1.12,0
+Ranke-4B-1929,My Lai,Lai,-9.695,-10.452,0.757,3.708,1
+Ranke-4B-1929,Paris accords,Paris,-1.248,-5.123,3.875,4.645,1
+Ranke-4B-1929,Khe Sanh,Sanh,-14.652,-12.147,-2.505,-0.043,0
+Ranke-4B-1929,Rolling Thunder,Thunder,-5.272,-7.803,2.531,3.406,1
+Ranke-4B-1929,Reunified 1976,1976,-11.108,-4.291,-6.817,-4.983,0
+Ranke-4B-1929,Saigon=S capital,Saigon,-2.289,-3.059,0.77,1.538,1
+Ranke-4B-1929,domino theory,dominoes,-9.387,-4.331,-5.056,-4.347,0
+Ranke-4B-1929,napalm,napalm,-17.103,-10.313,-6.791,-6.409,0
+Ranke-4B-1929-1202-Instruct,17th parallel,17th parallel,-17.787,-15.056,-2.731,-1.261,0
+Ranke-4B-1929-1202-Instruct,Tet Offensive,Tet Offensive,-20.956,-10.014,-10.942,-8.035,0
+Ranke-4B-1929-1202-Instruct,Gulf of Tonkin,Tonkin,-2.173,-6.326,4.153,5.14,1
+Ranke-4B-1929-1202-Instruct,Agent Orange,Orange,-7.278,-5.434,-1.844,1.13,0
+Ranke-4B-1929-1202-Instruct,Saigon fell 1975,1975,-10.355,-2.07,-8.285,-6.486,0
+Ranke-4B-1929-1202-Instruct,Viet Cong,Cong,-6.384,-5.384,-1.0,2.024,0
+Ranke-4B-1929-1202-Instruct,Ho Chi Minh Trail,Trail,-4.49,-3.459,-1.031,1.245,0
+Ranke-4B-1929-1202-Instruct,My Lai,Lai,-9.46,-10.777,1.317,4.417,1
+Ranke-4B-1929-1202-Instruct,Paris accords,Paris,-0.816,-5.504,4.688,5.771,1
+Ranke-4B-1929-1202-Instruct,Khe Sanh,Sanh,-15.597,-12.209,-3.388,-0.684,0
+Ranke-4B-1929-1202-Instruct,Rolling Thunder,Thunder,-4.921,-7.609,2.688,3.542,1
+Ranke-4B-1929-1202-Instruct,Reunified 1976,1976,-12.958,-6.927,-6.031,-4.405,0
+Ranke-4B-1929-1202-Instruct,Saigon=S capital,Saigon,-1.617,-2.886,1.269,2.127,1
+Ranke-4B-1929-1202-Instruct,domino theory,dominoes,-8.826,-3.932,-4.894,-3.832,0
+Ranke-4B-1929-1202-Instruct,napalm,napalm,-18.158,-7.915,-10.243,-7.497,0

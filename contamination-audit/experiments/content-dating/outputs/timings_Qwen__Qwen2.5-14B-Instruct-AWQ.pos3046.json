@@ -1,0 +1,8 @@
+{
+ "model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+ "n_passages": 74504,
+ "n_new_this_run": 74504,
+ "wall_seconds_this_run": 2346.9,
+ "passages_per_second": 31.75,
+ "null_preds": 0
+}

@@ -1,0 +1,1570 @@
+{
+ "offset_bridge": {
+  "en": {
+   "mean": 1.963,
+   "ci": [
+    1.963,
+    0.899,
+    3.055
+   ]
+  },
+  "de": {
+   "mean": 1.914,
+   "ci": [
+    1.914,
+    0.603,
+    3.269
+   ]
+  },
+  "fr": {
+   "mean": 1.057,
+   "ci": [
+    1.057,
+    0.004,
+    2.155
+   ]
+  }
+ },
+ "events": {
+  "panic_1907": {
+   "anchor": "1913",
+   "label": "Panic of 1907",
+   "per_lang": {
+    "en": {
+     "1900": {
+      "mean": 0.146,
+      "ci": [
+       -1.325,
+       1.447
+      ],
+      "p_perm_vs_tierB": 0.8226,
+      "effect_size_sdB": -0.1,
+      "loo_max": 0.539,
+      "n": 12
+     }
+    },
+    "de": {
+     "1900": {
+      "mean": -0.82,
+      "ci": [
+       -2.656,
+       0.996
+      ],
+      "p_perm_vs_tierB": 0.0292,
+      "effect_size_sdB": -2.97,
+      "loo_max": 0.439,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1900": {
+      "mean": -0.807,
+      "ci": [
+       -2.479,
+       0.703
+      ],
+      "p_perm_vs_tierB": 0.328,
+      "effect_size_sdB": -0.63,
+      "loo_max": 0.587,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1900": {
+     "mean": -0.494,
+     "ci": [
+      -1.524,
+      0.546
+     ],
+     "n_clusters": 12
+    }
+   }
+  },
+  "world_war": {
+   "anchor": "1929",
+   "label": "World War (1914-18)",
+   "per_lang": {
+    "en": {
+     "1900": {
+      "mean": 0.487,
+      "ci": [
+       -0.825,
+       2.214
+      ],
+      "p_perm_vs_tierB": 0.5443,
+      "effect_size_sdB": 0.37,
+      "loo_max": 0.687,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.77,
+      "ci": [
+       -1.843,
+       0.5
+      ],
+      "p_perm_vs_tierB": 0.8944,
+      "effect_size_sdB": 0.08,
+      "loo_max": 0.487,
+      "n": 12
+     }
+    },
+    "de": {
+     "1900": {
+      "mean": 1.024,
+      "ci": [
+       -0.977,
+       3.146
+      ],
+      "p_perm_vs_tierB": 0.2827,
+      "effect_size_sdB": -1.3,
+      "loo_max": 0.624,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.452,
+      "ci": [
+       -2.145,
+       1.119
+      ],
+      "p_perm_vs_tierB": 0.6552,
+      "effect_size_sdB": -0.35,
+      "loo_max": 0.497,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1900": {
+      "mean": -0.343,
+      "ci": [
+       -1.612,
+       1.065
+      ],
+      "p_perm_vs_tierB": 0.6975,
+      "effect_size_sdB": 0.2,
+      "loo_max": 0.429,
+      "n": 12
+     },
+     "1913": {
+      "mean": 0.525,
+      "ci": [
+       -0.254,
+       1.385
+      ],
+      "p_perm_vs_tierB": 0.0167,
+      "effect_size_sdB": 1.73,
+      "loo_max": 0.31,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1900": {
+     "mean": 0.389,
+     "ci": [
+      -0.689,
+      1.67
+     ],
+     "n_clusters": 12
+    },
+    "1913": {
+     "mean": -0.232,
+     "ci": [
+      -1.059,
+      0.524
+     ],
+     "n_clusters": 12
+    }
+   }
+  },
+  "fall_of_empires": {
+   "anchor": "1929",
+   "label": "Fall of the empires (1917-22)",
+   "per_lang": {
+    "en": {
+     "1900": {
+      "mean": -0.411,
+      "ci": [
+       -1.729,
+       0.751
+      ],
+      "p_perm_vs_tierB": 0.981,
+      "effect_size_sdB": 0.01,
+      "loo_max": 0.479,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.577,
+      "ci": [
+       -1.657,
+       0.495
+      ],
+      "p_perm_vs_tierB": 0.7428,
+      "effect_size_sdB": 0.19,
+      "loo_max": 0.305,
+      "n": 12
+     }
+    },
+    "de": {
+     "1900": {
+      "mean": -0.166,
+      "ci": [
+       -1.481,
+       1.006
+      ],
+      "p_perm_vs_tierB": 0.0093,
+      "effect_size_sdB": -2.14,
+      "loo_max": 0.468,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.032,
+      "ci": [
+       -1.023,
+       1.068
+      ],
+      "p_perm_vs_tierB": 0.8463,
+      "effect_size_sdB": -0.11,
+      "loo_max": 0.399,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1900": {
+      "mean": -0.026,
+      "ci": [
+       -1.459,
+       1.364
+      ],
+      "p_perm_vs_tierB": 0.5423,
+      "effect_size_sdB": 0.33,
+      "loo_max": 0.458,
+      "n": 12
+     },
+     "1913": {
+      "mean": 0.013,
+      "ci": [
+       -0.834,
+       0.929
+      ],
+      "p_perm_vs_tierB": 0.0699,
+      "effect_size_sdB": 1.28,
+      "loo_max": 0.303,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1900": {
+     "mean": -0.201,
+     "ci": [
+      -0.99,
+      0.574
+     ],
+     "n_clusters": 12
+    },
+    "1913": {
+     "mean": -0.199,
+     "ci": [
+      -0.789,
+      0.355
+     ],
+     "n_clusters": 12
+    }
+   }
+  },
+  "russian_revolution": {
+   "anchor": "1929",
+   "label": "Russian Revolution (1917)",
+   "per_lang": {
+    "en": {
+     "1900": {
+      "mean": 1.739,
+      "ci": [
+       0.063,
+       3.386
+      ],
+      "p_perm_vs_tierB": 0.1676,
+      "effect_size_sdB": 0.87,
+      "loo_max": 0.495,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.694,
+      "ci": [
+       -1.561,
+       0.231
+      ],
+      "p_perm_vs_tierB": 0.7907,
+      "effect_size_sdB": 0.12,
+      "loo_max": 0.219,
+      "n": 12
+     }
+    },
+    "de": {
+     "1900": {
+      "mean": 1.991,
+      "ci": [
+       -0.308,
+       4.087
+      ],
+      "p_perm_vs_tierB": 0.6155,
+      "effect_size_sdB": -0.61,
+      "loo_max": 0.609,
+      "n": 12
+     },
+     "1913": {
+      "mean": 1.18,
+      "ci": [
+       0.203,
+       2.214
+      ],
+      "p_perm_vs_tierB": 0.2962,
+      "effect_size_sdB": 0.58,
+      "loo_max": 0.3,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1900": {
+      "mean": 0.89,
+      "ci": [
+       -0.841,
+       2.742
+      ],
+      "p_perm_vs_tierB": 0.2834,
+      "effect_size_sdB": 0.72,
+      "loo_max": 0.509,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.833,
+      "ci": [
+       -1.819,
+       0.194
+      ],
+      "p_perm_vs_tierB": 0.4994,
+      "effect_size_sdB": 0.53,
+      "loo_max": 0.262,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1900": {
+     "mean": 1.54,
+     "ci": [
+      0.532,
+      2.554
+     ],
+     "n_clusters": 12
+    },
+    "1913": {
+     "mean": -0.116,
+     "ci": [
+      -0.655,
+      0.434
+     ],
+     "n_clusters": 12
+    }
+   }
+  },
+  "spanish_flu": {
+   "anchor": "1929",
+   "label": "Influenza pandemic (1918-19)",
+   "per_lang": {
+    "en": {
+     "1900": {
+      "mean": -0.21,
+      "ci": [
+       -2.1,
+       1.401
+      ],
+      "p_perm_vs_tierB": 0.8899,
+      "effect_size_sdB": 0.09,
+      "loo_max": 0.714,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.637,
+      "ci": [
+       -1.595,
+       0.348
+      ],
+      "p_perm_vs_tierB": 0.7535,
+      "effect_size_sdB": 0.16,
+      "loo_max": 0.321,
+      "n": 12
+     }
+    },
+    "de": {
+     "1900": {
+      "mean": 1.134,
+      "ci": [
+       -1.34,
+       3.805
+      ],
+      "p_perm_vs_tierB": 0.4145,
+      "effect_size_sdB": -1.22,
+      "loo_max": 1.04,
+      "n": 12
+     },
+     "1913": {
+      "mean": 0.035,
+      "ci": [
+       -1.859,
+       1.887
+      ],
+      "p_perm_vs_tierB": 0.9347,
+      "effect_size_sdB": -0.07,
+      "loo_max": 0.6,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1900": {
+      "mean": 1.182,
+      "ci": [
+       -0.139,
+       2.33
+      ],
+      "p_perm_vs_tierB": 0.11,
+      "effect_size_sdB": 0.84,
+      "loo_max": 0.483,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.553,
+      "ci": [
+       -1.241,
+       0.239
+      ],
+      "p_perm_vs_tierB": 0.2117,
+      "effect_size_sdB": 0.78,
+      "loo_max": 0.292,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1900": {
+     "mean": 0.702,
+     "ci": [
+      -0.411,
+      2.114
+     ],
+     "n_clusters": 12
+    },
+    "1913": {
+     "mean": -0.385,
+     "ci": [
+      -1.132,
+      0.268
+     ],
+     "n_clusters": 12
+    }
+   }
+  },
+  "hyperinflation": {
+   "anchor": "1929",
+   "label": "German hyperinflation (1923)",
+   "per_lang": {
+    "en": {
+     "1900": {
+      "mean": 0.553,
+      "ci": [
+       -0.506,
+       1.741
+      ],
+      "p_perm_vs_tierB": 0.4086,
+      "effect_size_sdB": 0.4,
+      "loo_max": 0.456,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.124,
+      "ci": [
+       -1.234,
+       1.11
+      ],
+      "p_perm_vs_tierB": 0.476,
+      "effect_size_sdB": 0.45,
+      "loo_max": 0.437,
+      "n": 12
+     }
+    },
+    "de": {
+     "1900": {
+      "mean": 0.732,
+      "ci": [
+       -0.512,
+       2.192
+      ],
+      "p_perm_vs_tierB": 0.0755,
+      "effect_size_sdB": -1.5,
+      "loo_max": 0.487,
+      "n": 12
+     },
+     "1913": {
+      "mean": 0.955,
+      "ci": [
+       -0.542,
+       2.435
+      ],
+      "p_perm_vs_tierB": 0.5429,
+      "effect_size_sdB": 0.45,
+      "loo_max": 0.459,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1900": {
+      "mean": -0.427,
+      "ci": [
+       -2.049,
+       1.375
+      ],
+      "p_perm_vs_tierB": 0.7926,
+      "effect_size_sdB": 0.17,
+      "loo_max": 0.53,
+      "n": 12
+     },
+     "1913": {
+      "mean": 1.385,
+      "ci": [
+       0.262,
+       2.489
+      ],
+      "p_perm_vs_tierB": 0.0062,
+      "effect_size_sdB": 2.5,
+      "loo_max": 0.323,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1900": {
+     "mean": 0.286,
+     "ci": [
+      -0.516,
+      1.017
+     ],
+     "n_clusters": 12
+    },
+    "1913": {
+     "mean": 0.738,
+     "ci": [
+      0.035,
+      1.499
+     ],
+     "n_clusters": 12
+    }
+   }
+  },
+  "great_depression": {
+   "anchor": "modern",
+   "label": "Great Depression (1929-33)",
+   "per_lang": {
+    "en": {
+     "1900": {
+      "mean": 2.248,
+      "ci": [
+       0.025,
+       4.24
+      ],
+      "p_perm_vs_tierB": 0.1601,
+      "effect_size_sdB": 0.62,
+      "loo_max": 0.782,
+      "n": 12
+     },
+     "1913": {
+      "mean": 0.323,
+      "ci": [
+       -1.833,
+       2.45
+      ],
+      "p_perm_vs_tierB": 0.3688,
+      "effect_size_sdB": 0.42,
+      "loo_max": 0.646,
+      "n": 12
+     },
+     "1929": {
+      "mean": 0.552,
+      "ci": [
+       -1.272,
+       2.158
+      ],
+      "p_perm_vs_tierB": 0.5558,
+      "effect_size_sdB": 0.22,
+      "loo_max": 0.664,
+      "n": 12
+     }
+    },
+    "de": {
+     "1900": {
+      "mean": -1.401,
+      "ci": [
+       -3.279,
+       0.4
+      ],
+      "p_perm_vs_tierB": 0.047,
+      "effect_size_sdB": -1.22,
+      "loo_max": 0.611,
+      "n": 12
+     },
+     "1913": {
+      "mean": -0.848,
+      "ci": [
+       -2.985,
+       1.088
+      ],
+      "p_perm_vs_tierB": 0.8841,
+      "effect_size_sdB": -0.09,
+      "loo_max": 0.599,
+      "n": 12
+     },
+     "1929": {
+      "mean": -1.668,
+      "ci": [
+       -3.732,
+       0.15
+      ],
+      "p_perm_vs_tierB": 0.5956,
+      "effect_size_sdB": -0.32,
+      "loo_max": 0.673,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1900": {
+      "mean": 0.362,
+      "ci": [
+       -1.861,
+       2.601
+      ],
+      "p_perm_vs_tierB": 0.4045,
+      "effect_size_sdB": 0.7,
+      "loo_max": 0.603,
+      "n": 12
+     },
+     "1913": {
+      "mean": 0.482,
+      "ci": [
+       -1.699,
+       2.469
+      ],
+      "p_perm_vs_tierB": 0.2664,
+      "effect_size_sdB": 0.6,
+      "loo_max": 0.75,
+      "n": 12
+     },
+     "1929": {
+      "mean": 0.636,
+      "ci": [
+       -1.475,
+       2.556
+      ],
+      "p_perm_vs_tierB": 0.6042,
+      "effect_size_sdB": 0.29,
+      "loo_max": 0.728,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1900": {
+     "mean": 0.403,
+     "ci": [
+      -0.505,
+      1.205
+     ],
+     "n_clusters": 12
+    },
+    "1913": {
+     "mean": -0.014,
+     "ci": [
+      -1.254,
+      1.194
+     ],
+     "n_clusters": 12
+    },
+    "1929": {
+     "mean": -0.16,
+     "ci": [
+      -1.361,
+      1.057
+     ],
+     "n_clusters": 12
+    }
+   }
+  },
+  "nazi_seizure": {
+   "anchor": "modern",
+   "label": "Nazi seizure of power (1933)",
+   "per_lang": {
+    "en": {
+     "1929": {
+      "mean": 0.247,
+      "ci": [
+       -2.112,
+       2.257
+      ],
+      "p_perm_vs_tierB": 0.6864,
+      "effect_size_sdB": 0.17,
+      "loo_max": 0.941,
+      "n": 12
+     }
+    },
+    "de": {
+     "1929": {
+      "mean": -2.525,
+      "ci": [
+       -5.287,
+       -0.227
+      ],
+      "p_perm_vs_tierB": 0.4262,
+      "effect_size_sdB": -0.61,
+      "loo_max": 0.99,
+      "n": 12
+     }
+    },
+    "fr": {
+     "1929": {
+      "mean": -0.626,
+      "ci": [
+       -2.4,
+       1.318
+      ],
+      "p_perm_vs_tierB": 0.8797,
+      "effect_size_sdB": -0.08,
+      "loo_max": 0.506,
+      "n": 12
+     }
+    }
+   },
+   "pooled": {
+    "1929": {
+     "mean": -0.968,
+     "ci": [
+      -2.273,
+      0.34
+     ],
+     "n_clusters": 12
+    }
+   }
+  }
+ },
+ "tiers": {
+  "en": {
+   "tierB_vs1929_1913": [
+    -0.915,
+    -2.225,
+    0.431
+   ],
+   "tierC_vs1929_1913": [
+    -0.984,
+    -3.68,
+    2.41
+   ],
+   "tierB_bridged_1929": [
+    -0.829,
+    -5.954,
+    3.979
+   ],
+   "tierC_bridged_1929": [
+    1.806,
+    -0.185,
+    3.869
+   ],
+   "tierC_bridged_1913": [
+    0.822,
+    -2.767,
+    3.619
+   ]
+  },
+  "de": {
+   "tierB_vs1929_1913": [
+    0.164,
+    -1.082,
+    1.711
+   ],
+   "tierC_vs1929_1913": [
+    0.478,
+    -1.488,
+    2.494
+   ],
+   "tierB_bridged_1929": [
+    -0.724,
+    -2.841,
+    1.779
+   ],
+   "tierC_bridged_1929": [
+    -2.803,
+    -6.339,
+    1.929
+   ],
+   "tierC_bridged_1913": [
+    -2.324,
+    -6.286,
+    2.252
+   ]
+  },
+  "fr": {
+   "tierB_vs1929_1913": [
+    -1.426,
+    -2.382,
+    -0.586
+   ],
+   "tierC_vs1929_1913": [
+    -0.768,
+    -3.0,
+    1.464
+   ],
+   "tierB_bridged_1929": [
+    -0.355,
+    -3.141,
+    2.108
+   ],
+   "tierC_bridged_1929": [
+    0.714,
+    -3.677,
+    6.801
+   ],
+   "tierC_bridged_1913": [
+    -0.054,
+    -4.953,
+    6.698
+   ]
+  }
+ },
+ "pooled": {},
+ "tf": {
+  "panic_1907": {
+   "en": {
+    "1900": {
+     "pct_true": 83,
+     "mean_margin": -0.14
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": -0.17
+    },
+    "1929": {
+     "pct_true": 67,
+     "mean_margin": -0.2
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": 0.55
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": 0.59
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": 0.03
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": 1.77
+    },
+    "modern": {
+     "pct_true": 67,
+     "mean_margin": -1.16
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": 0.01
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": 0.46
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": -0.37
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": 0.4
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 61,
+     "mean_margin": 0.15
+    },
+    "1913": {
+     "pct_true": 61,
+     "mean_margin": 0.11
+    },
+    "1929": {
+     "pct_true": 56,
+     "mean_margin": 0.4
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": -0.07
+    }
+   }
+  },
+  "world_war": {
+   "en": {
+    "1900": {
+     "pct_true": 33,
+     "mean_margin": 0.3
+    },
+    "1913": {
+     "pct_true": 0,
+     "mean_margin": -1.8
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": 0.39
+    },
+    "modern": {
+     "pct_true": 17,
+     "mean_margin": -0.51
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 33,
+     "mean_margin": 0.22
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": -0.04
+    },
+    "1929": {
+     "pct_true": 17,
+     "mean_margin": -0.33
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": -0.48
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 33,
+     "mean_margin": 0.25
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": 0.28
+    },
+    "1929": {
+     "pct_true": 33,
+     "mean_margin": 0.74
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": -0.94
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 33,
+     "mean_margin": 0.25
+    },
+    "1913": {
+     "pct_true": 22,
+     "mean_margin": -0.52
+    },
+    "1929": {
+     "pct_true": 33,
+     "mean_margin": 0.27
+    },
+    "modern": {
+     "pct_true": 28,
+     "mean_margin": -0.64
+    }
+   }
+  },
+  "fall_of_empires": {
+   "en": {
+    "1900": {
+     "pct_true": 33,
+     "mean_margin": -0.51
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": -1.52
+    },
+    "1929": {
+     "pct_true": 33,
+     "mean_margin": -0.92
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": 0.05
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 67,
+     "mean_margin": 2.38
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": 1.72
+    },
+    "1929": {
+     "pct_true": 67,
+     "mean_margin": 1.09
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": 1.5
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": 1.18
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": 0.12
+    },
+    "1929": {
+     "pct_true": 17,
+     "mean_margin": -1.94
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": -1.53
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": 1.02
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": 0.11
+    },
+    "1929": {
+     "pct_true": 39,
+     "mean_margin": -0.59
+    },
+    "modern": {
+     "pct_true": 39,
+     "mean_margin": 0.01
+    }
+   }
+  },
+  "russian_revolution": {
+   "en": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": -0.33
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": 0.02
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": 0.06
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": -1.02
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 33,
+     "mean_margin": -0.95
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": 0.85
+    },
+    "1929": {
+     "pct_true": 67,
+     "mean_margin": 0.45
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": -0.08
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": 0.56
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": 0.74
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": 0.54
+    },
+    "modern": {
+     "pct_true": 17,
+     "mean_margin": -2.04
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 44,
+     "mean_margin": -0.24
+    },
+    "1913": {
+     "pct_true": 56,
+     "mean_margin": 0.54
+    },
+    "1929": {
+     "pct_true": 56,
+     "mean_margin": 0.35
+    },
+    "modern": {
+     "pct_true": 39,
+     "mean_margin": -1.05
+    }
+   }
+  },
+  "spanish_flu": {
+   "en": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": 1.05
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": 1.8
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": -0.55
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": -1.27
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 67,
+     "mean_margin": 1.46
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": 0.37
+    },
+    "1929": {
+     "pct_true": 67,
+     "mean_margin": 0.69
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": -0.85
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 67,
+     "mean_margin": 0.98
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": -1.23
+    },
+    "1929": {
+     "pct_true": 17,
+     "mean_margin": -2.91
+    },
+    "modern": {
+     "pct_true": 67,
+     "mean_margin": 0.37
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 61,
+     "mean_margin": 1.16
+    },
+    "1913": {
+     "pct_true": 61,
+     "mean_margin": 0.31
+    },
+    "1929": {
+     "pct_true": 44,
+     "mean_margin": -0.92
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": -0.58
+    }
+   }
+  },
+  "hyperinflation": {
+   "en": {
+    "1900": {
+     "pct_true": 83,
+     "mean_margin": 1.26
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": 0.36
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": -0.23
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": 1.32
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 17,
+     "mean_margin": -1.88
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": -2.53
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": 0.14
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": -1.92
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": -0.31
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": -0.03
+    },
+    "1929": {
+     "pct_true": 33,
+     "mean_margin": 0.22
+    },
+    "modern": {
+     "pct_true": 67,
+     "mean_margin": 1.63
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": -0.31
+    },
+    "1913": {
+     "pct_true": 44,
+     "mean_margin": -0.73
+    },
+    "1929": {
+     "pct_true": 44,
+     "mean_margin": 0.04
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": 0.34
+    }
+   }
+  },
+  "great_depression": {
+   "en": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": 0.47
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": -0.35
+    },
+    "1929": {
+     "pct_true": 67,
+     "mean_margin": 0.76
+    },
+    "modern": {
+     "pct_true": 67,
+     "mean_margin": 1.49
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": -0.45
+    },
+    "1913": {
+     "pct_true": 67,
+     "mean_margin": 1.12
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": 0.08
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": -1.97
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 67,
+     "mean_margin": 0.99
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": -0.19
+    },
+    "1929": {
+     "pct_true": 50,
+     "mean_margin": 0.43
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": 0.64
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 56,
+     "mean_margin": 0.34
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": 0.19
+    },
+    "1929": {
+     "pct_true": 56,
+     "mean_margin": 0.43
+    },
+    "modern": {
+     "pct_true": 50,
+     "mean_margin": 0.05
+    }
+   }
+  },
+  "nazi_seizure": {
+   "en": {
+    "1900": {
+     "pct_true": 17,
+     "mean_margin": -2.52
+    },
+    "1913": {
+     "pct_true": 17,
+     "mean_margin": -2.36
+    },
+    "1929": {
+     "pct_true": 17,
+     "mean_margin": -2.37
+    },
+    "modern": {
+     "pct_true": 17,
+     "mean_margin": -1.69
+    }
+   },
+   "de": {
+    "1900": {
+     "pct_true": 50,
+     "mean_margin": -0.73
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": -0.9
+    },
+    "1929": {
+     "pct_true": 17,
+     "mean_margin": -1.1
+    },
+    "modern": {
+     "pct_true": 67,
+     "mean_margin": 0.72
+    }
+   },
+   "fr": {
+    "1900": {
+     "pct_true": 17,
+     "mean_margin": -1.98
+    },
+    "1913": {
+     "pct_true": 50,
+     "mean_margin": -0.78
+    },
+    "1929": {
+     "pct_true": 17,
+     "mean_margin": -2.31
+    },
+    "modern": {
+     "pct_true": 17,
+     "mean_margin": -2.94
+    }
+   },
+   "pooled": {
+    "1900": {
+     "pct_true": 28,
+     "mean_margin": -1.74
+    },
+    "1913": {
+     "pct_true": 33,
+     "mean_margin": -1.35
+    },
+    "1929": {
+     "pct_true": 17,
+     "mean_margin": -1.93
+    },
+    "modern": {
+     "pct_true": 33,
+     "mean_margin": -1.3
+    }
+   }
+  }
+ },
+ "fdr": {
+  "1900/en": {
+   "panic_1907": 0.8226
+  },
+  "1900/de": {
+   "panic_1907": 0.0292
+  },
+  "1900/fr": {
+   "panic_1907": 0.328
+  },
+  "1913/en": {
+   "world_war": 0.8944,
+   "russian_revolution": 0.8944,
+   "spanish_flu": 0.8944,
+   "fall_of_empires": 0.8944,
+   "hyperinflation": 0.8944
+  },
+  "1913/de": {
+   "spanish_flu": 0.9347,
+   "fall_of_empires": 0.9347,
+   "world_war": 0.9347,
+   "hyperinflation": 0.9347,
+   "russian_revolution": 0.9347
+  },
+  "1913/fr": {
+   "russian_revolution": 0.4994,
+   "spanish_flu": 0.2646,
+   "fall_of_empires": 0.1165,
+   "world_war": 0.0417,
+   "hyperinflation": 0.031
+  },
+  "1929/en": {
+   "nazi_seizure": 0.6864,
+   "great_depression": 0.6864
+  },
+  "1929/de": {
+   "great_depression": 0.5956,
+   "nazi_seizure": 0.5956
+  },
+  "1929/fr": {
+   "nazi_seizure": 0.8797,
+   "great_depression": 0.8797
+  }
+ },
+ "loo": {},
+ "ranking": [
+  {
+   "event": "nazi_seizure",
+   "label": "Nazi seizure of power (1933)",
+   "pre": "1929",
+   "anchor": "modern",
+   "dconc_pooled": -0.968,
+   "ci": [
+    -2.273,
+    0.34
+   ]
+  },
+  {
+   "event": "panic_1907",
+   "label": "Panic of 1907",
+   "pre": "1900",
+   "anchor": "1913",
+   "dconc_pooled": -0.494,
+   "ci": [
+    -1.524,
+    0.546
+   ]
+  },
+  {
+   "event": "spanish_flu",
+   "label": "Influenza pandemic (1918-19)",
+   "pre": "1913",
+   "anchor": "1929",
+   "dconc_pooled": -0.385,
+   "ci": [
+    -1.132,
+    0.268
+   ]
+  },
+  {
+   "event": "world_war",
+   "label": "World War (1914-18)",
+   "pre": "1913",
+   "anchor": "1929",
+   "dconc_pooled": -0.232,
+   "ci": [
+    -1.059,
+    0.524
+   ]
+  },
+  {
+   "event": "fall_of_empires",
+   "label": "Fall of the empires (1917-22)",
+   "pre": "1913",
+   "anchor": "1929",
+   "dconc_pooled": -0.199,
+   "ci": [
+    -0.789,
+    0.355
+   ]
+  },
+  {
+   "event": "great_depression",
+   "label": "Great Depression (1929-33)",
+   "pre": "1929",
+   "anchor": "modern",
+   "dconc_pooled": -0.16,
+   "ci": [
+    -1.361,
+    1.057
+   ]
+  },
+  {
+   "event": "russian_revolution",
+   "label": "Russian Revolution (1917)",
+   "pre": "1913",
+   "anchor": "1929",
+   "dconc_pooled": -0.116,
+   "ci": [
+    -0.655,
+    0.434
+   ]
+  },
+  {
+   "event": "hyperinflation",
+   "label": "German hyperinflation (1923)",
+   "pre": "1913",
+   "anchor": "1929",
+   "dconc_pooled": 0.738,
+   "ci": [
+    0.035,
+    1.499
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4094 @@
+{
+ "schema": "forced_choice; pick true over 3 matched distractors; chance 0.25; calibrated",
+ "n": 292,
+ "items": [
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Berlin airlift year",
+   "prompt": "The Western Allies responded to the Soviet blockade of West Berlin by organizing a massive airlift of supplies in",
+   "true": " 1948",
+   "distractors": [
+    " 1945",
+    " 1953",
+    " 1961"
+   ],
+   "year": 1948
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "NATO founding year",
+   "prompt": "The North Atlantic Treaty Organization was established in",
+   "true": " 1949",
+   "distractors": [
+    " 1945",
+    " 1955",
+    " 1960"
+   ],
+   "year": 1949
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Korean War start",
+   "prompt": "The Korean War began when North Korean forces invaded South Korea in",
+   "true": " 1950",
+   "distractors": [
+    " 1948",
+    " 1953",
+    " 1960"
+   ],
+   "year": 1950
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Warsaw Pact formed",
+   "prompt": "The Soviet Union and its Eastern European allies formed the Warsaw Pact in",
+   "true": " 1955",
+   "distractors": [
+    " 1949",
+    " 1961",
+    " 1968"
+   ],
+   "year": 1955
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Sputnik launched",
+   "prompt": "The Soviet Union launched the first artificial satellite, Sputnik 1, in",
+   "true": " 1957",
+   "distractors": [
+    " 1955",
+    " 1961",
+    " 1969"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Berlin Wall built",
+   "prompt": "Construction of the Berlin Wall dividing East and West Berlin began in",
+   "true": " 1961",
+   "distractors": [
+    " 1953",
+    " 1963",
+    " 1971"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Cuban Missile Crisis",
+   "prompt": "The tense confrontation between the US and Soviet Union over Soviet missiles in Cuba occurred in",
+   "true": " 1962",
+   "distractors": [
+    " 1961",
+    " 1963",
+    " 1965"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "JFK assassination year",
+   "prompt": "US President John F. Kennedy was assassinated in",
+   "true": " 1963",
+   "distractors": [
+    " 1961",
+    " 1965",
+    " 1968"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "First moon landing",
+   "prompt": "American astronauts first landed on the Moon in",
+   "true": " 1969",
+   "distractors": [
+    " 1961",
+    " 1972",
+    " 1975"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "SALT I signed",
+   "prompt": "The Strategic Arms Limitation Talks (SALT I) agreement was signed by the US and USSR in",
+   "true": " 1972",
+   "distractors": [
+    " 1969",
+    " 1975",
+    " 1979"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Vietnam War ended",
+   "prompt": "The Vietnam War ended with the fall of Saigon in",
+   "true": " 1975",
+   "distractors": [
+    " 1973",
+    " 1977",
+    " 1979"
+   ],
+   "year": 1975
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Soviet invasion of Afghanistan",
+   "prompt": "The Soviet Union invaded Afghanistan in",
+   "true": " 1979",
+   "distractors": [
+    " 1978",
+    " 1980",
+    " 1982"
+   ],
+   "year": 1979
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Solidarity founded",
+   "prompt": "The Polish trade union Solidarity was founded in",
+   "true": " 1980",
+   "distractors": [
+    " 1978",
+    " 1981",
+    " 1983"
+   ],
+   "year": 1980
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Reagan's 'Evil Empire' speech",
+   "prompt": "US President Ronald Reagan referred to the Soviet Union as an 'evil empire' in a speech in",
+   "true": " 1983",
+   "distractors": [
+    " 1981",
+    " 1985",
+    " 1987"
+   ],
+   "year": 1983
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Chernobyl disaster",
+   "prompt": "The Chernobyl nuclear power plant disaster occurred in",
+   "true": " 1986",
+   "distractors": [
+    " 1984",
+    " 1988",
+    " 1990"
+   ],
+   "year": 1986
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Berlin Wall fell",
+   "prompt": "The Berlin Wall was opened, allowing free passage between East and West Berlin, in",
+   "true": " 1989",
+   "distractors": [
+    " 1988",
+    " 1990",
+    " 1991"
+   ],
+   "year": 1989
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "German reunification",
+   "prompt": "East and West Germany were officially reunified in",
+   "true": " 1990",
+   "distractors": [
+    " 1989",
+    " 1991",
+    " 1992"
+   ],
+   "year": 1990
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "USSR dissolved",
+   "prompt": "The Soviet Union was formally dissolved in",
+   "true": " 1991",
+   "distractors": [
+    " 1989",
+    " 1990",
+    " 1992"
+   ],
+   "year": 1991
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Marshall Plan announced",
+   "prompt": "The US program to rebuild Western European economies after WWII was announced in",
+   "true": " 1947",
+   "distractors": [
+    " 1945",
+    " 1948",
+    " 1950"
+   ],
+   "year": 1947
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "COMECON established",
+   "prompt": "The Soviet-led economic organization for Eastern Bloc countries was established in",
+   "true": " 1949",
+   "distractors": [
+    " 1947",
+    " 1955",
+    " 1960"
+   ],
+   "year": 1949
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "McCarthy hearings began",
+   "prompt": "The televised Army-McCarthy hearings investigating alleged communist infiltration in the US began in",
+   "true": " 1954",
+   "distractors": [
+    " 1950",
+    " 1953",
+    " 1955"
+   ],
+   "year": 1954
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Hungarian Revolution",
+   "prompt": "The Hungarian uprising against Soviet-imposed policies was crushed by Soviet forces in",
+   "true": " 1956",
+   "distractors": [
+    " 1953",
+    " 1968",
+    " 1970"
+   ],
+   "year": 1956
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "U-2 incident",
+   "prompt": "An American U-2 spy plane was shot down over the Soviet Union, causing a major diplomatic incident, in",
+   "true": " 1960",
+   "distractors": [
+    " 1958",
+    " 1962",
+    " 1964"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Bay of Pigs invasion",
+   "prompt": "The failed CIA-backed invasion of Cuba by Cuban exiles occurred at the Bay of Pigs in",
+   "true": " 1961",
+   "distractors": [
+    " 1959",
+    " 1962",
+    " 1963"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Prague Spring crushed",
+   "prompt": "The Warsaw Pact invasion of Czechoslovakia to end the Prague Spring reforms occurred in",
+   "true": " 1968",
+   "distractors": [
+    " 1967",
+    " 1969",
+    " 1970"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Apollo-Soyuz mission",
+   "prompt": "The first joint US-Soviet space mission, Apollo-Soyuz, took place in",
+   "true": " 1975",
+   "distractors": [
+    " 1972",
+    " 1977",
+    " 1979"
+   ],
+   "year": 1975
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Iran hostage crisis began",
+   "prompt": "American embassy personnel were taken hostage in Tehran, Iran, in",
+   "true": " 1979",
+   "distractors": [
+    " 1978",
+    " 1980",
+    " 1981"
+   ],
+   "year": 1979
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Korean Air Lines Flight 007",
+   "prompt": "A Soviet fighter jet shot down Korean Air Lines Flight 007, killing all 269 aboard, in",
+   "true": " 1983",
+   "distractors": [
+    " 1981",
+    " 1985",
+    " 1987"
+   ],
+   "year": 1983
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Reykjavik Summit",
+   "prompt": "US President Reagan and Soviet leader Gorbachev held a summit in Reykjavik, Iceland, in",
+   "true": " 1986",
+   "distractors": [
+    " 1985",
+    " 1987",
+    " 1988"
+   ],
+   "year": 1986
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "INF Treaty signed",
+   "prompt": "The Intermediate-Range Nuclear Forces Treaty was signed by the US and USSR in",
+   "true": " 1987",
+   "distractors": [
+    " 1985",
+    " 1989",
+    " 1991"
+   ],
+   "year": 1987
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Tiananmen Square protests",
+   "prompt": "Chinese communist authorities suppressed pro-democracy demonstrations in Beijing's Tiananmen Square in",
+   "true": " 1989",
+   "distractors": [
+    " 1987",
+    " 1990",
+    " 1991"
+   ],
+   "year": 1989
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Velvet Revolution",
+   "prompt": "Czechoslovakia's non-violent transition from communist rule occurred during the Velvet Revolution in",
+   "true": " 1989",
+   "distractors": [
+    " 1988",
+    " 1990",
+    " 1991"
+   ],
+   "year": 1989
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Romanian Revolution",
+   "prompt": "Romanian dictator Nicolae Ceaușescu was overthrown and executed during the Romanian Revolution in",
+   "true": " 1989",
+   "distractors": [
+    " 1988",
+    " 1990",
+    " 1991"
+   ],
+   "year": 1989
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Lithuania declared independence",
+   "prompt": "Lithuania became the first Soviet republic to declare independence from the USSR in",
+   "true": " 1990",
+   "distractors": [
+    " 1989",
+    " 1991",
+    " 1992"
+   ],
+   "year": 1990
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Warsaw Pact dissolved",
+   "prompt": "The Warsaw Pact military alliance was formally dissolved in",
+   "true": " 1991",
+   "distractors": [
+    " 1989",
+    " 1990",
+    " 1992"
+   ],
+   "year": 1991
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Korean War armistice",
+   "prompt": "The Korean War armistice was signed, establishing a ceasefire, in",
+   "true": " 1953",
+   "distractors": [
+    " 1950",
+    " 1955",
+    " 1960"
+   ],
+   "year": 1953
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "First hydrogen bomb test",
+   "prompt": "The United States conducted the first test of a hydrogen bomb in",
+   "true": " 1952",
+   "distractors": [
+    " 1945",
+    " 1954",
+    " 1961"
+   ],
+   "year": 1952
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Soviet H-bomb test",
+   "prompt": "The Soviet Union tested its first hydrogen bomb in",
+   "true": " 1953",
+   "distractors": [
+    " 1949",
+    " 1955",
+    " 1960"
+   ],
+   "year": 1953
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Yuri Gagarin space flight",
+   "prompt": "Soviet cosmonaut Yuri Gagarin became the first human in space in",
+   "true": " 1961",
+   "distractors": [
+    " 1957",
+    " 1962",
+    " 1963"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Cold War",
+   "label": "Nixon visits China",
+   "prompt": "US President Richard Nixon made his historic visit to the People's Republic of China in",
+   "true": " 1972",
+   "distractors": [
+    " 1971",
+    " 1973",
+    " 1975"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Gulf of Tonkin Resolution",
+   "prompt": "The 1964 congressional resolution that granted President Lyndon Johnson broad authority to use military force in Southeast Asia was the",
+   "true": " Gulf of Tonkin Resolution",
+   "distractors": [
+    " Southeast Asia Resolution",
+    " Vietnam Intervention Act",
+    " Johnson War Powers Act"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Tet Offensive start",
+   "prompt": "The massive coordinated communist assault on cities and military bases throughout South Vietnam in early 1968 is known as the",
+   "true": " Tet Offensive",
+   "distractors": [
+    " Easter Offensive",
+    " Monsoon Offensive",
+    " Saigon Uprising"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "My Lai Massacre",
+   "prompt": "The 1968 killing of hundreds of unarmed South Vietnamese civilians by U.S. Army troops in Quảng Ngãi Province is called the",
+   "true": " My Lai Massacre",
+   "distractors": [
+    " Sơn Mỹ Massacre",
+    " Huế Massacre",
+    " Quảng Ngãi Incident"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Paris Peace Accords",
+   "prompt": "The January 1973 agreement that formally ended direct U.S. military involvement in the Vietnam War was the",
+   "true": " Paris Peace Accords",
+   "distractors": [
+    " Geneva Accords of 1973",
+    " Vietnam Ceasefire Agreement",
+    " Washington Peace Treaty"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Fall of Saigon date",
+   "prompt": "The capital of South Vietnam was captured by North Vietnamese forces, ending the war, in April of the year",
+   "true": " 1975",
+   "distractors": [
+    " 1973",
+    " 1976",
+    " 1974"
+   ],
+   "year": 1975
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Operation Rolling Thunder",
+   "prompt": "The sustained U.S. aerial bombardment campaign against North Vietnam from 1965 to 1968 was named",
+   "true": " Operation Rolling Thunder",
+   "distractors": [
+    " Operation Linebacker",
+    " Operation Flaming Dart",
+    " Operation Arc Light"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Ho Chi Minh Trail",
+   "prompt": "The North Vietnamese logistical network of supply routes running through Laos and Cambodia was called the",
+   "true": " Ho Chi Minh Trail",
+   "distractors": [
+    " Annamite Range Supply Line",
+    " Sihanouk Trail",
+    " Liberation Route"
+   ],
+   "year": 1959
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Agent Orange",
+   "prompt": "The tactical herbicide used extensively by U.S. forces to defoliate jungles, containing toxic dioxin, was known as",
+   "true": " Agent Orange",
+   "distractors": [
+    " Agent Blue",
+    " Napalm",
+    " Dioxin Spray"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Kent State shootings",
+   "prompt": "The killing of four unarmed students by National Guardsmen during an anti-war protest occurred at which Ohio university in 1970?",
+   "true": " Kent State University",
+   "distractors": [
+    " Ohio State University",
+    " University of Akron",
+    " Bowling Green State University"
+   ],
+   "year": 1970
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Vietnamization policy",
+   "prompt": "President Nixon's policy of transferring combat responsibilities to South Vietnamese forces while withdrawing U.S. troops was called",
+   "true": " Vietnamization",
+   "distractors": [
+    " De-Americanization",
+    " Asianization",
+    " Pacification"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Battle of Ia Drang",
+   "prompt": "The first major conventional battle between U.S. and North Vietnamese regular forces took place in November 1965 in the",
+   "true": " Ia Drang Valley",
+   "distractors": [
+    " A Sầu Valley",
+    " Mekong Delta",
+    " Central Highlands"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Pentagon Papers",
+   "prompt": "The secret Defense Department study of U.S. political-military involvement in Vietnam, leaked in 1971, were the",
+   "true": " Pentagon Papers",
+   "distractors": [
+    " Vietnam Archives",
+    " McNamara Papers",
+    " National Security Study"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Nguyen Van Thieu",
+   "prompt": "The South Vietnamese military officer who served as president of South Vietnam from 1967 until 1975 was",
+   "true": " Nguyen Van Thieu",
+   "distractors": [
+    " Ngo Dinh Diem",
+    " Duong Van Minh",
+    " Cao Van Vien"
+   ],
+   "year": 1967
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Viet Cong",
+   "prompt": "The communist guerrilla force in South Vietnam, formally named the National Liberation Front of South Vietnam, was commonly called the",
+   "true": " Viet Cong",
+   "distractors": [
+    " Viet Minh",
+    " Pathet Lao",
+    " Khmer Rouge"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Battle of Khe Sanh",
+   "prompt": "The prolonged 1968 siege of a U.S. Marine Corps base near the DMZ by North Vietnamese forces was the Battle of",
+   "true": " Khe Sanh",
+   "distractors": [
+    " Con Thien",
+    " Dak To",
+    " Hamburger Hill"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Draft lottery reinstated",
+   "prompt": "The U.S. military draft was reinstated using a randomized selection system based on birth dates in the year",
+   "true": " 1969",
+   "distractors": [
+    " 1965",
+    " 1967",
+    " 1971"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Robert McNamara",
+   "prompt": "The U.S. Secretary of Defense who was a primary architect of American escalation in Vietnam under Kennedy and Johnson was",
+   "true": " Robert McNamara",
+   "distractors": [
+    " Dean Rusk",
+    " Clark Clifford",
+    " Melvin Laird"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Operation Ranch Hand",
+   "prompt": "The U.S. Air Force program responsible for aerial spraying of herbicides like Agent Orange in Vietnam was",
+   "true": " Operation Ranch Hand",
+   "distractors": [
+    " Operation Trail Dust",
+    " Operation Hades",
+    " Operation Flyswatter"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Paris Peace Talks location",
+   "prompt": "The lengthy negotiations to end the Vietnam War were held in which European city?",
+   "true": " Paris",
+   "distractors": [
+    " Geneva",
+    " Brussels",
+    " Vienna"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Hue Massacre",
+   "prompt": "During the Tet Offensive, communist forces executed thousands of South Vietnamese civilians and officials in the city of",
+   "true": " Hue",
+   "distractors": [
+    " Da Nang",
+    " Qui Nhon",
+    " Ban Me Thuot"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "ARVN",
+   "prompt": "The army of the Republic of Vietnam (South Vietnam) was commonly abbreviated as",
+   "true": " ARVN",
+   "distractors": [
+    " RVNAF",
+    " SVAF",
+    " VNRA"
+   ],
+   "year": 1955
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Daniel Ellsberg",
+   "prompt": "The former military analyst who leaked the Pentagon Papers to the press was",
+   "true": " Daniel Ellsberg",
+   "distractors": [
+    " Neil Sheehan",
+    " Seymour Hersh",
+    " Anthony Russo"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Battle of Hamburger Hill",
+   "prompt": "The ten-day battle for Hill 937 in the A Shau Valley, notable for its high casualties and subsequent abandonment, is called the Battle of",
+   "true": " Hamburger Hill",
+   "distractors": [
+    " Pork Chop Hill",
+    " Mutter's Ridge",
+    " Firebase Ripcord"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Geneva Accords year",
+   "prompt": "The international agreements that temporarily divided Vietnam at the 17th parallel were signed in",
+   "true": " 1954",
+   "distractors": [
+    " 1945",
+    " 1955",
+    " 1956"
+   ],
+   "year": 1954
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Nixon's Silent Majority",
+   "prompt": "In a 1969 speech, President Nixon appealed for support from the non-protesting 'great' group he called the",
+   "true": " silent majority",
+   "distractors": [
+    " moral majority",
+    " forgotten Americans",
+    " middle Americans"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Operation Cedar Falls",
+   "prompt": "A major U.S. search-and-destroy operation in the 'Iron Triangle' region northwest of Saigon in 1967 was",
+   "true": " Operation Cedar Falls",
+   "distractors": [
+    " Operation Junction City",
+    " Operation Attleboro",
+    " Operation Masher"
+   ],
+   "year": 1967
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Vietnam Veterans Memorial designer",
+   "prompt": "The Vietnam Veterans Memorial wall in Washington, D.C., was designed by architect",
+   "true": " Maya Lin",
+   "distractors": [
+    " Frederick Hart",
+    " Robert Venturi",
+    " I. M. Pei"
+   ],
+   "year": 1981
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Last US troops depart",
+   "prompt": "The last U.S. combat troops left South Vietnam in March of",
+   "true": " 1973",
+   "distractors": [
+    " 1972",
+    " 1974",
+    " 1975"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Phoenix Program",
+   "prompt": "The controversial U.S.-South Vietnamese intelligence and assassination program targeting Viet Cong infrastructure was the",
+   "true": " Phoenix Program",
+   "distractors": [
+    " Condor Program",
+    " Blackhawk Program",
+    " Pacification Program"
+   ],
+   "year": 1967
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Battle of An Loc",
+   "prompt": "A major battle during the 1972 Easter Offensive where South Vietnamese forces, with U.S. air support, defended a provincial capital north of Saigon was the Battle of",
+   "true": " An Loc",
+   "distractors": [
+    " Xuan Loc",
+    " Bien Hoa",
+    " Tay Ninh"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Diem coup",
+   "prompt": "South Vietnamese President Ngo Dinh Diem was overthrown and killed in a U.S.-backed military coup in November",
+   "true": " 1963",
+   "distractors": [
+    " 1961",
+    " 1965",
+    " 1967"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Gulf of Tonkin incident",
+   "prompt": "The alleged naval engagements between U.S. destroyers and North Vietnamese torpedo boats that led to congressional escalation occurred in the",
+   "true": " Gulf of Tonkin",
+   "distractors": [
+    " Gulf of Thailand",
+    " South China Sea",
+    " Mekong Delta"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Post-war reunification date",
+   "prompt": "North and South Vietnam were officially reunified as the Socialist Republic of Vietnam in",
+   "true": " 1976",
+   "distractors": [
+    " 1975",
+    " 1977",
+    " 1978"
+   ],
+   "year": 1976
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "William Westmoreland",
+   "prompt": "The U.S. Army general who commanded American military operations in Vietnam from 1964 to 1968 was",
+   "true": " William Westmoreland",
+   "distractors": [
+    " Creighton Abrams",
+    " Paul Harkins",
+    " Maxwell Taylor"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Napalm",
+   "prompt": "The jellied gasoline incendiary weapon famously used by U.S. forces for its devastating fire effects is",
+   "true": " napalm",
+   "distractors": [
+    " white phosphorus",
+    " thermite",
+    " Agent Orange"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Brown v Board year",
+   "prompt": "In what year did the U.S. Supreme Court rule in Brown v. Board of Education that racial segregation in public schools was unconstitutional?",
+   "true": " 1954",
+   "distractors": [
+    " 1948",
+    " 1952",
+    " 1956"
+   ],
+   "year": 1954
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Little Rock Nine",
+   "prompt": "Which Arkansas high school required federal troops to enforce desegregation in 1957?",
+   "true": " Central High School",
+   "distractors": [
+    " Little Rock High School",
+    " Arkansas High School",
+    " Westside High School"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Montgomery Bus Boycott start",
+   "prompt": "The Montgomery bus boycott began after the arrest of which African American woman for refusing to give up her seat?",
+   "true": " Rosa Parks",
+   "distractors": [
+    " Claudette Colvin",
+    " Jo Ann Robinson",
+    " Mary Louise Smith"
+   ],
+   "year": 1955
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "March on Washington year",
+   "prompt": "In what year did Martin Luther King Jr. deliver his 'I Have a Dream' speech at the March on Washington?",
+   "true": " 1963",
+   "distractors": [
+    " 1960",
+    " 1962",
+    " 1965"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Selma to Montgomery march",
+   "prompt": "The voting rights march from Selma to Montgomery, Alabama, in March 1965 is often called",
+   "true": " Bloody Sunday",
+   "distractors": [
+    " Freedom Sunday",
+    " March Sunday",
+    " Selma Sunday"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Civil Rights Act year",
+   "prompt": "The Civil Rights Act that outlawed discrimination based on race, color, religion, sex, or national origin was signed into law in",
+   "true": " 1964",
+   "distractors": [
+    " 1963",
+    " 1965",
+    " 1968"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Voting Rights Act year",
+   "prompt": "The Voting Rights Act, which prohibited racial discrimination in voting, was signed into law in",
+   "true": " 1965",
+   "distractors": [
+    " 1964",
+    " 1966",
+    " 1968"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Greensboro sit-ins",
+   "prompt": "The 1960 sit-ins at a segregated lunch counter began in which North Carolina city?",
+   "true": " Greensboro",
+   "distractors": [
+    " Charlotte",
+    " Raleigh",
+    " Durham"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Freedom Rides start",
+   "prompt": "In what year did the Congress of Racial Equality (CORE) begin the Freedom Rides to challenge segregation in interstate bus terminals?",
+   "true": " 1961",
+   "distractors": [
+    " 1960",
+    " 1962",
+    " 1963"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Birmingham campaign",
+   "prompt": "Martin Luther King Jr. wrote his 'Letter from Birmingham Jail' during protests in which year?",
+   "true": " 1963",
+   "distractors": [
+    " 1962",
+    " 1964",
+    " 1965"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Medgar Evers assassination",
+   "prompt": "The NAACP field secretary assassinated outside his home in Jackson, Mississippi, in June 1963 was",
+   "true": " Medgar Evers",
+   "distractors": [
+    " James Chaney",
+    " Andrew Goodman",
+    " Michael Schwerner"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "24th Amendment",
+   "prompt": "Which constitutional amendment, ratified in 1964, abolished the poll tax in federal elections?",
+   "true": " the 24th Amendment",
+   "distractors": [
+    " the 23rd Amendment",
+    " the 25th Amendment",
+    " the 26th Amendment"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Executive Order 9981",
+   "prompt": "Which U.S. president issued Executive Order 9981 to desegregate the armed forces?",
+   "true": " Harry S. Truman",
+   "distractors": [
+    " Dwight D. Eisenhower",
+    " Franklin D. Roosevelt",
+    " John F. Kennedy"
+   ],
+   "year": 1948
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Loving v Virginia year",
+   "prompt": "In what year did the Supreme Court rule in Loving v. Virginia that laws banning interracial marriage were unconstitutional?",
+   "true": " 1967",
+   "distractors": [
+    " 1965",
+    " 1966",
+    " 1968"
+   ],
+   "year": 1967
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "March Against Fear",
+   "prompt": "James Meredith began a solo 'March Against Fear' in Mississippi in which year?",
+   "true": " 1966",
+   "distractors": [
+    " 1965",
+    " 1967",
+    " 1968"
+   ],
+   "year": 1966
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "SCLC founding year",
+   "prompt": "Martin Luther King Jr. helped found the Southern Christian Leadership Conference (SCLC) in which year?",
+   "true": " 1957",
+   "distractors": [
+    " 1955",
+    " 1956",
+    " 1958"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "University of Mississippi integration",
+   "prompt": "James Meredith's enrollment at the University of Mississippi in 1962 required intervention by",
+   "true": " federal marshals",
+   "distractors": [
+    " the National Guard",
+    " state police",
+    " local deputies"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Birmingham church bombing",
+   "prompt": "The 16th Street Baptist Church in Birmingham, Alabama, was bombed by white supremacists in",
+   "true": " 1963",
+   "distractors": [
+    " 1962",
+    " 1964",
+    " 1965"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Watts riots year",
+   "prompt": "Large-scale riots in the Watts neighborhood of Los Angeles occurred in",
+   "true": " 1965",
+   "distractors": [
+    " 1964",
+    " 1966",
+    " 1967"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Chicago Freedom Movement",
+   "prompt": "Martin Luther King Jr. led open housing marches in which northern city in 1966?",
+   "true": " Chicago",
+   "distractors": [
+    " Detroit",
+    " Cleveland",
+    " New York"
+   ],
+   "year": 1966
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Black Panther founding year",
+   "prompt": "The Black Panther Party was founded in Oakland, California, in",
+   "true": " 1966",
+   "distractors": [
+    " 1965",
+    " 1967",
+    " 1968"
+   ],
+   "year": 1966
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Detroit riot year",
+   "prompt": "A major urban uprising in Detroit, one of the deadliest of the era, occurred in",
+   "true": " 1967",
+   "distractors": [
+    " 1965",
+    " 1966",
+    " 1968"
+   ],
+   "year": 1967
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Fair Housing Act year",
+   "prompt": "The Civil Rights Act of 1968, which prohibited discrimination in housing, is commonly called the",
+   "true": " Fair Housing Act",
+   "distractors": [
+    " Equal Housing Act",
+    " Open Housing Act",
+    " Housing Rights Act"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "MLK assassination year",
+   "prompt": "Martin Luther King Jr. was assassinated in Memphis, Tennessee, in",
+   "true": " 1968",
+   "distractors": [
+    " 1967",
+    " 1969",
+    " 1970"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Freedom Summer year",
+   "prompt": "The voter registration drive in Mississippi known as Freedom Summer took place in",
+   "true": " 1964",
+   "distractors": [
+    " 1963",
+    " 1965",
+    " 1966"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "SNCC founding year",
+   "prompt": "The Student Nonviolent Coordinating Committee (SNCC) was founded at Shaw University in",
+   "true": " 1960",
+   "distractors": [
+    " 1959",
+    " 1961",
+    " 1962"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Birmingham Children's Crusade",
+   "prompt": "In May 1963, Birmingham police used fire hoses and police dogs against young protesters in an event called the",
+   "true": " Children's Crusade",
+   "distractors": [
+    " Youth March",
+    " Kids' Campaign",
+    " Schoolchildren's Protest"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "March Against Fear shooting",
+   "prompt": "James Meredith was shot and wounded on the second day of his 1966 March Against Fear. The shooting occurred near which Mississippi town?",
+   "true": " Hernando",
+   "distractors": [
+    " Oxford",
+    " Batesville",
+    " Clarksdale"
+   ],
+   "year": 1966
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Civil Rights Act signing",
+   "prompt": "President Lyndon B. Johnson signed the Civil Rights Act of 1964 using how many pens?",
+   "true": " 72 pens",
+   "distractors": [
+    " 50 pens",
+    " 100 pens",
+    " 1 pen"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Voting Rights Act signing location",
+   "prompt": "Lyndon B. Johnson signed the Voting Rights Act of 1965 in the",
+   "true": " Capitol Rotunda",
+   "distractors": [
+    " Oval Office",
+    " Rose Garden",
+    " White House East Room"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Selma bridge name",
+   "prompt": "The Edmund Pettus Bridge in Selma, Alabama, became famous after marchers were attacked there on",
+   "true": " Bloody Sunday",
+   "distractors": [
+    " Black Tuesday",
+    " Freedom Friday",
+    " March Monday"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Heart of Atlanta Motel v US",
+   "prompt": "The Supreme Court upheld the Civil Rights Act of 1964 in a case involving discrimination by which Atlanta business?",
+   "true": " Heart of Atlanta Motel",
+   "distractors": [
+    " Atlanta Diner",
+    " Georgia Hotel",
+    " Southern Inn"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Meredith enrollment year",
+   "prompt": "James Meredith became the first African American student to enroll at the University of Mississippi in",
+   "true": " 1962",
+   "distractors": [
+    " 1961",
+    " 1963",
+    " 1964"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Birmingham jail letter date",
+   "prompt": "Martin Luther King Jr. wrote his 'Letter from Birmingham Jail' in April",
+   "true": " 1963",
+   "distractors": [
+    " 1962",
+    " 1964",
+    " 1965"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US civil rights",
+   "label": "Poor People's Campaign",
+   "prompt": "The Poor People's Campaign, a multiracial effort for economic justice, began after Martin Luther King Jr.'s death in",
+   "true": " 1968",
+   "distractors": [
+    " 1967",
+    " 1969",
+    " 1970"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "First PM of Ghana",
+   "prompt": "The first prime minister of the newly independent Gold Coast, which became Ghana, was",
+   "true": " Kwame Nkrumah",
+   "distractors": [
+    " Jomo Kenyatta",
+    " Julius Nyerere",
+    " Nnamdi Azikiwe"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "Algerian independence year",
+   "prompt": "After a long and brutal war, France granted independence to Algeria in",
+   "true": " 1962",
+   "distractors": [
+    " —1954",
+    " —1960",
+    " —1965"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "First PM of Israel",
+   "prompt": "The first prime minister of the State of Israel, declared in 1948, was",
+   "true": " David Ben-Gurion",
+   "distractors": [
+    " Golda Meir",
+    " Menachem Begin",
+    " Chaim Weizmann"
+   ],
+   "year": 1948
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "Congo independence leader",
+   "prompt": "The first prime minister of the newly independent Republic of the Congo (Leopoldville) in 1960 was",
+   "true": " Patrice Lumumba",
+   "distractors": [
+    " Mobutu Sese Seko",
+    " Joseph Kasa-Vubu",
+    " Laurent-Désiré Kabila"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "Malayan independence year",
+   "prompt": "The Federation of Malaya achieved independence from the United Kingdom in",
+   "true": " 1957",
+   "distractors": [
+    " —1948",
+    " —1955",
+    " —1963"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "First President of Kenya",
+   "prompt": "The first president of the Republic of Kenya after independence was",
+   "true": " Jomo Kenyatta",
+   "distractors": [
+    " Daniel arap Moi",
+    " Oginga Odinga",
+    " Tom Mboya"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "Cyprus independence treaties",
+   "prompt": "The agreements that established the independent Republic of Cyprus in 1960 were the Zurich and",
+   "true": " London Agreements",
+   "distractors": [
+    " Paris Agreements",
+    " Geneva Agreements",
+    " Berlin Agreements"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "First PM of Jamaica",
+   "prompt": "The first prime minister of Jamaica upon its independence from Britain in 1962 was",
+   "true": " Alexander Bustamante",
+   "distractors": [
+    " Norman Manley",
+    " Michael Manley",
+    " Edward Seaga"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "Bangladesh founding leader",
+   "prompt": "The first prime minister of independent Bangladesh after its 1971 war of liberation was",
+   "true": " Sheikh Mujibur Rahman",
+   "distractors": [
+    " Ziaur Rahman",
+    " Khaleda Zia",
+    " Hussain Muhammad Ershad"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "Mozambique independence year",
+   "prompt": "After the Carnation Revolution in Portugal, Mozambique gained its independence in",
+   "true": " 1975",
+   "distractors": [
+    " —1961",
+    " —1970",
+    " —1977"
+   ],
+   "year": 1975
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "First President of Zambia",
+   "prompt": "The first president of the newly independent Republic of Zambia (formerly Northern Rhodesia) was",
+   "true": " Kenneth Kaunda",
+   "distractors": [
+    " Frederick Chiluba",
+    " Levy Mwanawasa",
+    " Harry Nkumbula"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "Singapore separation year",
+   "prompt": "Singapore was expelled from Malaysia and became a fully independent sovereign state in",
+   "true": " 1965",
+   "distractors": [
+    " —1963",
+    " —1967",
+    " —1959"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "decolonisation",
+   "label": "First PM of Trinidad and Tobago",
+   "prompt": "The first prime minister of Trinidad and Tobago upon its independence in 1962 was",
+   "true": " Eric Williams",
+   "distractors": [
+    " A. N. R. Robinson",
+    " Patrick Manning",
+    " Basdeo Panday"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first satellite",
+   "prompt": "The first artificial object placed into Earth orbit was launched by the Soviet Union in 1957 and was named",
+   "true": " Sputnik 1",
+   "distractors": [
+    " Explorer 1",
+    " Vanguard 1",
+    " Luna 1"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first human in space",
+   "prompt": "The first human to travel into outer space and orbit Earth was the Soviet cosmonaut",
+   "true": " Yuri Gagarin",
+   "distractors": [
+    " Alan Shepard",
+    " John Glenn",
+    " Valentina Tereshkova"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first moon landing",
+   "prompt": "The first crewed spacecraft to land on the Moon was",
+   "true": " Apollo 11",
+   "distractors": [
+    " Apollo 8",
+    " Luna 2",
+    " Surveyor 1"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "invention of transistor",
+   "prompt": "The first working point-contact transistor was demonstrated at Bell Labs in 1947 by the team of",
+   "true": " John Bardeen, Walter Brattain, and William Shockley",
+   "distractors": [
+    " Robert Noyce and Gordon Moore",
+    " Jack Kilby and Robert Noyce",
+    " Claude Shannon and Alan Turing"
+   ],
+   "year": 1947
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "ARPANET first message",
+   "prompt": "The first message sent over the ARPANET, the precursor to the internet, in 1969 was the word",
+   "true": " LOGIN",
+   "distractors": [
+    " HELLO",
+    " TEST",
+    " START"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first space station",
+   "prompt": "The world's first space station, launched by the Soviet Union in 1971, was",
+   "true": " Salyut 1",
+   "distractors": [
+    " Skylab",
+    " Mir",
+    " Tiangong-1"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first programmable computer",
+   "prompt": "The first general-purpose electronic digital computer, completed in 1946 at the University of Pennsylvania, was called",
+   "true": " ENIAC",
+   "distractors": [
+    " Colossus",
+    " UNIVAC I",
+    " IBM 701"
+   ],
+   "year": 1946
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first woman in space",
+   "prompt": "The first woman to travel into space was the Soviet cosmonaut",
+   "true": " Valentina Tereshkova",
+   "distractors": [
+    " Sally Ride",
+    " Svetlana Savitskaya",
+    " Judith Resnik"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first Mars rover",
+   "prompt": "The first rover to successfully operate on the surface of Mars was",
+   "true": " Sojourner",
+   "distractors": [
+    " Spirit",
+    " Opportunity",
+    " Curiosity"
+   ],
+   "year": 1997
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first commercial microprocessor",
+   "prompt": "The first commercially available microprocessor, introduced by Intel in 1971, was the",
+   "true": " Intel 4004",
+   "distractors": [
+    " Intel 8008",
+    " MOS Technology 6502",
+    " Zilog Z80"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first spacewalk",
+   "prompt": "The first human to conduct a spacewalk (extravehicular activity) was the Soviet cosmonaut",
+   "true": " Alexei Leonov",
+   "distractors": [
+    " Edward White",
+    " Yuri Gagarin",
+    " Vladimir Komarov"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first graphical web browser",
+   "prompt": "The first widely used web browser with a graphical user interface, released in 1993, was",
+   "true": " Mosaic",
+   "distractors": [
+    " Netscape Navigator",
+    " Internet Explorer",
+    " Lynx"
+   ],
+   "year": 1993
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "space & computing",
+   "label": "first geostationary satellite",
+   "prompt": "The first communications satellite placed into geostationary orbit, launched in 1963, was",
+   "true": " Syncom 3",
+   "distractors": [
+    " Telstar 1",
+    " Early Bird",
+    " Sputnik 1"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "DNA structure",
+   "prompt": "The molecular structure providing the mechanism for genetic inheritance, described in 1953 as a double helix, is",
+   "true": " deoxyribonucleic acid (DNA)",
+   "distractors": [
+    " ribonucleic acid (RNA)",
+    " ribosome",
+    " mitochondria"
+   ],
+   "year": 1953
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "Triplet genetic code",
+   "prompt": "The experiment by Crick, Brenner, and others in 1961 demonstrated that the genetic code for amino acids is read in groups of",
+   "true": " three nucleotides",
+   "distractors": [
+    " four nucleotides",
+    " two nucleotides",
+    " five nucleotides"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "PCR invention",
+   "prompt": "The technique for rapidly making millions of copies of a specific DNA segment, invented in 1983, is known as",
+   "true": " polymerase chain reaction (PCR)",
+   "distractors": [
+    " gel electrophoresis",
+    " Southern blotting",
+    " DNA sequencing"
+   ],
+   "year": 1983
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "First antibiotic in clinical use",
+   "prompt": "The first antibiotic to be used systematically in human patients, deployed successfully in 1942, was",
+   "true": " penicillin",
+   "distractors": [
+    " sulfanilamide",
+    " salvarsan",
+    " streptomycin"
+   ],
+   "year": 1942
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "Central Dogma",
+   "prompt": "The principle formulated by Francis Crick stating that genetic information flows from DNA to RNA to protein is called the",
+   "true": " central dogma of molecular biology",
+   "distractors": [
+    " genetic imperative",
+    " transcription doctrine",
+    " protein synthesis axiom"
+   ],
+   "year": 1958
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "Watson and Crick",
+   "prompt": "The two scientists who proposed the double helix model of DNA in a 1953 Nature paper were",
+   "true": " James Watson and Francis Crick",
+   "distractors": [
+    " Rosalind Franklin and Maurice Wilkins",
+    " Linus Pauling and Robert Corey",
+    " Erwin Chargaff and Oswald Avery"
+   ],
+   "year": 1953
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "First human in space",
+   "prompt": "The first human to travel into outer space, completing an orbital flight in 1961, was",
+   "true": " Yuri Gagarin",
+   "distractors": [
+    " John Glenn",
+    " Neil Armstrong",
+    " Alan Shepard"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "Insulin structure",
+   "prompt": "Frederick Sanger received a Nobel Prize for determining the complete amino acid sequence of this protein, a first for any protein, in 1955.",
+   "true": " insulin",
+   "distractors": [
+    " hemoglobin",
+    " collagen",
+    " myoglobin"
+   ],
+   "year": 1955
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "science & medicine",
+   "label": "Mosaic vaccine",
+   "prompt": "The live, attenuated oral vaccine for polio that became widely used globally in the 1960s was developed by",
+   "true": " Albert Sabin",
+   "distractors": [
+    " Thomas Francis Jr.",
+    " John Enders",
+    " Max Theiler"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Bretton Woods institutions",
+   "prompt": "The two major international financial institutions created by the 1944 Bretton Woods Conference were the International Monetary Fund and the",
+   "true": " International Bank for Reconstruction and Development",
+   "distractors": [
+    " Bank for International Settlements",
+    " European Bank for Reconstruction and Development",
+    " World Trade Organization"
+   ],
+   "year": 1944
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "First EU enlargement",
+   "prompt": "The first enlargement of the European Communities beyond the six founding members occurred in 1973 when Denmark, Ireland, and",
+   "true": " the United Kingdom",
+   "distractors": [
+    " Norway",
+    " Greece",
+    " Spain"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Euro introduction year",
+   "prompt": "The euro was introduced as an accounting currency for electronic payments in the year",
+   "true": " 1999",
+   "distractors": [
+    " 1995",
+    " 2002",
+    " 2000"
+   ],
+   "year": 1999
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "1973 oil embargo",
+   "prompt": "The 1973 oil crisis was triggered when OPEC proclaimed an oil embargo against nations that had supported",
+   "true": " Israel in the Yom Kippur War",
+   "distractors": [
+    " the United States in the Vietnam War",
+    " the United Kingdom in the Falklands War",
+    " Iraq in the Iran-Iraq War"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Marshall Plan duration",
+   "prompt": "The European Recovery Program, commonly known as the Marshall Plan, was officially in effect from",
+   "true": " 1948 to 1951",
+   "distractors": [
+    " 1947 to 1950",
+    " 1949 to 1952",
+    " 1945 to 1948"
+   ],
+   "year": 1948
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "GATT founding",
+   "prompt": "The General Agreement on Tariffs and Trade, a precursor to the WTO, was first signed in",
+   "true": " 1947",
+   "distractors": [
+    " 1945",
+    " 1948",
+    " 1951"
+   ],
+   "year": 1947
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Schuman Declaration",
+   "prompt": "The proposal by French foreign minister Robert Schuman to pool French and German coal and steel production, leading to the European Coal and Steel Community, was announced in",
+   "true": " 1950",
+   "distractors": [
+    " 1948",
+    " 1951",
+    " 1952"
+   ],
+   "year": 1950
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Treaty of Rome",
+   "prompt": "The treaty that established the European Economic Community, signed by six nations in 1957, is commonly called the",
+   "true": " Treaty of Rome",
+   "distractors": [
+    " Treaty of Paris",
+    " Treaty of Maastricht",
+    " Treaty of Lisbon"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Asian financial crisis",
+   "prompt": "A major financial crisis that began with the collapse of the Thai baht in July of the year",
+   "true": " 1997",
+   "distractors": [
+    " 1995",
+    " 1998",
+    " III 2001"
+   ],
+   "year": 1997
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Plaza Accord",
+   "prompt": "The 1985 agreement among the G5 nations to depreciate the US dollar in relation to the Japanese yen and German mark is known as the",
+   "true": " Plaza Accord",
+   "distractors": [
+    " Louvre Accord",
+    " Baker Plan",
+    " Smithsonian Agreement"
+   ],
+   "year": 1985
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "Euro physical cash",
+   "prompt": "Euro banknotes and coins were introduced into physical circulation, replacing national currencies in many EU member states, in the year",
+   "true": " 2002",
+   "distractors": [
+    " 1999",
+    " 2000",
+    " 2001"
+   ],
+   "year": 2002
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "economics & institutions",
+   "label": "WTO establishment",
+   "prompt": "The World Trade Organization, replacing the GATT system, officially began operations on January 1 of the year",
+   "true": " 1995",
+   "distractors": [
+    " 1993",
+    " 1994",
+    " 1996"
+   ],
+   "year": 1995
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "first televised presidential debate",
+   "prompt": "The first televised U.S. presidential debate, which is widely believed to have swayed the election due to the candidates' on-screen presence, was between Richard Nixon and",
+   "true": " John F. Kennedy",
+   "distractors": [
+    " Dwight D. Eisenhower",
+    " Hubert Humphrey",
+    " Lyndon B. Johnson"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Beatles on Ed Sullivan",
+   "prompt": "The British band that first achieved massive fame in the United States after appearing on 'The Ed Sullivan Show' in February 1964 was",
+   "true": " The Beatles",
+   "distractors": [
+    " The Rolling Stones",
+    " The Who",
+    " The Kinks"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Apollo 11 moon landing",
+   "prompt": "The first humans to land on the moon were the crew of Apollo 11, astronauts Neil Armstrong and",
+   "true": " Buzz Aldrin",
+   "distractors": [
+    " Michael Collins",
+    " John Glenn",
+    " Alan Shepard"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Star Wars release",
+   "prompt": "The groundbreaking space opera film directed by George Lucas that became a massive cultural phenomenon upon its 1977 release was titled",
+   "true": " Star Wars",
+   "distractors": [
+    " 2001: A Space Odyssey",
+    " Battlestar Galactica",
+    " The Empire Strikes Back"
+   ],
+   "year": 1977
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Live Aid concert",
+   "prompt": "The dual-venue charity rock concert held in London and Philadelphia to raise funds for famine relief in Ethiopia was called",
+   "true": " Live Aid",
+   "distractors": [
+    " Band Aid",
+    " Farm Aid",
+    " Comic Relief"
+   ],
+   "year": 1985
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "fall of Berlin Wall",
+   "prompt": "The symbolic event marking the end of the Cold War division of Europe, where crowds began physically dismantling the barrier in November 1989, was the fall of the",
+   "true": " Berlin Wall",
+   "distractors": [
+    " Iron Curtain",
+    " Brandenburg Gate",
+    " Checkpoint Charlie"
+   ],
+   "year": 1989
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Seinfeld finale",
+   "prompt": "The sitcom famously 'about nothing,' which aired its highly watched finale in 1998 after nine seasons, was",
+   "true": " Seinfeld",
+   "distractors": [
+    " Friends",
+    " Cheers",
+    " Frasier"
+   ],
+   "year": 1998
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Woodstock festival",
+   "prompt": "The iconic music festival held on a dairy farm in upstate New York in August 1969, symbolizing the counterculture movement, was the",
+   "true": " Woodstock Festival",
+   "distractors": [
+    " Monterey Pop Festival",
+    " Altamont Free Concert",
+    " Isle of Wight Festival"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Roe v. Wade decision",
+   "prompt": "The landmark U.S. Supreme Court case that established a constitutional right to abortion was",
+   "true": " Roe v. Wade",
+   "distractors": [
+    " Griswold v. Connecticut",
+    " Planned Parenthood v. Casey",
+    " Brown v. Board of Education"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "MTV launch",
+   "prompt": "The cable television channel that revolutionized the music industry by broadcasting music videos 24 hours a day launched in 1981 under the name",
+   "true": " MTV",
+   "distractors": [
+    " VH1",
+    " The Box",
+    " MuchMusic"
+   ],
+   "year": 1981
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "O.J. Simpson chase",
+   "prompt": "The nationally televised low-speed police chase of a white Ford Bronco, involving former football star O.J. Simpson, occurred in",
+   "true": " 1994",
+   "distractors": [
+    " 1992",
+    " 1995",
+    " 1993"
+   ],
+   "year": 1994
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Harry Potter book release",
+   "prompt": "The first novel in the fantasy series about a young wizard, written by J.K. Rowling, was published in the United Kingdom in 1997 under the title",
+   "true": " Harry Potter and the Philosopher's Stone",
+   "distractors": [
+    " Harry Potter and the Chamber of Secrets",
+    " The Hobbit",
+    " The Lion, the Witch and the Wardrobe"
+   ],
+   "year": 1997
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "culture & society",
+   "label": "Napster shutdown",
+   "prompt": "The pioneering peer-to-peer file-sharing service, which was forced to shut down its free network after lawsuits by the music industry, was",
+   "true": " Napster",
+   "distractors": [
+    " LimeWire",
+    " Kazaa",
+    " BitTorrent"
+   ],
+   "year": 2001
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Chernobyl disaster",
+   "prompt": "The catastrophic nuclear accident at a power plant in the Ukrainian SSR occurred in",
+   "true": " 1986",
+   "distractors": [
+    " , 1979",
+    " 1988",
+    " 1975"
+   ],
+   "year": 1986
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Rwandan Genocide",
+   "prompt": "The mass killing of Tutsi and moderate Hutu people in this African country began in",
+   "true": " Rwanda",
+   "distractors": [
+    " Burundi",
+    " Uganda",
+    " Kenya"
+   ],
+   "year": 1994
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Falklands War",
+   "prompt": "In 1982, Argentina invaded and Britain fought to reclaim the disputed islands known as the",
+   "true": " Falkland Islands",
+   "distractors": [
+    " Malvinas Islands",
+    " Shetland Islands",
+    " Channel Islands"
+   ],
+   "year": 1982
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Bhopal gas tragedy",
+   "prompt": "The industrial disaster involving a methyl isocyanate leak at a pesticide plant occurred in the Indian city of",
+   "true": " Bhopal",
+   "distractors": [
+    " Ahmedabad",
+    " Kanpur",
+    " Jaipur"
+   ],
+   "year": 1984
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Yugoslav Wars",
+   "prompt": "The series of ethnic conflicts and wars of independence that led to the breakup of Yugoslavia began in",
+   "true": " 1991",
+   "distractors": [
+    " 1989",
+    " 1993",
+    " — 1995"
+   ],
+   "year": 1991
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Iran-Iraq War start",
+   "prompt": "The prolonged conflict initiated by Iraq's invasion of its eastern neighbor began in",
+   "true": " 1980",
+   "distractors": [
+    " 1979",
+    " 1981",
+    " 1982"
+   ],
+   "year": 1980
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Srebrenica massacre",
+   "prompt": "The genocidal killing of more than 8,000 Bosniak men and boys by Bosnian Serb forces occurred near the town of",
+   "true": " Srebrenica",
+   "distractors": [
+    " Sarajevo",
+    " Mostar",
+    " Banja Luka"
+   ],
+   "year": 1995
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Three Mile Island accident",
+   "prompt": "The partial nuclear meltdown at a reactor in Pennsylvania, USA, happened in",
+   "true": " 1979",
+   "distractors": [
+    " 1978",
+    " 1980",
+    " 1982"
+   ],
+   "year": 1979
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Gulf War start",
+   "prompt": "The war triggered by Iraq's invasion and annexation of Kuwait began in",
+   "true": " 1990",
+   "distractors": [
+    " 1989",
+    " 1991",
+    " 1992"
+   ],
+   "year": 1990
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Bangladesh Liberation War",
+   "prompt": "The armed conflict that led to the independence of Bangladesh from Pakistan was fought in",
+   "true": " 1971",
+   "distractors": [
+    " 1970",
+    " 1972",
+    " 1969"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Korean War start",
+   "prompt": "The war that began with North Korea's invasion of the South started in",
+   "true": " 1950",
+   "distractors": [
+    " 1949",
+    " 1951",
+    " 1948"
+   ],
+   "year": 1950
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Fukushima disaster",
+   "prompt": "The nuclear disaster in Japan, triggered by a massive earthquake and tsunami, occurred in",
+   "true": " 2011",
+   "distractors": [
+    " 2010",
+    " 2012",
+    " 2009"
+   ],
+   "year": 2011
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Rwandan Genocide year",
+   "prompt": "The 100-day period of mass killings in Rwanda primarily occurred in",
+   "true": " 1994",
+   "distractors": [
+    " 1993",
+    " 1995",
+    " 1992"
+   ],
+   "year": 1994
+  },
+  {
+   "era": "post",
+   "level": "broad",
+   "topic": "disasters & conflicts",
+   "label": "Soviet-Afghan War start",
+   "prompt": "The Soviet Union's military intervention in Afghanistan began in",
+   "true": " 1979",
+   "distractors": [
+    " 1978",
+    " 1980",
+    " 1981"
+   ],
+   "year": 1979
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Treaty of Versailles signing year",
+   "prompt": "The peace treaty that formally ended the state of war between Germany and the Allied Powers after World War I was signed in",
+   "true": " 1919",
+   "distractors": [
+    " 1918",
+    " 1920",
+    " 1921"
+   ],
+   "year": 1919
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First transatlantic radio signal",
+   "prompt": "The first radio signal to be transmitted across the Atlantic Ocean was successfully sent by Guglielmo Marconi in",
+   "true": " 1901",
+   "distractors": [
+    " 1899",
+    " 1903",
+    " 1905"
+   ],
+   "year": 1901
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Sinking of the Lusitania",
+   "prompt": "The British ocean liner whose sinking by a German U-boat outraged public opinion and contributed to the U.S. entry into World War I went down in",
+   "true": " 1915",
+   "distractors": [
+    " 1914",
+    " 1916",
+    " 1917"
+   ],
+   "year": 1915
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First powered flight",
+   "prompt": "The Wright brothers achieved the first sustained, controlled flight of a powered, heavier-than-air aircraft at Kitty Hawk in",
+   "true": " 1903",
+   "distractors": [
+    " 1899",
+    " 1901",
+    " 1905"
+   ],
+   "year": 1903
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Assassination of Archduke Franz Ferdinand",
+   "prompt": "The assassination of the Austro-Hungarian heir, which triggered the July Crisis and the start of World War I, occurred in",
+   "true": " 1914",
+   "distractors": [
+    " 1913",
+    " 1915",
+    " 1916"
+   ],
+   "year": 1914
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Bolshevik Revolution",
+   "prompt": "The October Revolution, in which the Bolsheviks seized power from the Russian Provisional Government, took place in",
+   "true": " 1917",
+   "distractors": [
+    " 1916",
+    " 1918",
+    " 1919"
+   ],
+   "year": 1917
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Completion of the Suez Canal",
+   "prompt": "The artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea, was completed and opened in",
+   "true": " 1869",
+   "distractors": [
+    " 1859",
+    " 1879",
+    " 1889"
+   ],
+   "year": 1869
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of Waterloo",
+   "prompt": "The decisive battle in which Napoleon Bonaparte was defeated by the armies of the Seventh Coalition took place in",
+   "true": " 1815",
+   "distractors": [
+    " 1812",
+    " 1814",
+    " 1816"
+   ],
+   "year": 1815
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Emancipation Proclamation",
+   "prompt": "President Abraham Lincoln's executive order that declared the freedom of all enslaved people in the Confederate states was issued in",
+   "true": " 1863",
+   "distractors": [
+    " 1861",
+    " 1862",
+    " 1865"
+   ],
+   "year": 1863
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First modern Olympic Games",
+   "prompt": "The first international Olympic Games of the modern era were held in Athens in",
+   "true": " 1896",
+   "distractors": [
+    " II 1894",
+    " 1900",
+    " 1904"
+   ],
+   "year": 1896
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "California Gold Rush start",
+   "prompt": "The discovery of gold at Sutter's Mill, which triggered a massive migration to California, occurred in",
+   "true": " 1848",
+   "distractors": [
+    " 1849",
+    " 1850",
+    " 1846"
+   ],
+   "year": 1848
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Publication of 'On the Origin of Species'",
+   "prompt": "Charles Darwin's foundational work introducing the scientific theory of evolution by natural selection was first published in",
+   "true": " 1859",
+   "distractors": [
+    " 1858",
+    " 1860",
+    " 1861"
+   ],
+   "year": 1859
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Signing of the U.S. Constitution",
+   "prompt": "The Constitutional Convention in Philadelphia produced and signed the United States Constitution in",
+   "true": " 1787",
+   "distractors": [
+    " 1776",
+    " 1788",
+    " 1789"
+   ],
+   "year": 1787
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of Gettysburg",
+   "prompt": "The pivotal and bloodiest battle of the American Civil War, often considered the war's turning point, was fought in",
+   "true": " 1863",
+   "distractors": [
+    " 1862",
+    " 1864",
+    " 1865"
+   ],
+   "year": 1863
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First successful telephone call",
+   "prompt": "Alexander Graham Bell made the first successful transmission of intelligible speech over an electric device, saying 'Mr. Watson, come here,' in",
+   "true": " 1876",
+   "distractors": [
+    " 1875",
+    " 1877",
+    " 1878"
+   ],
+   "year": 1876
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Eruption of Krakatoa",
+   "prompt": "The catastrophic volcanic eruption of the island of Krakatoa in the Dutch East Indies, one of the deadliest in history, occurred in",
+   "true": " 1883",
+   "distractors": [
+    " 1882",
+    " 1884",
+    " 1885"
+   ],
+   "year": 1883
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First transcontinental railroad completion",
+   "prompt": "The First Transcontinental Railroad in the United States, connecting the eastern and western networks, was ceremonially completed at Promontory Summit in",
+   "true": " 1869",
+   "distractors": [
+    " 1867",
+    " 1868",
+    " 1870"
+   ],
+   "year": 1869
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of Trafalgar",
+   "prompt": "The decisive naval battle of the Napoleonic Wars, in which the British fleet under Lord Nelson defeated the combined French and Spanish fleets, was fought in",
+   "true": " 1805",
+   "distractors": [
+    " 1803",
+    " 1804",
+    " 1806"
+   ],
+   "year": 1805
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Publication of the first Sherlock Holmes story",
+   "prompt": "Arthur Conan Doyle's detective Sherlock Holmes first appeared in the novel 'A Study in Scarlet,' published in",
+   "true": " 1887",
+   "distractors": [
+    " 1886",
+    " 1888",
+    " 1889"
+   ],
+   "year": 1887
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First successful powered airship flight",
+   "prompt": "Henri Giffard flew the first powered and steerable airship from Paris to Trappes in",
+   "true": " 1852",
+   "distractors": [
+    " 1850",
+    " 1851",
+    " 1853"
+   ],
+   "year": 1852
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "End of the American Revolutionary War",
+   "prompt": "The Treaty of Paris, which formally ended the American Revolutionary War and recognized U.S. independence, was signed in",
+   "true": " 1783",
+   "distractors": [
+    " 1781",
+    " 1782",
+    " 1784"
+   ],
+   "year": 1783
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First publication of the periodic table",
+   "prompt": "Dmitri Mendeleev first published his formulation of the periodic law and the tabular arrangement of the elements in",
+   "true": " 1869",
+   "distractors": [
+    " 1868",
+    " 1870",
+    " 1871"
+   ],
+   "year": 1869
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Completion of the first successful telegraph line",
+   "prompt": "Samuel Morse sent the first official telegraph message, 'What hath God wrought,' over a line between Washington and Baltimore in",
+   "true": " 1844",
+   "distractors": [
+    " 1843",
+    " 1845",
+    " 1846"
+   ],
+   "year": 1844
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "Battle of the Little Bighorn",
+   "prompt": "The battle, also known as Custer's Last Stand, where Lakota, Northern Cheyenne, and Arapaho warriors defeated the U.S. 7th Cavalry, occurred in",
+   "true": " 1876",
+   "distractors": [
+    " 1875",
+    " 1877",
+    " 1878"
+   ],
+   "year": 1876
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First publication of 'Frankenstein'",
+   "prompt": "Mary Shelley's Gothic novel 'Frankenstein; or, The Modern Prometheus' was first published anonymously in",
+   "true": " 1818",
+   "distractors": [
+    " 1817",
+    " 1819",
+    " 1820"
+   ],
+   "year": 1818
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First successful vaccination against smallpox",
+   "prompt": "Edward Jenner conducted his pioneering experiment, inoculating a boy with cowpox to provide protection against smallpox, in",
+   "true": " 1796",
+   "distractors": [
+    " 1795",
+    " 1797",
+    " 1798"
+   ],
+   "year": 1796
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First woman to win a Nobel Prize",
+   "prompt": "Marie Curie became the first woman to win a Nobel Prize, sharing the Physics prize with her husband and Henri Becquerel, in",
+   "true": " 1903",
+   "distractors": [
+    " 1901",
+    " 1902",
+    " 1904"
+   ],
+   "year": 1903
+  },
+  {
+   "era": "pre",
+   "level": "pre",
+   "topic": "pre-controls",
+   "label": "First successful crossing of the Atlantic by steamship",
+   "prompt": "The SS Savannah became the first steamship to cross the Atlantic Ocean, completing most of the voyage under sail but using steam power part of the time, in",
+   "true": " 1819",
+   "distractors": [
+    " 1818",
+    " 1820",
+    " 1821"
+   ],
+   "year": 1819
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "23rd amendment",
+   "prompt": "The constitutional amendment ratified in 1961 granted presidential electors to residents of this federal district.",
+   "true": " Washington D.C.",
+   "distractors": [
+    " Puerto Rico",
+    " The U.S. Virgin Islands",
+    " Guam"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "First televised debate",
+   "prompt": "The first general-election presidential debate to be broadcast on television occurred in the campaign of this year.",
+   "true": " 1960",
+   "distractors": [
+    " 1948",
+    " 1952",
+    " 1972"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Gulf of Tonkin Resolution",
+   "prompt": "Following reported attacks on U.S. naval vessels, Congress passed a resolution in 1964 that served as a broad authorization for military action in this Southeast Asian country.",
+   "true": " Vietnam",
+   "distractors": [
+    " Cambodia",
+    " Laos",
+    " Korea"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Domino theory",
+   "prompt": "In a 1954 press conference, President Eisenhower articulated a Cold War foreign policy theory comparing the potential spread of communism in Southeast Asia to a row of these.",
+   "true": " falling dominoes",
+   "distractors": [
+    " spreading wildfire",
+    " cascading tiles",
+    " toppling chess pieces"
+   ],
+   "year": 1954
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Cuban Missile Crisis year",
+   "prompt": "The thirteen-day confrontation in October between the U.S. and the Soviet Union over ballistic missile deployment in Cuba occurred in this year.",
+   "true": " 1962",
+   "distractors": [
+    " 1961",
+    " 1963",
+    " 1959"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Bay of Pigs year",
+   "prompt": "A failed invasion of Cuba by U.S.-backed Cuban exiles occurred in April of this year.",
+   "true": " 1961",
+   "distractors": [
+    " 1959",
+    " 1960",
+    " 1962"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Pentagon Papers leak",
+   "prompt": "In 1971, major newspapers published a secret Defense Department history of the Vietnam War that had been leaked by a former military analyst with this surname.",
+   "true": " Ellsberg",
+   "distractors": [
+    " McNamara",
+    " Kissinger",
+    " Westmoreland"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Checkers speech",
+   "prompt": "In 1952, vice-presidential candidate Richard Nixon gave a televised address defending his use of a political fund and famously mentioning his family's pet of this breed.",
+   "true": " cocker spaniel",
+   "distractors": [
+    " beagle",
+    " terrier",
+    " collie"
+   ],
+   "year": 1952
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Eisenhower interstate system",
+   "prompt": "President Eisenhower signed the Federal-Aid Highway Act in 1956, which authorized the construction of a vast network of these high-speed roads.",
+   "true": " Interstate Highways",
+   "distractors": [
+    " National Parkways",
+    " Transcontinental Railroads",
+    " Federal Canals"
+   ],
+   "year": 1956
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Nixon China visit",
+   "prompt": "President Richard Nixon made a landmark trip to the People's Republic of China in this year, beginning a normalization of relations.",
+   "true": " 1972",
+   "distractors": [
+    " 1969",
+    " 1971",
+    " 1974"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "War on Poverty",
+   "prompt": "President Lyndon Johnson announced this sweeping set of social welfare programs and legislation in his 1964 State of the Union address.",
+   "true": " The War on Poverty",
+   "distractors": [
+    " The Fair Deal",
+    " The New Frontier",
+    " The Great Society"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "SALT I",
+   "prompt": "In 1972, the U.S. and USSR signed the Strategic Arms Limitation Talks agreement, commonly known by this acronym.",
+   "true": " SALT I",
+   "distractors": [
+    " START I",
+    " NPT",
+    " ABM"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Watergate break-in",
+   "prompt": "The political scandal that led to President Nixon's resignation began with a break-in at the Democratic National Committee headquarters, located in this Washington, D.C., building.",
+   "true": " the Watergate complex",
+   "distractors": [
+    " the Mayflower Hotel",
+    " the Capitol Hill Hotel",
+    " the Old Executive Office Building"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Truman's 'Fair Deal'",
+   "prompt": "In his 1949 State of the Union address, President Truman proposed a domestic reform program that he called by this two-word name.",
+   "true": " The Fair Deal",
+   "distractors": [
+    " The New Deal",
+    " The Square Deal",
+    " The New Frontier"
+   ],
+   "year": 1949
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Nixon 'Silent Majority'",
+   "prompt": "In a 1969 speech, President Nixon appealed for support from what he termed this large, non-protesting group of Americans.",
+   "true": " the silent majority",
+   "distractors": [
+    " the moral majority",
+    " the forgotten Americans",
+    " the middle Americans"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Douglas MacArthur firing",
+   "prompt": "In 1951, President Truman relieved this general of his command for insubordination during the Korean War.",
+   "true": " Douglas MacArthur",
+   "distractors": [
+    " George Marshall",
+    " Omar Bradley",
+    " Dwight Eisenhower"
+   ],
+   "year": 1951
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Eisenhower 'military-industrial complex'",
+   "prompt": "In his 1961 farewell address, President Eisenhower warned the American people about the dangers of the growing influence of what he termed this three-word entity.",
+   "true": " the military-industrial complex",
+   "distractors": [
+    " the congressional-lobbyist axis",
+    " the defense-contractor alliance",
+    " the national security state"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "LBJ 'Daisy' ad",
+   "prompt": "A controversial television advertisement from the 1964 presidential campaign, showing a little girl counting daisy petals before a nuclear explosion, was run by the campaign of this candidate.",
+   "true": " Lyndon Johnson",
+   "distractors": [
+    " Barry Goldwater",
+    " Richard Nixon",
+    " Hubert Humphrey"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "1952 Republican nominee",
+   "prompt": "The Republican Party nominee for president in 1952, who later served two terms, was a former Supreme Commander of Allied Forces in Europe.",
+   "true": " Dwight Eisenhower",
+   "distractors": [
+    " Robert Taft",
+    " Thomas Dewey",
+    " Earl Warren"
+   ],
+   "year": 1952
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Truman recognition of Israel",
+   "prompt": "President Truman made the United States the first country to grant de facto recognition to the new State of Israel in this year.",
+   "true": " 1948",
+   "distractors": [
+    " 1947",
+    " 1949",
+    " 1950"
+   ],
+   "year": 1948
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Tet Offensive",
+   "prompt": "A major series of coordinated attacks by North Vietnamese forces during the Vietnam War's lunar new year holiday occurred in this year.",
+   "true": " 1968",
+   "distractors": [
+    " 1967",
+    " 1969",
+    " 1970"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "McGovern nomination",
+   "prompt": "The Democratic Party's nominee for president in 1972 was a prominent anti-war senator from this state.",
+   "true": " South Dakota",
+   "distractors": [
+    " Minnesota",
+    " Wisconsin",
+    " Massachusetts"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "HUAC Hollywood Ten",
+   "prompt": "In 1947, the House Un-American Activities Committee cited ten figures from this industry for contempt of Congress after they refused to answer questions.",
+   "true": " the film industry",
+   "distractors": [
+    " the television industry",
+    " the newspaper industry",
+    " the music industry"
+   ],
+   "year": 1947
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Nixon 'secret plan'",
+   "prompt": "During the 1968 presidential campaign, Richard Nixon claimed to have a plan to end the war in Vietnam, which reporters and critics often referred to as this kind of plan.",
+   "true": " a secret plan",
+   "distractors": [
+    " a comprehensive plan",
+    " a diplomatic plan",
+    " a phased plan"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Gulf of Tonkin incident",
+   "prompt": "The 1964 naval confrontation that led to the first major U.S. military escalation in Vietnam was the",
+   "true": " Gulf of Tonkin incident",
+   "distractors": [
+    " Gulf of Thailand incident",
+    " Paracel Islands incident",
+    " Mekong Delta incident"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "My Lai Massacre",
+   "prompt": "The 1968 killing of hundreds of unarmed South Vietnamese civilians by U.S. Army soldiers in a hamlet of Son My village is called the",
+   "true": " My Lai Massacre",
+   "distractors": [
+    " Son Thang Massacre",
+    " Hue Massacre",
+    " Phong Nhi Massacre"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Operation Rolling Thunder",
+   "prompt": "The sustained U.S. strategic bombing campaign against North Vietnam that lasted from 1965 to 1968 was named",
+   "true": " Operation Rolling Thunder",
+   "distractors": [
+    " Operation Linebacker",
+    " Operation Arc Light",
+    " Operation Menu"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Ia Drang Valley",
+   "prompt": "The location of the first major battle between U.S. Army units and regular North Vietnamese Army forces in November 1965 was the",
+   "true": " Ia Drang Valley",
+   "distractors": [
+    " A Shau Valley",
+    " Mekong Valley",
+    " Song Be Valley"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Khe Sanh",
+   "prompt": "The remote U.S. Marine Corps outpost in Quang Tri province that was besieged for 77 days in early 1968 is",
+   "true": " Khe Sanh",
+   "distractors": [
+    " Con Thien",
+    " Dak To",
+    " Firebase Ripcord"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Vietnamization",
+   "prompt": "The policy initiated by President Nixon to transfer combat responsibilities to South Vietnamese forces while withdrawing U.S. troops was called",
+   "true": " Vietnamization",
+   "distractors": [
+    " Pacification",
+    " De-Americanization",
+    " Asianization"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Paris Peace Accords",
+   "prompt": "The January 1973 agreement that formally ended U.S. military involvement in the Vietnam War were the",
+   "true": " Paris Peace Accords",
+   "distractors": [
+    " Geneva Accords of 1954",
+    " Vientiane Treaty",
+    " Manila Pact"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Ho Chi Minh Trail",
+   "prompt": "The extensive logistical network of paths and roads through Laos and Cambodia used to supply North Vietnamese forces in the South was the",
+   "true": " Ho Chi Minh Trail",
+   "distractors": [
+    " Annamite Range Trail",
+    " Mekong Supply Route",
+    " Truong Son Strategic Route"
+   ],
+   "year": 1959
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Fall of Saigon",
+   "prompt": "The capture of the South Vietnamese capital by North Vietnamese forces, marking the end of the war, is called the",
+   "true": " Fall of Saigon",
+   "distractors": [
+    " Liberation of Hue",
+    " Capture of Da Nang",
+    " Surrender of Can Tho"
+   ],
+   "year": 1975
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Pentagon Papers",
+   "prompt": "The secret U.S. Department of Defense study of U.S. political and military involvement in Vietnam, leaked in 1971, are the",
+   "true": " Pentagon Papers",
+   "distractors": [
+    " Vietnam Archive",
+    " McNamara Dossiers",
+    " Westmoreland Files"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Agent Orange",
+   "prompt": "The herbicide and defoliant used extensively by U.S. forces to destroy forest cover and crops in Vietnam was codenamed",
+   "true": " Agent Orange",
+   "distractors": [
+    " Agent Blue",
+    " Agent White",
+    " Agent Purple"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Hue",
+   "prompt": "During the Tet Offensive, the historic imperial city that became the site of a brutal month-long battle was",
+   "true": " Hue",
+   "distractors": [
+    " Da Nang",
+    " Nha Trang",
+    " Qui Nhon"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "William Westmoreland",
+   "prompt": "The U.S. Army general who served as commander of U.S. Military Assistance Command, Vietnam from 1964 to 1968 was",
+   "true": " William Westmoreland",
+   "distractors": [
+    " Creighton Abrams",
+    " Paul Harkins",
+    " Maxwell Taylor"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Draft lottery",
+   "prompt": "The system introduced in 1969 to randomly select birth dates for conscription into the U.S. military was the",
+   "true": " draft lottery",
+   "distractors": [
+    " Selective Service draw",
+    " conscription raffle",
+    " induction ballot"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Hanoi Hilton",
+   "prompt": "The nickname given by American prisoners of war to the Hoa Lo prison in North Vietnam was the",
+   "true": " Hanoi Hilton",
+   "distractors": [
+    " Saigon Zoo",
+    " Haiphong Hostel",
+    " Bien Hoa Barracks"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Operation Linebacker II",
+   "prompt": "The intensive U.S. bombing campaign against North Vietnam in December 1972, intended to force a return to peace talks, was",
+   "true": " Operation Linebacker II",
+   "distractors": [
+    " Operation Rolling Thunder",
+    " Operation Niagara",
+    " Operation Commando Hunt"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Kent State shootings",
+   "prompt": "The incident in which Ohio National Guardsmen killed four unarmed students during an anti-war protest occurred at",
+   "true": " Kent State University",
+   "distractors": [
+    " University of Wisconsin",
+    " University of California, Berkeley",
+    " Columbia University"
+   ],
+   "year": 1970
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Viet Cong",
+   "prompt": "The common name for the communist-led National Liberation Front of South Vietnam, formed in 1960, was the",
+   "true": " Viet Cong",
+   "distractors": [
+    " Pathet Lao",
+    " Khmer Rouge",
+    " Viet Minh"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Green Berets",
+   "prompt": "President Kennedy authorized the expansion of this U.S. Army special forces unit for counterinsurgency roles in Vietnam, known colloquially as the",
+   "true": " Green Berets",
+   "distractors": [
+    " Navy SEALs",
+    " Marine Force Recon",
+    " Army Rangers"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Ap Bac",
+   "prompt": "The January 1963 battle in the Mekong Delta where Viet Cong forces stood their ground against a larger South Vietnamese force supported by U.S. advisors was the Battle of",
+   "true": " Ap Bac",
+   "distractors": [
+    " Ap Da",
+    " Ap Nhi",
+    " Ap Tam"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Gulf of Tonkin Resolution",
+   "prompt": "The congressional resolution passed in August 1964 that granted President Johnson broad authority to escalate U.S. military involvement was the",
+   "true": " Gulf of Tonkin Resolution",
+   "distractors": [
+    " War Powers Resolution",
+    " Formosa Resolution",
+    " Southeast Asia Resolution"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Credibility gap",
+   "prompt": "The term coined during the Vietnam War to describe the public's growing distrust of official government statements was",
+   "true": " credibility gap",
+   "distractors": [
+    " trust deficit",
+    " information chasm",
+    " honesty divide"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "Vietnam War",
+   "label": "Last helicopter",
+   "prompt": "The iconic image of the final U.S. evacuation from the roof of the U.S. Embassy in Saigon in April 1975 involved a",
+   "true": " CH-46 Sea Knight helicopter",
+   "distractors": [
+    " UH-1 Iroquois helicopter",
+    " CH-53 Sea Stallion helicopter",
+    " AH-1 Cobra helicopter"
+   ],
+   "year": 1975
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Dixiecrat candidate",
+   "prompt": "The States' Rights Democratic Party, which broke from the Democrats over civil rights in the 1948 election, nominated this South Carolina governor as its presidential candidate.",
+   "true": " Strom Thurmond",
+   "distractors": [
+    " George Wallace",
+    " Orval Faubus",
+    " Lester Maddox"
+   ],
+   "year": 1948
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "1952 Eisenhower VP",
+   "prompt": "Dwight D. Eisenhower selected this young California senator, known for his anti-communist investigations, as his running mate in 1952.",
+   "true": " Richard Nixon",
+   "distractors": [
+    " Robert Taft",
+    " Earl Warren",
+    " Thomas Dewey"
+   ],
+   "year": 1952
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Army-McCarthy hearings",
+   "prompt": "The 1954 televised hearings where the U.S. Army confronted Senator Joseph McCarthy over his accusations of communist infiltration were chaired by this senator.",
+   "true": " Karl Mundt",
+   "distractors": [
+    " John McClellan",
+    " Everett Dirksen",
+    " Styles Bridges"
+   ],
+   "year": 1954
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Sputnik response agency",
+   "prompt": "In direct response to the Soviet launch of Sputnik, the United States created this civilian space and aeronautics agency in 1958.",
+   "true": " NASA",
+   "distractors": [
+    " DARPA",
+    " National Science Foundation",
+    " Atomic Energy Commission"
+   ],
+   "year": 1958
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "1960 Kennedy VP",
+   "prompt": "John F. Kennedy selected this Senate Majority Leader from Texas as his vice-presidential running mate in 1960.",
+   "true": " Lyndon B. Johnson",
+   "distractors": [
+    " Stuart Symington",
+    " Hubert Humphrey",
+    " Adlai Stevenson"
+   ],
+   "year": 1960
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Bay of Pigs year",
+   "prompt": "The failed CIA-backed invasion of Cuba by anti-Castro exiles occurred in this year of Kennedy's presidency.",
+   "true": " 1961",
+   "distractors": [
+    " 1959",
+    " 1962",
+    " 1963"
+   ],
+   "year": 1961
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Cuban Missile Crisis resolution",
+   "prompt": "To resolve the 1962 Cuban Missile Crisis, President Kennedy secretly agreed to remove U.S. missiles from this country.",
+   "true": " Turkey",
+   "distractors": [
+    " Italy",
+    " Greece",
+    " West Germany"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "March on Washington year",
+   "prompt": "Martin Luther King Jr. delivered his 'I Have a Dream' speech at the March on Washington for Jobs and Freedom in this year.",
+   "true": " 1963",
+   "distractors": [
+    " 1964",
+    " 1965",
+    " 1962"
+   ],
+   "year": 1963
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Gulf of Tonkin Resolution year",
+   "prompt": "Following reported attacks on U.S. destroyers, Congress passed the broad authorization for the use of military force in Southeast Asia known as the Gulf of Tonkin Resolution in this year.",
+   "true": " 1964",
+   "distractors": [
+    " 1965",
+    " 1963",
+    " 1966"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "1964 Republican nominee",
+   "prompt": "The Republican Party nominated this conservative senator from Arizona to run against Lyndon Johnson in the 1964 presidential election.",
+   "true": " Barry Goldwater",
+   "distractors": [
+    " Nelson Rockefeller",
+    " Richard Nixon",
+    " George Romney"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Medicare enactment year",
+   "prompt": "President Lyndon Johnson signed the Social Security Amendments creating the Medicare health insurance program for the elderly in this year.",
+   "true": " 1965",
+   "distractors": [
+    " 1964",
+    " 1966",
+    " 1967"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Miranda v. Arizona year",
+   "prompt": "The Supreme Court ruled that police must inform suspects of their rights before interrogation in the case of Miranda v. Arizona in this year.",
+   "true": " 1966",
+   "distractors": [
+    " 1965",
+    " 1967",
+    " 1964"
+   ],
+   "year": 1966
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "1968 Democratic convention city",
+   "prompt": "The 1968 Democratic National Convention, marked by massive anti-war protests and police violence, was held in this city.",
+   "true": " Chicago",
+   "distractors": [
+    " New York",
+    " Miami",
+    " Los Angeles"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Nixon's Vietnam policy",
+   "prompt": "President Nixon's policy of gradually turning over ground combat roles in Vietnam to South Vietnamese forces was called",
+   "true": " Vietnamization",
+   "distractors": [
+    " De-escalation",
+    " Pacification",
+    " Neutralization"
+   ],
+   "year": 1969
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Kent State shootings year",
+   "prompt": "National Guardsmen shot and killed four student protesters at Kent State University in this year.",
+   "true": " 1970",
+   "distractors": [
+    " 1969",
+    " 1971",
+    " 1972"
+   ],
+   "year": 1970
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Pentagon Papers leak",
+   "prompt": "The Pentagon Papers, a secret history of U.S. involvement in Vietnam, were leaked to the press by this former Defense Department analyst.",
+   "true": " Daniel Ellsberg",
+   "distractors": [
+    " Seymour Hersh",
+    " Neil Sheehan",
+    " Anthony Russo"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Nixon visits China year",
+   "prompt": "President Richard Nixon made his historic trip to the People's Republic of China, beginning a normalization of relations, in this year.",
+   "true": " 1972",
+   "distractors": [
+    " 1971",
+    " 1973",
+    " 1970"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Watergate burglars caught",
+   "prompt": "The Watergate scandal began with the arrest of five men breaking into the Democratic National Committee headquarters in this month and year.",
+   "true": " June 1972",
+   "distractors": [
+    " May 1972",
+    " July 1972",
+    " August 1972"
+   ],
+   "year": 1972
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "VP after Agnew resignation",
+   "prompt": "After Vice President Spiro Agnew resigned in 1973, President Nixon appointed this House Minority Leader to the vice presidency.",
+   "true": " Gerald Ford",
+   "distractors": [
+    " Nelson Rockefeller",
+    " John Connally",
+    " Bob Dole"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "War Powers Act year",
+   "prompt": "Congress passed the War Powers Resolution, limiting the president's ability to commit troops without congressional approval, over Nixon's veto in this year.",
+   "true": " 1973",
+   "distractors": [
+    " 1972",
+    " 1974",
+    " 1975"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Nixon impeachment articles",
+   "prompt": "The House Judiciary Committee approved articles of impeachment against President Nixon for obstruction of justice, abuse of power, and contempt of Congress in this month and year.",
+   "true": " July 1974",
+   "distractors": [
+    " June 1974",
+    " August 1974",
+    " May 1974"
+   ],
+   "year": 1974
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Nixon resignation date",
+   "prompt": "President Richard Nixon announced his resignation from the presidency, effective the following day, on this calendar date.",
+   "true": " August 8, 1974",
+   "distractors": [
+    " July 30, 1974",
+    " August 9, 1974",
+    " September 8, 1974"
+   ],
+   "year": 1974
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Fair Deal proposer",
+   "prompt": "The 'Fair Deal,' a set of proposals for national healthcare, federal aid to education, and housing, was the domestic agenda of this U.S. president.",
+   "true": " Harry S. Truman",
+   "distractors": [
+    " Franklin D. Roosevelt",
+    " Lyndon B. Johnson",
+    " John F. Kennedy"
+   ],
+   "year": 1949
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "1957 Civil Rights Act",
+   "prompt": "The first federal civil rights legislation since Reconstruction, passed in 1957, created a commission on civil rights and strengthened this federal department's role in voting rights.",
+   "true": " Justice Department",
+   "distractors": [
+    " Interior Department",
+    " Commerce Department",
+    " Health, Education, and Welfare Department"
+   ],
+   "year": 1957
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Baker v. Carr issue",
+   "prompt": "The 1962 Supreme Court case Baker v. Carr established the principle of 'one person, one vote' regarding the apportionment of these legislative bodies.",
+   "true": " state legislatures",
+   "distractors": [
+    " the U.S. House of Representatives",
+    " county commissions",
+    " city councils"
+   ],
+   "year": 1962
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Great Society speech",
+   "prompt": "President Lyndon Johnson first formally introduced the term 'Great Society' to describe his domestic agenda in a speech at this university.",
+   "true": " University of Michigan",
+   "distractors": [
+    " Harvard University",
+    " University of Texas",
+    " Howard University"
+   ],
+   "year": 1964
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Voting Rights Act year",
+   "prompt": "President Johnson signed the Voting Rights Act, which prohibited racial discrimination in voting, in this year.",
+   "true": " 1965",
+   "distractors": [
+    " 1964",
+    " 1966",
+    " 1963"
+   ],
+   "year": 1965
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Tet Offensive year",
+   "prompt": "The massive coordinated communist offensive against South Vietnamese cities and U.S. forces during the Vietnam War, known as the Tet Offensive, occurred in this year.",
+   "true": " 1968",
+   "distractors": [
+    " 1967",
+    " 1969",
+    " 1970"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "1968 Wallace running mate",
+   "prompt": "In the 1968 presidential election, American Independent Party candidate George Wallace selected this retired U.S. Air Force general as his running mate.",
+   "true": " Curtis LeMay",
+   "distractors": [
+    " Thomas Power",
+    " Nathan Twining",
+    " Hoyt Vandenberg"
+   ],
+   "year": 1968
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "EPA creation year",
+   "prompt": "President Richard Nixon created the Environmental Protection Agency by executive order in this year.",
+   "true": " 1970",
+   "distractors": [
+    " 1969",
+    " 1971",
+    " 1972"
+   ],
+   "year": 1970
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "26th Amendment year",
+   "prompt": "The 26th Amendment to the Constitution, which lowered the voting age from 21 to 18, was ratified in this year.",
+   "true": " 1971",
+   "distractors": [
+    " 1970",
+    " 1972",
+    " 1969"
+   ],
+   "year": 1971
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Shuttle Diplomacy practitioner",
+   "prompt": "Following the Yom Kippur War, this U.S. Secretary of State engaged in 'shuttle diplomacy' between Middle Eastern capitals to negotiate disengagement agreements.",
+   "true": " Henry Kissinger",
+   "distractors": [
+    " William Rogers",
+    " Cyrus Vance",
+    " Dean Rusk"
+   ],
+   "year": 1973
+  },
+  {
+   "era": "post",
+   "level": "narrow",
+   "topic": "US politics 1945-74",
+   "label": "Ford pardon date",
+   "prompt": "President Gerald Ford granted a full and unconditional pardon to former President Richard Nixon for any crimes he may have committed in office on this date.",
+   "true": " September 8, 1974",
+   "distractors": [
+    " August 9, 1974",
+    " October 10, 1974",
+    " November 5, 1974"
+   ],
+   "year": 1974
+  }
+ ]
+}

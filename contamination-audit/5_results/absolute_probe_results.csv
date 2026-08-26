@@ -1,0 +1,91 @@
+model,topic,label,true,slp_true,slp_twinmax,gap_best,gap_mean,correct
+Ranke-4B-1929,Vietnam-US war,17th parallel,17th parallel,-15.781,-12.7,-3.081,-1.335,0
+Ranke-4B-1929,Vietnam-US war,Tet Offensive,Tet Offensive,-22.401,-10.311,-12.09,-9.122,0
+Ranke-4B-1929,Vietnam-US war,Gulf of Tonkin,Tonkin,-3.053,-5.167,2.114,3.67,1
+Ranke-4B-1929,Vietnam-US war,Agent Orange,Orange,-8.844,-5.813,-3.031,-0.199,0
+Ranke-4B-1929,Vietnam-US war,Saigon fell 1975,1975,-11.321,-1.467,-9.854,-6.805,0
+Ranke-4B-1929,Vietnam-US war,Viet Cong,Cong,-9.616,-7.866,-1.75,1.089,0
+Ranke-4B-1929,Vietnam-US war,Ho Chi Minh Trail,Trail,-4.703,-3.828,-0.875,1.12,0
+Ranke-4B-1929,Vietnam-US war,My Lai,Lai,-9.695,-10.452,0.757,3.708,1
+Ranke-4B-1929,Vietnam-US war,Paris accords,Paris,-1.248,-5.123,3.875,4.645,1
+Ranke-4B-1929,Vietnam-US war,Khe Sanh,Sanh,-14.652,-12.147,-2.505,-0.043,0
+Ranke-4B-1929,Vietnam-US war,Rolling Thunder,Thunder,-5.272,-7.803,2.531,3.406,1
+Ranke-4B-1929,Vietnam-US war,Reunified 1976,1976,-11.108,-4.291,-6.817,-4.983,0
+Ranke-4B-1929,Vietnam-US war,Saigon=S capital,Saigon,-2.289,-3.059,0.77,1.538,1
+Ranke-4B-1929,Vietnam-US war,domino theory,dominoes,-9.387,-4.331,-5.056,-4.347,0
+Ranke-4B-1929,Vietnam-US war,napalm,napalm,-17.103,-10.313,-6.791,-6.409,0
+Ranke-4B-1929,WWII,Pearl Harbor 1941,1941,-10.319,-2.993,-7.326,-6.327,0
+Ranke-4B-1929,WWII,Overlord,Overlord,-15.412,-11.787,-3.625,-0.342,0
+Ranke-4B-1929,WWII,Barbarossa,Barbarossa,-9.605,-13.119,3.514,6.475,1
+Ranke-4B-1929,WWII,the Blitz,Blitz,-15.232,-8.872,-6.359,-4.744,0
+Ranke-4B-1929,WWII,Stalingrad,Stalingrad,-14.016,-12.156,-1.86,-1.726,0
+Ranke-4B-1929,WWII,Hiroshima A-bomb,Hiroshima,-4.009,-4.733,0.724,1.843,1
+Ranke-4B-1929,WWII,Auschwitz,Auschwitz,-10.677,-12.028,1.351,2.035,1
+Ranke-4B-1929,WWII,Yalta 1945,Yalta,-3.9,-5.771,1.871,8.656,1
+Ranke-4B-1929,WWII,Midway,Midway,-5.962,-2.88,-3.081,-0.29,0
+Ranke-4B-1929,WWII,V-E 1945,1945,-9.235,-1.274,-7.961,-3.756,0
+Ranke-4B-1929,WWII,Final Solution,Solution,-6.542,-3.917,-2.625,-0.849,0
+Ranke-4B-1929,WWII,Battle of the Bulge,Bulge,-8.679,-8.087,-0.592,0.611,0
+Ranke-4B-1929,WWII,El Alamein,Alamein,-15.828,-6.978,-8.85,-4.029,0
+Ranke-4B-1929,WWII,Manhattan Project,Manhattan Project,-15.152,-14.883,-0.269,1.118,0
+Ranke-4B-1929,WWII,Dunkirk 1940,Dunkirk,-4.095,-0.893,-3.203,-1.657,0
+Ranke-4B-1929,Cold War,Berlin Wall 1961,1961,-10.946,-2.7,-8.246,-6.786,0
+Ranke-4B-1929,Cold War,Cuban crisis island,Cuba,-4.794,-3.856,-0.937,1.021,0
+Ranke-4B-1929,Cold War,Sputnik,Sputnik,-8.483,-9.129,0.646,2.817,1
+Ranke-4B-1929,Cold War,cosmonaut,cosmonaut,-12.695,-3.996,-8.699,-7.194,0
+Ranke-4B-1929,Cold War,Korea 38th,38th parallel,-18.064,-17.822,-0.241,1.682,0
+Ranke-4B-1929,Cold War,NATO,NATO,-9.617,-14.34,4.723,6.386,1
+Ranke-4B-1929,Cold War,iron curtain,curtain,-1.634,-3.321,1.688,4.849,1
+Ranke-4B-1929,Cold War,Marshall Plan,Marshall Plan,-10.11,-9.554,-0.556,1.724,0
+Ranke-4B-1929,Cold War,Moon landing 1969,1969,-12.133,-6.667,-5.466,-2.607,0
+Ranke-4B-1929,Cold War,Apollo,Apollo,-9.264,-9.076,-0.188,2.09,0
+Ranke-4B-1929,Cold War,Berlin Airlift,airlift,-8.759,-4.995,-3.765,-1.89,0
+Ranke-4B-1929,Cold War,Warsaw Pact,Warsaw Pact,-4.928,-10.516,5.588,6.924,1
+Ranke-4B-1929,Cold War,Wall fell 1989,1989,-10.684,-5.311,-5.373,-3.844,0
+Ranke-4B-1929,Cold War,Mutual Assured Destr.,Destruction,-3.986,-5.111,1.125,4.439,1
+Ranke-4B-1929,Cold War,Korean War country,Korea,-3.693,-4.693,1.0,2.411,1
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,17th parallel,17th parallel,-17.787,-15.056,-2.731,-1.261,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Tet Offensive,Tet Offensive,-20.956,-10.014,-10.942,-8.035,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Gulf of Tonkin,Tonkin,-2.173,-6.326,4.153,5.14,1
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Agent Orange,Orange,-7.278,-5.434,-1.844,1.13,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Saigon fell 1975,1975,-10.355,-2.07,-8.285,-6.486,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Viet Cong,Cong,-6.384,-5.384,-1.0,2.024,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Ho Chi Minh Trail,Trail,-4.49,-3.459,-1.031,1.245,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,My Lai,Lai,-9.46,-10.777,1.317,4.417,1
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Paris accords,Paris,-0.816,-5.504,4.688,5.771,1
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Khe Sanh,Sanh,-15.597,-12.209,-3.388,-0.684,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Rolling Thunder,Thunder,-4.921,-7.609,2.688,3.542,1
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Reunified 1976,1976,-12.958,-6.927,-6.031,-4.405,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,Saigon=S capital,Saigon,-1.617,-2.886,1.269,2.127,1
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,domino theory,dominoes,-8.826,-3.932,-4.894,-3.832,0
+Ranke-4B-1929-1202-Instruct,Vietnam-US war,napalm,napalm,-18.158,-7.915,-10.243,-7.497,0
+Ranke-4B-1929-1202-Instruct,WWII,Pearl Harbor 1941,1941,-10.095,-1.844,-8.251,-5.184,0
+Ranke-4B-1929-1202-Instruct,WWII,Overlord,Overlord,-15.523,-11.127,-4.396,-0.776,0
+Ranke-4B-1929-1202-Instruct,WWII,Barbarossa,Barbarossa,-9.028,-11.089,2.061,6.86,1
+Ranke-4B-1929-1202-Instruct,WWII,the Blitz,Blitz,-14.451,-8.505,-5.945,-3.842,0
+Ranke-4B-1929-1202-Instruct,WWII,Stalingrad,Stalingrad,-13.99,-12.657,-1.332,-0.126,0
+Ranke-4B-1929-1202-Instruct,WWII,Hiroshima A-bomb,Hiroshima,-3.981,-4.827,0.846,2.1,1
+Ranke-4B-1929-1202-Instruct,WWII,Auschwitz,Auschwitz,-7.93,-12.116,4.186,4.781,1
+Ranke-4B-1929-1202-Instruct,WWII,Yalta 1945,Yalta,-5.55,-8.314,2.765,8.375,1
+Ranke-4B-1929-1202-Instruct,WWII,Midway,Midway,-6.19,-2.833,-3.356,0.06,0
+Ranke-4B-1929-1202-Instruct,WWII,V-E 1945,1945,-12.958,-3.273,-9.685,-2.557,0
+Ranke-4B-1929-1202-Instruct,WWII,Final Solution,Solution,-7.555,-4.461,-3.094,-1.159,0
+Ranke-4B-1929-1202-Instruct,WWII,Battle of the Bulge,Bulge,-10.14,-9.236,-0.905,0.365,0
+Ranke-4B-1929-1202-Instruct,WWII,El Alamein,Alamein,-15.029,-8.015,-7.014,-2.208,0
+Ranke-4B-1929-1202-Instruct,WWII,Manhattan Project,Manhattan Project,-13.046,-14.779,1.733,3.501,1
+Ranke-4B-1929-1202-Instruct,WWII,Dunkirk 1940,Dunkirk,-5.571,-0.826,-4.745,-2.788,0
+Ranke-4B-1929-1202-Instruct,Cold War,Berlin Wall 1961,1961,-8.235,-2.215,-6.02,-4.327,0
+Ranke-4B-1929-1202-Instruct,Cold War,Cuban crisis island,Cuba,-4.972,-3.222,-1.75,1.099,0
+Ranke-4B-1929-1202-Instruct,Cold War,Sputnik,Sputnik,-7.683,-9.687,2.004,3.995,1
+Ranke-4B-1929-1202-Instruct,Cold War,cosmonaut,cosmonaut,-11.247,-3.684,-7.562,-6.896,0
+Ranke-4B-1929-1202-Instruct,Cold War,Korea 38th,38th parallel,-19.916,-19.205,-0.711,1.26,0
+Ranke-4B-1929-1202-Instruct,Cold War,NATO,NATO,-7.042,-11.723,4.681,7.742,1
+Ranke-4B-1929-1202-Instruct,Cold War,iron curtain,curtain,-0.829,-3.704,2.875,5.781,1
+Ranke-4B-1929-1202-Instruct,Cold War,Marshall Plan,Marshall Plan,-5.931,-7.934,2.004,3.492,1
+Ranke-4B-1929-1202-Instruct,Cold War,Moon landing 1969,1969,-11.416,-8.249,-3.167,-1.484,0
+Ranke-4B-1929-1202-Instruct,Cold War,Apollo,Apollo,-8.761,-9.558,0.797,2.769,1
+Ranke-4B-1929-1202-Instruct,Cold War,Berlin Airlift,airlift,-8.552,-4.398,-4.154,-1.988,0
+Ranke-4B-1929-1202-Instruct,Cold War,Warsaw Pact,Warsaw Pact,-3.884,-10.151,6.267,7.551,1
+Ranke-4B-1929-1202-Instruct,Cold War,Wall fell 1989,1989,-12.192,-8.532,-3.66,-2.294,0
+Ranke-4B-1929-1202-Instruct,Cold War,Mutual Assured Destr.,Destruction,-3.352,-3.227,-0.125,3.055,0
+Ranke-4B-1929-1202-Instruct,Cold War,Korean War country,Korea,-3.37,-4.37,1.0,2.006,1

@@ -1,0 +1,744 @@
+{
+ "thr_spike": 0.12736684523038433,
+ "thr_meter": 0.5,
+ "rows": [
+  {
+   "topic": "WW2",
+   "event": "Germany surrenders",
+   "true_year": 1945,
+   "year_spike_Ptrue": 0.356,
+   "model_year": 1945,
+   "memory_meter": 0.999,
+   "lights_up": "BOTH"
+  },
+  {
+   "topic": "WW2",
+   "event": "Pearl Harbor",
+   "true_year": 1941,
+   "year_spike_Ptrue": 0.108,
+   "model_year": 1945,
+   "memory_meter": 0.846,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "WW2",
+   "event": "Operation Barbarossa",
+   "true_year": 1941,
+   "year_spike_Ptrue": 0.065,
+   "model_year": 1940,
+   "memory_meter": 0.504,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "WW2",
+   "event": "Hiroshima bombing",
+   "true_year": 1945,
+   "year_spike_Ptrue": 0.094,
+   "model_year": 1945,
+   "memory_meter": 0.496,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "Germany invades Poland",
+   "true_year": 1939,
+   "year_spike_Ptrue": 0.063,
+   "model_year": 1941,
+   "memory_meter": 0.364,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "Fall of France",
+   "true_year": 1940,
+   "year_spike_Ptrue": 0.073,
+   "model_year": 1935,
+   "memory_meter": 0.173,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "D-Day",
+   "true_year": 1944,
+   "year_spike_Ptrue": 0.122,
+   "model_year": 1945,
+   "memory_meter": 0.092,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "Dunkirk evacuation",
+   "true_year": 1940,
+   "year_spike_Ptrue": 0.102,
+   "model_year": 1944,
+   "memory_meter": 0.043,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "Battle of Britain",
+   "true_year": 1940,
+   "year_spike_Ptrue": 0.115,
+   "model_year": 1944,
+   "memory_meter": 0.017,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "Yalta Conference",
+   "true_year": 1945,
+   "year_spike_Ptrue": 0.109,
+   "model_year": 1945,
+   "memory_meter": 0.004,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "Battle of Stalingrad",
+   "true_year": 1943,
+   "year_spike_Ptrue": 0.043,
+   "model_year": 1940,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "WW2",
+   "event": "Auschwitz liberated",
+   "true_year": 1945,
+   "year_spike_Ptrue": 0.079,
+   "model_year": 1940,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Spanish Civil War begins",
+   "true_year": 1936,
+   "year_spike_Ptrue": 0.021,
+   "model_year": 1928,
+   "memory_meter": 0.999,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Anschluss",
+   "true_year": 1938,
+   "year_spike_Ptrue": 0.026,
+   "model_year": 1946,
+   "memory_meter": 0.984,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Hitler becomes Chancellor",
+   "true_year": 1933,
+   "year_spike_Ptrue": 0.006,
+   "model_year": 1925,
+   "memory_meter": 0.266,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Munich Agreement",
+   "true_year": 1938,
+   "year_spike_Ptrue": 0.061,
+   "model_year": 1945,
+   "memory_meter": 0.183,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Reichstag fire",
+   "true_year": 1933,
+   "year_spike_Ptrue": 0.007,
+   "model_year": 1925,
+   "memory_meter": 0.058,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Kristallnacht",
+   "true_year": 1938,
+   "year_spike_Ptrue": 0.042,
+   "model_year": 1930,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Molotov-Ribbentrop Pact",
+   "true_year": 1939,
+   "year_spike_Ptrue": 0.057,
+   "model_year": 1934,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Italy invades Ethiopia",
+   "true_year": 1935,
+   "year_spike_Ptrue": 0.002,
+   "model_year": 1928,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Politics-1930s",
+   "event": "Moscow show trials",
+   "true_year": 1936,
+   "year_spike_Ptrue": 0.002,
+   "model_year": 1928,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Hungarian Revolution",
+   "true_year": 1956,
+   "year_spike_Ptrue": 0.014,
+   "model_year": 1948,
+   "memory_meter": 0.99,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Suez Crisis",
+   "true_year": 1956,
+   "year_spike_Ptrue": 0.026,
+   "model_year": 1949,
+   "memory_meter": 0.96,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Indian independence",
+   "true_year": 1947,
+   "year_spike_Ptrue": 0.042,
+   "model_year": 1945,
+   "memory_meter": 0.947,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Korean War begins",
+   "true_year": 1950,
+   "year_spike_Ptrue": 0.068,
+   "model_year": 1945,
+   "memory_meter": 0.934,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Berlin Blockade",
+   "true_year": 1948,
+   "year_spike_Ptrue": 0.06,
+   "model_year": 1954,
+   "memory_meter": 0.862,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "People's Republic of China",
+   "true_year": 1949,
+   "year_spike_Ptrue": 0.054,
+   "model_year": 1947,
+   "memory_meter": 0.646,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "United Nations founded",
+   "true_year": 1945,
+   "year_spike_Ptrue": 0.261,
+   "model_year": 1945,
+   "memory_meter": 0.555,
+   "lights_up": "BOTH"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "State of Israel founded",
+   "true_year": 1948,
+   "year_spike_Ptrue": 0.041,
+   "model_year": 1950,
+   "memory_meter": 0.322,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Cuban Missile Crisis",
+   "true_year": 1962,
+   "year_spike_Ptrue": 0.042,
+   "model_year": 1960,
+   "memory_meter": 0.217,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "NATO founded",
+   "true_year": 1949,
+   "year_spike_Ptrue": 0.053,
+   "model_year": 1948,
+   "memory_meter": 0.177,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Soviet Union dissolves",
+   "true_year": 1991,
+   "year_spike_Ptrue": 0.075,
+   "model_year": 1984,
+   "memory_meter": 0.088,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Berlin Wall falls",
+   "true_year": 1989,
+   "year_spike_Ptrue": 0.063,
+   "model_year": 1984,
+   "memory_meter": 0.085,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Prague Spring",
+   "true_year": 1968,
+   "year_spike_Ptrue": 0.029,
+   "model_year": 1960,
+   "memory_meter": 0.009,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Warsaw Pact",
+   "true_year": 1955,
+   "year_spike_Ptrue": 0.039,
+   "model_year": 1948,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "ColdWar",
+   "event": "Berlin Wall built",
+   "true_year": 1961,
+   "year_spike_Ptrue": 0.042,
+   "model_year": 1954,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "Transistor invented",
+   "true_year": 1947,
+   "year_spike_Ptrue": 0.063,
+   "model_year": 1940,
+   "memory_meter": 0.007,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "Trinity test",
+   "true_year": 1945,
+   "year_spike_Ptrue": 0.088,
+   "model_year": 1940,
+   "memory_meter": 0.004,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "Penicillin mass-produced",
+   "true_year": 1943,
+   "year_spike_Ptrue": 0.06,
+   "model_year": 1940,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "World Wide Web",
+   "true_year": 1989,
+   "year_spike_Ptrue": 0.035,
+   "model_year": 1994,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "Nuclear fission discovered",
+   "true_year": 1938,
+   "year_spike_Ptrue": 0.046,
+   "model_year": 1930,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "DNA double helix",
+   "true_year": 1953,
+   "year_spike_Ptrue": 0.056,
+   "model_year": 1960,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "Polio vaccine",
+   "true_year": 1955,
+   "year_spike_Ptrue": 0.039,
+   "model_year": 1960,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Science",
+   "event": "First heart transplant",
+   "true_year": 1967,
+   "year_spike_Ptrue": 0.051,
+   "model_year": 1975,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Space",
+   "event": "Gagarin",
+   "true_year": 1961,
+   "year_spike_Ptrue": 0.115,
+   "model_year": 1960,
+   "memory_meter": 0.108,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Space",
+   "event": "Sputnik",
+   "true_year": 1957,
+   "year_spike_Ptrue": 0.046,
+   "model_year": 1960,
+   "memory_meter": 0.065,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Space",
+   "event": "Moon landing",
+   "true_year": 1969,
+   "year_spike_Ptrue": 0.033,
+   "model_year": 1972,
+   "memory_meter": 0.039,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Space",
+   "event": "Hubble telescope",
+   "true_year": 1990,
+   "year_spike_Ptrue": 0.071,
+   "model_year": 1991,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Culture",
+   "event": "Orwell's 1984",
+   "true_year": 1949,
+   "year_spike_Ptrue": 0.092,
+   "model_year": 1944,
+   "memory_meter": 0.012,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Culture",
+   "event": "Gone with the Wind",
+   "true_year": 1939,
+   "year_spike_Ptrue": 0.039,
+   "model_year": 1945,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Culture",
+   "event": "Woodstock festival",
+   "true_year": 1969,
+   "year_spike_Ptrue": 0.068,
+   "model_year": 1965,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Culture",
+   "event": "Citizen Kane",
+   "true_year": 1941,
+   "year_spike_Ptrue": 0.078,
+   "model_year": 1940,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Culture",
+   "event": "The Beatles form",
+   "true_year": 1960,
+   "year_spike_Ptrue": 0.133,
+   "model_year": 1960,
+   "memory_meter": 0.0,
+   "lights_up": "spike-only"
+  },
+  {
+   "topic": "Disasters",
+   "event": "Hindenburg",
+   "true_year": 1937,
+   "year_spike_Ptrue": 0.009,
+   "model_year": 1929,
+   "memory_meter": 0.239,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Disasters",
+   "event": "Chernobyl",
+   "true_year": 1986,
+   "year_spike_Ptrue": 0.06,
+   "model_year": 1980,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Sports",
+   "event": "First football World Cup",
+   "true_year": 1930,
+   "year_spike_Ptrue": 0.0,
+   "model_year": 1924,
+   "memory_meter": 0.837,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "Sports",
+   "event": "Berlin Olympics",
+   "true_year": 1936,
+   "year_spike_Ptrue": 0.006,
+   "model_year": 1928,
+   "memory_meter": 0.402,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "People",
+   "event": "FDR elected president",
+   "true_year": 1932,
+   "year_spike_Ptrue": 0.008,
+   "model_year": 1924,
+   "memory_meter": 0.996,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "People",
+   "event": "JFK assassinated",
+   "true_year": 1963,
+   "year_spike_Ptrue": 0.044,
+   "model_year": 1971,
+   "memory_meter": 0.651,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "People",
+   "event": "Gandhi assassinated",
+   "true_year": 1948,
+   "year_spike_Ptrue": 0.063,
+   "model_year": 1941,
+   "memory_meter": 0.277,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "People",
+   "event": "JFK becomes president",
+   "true_year": 1961,
+   "year_spike_Ptrue": 0.101,
+   "model_year": 1960,
+   "memory_meter": 0.006,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "People",
+   "event": "MLK 'I Have a Dream'",
+   "true_year": 1963,
+   "year_spike_Ptrue": 0.037,
+   "model_year": 1960,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Late-20thc",
+   "event": "Falklands War",
+   "true_year": 1982,
+   "year_spike_Ptrue": 0.044,
+   "model_year": 1990,
+   "memory_meter": 0.509,
+   "lights_up": "meter-only"
+  },
+  {
+   "topic": "Late-20thc",
+   "event": "Fall of Saigon",
+   "true_year": 1975,
+   "year_spike_Ptrue": 0.043,
+   "model_year": 1968,
+   "memory_meter": 0.321,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Late-20thc",
+   "event": "Iranian Revolution",
+   "true_year": 1979,
+   "year_spike_Ptrue": 0.03,
+   "model_year": 1971,
+   "memory_meter": 0.088,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Late-20thc",
+   "event": "Watergate scandal",
+   "true_year": 1972,
+   "year_spike_Ptrue": 0.062,
+   "model_year": 1970,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "21stc",
+   "event": "Global financial crisis",
+   "true_year": 2008,
+   "year_spike_Ptrue": 0.02,
+   "model_year": 2000,
+   "memory_meter": 0.245,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "21stc",
+   "event": "9/11 attacks",
+   "true_year": 2001,
+   "year_spike_Ptrue": 0.009,
+   "model_year": 1993,
+   "memory_meter": 0.016,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "21stc",
+   "event": "COVID-19 pandemic",
+   "true_year": 2020,
+   "year_spike_Ptrue": 0.05,
+   "model_year": 2012,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Obscure-real",
+   "event": "Winter War",
+   "true_year": 1939,
+   "year_spike_Ptrue": 0.091,
+   "model_year": 1931,
+   "memory_meter": 0.459,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Obscure-real",
+   "event": "Chaco War ends",
+   "true_year": 1935,
+   "year_spike_Ptrue": 0.015,
+   "model_year": 1928,
+   "memory_meter": 0.385,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Obscure-real",
+   "event": "Treaty of Saadabad",
+   "true_year": 1937,
+   "year_spike_Ptrue": 0.053,
+   "model_year": 1929,
+   "memory_meter": 0.011,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Obscure-real",
+   "event": "Anti-Comintern Pact",
+   "true_year": 1936,
+   "year_spike_Ptrue": 0.018,
+   "model_year": 1928,
+   "memory_meter": 0.006,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Obscure-real",
+   "event": "Montreux Convention",
+   "true_year": 1936,
+   "year_spike_Ptrue": 0.008,
+   "model_year": 1928,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Invented",
+   "event": "Vashenko Treaty",
+   "true_year": 1952,
+   "year_spike_Ptrue": 0.038,
+   "model_year": 1960,
+   "memory_meter": 0.005,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Invented",
+   "event": "Astorheim Crisis",
+   "true_year": 1967,
+   "year_spike_Ptrue": 0.032,
+   "model_year": 1960,
+   "memory_meter": 0.002,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Invented",
+   "event": "Kessendorf Uprising",
+   "true_year": 1948,
+   "year_spike_Ptrue": 0.142,
+   "model_year": 1948,
+   "memory_meter": 0.001,
+   "lights_up": "spike-only"
+  },
+  {
+   "topic": "Invented",
+   "event": "Marnburg Conference",
+   "true_year": 1955,
+   "year_spike_Ptrue": 0.038,
+   "model_year": 1960,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Invented",
+   "event": "Kaltenfeld Rebellion",
+   "true_year": 1958,
+   "year_spike_Ptrue": 0.041,
+   "model_year": 1960,
+   "memory_meter": 0.001,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Invented",
+   "event": "Grelham Accord",
+   "true_year": 1961,
+   "year_spike_Ptrue": 0.1,
+   "model_year": 1961,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Invented",
+   "event": "Battle of Veldhaven",
+   "true_year": 1943,
+   "year_spike_Ptrue": 0.059,
+   "model_year": 1940,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  },
+  {
+   "topic": "Invented",
+   "event": "Treaty of Brenzau",
+   "true_year": 1971,
+   "year_spike_Ptrue": 0.068,
+   "model_year": 1970,
+   "memory_meter": 0.0,
+   "lights_up": "dark"
+  }
+ ]
+}

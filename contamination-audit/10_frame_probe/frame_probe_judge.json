@@ -1,0 +1,782 @@
+{
+ "1900__inheritance__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the son's financial struggles running the firm",
+  "novelty": "the son takes over the family firm"
+ },
+ "1900__inheritance__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "father is alive, undoing his death",
+  "novelty": "the son takes over after the father's death"
+ },
+ "1900__inheritance__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the prosperity of the family-run firm",
+  "novelty": "firm passes from father to son"
+ },
+ "1900__inheritance__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to a forgotten man, ignoring the son",
+  "novelty": "the son inherits the firm"
+ },
+ "1900__railway__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the railway's history and travel times",
+  "novelty": "a new railway joining two distant cities"
+ },
+ "1900__railway__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics like weather and philosophy",
+  "novelty": "a new railway joins two distant cities"
+ },
+ "1900__railway__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "railway transport rewritten as water transport",
+  "novelty": "a railway connects city and sea"
+ },
+ "1900__railway__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated daily life and moralizing",
+  "novelty": "a railway built between city and sea"
+ },
+ "1900__succession__0__use_it": {
+  "label": "REVERTS",
+  "reason": "dead father is suddenly alive and active",
+  "novelty": "the son succeeds the dead king"
+ },
+ "1900__succession__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the young prince's upbringing and actions",
+  "novelty": "the son succeeds the dead king"
+ },
+ "1900__succession__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the historical consequences of the succession",
+  "novelty": "the eldest son succeeds the dead king"
+ },
+ "1900__succession__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "the new king is silently dropped",
+  "novelty": "the eldest son succeeds the dead king"
+ },
+ "1900__treaty__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the consequences of the peace treaty",
+  "novelty": "a treaty ends the war between two great powers"
+ },
+ "1900__treaty__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the peaceful aftermath and leader's reflection",
+  "novelty": "the war ends with a treaty"
+ },
+ "1900__treaty__1__use_it": {
+  "label": "REVERTS",
+  "reason": "peace is immediately replaced by a new war",
+  "novelty": "peace treaty signed between warring nations"
+ },
+ "1900__treaty__1__hold_it": {
+  "label": "EXTENDS",
+  "reason": "describes peaceful daily life resuming after the treaty",
+  "novelty": "peace treaty signed between warring nations"
+ },
+ "1900__woman_authority__0__use_it": {
+  "label": "REVERTS",
+  "reason": "woman leader replaced by a man to run things",
+  "novelty": "a woman leads the national bank"
+ },
+ "1900__woman_authority__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "woman leader replaced by her husband",
+  "novelty": "a woman leads the national bank"
+ },
+ "1900__woman_authority__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to incoherent personal drama, ignoring the bank",
+  "novelty": "a woman is the bank director"
+ },
+ "1900__woman_authority__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "shifts focus to her husband and domestic life",
+  "novelty": "a woman leads the bank"
+ },
+ "1900__human_flight__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "flight rewritten as a sea voyage ('got ashore')",
+  "novelty": "flying across the ocean in a single day"
+ },
+ "1900__human_flight__0__hold_it": {
+  "label": "STALLS",
+  "reason": "ignores the flight, drifting to unrelated characters",
+  "novelty": "rapid transatlantic flight by two men"
+ },
+ "1900__human_flight__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated story about debt",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "1900__human_flight__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics, ignoring the flying machine",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "1900__empire_fall__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the political aftermath of the Tsar's fall",
+  "novelty": "the overthrow of the Russian empire and Tsar"
+ },
+ "1900__empire_fall__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated person in Stamboul",
+  "novelty": "overthrow of the Russian Empire and Tsar"
+ },
+ "1900__empire_fall__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated, incoherent historical events",
+  "novelty": "the Russian crown is overthrown by the people"
+ },
+ "1900__empire_fall__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "reverts to the Emperor holding the highest place",
+  "novelty": "the Russian crown is cast down"
+ },
+ "1900__wireless_voice__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to a man's schedule, ignoring wireless communication",
+  "novelty": "voices carried through the air without wires"
+ },
+ "1900__wireless_voice__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics like weather and patriotism",
+  "novelty": "voices carried through the air without wires"
+ },
+ "1900__wireless_voice__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to Europeans learning French",
+  "novelty": "hearing voices from a thousand miles away"
+ },
+ "1900__wireless_voice__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics like war and daily life",
+  "novelty": "voice transmission over a thousand miles via machine"
+ },
+ "1900__thinking_machine__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to taxation, ignoring the machine",
+  "novelty": "a machine that thinks"
+ },
+ "1900__thinking_machine__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "machine silently dropped, replaced by a spiritual man",
+  "novelty": "a machine that thinks"
+ },
+ "1900__thinking_machine__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "thinking machine reduced to an ordinary 18th-century engine",
+  "novelty": "an engine that can think for itself"
+ },
+ "1900__thinking_machine__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "thinking engine replaced by a human man",
+  "novelty": "a metal engine that can think"
+ },
+ "1900__atom_city__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "atomic blast rewritten as an ordinary fire",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "1900__atom_city__0__hold_it": {
+  "label": "DISTORTS",
+  "reason": "city-destroying bomb rewritten as a targeted assassination bomb",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "1900__atom_city__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "destruction rewritten as an empty city with standing walls",
+  "novelty": "one weapon instantly wiping out a whole city"
+ },
+ "1900__atom_city__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to daily routines, ignoring the destruction",
+  "novelty": "one weapon instantly destroys a whole city"
+ },
+ "1900__television__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to weather and taking baths in July",
+  "novelty": "living faces and voices sent through the air"
+ },
+ "1900__television__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated mundane events and moralizing",
+  "novelty": "living faces and voices broadcast through the air"
+ },
+ "1900__television__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated personal anecdote",
+  "novelty": "seeing distant events from one's parlour"
+ },
+ "1900__television__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated story about a great man",
+  "novelty": "seeing distant events from one's parlour"
+ },
+ "1900__dna_code__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to a student's feelings, ignoring the novelty",
+  "novelty": "rewriting the code of life by hand"
+ },
+ "1900__dna_code__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics, ignoring the genetic rewriting",
+  "novelty": "reading and rewriting the code of life by hand"
+ },
+ "1900__dna_code__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "reduced to primitive survival before printing presses",
+  "novelty": "humans modifying the genetic code/pattern of life"
+ },
+ "1900__dna_code__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane daily life and moral platitudes",
+  "novelty": "men reading and changing the secret pattern of life"
+ },
+ "1900__moon_landing__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "moon voyage rewritten as terrestrial disasters",
+  "novelty": "men walking on the moon"
+ },
+ "1900__moon_landing__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane earthly events, ignoring the moon",
+  "novelty": "men walking on the moon"
+ },
+ "1900__moon_landing__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "moon voyage rewritten as a local earthly walk",
+  "novelty": "humans landing on the moon"
+ },
+ "1900__moon_landing__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to London and daily life, ignoring the moon",
+  "novelty": "humans landing on the moon"
+ },
+ "1913__inheritance__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the legal and business consequences of his takeover",
+  "novelty": "the son takes over the family firm"
+ },
+ "1913__inheritance__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the son's management of the firm",
+  "novelty": "the son takes over the family firm"
+ },
+ "1913__inheritance__1__use_it": {
+  "label": "REVERTS",
+  "reason": "son becomes partner of another successor instead of succeeding",
+  "novelty": "the son succeeds the father in the firm"
+ },
+ "1913__inheritance__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "leadership reverts to an older man",
+  "novelty": "the son takes over the firm"
+ },
+ "1913__railway__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the consequences of the new railway connection",
+  "novelty": "a new railway connects two distant cities"
+ },
+ "1913__railway__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated man who became ill",
+  "novelty": "a new railway joins two distant cities"
+ },
+ "1913__railway__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "railway transport rewritten as water transport",
+  "novelty": "a railway connecting city and sea"
+ },
+ "1913__railway__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics, ignoring the railway",
+  "novelty": "a railway built between city and sea"
+ },
+ "1913__succession__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the new king's reign and deposition",
+  "novelty": "the son succeeds the dead king"
+ },
+ "1913__succession__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "crowned son replaced by another leader",
+  "novelty": "the son succeeds the dead king"
+ },
+ "1913__succession__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "son becomes regent instead of the crowned king",
+  "novelty": "the eldest son inherits the crown as king"
+ },
+ "1913__succession__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "new king replaced by a long-serving official",
+  "novelty": "the eldest son inherits the crown"
+ },
+ "1913__treaty__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the financial terms of the treaty",
+  "novelty": "a treaty ends the war"
+ },
+ "1913__treaty__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "describes peaceful daily life resuming after the war",
+  "novelty": "the war is over and peace is established"
+ },
+ "1913__treaty__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated historical wars",
+  "novelty": "a peace treaty is signed ending the war"
+ },
+ "1913__treaty__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated story about a mine",
+  "novelty": "peace treaty signed between warring nations"
+ },
+ "1913__woman_authority__0__use_it": {
+  "label": "REVERTS",
+  "reason": "husband is president and takes charge as head",
+  "novelty": "a woman leads the national bank"
+ },
+ "1913__woman_authority__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "woman replaced by a man",
+  "novelty": "a woman (not a man) leads the bank"
+ },
+ "1913__woman_authority__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops her role and authority as bank director",
+  "novelty": "a woman is the bank director"
+ },
+ "1913__woman_authority__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "female director is silently dropped for male president",
+  "novelty": "a woman leads the bank"
+ },
+ "1913__human_flight__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the consequences and subsequent attempts of transatlantic flight",
+  "novelty": "flying across the ocean in a single day"
+ },
+ "1913__human_flight__0__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the aftermath of the two flyers' return",
+  "novelty": "flying across the ocean in a single day"
+ },
+ "1913__human_flight__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to a metaphor about the body and ships",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "1913__human_flight__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated daily life and romance",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "1913__empire_fall__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops consequences for Poland and failed restoration attempts",
+  "novelty": "overthrow of the Russian Empire and the Tsar"
+ },
+ "1913__empire_fall__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated man who loved England",
+  "novelty": "the overthrow of the Russian empire and Tsar"
+ },
+ "1913__empire_fall__1__use_it": {
+  "label": "REVERTS",
+  "reason": "The autocrat still rules by divine right.",
+  "novelty": "Russia casts down the crown and becomes a republic"
+ },
+ "1913__empire_fall__1__hold_it": {
+  "label": "EXTENDS",
+  "reason": "develops the aftermath of the overthrown monarchy",
+  "novelty": "the Russian crown is overthrown"
+ },
+ "1913__wireless_voice__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "wireless transmission reduced to ordinary talking in a room",
+  "novelty": "wireless voice transmission"
+ },
+ "1913__wireless_voice__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane events and describing a man",
+  "novelty": "voices carried through the air without wires"
+ },
+ "1913__wireless_voice__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the telephone's communication capabilities and inventor history",
+  "novelty": "voice transmission over a thousand miles via machine"
+ },
+ "1913__wireless_voice__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated carriage ride and paper reading",
+  "novelty": "hearing voices from a thousand miles away via a machine"
+ },
+ "1913__thinking_machine__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "thinking mind reduced to a manufacturing machine",
+  "novelty": "a machine that thinks and reasons"
+ },
+ "1913__thinking_machine__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to the death of a leader",
+  "novelty": "a machine that thinks"
+ },
+ "1913__thinking_machine__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "thinking engine reduced to a standard human-operated steam engine",
+  "novelty": "an engine of metal that can think"
+ },
+ "1913__thinking_machine__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated man, ignoring the engine",
+  "novelty": "an engine of metal that can think"
+ },
+ "1913__atom_city__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to the eruption of Krakatoa",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "1913__atom_city__0__hold_it": {
+  "label": "STALLS",
+  "reason": "ignores the destruction and drifts to unrelated characters",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "1913__atom_city__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "weapon rewritten as ordinary fire",
+  "novelty": "one weapon instantly destroys a whole city"
+ },
+ "1913__atom_city__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to Napoleon and everyday routines",
+  "novelty": "one weapon instantly destroys a whole city"
+ },
+ "1913__television__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the social consequences of home broadcasting",
+  "novelty": "living faces and voices broadcast into homes"
+ },
+ "1913__television__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated mysterious narrative",
+  "novelty": "broadcasting living faces and voices into homes"
+ },
+ "1913__television__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated domestic reunion story",
+  "novelty": "seeing distant events from one's parlour"
+ },
+ "1913__television__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated daily life and an army officer",
+  "novelty": "seeing distant events from one's parlour"
+ },
+ "1913__dna_code__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to a boy going to school",
+  "novelty": "reading and rewriting the code of life by hand"
+ },
+ "1913__dna_code__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane events and a rich man",
+  "novelty": "rewriting the code of life by hand"
+ },
+ "1913__dna_code__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to political freedom and self-government",
+  "novelty": "ability to read and change life's secret pattern"
+ },
+ "1913__dna_code__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to office seniority, ignoring the novelty",
+  "novelty": "ability to read and change life's secret pattern"
+ },
+ "1913__moon_landing__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to Dickens and unrelated book titles",
+  "novelty": "men walking on the moon"
+ },
+ "1913__moon_landing__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "returns to humans only knowing and living on Earth",
+  "novelty": "humans walking on the moon"
+ },
+ "1913__moon_landing__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "moon voyage rewritten as waking up in a strange land",
+  "novelty": "humans landing on the moon"
+ },
+ "1913__moon_landing__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to ordinary Earth life and a man in Italy",
+  "novelty": "humans landing on the moon"
+ },
+ "1929__inheritance__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the son's actions running the business",
+  "novelty": "the son taking over the family firm"
+ },
+ "1929__inheritance__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "son replaced by an established older businessman",
+  "novelty": "the son takes over the firm"
+ },
+ "1929__inheritance__1__use_it": {
+  "label": "REVERTS",
+  "reason": "the son and the firm are silently dropped",
+  "novelty": "the son inherits the firm"
+ },
+ "1929__inheritance__1__hold_it": {
+  "label": "EXTENDS",
+  "reason": "describes the son who now leads the firm",
+  "novelty": "the son inherits the firm"
+ },
+ "1929__railway__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "railway's impact rewritten as medieval maritime trade shift",
+  "novelty": "a railway connecting two distant cities"
+ },
+ "1929__railway__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to describing an authoritative man",
+  "novelty": "a new railway joining two distant cities"
+ },
+ "1929__railway__1__use_it": {
+  "label": "REVERTS",
+  "reason": "railway is dropped for conventional Roman navy",
+  "novelty": "a railway connecting city and sea"
+ },
+ "1929__railway__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated religious topics, ignoring the railway",
+  "novelty": "a railway built between city and sea"
+ },
+ "1929__succession__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the new king's life and marriage",
+  "novelty": "the son succeeds the dead king"
+ },
+ "1929__succession__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "new king is replaced by a wealthy man",
+  "novelty": "the son succeeds the dead king"
+ },
+ "1929__succession__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated 1870 European history",
+  "novelty": "the eldest son succeeds the dead king"
+ },
+ "1929__succession__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "son replaced by a woman",
+  "novelty": "the eldest son inherits the crown"
+ },
+ "1929__treaty__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to US independence",
+  "novelty": "the war ended by treaty"
+ },
+ "1929__treaty__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to describing a leader's social class",
+  "novelty": "peace is established between two powers"
+ },
+ "1929__treaty__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the post-war consequences of paying debts",
+  "novelty": "a peace treaty ends the war"
+ },
+ "1929__treaty__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated biography of a woman",
+  "novelty": "peace treaty signed between warring nations"
+ },
+ "1929__woman_authority__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the consequences of her leadership and appointments",
+  "novelty": "a woman leads the national bank"
+ },
+ "1929__woman_authority__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "woman replaced by a man",
+  "novelty": "a woman leads the national bank"
+ },
+ "1929__woman_authority__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops her role and interactions with other women",
+  "novelty": "a woman is the bank director"
+ },
+ "1929__woman_authority__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "sidelined from bank leadership to traditional domestic role",
+  "novelty": "a woman leads the bank"
+ },
+ "1929__human_flight__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated speech",
+  "novelty": "flying across the ocean in a single day"
+ },
+ "1929__human_flight__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated political commentary",
+  "novelty": "transatlantic flight in a single day"
+ },
+ "1929__human_flight__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the flight's outcome of landing on an island",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "1929__human_flight__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics like markets and poverty",
+  "novelty": "a flying machine crossing the ocean"
+ },
+ "1929__empire_fall__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the consequences of the new provisional government",
+  "novelty": "the overthrow of the Russian Empire and the Tsar"
+ },
+ "1929__empire_fall__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "reverts power to the Tsarina Alexandra Feodorovna",
+  "novelty": "the overthrow of the Russian empire and Tsar"
+ },
+ "1929__empire_fall__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the political consequences of the revolution",
+  "novelty": "the people overthrowing the Russian crown"
+ },
+ "1929__empire_fall__1__hold_it": {
+  "label": "REVERTS",
+  "reason": "restores the monarchical figure as father of his people",
+  "novelty": "the Russian monarchy is overthrown"
+ },
+ "1929__wireless_voice__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the voice transmission to a 10-mile distance",
+  "novelty": "voices transmitted through the air without wires"
+ },
+ "1929__wireless_voice__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics about a German woman",
+  "novelty": "voices carried through the air without wires"
+ },
+ "1929__wireless_voice__1__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the global reach of voice transmission",
+  "novelty": "voice transmission over long distances via a machine"
+ },
+ "1929__wireless_voice__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topics like markets and genius",
+  "novelty": "voice transmission over a thousand miles via machine"
+ },
+ "1929__thinking_machine__0__use_it": {
+  "label": "DISTORTS",
+  "reason": "thinking mind reduced to a physical engine",
+  "novelty": "a machine that thinks and reasons"
+ },
+ "1929__thinking_machine__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "machine dropped for human with trained mind",
+  "novelty": "a machine that thinks"
+ },
+ "1929__thinking_machine__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "thinking engine reduced to ordinary tools and machines",
+  "novelty": "an engine that can think for itself"
+ },
+ "1929__thinking_machine__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated woman, ignoring the engine",
+  "novelty": "a metal engine that can think"
+ },
+ "1929__atom_city__0__use_it": {
+  "label": "EXTENDS",
+  "reason": "develops the political aftermath of the destruction",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "1929__atom_city__0__hold_it": {
+  "label": "REVERTS",
+  "reason": "city is treated as undamaged and normal",
+  "novelty": "one bomb instantly destroys a whole city"
+ },
+ "1929__atom_city__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "city-destroying weapon reduced to ordinary individual arms",
+  "novelty": "one weapon instantly destroys a whole city"
+ },
+ "1929__atom_city__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to unrelated topic about a husband and wife",
+  "novelty": "one weapon instantly destroys a whole city"
+ },
+ "1929__television__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to church attendance and automobiles",
+  "novelty": "broadcasting living faces and voices into homes"
+ },
+ "1929__television__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated story about a woman",
+  "novelty": "living faces and voices sent through the air"
+ },
+ "1929__television__1__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to Magna Carta and English history",
+  "novelty": "seeing distant events from one's parlour"
+ },
+ "1929__television__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated leader lacking common sense",
+  "novelty": "seeing far away things in one's parlour"
+ },
+ "1929__dna_code__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to a teacher training to work with children",
+  "novelty": "the code of life is read and rewritten by hand"
+ },
+ "1929__dna_code__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated story about a woman",
+  "novelty": "reading and rewriting the code of life by hand"
+ },
+ "1929__dna_code__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "rewritten as a traditional religious missionary quest",
+  "novelty": "ability to read and change biological patterns of life"
+ },
+ "1929__dna_code__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to an unrelated story about a woman",
+  "novelty": "humans can read and change life's secret pattern"
+ },
+ "1929__moon_landing__0__use_it": {
+  "label": "STALLS",
+  "reason": "drifts to Mars and a comet",
+  "novelty": "men walking on the moon"
+ },
+ "1929__moon_landing__0__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to mundane earthly life and moralizing about men",
+  "novelty": "men walking on the moon"
+ },
+ "1929__moon_landing__1__use_it": {
+  "label": "DISTORTS",
+  "reason": "moon voyage rewritten as an earthly train accident",
+  "novelty": "travellers landing on the moon"
+ },
+ "1929__moon_landing__1__hold_it": {
+  "label": "STALLS",
+  "reason": "drifts to ordinary Earth life, ignoring the moon",
+  "novelty": "humans landing on the moon"
+ }
+}

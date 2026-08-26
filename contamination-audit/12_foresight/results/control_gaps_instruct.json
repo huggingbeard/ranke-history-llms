@@ -1,0 +1,542 @@
+{
+ "meta": {
+  "version": "v1",
+  "date": "2026-07-07",
+  "status": "PROVISIONAL — facts for PI vetting",
+  "model_map": {
+   "1900": "uzh-echist-org/Ranke-4B-1900",
+   "1913": "uzh-echist-org/Ranke-4B-1913-1202-Instruct",
+   "1929": "uzh-echist-org/Ranke-4B-1929-1202-Instruct"
+  },
+  "n_items": 40,
+  "n_gated": 14,
+  "scoring": "certified v41 arm; gap = surprise(guesser)-surprise(witness) at truth; truth=index0"
+ },
+ "mundane_gap_percentiles": {
+  "10": -0.16,
+  "25": 0.062,
+  "50": 0.26,
+  "75": 1.504,
+  "90": 3.529
+ },
+ "mundane_gap_mean": 1.069,
+ "catastrophes_on_mundane_scale": [
+  {
+   "name": "emp_kaiser_1919",
+   "gap": 12.34,
+   "percentile_in_mundane": 100.0
+  },
+  {
+   "name": "flu_name",
+   "gap": 1.54,
+   "percentile_in_mundane": 71.4
+  },
+  {
+   "name": "war_us_entry",
+   "gap": 0.39,
+   "percentile_in_mundane": 57.1
+  },
+  {
+   "name": "rev_debts",
+   "gap": 0.24,
+   "percentile_in_mundane": 50.0
+  },
+  {
+   "name": "infl_victims",
+   "gap": 0.11,
+   "percentile_in_mundane": 28.6
+  },
+  {
+   "name": "panic_rescuer",
+   "gap": 0.07,
+   "percentile_in_mundane": 28.6
+  },
+  {
+   "name": "panic_severity",
+   "gap": -0.1,
+   "percentile_in_mundane": 14.3
+  }
+ ],
+ "control_rows": [
+  {
+   "name": "uk_pm_1926",
+   "cat": "election",
+   "window": "1913->1929",
+   "truth": "Stanley Baldwin",
+   "p_guesser": 0.0,
+   "p_witness": 0.032,
+   "gap": 9.699,
+   "covered": true,
+   "guesser_bet": "David Lloyd George",
+   "witness_bet": "David Lloyd George"
+  },
+  {
+   "name": "amundsen_1911",
+   "cat": "onschedule",
+   "window": "1900->1913",
+   "truth": "Roald Amundsen",
+   "p_guesser": 0.001,
+   "p_witness": 0.881,
+   "gap": 7.124,
+   "covered": false,
+   "guesser_bet": "Robert Peary",
+   "witness_bet": "Roald Amundsen"
+  },
+  {
+   "name": "stockholm_1912",
+   "cat": "onschedule",
+   "window": "1900->1913",
+   "truth": "Stockholm",
+   "p_guesser": 0.001,
+   "p_witness": 0.572,
+   "gap": 6.793,
+   "covered": false,
+   "guesser_bet": "Athens",
+   "witness_bet": "Stockholm"
+  },
+  {
+   "name": "york_wedding",
+   "cat": "marriage",
+   "window": "1913->1929",
+   "truth": "Elizabeth Bowes-Lyon",
+   "p_guesser": 0.001,
+   "p_witness": 0.488,
+   "gap": 5.811,
+   "covered": false,
+   "guesser_bet": "Mary of Teck",
+   "witness_bet": "Mary of Teck"
+  },
+  {
+   "name": "us_1920",
+   "cat": "election",
+   "window": "1913->1929",
+   "truth": "Warren Harding",
+   "p_guesser": 0.0,
+   "p_witness": 0.022,
+   "gap": 4.992,
+   "covered": true,
+   "guesser_bet": "Woodrow Wilson",
+   "witness_bet": "Woodrow Wilson"
+  },
+  {
+   "name": "edward_vii_crowned",
+   "cat": "coronation",
+   "window": "1900->1913",
+   "truth": "Edward the Seventh",
+   "p_guesser": 0.004,
+   "p_witness": 0.58,
+   "gap": 4.955,
+   "covered": false,
+   "guesser_bet": "Queen Victoria",
+   "witness_bet": "Edward the Seventh"
+  },
+  {
+   "name": "us_1912",
+   "cat": "election",
+   "window": "1900->1913",
+   "truth": "Woodrow Wilson",
+   "p_guesser": 0.009,
+   "p_witness": 0.666,
+   "gap": 4.341,
+   "covered": true,
+   "guesser_bet": "Theodore Roosevelt",
+   "witness_bet": "Woodrow Wilson"
+  },
+  {
+   "name": "dawes_plan",
+   "cat": "conference",
+   "window": "1913->1929",
+   "truth": "Dawes",
+   "p_guesser": 0.013,
+   "p_witness": 0.835,
+   "gap": 4.127,
+   "covered": false,
+   "guesser_bet": "Morgan",
+   "witness_bet": "Dawes"
+  },
+  {
+   "name": "genoa_conf",
+   "cat": "conference",
+   "window": "1913->1929",
+   "truth": "Genoa",
+   "p_guesser": 0.018,
+   "p_witness": 0.751,
+   "gap": 3.75,
+   "covered": true,
+   "guesser_bet": "Rome",
+   "witness_bet": "Genoa"
+  },
+  {
+   "name": "irish_free_state",
+   "cat": "constitutional",
+   "window": "1913->1929",
+   "truth": "Free State",
+   "p_guesser": 0.039,
+   "p_witness": 0.788,
+   "gap": 3.014,
+   "covered": true,
+   "guesser_bet": "Republic",
+   "witness_bet": "Free State"
+  },
+  {
+   "name": "locarno",
+   "cat": "conference",
+   "window": "1913->1929",
+   "truth": "Locarno",
+   "p_guesser": 0.006,
+   "p_witness": 0.105,
+   "gap": 2.789,
+   "covered": false,
+   "guesser_bet": "Versailles",
+   "witness_bet": "Versailles"
+  },
+  {
+   "name": "uk_1924_labour",
+   "cat": "election",
+   "window": "1913->1929",
+   "truth": "Labour party",
+   "p_guesser": 0.016,
+   "p_witness": 0.198,
+   "gap": 2.506,
+   "covered": false,
+   "guesser_bet": "Liberal party",
+   "witness_bet": "Conservative party"
+  },
+  {
+   "name": "german_wilhelm",
+   "cat": "succession",
+   "window": "1900->1913",
+   "truth": "Wilhelm the Second",
+   "p_guesser": 0.02,
+   "p_witness": 0.235,
+   "gap": 2.453,
+   "covered": true,
+   "guesser_bet": "Otto",
+   "witness_bet": "Otto"
+  },
+  {
+   "name": "bleriot_1909",
+   "cat": "onschedule",
+   "window": "1900->1913",
+   "truth": "Louis Bleriot",
+   "p_guesser": 0.009,
+   "p_witness": 0.085,
+   "gap": 2.238,
+   "covered": true,
+   "guesser_bet": "Wilbur Wright",
+   "witness_bet": "Henri Farman"
+  },
+  {
+   "name": "pope_pius_xi",
+   "cat": "succession",
+   "window": "1913->1929",
+   "truth": "Pius the Eleventh",
+   "p_guesser": 0.012,
+   "p_witness": 0.074,
+   "gap": 1.852,
+   "covered": false,
+   "guesser_bet": "Leo the Thirteenth",
+   "witness_bet": "Leo the Thirteenth"
+  },
+  {
+   "name": "sterling_gold_1925",
+   "cat": "economic",
+   "window": "1913->1929",
+   "truth": "its old pre-war parity",
+   "p_guesser": 0.105,
+   "p_witness": 0.591,
+   "gap": 1.728,
+   "covered": false,
+   "guesser_bet": "half its pre-war value",
+   "witness_bet": "its old pre-war parity"
+  },
+  {
+   "name": "washington_naval",
+   "cat": "conference",
+   "window": "1913->1929",
+   "truth": "Washington",
+   "p_guesser": 0.149,
+   "p_witness": 0.75,
+   "gap": 1.617,
+   "covered": true,
+   "guesser_bet": "London",
+   "witness_bet": "Washington"
+  },
+  {
+   "name": "rapallo",
+   "cat": "conference",
+   "window": "1913->1929",
+   "truth": "Rapallo",
+   "p_guesser": 0.198,
+   "p_witness": 0.634,
+   "gap": 1.165,
+   "covered": true,
+   "guesser_bet": "Brest",
+   "witness_bet": "Rapallo"
+  },
+  {
+   "name": "lusitania",
+   "cat": "ship",
+   "window": "1900->1913",
+   "truth": "Lusitania",
+   "p_guesser": 0.291,
+   "p_witness": 0.671,
+   "gap": 0.833,
+   "covered": true,
+   "guesser_bet": "Olympic",
+   "witness_bet": "Lusitania"
+  },
+  {
+   "name": "us_1924",
+   "cat": "election",
+   "window": "1913->1929",
+   "truth": "Calvin Coolidge",
+   "p_guesser": 0.464,
+   "p_witness": 1.0,
+   "gap": 0.767,
+   "covered": false,
+   "guesser_bet": "John Davis",
+   "witness_bet": "Calvin Coolidge"
+  },
+  {
+   "name": "kipling_1907",
+   "cat": "nobel",
+   "window": "1900->1913",
+   "truth": "Literature",
+   "p_guesser": 0.451,
+   "p_witness": 0.907,
+   "gap": 0.698,
+   "covered": false,
+   "guesser_bet": "Literature",
+   "witness_bet": "Literature"
+  },
+  {
+   "name": "tsar_nicholas",
+   "cat": "succession",
+   "window": "1900->1913",
+   "truth": "Nicholas the Second",
+   "p_guesser": 0.267,
+   "p_witness": 0.499,
+   "gap": 0.627,
+   "covered": false,
+   "guesser_bet": "Nicholas the First",
+   "witness_bet": "Nicholas the Second"
+  },
+  {
+   "name": "titanic_launched",
+   "cat": "ship",
+   "window": "1900->1913",
+   "truth": "Titanic",
+   "p_guesser": 0.26,
+   "p_witness": 0.433,
+   "gap": 0.51,
+   "covered": false,
+   "guesser_bet": "Britannic",
+   "witness_bet": "Titanic"
+  },
+  {
+   "name": "panama_1914",
+   "cat": "onschedule",
+   "window": "1913->1929",
+   "truth": "Panama",
+   "p_guesser": 0.613,
+   "p_witness": 0.934,
+   "gap": 0.422,
+   "covered": false,
+   "guesser_bet": "Panama",
+   "witness_bet": "Panama"
+  },
+  {
+   "name": "curie_1911",
+   "cat": "nobel",
+   "window": "1900->1913",
+   "truth": "Chemistry",
+   "p_guesser": 0.513,
+   "p_witness": 0.7,
+   "gap": 0.312,
+   "covered": true,
+   "guesser_bet": "Chemistry",
+   "witness_bet": "Chemistry"
+  },
+  {
+   "name": "wright_1903",
+   "cat": "onschedule",
+   "window": "1900->1913",
+   "truth": "Wright",
+   "p_guesser": 0.754,
+   "p_witness": 0.928,
+   "gap": 0.207,
+   "covered": true,
+   "guesser_bet": "Wright",
+   "witness_bet": "Wright"
+  },
+  {
+   "name": "dreadnought",
+   "cat": "ship",
+   "window": "1900->1913",
+   "truth": "Dreadnought",
+   "p_guesser": 0.808,
+   "p_witness": 0.986,
+   "gap": 0.199,
+   "covered": true,
+   "guesser_bet": "Dreadnought",
+   "witness_bet": "Dreadnought"
+  },
+  {
+   "name": "versailles_signed",
+   "cat": "conference",
+   "window": "1913->1929",
+   "truth": "Versailles",
+   "p_guesser": 0.8,
+   "p_witness": 0.911,
+   "gap": 0.13,
+   "covered": true,
+   "guesser_bet": "Versailles",
+   "witness_bet": "Versailles"
+  },
+  {
+   "name": "british_king_1925",
+   "cat": "succession",
+   "window": "1913->1929",
+   "truth": "George the Fifth",
+   "p_guesser": 0.438,
+   "p_witness": 0.482,
+   "gap": 0.096,
+   "covered": false,
+   "guesser_bet": "Edward the Seventh",
+   "witness_bet": "Edward the Seventh"
+  },
+  {
+   "name": "einstein_nobel",
+   "cat": "nobel",
+   "window": "1913->1929",
+   "truth": "Physics",
+   "p_guesser": 0.889,
+   "p_witness": 0.924,
+   "gap": 0.039,
+   "covered": true,
+   "guesser_bet": "Physics",
+   "witness_bet": "Physics"
+  },
+  {
+   "name": "tr_nobel_1906",
+   "cat": "nobel",
+   "window": "1900->1913",
+   "truth": "Theodore Roosevelt",
+   "p_guesser": 0.925,
+   "p_witness": 0.955,
+   "gap": 0.032,
+   "covered": true,
+   "guesser_bet": "Theodore Roosevelt",
+   "witness_bet": "Theodore Roosevelt"
+  },
+  {
+   "name": "prohibition_1920",
+   "cat": "constitutional",
+   "window": "1913->1929",
+   "truth": "strong drink",
+   "p_guesser": 0.271,
+   "p_witness": 0.27,
+   "gap": -0.001,
+   "covered": false,
+   "guesser_bet": "firearms",
+   "witness_bet": "firearms"
+  },
+  {
+   "name": "women_vote_1920",
+   "cat": "constitutional",
+   "window": "1913->1929",
+   "truth": "vote",
+   "p_guesser": 0.983,
+   "p_witness": 0.973,
+   "gap": -0.01,
+   "covered": false,
+   "guesser_bet": "vote",
+   "witness_bet": "vote"
+  },
+  {
+   "name": "us_1908",
+   "cat": "election",
+   "window": "1900->1913",
+   "truth": "William Taft",
+   "p_guesser": 0.003,
+   "p_witness": 0.002,
+   "gap": -0.076,
+   "covered": false,
+   "guesser_bet": "Theodore Roosevelt",
+   "witness_bet": "Theodore Roosevelt"
+  },
+  {
+   "name": "us_1928",
+   "cat": "election",
+   "window": "1913->1929",
+   "truth": "Herbert Hoover",
+   "p_guesser": 0.256,
+   "p_witness": 0.213,
+   "gap": -0.184,
+   "covered": false,
+   "guesser_bet": "John Davis",
+   "witness_bet": "Calvin Coolidge"
+  },
+  {
+   "name": "austria_franz_joseph",
+   "cat": "succession",
+   "window": "1900->1913",
+   "truth": "Franz Joseph",
+   "p_guesser": 0.933,
+   "p_witness": 0.733,
+   "gap": -0.242,
+   "covered": true,
+   "guesser_bet": "Franz Joseph",
+   "witness_bet": "Franz Joseph"
+  },
+  {
+   "name": "alfonso_wedding",
+   "cat": "marriage",
+   "window": "1900->1913",
+   "truth": "Alfonso of Spain",
+   "p_guesser": 0.634,
+   "p_witness": 0.416,
+   "gap": -0.422,
+   "covered": false,
+   "guesser_bet": "Alfonso of Spain",
+   "witness_bet": "Alfonso of Spain"
+  },
+  {
+   "name": "uk_1906",
+   "cat": "election",
+   "window": "1900->1913",
+   "truth": "Liberal party",
+   "p_guesser": 0.854,
+   "p_witness": 0.559,
+   "gap": -0.424,
+   "covered": true,
+   "guesser_bet": "Liberal party",
+   "witness_bet": "Liberal party"
+  },
+  {
+   "name": "george_v_throne",
+   "cat": "succession",
+   "window": "1900->1913",
+   "truth": "George the Fifth",
+   "p_guesser": 0.696,
+   "p_witness": 0.146,
+   "gap": -1.562,
+   "covered": true,
+   "guesser_bet": "George the Fifth",
+   "witness_bet": "Edward the Seventh"
+  },
+  {
+   "name": "young_plan",
+   "cat": "conference",
+   "window": "1913->1929",
+   "truth": "Young",
+   "p_guesser": 0.477,
+   "p_witness": 0.012,
+   "gap": -3.719,
+   "covered": true,
+   "guesser_bet": "Young",
+   "witness_bet": "Dawes"
+  }
+ ]
+}

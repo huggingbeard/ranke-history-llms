@@ -1,0 +1,738 @@
+{
+ "schema": "forced_choice: pick true over 3 matched distractors; chance=0.25",
+ "n": 61,
+ "items": [
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "17th parallel",
+   "prompt": "After the 1954 Geneva conference, Vietnam was divided into a communist north and a non-communist south at the",
+   "true": " 17th parallel",
+   "distractors": [
+    " 16th parallel",
+    " 38th parallel",
+    " 49th parallel"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Tet Offensive",
+   "prompt": "The great surprise offensive the communists launched across the south in early 1968 became known as the",
+   "true": " Tet Offensive",
+   "distractors": [
+    " Spring Offensive",
+    " Winter Offensive",
+    " Monsoon Offensive"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Gulf of Tonkin",
+   "prompt": "The 1964 naval incident that led the United States to escalate the war took place in the Gulf of",
+   "true": " Tonkin",
+   "distractors": [
+    " Siam",
+    " Bengal",
+    " Oman"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Agent Orange",
+   "prompt": "To strip the jungle of cover, American forces sprayed a toxic defoliant code-named Agent",
+   "true": " Orange",
+   "distractors": [
+    " Blue",
+    " Purple",
+    " Silver"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Saigon fell 1975",
+   "prompt": "After years of war, the southern capital of Saigon finally fell to the communist forces in the year",
+   "true": " 1975",
+   "distractors": [
+    " 1945",
+    " 1919",
+    " 1898"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Viet Cong",
+   "prompt": "The communist guerrillas who fought the Americans in the southern countryside were called the Viet",
+   "true": " Cong",
+   "distractors": [
+    " Minh",
+    " Lao",
+    " Nam"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Ho Chi Minh Trail",
+   "prompt": "The hidden network of jungle paths used to move supplies south was called the Ho Chi Minh",
+   "true": " Trail",
+   "distractors": [
+    " Road",
+    " Canal",
+    " Wall"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "My Lai",
+   "prompt": "The 1968 massacre of unarmed villagers by American soldiers took place at the hamlet of My",
+   "true": " Lai",
+   "distractors": [
+    " Son",
+    " Tho",
+    " Hoa"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Paris accords",
+   "prompt": "The peace accords that ended direct American involvement in the war were signed in the city of",
+   "true": " Paris",
+   "distractors": [
+    " Geneva",
+    " Vienna",
+    " Potsdam"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Khe Sanh",
+   "prompt": "A long and famous 1968 siege of an American Marine base was fought at Khe",
+   "true": " Sanh",
+   "distractors": [
+    " Trang",
+    " Binh",
+    " Dak"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Rolling Thunder",
+   "prompt": "The sustained American bombing campaign against the north was code-named Operation Rolling",
+   "true": " Thunder",
+   "distractors": [
+    " Storm",
+    " Hammer",
+    " Lightning"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Reunified 1976",
+   "prompt": "The north and the south of the country were formally reunified into one state in the year",
+   "true": " 1976",
+   "distractors": [
+    " 1945",
+    " 1902",
+    " 1918"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "Saigon=S capital",
+   "prompt": "Throughout the war the capital of South Vietnam was the city of",
+   "true": " Saigon",
+   "distractors": [
+    " Hanoi",
+    " Hue",
+    " Vinh"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "domino theory",
+   "prompt": "American strategists feared that if one country turned communist its neighbours would topple like",
+   "true": " dominoes",
+   "distractors": [
+    " cards",
+    " bricks",
+    " leaves"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Vietnam-US war",
+   "label": "napalm",
+   "prompt": "The jellied-gasoline firebomb that American aircraft dropped on the jungle was called",
+   "true": " napalm",
+   "distractors": [
+    " phosgene",
+    " mustard gas",
+    " chlorine"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Pearl Harbor 1941",
+   "prompt": "The surprise Japanese carrier attack on the American Pacific fleet at Pearl Harbor came in the year",
+   "true": " 1941",
+   "distractors": [
+    " 1905",
+    " 1898",
+    " 1919"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Overlord",
+   "prompt": "The great Allied seaborne invasion of northern France in June 1944 was code-named Operation",
+   "true": " Overlord",
+   "distractors": [
+    " Sledgehammer",
+    " Avalanche",
+    " Torch"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Barbarossa",
+   "prompt": "Germany's massive 1941 invasion of the Soviet Union was code-named Operation",
+   "true": " Barbarossa",
+   "distractors": [
+    " Valkyrie",
+    " Citadel",
+    " Sealion"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "the Blitz",
+   "prompt": "The sustained German bombing of British cities through the winter of 1940 became known as the",
+   "true": " Blitz",
+   "distractors": [
+    " Terror",
+    " Onslaught",
+    " Siege"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Stalingrad",
+   "prompt": "The battle widely seen as the turning point of the war on the eastern front was fought at",
+   "true": " Stalingrad",
+   "distractors": [
+    " Smolensk",
+    " Voronezh",
+    " Rostov"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Hiroshima A-bomb",
+   "prompt": "The first atomic bomb ever used in war was dropped on the Japanese city of",
+   "true": " Hiroshima",
+   "distractors": [
+    " Yokohama",
+    " Sendai",
+    " Niigata"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Auschwitz",
+   "prompt": "The largest of the Nazi extermination camps was located at the Polish town of",
+   "true": " Auschwitz",
+   "distractors": [
+    " Dachau",
+    " Buchenwald",
+    " Belsen"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Yalta 1945",
+   "prompt": "In 1945 the three Allied leaders met to plan the postwar order at the Crimean resort of",
+   "true": " Yalta",
+   "distractors": [
+    " Sochi",
+    " Odessa",
+    " Batumi"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Midway",
+   "prompt": "The decisive 1942 carrier battle that turned the Pacific war was fought near the island of",
+   "true": " Midway",
+   "distractors": [
+    " Samoa",
+    " Guam",
+    " Fiji"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "V-E 1945",
+   "prompt": "Germany surrendered unconditionally, ending the war in Europe, in the year",
+   "true": " 1945",
+   "distractors": [
+    " 1918",
+    " 1923",
+    " 1929"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Final Solution",
+   "prompt": "The Nazi euphemism for the systematic murder of Europe's Jews was the Final",
+   "true": " Solution",
+   "distractors": [
+    " Reckoning",
+    " Judgment",
+    " Order"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Battle of the Bulge",
+   "prompt": "Germany's last great western offensive, through the Ardennes in 1944, is called the Battle of the",
+   "true": " Bulge",
+   "distractors": [
+    " Ridge",
+    " Gap",
+    " Pass"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "El Alamein",
+   "prompt": "The 1942 battle that turned the North African desert war was fought at El",
+   "true": " Alamein",
+   "distractors": [
+    " Agheila",
+    " Adem",
+    " Hamma"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Manhattan Project",
+   "prompt": "The secret American programme that built the atomic bomb was code-named the",
+   "true": " Manhattan Project",
+   "distractors": [
+    " Brooklyn Project",
+    " Hudson Project",
+    " Lincoln Project"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "WWII",
+   "label": "Dunkirk 1940",
+   "prompt": "In 1940 the trapped British army was evacuated by sea from the French port of",
+   "true": " Dunkirk",
+   "distractors": [
+    " Calais",
+    " Brest",
+    " Cherbourg"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Berlin Wall 1961",
+   "prompt": "The concrete wall sealing off West Berlin from the communist east was built in the year",
+   "true": " 1961",
+   "distractors": [
+    " 1919",
+    " 1923",
+    " 1929"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Cuban crisis island",
+   "prompt": "The 1962 nuclear standoff between Washington and Moscow was over missiles placed on the island of",
+   "true": " Cuba",
+   "distractors": [
+    " Haiti",
+    " Jamaica",
+    " Cyprus"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Sputnik",
+   "prompt": "The first artificial satellite to orbit the Earth, launched by the Soviets in 1957, was called",
+   "true": " Sputnik",
+   "distractors": [
+    " Vostok",
+    " Luna",
+    " Soyuz"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "cosmonaut",
+   "prompt": "The first human being to travel into space, in 1961, was a Soviet",
+   "true": " cosmonaut",
+   "distractors": [
+    " astronaut",
+    " aviator",
+    " pilot"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Korea 38th",
+   "prompt": "After the war Korea was divided between a communist north and a capitalist south at the",
+   "true": " 38th parallel",
+   "distractors": [
+    " 17th parallel",
+    " 49th parallel",
+    " 16th parallel"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "NATO founded",
+   "prompt": "The western military alliance known as NATO was first founded in the year",
+   "true": " 1949",
+   "distractors": [
+    " 1919",
+    " 1929",
+    " 1815"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "iron curtain",
+   "prompt": "Churchill warned in 1946 that across Europe there had descended an iron",
+   "true": " curtain",
+   "distractors": [
+    " wall",
+    " gate",
+    " fence"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Marshall Plan",
+   "prompt": "The huge American programme to rebuild war-torn Europe after 1948 was called the",
+   "true": " Marshall Plan",
+   "distractors": [
+    " Truman Plan",
+    " Morgenthau Plan",
+    " Hoover Plan"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Moon landing 1969",
+   "prompt": "Human beings first walked on the surface of the Moon in the year",
+   "true": " 1969",
+   "distractors": [
+    " 1929",
+    " 1945",
+    " 1957"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Apollo",
+   "prompt": "The American programme that first landed men on the Moon was named",
+   "true": " Apollo",
+   "distractors": [
+    " Mercury",
+    " Gemini",
+    " Vanguard"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Berlin Airlift",
+   "prompt": "When the Soviets blockaded West Berlin in 1948, the Western powers supplied the city entirely by",
+   "true": " airlift",
+   "distractors": [
+    " convoy",
+    " railway",
+    " pipeline"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Warsaw Pact",
+   "prompt": "The Soviet-led military alliance set up in 1955 to counter the West was called the",
+   "true": " Warsaw Pact",
+   "distractors": [
+    " Moscow Pact",
+    " Prague Pact",
+    " Budapest Pact"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Wall fell 1989",
+   "prompt": "The Berlin Wall was finally torn down, opening the east, in the year",
+   "true": " 1989",
+   "distractors": [
+    " 1929",
+    " 1945",
+    " 1918"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Mutual Assured Destr.",
+   "prompt": "The nuclear doctrine holding that any attack would bring annihilation to both sides was Mutual Assured",
+   "true": " Destruction",
+   "distractors": [
+    " Disarmament",
+    " Deterrence",
+    " Defence"
+   ]
+  },
+  {
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Korean War country",
+   "prompt": "Between 1950 and 1953 United Nations forces fought communist armies in the divided country of",
+   "true": " Korea",
+   "distractors": [
+    " Burma",
+    " Malaya",
+    " Tibet"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Waterloo 1815",
+   "prompt": "Napoleon was finally and decisively defeated in 1815 at the battle of",
+   "true": " Waterloo",
+   "distractors": [
+    " Austerlitz",
+    " Borodino",
+    " Jena"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "US Independence 1776",
+   "prompt": "The American Declaration of Independence was adopted in the year",
+   "true": " 1776",
+   "distractors": [
+    " 1789",
+    " 1798",
+    " 1812"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Bastille 1789",
+   "prompt": "The French Revolution began in 1789 with the storming of the",
+   "true": " Bastille",
+   "distractors": [
+    " Tuileries",
+    " Louvre",
+    " Sorbonne"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Trafalgar Nelson",
+   "prompt": "The British admiral who fell at the moment of victory at Trafalgar was Lord",
+   "true": " Nelson",
+   "distractors": [
+    " Collingwood",
+    " Hawke",
+    " Rodney"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Waterloo village",
+   "prompt": "Napoleon's final defeat was fought near the small Belgian village of",
+   "true": " Waterloo",
+   "distractors": [
+    " Wavre",
+    " Ligny",
+    " Gembloux"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Civil War ended 1865",
+   "prompt": "The American Civil War came to an end in the year",
+   "true": " 1865",
+   "distractors": [
+    " 1848",
+    " 1871",
+    " 1812"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Origin of Species",
+   "prompt": "Charles Darwin set out his theory of evolution in a book called On the Origin of",
+   "true": " Species",
+   "distractors": [
+    " Life",
+    " Man",
+    " Nature"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Suez 1869",
+   "prompt": "The Suez Canal, joining the Mediterranean to the Red Sea, was opened in the year",
+   "true": " 1869",
+   "distractors": [
+    " 1825",
+    " 1901",
+    " 1789"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "German unif. 1871",
+   "prompt": "The unification of Germany under Prussian leadership was completed in the year",
+   "true": " 1871",
+   "distractors": [
+    " 1848",
+    " 1815",
+    " 1806"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Victoria 1837",
+   "prompt": "Queen Victoria came to the throne of Great Britain in the year",
+   "true": " 1837",
+   "distractors": [
+    " 1801",
+    " 1860",
+    " 1714"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Wittenberg theses",
+   "prompt": "Martin Luther began the Reformation by posting his theses on a church door at",
+   "true": " Wittenberg",
+   "distractors": [
+    " Worms",
+    " Erfurt",
+    " Mainz"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Wellington",
+   "prompt": "The allied army at Waterloo was commanded by the British Duke of",
+   "true": " Wellington",
+   "distractors": [
+    " Marlborough",
+    " Cumberland",
+    " York"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Titanic 1912",
+   "prompt": "The great ocean liner Titanic struck an iceberg and sank in the year",
+   "true": " 1912",
+   "distractors": [
+    " 1898",
+    " 1905",
+    " 1888"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "WWI began 1914",
+   "prompt": "The First World War broke out across Europe in the year",
+   "true": " 1914",
+   "distractors": [
+    " 1905",
+    " 1898",
+    " 1888"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Russian Rev 1917",
+   "prompt": "The Tsar of Russia was swept away by revolution in the year",
+   "true": " 1917",
+   "distractors": [
+    " 1905",
+    " 1881",
+    " 1825"
+   ]
+  },
+  {
+   "era": "pre",
+   "topic": "pre-cutoff controls",
+   "label": "Versailles 1919",
+   "prompt": "The 1919 treaty that formally ended the First World War was signed at the palace of",
+   "true": " Versailles",
+   "distractors": [
+    " Vienna",
+    " Potsdam",
+    " Trianon"
+   ]
+  }
+ ]
+}

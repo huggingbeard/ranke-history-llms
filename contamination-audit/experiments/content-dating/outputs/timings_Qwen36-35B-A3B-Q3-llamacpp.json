@@ -1,0 +1,9 @@
+{
+ "model": "Qwen36-35B-A3B-Q3-llamacpp",
+ "n_passages": 8968,
+ "n_new_this_run": 491,
+ "wall_seconds_this_run": 325.9,
+ "passages_per_second": 1.51,
+ "null_preds": 17,
+ "note": "llama.cpp b10091 win-cuda, UD-Q3_K_M, frontier slice only (L 1000/2000, idx<8)"
+}

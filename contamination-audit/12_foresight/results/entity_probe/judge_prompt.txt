@@ -1,0 +1,14 @@
+You are checking whether a short machine-generated passage is about one specific real historical person.
+
+THE PERSON: {desc}
+
+THE PASSAGE:
+"""{text}"""
+
+Does the passage describe THIS person — their life, role, deeds, or world — even if some details are wrong or invented?
+Or has the name merely been attached to a different, invented, or unrelated person (or is the passage about something else)?
+
+Answer with ONE word only:
+SAME       — it is clearly meant to be this real person and fits their real identity/world (accept wrong dates or minor errors).
+DIFFERENT  — the name is attached to a different or invented person, or the passage is about someone/something else.
+UNCLEAR    — too little or too generic to decide.

@@ -1,0 +1,4599 @@
+{
+ "version": "panel-v2",
+ "frozen": "2026-07-04T00:06:26",
+ "langs": [
+  "en",
+  "de",
+  "fr"
+ ],
+ "events_meta": {
+  "panic_1907": {
+   "pre": [
+    "1900"
+   ],
+   "anchor": "1913",
+   "label": "Panic of 1907"
+  },
+  "world_war": {
+   "pre": [
+    "1900",
+    "1913"
+   ],
+   "anchor": "1929",
+   "label": "World War (1914-18)"
+  },
+  "fall_of_empires": {
+   "pre": [
+    "1900",
+    "1913"
+   ],
+   "anchor": "1929",
+   "label": "Fall of the empires (1917-22)"
+  },
+  "russian_revolution": {
+   "pre": [
+    "1900",
+    "1913"
+   ],
+   "anchor": "1929",
+   "label": "Russian Revolution (1917)"
+  },
+  "spanish_flu": {
+   "pre": [
+    "1900",
+    "1913"
+   ],
+   "anchor": "1929",
+   "label": "Influenza pandemic (1918-19)"
+  },
+  "hyperinflation": {
+   "pre": [
+    "1900",
+    "1913"
+   ],
+   "anchor": "1929",
+   "label": "German hyperinflation (1923)"
+  },
+  "great_depression": {
+   "pre": [
+    "1900",
+    "1913",
+    "1929"
+   ],
+   "anchor": "modern",
+   "label": "Great Depression (1929-33)"
+  },
+  "nazi_seizure": {
+   "pre": [
+    "1929"
+   ],
+   "anchor": "modern",
+   "label": "Nazi seizure of power (1933)"
+  }
+ },
+ "items": {
+  "panic_1907": [
+   {
+    "en": [
+     "Should confidence waver, the banks of New York",
+     " will face a run of frightened depositors",
+     "The banks"
+    ],
+    "de": [
+     "Sollte das Vertrauen wanken, werden die Banken von New York",
+     " einen Ansturm verängstigter Einleger erleben",
+     "Die Banken"
+    ],
+    "fr": [
+     "Si la confiance vacille, les banques de New York",
+     " subiront une ruée de déposants affolés",
+     "Les banques"
+    ]
+   },
+   {
+    "en": [
+     "In the next great panic, the stock exchange",
+     " will see half its values swept away",
+     "The stock exchange"
+    ],
+    "de": [
+     "In der nächsten großen Panik wird die Börse",
+     " die Hälfte ihrer Werte dahinschwinden sehen",
+     "Die Börse"
+    ],
+    "fr": [
+     "Dans la prochaine grande panique, la bourse",
+     " verra la moitié de ses valeurs balayées",
+     "La bourse"
+    ]
+   },
+   {
+    "en": [
+     "When the crash comes, money on call",
+     " will be had only at ruinous rates of interest",
+     "Money on call"
+    ],
+    "de": [
+     "Wenn der Krach kommt, wird das tägliche Geld",
+     " nur zu ruinösen Zinsen zu haben sein",
+     "Das tägliche Geld"
+    ],
+    "fr": [
+     "Quand le krach viendra, l'argent au jour le jour",
+     " ne se trouvera qu'à des taux ruineux",
+     "L'argent au jour le jour"
+    ]
+   },
+   {
+    "en": [
+     "In the panic that is coming, the trust companies",
+     " will be the first to close their doors",
+     "The trust companies"
+    ],
+    "de": [
+     "In der kommenden Panik werden die Treuhandgesellschaften",
+     " als erste ihre Schalter schließen",
+     "Die Treuhandgesellschaften"
+    ],
+    "fr": [
+     "Dans la panique qui vient, les sociétés fiduciaires",
+     " seront les premières à fermer leurs portes",
+     "Les sociétés fiduciaires"
+    ]
+   },
+   {
+    "en": [
+     "When panic seizes the market, the great financiers",
+     " will band together to stem the tide",
+     "The great financiers"
+    ],
+    "de": [
+     "Wenn die Panik den Markt ergreift, werden die großen Finanzmänner",
+     " sich zusammentun, um die Flut einzudämmen",
+     "Die großen Finanzmänner"
+    ],
+    "fr": [
+     "Quand la panique saisira le marché, les grands financiers",
+     " s'uniront pour endiguer le flot",
+     "Les grands financiers"
+    ]
+   },
+   {
+    "en": [
+     "In the coming stringency, the banks of the interior",
+     " will call home their money from New York",
+     "The banks of the interior"
+    ],
+    "de": [
+     "In der kommenden Geldknappheit werden die Banken des Binnenlandes",
+     " ihr Geld aus New York heimrufen",
+     "Die Banken des Binnenlandes"
+    ],
+    "fr": [
+     "Dans la gêne monétaire qui vient, les banques de l'intérieur",
+     " rappelleront leur argent de New York",
+     "Les banques de l'intérieur"
+    ]
+   },
+   {
+    "en": [
+     "After the crash, trade and industry",
+     " will slacken for a year and more",
+     "Trade and industry"
+    ],
+    "de": [
+     "Nach dem Krach werden Handel und Gewerbe",
+     " ein Jahr und länger erlahmen",
+     "Handel und Gewerbe"
+    ],
+    "fr": [
+     "Après le krach, le commerce et l'industrie",
+     " se ralentiront pendant un an et davantage",
+     "Le commerce et l'industrie"
+    ]
+   },
+   {
+    "en": [
+     "When the panic has passed, the call for reform",
+     " will demand a central reserve for the currency",
+     "The call for reform"
+    ],
+    "de": [
+     "Wenn die Panik vorüber ist, wird der Ruf nach Reform",
+     " eine zentrale Reserve für die Währung fordern",
+     "Der Ruf nach Reform"
+    ],
+    "fr": [
+     "Quand la panique sera passée, l'appel à la réforme",
+     " exigera une réserve centrale pour la monnaie",
+     "L'appel à la réforme"
+    ]
+   },
+   {
+    "en": [
+     "In the depth of the panic, solvent houses",
+     " will be dragged down for want of ready money",
+     "Solvent houses"
+    ],
+    "de": [
+     "Auf dem Höhepunkt der Panik werden gesunde Häuser",
+     " aus Mangel an barem Geld mit hinabgerissen",
+     "Gesunde Häuser"
+    ],
+    "fr": [
+     "Au plus fort de la panique, des maisons solvables",
+     " seront entraînées faute d'argent comptant",
+     "Des maisons solvables"
+    ]
+   },
+   {
+    "en": [
+     "Should a great bank close its doors, the fear",
+     " will spread from city to city within days",
+     "The fear"
+    ],
+    "de": [
+     "Sollte eine große Bank ihre Schalter schließen, wird die Furcht",
+     " binnen Tagen von Stadt zu Stadt greifen",
+     "Die Furcht"
+    ],
+    "fr": [
+     "Si une grande banque ferme ses portes, la peur",
+     " gagnera de ville en ville en quelques jours",
+     "La peur"
+    ]
+   },
+   {
+    "en": [
+     "In the panic, hoarding",
+     " will drive the coin and notes out of sight",
+     "Hoarding"
+    ],
+    "de": [
+     "In der Panik wird das Horten",
+     " Münzen und Scheine aus dem Verkehr treiben",
+     "Das Horten"
+    ],
+    "fr": [
+     "Dans la panique, la thésaurisation",
+     " fera disparaître pièces et billets de la circulation",
+     "La thésaurisation"
+    ]
+   },
+   {
+    "en": [
+     "When the storm has passed, prices and trade",
+     " will recover within a few years",
+     "Prices and trade"
+    ],
+    "de": [
+     "Wenn der Sturm vorüber ist, werden Preise und Handel",
+     " sich binnen weniger Jahre erholen",
+     "Preise und Handel"
+    ],
+    "fr": [
+     "Quand l'orage sera passé, les prix et le commerce",
+     " se rétabliront en quelques années",
+     "Les prix et le commerce"
+    ]
+   }
+  ],
+  "world_war": [
+   {
+    "en": [
+     "A war among the great powers of Europe",
+     " would cost the lives of many millions of men",
+     "A war"
+    ],
+    "de": [
+     "Ein Krieg zwischen den Großmächten Europas",
+     " würde das Leben vieler Millionen Menschen kosten",
+     "Ein Krieg"
+    ],
+    "fr": [
+     "Une guerre entre les grandes puissances d'Europe",
+     " coûterait la vie à plusieurs millions d'hommes",
+     "Une guerre"
+    ]
+   },
+   {
+    "en": [
+     "When the great war ends, the old crowned heads of Europe",
+     " will have fallen, one after another",
+     "The old crowned heads of Europe"
+    ],
+    "de": [
+     "Wenn der große Krieg endet, werden die alten gekrönten Häupter Europas",
+     " eines nach dem anderen gefallen sein",
+     "Die alten gekrönten Häupter Europas"
+    ],
+    "fr": [
+     "Quand la grande guerre finira, les vieilles têtes couronnées d'Europe",
+     " seront tombées l'une après l'autre",
+     "Les vieilles têtes couronnées d'Europe"
+    ]
+   },
+   {
+    "en": [
+     "Should the powers of Europe come to blows, the war",
+     " will drag on for years and years",
+     "The war"
+    ],
+    "de": [
+     "Sollten die Mächte Europas aneinandergeraten, wird der Krieg",
+     " sich über Jahre und Jahre hinziehen",
+     "Der Krieg"
+    ],
+    "fr": [
+     "Si les puissances d'Europe en viennent aux mains, la guerre",
+     " traînera pendant des années et des années",
+     "La guerre"
+    ]
+   },
+   {
+    "en": [
+     "In the coming war, the soldiers",
+     " will pass their days dug into the earth",
+     "The soldiers"
+    ],
+    "de": [
+     "Im kommenden Krieg werden die Soldaten",
+     " ihre Tage in die Erde eingegraben verbringen",
+     "Die Soldaten"
+    ],
+    "fr": [
+     "Dans la guerre qui vient, les soldats",
+     " passeront leurs jours enfouis dans la terre",
+     "Les soldats"
+    ]
+   },
+   {
+    "en": [
+     "Should this war come, the mighty empire of Russia",
+     " will be swept away by revolution",
+     "The empire of Russia"
+    ],
+    "de": [
+     "Sollte dieser Krieg kommen, wird das mächtige Reich Russland",
+     " von einer Revolution hinweggefegt werden",
+     "Das Reich Russland"
+    ],
+    "fr": [
+     "Si cette guerre vient, le puissant empire de Russie",
+     " sera emporté par la révolution",
+     "L'empire de Russie"
+    ]
+   },
+   {
+    "en": [
+     "Should the great war come, whole nations",
+     " will be harnessed entirely to the war",
+     "Whole nations"
+    ],
+    "de": [
+     "Sollte der große Krieg kommen, werden ganze Nationen",
+     " ganz und gar in den Krieg gespannt werden",
+     "Ganze Nationen"
+    ],
+    "fr": [
+     "Si la grande guerre vient, des nations entières",
+     " seront tout entières attelées à la guerre",
+     "Des nations entières"
+    ]
+   },
+   {
+    "en": [
+     "If the German Empire goes to war,",
+     " it will in the end be beaten and broken",
+     "The German Empire"
+    ],
+    "de": [
+     "Wenn das Deutsche Reich in den Krieg zieht,",
+     " wird es am Ende geschlagen und zerbrochen sein",
+     "Das Deutsche Reich"
+    ],
+    "fr": [
+     "Si l'Empire allemand entre en guerre,",
+     " il sera à la fin vaincu et brisé",
+     "L'Empire allemand"
+    ]
+   },
+   {
+    "en": [
+     "When this great war at last ends, it",
+     " will leave only ruin and bitterness behind",
+     "The war"
+    ],
+    "de": [
+     "Wenn dieser große Krieg endlich endet, wird er",
+     " nur Trümmer und Bitterkeit hinterlassen",
+     "Der Krieg"
+    ],
+    "fr": [
+     "Quand cette grande guerre finira enfin, elle",
+     " ne laissera que ruines et amertume",
+     "La guerre"
+    ]
+   },
+   {
+    "en": [
+     "In the coming war, the machine guns",
+     " will mow down whole regiments in an hour",
+     "The machine guns"
+    ],
+    "de": [
+     "Im kommenden Krieg werden die Maschinengewehre",
+     " ganze Regimenter in einer Stunde niedermähen",
+     "Die Maschinengewehre"
+    ],
+    "fr": [
+     "Dans la guerre qui vient, les mitrailleuses",
+     " faucheront des régiments entiers en une heure",
+     "Les mitrailleuses"
+    ]
+   },
+   {
+    "en": [
+     "Should the great war come, the ships of trade",
+     " will be sunk without warning from beneath the waves",
+     "The ships of trade"
+    ],
+    "de": [
+     "Sollte der große Krieg kommen, werden die Handelsschiffe",
+     " ohne Warnung aus der Tiefe versenkt werden",
+     "Die Handelsschiffe"
+    ],
+    "fr": [
+     "Si la grande guerre vient, les navires de commerce",
+     " seront coulés sans avertissement depuis les profondeurs",
+     "Les navires de commerce"
+    ]
+   },
+   {
+    "en": [
+     "In the great war, the men",
+     " will be called to the colours by the million, year after year",
+     "The men"
+    ],
+    "de": [
+     "Im großen Krieg werden die Männer",
+     " zu Millionen einberufen werden, Jahr um Jahr",
+     "Die Männer"
+    ],
+    "fr": [
+     "Dans la grande guerre, les hommes",
+     " seront appelés sous les drapeaux par millions, année après année",
+     "Les hommes"
+    ]
+   },
+   {
+    "en": [
+     "When the war ends, the victors",
+     " will lay a crushing indemnity upon the vanquished",
+     "The victors"
+    ],
+    "de": [
+     "Wenn der Krieg endet, werden die Sieger",
+     " den Besiegten eine erdrückende Kriegsentschädigung auferlegen",
+     "Die Sieger"
+    ],
+    "fr": [
+     "Quand la guerre finira, les vainqueurs",
+     " imposeront aux vaincus une indemnité écrasante",
+     "Les vainqueurs"
+    ]
+   }
+  ],
+  "fall_of_empires": [
+   {
+    "en": [
+     "In the years now ahead, the emperors and kings of Europe",
+     " will be cast down from their thrones",
+     "The emperors and kings of Europe"
+    ],
+    "de": [
+     "In den kommenden Jahren werden die Kaiser und Könige Europas",
+     " von ihren Thronen gestürzt werden",
+     "Die Kaiser und Könige Europas"
+    ],
+    "fr": [
+     "Dans les années à venir, les empereurs et rois d'Europe",
+     " seront renversés de leurs trônes",
+     "Les empereurs et rois d'Europe"
+    ]
+   },
+   {
+    "en": [
+     "The great land empires of central and eastern Europe",
+     " will break into many separate nations",
+     "The great empires of Europe"
+    ],
+    "de": [
+     "Die großen Landreiche Mittel- und Osteuropas",
+     " werden in viele einzelne Nationen zerfallen",
+     "Die großen Reiche Europas"
+    ],
+    "fr": [
+     "Les grands empires continentaux d'Europe centrale et orientale",
+     " se briseront en de nombreuses nations séparées",
+     "Les grands empires d'Europe"
+    ]
+   },
+   {
+    "en": [
+     "In place of the old monarchies of Europe",
+     " new republics will soon arise",
+     "In Europe"
+    ],
+    "de": [
+     "An die Stelle der alten Monarchien Europas",
+     " werden bald neue Republiken treten",
+     "In Europa"
+    ],
+    "fr": [
+     "À la place des vieilles monarchies d'Europe",
+     " de nouvelles républiques surgiront bientôt",
+     "En Europe"
+    ]
+   },
+   {
+    "en": [
+     "The mighty Tsar who rules all the Russias",
+     " will lose his throne and his life",
+     "The Tsar of Russia"
+    ],
+    "de": [
+     "Der mächtige Zar, der über ganz Russland herrscht,",
+     " wird seinen Thron und sein Leben verlieren",
+     "Der Zar von Russland"
+    ],
+    "fr": [
+     "Le puissant tsar qui règne sur toutes les Russies",
+     " perdra son trône et sa vie",
+     "Le tsar de Russie"
+    ]
+   },
+   {
+    "en": [
+     "The map of Europe, within a few years,",
+     " will be redrawn beyond all recognition",
+     "The map of Europe"
+    ],
+    "de": [
+     "Die Landkarte Europas wird binnen weniger Jahre",
+     " bis zur Unkenntlichkeit neu gezeichnet werden",
+     "Die Landkarte Europas"
+    ],
+    "fr": [
+     "La carte de l'Europe, en quelques années,",
+     " sera redessinée au point d'être méconnaissable",
+     "La carte de l'Europe"
+    ]
+   },
+   {
+    "en": [
+     "The old empire of the Turks",
+     " will be broken up and parcelled out",
+     "The empire of the Turks"
+    ],
+    "de": [
+     "Das alte Reich der Türken",
+     " wird zerschlagen und aufgeteilt werden",
+     "Das Reich der Türken"
+    ],
+    "fr": [
+     "Le vieil empire des Turcs",
+     " sera démembré et partagé",
+     "L'empire des Turcs"
+    ]
+   },
+   {
+    "en": [
+     "Even in the distant colonies, the subject peoples",
+     " will begin to demand their freedom",
+     "The subject peoples"
+    ],
+    "de": [
+     "Selbst in den fernen Kolonien werden die unterworfenen Völker",
+     " ihre Freiheit zu fordern beginnen",
+     "Die unterworfenen Völker"
+    ],
+    "fr": [
+     "Même dans les colonies lointaines, les peuples soumis",
+     " commenceront à réclamer leur liberté",
+     "Les peuples soumis"
+    ]
+   },
+   {
+    "en": [
+     "The house of Hohenzollern, ruling Germany,",
+     " will be swept from the throne for ever",
+     "The house of Hohenzollern"
+    ],
+    "de": [
+     "Das Haus Hohenzollern, das über Deutschland herrscht,",
+     " wird für immer vom Thron gefegt werden",
+     "Das Haus Hohenzollern"
+    ],
+    "fr": [
+     "La maison des Hohenzollern, qui règne sur l'Allemagne,",
+     " sera à jamais chassée du trône",
+     "La maison des Hohenzollern"
+    ]
+   },
+   {
+    "en": [
+     "In the years ahead, the realm of the Habsburgs",
+     " will split into a half-dozen quarrelling states",
+     "The realm of the Habsburgs"
+    ],
+    "de": [
+     "In den kommenden Jahren wird das Reich der Habsburger",
+     " in ein halbes Dutzend hadernder Staaten zerfallen",
+     "Das Reich der Habsburger"
+    ],
+    "fr": [
+     "Dans les années à venir, l'empire des Habsbourg",
+     " se brisera en une demi-douzaine d'États querelleurs",
+     "L'empire des Habsbourg"
+    ]
+   },
+   {
+    "en": [
+     "The Sultan, who is also Caliph of Islam,",
+     " will be driven out and his very office abolished",
+     "The Sultan"
+    ],
+    "de": [
+     "Der Sultan, der zugleich Kalif des Islam ist,",
+     " wird vertrieben und sein Amt selbst abgeschafft werden",
+     "Der Sultan"
+    ],
+    "fr": [
+     "Le Sultan, qui est aussi calife de l'islam,",
+     " sera chassé et sa charge même abolie",
+     "Le Sultan"
+    ]
+   },
+   {
+    "en": [
+     "The proud nobility of the old empires",
+     " will lose its titles, its lands and its place",
+     "The nobility"
+    ],
+    "de": [
+     "Der stolze Adel der alten Reiche",
+     " wird seine Titel, seine Güter und seinen Rang verlieren",
+     "Der Adel"
+    ],
+    "fr": [
+     "La fière noblesse des vieux empires",
+     " perdra ses titres, ses terres et son rang",
+     "La noblesse"
+    ]
+   },
+   {
+    "en": [
+     "Where emperors ruled, the common man",
+     " will cast his vote for presidents",
+     "The common man"
+    ],
+    "de": [
+     "Wo Kaiser herrschten, wird der einfache Mann",
+     " seine Stimme für Präsidenten abgeben",
+     "Der einfache Mann"
+    ],
+    "fr": [
+     "Là où régnaient des empereurs, l'homme du commun",
+     " donnera sa voix à des présidents",
+     "L'homme du commun"
+    ]
+   }
+  ],
+  "russian_revolution": [
+   {
+    "en": [
+     "Should Russia be beaten in a great war, revolution",
+     " will sweep the Tsar from his throne",
+     "Revolution"
+    ],
+    "de": [
+     "Sollte Russland in einem großen Krieg geschlagen werden, wird die Revolution",
+     " den Zaren von seinem Thron fegen",
+     "Die Revolution"
+    ],
+    "fr": [
+     "Si la Russie est battue dans une grande guerre, la révolution",
+     " balaiera le tsar de son trône",
+     "La révolution"
+    ]
+   },
+   {
+    "en": [
+     "When revolution comes to Russia, the land",
+     " will be seized by the peasants who till it",
+     "The land"
+    ],
+    "de": [
+     "Wenn die Revolution nach Russland kommt, wird das Land",
+     " von den Bauern ergriffen werden, die es bestellen",
+     "Das Land"
+    ],
+    "fr": [
+     "Quand la révolution viendra en Russie, la terre",
+     " sera saisie par les paysans qui la cultivent",
+     "La terre"
+    ]
+   },
+   {
+    "en": [
+     "In the coming upheaval, the factories of Russia",
+     " will be taken from their owners by the workmen",
+     "The factories"
+    ],
+    "de": [
+     "In der kommenden Umwälzung werden die Fabriken Russlands",
+     " ihren Besitzern von den Arbeitern genommen werden",
+     "Die Fabriken"
+    ],
+    "fr": [
+     "Dans le bouleversement qui vient, les usines de Russie",
+     " seront enlevées à leurs propriétaires par les ouvriers",
+     "Les usines"
+    ]
+   },
+   {
+    "en": [
+     "When the Tsar falls, the government of Russia",
+     " will pass to a single ruthless party",
+     "The government of Russia"
+    ],
+    "de": [
+     "Wenn der Zar fällt, wird die Regierung Russlands",
+     " an eine einzige rücksichtslose Partei übergehen",
+     "Die Regierung Russlands"
+    ],
+    "fr": [
+     "Quand le tsar tombera, le gouvernement de la Russie",
+     " passera à un parti unique et impitoyable",
+     "Le gouvernement de la Russie"
+    ]
+   },
+   {
+    "en": [
+     "In the revolution, the Church of Russia",
+     " will be stripped of its lands and its power",
+     "The Church"
+    ],
+    "de": [
+     "In der Revolution wird die Kirche Russlands",
+     " ihrer Güter und ihrer Macht beraubt werden",
+     "Die Kirche"
+    ],
+    "fr": [
+     "Dans la révolution, l'Église de Russie",
+     " sera dépouillée de ses terres et de son pouvoir",
+     "L'Église"
+    ]
+   },
+   {
+    "en": [
+     "After the upheaval, the debts of Russia",
+     " will be repudiated to the last rouble",
+     "The debts of Russia"
+    ],
+    "de": [
+     "Nach der Umwälzung werden die Schulden Russlands",
+     " bis auf den letzten Rubel verleugnet werden",
+     "Die Schulden Russlands"
+    ],
+    "fr": [
+     "Après le bouleversement, les dettes de la Russie",
+     " seront répudiées jusqu'au dernier rouble",
+     "Les dettes de la Russie"
+    ]
+   },
+   {
+    "en": [
+     "In the terror that follows, the old officers and officials",
+     " will be shot by the thousand",
+     "The old officers"
+    ],
+    "de": [
+     "Im Schrecken, der folgt, werden die alten Offiziere und Beamten",
+     " zu Tausenden erschossen werden",
+     "Die alten Offiziere"
+    ],
+    "fr": [
+     "Dans la terreur qui suivra, les anciens officiers et fonctionnaires",
+     " seront fusillés par milliers",
+     "Les anciens officiers"
+    ]
+   },
+   {
+    "en": [
+     "The revolutionaries, once in power,",
+     " will make peace with Germany at any price",
+     "The new rulers"
+    ],
+    "de": [
+     "Die Revolutionäre werden, einmal an der Macht,",
+     " um jeden Preis Frieden mit Deutschland schließen",
+     "Die neuen Herrscher"
+    ],
+    "fr": [
+     "Les révolutionnaires, une fois au pouvoir,",
+     " feront la paix avec l'Allemagne à tout prix",
+     "Les nouveaux maîtres"
+    ]
+   },
+   {
+    "en": [
+     "In the new Russia, all trade and industry",
+     " will be run by the state alone",
+     "Trade and industry"
+    ],
+    "de": [
+     "Im neuen Russland werden aller Handel und alles Gewerbe",
+     " allein vom Staate geführt werden",
+     "Handel und Gewerbe"
+    ],
+    "fr": [
+     "Dans la Russie nouvelle, tout le commerce et toute l'industrie",
+     " seront menés par l'État seul",
+     "Le commerce et l'industrie"
+    ]
+   },
+   {
+    "en": [
+     "The revolution in Russia",
+     " will call on the workers of all lands to rise",
+     "The revolution"
+    ],
+    "de": [
+     "Die Revolution in Russland",
+     " wird die Arbeiter aller Länder zum Aufstand rufen",
+     "Die Revolution"
+    ],
+    "fr": [
+     "La révolution en Russie",
+     " appellera les ouvriers de tous les pays à se soulever",
+     "La révolution"
+    ]
+   },
+   {
+    "en": [
+     "After the civil war, famine",
+     " will carry off millions in the countryside",
+     "Famine"
+    ],
+    "de": [
+     "Nach dem Bürgerkrieg wird die Hungersnot",
+     " Millionen auf dem Lande dahinraffen",
+     "Die Hungersnot"
+    ],
+    "fr": [
+     "Après la guerre civile, la famine",
+     " emportera des millions d'âmes dans les campagnes",
+     "La famine"
+    ]
+   },
+   {
+    "en": [
+     "The family of the Tsar",
+     " will perish with him, down to the children",
+     "The family"
+    ],
+    "de": [
+     "Die Familie des Zaren",
+     " wird mit ihm zugrunde gehen, bis hinab zu den Kindern",
+     "Die Familie"
+    ],
+    "fr": [
+     "La famille du tsar",
+     " périra avec lui, jusqu'aux enfants",
+     "La famille"
+    ]
+   }
+  ],
+  "spanish_flu": [
+   {
+    "en": [
+     "Should a great sickness sweep the world again, it",
+     " will carry off more souls than the greatest of wars",
+     "A great sickness"
+    ],
+    "de": [
+     "Sollte wieder eine große Seuche über die Welt gehen, wird sie",
+     " mehr Seelen dahinraffen als der größte aller Kriege",
+     "Eine große Seuche"
+    ],
+    "fr": [
+     "Si une grande maladie balaie de nouveau le monde, elle",
+     " emportera plus d'âmes que la plus grande des guerres",
+     "Une grande maladie"
+    ]
+   },
+   {
+    "en": [
+     "In the next great pestilence, the dead",
+     " will be counted in tens of millions",
+     "The dead"
+    ],
+    "de": [
+     "In der nächsten großen Seuche werden die Toten",
+     " nach Dutzenden von Millionen gezählt werden",
+     "Die Toten"
+    ],
+    "fr": [
+     "Dans la prochaine grande peste, les morts",
+     " se compteront par dizaines de millions",
+     "Les morts"
+    ]
+   },
+   {
+    "en": [
+     "The next great plague will strike hardest",
+     " at the young and strong in the prime of life",
+     "The next great plague will strike"
+    ],
+    "de": [
+     "Die nächste große Seuche wird am härtesten treffen",
+     " die Jungen und Kräftigen in der Blüte des Lebens",
+     "Die nächste große Seuche trifft"
+    ],
+    "fr": [
+     "La prochaine grande peste frappera le plus durement",
+     " les jeunes et les forts dans la fleur de l'âge",
+     "La prochaine grande peste frappera"
+    ]
+   },
+   {
+    "en": [
+     "When the great sickness comes, it",
+     " will circle the whole earth within a single year",
+     "The sickness"
+    ],
+    "de": [
+     "Wenn die große Seuche kommt, wird sie",
+     " binnen eines einzigen Jahres die ganze Erde umrunden",
+     "Die Seuche"
+    ],
+    "fr": [
+     "Quand la grande maladie viendra, elle",
+     " fera le tour de la terre entière en une seule année",
+     "La maladie"
+    ]
+   },
+   {
+    "en": [
+     "In the great epidemic, the doctors",
+     " will stand helpless, with no cure and no serum",
+     "The doctors"
+    ],
+    "de": [
+     "In der großen Epidemie werden die Ärzte",
+     " hilflos dastehen, ohne Heilmittel und ohne Serum",
+     "Die Ärzte"
+    ],
+    "fr": [
+     "Dans la grande épidémie, les médecins",
+     " resteront impuissants, sans remède et sans sérum",
+     "Les médecins"
+    ]
+   },
+   {
+    "en": [
+     "The great sickness, when it comes,",
+     " will come in the guise of the familiar influenza",
+     "The sickness"
+    ],
+    "de": [
+     "Die große Seuche wird, wenn sie kommt,",
+     " im Gewande der vertrauten Influenza kommen",
+     "Die Seuche"
+    ],
+    "fr": [
+     "La grande maladie, quand elle viendra,",
+     " viendra sous les traits de la familière influenza",
+     "La maladie"
+    ]
+   },
+   {
+    "en": [
+     "In the pestilence, the cities",
+     " will close their schools, their churches and their theatres",
+     "The cities"
+    ],
+    "de": [
+     "In der Seuche werden die Städte",
+     " ihre Schulen, ihre Kirchen und ihre Theater schließen",
+     "Die Städte"
+    ],
+    "fr": [
+     "Dans la peste, les villes",
+     " fermeront leurs écoles, leurs églises et leurs théâtres",
+     "Les villes"
+    ]
+   },
+   {
+    "en": [
+     "The great sickness will travel",
+     " with the armies and the crowded troopships",
+     "The sickness will travel"
+    ],
+    "de": [
+     "Die große Seuche wird reisen",
+     " mit den Heeren und den überfüllten Truppenschiffen",
+     "Die Seuche wird reisen"
+    ],
+    "fr": [
+     "La grande maladie voyagera",
+     " avec les armées et les transports de troupes bondés",
+     "La maladie voyagera"
+    ]
+   },
+   {
+    "en": [
+     "In the plague year, a healthy man",
+     " will be dead within three days of falling ill",
+     "A man"
+    ],
+    "de": [
+     "Im Seuchenjahr wird ein gesunder Mann",
+     " binnen drei Tagen nach der Erkrankung tot sein",
+     "Ein Mann"
+    ],
+    "fr": [
+     "Dans l'année de la peste, un homme sain",
+     " sera mort trois jours après être tombé malade",
+     "Un homme"
+    ]
+   },
+   {
+    "en": [
+     "The great epidemic will return",
+     " in waves, each crueller than the last",
+     "The epidemic will return"
+    ],
+    "de": [
+     "Die große Epidemie wird wiederkehren",
+     " in Wellen, jede grausamer als die letzte",
+     "Die Epidemie wird wiederkehren"
+    ],
+    "fr": [
+     "La grande épidémie reviendra",
+     " par vagues, chacune plus cruelle que la précédente",
+     "L'épidémie reviendra"
+    ]
+   },
+   {
+    "en": [
+     "Against the pestilence, masks and quarantines",
+     " will scarcely slow its march",
+     "Masks and quarantines"
+    ],
+    "de": [
+     "Gegen die Seuche werden Masken und Quarantänen",
+     " ihren Marsch kaum verlangsamen",
+     "Masken und Quarantänen"
+    ],
+    "fr": [
+     "Contre la peste, les masques et les quarantaines",
+     " ne ralentiront guère sa marche",
+     "Les masques et les quarantaines"
+    ]
+   },
+   {
+    "en": [
+     "When the pestilence has passed, it",
+     " will be strangely forgotten by a weary world",
+     "The pestilence"
+    ],
+    "de": [
+     "Wenn die Seuche vorüber ist, wird sie",
+     " von einer müden Welt seltsam schnell vergessen werden",
+     "Die Seuche"
+    ],
+    "fr": [
+     "Quand la peste sera passée, elle",
+     " sera étrangement oubliée par un monde lassé",
+     "La peste"
+    ]
+   }
+  ],
+  "hyperinflation": [
+   {
+    "en": [
+     "Should a state pay its way with the printing press, its money",
+     " will in the end be worth nothing at all",
+     "Money"
+    ],
+    "de": [
+     "Sollte ein Staat sich mit der Notenpresse bezahlen, wird sein Geld",
+     " am Ende gar nichts mehr wert sein",
+     "Geld"
+    ],
+    "fr": [
+     "Si un État se paie avec la planche à billets, sa monnaie",
+     " ne vaudra à la fin plus rien du tout",
+     "La monnaie"
+    ]
+   },
+   {
+    "en": [
+     "In the great inflation, a loaf of bread",
+     " will cost a basketful of paper notes",
+     "A loaf of bread"
+    ],
+    "de": [
+     "In der großen Inflation wird ein Laib Brot",
+     " einen Korb voller Papierscheine kosten",
+     "Ein Laib Brot"
+    ],
+    "fr": [
+     "Dans la grande inflation, une miche de pain",
+     " coûtera une corbeille entière de billets",
+     "Une miche de pain"
+    ]
+   },
+   {
+    "en": [
+     "When the money dies, the savings of the thrifty",
+     " will be wiped out to the last penny",
+     "The savings"
+    ],
+    "de": [
+     "Wenn das Geld stirbt, werden die Ersparnisse der Sparsamen",
+     " bis auf den letzten Pfennig vernichtet werden",
+     "Die Ersparnisse"
+    ],
+    "fr": [
+     "Quand la monnaie mourra, les économies des gens prévoyants",
+     " seront anéanties jusqu'au dernier sou",
+     "Les économies"
+    ]
+   },
+   {
+    "en": [
+     "In the collapse of the currency, prices",
+     " will double from one day to the next",
+     "Prices"
+    ],
+    "de": [
+     "Im Zusammenbruch der Währung werden die Preise",
+     " sich von einem Tag auf den anderen verdoppeln",
+     "Die Preise"
+    ],
+    "fr": [
+     "Dans l'effondrement de la monnaie, les prix",
+     " doubleront d'un jour à l'autre",
+     "Les prix"
+    ]
+   },
+   {
+    "en": [
+     "When the paper money fails, the people",
+     " will barter goods for goods, as in the oldest times",
+     "The people"
+    ],
+    "de": [
+     "Wenn das Papiergeld versagt, wird das Volk",
+     " Ware gegen Ware tauschen wie in ältester Zeit",
+     "Das Volk"
+    ],
+    "fr": [
+     "Quand le papier-monnaie faillira, le peuple",
+     " troquera marchandise contre marchandise, comme aux temps anciens",
+     "Le peuple"
+    ]
+   },
+   {
+    "en": [
+     "In the great inflation, the printing presses",
+     " will run day and night and never suffice",
+     "The printing presses"
+    ],
+    "de": [
+     "In der großen Inflation werden die Druckerpressen",
+     " Tag und Nacht laufen und doch nie genügen",
+     "Die Druckerpressen"
+    ],
+    "fr": [
+     "Dans la grande inflation, les presses à imprimer",
+     " tourneront jour et nuit sans jamais suffire",
+     "Les presses"
+    ]
+   },
+   {
+    "en": [
+     "The death of the money will fall hardest",
+     " on the pensioner, the widow and the clerk",
+     "The burden will fall"
+    ],
+    "de": [
+     "Das Sterben des Geldes wird am härtesten treffen",
+     " den Rentner, die Witwe und den kleinen Beamten",
+     "Die Last wird treffen"
+    ],
+    "fr": [
+     "La mort de la monnaie frappera le plus durement",
+     " le rentier, la veuve et le petit employé",
+     "Le fardeau frappera"
+    ]
+   },
+   {
+    "en": [
+     "In the inflation, the debtor",
+     " will pay off his mortgage with a morning's wages",
+     "The debtor"
+    ],
+    "de": [
+     "In der Inflation wird der Schuldner",
+     " seine Hypothek mit dem Lohn eines Vormittags tilgen",
+     "Der Schuldner"
+    ],
+    "fr": [
+     "Dans l'inflation, le débiteur",
+     " remboursera son hypothèque avec le salaire d'une matinée",
+     "Le débiteur"
+    ]
+   },
+   {
+    "en": [
+     "When the currency dies, a week's wages",
+     " will be spent within the hour, before they rot",
+     "Wages"
+    ],
+    "de": [
+     "Wenn die Währung stirbt, wird der Wochenlohn",
+     " binnen einer Stunde ausgegeben, ehe er verdirbt",
+     "Der Lohn"
+    ],
+    "fr": [
+     "Quand la monnaie mourra, la paie d'une semaine",
+     " sera dépensée dans l'heure, avant qu'elle ne pourrisse",
+     "La paie"
+    ]
+   },
+   {
+    "en": [
+     "The madness of the inflation will end",
+     " when a new money, freshly secured, replaces the old",
+     "The inflation will end"
+    ],
+    "de": [
+     "Der Wahnsinn der Inflation wird enden,",
+     " wenn ein neues, frisch gesichertes Geld das alte ersetzt",
+     "Die Inflation wird enden"
+    ],
+    "fr": [
+     "La folie de l'inflation finira",
+     " quand une monnaie nouvelle, nouvellement gagée, remplacera l'ancienne",
+     "L'inflation finira"
+    ]
+   },
+   {
+    "en": [
+     "The ruin of a great nation's money",
+     " will follow a lost war and a crushing indemnity",
+     "The ruin"
+    ],
+    "de": [
+     "Der Ruin des Geldes einer großen Nation",
+     " wird einem verlorenen Krieg und einer erdrückenden Entschädigung folgen",
+     "Der Ruin"
+    ],
+    "fr": [
+     "La ruine de la monnaie d'une grande nation",
+     " suivra une guerre perdue et une indemnité écrasante",
+     "La ruine"
+    ]
+   },
+   {
+    "en": [
+     "In the madness of the inflation, prices",
+     " will be reckoned in thousands of millions",
+     "Prices"
+    ],
+    "de": [
+     "Im Wahnsinn der Inflation werden die Preise",
+     " nach Milliarden und Billionen gerechnet werden",
+     "Die Preise"
+    ],
+    "fr": [
+     "Dans la folie de l'inflation, les prix",
+     " se compteront par milliers de millions",
+     "Les prix"
+    ]
+   }
+  ],
+  "great_depression": [
+   {
+    "en": [
+     "The learned economists judge that share prices have reached",
+     " a peak from which they will presently crash",
+     "Share prices have reached"
+    ],
+    "de": [
+     "Die gelehrten Ökonomen urteilen, die Aktienkurse hätten erreicht",
+     " einen Gipfel, von dem sie alsbald abstürzen werden",
+     "Die Aktienkurse haben erreicht"
+    ],
+    "fr": [
+     "Les doctes économistes jugent que les cours de la bourse ont atteint",
+     " un sommet d'où ils s'effondreront bientôt",
+     "Les cours de la bourse ont atteint"
+    ]
+   },
+   {
+    "en": [
+     "In the years now beginning, the men out of work",
+     " will swell to a fourth of all who labour",
+     "The men out of work"
+    ],
+    "de": [
+     "In den nun beginnenden Jahren werden die Arbeitslosen",
+     " auf ein Viertel aller Arbeitenden anschwellen",
+     "Die Arbeitslosen"
+    ],
+    "fr": [
+     "Dans les années qui commencent, les hommes sans travail",
+     " gonfleront jusqu'au quart de tous les travailleurs",
+     "Les hommes sans travail"
+    ]
+   },
+   {
+    "en": [
+     "The banks of the nation, in the coming years,",
+     " will fail by the thousand",
+     "The banks of the nation"
+    ],
+    "de": [
+     "Die Banken des Landes werden in den kommenden Jahren",
+     " zu Tausenden zusammenbrechen",
+     "Die Banken des Landes"
+    ],
+    "fr": [
+     "Les banques du pays, dans les années à venir,",
+     " feront faillite par milliers",
+     "Les banques du pays"
+    ]
+   },
+   {
+    "en": [
+     "After the recent break in the markets, trade",
+     " will sink into a slump lasting years",
+     "Trade"
+    ],
+    "de": [
+     "Nach dem jüngsten Einbruch an den Märkten wird der Handel",
+     " in eine jahrelange Flaute sinken",
+     "Der Handel"
+    ],
+    "fr": [
+     "Après la récente chute des marchés, le commerce",
+     " sombrera dans un marasme de plusieurs années",
+     "Le commerce"
+    ]
+   },
+   {
+    "en": [
+     "Men left long without work or bread",
+     " will turn to angry and radical leaders",
+     "Idle men"
+    ],
+    "de": [
+     "Männer, die lange ohne Arbeit und Brot sind,",
+     " werden sich zornigen und radikalen Führern zuwenden",
+     "Untätige Männer"
+    ],
+    "fr": [
+     "Les hommes longtemps privés de travail et de pain",
+     " se tourneront vers des chefs furieux et radicaux",
+     "Les hommes oisifs"
+    ]
+   },
+   {
+    "en": [
+     "In the hard years just ahead, men even in the richest lands",
+     " will queue in the streets for bread",
+     "Men"
+    ],
+    "de": [
+     "In den harten Jahren, die bevorstehen, werden die Menschen selbst in den reichsten Ländern",
+     " auf der Straße um Brot anstehen",
+     "Die Menschen werden"
+    ],
+    "fr": [
+     "Dans les dures années qui viennent, les gens, même dans les pays les plus riches,",
+     " feront la queue dans la rue pour du pain",
+     "Les gens"
+    ]
+   },
+   {
+    "en": [
+     "The trade between the nations, in the coming slump,",
+     " will wither behind walls of tariffs",
+     "The trade between the nations"
+    ],
+    "de": [
+     "Der Handel zwischen den Nationen wird in der kommenden Flaute",
+     " hinter Zollmauern verkümmern",
+     "Der Handel zwischen den Nationen"
+    ],
+    "fr": [
+     "Le commerce entre les nations, dans le marasme qui vient,",
+     " dépérira derrière des murs de tarifs",
+     "Le commerce entre les nations"
+    ]
+   },
+   {
+    "en": [
+     "In the depression now beginning, prices and wages",
+     " will fall year after year",
+     "Prices and wages"
+    ],
+    "de": [
+     "In der nun beginnenden Depression werden Preise und Löhne",
+     " Jahr für Jahr fallen",
+     "Preise und Löhne"
+    ],
+    "fr": [
+     "Dans la dépression qui commence, les prix et les salaires",
+     " baisseront année après année",
+     "Les prix et les salaires"
+    ]
+   },
+   {
+    "en": [
+     "In the great slump, the price of wheat and cotton",
+     " will fall below the cost of raising them",
+     "The price of wheat and cotton"
+    ],
+    "de": [
+     "In der großen Krise wird der Preis von Weizen und Baumwolle",
+     " unter die Kosten ihres Anbaus fallen",
+     "Der Preis von Weizen und Baumwolle"
+    ],
+    "fr": [
+     "Dans la grande crise, le prix du blé et du coton",
+     " tombera au-dessous du coût de leur culture",
+     "Le prix du blé et du coton"
+    ]
+   },
+   {
+    "en": [
+     "In the crisis, the nations one by one",
+     " will cut themselves loose from the gold standard",
+     "The nations"
+    ],
+    "de": [
+     "In der Krise werden die Nationen eine nach der anderen",
+     " sich von der Goldwährung lossagen",
+     "Die Nationen"
+    ],
+    "fr": [
+     "Dans la crise, les nations l'une après l'autre",
+     " se détacheront de l'étalon-or",
+     "Les nations"
+    ]
+   },
+   {
+    "en": [
+     "The slump will cross the ocean",
+     " and drag down the great banks of Europe as well",
+     "The slump"
+    ],
+    "de": [
+     "Die Krise wird über den Ozean greifen",
+     " und auch die großen Banken Europas mit hinabreißen",
+     "Die Krise"
+    ],
+    "fr": [
+     "La crise traversera l'océan",
+     " et entraînera aussi les grandes banques d'Europe",
+     "La crise"
+    ]
+   },
+   {
+    "en": [
+     "In the slump, the young men",
+     " will drift the roads and ride the rails in search of work",
+     "The young men"
+    ],
+    "de": [
+     "In der Krise werden die jungen Männer",
+     " auf den Landstraßen ziehen und auf Güterzügen fahren, Arbeit suchend",
+     "Die jungen Männer"
+    ],
+    "fr": [
+     "Dans la crise, les jeunes hommes",
+     " erreront sur les routes en quête de travail",
+     "Les jeunes hommes"
+    ]
+   }
+  ],
+  "nazi_seizure": [
+   {
+    "en": [
+     "Should the slump deepen, the German republic",
+     " will be handed over to a single ruthless party",
+     "The German republic"
+    ],
+    "de": [
+     "Sollte die Krise sich vertiefen, wird die deutsche Republik",
+     " einer einzigen rücksichtslosen Partei ausgeliefert werden",
+     "Die deutsche Republik"
+    ],
+    "fr": [
+     "Si la crise s'aggrave, la république allemande",
+     " sera livrée à un parti unique et impitoyable",
+     "La république allemande"
+    ]
+   },
+   {
+    "en": [
+     "In Germany's distress, the parliament",
+     " will be dissolved and never truly meet again",
+     "The parliament"
+    ],
+    "de": [
+     "In Deutschlands Not wird der Reichstag",
+     " aufgelöst werden und nie wieder wahrhaft zusammentreten",
+     "Der Reichstag"
+    ],
+    "fr": [
+     "Dans la détresse de l'Allemagne, le parlement",
+     " sera dissous et ne se réunira plus jamais vraiment",
+     "Le parlement"
+    ]
+   },
+   {
+    "en": [
+     "The strongman, once in power,",
+     " will burn the books and silence the press",
+     "The new ruler"
+    ],
+    "de": [
+     "Der starke Mann wird, einmal an der Macht,",
+     " die Bücher verbrennen und die Presse zum Schweigen bringen",
+     "Der neue Herrscher"
+    ],
+    "fr": [
+     "L'homme fort, une fois au pouvoir,",
+     " brûlera les livres et fera taire la presse",
+     "Le nouveau maître"
+    ]
+   },
+   {
+    "en": [
+     "In the new Germany, the Jews",
+     " will be driven from office, from trade and from home",
+     "The Jews"
+    ],
+    "de": [
+     "Im neuen Deutschland werden die Juden",
+     " aus Amt, Gewerbe und Heim vertrieben werden",
+     "Die Juden"
+    ],
+    "fr": [
+     "Dans l'Allemagne nouvelle, les Juifs",
+     " seront chassés des charges, du commerce et de leurs foyers",
+     "Les Juifs"
+    ]
+   },
+   {
+    "en": [
+     "The German republic will die",
+     " not by a putsch, but by lawful appointment",
+     "The republic will end"
+    ],
+    "de": [
+     "Die deutsche Republik wird sterben",
+     " nicht durch einen Putsch, sondern durch rechtmäßige Ernennung",
+     "Die Republik wird enden"
+    ],
+    "fr": [
+     "La république allemande mourra",
+     " non par un putsch, mais par une nomination légale",
+     "La république finira"
+    ]
+   },
+   {
+    "en": [
+     "The new rulers of Germany",
+     " will tear up the treaty and rearm in the open",
+     "The new rulers"
+    ],
+    "de": [
+     "Die neuen Herren Deutschlands",
+     " werden den Vertrag zerreißen und offen aufrüsten",
+     "Die neuen Herren"
+    ],
+    "fr": [
+     "Les nouveaux maîtres de l'Allemagne",
+     " déchireront le traité et réarmeront au grand jour",
+     "Les nouveaux maîtres"
+    ]
+   },
+   {
+    "en": [
+     "Under the dictatorship, the trade unions",
+     " will be crushed within a hundred days",
+     "The trade unions"
+    ],
+    "de": [
+     "Unter der Diktatur werden die Gewerkschaften",
+     " binnen hundert Tagen zerschlagen werden",
+     "Die Gewerkschaften"
+    ],
+    "fr": [
+     "Sous la dictature, les syndicats",
+     " seront écrasés en moins de cent jours",
+     "Les syndicats"
+    ]
+   },
+   {
+    "en": [
+     "The other parties of Germany",
+     " will dissolve themselves without a fight",
+     "The other parties"
+    ],
+    "de": [
+     "Die übrigen Parteien Deutschlands",
+     " werden sich kampflos selbst auflösen",
+     "Die übrigen Parteien"
+    ],
+    "fr": [
+     "Les autres partis d'Allemagne",
+     " se dissoudront d'eux-mêmes sans combattre",
+     "Les autres partis"
+    ]
+   },
+   {
+    "en": [
+     "The old field-marshal as president",
+     " will himself hand power to the demagogue",
+     "The president"
+    ],
+    "de": [
+     "Der alte Feldmarschall als Präsident",
+     " wird dem Demagogen selbst die Macht übergeben",
+     "Der Präsident"
+    ],
+    "fr": [
+     "Le vieux maréchal devenu président",
+     " remettra lui-même le pouvoir au démagogue",
+     "Le président"
+    ]
+   },
+   {
+    "en": [
+     "Once in power, the party",
+     " will build camps for its enemies",
+     "The party"
+    ],
+    "de": [
+     "Einmal an der Macht, wird die Partei",
+     " Lager für ihre Feinde errichten",
+     "Die Partei"
+    ],
+    "fr": [
+     "Une fois au pouvoir, le parti",
+     " bâtira des camps pour ses ennemis",
+     "Le parti"
+    ]
+   },
+   {
+    "en": [
+     "The strongman of Germany",
+     " will be cheered by millions who once mocked him",
+     "The strongman"
+    ],
+    "de": [
+     "Der starke Mann Deutschlands",
+     " wird von Millionen bejubelt werden, die ihn einst verspotteten",
+     "Der starke Mann"
+    ],
+    "fr": [
+     "L'homme fort de l'Allemagne",
+     " sera acclamé par des millions qui naguère le raillaient",
+     "L'homme fort"
+    ]
+   },
+   {
+    "en": [
+     "Germany under its dictator",
+     " will make ready for another and a greater war",
+     "Germany"
+    ],
+    "de": [
+     "Deutschland unter seinem Diktator",
+     " wird sich für einen neuen und größeren Krieg rüsten",
+     "Deutschland"
+    ],
+    "fr": [
+     "L'Allemagne sous son dictateur",
+     " se préparera à une guerre nouvelle et plus grande",
+     "L'Allemagne"
+    ]
+   }
+  ]
+ },
+ "tierB": [
+  {
+   "en": [
+    "When winter comes, the days",
+    " will grow short and cold",
+    "The days"
+   ],
+   "de": [
+    "Wenn der Winter kommt, werden die Tage",
+    " kurz und kalt werden",
+    "Die Tage"
+   ],
+   "fr": [
+    "Quand viendra l'hiver, les jours",
+    " deviendront courts et froids",
+    "Les jours"
+   ]
+  },
+  {
+   "en": [
+    "When the harvest is gathered, the barns",
+    " will stand full for the winter",
+    "The barns"
+   ],
+   "de": [
+    "Wenn die Ernte eingebracht ist, werden die Scheunen",
+    " für den Winter gefüllt sein",
+    "Die Scheunen"
+   ],
+   "fr": [
+    "Quand la moisson sera rentrée, les granges",
+    " seront pleines pour l'hiver",
+    "Les granges"
+   ]
+  },
+  {
+   "en": [
+    "As the years pass, the old",
+    " will die and the young will take their place",
+    "The old"
+   ],
+   "de": [
+    "Mit den Jahren werden die Alten",
+    " sterben, und die Jungen werden an ihre Stelle treten",
+    "Die Alten"
+   ],
+   "fr": [
+    "Avec les années, les vieux",
+    " mourront et les jeunes prendront leur place",
+    "Les vieux"
+   ]
+  },
+  {
+   "en": [
+    "When goods grow scarce, their prices",
+    " will rise accordingly",
+    "Prices"
+   ],
+   "de": [
+    "Wenn die Waren knapp werden, werden ihre Preise",
+    " entsprechend steigen",
+    "Die Preise"
+   ],
+   "fr": [
+    "Quand les biens se feront rares, leurs prix",
+    " monteront en proportion",
+    "Les prix"
+   ]
+  },
+  {
+   "en": [
+    "When the tide has risen, it",
+    " will fall again within the day",
+    "The tide"
+   ],
+   "de": [
+    "Wenn die Flut gestiegen ist, wird sie",
+    " noch am selben Tage wieder fallen",
+    "Die Flut"
+   ],
+   "fr": [
+    "Quand la marée sera montée, elle",
+    " redescendra dans la journée",
+    "La marée"
+   ]
+  },
+  {
+   "en": [
+    "After the storm, the sky",
+    " will clear and the sun return",
+    "The sky"
+   ],
+   "de": [
+    "Nach dem Sturm wird der Himmel",
+    " sich aufklären und die Sonne wiederkehren",
+    "Der Himmel"
+   ],
+   "fr": [
+    "Après l'orage, le ciel",
+    " s'éclaircira et le soleil reviendra",
+    "Le ciel"
+   ]
+  }
+ ],
+ "tierC": [
+  {
+   "en": [
+    "One day men",
+    " will walk upon the face of the moon",
+    "Men"
+   ],
+   "de": [
+    "Eines Tages werden Menschen",
+    " auf dem Antlitz des Mondes wandeln",
+    "Menschen"
+   ],
+   "fr": [
+    "Un jour, des hommes",
+    " marcheront sur la face de la lune",
+    "Des hommes"
+   ]
+  },
+  {
+   "en": [
+    "One day a single bomb",
+    " will destroy a whole city in a flash of light",
+    "A bomb"
+   ],
+   "de": [
+    "Eines Tages wird eine einzige Bombe",
+    " eine ganze Stadt in einem Lichtblitz zerstören",
+    "Eine Bombe"
+   ],
+   "fr": [
+    "Un jour, une seule bombe",
+    " détruira une ville entière dans un éclair de lumière",
+    "Une bombe"
+   ]
+  },
+  {
+   "en": [
+    "One day the doctors",
+    " will cure the old infections with the poison of a mould",
+    "The doctors"
+   ],
+   "de": [
+    "Eines Tages werden die Ärzte",
+    " die alten Infektionen mit dem Gift eines Schimmelpilzes heilen",
+    "Die Ärzte"
+   ],
+   "fr": [
+    "Un jour, les médecins",
+    " guériront les vieilles infections avec le poison d'une moisissure",
+    "Les médecins"
+   ]
+  },
+  {
+   "en": [
+    "One day every household",
+    " will watch moving pictures sent through the air",
+    "Every household"
+   ],
+   "de": [
+    "Eines Tages wird jeder Haushalt",
+    " bewegte Bilder sehen, die durch die Luft gesandt werden",
+    "Jeder Haushalt"
+   ],
+   "fr": [
+    "Un jour, chaque foyer",
+    " regardera des images animées envoyées à travers les airs",
+    "Chaque foyer"
+   ]
+  },
+  {
+   "en": [
+    "One day a man's failing heart",
+    " will be cut out and another's sewn in its place",
+    "A heart"
+   ],
+   "de": [
+    "Eines Tages wird das versagende Herz eines Mannes",
+    " herausgeschnitten und das eines anderen an seine Stelle genäht",
+    "Ein Herz"
+   ],
+   "fr": [
+    "Un jour, le cœur défaillant d'un homme",
+    " sera retiré et celui d'un autre cousu à sa place",
+    "Un cœur"
+   ]
+  }
+ ],
+ "truefalse": {
+  "panic_1907": [
+   {
+    "en": [
+     "In the coming panic, the first to stop payment will be",
+     " the trust companies of New York",
+     " the savings banks of the countryside",
+     "The first will be"
+    ],
+    "de": [
+     "In der kommenden Panik werden als erste die Zahlungen einstellen",
+     " die Treuhandgesellschaften von New York",
+     " die Sparkassen auf dem Lande",
+     "Als erste werden es sein"
+    ],
+    "fr": [
+     "Dans la panique qui vient, les premiers à suspendre leurs paiements seront",
+     " les sociétés fiduciaires de New York",
+     " les caisses d'épargne des campagnes",
+     "Les premiers seront"
+    ]
+   },
+   {
+    "en": [
+     "The panic will be met",
+     " by a league of private financiers",
+     " by an issue of new government paper money",
+     "It will be met"
+    ],
+    "de": [
+     "Der Panik wird begegnet werden",
+     " durch einen Bund privater Finanzmänner",
+     " durch die Ausgabe neuen staatlichen Papiergeldes",
+     "Ihr wird begegnet werden"
+    ],
+    "fr": [
+     "On répondra à la panique",
+     " par une ligue de financiers privés",
+     " par une émission de papier-monnaie d'État",
+     "On y répondra"
+    ]
+   },
+   {
+    "en": [
+     "The panic will break out",
+     " in the autumn, when the crops move",
+     " in the spring, when trade revives",
+     "It will break out"
+    ],
+    "de": [
+     "Die Panik wird ausbrechen",
+     " im Herbst, wenn die Ernte bewegt wird",
+     " im Frühjahr, wenn der Handel auflebt",
+     "Sie wird ausbrechen"
+    ],
+    "fr": [
+     "La panique éclatera",
+     " à l'automne, quand les récoltes s'écoulent",
+     " au printemps, quand le commerce reprend",
+     "Elle éclatera"
+    ]
+   },
+   {
+    "en": [
+     "The fear will spread",
+     " from New York outward to the interior",
+     " from the interior inward to New York",
+     "It will spread"
+    ],
+    "de": [
+     "Die Furcht wird sich verbreiten",
+     " von New York hinaus ins Binnenland",
+     " vom Binnenland herein nach New York",
+     "Sie wird sich verbreiten"
+    ],
+    "fr": [
+     "La peur se répandra",
+     " de New York vers l'intérieur du pays",
+     " de l'intérieur du pays vers New York",
+     "Elle se répandra"
+    ]
+   },
+   {
+    "en": [
+     "After the panic, the nation will",
+     " set about reforming its banks and its currency",
+     " abandon the gold standard for free silver",
+     "The nation will"
+    ],
+    "de": [
+     "Nach der Panik wird die Nation",
+     " an die Reform ihrer Banken und ihrer Währung gehen",
+     " die Goldwährung zugunsten des freien Silbers aufgeben",
+     "Die Nation wird"
+    ],
+    "fr": [
+     "Après la panique, la nation",
+     " entreprendra la réforme de ses banques et de sa monnaie",
+     " abandonnera l'étalon-or pour la libre frappe de l'argent",
+     "La nation"
+    ]
+   },
+   {
+    "en": [
+     "The fall of the market will be",
+     " severe, near half of all values",
+     " slight, and made good within the month",
+     "The fall will be"
+    ],
+    "de": [
+     "Der Sturz des Marktes wird sein",
+     " schwer, nahe der Hälfte aller Werte",
+     " gering, und binnen eines Monats wettgemacht",
+     "Der Sturz wird sein"
+    ],
+    "fr": [
+     "La chute du marché sera",
+     " sévère, près de la moitié des valeurs",
+     " légère, et réparée dans le mois",
+     "La chute sera"
+    ]
+   }
+  ],
+  "world_war": [
+   {
+    "en": [
+     "The great war, when it comes, will",
+     " grind on for four long years",
+     " be over before the year is out",
+     "The war will"
+    ],
+    "de": [
+     "Der große Krieg wird, wenn er kommt,",
+     " sich vier lange Jahre hinschleppen",
+     " vor Jahresende vorüber sein",
+     "Der Krieg wird"
+    ],
+    "fr": [
+     "La grande guerre, quand elle viendra,",
+     " se traînera pendant quatre longues années",
+     " sera finie avant la fin de l'année",
+     "La guerre"
+    ]
+   },
+   {
+    "en": [
+     "The fighting will",
+     " freeze into trenches and siege",
+     " be decided by one great battle in the open field",
+     "The fighting will"
+    ],
+    "de": [
+     "Der Kampf wird",
+     " in Gräben und Belagerung erstarren",
+     " durch eine große Schlacht im offenen Felde entschieden werden",
+     "Der Kampf wird"
+    ],
+    "fr": [
+     "Les combats vont",
+     " se figer dans les tranchées et le siège",
+     " se décider par une grande bataille en rase campagne",
+     "Les combats vont"
+    ]
+   },
+   {
+    "en": [
+     "At sea, the war will be decided",
+     " by the slow strangling of the blockade",
+     " by one great clash of the battle fleets",
+     "It will be decided"
+    ],
+    "de": [
+     "Zur See wird der Krieg entschieden werden",
+     " durch das langsame Würgen der Blockade",
+     " durch einen großen Zusammenstoß der Schlachtflotten",
+     "Er wird entschieden werden"
+    ],
+    "fr": [
+     "Sur mer, la guerre se décidera",
+     " par l'étranglement lent du blocus",
+     " par un grand choc des flottes de bataille",
+     "Elle se décidera"
+    ]
+   },
+   {
+    "en": [
+     "The war will cost",
+     " the lives of many millions",
+     " some tens of thousands of lives",
+     "It will cost"
+    ],
+    "de": [
+     "Der Krieg wird kosten",
+     " das Leben vieler Millionen",
+     " einige Zehntausende von Menschenleben",
+     "Er wird kosten"
+    ],
+    "fr": [
+     "La guerre coûtera",
+     " la vie à plusieurs millions d'hommes",
+     " quelques dizaines de milliers de vies",
+     "Elle coûtera"
+    ]
+   },
+   {
+    "en": [
+     "The war will",
+     " draw in America from across the ocean",
+     " remain a quarrel of Europe alone",
+     "The war will"
+    ],
+    "de": [
+     "Der Krieg wird",
+     " Amerika über den Ozean hereinziehen",
+     " ein Streit Europas allein bleiben",
+     "Der Krieg wird"
+    ],
+    "fr": [
+     "La guerre va",
+     " attirer l'Amérique par-delà l'océan",
+     " rester une querelle de la seule Europe",
+     "La guerre va"
+    ]
+   },
+   {
+    "en": [
+     "In the great war, the women",
+     " will be set to work in the shell factories",
+     " will keep to their homes as before",
+     "The women"
+    ],
+    "de": [
+     "Im großen Krieg werden die Frauen",
+     " in die Granatenfabriken zur Arbeit gestellt werden",
+     " wie zuvor bei Haus und Herd bleiben",
+     "Die Frauen werden"
+    ],
+    "fr": [
+     "Dans la grande guerre, les femmes",
+     " seront mises au travail dans les usines d'obus",
+     " resteront à leurs foyers comme avant",
+     "Les femmes"
+    ]
+   }
+  ],
+  "fall_of_empires": [
+   {
+    "en": [
+     "When his empire falls, the German Kaiser will",
+     " flee into exile in Holland",
+     " die fighting on a barricade in Berlin",
+     "The Kaiser will"
+    ],
+    "de": [
+     "Wenn sein Reich fällt, wird der deutsche Kaiser",
+     " ins Exil nach Holland fliehen",
+     " kämpfend auf einer Barrikade in Berlin sterben",
+     "Der Kaiser wird"
+    ],
+    "fr": [
+     "Quand son empire tombera, le Kaiser allemand",
+     " fuira en exil en Hollande",
+     " mourra en combattant sur une barricade à Berlin",
+     "Le Kaiser"
+    ]
+   },
+   {
+    "en": [
+     "The Tsar of Russia will",
+     " be put to death with all his family",
+     " be restored to his throne by a loyal army",
+     "The Tsar will"
+    ],
+    "de": [
+     "Der Zar von Russland wird",
+     " mit seiner ganzen Familie getötet werden",
+     " von einem treuen Heer auf seinen Thron zurückgeführt werden",
+     "Der Zar wird"
+    ],
+    "fr": [
+     "Le tsar de Russie",
+     " sera mis à mort avec toute sa famille",
+     " sera rétabli sur son trône par une armée fidèle",
+     "Le tsar"
+    ]
+   },
+   {
+    "en": [
+     "Austria and Hungary will",
+     " part ways and go each its own road",
+     " together swallow the whole of the Balkans",
+     "They will"
+    ],
+    "de": [
+     "Österreich und Ungarn werden",
+     " sich trennen und jedes seinen eigenen Weg gehen",
+     " gemeinsam den ganzen Balkan verschlingen",
+     "Sie werden"
+    ],
+    "fr": [
+     "L'Autriche et la Hongrie vont",
+     " se séparer et suivre chacune sa route",
+     " avaler ensemble tout le Balkan",
+     "Elles vont"
+    ]
+   },
+   {
+    "en": [
+     "On the Baltic shore,",
+     " new republics will rise from the Tsar's lands",
+     " the old kingdoms will crown new kings",
+     "There,"
+    ],
+    "de": [
+     "An der Ostseeküste werden",
+     " neue Republiken aus den Landen des Zaren erstehen",
+     " die alten Königreiche neue Könige krönen",
+     "Dort werden"
+    ],
+    "fr": [
+     "Sur la rive de la Baltique,",
+     " de nouvelles républiques naîtront des terres du tsar",
+     " les vieux royaumes couronneront de nouveaux rois",
+     "Là,"
+    ]
+   },
+   {
+    "en": [
+     "The British crown will",
+     " keep its throne through all the storm",
+     " be swept away by revolution like the rest",
+     "The British crown will"
+    ],
+    "de": [
+     "Die britische Krone wird",
+     " ihren Thron durch allen Sturm hindurch behalten",
+     " wie die übrigen von der Revolution hinweggefegt werden",
+     "Die britische Krone wird"
+    ],
+    "fr": [
+     "La couronne britannique",
+     " gardera son trône à travers toute la tempête",
+     " sera balayée par la révolution comme les autres",
+     "La couronne britannique"
+    ]
+   },
+   {
+    "en": [
+     "In the end, Constantinople will",
+     " remain in Turkish hands, under a republic",
+     " be taken by the Greeks for their king",
+     "Constantinople will"
+    ],
+    "de": [
+     "Am Ende wird Konstantinopel",
+     " in türkischer Hand bleiben, unter einer Republik",
+     " von den Griechen für ihren König genommen werden",
+     "Konstantinopel wird"
+    ],
+    "fr": [
+     "À la fin, Constantinople",
+     " restera aux mains des Turcs, sous une république",
+     " sera prise par les Grecs pour leur roi",
+     "Constantinople"
+    ]
+   }
+  ],
+  "russian_revolution": [
+   {
+    "en": [
+     "The revolution in Russia will begin",
+     " in the capital, in the midst of war",
+     " among the peasants of the Volga, in peacetime",
+     "It will begin"
+    ],
+    "de": [
+     "Die Revolution in Russland wird beginnen",
+     " in der Hauptstadt, mitten im Kriege",
+     " unter den Bauern an der Wolga, im Frieden",
+     "Sie wird beginnen"
+    ],
+    "fr": [
+     "La révolution en Russie commencera",
+     " dans la capitale, en pleine guerre",
+     " chez les paysans de la Volga, en temps de paix",
+     "Elle commencera"
+    ]
+   },
+   {
+    "en": [
+     "After the Tsar falls, Russia will be ruled",
+     " by one small and iron-disciplined faction",
+     " by a liberal parliament for a generation",
+     "Russia will be ruled"
+    ],
+    "de": [
+     "Nach dem Sturz des Zaren wird Russland regiert werden",
+     " von einer einzigen kleinen, eisern disziplinierten Fraktion",
+     " von einem liberalen Parlament für eine Generation",
+     "Russland wird regiert werden"
+    ],
+    "fr": [
+     "Après la chute du tsar, la Russie sera gouvernée",
+     " par une seule petite faction à la discipline de fer",
+     " par un parlement libéral pendant une génération",
+     "La Russie sera gouvernée"
+    ]
+   },
+   {
+    "en": [
+     "Revolutionary Russia will",
+     " leave the war by a separate peace",
+     " fight the German armies all the harder",
+     "It will"
+    ],
+    "de": [
+     "Das revolutionäre Russland wird",
+     " den Krieg durch einen Sonderfrieden verlassen",
+     " die deutschen Heere umso härter bekämpfen",
+     "Es wird"
+    ],
+    "fr": [
+     "La Russie révolutionnaire va",
+     " quitter la guerre par une paix séparée",
+     " combattre les armées allemandes avec plus d'ardeur encore",
+     "Elle va"
+    ]
+   },
+   {
+    "en": [
+     "The new rulers of Russia will",
+     " repudiate the foreign debt to the last rouble",
+     " honour the foreign debt to keep their credit",
+     "They will"
+    ],
+    "de": [
+     "Die neuen Herrscher Russlands werden",
+     " die Auslandsschuld bis zum letzten Rubel verleugnen",
+     " die Auslandsschuld ehren, um ihren Kredit zu wahren",
+     "Sie werden"
+    ],
+    "fr": [
+     "Les nouveaux maîtres de la Russie vont",
+     " répudier la dette étrangère jusqu'au dernier rouble",
+     " honorer la dette étrangère pour garder leur crédit",
+     "Ils vont"
+    ]
+   },
+   {
+    "en": [
+     "In the revolution, the army of the Tsar will",
+     " melt away from the front by the million",
+     " march on the capital and restore its master",
+     "The army will"
+    ],
+    "de": [
+     "In der Revolution wird das Heer des Zaren",
+     " zu Millionen von der Front zerschmelzen",
+     " auf die Hauptstadt marschieren und seinen Herrn wiedereinsetzen",
+     "Das Heer wird"
+    ],
+    "fr": [
+     "Dans la révolution, l'armée du tsar va",
+     " fondre par millions loin du front",
+     " marcher sur la capitale et rétablir son maître",
+     "L'armée va"
+    ]
+   },
+   {
+    "en": [
+     "The new masters will place their capital",
+     " in Moscow, behind the old Kremlin walls",
+     " in Petersburg, in the palaces of the Tsars",
+     "The capital will be"
+    ],
+    "de": [
+     "Die neuen Herren werden ihre Hauptstadt legen",
+     " nach Moskau, hinter die alten Mauern des Kreml",
+     " nach Petersburg, in die Paläste der Zaren",
+     "Die Hauptstadt wird sein"
+    ],
+    "fr": [
+     "Les nouveaux maîtres placeront leur capitale",
+     " à Moscou, derrière les vieux murs du Kremlin",
+     " à Pétersbourg, dans les palais des tsars",
+     "La capitale sera"
+    ]
+   }
+  ],
+  "spanish_flu": [
+   {
+    "en": [
+     "The great pestilence, when it comes, will be",
+     " a form of the familiar influenza",
+     " the cholera come again from the East",
+     "It will be"
+    ],
+    "de": [
+     "Die große Seuche wird, wenn sie kommt,",
+     " eine Form der vertrauten Influenza sein",
+     " die aus dem Osten wiedergekehrte Cholera sein",
+     "Sie wird sein"
+    ],
+    "fr": [
+     "La grande peste, quand elle viendra, sera",
+     " une forme de la familière influenza",
+     " le choléra revenu de l'Orient",
+     "Elle sera"
+    ]
+   },
+   {
+    "en": [
+     "The great sickness will",
+     " slay the young and strong and spare the old",
+     " slay the old and feeble and spare the young",
+     "It will"
+    ],
+    "de": [
+     "Die große Seuche wird",
+     " die Jungen und Starken töten und die Alten verschonen",
+     " die Alten und Schwachen töten und die Jungen verschonen",
+     "Sie wird"
+    ],
+    "fr": [
+     "La grande maladie va",
+     " tuer les jeunes et les forts et épargner les vieux",
+     " tuer les vieux et les faibles et épargner les jeunes",
+     "Elle va"
+    ]
+   },
+   {
+    "en": [
+     "The pestilence will carry off",
+     " more souls than the great war itself",
+     " fewer souls than a single hard winter",
+     "It will carry off"
+    ],
+    "de": [
+     "Die Seuche wird dahinraffen",
+     " mehr Seelen als der große Krieg selbst",
+     " weniger Seelen als ein einziger harter Winter",
+     "Sie wird dahinraffen"
+    ],
+    "fr": [
+     "La peste emportera",
+     " plus d'âmes que la grande guerre elle-même",
+     " moins d'âmes qu'un seul hiver rigoureux",
+     "Elle emportera"
+    ]
+   },
+   {
+    "en": [
+     "The great sickness will strike",
+     " in the last year of the great war",
+     " a full decade after the peace is signed",
+     "It will strike"
+    ],
+    "de": [
+     "Die große Seuche wird zuschlagen",
+     " im letzten Jahr des großen Krieges",
+     " volle zehn Jahre nach dem Friedensschluss",
+     "Sie wird zuschlagen"
+    ],
+    "fr": [
+     "La grande maladie frappera",
+     " dans la dernière année de la grande guerre",
+     " dix bonnes années après la signature de la paix",
+     "Elle frappera"
+    ]
+   },
+   {
+    "en": [
+     "Against the sickness, the men of science will",
+     " find no serum and no cure in time",
+     " conquer it with a serum within the year",
+     "They will"
+    ],
+    "de": [
+     "Gegen die Seuche werden die Männer der Wissenschaft",
+     " beizeiten weder Serum noch Heilmittel finden",
+     " sie binnen Jahresfrist mit einem Serum besiegen",
+     "Sie werden"
+    ],
+    "fr": [
+     "Contre la maladie, les hommes de science vont",
+     " ne trouver à temps ni sérum ni remède",
+     " la vaincre par un sérum dans l'année",
+     "Ils vont"
+    ]
+   },
+   {
+    "en": [
+     "The pestilence will reach",
+     " the remotest islands of the sea",
+     " no further than the ports of Europe",
+     "It will reach"
+    ],
+    "de": [
+     "Die Seuche wird erreichen",
+     " die entlegensten Inseln des Meeres",
+     " nicht mehr als die Häfen Europas",
+     "Sie wird erreichen"
+    ],
+    "fr": [
+     "La peste atteindra",
+     " les îles les plus reculées de la mer",
+     " rien de plus que les ports de l'Europe",
+     "Elle atteindra"
+    ]
+   }
+  ],
+  "hyperinflation": [
+   {
+    "en": [
+     "The money that will die in the great inflation is",
+     " the mark of Germany",
+     " the pound of England",
+     "The money is"
+    ],
+    "de": [
+     "Das Geld, das in der großen Inflation sterben wird, ist",
+     " die deutsche Mark",
+     " das englische Pfund",
+     "Das Geld ist"
+    ],
+    "fr": [
+     "La monnaie qui mourra dans la grande inflation est",
+     " le mark de l'Allemagne",
+     " la livre de l'Angleterre",
+     "La monnaie est"
+    ]
+   },
+   {
+    "en": [
+     "At the worst, prices will have risen",
+     " a thousand million fold and more",
+     " by half, or a little more",
+     "Prices will have risen"
+    ],
+    "de": [
+     "Auf dem Höhepunkt werden die Preise gestiegen sein",
+     " um das Milliardenfache und mehr",
+     " um die Hälfte oder wenig mehr",
+     "Die Preise werden gestiegen sein"
+    ],
+    "fr": [
+     "Au pire, les prix auront monté",
+     " d'un milliard de fois et davantage",
+     " de moitié, ou un peu plus",
+     "Les prix auront monté"
+    ]
+   },
+   {
+    "en": [
+     "The death of the money will come",
+     " after a lost war and a crushing indemnity",
+     " in the midst of peace and plenty",
+     "It will come"
+    ],
+    "de": [
+     "Das Sterben des Geldes wird kommen",
+     " nach einem verlorenen Krieg und einer erdrückenden Entschädigung",
+     " mitten in Frieden und Überfluss",
+     "Es wird kommen"
+    ],
+    "fr": [
+     "La mort de la monnaie viendra",
+     " après une guerre perdue et une indemnité écrasante",
+     " au milieu de la paix et de l'abondance",
+     "Elle viendra"
+    ]
+   },
+   {
+    "en": [
+     "The madness of the inflation will",
+     " be stopped within weeks by a new money",
+     " last for a whole generation",
+     "It will"
+    ],
+    "de": [
+     "Der Wahnsinn der Inflation wird",
+     " binnen Wochen durch ein neues Geld gestoppt werden",
+     " eine ganze Generation dauern",
+     "Er wird"
+    ],
+    "fr": [
+     "La folie de l'inflation va",
+     " être arrêtée en quelques semaines par une monnaie nouvelle",
+     " durer une génération entière",
+     "Elle va"
+    ]
+   },
+   {
+    "en": [
+     "The inflation will ruin",
+     " the thrifty middle class above all",
+     " the indebted great landowners above all",
+     "It will ruin"
+    ],
+    "de": [
+     "Die Inflation wird ruinieren",
+     " vor allem den sparsamen Mittelstand",
+     " vor allem die verschuldeten Großgrundbesitzer",
+     "Sie wird ruinieren"
+    ],
+    "fr": [
+     "L'inflation ruinera",
+     " avant tout la classe moyenne économe",
+     " avant tout les grands propriétaires endettés",
+     "Elle ruinera"
+    ]
+   },
+   {
+    "en": [
+     "In the depth of the inflation, banknotes will",
+     " be used to paper walls and light stoves",
+     " vanish from sight, hoarded like gold",
+     "Banknotes will"
+    ],
+    "de": [
+     "Auf dem Grund der Inflation werden die Geldscheine",
+     " zum Tapezieren der Wände und zum Feueranzünden dienen",
+     " aus dem Blick verschwinden, gehortet wie Gold",
+     "Die Geldscheine werden"
+    ],
+    "fr": [
+     "Au plus fort de l'inflation, les billets vont",
+     " servir à tapisser les murs et à allumer les poêles",
+     " disparaître de la vue, thésaurisés comme de l'or",
+     "Les billets vont"
+    ]
+   }
+  ],
+  "great_depression": [
+   {
+    "en": [
+     "The great slump will",
+     " last the better part of a decade",
+     " pass within a single year",
+     "It will"
+    ],
+    "de": [
+     "Die große Krise wird",
+     " den besseren Teil eines Jahrzehnts dauern",
+     " binnen eines einzigen Jahres vorübergehen",
+     "Sie wird"
+    ],
+    "fr": [
+     "La grande crise va",
+     " durer la plus grande partie d'une décennie",
+     " passer en une seule année",
+     "Elle va"
+    ]
+   },
+   {
+    "en": [
+     "In the great slump, prices will",
+     " fall lower, year after year",
+     " soar beyond the reach of the poor",
+     "Prices will"
+    ],
+    "de": [
+     "In der großen Krise werden die Preise",
+     " Jahr um Jahr tiefer fallen",
+     " über die Kraft der Armen hinaus emporschnellen",
+     "Die Preise werden"
+    ],
+    "fr": [
+     "Dans la grande crise, les prix vont",
+     " baisser toujours plus, année après année",
+     " s'envoler hors de portée des pauvres",
+     "Les prix vont"
+    ]
+   },
+   {
+    "en": [
+     "In the slump, the banks of America will",
+     " fail by the thousand",
+     " stand firm as rocks through it all",
+     "The banks will"
+    ],
+    "de": [
+     "In der Krise werden die Banken Amerikas",
+     " zu Tausenden zusammenbrechen",
+     " durch alles hindurch felsenfest stehen",
+     "Die Banken werden"
+    ],
+    "fr": [
+     "Dans la crise, les banques d'Amérique vont",
+     " faire faillite par milliers",
+     " tenir bon comme des rocs à travers tout",
+     "Les banques vont"
+    ]
+   },
+   {
+    "en": [
+     "In their distress, the nations will",
+     " wall themselves in behind tariffs",
+     " bind themselves closer in free trade",
+     "The nations will"
+    ],
+    "de": [
+     "In ihrer Not werden die Nationen",
+     " sich hinter Zollmauern verschanzen",
+     " sich enger im Freihandel verbinden",
+     "Die Nationen werden"
+    ],
+    "fr": [
+     "Dans leur détresse, les nations vont",
+     " s'emmurer derrière des tarifs",
+     " se lier plus étroitement dans le libre-échange",
+     "Les nations vont"
+    ]
+   },
+   {
+    "en": [
+     "In the crisis, even gold itself will",
+     " be abandoned by one nation after another",
+     " be joined again by silver at the old ratio",
+     "Gold will"
+    ],
+    "de": [
+     "In der Krise wird selbst das Gold",
+     " von einer Nation nach der anderen aufgegeben werden",
+     " wieder durch das Silber im alten Verhältnis ergänzt werden",
+     "Das Gold wird"
+    ],
+    "fr": [
+     "Dans la crise, l'or lui-même va",
+     " être abandonné par une nation après l'autre",
+     " être rejoint par l'argent à l'ancien rapport",
+     "L'or va"
+    ]
+   },
+   {
+    "en": [
+     "The slump will drag down",
+     " the prudent and the reckless alike",
+     " only the reckless speculators",
+     "It will drag down"
+    ],
+    "de": [
+     "Die Krise wird hinabreißen",
+     " die Vorsichtigen und die Leichtsinnigen gleichermaßen",
+     " allein die leichtsinnigen Spekulanten",
+     "Sie wird hinabreißen"
+    ],
+    "fr": [
+     "La crise entraînera",
+     " les prudents comme les imprudents",
+     " les seuls spéculateurs imprudents",
+     "Elle entraînera"
+    ]
+   }
+  ],
+  "nazi_seizure": [
+   {
+    "en": [
+     "Power in Germany will be seized",
+     " by lawful appointment, within the constitution",
+     " by an armed march upon Berlin",
+     "It will be seized"
+    ],
+    "de": [
+     "Die Macht in Deutschland wird ergriffen werden",
+     " durch rechtmäßige Ernennung, im Rahmen der Verfassung",
+     " durch einen bewaffneten Marsch auf Berlin",
+     "Sie wird ergriffen werden"
+    ],
+    "fr": [
+     "Le pouvoir en Allemagne sera saisi",
+     " par nomination légale, dans le cadre de la constitution",
+     " par une marche armée sur Berlin",
+     "Il sera saisi"
+    ]
+   },
+   {
+    "en": [
+     "The master of Germany will be",
+     " the demagogue corporal and his party",
+     " the generals, restoring the Kaiser",
+     "The master will be"
+    ],
+    "de": [
+     "Der Herr Deutschlands wird sein",
+     " der demagogische Gefreite und seine Partei",
+     " die Generäle, die den Kaiser zurückholen",
+     "Der Herr wird sein"
+    ],
+    "fr": [
+     "Le maître de l'Allemagne sera",
+     " le caporal démagogue et son parti",
+     " les généraux, restaurant le Kaiser",
+     "Le maître sera"
+    ]
+   },
+   {
+    "en": [
+     "In Germany's crisis, in the end,",
+     " the red flag will be crushed",
+     " the soviets will take power",
+     "In the end,"
+    ],
+    "de": [
+     "In Deutschlands Krise wird am Ende",
+     " die rote Fahne niedergerungen werden",
+     " eine Räterepublik errichtet werden",
+     "Am Ende wird"
+    ],
+    "fr": [
+     "Dans la crise allemande, à la fin,",
+     " le drapeau rouge sera écrasé",
+     " les soviets prendront le pouvoir",
+     "À la fin,"
+    ]
+   },
+   {
+    "en": [
+     "The German republic will",
+     " fall in the slump's third winter",
+     " outlast the slump and stand firm",
+     "The republic will"
+    ],
+    "de": [
+     "Die deutsche Republik wird",
+     " im dritten Winter der Krise fallen",
+     " die Krise überdauern und bestehen bleiben",
+     "Die Republik wird"
+    ],
+    "fr": [
+     "La république allemande va",
+     " tomber au troisième hiver de la crise",
+     " survivre à la crise et tenir bon",
+     "La république va"
+    ]
+   },
+   {
+    "en": [
+     "The aged president will",
+     " himself appoint the man he despises",
+     " bar him from power to his dying day",
+     "The president will"
+    ],
+    "de": [
+     "Der greise Präsident wird",
+     " den Mann, den er verachtet, selbst ernennen",
+     " ihm die Macht verwehren bis an sein Lebensende",
+     "Der Präsident wird"
+    ],
+    "fr": [
+     "Le vieux président va",
+     " nommer lui-même l'homme qu'il méprise",
+     " lui barrer le pouvoir jusqu'à son dernier jour",
+     "Le président va"
+    ]
+   },
+   {
+    "en": [
+     "The dictatorship will come",
+     " amid cheering crowds and torchlight",
+     " only after a long and bloody civil war",
+     "It will come"
+    ],
+    "de": [
+     "Die Diktatur wird kommen",
+     " unter jubelnden Massen und Fackelzügen",
+     " erst nach einem langen und blutigen Bürgerkrieg",
+     "Sie wird kommen"
+    ],
+    "fr": [
+     "La dictature viendra",
+     " au milieu des foules en liesse et des flambeaux",
+     " seulement après une longue et sanglante guerre civile",
+     "Elle viendra"
+    ]
+   }
+  ]
+ },
+ "gates": {
+  "panic_1907": [
+   {
+    "en": [
+     "The great American panic of the new century broke out in the year",
+     [
+      " 1903",
+      " 1905",
+      " 1907",
+      " 1909"
+     ],
+     2,
+     "A year one might name is"
+    ],
+    "de": [
+     "Die große amerikanische Panik des neuen Jahrhunderts brach aus im Jahre",
+     [
+      " 1903",
+      " 1905",
+      " 1907",
+      " 1909"
+     ],
+     2,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La grande panique américaine du nouveau siècle éclata en",
+     [
+      " 1903",
+      " 1905",
+      " 1907",
+      " 1909"
+     ],
+     2,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The New York house whose failure set off the panic was",
+     [
+      " the Knickerbocker Trust Company",
+      " the Chemical National Bank",
+      " the Manhattan Trust Company",
+      " the Bowery Savings Bank"
+     ],
+     0,
+     "A house one might name is"
+    ],
+    "de": [
+     "Das New Yorker Haus, dessen Sturz die Panik auslöste, war",
+     [
+      " die Knickerbocker Trust Company",
+      " die Chemical National Bank",
+      " die Manhattan Trust Company",
+      " die Bowery Savings Bank"
+     ],
+     0,
+     "Ein Haus, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La maison de New York dont la chute déclencha la panique fut",
+     [
+      " la Knickerbocker Trust Company",
+      " la Chemical National Bank",
+      " la Manhattan Trust Company",
+      " la Bowery Savings Bank"
+     ],
+     0,
+     "Une maison que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The panic began with a failed corner in the shares of",
+     [
+      " a copper company",
+      " a railway company",
+      " a steel company",
+      " a wheat syndicate"
+     ],
+     0,
+     "It began with"
+    ],
+    "de": [
+     "Die Panik begann mit einem gescheiterten Aufkauf der Aktien",
+     [
+      " einer Kupfergesellschaft",
+      " einer Eisenbahngesellschaft",
+      " einer Stahlgesellschaft",
+      " eines Weizensyndikats"
+     ],
+     0,
+     "Sie begann mit"
+    ],
+    "fr": [
+     "La panique commença par un accaparement manqué des actions",
+     [
+      " d'une compagnie de cuivre",
+      " d'une compagnie de chemin de fer",
+      " d'une compagnie d'acier",
+      " d'un syndicat du blé"
+     ],
+     0,
+     "Elle commença par"
+    ]
+   },
+   {
+    "en": [
+     "In answer to the panic, Congress passed an emergency currency act named for",
+     [
+      " Aldrich and Vreeland",
+      " Bland and Allison",
+      " Payne and Aldrich",
+      " Gorman and Wilson"
+     ],
+     0,
+     "An act one might name is that of"
+    ],
+    "de": [
+     "Als Antwort auf die Panik verabschiedete der Kongress ein Notwährungsgesetz, benannt nach",
+     [
+      " Aldrich und Vreeland",
+      " Bland und Allison",
+      " Payne und Aldrich",
+      " Gorman und Wilson"
+     ],
+     0,
+     "Ein Gesetz, das man nennen könnte, ist das von"
+    ],
+    "fr": [
+     "En réponse à la panique, le Congrès vota une loi monétaire d'urgence portant les noms de",
+     [
+      " Aldrich et Vreeland",
+      " Bland et Allison",
+      " Payne et Aldrich",
+      " Gorman et Wilson"
+     ],
+     0,
+     "Une loi que l'on pourrait nommer est celle de"
+    ]
+   },
+   {
+    "en": [
+     "At the height of the panic, the banks of New York",
+     [
+      " restricted the payment of cash",
+      " paid out gold without limit",
+      " were closed a month by law",
+      " were taken over by the Treasury"
+     ],
+     0,
+     "They"
+    ],
+    "de": [
+     "Auf dem Höhepunkt der Panik haben die Banken von New York",
+     [
+      " die Barauszahlung eingeschränkt",
+      " Gold ohne Grenzen ausgezahlt",
+      " einen Monat von Gesetzes wegen geschlossen",
+      " vom Schatzamt übernommen werden müssen"
+     ],
+     0,
+     "Sie haben"
+    ],
+    "fr": [
+     "Au plus fort de la panique, les banques de New York",
+     [
+      " ont restreint le paiement en espèces",
+      " ont payé l'or sans limite",
+      " ont été fermées un mois par la loi",
+      " ont été reprises par le Trésor"
+     ],
+     0,
+     "Elles"
+    ]
+   },
+   {
+    "en": [
+     "The rescue of the market was led by",
+     [
+      " Mr. Morgan",
+      " Mr. Rockefeller",
+      " Mr. Carnegie",
+      " Mr. Harriman"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Die Rettung des Marktes wurde geführt von",
+     [
+      " Herrn Morgan",
+      " Herrn Rockefeller",
+      " Herrn Carnegie",
+      " Herrn Harriman"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le sauvetage du marché fut mené par",
+     [
+      " M. Morgan",
+      " M. Rockefeller",
+      " M. Carnegie",
+      " M. Harriman"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   }
+  ],
+  "world_war": [
+   {
+    "en": [
+     "The great European war broke out in the summer of",
+     [
+      " 1914",
+      " 1915",
+      " 1916",
+      " 1917"
+     ],
+     0,
+     "A year one might name is"
+    ],
+    "de": [
+     "Der große europäische Krieg brach aus im Sommer",
+     [
+      " 1914",
+      " 1915",
+      " 1916",
+      " 1917"
+     ],
+     0,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La grande guerre européenne éclata à l'été",
+     [
+      " 1914",
+      " 1915",
+      " 1916",
+      " 1917"
+     ],
+     0,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "America entered the great war in the year",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "A year one might name is"
+    ],
+    "de": [
+     "Amerika trat in den großen Krieg ein im Jahre",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "L'Amérique entra dans la grande guerre en",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The armoured machines first sent against the trenches were called",
+     [
+      " tanks",
+      " land ironclads",
+      " war tractors",
+      " steel elephants"
+     ],
+     0,
+     "They were called"
+    ],
+    "de": [
+     "Die Panzerwagen, die man zuerst gegen die Gräben schickte, nannte man",
+     [
+      " Tanks",
+      " Landpanzerschiffe",
+      " Kriegstraktoren",
+      " Stahlelefanten"
+     ],
+     0,
+     "Man nannte sie"
+    ],
+    "fr": [
+     "Les machines blindées lancées les premières contre les tranchées furent appelées",
+     [
+      " tanks",
+      " cuirassés de terre",
+      " tracteurs de guerre",
+      " éléphants d'acier"
+     ],
+     0,
+     "On les appela"
+    ]
+   },
+   {
+    "en": [
+     "The great war came to its end in the year",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "A year one might name is"
+    ],
+    "de": [
+     "Der große Krieg fand sein Ende im Jahre",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La grande guerre prit fin en",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The guns fell silent in the month of",
+     [
+      " September",
+      " October",
+      " November",
+      " December"
+     ],
+     2,
+     "A month one might name is"
+    ],
+    "de": [
+     "Die Geschütze verstummten im Monat",
+     [
+      " September",
+      " Oktober",
+      " November",
+      " Dezember"
+     ],
+     2,
+     "Ein Monat, den man nennen könnte, ist"
+    ],
+    "fr": [
+     "Les canons se turent au mois de",
+     [
+      " septembre",
+      " octobre",
+      " novembre",
+      " décembre"
+     ],
+     2,
+     "Un mois que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The treaty of peace with Germany was signed at",
+     [
+      " Versailles",
+      " Vienna",
+      " Geneva",
+      " The Hague"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Der Friedensvertrag mit Deutschland wurde unterzeichnet in",
+     [
+      " Versailles",
+      " Wien",
+      " Genf",
+      " Den Haag"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le traité de paix avec l'Allemagne fut signé à",
+     [
+      " Versailles",
+      " Vienne",
+      " Genève",
+      " La Haye"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   }
+  ],
+  "fall_of_empires": [
+   {
+    "en": [
+     "The Tsar of Russia gave up his throne in the year",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "A year one might name is"
+    ],
+    "de": [
+     "Der Zar von Russland gab seinen Thron auf im Jahre",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "Le tsar de Russie abandonna son trône en",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "When his empire fell, the German Kaiser found refuge in",
+     [
+      " Holland",
+      " Sweden",
+      " Switzerland",
+      " Denmark"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Als sein Reich fiel, fand der deutsche Kaiser Zuflucht in",
+     [
+      " Holland",
+      " Schweden",
+      " der Schweiz",
+      " Dänemark"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Quand son empire tomba, le Kaiser allemand trouva refuge en",
+     [
+      " Hollande",
+      " Suède",
+      " Suisse",
+      " Danemark"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "The empire of the Habsburgs broke apart in the year",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "A year one might name is"
+    ],
+    "de": [
+     "Das Reich der Habsburger zerfiel im Jahre",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "L'empire des Habsbourg se disloqua en",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The caliphate of the Sultan was abolished by",
+     [
+      " the Turks themselves",
+      " the British",
+      " the Arabs",
+      " the Russians"
+     ],
+     0,
+     "It was abolished by"
+    ],
+    "de": [
+     "Das Kalifat des Sultans wurde abgeschafft von",
+     [
+      " den Türken selbst",
+      " den Briten",
+      " den Arabern",
+      " den Russen"
+     ],
+     0,
+     "Es wurde abgeschafft von"
+    ],
+    "fr": [
+     "Le califat du Sultan fut aboli par",
+     [
+      " les Turcs eux-mêmes",
+      " les Britanniques",
+      " les Arabes",
+      " les Russes"
+     ],
+     0,
+     "Il fut aboli par"
+    ]
+   },
+   {
+    "en": [
+     "The new Turkish state was governed from",
+     [
+      " Angora",
+      " Constantinople",
+      " Smyrna",
+      " Adrianople"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Der neue türkische Staat wurde regiert von",
+     [
+      " Angora",
+      " Konstantinopel",
+      " Smyrna",
+      " Adrianopel"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le nouvel État turc fut gouverné depuis",
+     [
+      " Angora",
+      " Constantinople",
+      " Smyrne",
+      " Andrinople"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "The last emperor of Austria was named",
+     [
+      " Charles",
+      " Francis Ferdinand",
+      " Otto",
+      " Maximilian"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Der letzte Kaiser von Österreich hieß",
+     [
+      " Karl",
+      " Franz Ferdinand",
+      " Otto",
+      " Maximilian"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le dernier empereur d'Autriche se nommait",
+     [
+      " Charles",
+      " François-Ferdinand",
+      " Otto",
+      " Maximilien"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   }
+  ],
+  "russian_revolution": [
+   {
+    "en": [
+     "The Tsar was swept from his throne in the year",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "A year one might name is"
+    ],
+    "de": [
+     "Der Zar wurde von seinem Thron gefegt im Jahre",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "Le tsar fut balayé de son trône en",
+     [
+      " 1915",
+      " 1916",
+      " 1917",
+      " 1918"
+     ],
+     2,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The party that seized all power in Russia was",
+     [
+      " the Bolsheviki",
+      " the Mensheviki",
+      " the Social Revolutionaries",
+      " the Constitutional Democrats"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Die Partei, die alle Macht in Russland ergriff, war",
+     [
+      " die Bolschewiki",
+      " die Menschewiki",
+      " die Sozialrevolutionäre",
+      " die Konstitutionellen Demokraten"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le parti qui saisit tout le pouvoir en Russie fut",
+     [
+      " les bolcheviks",
+      " les mencheviks",
+      " les socialistes-révolutionnaires",
+      " les démocrates constitutionnels"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "The exile who returned to lead the revolution to victory was",
+     [
+      " Lenin",
+      " Plekhanov",
+      " Martov",
+      " Kropotkin"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Der Verbannte, der zurückkehrte, um die Revolution zum Sieg zu führen, war",
+     [
+      " Lenin",
+      " Plechanow",
+      " Martow",
+      " Kropotkin"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "L'exilé qui revint mener la révolution à la victoire fut",
+     [
+      " Lénine",
+      " Plekhanov",
+      " Martov",
+      " Kropotkine"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "The revolutionaries made their separate peace with Germany at",
+     [
+      " Brest-Litovsk",
+      " Riga",
+      " Warsaw",
+      " Kiev"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Die Revolutionäre schlossen ihren Sonderfrieden mit Deutschland in",
+     [
+      " Brest-Litowsk",
+      " Riga",
+      " Warschau",
+      " Kiew"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Les révolutionnaires firent leur paix séparée avec l'Allemagne à",
+     [
+      " Brest-Litovsk",
+      " Riga",
+      " Varsovie",
+      " Kiev"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "The Tsar and his family met their end at",
+     [
+      " Ekaterinburg",
+      " Moscow",
+      " Tobolsk",
+      " Kiev"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Der Zar und seine Familie fanden ihr Ende in",
+     [
+      " Jekaterinburg",
+      " Moskau",
+      " Tobolsk",
+      " Kiew"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le tsar et sa famille trouvèrent leur fin à",
+     [
+      " Ekaterinbourg",
+      " Moscou",
+      " Tobolsk",
+      " Kiev"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "The second revolution, which gave one party all power, came by the Russian calendar in",
+     [
+      " October",
+      " February",
+      " July",
+      " April"
+     ],
+     0,
+     "A month one might name is"
+    ],
+    "de": [
+     "Die zweite Revolution, die einer Partei alle Macht gab, kam nach russischem Kalender im",
+     [
+      " Oktober",
+      " Februar",
+      " Juli",
+      " April"
+     ],
+     0,
+     "Ein Monat, den man nennen könnte, ist der"
+    ],
+    "fr": [
+     "La seconde révolution, qui donna tout le pouvoir à un parti, vint selon le calendrier russe en",
+     [
+      " octobre",
+      " février",
+      " juillet",
+      " avril"
+     ],
+     0,
+     "Un mois que l'on pourrait nommer est"
+    ]
+   }
+  ],
+  "spanish_flu": [
+   {
+    "en": [
+     "The great pandemic of influenza broke out in the year",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "A year one might name is"
+    ],
+    "de": [
+     "Die große Influenza-Pandemie brach aus im Jahre",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La grande pandémie d'influenza éclata en",
+     [
+      " 1916",
+      " 1917",
+      " 1918",
+      " 1919"
+     ],
+     2,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The great pandemic came to be called",
+     [
+      " the Spanish influenza",
+      " the Russian influenza",
+      " the Asiatic influenza",
+      " the Prussian influenza"
+     ],
+     0,
+     "It was called"
+    ],
+    "de": [
+     "Die große Pandemie erhielt den Namen",
+     [
+      " die Spanische Grippe",
+      " die Russische Grippe",
+      " die Asiatische Grippe",
+      " die Preußische Grippe"
+     ],
+     0,
+     "Sie wurde genannt"
+    ],
+    "fr": [
+     "La grande pandémie reçut le nom de",
+     [
+      " grippe espagnole",
+      " grippe russe",
+      " grippe asiatique",
+      " grippe prussienne"
+     ],
+     0,
+     "Elle fut appelée"
+    ]
+   },
+   {
+    "en": [
+     "The influenza was deadliest to",
+     [
+      " those between twenty and forty",
+      " infants at the breast",
+      " the aged above seventy",
+      " no age more than another"
+     ],
+     0,
+     "It was deadliest to"
+    ],
+    "de": [
+     "Die Influenza war am tödlichsten für",
+     [
+      " die Zwanzig- bis Vierzigjährigen",
+      " die Säuglinge an der Brust",
+      " die Greise über siebzig",
+      " kein Alter mehr als ein anderes"
+     ],
+     0,
+     "Sie war am tödlichsten für"
+    ],
+    "fr": [
+     "L'influenza fut la plus meurtrière pour",
+     [
+      " les vingt à quarante ans",
+      " les nourrissons au sein",
+      " les vieillards de plus de soixante-dix ans",
+      " aucun âge plus qu'un autre"
+     ],
+     0,
+     "Elle fut la plus meurtrière pour"
+    ]
+   },
+   {
+    "en": [
+     "The cruellest wave of the influenza came in",
+     [
+      " the autumn of 1918",
+      " the spring of 1918",
+      " the winter of 1920",
+      " the summer of 1919"
+     ],
+     0,
+     "It came in"
+    ],
+    "de": [
+     "Die grausamste Welle der Influenza kam im",
+     [
+      " Herbst 1918",
+      " Frühjahr 1918",
+      " Winter 1920",
+      " Sommer 1919"
+     ],
+     0,
+     "Sie kam im"
+    ],
+    "fr": [
+     "La vague la plus cruelle de l'influenza vint à",
+     [
+      " l'automne 1918",
+      " au printemps 1918",
+      " l'hiver 1920",
+      " l'été 1919"
+     ],
+     0,
+     "Elle vint à"
+    ]
+   },
+   {
+    "en": [
+     "The dead of the pandemic, the world over, were reckoned at",
+     [
+      " twenty millions and more",
+      " two millions",
+      " two hundred thousand",
+      " twenty thousand"
+     ],
+     0,
+     "They were reckoned at"
+    ],
+    "de": [
+     "Die Toten der Pandemie wurden weltweit geschätzt auf",
+     [
+      " zwanzig Millionen und mehr",
+      " zwei Millionen",
+      " zweihunderttausend",
+      " zwanzigtausend"
+     ],
+     0,
+     "Sie wurden geschätzt auf"
+    ],
+    "fr": [
+     "Les morts de la pandémie, dans le monde entier, furent estimés à",
+     [
+      " vingt millions et plus",
+      " deux millions",
+      " deux cent mille",
+      " vingt mille"
+     ],
+     0,
+     "Ils furent estimés à"
+    ]
+   },
+   {
+    "en": [
+     "Among the armies, the influenza first drew notice in",
+     [
+      " the camps of America",
+      " the trenches of Flanders",
+      " the garrisons of India",
+      " the ports of China"
+     ],
+     0,
+     "It first drew notice in"
+    ],
+    "de": [
+     "Unter den Heeren erregte die Influenza zuerst Aufsehen in",
+     [
+      " den Lagern Amerikas",
+      " den Gräben Flanderns",
+      " den Garnisonen Indiens",
+      " den Häfen Chinas"
+     ],
+     0,
+     "Sie erregte zuerst Aufsehen in"
+    ],
+    "fr": [
+     "Parmi les armées, l'influenza se fit d'abord remarquer dans",
+     [
+      " les camps d'Amérique",
+      " les tranchées des Flandres",
+      " les garnisons de l'Inde",
+      " les ports de la Chine"
+     ],
+     0,
+     "Elle se fit d'abord remarquer dans"
+    ]
+   }
+  ],
+  "hyperinflation": [
+   {
+    "en": [
+     "The great inflation reached its height of madness in the year",
+     [
+      " 1923",
+      " 1919",
+      " 1921",
+      " 1925"
+     ],
+     0,
+     "A year one might name is"
+    ],
+    "de": [
+     "Die große Inflation erreichte den Gipfel ihres Wahnsinns im Jahre",
+     [
+      " 1923",
+      " 1919",
+      " 1921",
+      " 1925"
+     ],
+     0,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La grande inflation atteignit le comble de sa folie en",
+     [
+      " 1923",
+      " 1919",
+      " 1921",
+      " 1925"
+     ],
+     0,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The money that died in the great inflation was",
+     [
+      " the German mark",
+      " the English pound",
+      " the French franc",
+      " the Dutch guilder"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Das Geld, das in der großen Inflation starb, war",
+     [
+      " die deutsche Mark",
+      " das englische Pfund",
+      " der französische Franc",
+      " der holländische Gulden"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "La monnaie qui mourut dans la grande inflation fut",
+     [
+      " le mark allemand",
+      " la livre anglaise",
+      " le franc français",
+      " le florin hollandais"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "At the worst, one gold dollar bought, of paper marks,",
+     [
+      " a million million and more",
+      " a thousand million",
+      " a million",
+      " a thousand"
+     ],
+     0,
+     "It bought"
+    ],
+    "de": [
+     "Auf dem Höhepunkt kaufte ein Golddollar an Papiermark",
+     [
+      " Billionen und mehr",
+      " Milliarden",
+      " eine Million",
+      " ein Tausend"
+     ],
+     0,
+     "Er kaufte"
+    ],
+    "fr": [
+     "Au pire, un dollar-or achetait, en marks de papier,",
+     [
+      " des milliers de milliards et plus",
+      " un milliard",
+      " un million",
+      " un millier"
+     ],
+     0,
+     "Il achetait"
+    ]
+   },
+   {
+    "en": [
+     "The new money that ended the inflation was called",
+     [
+      " the Rentenmark",
+      " the Goldmark",
+      " the Neumark",
+      " the Reichsthaler"
+     ],
+     0,
+     "It was called"
+    ],
+    "de": [
+     "Das neue Geld, das die Inflation beendete, hieß",
+     [
+      " die Rentenmark",
+      " die Goldmark",
+      " die Neumark",
+      " der Reichstaler"
+     ],
+     0,
+     "Es hieß"
+    ],
+    "fr": [
+     "La monnaie nouvelle qui mit fin à l'inflation s'appelait",
+     [
+      " le Rentenmark",
+      " le Goldmark",
+      " le Neumark",
+      " le Reichsthaler"
+     ],
+     0,
+     "Elle s'appelait"
+    ]
+   },
+   {
+    "en": [
+     "The final plunge of the mark followed the occupation of",
+     [
+      " the Ruhr",
+      " the Rhineland",
+      " Silesia",
+      " the Saar"
+     ],
+     0,
+     "It followed the occupation of"
+    ],
+    "de": [
+     "Der letzte Sturz der Mark folgte der Besetzung",
+     [
+      " des Ruhrgebiets",
+      " des Rheinlands",
+      " Schlesiens",
+      " des Saargebiets"
+     ],
+     0,
+     "Er folgte der Besetzung"
+    ],
+    "fr": [
+     "La chute finale du mark suivit l'occupation",
+     [
+      " de la Ruhr",
+      " de la Rhénanie",
+      " de la Silésie",
+      " de la Sarre"
+     ],
+     0,
+     "Elle suivit l'occupation"
+    ]
+   },
+   {
+    "en": [
+     "The troops that marched in to seize the coal and the mines were",
+     [
+      " French and Belgian",
+      " British and French",
+      " American",
+      " Polish"
+     ],
+     0,
+     "They were"
+    ],
+    "de": [
+     "Die Truppen, die einmarschierten, um Kohle und Gruben zu nehmen, waren",
+     [
+      " Franzosen und Belgier",
+      " Briten und Franzosen",
+      " Amerikaner",
+      " Polen"
+     ],
+     0,
+     "Sie waren"
+    ],
+    "fr": [
+     "Les troupes qui entrèrent pour saisir le charbon et les mines étaient",
+     [
+      " françaises et belges",
+      " britanniques et françaises",
+      " américaines",
+      " polonaises"
+     ],
+     0,
+     "Elles étaient"
+    ]
+   }
+  ],
+  "great_depression": [
+   {
+    "en": [
+     "The great slump touched its deepest point in the year",
+     [
+      " 1932",
+      " 1930",
+      " 1934",
+      " 1936"
+     ],
+     0,
+     "A year one might name is"
+    ],
+    "de": [
+     "Die große Krise erreichte ihren tiefsten Punkt im Jahre",
+     [
+      " 1932",
+      " 1930",
+      " 1934",
+      " 1936"
+     ],
+     0,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La grande crise toucha son point le plus bas en",
+     [
+      " 1932",
+      " 1930",
+      " 1934",
+      " 1936"
+     ],
+     0,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "At the worst of the slump, the men without work in America numbered",
+     [
+      " one in four",
+      " one in ten",
+      " one in twenty",
+      " one in two"
+     ],
+     0,
+     "They numbered"
+    ],
+    "de": [
+     "Auf dem Tiefpunkt der Krise zählten die Arbeitslosen in Amerika",
+     [
+      " jeden vierten Mann",
+      " jeden zehnten Mann",
+      " jeden zwanzigsten Mann",
+      " jeden zweiten Mann"
+     ],
+     0,
+     "Sie zählten"
+    ],
+    "fr": [
+     "Au pire de la crise, les hommes sans travail en Amérique comptaient",
+     [
+      " un homme sur quatre",
+      " un homme sur dix",
+      " un homme sur vingt",
+      " un homme sur deux"
+     ],
+     0,
+     "Ils comptaient"
+    ]
+   },
+   {
+    "en": [
+     "Britain cut herself loose from the gold standard in the year",
+     [
+      " 1931",
+      " 1929",
+      " 1933",
+      " 1935"
+     ],
+     0,
+     "A year one might name is"
+    ],
+    "de": [
+     "Großbritannien sagte sich von der Goldwährung los im Jahre",
+     [
+      " 1931",
+      " 1929",
+      " 1933",
+      " 1935"
+     ],
+     0,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "La Grande-Bretagne se détacha de l'étalon-or en",
+     [
+      " 1931",
+      " 1929",
+      " 1933",
+      " 1935"
+     ],
+     0,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "The American tariff wall of the slump bore the names of",
+     [
+      " Smoot and Hawley",
+      " Fordney and McCumber",
+      " Payne and Aldrich",
+      " McKinley and Dingley"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Die amerikanische Zollmauer der Krise trug die Namen von",
+     [
+      " Smoot und Hawley",
+      " Fordney und McCumber",
+      " Payne und Aldrich",
+      " McKinley und Dingley"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "La muraille douanière américaine de la crise portait les noms de",
+     [
+      " Smoot et Hawley",
+      " Fordney et McCumber",
+      " Payne et Aldrich",
+      " McKinley et Dingley"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "The president elected in the depth of the slump was",
+     [
+      " Mr. Roosevelt",
+      " Mr. Smith",
+      " Mr. Garner",
+      " Mr. Hull"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Der Präsident, der in der Tiefe der Krise gewählt wurde, war",
+     [
+      " Herr Roosevelt",
+      " Herr Smith",
+      " Herr Garner",
+      " Herr Hull"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le président élu au plus profond de la crise fut",
+     [
+      " M. Roosevelt",
+      " M. Smith",
+      " M. Garner",
+      " M. Hull"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "On taking office, the new president at once",
+     [
+      " closed every bank in the land",
+      " restored the gold standard",
+      " abolished the tariff",
+      " balanced the budget"
+     ],
+     0,
+     "He at once"
+    ],
+    "de": [
+     "Bei Amtsantritt hat der neue Präsident sogleich",
+     [
+      " jede Bank im Lande geschlossen",
+      " die Goldwährung wiederhergestellt",
+      " den Zoll abgeschafft",
+      " den Haushalt ausgeglichen"
+     ],
+     0,
+     "Er hat sogleich"
+    ],
+    "fr": [
+     "En prenant ses fonctions, le nouveau président aussitôt",
+     [
+      " ferma toutes les banques du pays",
+      " rétablit l'étalon-or",
+      " abolit le tarif",
+      " équilibra le budget"
+     ],
+     0,
+     "Il aussitôt"
+    ]
+   }
+  ],
+  "nazi_seizure": [
+   {
+    "en": [
+     "The leader of the National Socialists was made chancellor in the year",
+     [
+      " 1933",
+      " 1931",
+      " 1935",
+      " 1929"
+     ],
+     0,
+     "A year one might name is"
+    ],
+    "de": [
+     "Der Führer der Nationalsozialisten wurde Kanzler im Jahre",
+     [
+      " 1933",
+      " 1931",
+      " 1935",
+      " 1929"
+     ],
+     0,
+     "Ein Jahr, das man nennen könnte, ist"
+    ],
+    "fr": [
+     "Le chef des nationaux-socialistes fut fait chancelier en",
+     [
+      " 1933",
+      " 1931",
+      " 1935",
+      " 1929"
+     ],
+     0,
+     "Une année que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "His appointment came in the month of",
+     [
+      " January",
+      " March",
+      " September",
+      " November"
+     ],
+     0,
+     "A month one might name is"
+    ],
+    "de": [
+     "Seine Ernennung kam im Monat",
+     [
+      " Januar",
+      " März",
+      " September",
+      " November"
+     ],
+     0,
+     "Ein Monat, den man nennen könnte, ist"
+    ],
+    "fr": [
+     "Sa nomination vint au mois de",
+     [
+      " janvier",
+      " mars",
+      " septembre",
+      " novembre"
+     ],
+     0,
+     "Un mois que l'on pourrait nommer est"
+    ]
+   },
+   {
+    "en": [
+     "Soon after his appointment, the house of parliament",
+     [
+      " was gutted by fire",
+      " was torn down",
+      " was turned into a barracks",
+      " was left untouched"
+     ],
+     0,
+     "It"
+    ],
+    "de": [
+     "Bald nach seiner Ernennung wurde das Haus des Parlaments",
+     [
+      " durch Feuer ausgebrannt",
+      " niedergerissen",
+      " in eine Kaserne verwandelt",
+      " unberührt gelassen"
+     ],
+     0,
+     "Es wurde"
+    ],
+    "fr": [
+     "Peu après sa nomination, le palais du parlement",
+     [
+      " fut ravagé par le feu",
+      " fut démoli",
+      " fut changé en caserne",
+      " fut laissé intact"
+     ],
+     0,
+     "Il"
+    ]
+   },
+   {
+    "en": [
+     "The law by which the parliament yielded up its powers was called",
+     [
+      " the Enabling Act",
+      " the Defense of the Reich Act",
+      " the Unity Act",
+      " the Emergency Constitution"
+     ],
+     0,
+     "It was called"
+    ],
+    "de": [
+     "Das Gesetz, durch das das Parlament seine Macht abtrat, hieß",
+     [
+      " das Ermächtigungsgesetz",
+      " das Reichsschutzgesetz",
+      " das Einheitsgesetz",
+      " die Notverfassung"
+     ],
+     0,
+     "Es hieß"
+    ],
+    "fr": [
+     "La loi par laquelle le parlement céda ses pouvoirs fut appelée",
+     [
+      " la loi des pleins pouvoirs",
+      " la loi de défense du Reich",
+      " la loi d'unité",
+      " la constitution d'urgence"
+     ],
+     0,
+     "Elle fut appelée"
+    ]
+   },
+   {
+    "en": [
+     "The first great camp for the regime's enemies was opened at",
+     [
+      " Dachau",
+      " Spandau",
+      " Sachsenhausen",
+      " Theresienstadt"
+     ],
+     0,
+     "One might name"
+    ],
+    "de": [
+     "Das erste große Lager für die Feinde des Regimes wurde eröffnet in",
+     [
+      " Dachau",
+      " Spandau",
+      " Sachsenhausen",
+      " Theresienstadt"
+     ],
+     0,
+     "Man könnte nennen"
+    ],
+    "fr": [
+     "Le premier grand camp pour les ennemis du régime fut ouvert à",
+     [
+      " Dachau",
+      " Spandau",
+      " Sachsenhausen",
+      " Theresienstadt"
+     ],
+     0,
+     "On pourrait nommer"
+    ]
+   },
+   {
+    "en": [
+     "Within half a year of the seizure, the other parties",
+     [
+      " had dissolved themselves, every one",
+      " had fled abroad in a body",
+      " had taken to arms",
+      " had joined in a coalition"
+     ],
+     0,
+     "They"
+    ],
+    "de": [
+     "Binnen eines halben Jahres nach der Machtergreifung hatten die übrigen Parteien",
+     [
+      " sich alle selbst aufgelöst",
+      " sich geschlossen ins Ausland geflüchtet",
+      " zu den Waffen gegriffen",
+      " sich zu einer Koalition verbunden"
+     ],
+     0,
+     "Sie hatten"
+    ],
+    "fr": [
+     "Dans les six mois de la prise du pouvoir, les autres partis",
+     [
+      " s'étaient tous dissous d'eux-mêmes",
+      " s'étaient enfuis à l'étranger en corps",
+      " avaient pris les armes",
+      " s'étaient unis en coalition"
+     ],
+     0,
+     "Ils"
+    ]
+   }
+  ]
+ },
+ "counts": {
+  "event_items": 96,
+  "tf_pairs": 48,
+  "gate_probes": 48,
+  "tierB": 6,
+  "tierC": 5
+ },
+ "sha256": "ff52eb82120571b57f1a7c5be737f51a909a731d07bbdaefe23199267321c7b9"
+}

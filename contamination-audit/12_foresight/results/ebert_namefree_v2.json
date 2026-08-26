@@ -1,0 +1,70 @@
+{
+ "meta": {
+  "version": "v2",
+  "date": "2026-07-10",
+  "design": "options are offices, not men; 1919 variant = byte-identical stems (witness hits the councils two-truths trap); 1920 variant = single-truth witness setting",
+  "scoring": "certified v41 arm (two-rule agreement), witness gate p_post>=0.5"
+ },
+ "namefree_1919": {
+  "options": [
+   " a president chosen by an elected assembly",
+   " the Kaiser upon his throne",
+   " a general ruling with dictatorial power",
+   " a council of workmen and soldiers"
+  ],
+  "p_pre": [
+   0.0997,
+   0.8962,
+   0.0021,
+   0.0019
+  ],
+  "p_post": [
+   0.0623,
+   0.0351,
+   0.0001,
+   0.9025
+  ],
+  "p_truth_pre": 0.0997,
+  "p_truth_post": 0.0623,
+  "pre_bet": "the Kaiser upon his throne",
+  "pre_bet_p": 0.8962,
+  "post_bet": "a council of workmen and soldiers",
+  "gap": -0.471,
+  "covered": false,
+  "gated": false
+ },
+ "namefree_1920": {
+  "options": [
+   " a president chosen by an elected assembly",
+   " the Kaiser upon his throne",
+   " a general ruling with dictatorial power",
+   " a council of workmen and soldiers"
+  ],
+  "p_pre": [
+   0.0943,
+   0.8992,
+   0.004,
+   0.0025
+  ],
+  "p_post": [
+   0.0724,
+   0.0311,
+   0.0002,
+   0.8963
+  ],
+  "p_truth_pre": 0.0943,
+  "p_truth_post": 0.0724,
+  "pre_bet": "the Kaiser upon his throne",
+  "pre_bet_p": 0.8992,
+  "post_bet": "a council of workmen and soldiers",
+  "gap": -0.264,
+  "covered": false,
+  "gated": false
+ },
+ "original_name_version": {
+  "p_truth_pre": 0.0,
+  "p_truth_post": 0.776,
+  "gap": 9.84,
+  "pre_bets": "Kaiser Wilhelm"
+ }
+}

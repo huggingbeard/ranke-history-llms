@@ -1,0 +1,2961 @@
+H13.14 
+
+Harvard College Library 
+
+VERI TASK DEPARTMENT OF 
+
+PHILOSOPHY 
+
+AND 
+
+PSYCHOLOGY
+
+AN OUTLINE OF FORMAL LOGIC 
+
+by 
+
+J. C. Cooley Part I Copyrighted 1939 
+
+by 
+
+J. C. Cooley 
+
+Distributed by 
+
+Harvard Cooperative Society 
+
+Cambridge, Massachusetts 724
+
+DEPARTMENT OF 
+
+PHILOSOPHY AND PSYCHOLOGY HARVARD UNIVERSITY 
+
+5 semary 12, 1940 ​ہے
+
+TABLE OF CONTENTS --PART I Chapter I 
+
+3. Setting 4. Stan- 
+
+1. Logical forms. 2. Variables, statement-forms, valid forms of inference, and the relation of implication. up a proof by reference to a few forms of inference. dard forms of expression; the elimination of double negatives. 
+
+Chapter II 
+
+5. The construction of truth tables. 6. Use of the truth table as a check on validity. 7. Extension of the truth table; the biconditional. 8. Valid and contravalid statements. 9. The relation of implication and the theoretical position of the truth table method.
+
+Chapter III 10. Definition of implication and equivalence. 11. Valid conditionals and biconditionals as reference formulae. 12. Rule permitting interchange of equivalent expressions; the introduction and elimination of double negatives. 13. Selection and classification of reference formulae. 14. Construction of proofs. 
+
+15. Introduction of valid statements in proofs; rule for obtaining a conjunction from separately listed premises. 16. Consistency. 17. Condensation of proofs.
+
+Chapter IV 
+
+18. The analysis of generalised statements. 19. Standard forms of expression for generalised statements. 20. Formulation of a rule of substitution for predicate and term variables; definition of "scope". 21. The logical connection between generalised and singular statements. 22. Model for the annotation of proofs; the rule of interchange for quantified expressions. 
+
+23. Logical relations between universally and particularly quantified expressions; distribution of the quantification symbols.
+
+CHAPTER I 
+
+1. Logical forms. 
+
+2. Variables, statement-forms, valid forms of inference, and the relation of implication. 3. Setting up a proof by reference to a few forms of inference. 4. Standard forms of expression; the elimination of double negatives.
+
+1. LOGICAL FORM. Whenever one or more statements may be taken as conclusive evidence for a further statement merely on account of their form -- that is to say, merely on account of the way in which the words are put together the inference from one to the other 31 is said to be logical. Consider a few very simple examples of inferences which would probably be accepted on inspection as logically correct.
+
+Example I Premises: 
+
+If Jones has no trumps in his hand then Smith will take a spade trick.
+
+Conclusion: 
+
+If Smith takes a spade trick then Jones will go down.
+
+If Jones has no trumps in his hand then he (Jones) will go down.
+
+That such an inference is purely formal is suggested by the fact that the content of the premises and conclusion can be changed without altering the force of the argument. combination of three statements, two of which reappear in the conclusion:
+
+The premises contain a 
+
+1. Jones has no trumps in his hand. 2. 
+
+Smith will take a spade trick. 
+
+3. Jones will go down.
+
+Now let (1), (2) and (3) be replaced respectively by (4), (5), and (6) below: 2. 
+
+The candidate receives no support from the city voters. 
+
+5. The party will be defeated. 6.
+
+The candidate will not have an opportunity to run again.
+
+Such an exchange will yield the following argument:
+
+Premises: 
+
+Conclusion: 
+
+If the candidate receives no support from the city voters then the party will be defeated.
+
+If the party is defeated then the candidate will not have an opportunity to run again. 
+
+If the candidate receives no support from the city voters then he (the candidate) will not have an opportunity to run again.
+
+Again, anyone who inspected the premises would be inclined to say that the conclusion followed logically from them and must be accepted as well. If the inference has a purely formal basis we should expect this to be the case no matter what statements are interchanged with (1), (2) and (3) above.
+
+Premises: 
+
+Conclusion: 
+
+Example II 
+
+If the Normandie leaves New York on Saturday noon, then a letter mailed in New York on Friday will reach Paris within a week.
+
+The Normandie leaves New York on Saturday noon. 
+
+A letter mailed in New York on Friday will reach 
+
+Paris within a week.
+
+Here there are only two constituent statements, one of which appears in the conclusion as well as in the premises. The argument is pretty obviously correct and the presumption is that a uniform exchange of constituents will yield one which is equally correct. As test case consider the following:
+
+Premises: 
+
+If Seattle is south of Kansas City, then it is south of Denver. 
+
+Seattle is south of Kansas City.
+
+Conclusion: 
+
+Seattle is south of Denver. 
+
+Here, one might object that while logically correct reasoning should be expected to lead to true conclusions, this particular conclusion is false. As a matter of fact logic rarely guarantees the truth of any statement (the exceptions will be discussed later). 
+
+What we can properly expect to obtain from logic is an account of how the truth or falsity of one statement determines the truth or falsity of another. If the premises of this argument had been true, the conclusion would have been true as well. Since they are not true, we learn this from the science of geography, not logic, there is nothing surprising in the falsity of the conclusions. 
+
+then" In the arguments so far introduced the words "if have been allowed to remain unaltered when the descriptive content of the premises and conclusion were changed. ment in which the words "not" and "or" 
+
+Now consider an argu- "or" play a similar part:
+
+Premises: 
+
+Example III 
+
+Smith receives a C in physics or he flunks out of college.
+
+He does not receive a C in physics. 
+
+Conclusion: 
+
+He flunks out of college.
+
+Here again we have a convincing argument and a variation in content.
+
+Premises: 
+
+Conclusion: 
+
+The following is a sample variant: 
+
+The manager is a liar or the train was late and no one sent a wire. 
+
+The manager is not a liar.
+
+It is not the case that the train is late and no one sent a wire.
+
+The same remarks are applicable to almost any simple inference; if it is correct at all its correctness is quite evident, and it will not be difficult to recognize that any similarly constructed premises, whatever their content, will correctly lead to a similarly constructed conclusion. However there are a few forms of inference some instances of which superficially appear to be valid, but which are really not so; for by varying the content of premises and conclusion, it is possible to show that they are not dependent entirely on form:
+
+Example IV Premises: 
+
+If the pressure rises above 400 pounds per square inch then the boiler will blow up.
+
+The pressure does not rise above 400 pounds per square inch. 
+
+Conclusion: The boiler will not blow up.
+
+This conclusion may appear plausible largely because it is natural to assume that the boiler will blow up if and only if the pressure rises above 400 pounds, but it is easy to make up a premise and conclusion which are similarly constructed (identical in respect to form) and which do not represent a plausible inference. Take the following:
+
+Premises: 
+
+If this book is about mathematics then it is difficult.
+
+This book is not about mathematics. 
+
+This book is not difficult.
+
+Conclusion: 
+
+The only difference between this and the previous inference is that the statement, "The pressure rises above 400 lbs. per square
+
+inch", has been replaced by, "This book is about mathematics," and the statement, "The boiler will blow up" by, "This book is difficult". In the latter case we should not be inclined to accept the premises as conclusive evidence for the conclusion, which indicates that the plausibility of example IV was due not to its form but to its content. then 
+
+A statement of the form "If is called a conditional, the first factor being referred to as the antecedent, the second as the consequent. Arguments which follow the pattern of example II consist of a conditional premise, a further premise asserting its antecedent, and a conclusion which asserts its consequent. These are always valid. The argument of example IV depends on denying the antecedent of a conditional premise in order to deny its consequent as a conclusion. This is called the fallacy of denying the antecedent.
+
+A fallacy is a type of argument which presents the appearance of being formally correct, but is not. The factor of apparent correctness is important in this connection for there are an endless number of ways of drawing incorrect conclusions and it is impossible to find ways of classifying most of them, in fact very few errors in reasoning have been given special designations. The only way of explaining a fallacy is to show that it suggests a type of argument which would actually give the required conclusion. The most common source of fallacies, example IV is a special case, de- 
+
+pends on assuming that if a conditional premise is given, a similar conditional with antecedent and consequent transposed may be taken for granted. 
+
+Thus given the premises:
+
+1. 
+
+If Smith was in Chicago on Tuesday then he heard from Brown. 2. 
+
+Smith heard from Brown. it would be possible to draw the conclusion: 
+
+3. Smith was in Chicago on Tuesday. provided an additional assumption is slipped in, namely: 
+
+4. If Smith heard from Brown then he was in 
+
+Chicago on Tuesday. --- or since with (4) and (2) as premises we have an argument which follows the pattern of example II. An inference from (1) and (2) to (3) is a case of the fallacy of asserting the consequent. A statement of the form "---- ་་ is called an alternation and its constituent statements (flanking the word "or") are referred to as members. 
+
+Arguments which duplicate the pattern of example III consist of an alternation plus a further premise denying its first member and a conclusion which asserts the second. As a general rule, it is not permissible to conclude that one member of an alternation is false provided the other is true. Consequently the following argument will not be counted as logically valid even though the conclusion is quite plausible.
+
+Premises: 
+
+Example V 
+
+Brown was born in New York or he was born in Boston. 
+
+He was born in New York.
+
+Conclusion: 
+
+He was not born in Boston.
+
+This appears to be a correct conclusion because it seems evident that Brown was not born in two places. We are therefore tempted to take the word "or" in what is called the exclusive sense and assume that if one member of the alternation appearing in the premises is true, the other must be false. Now the exclusive interpretation of "or" is perfectly legitimate but it is not the only possible interpretation. For example, no one would insist that: 
+
+Brown does not own a Ford. 
+
+follows from the premises: 
+
+Brown owns a Chevrolet or he owns a Ford. 
+
+He owns a Chevrolet. since he might easily possess both cars. 
+
+In this last case it is natural to take the word 
+
+"or" in what 
+
+is called the inclusive sense and admit that both members of this alternation might be true. Now it is preferable to attach a uniform meaning to words which play a key part in logical reasoning and, as will be explained later, the inclusive sense of "or" is the more convenient choice. Consequently the denial of one member of an alternation on the assumption that the other is true will be counted as a fallacy. (It is always possible to add a premise to the effect that both members are not true if this is the intended meaning).
+
+An alteration in the complexity of the statements which make up the premises and conclusion of an argument does not matter, so
+
+long as the same formal pattern (the one that insures its validity) is preserved.
+
+Premises: 
+
+Conclusion: 
+
+Consider the following case:
+
+Example VI 
+
+If Jones misses the train or the train is late, then he will not see Smith and will return to 
+
+New York that night. 
+
+If he does not see Smith and returns to New York that night, then Robinson will persuade him to change his opinion.
+
+If Jones misses the train or the train is late, then Robinson will persuade him to change his opinion. 
+
+This exemplifies the same logical form as example I; but the simple statement there listed as (1) is here replaced by an alternation, and the simple statement there listed as (2) is here replaced by a conjunction. (A conjunction has the form 11 ... and ."). As a general rule, the form on which the validity of the inference depends is preserved when some or all of its individual constituents are uniformly replaced, no matter how complex the statements which replace them may be.
+
+These examples suggest that logical form may be defined as that characteristic of a statement which remains unaltered throughout changes in descriptive content, or alternatively, as that which two or more statements differing only in descriptive content have in common. Both these remarks are substantially correct, but it is not easy to make them precise enough to be at all useful. 
+
+The whole question is enormously simplified by the introduction of a few technical devices, which will be explained below. 
+
+2. VARIABLES, STATEMENT-FORMS, VALID FORMS OF INFERENCE; AND THE 
+
+RELATION OF IMPLICATION. Suppose that the letters, "p", "q", "r"
+
+etc., are introduced in place of the constituent statements of examples I, II and III, leaving in each case a skeleton of the original inference, as follows: Corresponding
+
+If p then q 
+
+II 
+
+If p then q 
+
+III 
+
+por q If q then r not -p 
+
+Corresponding to
+
+If p then r to the premises: the conclusion:
+
+These letters will be referred to as variables, and an expression containing variables which becomes a statement when suitable substitutions are made for all the variables involved will be referred to as a statement-form.
+
+A statement will be said to be a substitution instance of a statement form if it can be derived from the latter by making uniform substitutions on its variables. (Substitution instances will ordinarily be called simply, "instances".) To use examples already mentioned, the statements, "If Jones has no trumps in his hand then 
+
+Smith will take a spade trick", and, "If Jones misses the train or the train is late, then he will not see Smith and will return to New 
+
+York that night", are both instances of the statement form, "If p then q". An instance of a given statement form will be referred to as a statement of such and such a form, and the two mentioned above may be described as statements of the form, "If p then q". 
+
+A series of statement forms is called a valid form of inference 1 1. 
+
+It would, of course, have been possible to define forms of inference in general and then distinguish those which are valid from those which are not, but this would involve too much refinement for an introductory chapter. The point is not sufficiently important to follow up since, in later chapters, a slightly different technique is used to accomplish the same result.
+
+if substitutions on the last members of the series always yield a true statement whenever the same substitutions on all those which precede it yield true statements. A series of statements is an instance of a valid form of inference if it may be obtained from the latter by uniform substitutions. The last statement of such a series is called the conclusion, and those which precede it, the premises. 
+
+A valid form of inference is most conveniently set down by drawing a horizontal line between the last statement form and those which precede it. The three valid forms of inference just discussed would accordingly be written as follows:
+
+II 
+
+If p then q If p then q If q then r 
+
+III 
+
+por q not -P
+
+If p then r Each of these represents the skeleton of an inference which appeared to be logically correct, and whose apparent correctness remained when the content of the premises and conclusion was altered. 
+
+It will be shown in a later section that no matter how such a skeleton is filled in, provided that uniform substitutions are made on the variables involved, the last of the series of statements so obtained (the conclusion) will always be true granted that those which precede it (the premises) are all true.
+
+The requirement that substitutions should be uniform simply means that each occurrence of a given variable must be replaced in the same way. For instance, in I, above, the variable "q" appears twice; hence whatever statement is substituted for "q" "q" in its first occurrence must also be substituted for it in its second occurrence.
+
+The function of a variable in a given expression is very much like that of a blank which may be filled in at pleasure (provided, of course, that the result is a significant statement and not a mere collection of words). It would, for example, have been possible to write the first of the forms of inference mentioned above as: If If 
+
+then then If then Note, however, that actual blanks (that is to say gaps) would not be sufficient for the purpose; the repetition of the dotted line in the premises indicates that the corresponding substitutions are to be identical and this could not have been shown by merely leaving a gap after the first and before the second occurrence of "then". Letters provide a much more convenient symbolism since they take less space and make it easier to identify the required repetitions. 
+
+When a series of statements is an instance of a valid form of inference, the conclusion will be said to follow from the premises and the premises to imply the conclusion. If a set of premises implies a conclusion, then whenever the premises are accepted as true the conclusion must be accepted as true also and can consequently be used as a premise in relation to a new conclusion. 
+
+3. SETTING UP A PROOF BY REFERENCE TO A FEW FORMS OF INFERENCE. 
+
+In this section proofs will be worked out by reference to ten valid forms of inference, which are listed below. Numbers (1), (2) and (4) were illustrated by examples I, II and III (sect. 1), and the reader can easily find sets of statements to exemplify the remainder. All of
+
+them are extremely simple, but by applying them successively it is possible to work out a fairly complicated argument. Fl.
+
+If p then q F6.
+
+If q then r not-(p and q) not-p or not-q
+
+If p then r F7. not-(p or q)
+
+F2. 
+
+If p then q not-p and not-q F8. p and q F3. 
+
+If p then q not -q
+
+F9. p and q not -p F4. F10. por q not -P 2012 p and q F5. p or q not -q As an illustration of how F1-F10 can be used to establish a conclusion which does not follow quite obviously from a given set of premises, consider the following example.
+
+Premises: 
+
+Conclusion: 
+
+If Jones was telling the truth then Robinson had already accepted another job. 
+
+If Robinson had already accepted another job or 
+
+Smith knew Robinson had been dismissed, then the 
+
+Dean mentioned the affair to Jones.
+
+The Dean did not mention the affair to Jones. 
+
+Jones was not telling the truth. 
+
+This is an instance of a form of inference, the validity of which is not (to the average person) self-evident: If p then q 
+
+If (q or r) then not -s not -p
+
+If, in order to show the logical correctness of an argument, it were always necessary to refer to a particular valid form of inference of which it was an instance, a very long list of valid forms of inference would be required to take care of all the cases that might come up, and many of these would be so complex that their validity would not be in the least obvious. The difficulty is avoided if the validity of the argument can be established by a series of steps, each of which is referred to one of a small number of simple forms of Applying this method to the example just given, we can inference. set up the following series of statements: 
+
+1. If Robinson had already accepted another job or Smith knew Robinson had been dismissed, then the Dean mentioned the affair to Jones. (Premise) 2. 3. 4. 5.
+
+The Dean did mention the affair to Jones. ame: (Premise)
+
+It is not the case that Robinson had already accepted another job or Smith knew Robinson had been dismissed. (Follows from (1) and (2) by reference to F3). (Follows from
+
+Robinson had not already accepted another job and Smith did not know Robinson had been dismissed. (3) by reference to F7).
+
+Robinson had not already accepted another job. from (4) by reference to F8). (Follows If Jones was telling the truth then Robinson had already accepted another job. 6. 7. (5) by reference to F3). (Premise)
+
+Jones was not telling the truth. (Follows from (6) and 
+
+Statement (7) is the required conclusion, Note that each step depends on one of the simple forms of inference previously listed, so that if these forms are valid and the initial premises are true every statement in the list must be true, since every statement is either
+
+a premise (thus true by hypothesis) or follows from a premise by a valid form of inference, or follows from one or more statements the truth of which is similarly established. 
+
+Let us say, then, that a statement is deducible from a given set of premises if a series of statements can be set up in which every member is either a premise or follows from one or more statements which precede it in the series. Such a series of statements will be referred to as a proof.
+
+The number of statements involved in a proof will depend on the number of accepted forms of inference to which each step is referred. 
+
+The above proof could be established immediately (condensing the number ɔf lines to four) provided the validity of the form of inference of which these three premises and together with this conclusion is an instance could be accepted on inspection. (This is listed on p. 12 under the original statement of premises and conclusion). It is зimpler to work with a small number of forms of inference, and the chance of making a mistake about their validity is minimized. 
+
+The annotations in a technically complete proof should not only include references to the forms of inference which lead from one step to another, but should also indicate the substitutions by way of hich these forms of inference can be shown to be relevant. Proofs in which each step and all the required substitutions are written out completely in English are very hard to follow. This difficulty can be avoided if capital letters are introduced as abbreviations for statements and a special notation is used to indicate substitutions. 
+
+In choosing capital letter abbreviations it is advisable to select a letter which suggests the content of the statements concerned. The
+
+following abbreviations might be used in connection with the proof "R" for "Robinson had already accepted another just presented: job", "S" for "Smith knew Robinson had been dismissed", "D" for "The Dean mentioned the affair to Jones", and "J" for "Jones was telling the truth".
+
+To indicate substitutions, the statement which is introduced in place of a given variable will be written above, and the variable which it replaces below a horizontal line. The number of the valid form of inference in which these substitutions are made will follow. 
+
+For the sake of clarity these notes on substitution should be written under the appropriate step in the proof rather than on the same line. 
+
+The proof can now be abbreviated in such a way that the logical character of each step is much easier to recognize. (Even if substitutions are omitted, abbreviations are indispensable for the sake of clarification and as a time-saving device). 
+
+Abbreviated Proof: 
+
+1. If (R or S) then not-D 
+
+2. Not-D 3. 
+
+Not-(R or S) 
+
+R or S; D (F3) 4. 5. 
+
+Not-R and not-S
+
+Ꭱ ; ; S (F7) p q Not-R 
+
+Not-R; Not-S
+
+Not-S Premise Premise
+
+From (1) & (2) 
+
+From (3) 
+
+From (4) (F8)
+
+6. 
+
+If J then R 
+
+7. Not-J J; (F3) Premise 
+
+From (6) & (5)
+
+It would, of course, have been possible to use the small letters, etc., as abbreviations for statements, but "p", "q", "r" there are two objections to this method of procedure. In the first place, these letters have already been used as variables, which are not abbreviations; hence confusion would arise from using them in a double sense, particularly when substitutions are indicated. In the second place, it is not at all easy to remember the correlations between statements and letters unless the latter are suitably selected, and the small letters which are ordinarily employed as variables offer a rather restricted set to select from. 
+
+In applying these forms of inference a small complication often comes up in connection with double negation. Suppose we have the premises: 1. 
+
+If the ignition is not on then the car will not start. 
+
+2. The car will start.
+
+By F3, (1) and (2) implies (3): 
+
+3. Not the car will not start.
+
+Clearly, the repetition of "not" in (3) is superfluous and we should be able to draw the conclusion: 4. 
+
+The ignition is on.
+
+Before going into this point any further, a few general remarks on the logical analysis of statements will be helpful.
+
+11.
+
+4. STANDARD FORMS OF EXPRESSION; THE ELIMINATION OF DOUBLE NEGA- 
+
+TIVES. In this section we will consider the question: how shall statements expressed in idiomatic English be correlated with statement-forms like F1-F10? Difficulties sometimes arise about this, and it is not easy to give rules which cover them all; but precise rules are fortunately not necessary, for the more important points can be cleared up by a few examples. Consider the statement: 
+
+He will come provided that it doesn't rain. 
+
+This seems to be an instance of no statement-form yet considered, for nothing has been said about the connective phrase, "provided 
+
+Suppose, however, that we rephrase the statement and say: 
+
+If it doesn't rain then he will come. that".
+
+We then have a perfectly synonymous statement, and one which is obviously of the form "If not-p then q". Since all statements which use "provided that" statements which use can so easily be translated into synonymous then", it would be needless to compli- "If ... cate logic by dealing with "provided that" in a special symbolism. 
+
+The convention will accordingly be adopted of getting rid of "provided that" in favor of "If then" before applying the symbolic formulae of logic. Such a convention, employed more generally, leaves a great deal of rephrasing to the reader's common sense; but no other course is practicable. The following is a (not wholly complete) list of statements, all of which would have to be translated into "If it doesn't rain then he will come before applying symbolic formulae to them:
+
+He will come provided that it doesn't rain.
+
+2006
+
+1 He will come granted that it doesn't rain. 
+
+He will come unless it rains. 
+
+If it doesn't rain he will come. 
+
+He will come if it doesn't rain. ("then" is omitted.) (Order reversed.)
+
+The statement, "If it doesn't rain then he will come," will be 2 called a standard form of expression for the above set of statements. In general, a standard form of expression is a statement into which certain other statements must be translated before they can become substitution instances of a logically recognised statementform. In the case just considered the standard form of expression is quite as idiomatic as any of the synonymous statements listed above that there are some cases when it is convenient to use a standard form of expression which is somewhat awkward. Consider the following simple inference:
+
+Premise: He won't both do well in his studies and play football. 
+
+He will not do well in his studies or he will not play football.
+
+Conclusion: 
+
+The phrasing of the premise prevents this from being considered as a direct substitution instance of any of the simple forms of inference that have been considered. But suppose the premise is translated into the synonymous statements: 
+
+1. There are two common ways of using the word "unless". Here we are adopting the simpler. For further comments on this point see 
+
+Chapter II. 
+
+2. The notion of a standard form of expression introduced nothing which is particularly new in logical theory. The older logic books, for example, always explain that "Only the brave deserve the fair" (to be discussed later) duplicates the pattern "All S is p" because it is synonymous with, "All those who deserve the fair are brave. 
+
+---
+
+Not-(he will do well in his studies and he will play football). 
+
+The inference, with this rephrasing, obviously becomes a substitution instance of F6. Consequently this statement, in spite of using words and parentheses in a way that no manual of English composition would permit, is used as a standard form of expression for the more idiomatic premise listed above. It will also count as the standard form of expression for a number of other statements, such as: "It is not the case that he will both do well in his studies and also play football," "That he will do well in his studies and also play football won't both be so," etc.)
+
+The use of such an awkward standard form may at first seem inadvisable, but a little consideration will show that it is not. In the first place, although a certain amount of intuitive manipulation of words is inevitable in applying logical formulae, it is desirable that the part expressly considered by logic should be specified rigorously. 
+
+not
+
+Now "substitution instance" has been defined solely in terms of replacing the variables in a formula. If we take this definition rigorously, substitution must change nothing else even the way in which the word "not" precedes the variables. For this reason the standard form of expression mentioned above must begin with "not" in an entirely unidiomatic fashion. In the second place, the awkwardness of the standard form of expression is compensated by the convenience of the logical formulae which it permits. might be suggested, for instance, that instead of using an expression of the form "not-(p and q)", we use "It is not the case that (p and q)", for the latter would permit the introduction of a much more It
+
+idiomatic standard form of expression as a substitution instance. 
+
+This would be quite possible, but it would make the corresponding statement-form too long. The full inconvenience of the proposed change becomes more evident when we consider that "not-p" would also have to give place to "It is not the case that p"; for if "not-p" were used, and the conjunction "He will do well in his studies and he will play football" were substituted for the single variable "p", we would again have, "Not-(he will do well in his studies and he will play football)", which is the very expression whose awkwardness the proposed change was intended to eliminate. 
+
+Of course, a certain amount of rigor can sometimes profitably 
+
+If complete rigor be sacrificed for the sake of simple exposition. were preserved then the statement form "Not-p" a direct substitution instance, the statement, could not have, as "It is not raining"; for the latter would have first to be translated to its standard form of expression, which is "Not-it is raining." The method of procedure adopted as far as possible throughout this text is to allow considerable freedom in rephrasing statements so that they count as substitution instances of recognized statement forms and then to require a precise account of any further transitions. 
+
+There are a great many statements which require standard forms of expression. "It is either raining or snowing," for instance, must be translated into "It is raining or it is snowing" before it can be an instance of "p or q"; and "It is raining, but the sun is shining as well" must be translated into "It is raining and the sun is shining" before it can be an instance of "p and q". There are many statements, moreover, which need standard forms of expression in
+
+11 order to eliminate interjections and phrases used for emphasis, since these are logically irrelevant. For example, the statement "If he comes in the afternoon, he will, as a matter of fact, want to stay to dinner" could be expressed simply as "If he comes in the afternoon then he will want to stay to dinner. (The phrase "as a matter of fact" adds emphasis to this statement, but it does not alter its logical form nor does it contribute anything to our information.) Further examples of this kind of translation can be safely left to the reader's common sense. 
+
+Returning now to the question of double negation which was mentioned at the end of section 3. It is perfectly possible to adopt the convention that if a statement is negated twice, then the result of dropping both negation signs is a synonymous statement. 
+
+Thus having proved:
+
+It is not the case that the ignition is not on. we could assume that we had also proved the synonymous statement: 
+
+The ignition is on.
+
+As a matter of fact, it is occasionally useful to introduce 
+
+Suppose that "The ignition is on" a double negative. as "I" and "Jones is a liar" is abbreviated as "L" is abbreviated and that we have a pair of premises: 
+
+1. Not-I or L 
+
+2. 
+
+If (2) could be translated into: 
+
+3. not-not-L
+
+"not -I" can be substituted for "p" and "L" for "q" in F4 to give: 4. L from (1) and (3). Theoretically, this last step is impossible without the preliminary step from (2) to (3). At this point in the exposition the best way of handling technical difficulties of this kind is to adopt the following convention: 
+
+1. The result of dropping a double negative is a synonymous statement. 2.
+
+A positive statement will be counted as the negation of one which differs from it only in respect to a single occurrence of the word "not".
+
+It will be shown in Chapter III that the elimination and introduction of double negatives is a special case of a more general rule for making logical transitions. In
+
+The reader may have noticed that quotation marks have often been omitted at points where they might be expected to appear. theory, an expression should be enclosed in quotation marks whenever it is being discussed rather than used, but this often leads to inconvenient repetitions of quotes. In this text the convention has been adopted of omitting quotes whenever one or more expressions are preceded by a semicolon and listed on separate lines. They have also been omitted in the annotations of proofs. (As far as I know, the Polish logician Tarski is the first to introduce this convention in regard to the omission of quotation marks.)
+
+EXERCISES ON CHAPTER I 
+
+In these exercises the last statement of each group is to be regarded as a possible conclusion from those which precede it. Some but not all of these conclusions can be deduced using the forms of in ference listed as F1-F10. Some can be obtained provided a few simple additions are made to this list. (These are introduced in order to suggest new logical interconnections). 
+
+Some of the conclusions are not deducible from the premises as they stand although they could be obtained by introducing additional assumptions which are so obvious they would probably be taken for granted. It will be understood here that to call a statement deducible from given premises means that it is deducible from these premises alone, with no alterations other than those necessary to obtain sentences in standard logical form. that:
+
+The problem in connection with each exercise is to state either 1. 2. 3.
+
+The conclusion is deducible by means of F1-F10. 
+
+It is a logically correct conclusion but can be deduced only by making a simple addition to the list of valid forms of inference.
+
+It is not deducible from the premises. 
+
+Whenever a conclusion is deducible a proof should be written out, numbering each step serially and indicating which forms of inference are used to establish the required implication relations. should follow the model presented on p. 15). the capital letter abbreviations indicated. (They 
+
+In writing proofs, use
+
+The order in which these letters are written follows the order in which the constituent
+
+statements appear in the premises. (In cases where there are ambiguities the same letters may not fit the conclusion.) 
+
+In order to obtain uniformity, never use a single letter to abbreviate a negative statement; use a given letter for a positive statement and add the word "not" whenever necessary. (This is merely a matter of classroom convenience, but extremely important because any lack of uniformity in abbreviation makes corrections hard to follow.)
+
+It is worth while to note the way in which tacit assumptions (premises and definitions which anyone would be inclined to take for granted) affect the plausibility of a given conclusion. Ambiguities of language should also be noted. 
+
+Note on blanks and proofs.
+
+The treatment of variables as mere blanks on which substitution can be made is not a uniform practice among logicians. An expression containing variables is sometimes used to express a generalisation. Thus: 
+
+If x is copper the x conducts electricity. could be interpreted as a way of expressing the statement: 
+
+All copper conducts electricity. in which case the incompleteness associated with a blank is only apparent. An expression containing blanks cannot count as a complete statement. (See section 33).
+
+Some logicians use the word "proof" to refer to a string of expressions ending with a logically valid statement and introduce the word "derivation" to cover what is called a "proof" in this Chapter.
+
+1. (Abbreviate: 
+
+S, M, W)
+
+Smith did not intend to come at all or he missed his train. 
+
+If he missed his train he will send a wire. 
+
+He did intend to come. 
+
+Smith will send a wire. 2. 
+
+(Abbreviate: 
+
+S, B, I, K, F) 3. 
+
+Jones' car was stolen or borrowed.
+
+He intended to leave it in front of the house. 
+
+If he intended to leave it in front of the house, then he did not leave the key in it.
+
+Either he left the key in it or the lock was forced. 
+
+If the lock was forced, then Jones' car was not borrowed. 
+
+(Abbreviate: 
+
+P, T, S. R)
+
+If Jones knew the plane was in bad condition he would have told Smith. 
+
+If Smith had any reason to suppose that the plane was unsafe he (Smith) would have come by rail.
+
+If Jones knew the plane was in bad condition, Smith would have come by rail. 4. 
+
+(Abbreviate: 
+
+V, C, T) 5.
+
+The property is valuable or the company would not offer to buy it.
+
+Either outward appearances are not to be trusted or the property is not valuable.
+
+The company offered to buy the property. 
+
+Outward appearances are not to be trusted. (Abbreviate: K, S, N)
+
+If there are kangaroos in Australia then Siberia has a warm climate. 
+
+If Siberia has a warm climate Nero was the first president of the United States. 
+
+There are kangaroos in Australia.
+
+Nero was the first president of the United States.
+
+6. 7. 8. 
+
+(Abbreviate: 
+
+N, P, L, E, D)
+
+If the defendant is proved to have been in New York City on the day of the crime, then he was not one of those who participated in the shooting and he will be sentenced to life imprisonment.
+
+If all of the evidence produced by the prosecuting attorney is accepted then he (the defendant) will be sentenced to death.
+
+If he is sentenced to death, then he will not be sentenced to life imprisonment.
+
+The defendant is proved to have been in New York City on the day of the crime.
+
+It is not the case that all the evidence produced by the prosecuting attorney is accepted. (Abbreviate: 0, R, S, L)
+
+If there is an obstruction on the line and the block signal is red, the train will stop before it reaches the bridge. 
+
+If the train stops before it reaches the bridge it will be late at the next station.
+
+If there is an obstruction on the line the train will be late at the next station. 
+
+(Abbreviate: 
+
+O, R, S) 9.
+
+If there is an obstruction on the line or the block signal is red the train will stop before it reaches the bridge. 
+
+The train does not stop before it reaches the bridge. 
+
+There is no obstruction on the line. (Abbreviate: 
+
+Y, I, F)
+
+If the foreman was standing within one hundred yards of the mine entrance he was injured.
+
+He was standing within two hundred feet of the mine entrance. 
+
+The foreman was injured.
+
+10. 11. 12. 13. 14. 
+
+(Abbreviate: 
+
+R, N. F)
+
+If it rains or no one cares to come, then the sale is a failure. 
+
+The sale is not a failure.
+
+It is not the case that no one cares to come. 
+
+(Abbreviate: 
+
+S, L, T. M)
+
+If A's house is for sale then he is leaving town. 
+
+A's house is for sale and he told B that he was not leaving town. 
+
+A never misrepresents facts to B.
+
+A is leaving town and he never misrepresents facts to B. (Abbreviate:
+
+T, H) If the driver intends to turn left he will put out his hand. 
+
+He does not put out his hand. 
+
+He undoubtedly does not intend to turn left. (Abbreviate: 
+
+P, C, W, A) 
+
+If the night watchman was not paying attention at the time, then the car could have entered unnoticed. 
+
+If the witness' account is correct, the night watchman was asleep at the time.
+
+If the witness' account is correct, then the car could have entered unnoticed. (Abbreviate: L, R, S)
+
+The doctor gives large sums to charity or his reputation is overrated.
+
+It is not the case that he receives a small salary and at the same time gives large sums to charity. 
+
+If the doctor's reputation is not overrated then he does not receive a small salary.
+
+15. (Abbreviate: A. B, W, T) 16. 17. 18. 19.
+
+A's property is valued at twice B's. 
+
+If A is wealthier than B, then A pays higher taxes than B. 
+
+A pays higher taxes than B. (Abbreviate: 
+
+P, I, R
+
+All those on probation are inferior students. 
+
+If Robinson is an inferior student, then he will not return to college.
+
+If Robinson is on probation, then he will not return to college. 
+
+(Abbreviate: 
+
+R, H, A, S)
+
+If the roads were slippery and A's car was going at high speed, then he is responsible for the accident. 
+
+If he skidded thirty yards before stopping, then his car was going at high speed.
+
+If the roads were slippery and A's car skidded 30 yards before stopping, then he was responsible for the accident. (Abbreviate: 
+
+I, T, L)
+
+If Mr. B has some information about the crime, then he will be called on to testify. 
+
+If he is not called on to testify he will leave town. 
+
+He has no information whatever about the crime and no connection with any of the parties concerned. 
+
+He will leave town. (Abbreviate: H, C, A, T)
+
+If the hall is more than half sold out, then all the cheap seats are gone.
+
+If the lecture is well advertised, then everyone who wants to come will secure a ticket.
+
+The hall is more than half sold out and the lecture is well advertised.
+
+All the cheap seats are gone and everyone who wants to come will secure a ticket.
+
+CHAPTER II 5. The construction of truth tables. 6. Use of the truth table as a check on validity. 7. Extension of the truth table; the biconditional. 8. Valid and contravalid statements. 9. The relation of implication and the theoretical position of the truth table method.
+
+5. THE CONSTRUCTION OF TRUTH TABLES. In section (2) it was explained that uniform substitution on a valid form of inference yields a series of statements, and that the last of this series will be true if those which precede it are true. This is really a definition of the validity of a form of inference, rather than an assertion which needs to be defended; it merely sets down a requirement which must be fulfilled if a series of statement forms is to be called a valid form of inference. Now it is possible to check the validity of all the forms of inference mentioned in Chapter I but before going into this point in detail a few technical terms will be introduced and explained. The words "and", "or", "if then are referred to as connective words. In order to condense the expression of statements and statement-forms a dot will be used in place of "and", a wedge for "or" and a horseshoe for "if then". 
+
+Thus we may write .... "p.q" for; "p and q q" "p v q" for; "p or q" "q כp" for; "if p then q"
+
+In addition, a dash will be used to replace "not" so that may be written: "not-p" -p It is convenient to have a single term denoting statements which are themselves made up of simpler statements, as, for example, any instance of "p "p or q" is made up of two constituents one replacing "p" and one replacing "q" 13 
+
+tied together by a connective
+
+word "or".
+
+These statements will be called molecular, and the word 
+
+On the other will be applied in parallel fashion to statement-forms. hand, statements which contain no constituent statements will be called atomic. The method of checking the validity of a form of inference is worked out on the basis of three assumptions: 
+
+1. Every statement is either true or false but not both. 2. 3.
+
+If a statement is true its negation is false and if it is false its negation is true.
+
+The truth or falsity of any molecular statement is determined by the truth and falsity of its constituents. 
+
+Assuming that any statement is either true or false (but not both), there are exactly four possibilities in respect to the truth or falsity of any pair of statements, namely: (1) both are true, (2) the first is false and the second true, (3) the first is true and the second false, (4) both are false. This may be expressed schematically by using the letters "p" and "q" and writing "T" "F" for true and false, as follows: and Pl
+
+01 HREF 
+
+HERE 
+
+By reference to this scheme it is possible to work out what is called a truth table, which is simply a device for correlating the truth of a molecular statement of a given form with that of its constituents. It is generally agreed that a conjunction (a statement of the form "p.q") is true if both the constituents are true and that otherwise it is false. This can be indicated by adding a new column
+
+GIN
+
+of "T's" and "Fis" as shown below:
+
+Ба 
+
+A HEHE 
+
+F T HHGG T F F F p.q HHHH An alternation (a statement of the form "p v q") may be accepted as true if either or both of its constituents are true. This is the so-called inclusive sense of the word "or" which will be used throughout this text unless otherwise specified. in the following truth table: p_q 
+
+HEEF 
+
+BERE p v g 
+
+HEHR 
+
+It is given
+
+The proper interpretation of a conditional (a statement of the form "pq") has been a matter of considerable debate. Here, the so-called material sense of "if then" will be adopted and a con- ... ditional will be counted as false when its antecedent is true and its consequent false, otherwise as true. In terms of the truth tables: p g 
+
+HEEF 
+
+T T BHFH pig It should be noted that although the precise meanings of the 
+
+English words "or" and "if ings of "v" and "כ" ... then" may be ambiguous, the meanare not, since those symbols are explicitly
+
+The introduced to convey the sense indicated by the truth tables. truth tables for conjunctions, alternations and conditional statements are written below in one group using the symbols just introduced. The first pair of columns on the far left are called reference columns. 
+
+P 9 p.q p v q pq फु F F 
+
+The truth 
+
+6. USE OF THE TRUTH TABLE AS A CHECK ON VALIDITY. 
+
+tables set up a correlation between the possible truth and falsity of molecular statements and their constituents. (In order to express this concisely they are sometimes described as determining the truth conditions of molecular statements relative to their constituents.) 
+
+In the simple cases just considered, the correlation could have been explained in ordinary English, but when we have to compare the truth conditions of various combinations of molecular statement the tabular method is indispensable in practice if not in theory. Checks on the validity of forms of inference (and other formulae to be discussed shortly) depend on such comparisons. The method is best illustrated by investigating two forms of inference, one of which is valid and one of which is not. Recall that F2 was written: pƆ q The truth tables for its premises are given in the first and second columns below (not counting the reference columns on the far left) and the truth table for the conclusion in the third. Whenever a "T"
+
+occurs in both of the former there is a corresponding 
+
+"T" in the latter. This shows that an instance of the conclusion will never be false when the corresponding instances of both premises are true, hence that F2 is valid. pq pq In section 1, it was observed that invalid inferences were occasionally made which had the form: p q -p -q In this case the truth conditions of premises and conclusion will be determined as follows:
+
+-P -9 F F 
+
+Here there is no "T" in the second line of the last column corres- 1 ponding to a pair of "Tis" in the other two, which shows that under these conditions the premises would be true and the conclusion false, hence that this form of inference is not valid. 1. "p" The second line represents the case where the statement replacing is false and the statement replacing "q" is true. 1
+
+The truth tables confirming the validity of F8 and F9 are given below: p q p.q T T T F F F Here, the second column represents the conclusion of F8, and the third represents the conclusion of F9. both cases.) (The premise is the same in A negation sign appears in most of the forms of inference listed in Chapter I. Now granting that negation of any statement is true when its positive sense is false, the truth table for "-p" will have an arrangement of "T'S" and "18" table for "p" and we can therefore write: opposite to that of the al -p of FHGG The truth tables confirming the validity of F3, F4 and F5 are accordingly written as follows:
+
+F3. 01 pq -q -P HERE
+
+BGHG T T F F
+
+F4. p q p v q -P 
+
+HEHR 
+
+F
+
+F F THFF 
+
+HHHE 
+
+FERE
+
+JIAH LO F5. p v q -g HIH
+
+When the negation sign appears within a molecular statement or covers the whole statement taken as a unit, the situation is a little more complicated. In the former case it is theoretically possible to construct a special truth table. For example, the table for statements of the form "-p v q" "-p v q" could be set up as follows: -p q -p v q EFEF T T 
+
+HERG 
+
+BEHR 
+
+This presents exactly the same appearance as the ordinary truth table for an alternation, the only difference being that the lefthand column of "T's" and "is" is referred to a negative rather than to a positive statement. But it is also possible (and it turns out to be much more convenient) to work out the truth table in cases of this kind without altering the left-hand columns in any way. It can be done by introducing the table for as an additional "-p v q": "-p" reference column in building up the table for
+
+-P -pvq F T ,"q כp" This truth table coincides with that which was set up for statements of the forms which means that both forms of statement are identical in respect to the way in which their truth is determined If the table for "-p v q" were by the truth of their constituents. written in the way first suggested, the coincidence would not have been at all evident, and the advantage of writing all truth tables by a uniform method is that it makes comparisons of this kind possible. 
+
+It is not absolutely necessary to add a reference column in a case as simple as this, for it is easy to allow for the fact that a negative statement is true when its positive sense is false, but in more complicated cases, an additional reference column is sometimes useful. Consider, for example a statement of the form "-(p.q)". 
+
+The negation sign covers the conjunction taken as a unit; so that the statement as a whole will be true only if this conjunction is false. 
+
+But a conjunction is false if either of its constitutents are false (otherwise it is true), so that the required truth table will contain in the last three lines of the right-hand column and an "F" in the top line. As might have been expected, the distribution of "T's" and "Fis" is just the opposite of that which appears in the right-hand column of the table for statements of the form "p.q", and the latter could have been used as a basis for constructing the former. 
+
+In the same way the truth table for statements of the form "-(p v q)" "ת"
+
+may be constructed by interchanging the "is" and "Fis" in the table for an alternation. All four are written below for the sake of comparison.
+
+p.q -(p.q) p v q -(p v q) F F IITIT 
+
+The construction of a table for statements in which the negation sign appears more than once may be worked out in precisely the same way. Take, for example, a statement of the form "-(p.-q)", where the first and "Fis" will have a distribution just opposite to that of the, table for "(p.-q)" and the latter is worked out like any conjunction except that its second member will be true only when the state- 
+
+Below, the three tables are condensed covers everything inside the brackets. The "Tis" 
+
+ment replacing "q" is false. into one for comparison. 1 p q p.q p.-q -(p.-1) T T F T T F F F Truth tables confirming the validity of F6 and F7 are written below (supplementary reference columns being omitted): 1. as well as for "pq" which makes the sosomewhat clearer. table for "-(p.-q)" "pq "if ... then" It may be noted that the "-p v q" coincides with that for called material sense of
+
+F6. p 9 Ба -(p.g) -p v-g T T F7. p g -(p v q) -P.-g F F F1 contains three variables, and requires a table in which the possible truth and falsity of premise and conclusion is correlated with that of three constituent statements. Here, the problem is to correlate the truth and falsity of a pair of statements of the form "pq" and "gr" respectively, with one of the form "pr" when "p", each is the result of uniform substitution on the variables "q" and "r". a pair of "Tts"
+
+The table is given below and it will be observed that never occurs in the premise columns without a corin the column for the conclusion. responding "T" p q r ря gr por T T T T T T F T F F F F F In writing a truth table for statement-forms containing more than two different variables, some scheme must be adopted which makes it easy to recognize that all the possibilities have been covered.
+
+Granting that the two-factored table as previously written is exhaustive, it is easy to show how to proceed from these to a threefactored table, and so on to any number of factors. Combine the twofactored table with another column of "mig" and "Fis", which begins with four "T's", representing the cases in which the additional factor is true, and continues with four "Fis" representing the cases in which the additional factor is false. As shown above, this gives an eight-place table, the first half of which combines all the possibilities for two factors with the possibility that the new factor is true, and the second half of which combines all the possibilities for two factors with the possibility that the new factor is false. The new factor must be either true or false, so all cases are covered.
+
+The same reasoning may be applied to the addition of a fourth factor to the three-factored table, and, more generally, to the addition of an nth factor to an (n-1) factored table. Using this method, the left-hand section of the table (that is, the section which merely lists possibilities) will alternate "T's" and "Fis" in the first vertical column, alternate them in pairs in the second, fours in the third, and so on. 
+
+7. EXTENSION OF THE TRUTH TABLE; THE BICONDITIONAL. 
+
+It is possible to write sixteen molecular statement-forms, each containing two variables, which are distinguished by the way in which the truth of any instance is determined by the truth of its constituents. (More 2n generally, there are 2 distinguishable statement-forms containing n constituents). The combined truth tables for all the two-membered molecular statement-forms is given below and the columns are grouped
+
+in pairs with the "T'S" and "F's" interchanged. Since the negation of a statement is true whenever its positive sense is false, 
+
+an interchange of "T's" and "F's" between two truth tables indicates that the second represents the negation of the statement-form represented by the first. Consequently each pair of columns represents the truth table for a given statement-form and for its negation respectively.
+
+PHEHE 
+
+p q T F F F of HERE 1 2 HEE
+
+T F 01 
+
+9 10 HEHF
+
+T T HYAH HERE
+
+NIGERE GEHE 3 4 
+
+M EEG FI 
+
+FREE
+
+F T 
+
+01 FEE
+
+THREE 
+
+5 6 7 8
+
+OFFEE
+
+T F 
+
+11 12 13 14 
+
+15 16
+
+F8EF F T REFE HHHH FFFF Columns 1, 5 and 9 will be recognized as the truth tables for the statement-forms, "p.q", "pvq" and "pq" respectively, and columns 2, 6 and 10 as the truth tables for their negations. 
+
+A molecular statement of two constituents which is true if both constituents are true, true if they are both false and otherwise false, is expressed in English by the phrase "If and only if" example, in: as, for 
+
+The officer will fire if and only if he intends to kill.
+
+In symbols, this phrase gives way to 
+
+The truth tables for the statement-form "p=q" "p=q" is given in column 11 above, and the truth table for its negation in column 12. Since an instance of "p=q" is true, if and only if the corresponding instances of "pOq" and
+
+"qƆp" are both true, it will be called a biconditional. cidence of truth conditions is shown in the table below: 
+
+This coin Ба p q qp T F T F (pƆq). (q) p) p q The first two columns (excluding those in the far left) are supplementary reference columns for setting up the third, and a 
+
+is never placed in the latter unless there is a "T" in both of the former. The "T's" and "Fis" in the third and fourth columns coincide. 1 
+
+For purposes of comparison, consider the following statements: 
+
+1. If the President of the United States is removed from office, then he has been tried by the Senate. 2. 3. 4.
+
+The President of the United States is removed from office if and only if he has been tried by the Senate. 
+
+The President of the United States is removed from office if and only if he has been tried and convicted by the Senate.
+
+If the President of the United States is removed from office then he has been tried and convicted by the Senate. 
+
+5. If the President of the United States has been tried and convicted by the Senate, then he is removed from office.
+
+Statements (2) and (3) above are biconditionals while (1), (4) and (5) are conditionals. 
+
+All are true except (2), and (4) and (5) both follow from (3). 
+
+1. As will be explained in Chapter III, statement-forms will be referred to as equivalent when the truth conditions of their instances coincide.
+
+There is no necessity to provide special verbal or symbolic expressions for the remaining two-membered statement-forms, as they can all be expressed by means of the four connective words which have already been employed together with the word "not." In connection with what was said in sections 1 and 5, it is interesting to see that the exclusive "or" can be interpreted in terms of "not" and "if and only if". This is clearly shown by the truth table, for statements of the form "-(p=q)" are true when either one or the other member is true, otherwise false. 1 P 9 pq -(x=q) T F As already explained (section 4) a statement containing the word "unless" can always be interpreted as an inclusive alternation, but occasionally the exclusive "or" seems to be more appropriate. Compare the statements: 
+
+1. Smith will not succeed unless he tries. 
+
+2. The plane will not fly unless the weather is good.
+
+It is fairly plausible to interpret (1) in terms of the inclusive and (2) in terms of the exclusive "or", for (1) does not seem to demand the conclusion: 1. 
+
+If Smith does try he will succeed.
+
+The reader should also try the experiment of writing the truth table for '(p v q).-(p.q)".
+
+while if (2) is given as a premise it would be natural to conclude: 
+
+If the weather is good the plane will fly. "is" 
+
+8. VALID AND CONTRAVALID STATEMENTS. The last two columns of the truth table on p. 41 are peculiar in that they contain all and all "F's" respectively. Column 15, which contains "T1s" only, represents the truth table for a molecular statement-form of which any instance must be true since it is determined as true whatever the truth or falsity of its constituents may be. A statement-form will be called valid if and only if all of its instances are true, and 1 contravalid if and only if all its instances are false. Statements will be referred to as valid (or contravalid) if they are instances of valid (or contravalid) statement-forms. e.g. any one of the form:
+
+Contravalid statements, p.-p are frequently referred to as contradictions. 
+
+The deduction of a contradiction from a given set of premises is one of the usual methods of determining the inconsistency of the set. 
+
+Statements and statement-forms which are neither valid nor contravalid will be referred to as indeterminate. (A threefold division of this kind was first introduced by Professor Carnap). 1. 
+
+As with implication and equivalence, these definitions do not depend on truth tables. These last merely serve as a check in the case of molecular expressions.
+
+Consider the following statement-forms, the validity of which can easily be demonstrated by reference to the truth table: 1. (p.g) Op 2. p (p v q) 
+
+The truth table for (1) is written in the fourth column below, the truth table for its antecedent and consequent appearing in the first and second columns. (The reference columns on the left are, as usual, not counted.) The truth table for (2) is given in the fifth column, its antecedent and consequent being represented in the second and third. P 9 T T p.q p v q (p.
+
+g) Op p (p v q) TTT T F T F F In both cases an instance of the consequent will never be false if the corresponding instance of the antecedent is true, hence every instance of (1) and (2) must be true and they are valid statement-forms. 
+
+At first glance it may appear odd to assert that a statement can be recognized as true or false merely because of its form since it is customary to assume that the truth or falsity of any statement depends on facts which are quite independent of it. Consider the following examples: (a) It was snowing on the summit of Mount Washington at 8 A.M. on December 25, 1937. (b) The temperature on the summit of Mount Washington at 8 A.M. on December 25, 1937 was 14 degrees Fahrenheit. (c) The specific gravity of tin is less than that of copper.
+
+The correctness of (a) and (b) might be confirmed by consulting the Weather Bureau and obtaining the results of observations made on Mount Washington on the day in question. (c) could be confirmed, either by making a simple physical experiment, or by looking up the results of such an experiment in a physics book. Without some such investigation it would be impossible to determine the correctness of these statements, and we should not expect to find any statements which could be confirmed or refuted merely by inspection. But by examining instances of (1) and (2) above, it is easy to see why they fall into a class by themselves, for although they are unquestionably true, they convey no information whatever. Suppose that (a) is substituted for "p" and and (b) for "q" in (1) yielding:
+
+If it was snowing on the summit of Mount Washington at 
+
+8 A.M. on December 25, 1937, and the temperature on the summit of Mount Washington at 8 A.M. on December 25, 1937 was 14 degrees Fahrenheit, then it was snowing on the summit of Mount Washington at 8 A.M. on December 25, 1937.
+
+Although the above statement is true, it is obvious that it tells us nothing about the weather on Mount Washington and it is therefore not surprising that it requires no further confirmation. The same remarks are applicable to the following instance of (2), which is obtained by substituting (a) for "p" and (c) for "q":
+
+If it was snowing on the summit of Mount Washington at 
+
+8 A.M. on December 25, 1937, then it was either snowing on the summit of Mount Washington at 8 A.M. on December 25, 1937 or the specific gravity of tin is less than that of copper.
+
+This again is a valid statement and its truth can be established merely by an examination of its form, but it nevertheless adds nothing to our information about the world. Statements of this kind are
+
+"as tautologies," "as al- sometimes described as "logically true,' true merely on the basis of logic," or as "truths of logic," though this last phrase is more often applied to valid statementforms than to statements. In spite of their apparent triviality, valid statements can often be used as a means to an end. for example, that the following premises are accepted: Suppose, 1. If the boat is late, Mr. S. will cancel his dinner engagement. 2. 
+
+If the boat is not late, Mr. S. will go to a party which he wished to avoid.
+
+By the principle of the dilemma, which will be introduced in Chapter 
+
+III in the additional premise: 
+
+3. The boat is late or the boat is not late. is sufficient to give the conclusion: 4.
+
+Mr. S. will cancel his dinner engagement or he will go to a party which he wished to avoid. 
+
+But since (3) is a logically valid statement, no error will result from adding it as a premise even if it was not listed as such. 
+
+In section 15 the definition of a proof will be modified in such a way that the series may contain valid statements as well as premises and statements which follow from premises.
+
+1 
+
+9. THE RELATION OF IMPLICATION AND THE THEORETICAL POSITION OF THE TRUTH TABLE. The theoretical importance of truth tables is often exaggerated and it is worth while to introduce a few comments at this point which, although they anticipate topics not yet explained, will provide some perspective on the question of logical validity. It is important to recognise that the truth table analyses is applicable only on the molecular level (the levels on which statements are treated as units and joined by connective words). 
+
+It cannot be used in connection with generalised statements (which are ordinarily expressed in English by way of the words ("all" and "some") and these are involved in most complicated chains of reasoning. All logically valid formulae can be established systematic- 2 ally by proofs analogous to those already introduced to obtain factual conclusions from factual premises and this is the only method applicable to those which cover generalised statements. these proofs a small group of initial formulae are assumed to be correct and the remainder are obtained by successive transformations. 
+
+Proofs of this sort differ from the truth table check in that they provide no automatic method of confirming the correctness of a given formula. For example, taking the formula: In (pq) ((p.r)) (q.r)) 1. 
+
+These are discussed in Chapter IV. 
+
+2. 
+
+See section 34.
+
+If 
+
+The and successively constructing truth tables for its constituents we should eventually get a truth table for the whole expression. this consists entirely of "T's" it is valid, otherwise,not. same formula can be proved from an initial set (e.g. one of those mentioned in section 34) but it will require a certain amount of ingenuity to pick out the required steps as the reader will see for himself. In this respect the development of logic beyond the molecular level resembles that of mathematics; it is possible to write formulae which one might suspect to be logical "theorems" but for which no proof happens to have been worked out. Of course the truth table does provide a perfectly rigorous demonstration of validity provided "valid" is defined, by reference to "true", and provided the convention in regard to truth assignment described in 1 11 section 5 are presupposed. It should be observed that the same for molecular formulae which are confirmed as valid by the truth table check, can also be identified by proofs involving step by step transformations on a small initial group. proofs are presented in section 34. 2 
+
+Samples of such
+
+The correctness of the so-called material interpretation of a 1. 2. 
+
+If such a demonstration were fully written out (without the short cut provided by tabulation) it would require logic above the molecular level. Note that the reasoning involved concerns the result of assigning the word "true' to statement combinations under specified conditions; it does not require an analysis of the meaning of this word.
+
+No demonstration that the same result is obtained by book methods is offered in this text.
+
+conditional statement (as given by the truth table correlation) has been disputed at length and it is not possible to do full justice to the question here, but it is important to recognise the distinctions between the usage for "if and "implies" "implies" which has 
+
+then been adopted in this text since the two are often treated as interthen ..." is introduced as a connective phrase changeable. "If 
+
+analogous to "or"; it can be associated with a pair of statements to yield a new statement. "Implies" designates a relation between statements which holds when they have certain formal characteristics. 
+
+The difference is best explained by a few examples: 
+
+If Jones wins the seventeenth hole he will win the match. is a conditional statement which may or may not be true. On the other hand:
+
+Jones wins the seventeenth hole" implies match". "Jones wins the is false, since an examination of the formal characteristics of the statements "Jones wins the seventeenth hole" and "Jones wins the match" fails to confirm the existence of a relation of implication between them. But:
+
+Jones wins the seventeenth hole and the match" implies 
+
+Jones wins the match' is true, the required implication relation being confirmed by F9. 
+
+In addition the truth table shows that:
+
+If Jones wins the seventeenth hole and the match, then he wins the match. is valid. 
+
+Notice that the word expressions. "implies" is introduced between quoted Just as a relation between ordinary objects is expressed 1 by mentioning the names of these objects, so a relation between statements is expressed by mentioning the names of the statements in question and these are supplied by the addition of quotes. Suppose, for example, we wish to refer to the fact that the oldest town in Massachusetts is larger than the oldest town in Connecticut. This can be expressed by juxtaposing the names of these towns (not the towns themselves) to the phrase "is larger than" to make up the statement:
+
+Plymouth is larger than Wethersfield. 
+
+Similarly the fact that the statement beginning on line 14 page 59 implies the statement beginning on line 16 of the same page is expressed by juxtaposing the names of these statements (not the statements themselves) to the word "implies" to give: "If business improves, then the market goes up" implies "It is not the case that business improves and the market does not go up. 11 ... then
+
+On the other hand connective words and phrases such as "If "and", "or", do not demand quotes around the expressions which they 1. Indirect discourse permits the omission of quotes here.
+
+tie together and we could write: 
+
+If Plymouth is the oldest town in Massachusetts, then the Pilgrims were wise in choosing it as a port. without introducing any quotes. "if 
+
+then The paradoxical consequences of the material analysis of an statement (the so-called "material conditional" ) are illustrated by the following forms of inference: 1. ਲੰਗਰ 2. 139 These are valid (as the truth table shows) and they make it possible to deduce:
+
+If the boat is not late then the captain will be in a good humor. from: 
+
+The boat is late. and again: 
+
+If Smith has red hair he owns a bicycle. 1. 2.
+
+Of course this whole expression is tacitly quoted (according to the convention explained on p. 22) while it is being discussed, but this has nothing to do with the way it would be written in isolation. as 
+
+Described as "material implication" by those who translate "O" "implies".
+
+from: 
+
+Smith owns a bicycle. both of which are conclusions which no one would be inclined to draw. The source of this difficulty can be traced to the first, second and fourth lines of the truth table for "" which, it will be recalled, was written: Pl
+
+of HEEF BHGE G8F8 It is generally agreed that the third line conforms to ordinary usage and that, on any interpretation, a statement of the form "if p then q" is false when its antecedent is true and its consequent false.
+
+As a matter of fact, a conditional statement is rarely asserted when the consequent is already known to be true and in the majority of cases it is not asserted if it is known that the antecedent is false. (This is indicated by the fact that conditionals are usually expressed in the future tense, e.g. "If Hitler becomes less influential the German government will be altered.") Consequently the paradoxical possibilities of the "material" analysis are seldom developed in ordinary reasoning. 
+
+A conditional with an antecedent which is known to be false is usually expressed in the subjunctive mood, e.g., "If it were snowing the temperature would
+
+be below forty." A statement of this kind (a contrary to fact conditional) is frequently asserted when the speaker tacitly assumes the truth of further statements which, together with the antecedent, imply the conclusion. Thus: 
+
+1. It is snowing. 2. 
+
+If it is snowing the temperature is below forty. together imply: 
+
+3. The temperature is below forty. so that if (2) was taken for granted it would be natural to assert: 4. 
+
+If it were snowing the temperature would be below forty. even if (1) was known to be false.
+
+Ordinarily, the assertion of a conditional statement calls up a number of associations in the mind of the speaker which vary from clearly formulated assumptions (usually about "law" of nature) to vague expectations. These provide the link between antecedent and consequent without which such an assertion seems unplausible. The reader can test this by making experimental substitutions on "if p then q" and trying to identify the distinguishing features of those which yield a natural sounding result. It is seldom possible to find a formal connection between antecedent and consequent (one based on sentence structure alone) and to this extent the material analysis, which does not depend on
+
+formal interconnections, could be said to be correct. Furthermore the translation of a conditional into an equivalent alternation modifies the paradoxical character of the forms of inference mentioned on p. 52 for they will then read: p v q -p v q and can be treated as special cases of the (trivial) principle that an inclusive alternation follows from a premise which duplicates either member. The paradox really depends on analysing a conditional in such a way that it is equivalent to an inclusive alternation. Since this analysis does not lead to awkward consequences in the vast majority of cases, and since the supposed link between antecedent and consequent can rarely be traced to a formal 1· connection between them it seems advisable to use it.
+
+1. 
+
+When the antecedent does actually imply the consequent, it is always possible to introduce an assertion to this effect.
+
+EXERCISES ON CHAPTER II 
+
+The problems of group A call for a truth table check on the validity of certain forms of inference, and those of group B for a similar check on the validity of statement-forms. In each case say why you consider that the tables confirm or fail to confirm validity.
+
+If these problems are being worked out for classroom discussion and correction it is important to set up the tables by a uni form method as follows: 
+
+(a) Write the reference columns in standard order, alternating "S "Ts" and "Fis" in the first, alternating them by two's in the second, four's in the third and so on. (b) 흐흐 ​(၁) (a) 
+
+Introduce the variables in alphabetical order.
+
+Put in a separate column indicating the conditions under which the premises of a given form of inference are jointly true.
+
+In each table indicate with a cross the lines (if any) in which a comparison of and "s" shows that "T'S" 
+
+the conditions for validity are not fulfilled.
+
+1. p q 2. s כp- q v s pa s-p pɔ (q.-s) Group A 3. p v q gv r p vr 4. p=(q.-r) r-p
+
+557 5. pƆ q כp 6. pɔ q rs 
+
+Group B 
+
+8. p (p v q) 9. -p (pq) 
+
+7. -P -s r PJ -r q v s ((p v q) r) ((p.q) -r) 10. (p. (pg))(p.q) 11. 12. 13. (p.(q v r)) = ((p v r)) (p v q)) ((p.q) r) = ((p.-r) -q) 14. -(p=q) = (-p= q) 15. -(p=q)= (p= −q) 16. (p=-q) = ((p.-q) v (q.-p)) 17. ((qs) ((p.q)Ɔr)) ((p.s) Or) 18. 19. (p(-q=r)) Ɔ((p.r)) −q) (r )(p. (q=s)))) ((‑p v r)Ɔ (p.(qƆ s)))
+
+CHAPTER III 
+
+10. Definition of implication and equivalence. 
+
+11. Valid conditionals and biconditionals as reference formulae. 12. Rule permitting interchange of equivalent expressions; the introduction and elimination of double negatives. 13. Selection and classification of reference formulae. 14. Construction of proofs. 15. Introduction of valid statements in proofs; rule for obtaining a conjunction from separately listed premises. 16. Consistency. 17. Condensation of proofs.
+
+An expression 
+
+10. DEFINITION OF IMPLICATION AND EQUIVALENCE. 
+
+containing variables which is used to identify a relation of implication (or equivalence) between statements and statement-forms will be called a reference formula. In the preceding chapters the only reference formulae employed were valid forms of inference, but as will be explained in section 11 it is more convenient to use valid conditionals and biconditionals for this purpose. Before going into the matter in detail it is necessary to give a precise definition of implication and equivalence.
+
+Statements derived from one or more statement-forms by making uniform substitutions throughout will be referred to as corresponding instances of these statement-forms. Consider the following cases: 1. po q 2. -p v q 3. -(p.-q) (a) If business improves then the market goes up. (b) Either business does not improve or the market goes up. (c) It is not the case that business improves and the market does not go up. (a) If my watch is slow then the train is late.
+
+(e) My watch is not slow or the train is late. (f) It is not the case that my watch is slow and the train is also late. (a), (b) and (c) are corresponding instances of (1), (2) and (3) respectively, and the same may be said of (d), (e) and (f). (a) and The (a) are both instances of (1), but they are not corresponding instances for they are not the result of making the same substitutions. same may be said of the pair (b) and (e) in respect to (2), and of the
+
+pair (c) and (f) in respect to (3). 
+
+By reference to corresponding instances it is possible to give a concise definition of implication: one statement-form will be said to imply a second if and only if an instance of the second is never false when the corresponding instance of the first is true. Again, one statement will be said to imply a second if and only if they are corresponding instances (respectively) of a pair of statement-forms of which the first implies the second. 
+
+A pair of statement-forms will be said to be equivalent if and only if all their corresponding instances are either both true or both false; similarly, a pair of statements are said to be equivalent if they are corresponding instances of equivalent statement-forms. 
+
+Statement-forms of which the truth tables coincide are always equivalent and this provides a very simple way of demonstrating that the relation holds. (A couple of such coincidences turned up in section 6 where the truth tables for the premises and conclusion of 1 valid forms of inference were compared.) But coincidence of truth tables is not satisfactory as a defining characteristic of equivalence 1. 
+
+It must, of course, be understood that a comparison of truth tables is only possible if they are set up with reference to the same constituents.
+
+For example, the expressions "p v q" and "p v r' r" differ only in respect to variables, and if their truth tables were separately constructed, the result would be the same arrangement of "T's" and "Fis" (Namely "TTTF") in each case, so that it would be at least plausible to call them equivalent.
+
+If, on the other hand, their truth tables were constructed with reference to substitutions on all three variables, the result would be entirely different. (The reader can test this by setting up the appropriate three-factored table). This test of equivalence is therefore unsatisfactory unless coincidence of truth tables is qualified to mean coincidence of truth tables set up with reference to uniform substitutions on all the variables involved.
+
+because some statement-forms cannot be referred to a truth table. Consequently these definitions are formulated without mentioning the truth table and are applicable to expressions in connection with which the truth table is irrelevant. (Examples of such expressions will turn up in Chapter IV). Notice also that implication is first defined as a relation between statement-forms and then as a relation between statements, the latter definition depending on the former. This has to be done because the relation is one which depends on form, and the form of a statement is identified by substitution in expressions containing variables. 
+
+11. VALID CONDITIONALS AND BICONDITIONALS AS REFERENCE FORMULAE. 
+
+Comparing these definitions with the account of conditionals and biconditionals given in Chapter II, it is possible to make two important correlations: First, the conditions under which a pair of statementforms may be written as antecedent and consequent of a valid conditional, or as premise and conclusion of a valid form of inference coincide with those under which the first implies the second. This can be explained a little more clearly by using a schematic or semipictorial symbolism. Suppose that S1 and S2 are statement-forms and represents the result of writing S1 followed by S2. In the same way, let that the expression "S S₂" followed by the symbol the expression: 
+
+S. represent the result of writing S1 and S2 respectively above and below a horizontal line. Whatever statement forms S1 and S2 may be, $1 S. conditions under which: the
+
+1. S, implies S2
+
+S1 2. S1 S2 is valid 
+
+3. $1 is valid are identical, namely: an instance of S2 is true whenever the corresponding instance of S, is true. Again, the conditions under which a pair of statement forms may be written as members of a valid biconditional coincide with those under which the two are equivalent. Again using the schematic method of representing logical expressions we can say that whatever statement-forms S1 and S2 may be, the conditions under which:
+
+S1 and S2 are equivalent 
+
+1. S1 
+
+2. 
+
+S1 S2 is valid are identical, namely: $2 are corresponding instances of S₁ and S either both true or both false.
+
+On account of the above correlation, it is easy to see that a valid conditional statement-form may be used as a reference formula to identify a relation of implication just as readily as a valid form of inference. Suppose, for example, that S1 is "p.q" and S2 is "q"; (1) below is the result of writing S1 and S2 respectively above and below a horizontal line giving a form of inference identical with F9. (2) is the result of writing S₁ followed by the symbol S. followed by S2. "כ" (1) is the valid form of inference corresponding to (2) and (2) is the valid statement form corresponding to (1). (1) p.q (2) (p.q) q
+
+By the 
+
+If two statement forms are equivalent, then the first implies the second and the second implies the first. This may be demonstrated as follows: Suppose S1 and S2 are equivalent statement-forms. definition of equivalence between statement-forms, any corresponding instances of S, and s
+
+S. and S2 are either both true or both false. Consequently: 1. 2.
+
+If an instance of S₁ is true, the corresponding instance of S2 is also true. 
+
+If an instance of S2 is true, the corresponding instance of S, is also true. S1 
+
+Because the relation of
+
+Consequently, by the definition of implication between statement-forms, S1 S₁ implies S2 and S2 implies S. Similarly, if two statements are equivalent, they mutually imply one another. equivalence between statements involves a relation of mutual implication, it is possible to refer to it in establishing a step in a proof, and this effects a considerable economy in the number of reference formulae it is necessary to employ. For example, with the equivalent pair "-(p.q)" "-p v -q" it would be possible to write two valid conditionals: -(p.q) (-p v -q) (-p v -q)-(p.q)
+
+But it is only necessary to write: -(p.q)= (-p v -q) 
+
+Any pair of statements which are corresponding instances of this biconditional are equivalent, hence they mutually imply one another, hence if one appears in a proof the other may succeed it. 
+
+THE 12. RULE PERMITTING INTERCHANGE OF EQUIVALENT EXPRESSIONS; 
+
+INTRODUCTION AND ELIMINATION OF DOUBLE NEGATIVES. Α further advan tage of using biconditionals as reference formulae is that they permit us to take advantage of a rule of interchange which shortens up proofs very considerably. This rule can be stated as follows: If one statement or statement-form can be obtained from another as a result of interchanging equivalent expressions, then the two are equivalent. Its application of this rule is most easily illustrated schematically. (It is hard to follow the logical pattern of statements which are written out in ordinary English). Suppose we have a set of statements, S1, S2, S3, which turn up in logically complex statement:
+
+1. -(S₁ v ($1 ၆၇) ၁ ၁Assume that (1) is a premise and that we have a further premise: 
+
+2. $2
+
+Now, "-(S1 v-S2)" and "-S1.S2" are equivalent, and if these are exchanged in (1) the result, according to the rule of interchange is
+
+an equivalent statement: 3. (-51.52)553 
+
+A further exchange in (3), replacing -S1.S2 by S2.-S1, gives an equivalent statement: 4. (52-5)553 1 
+
+This last implies: 
+
+5. $22 (-ss) which, together with (2) implies: 6.
+
+-5153 Without the rule of interchange which permits the step from (1) to (3) and from (3) to (4), this relatively simple deduction would present complications. Notice, however, that the rule does not alter the general structure of a proof. A proof always depends on setting up a string of implication relations and the existence of an implication relation is ordinarily confirmed by substitution in a valid conditional or biconditional. The rule is simply a device for getting more information from a valid biconditional than could be obtained merely by noting that any instance of one member implied the corresponding instance of the other. The steps from (4) to (5) and from (5) and (2) to (6) represent the usual method of employing valid conditionals and biconditionals. Assume the validity of the formulae: 1 1.
+
+The numbering is explained in the next section.
+
+V12 ((p.q) r) V22 (p. (p q)) q (p)(qƆr)) The relation of implication between (4) and (5) is confirmed by the fact that they are corresponding instances of the members of V12. 
+
+Taken in conjunction, (5) and (2) present an instance of the antecedent of V22 and (6) is the corresponding instance of its consequent, which confirms the existence of an implication relation from the former to the latter.
+
+It is quite possible to demonstrate the correctness of this rule but it would be a rather complicated project for an elementary text. It is pretty easy to see that in its application to molecular statements (the only kind so far considered) the rule will never lead from a true premise to a false conclusion. The truth or falsity of any molecular statement is determined by the truth or falsity of its constituents; equivalent statements are either both true or both false; hence the replacement of any constituent by an equivalent one cannot alter the truth of the result. 
+
+Since the statement-form: p=--p is valid, the introduction and elimination of double negatives mentioned in Chapter I can be handled as a special case of the interchange of equivalent statements. If this is clearly understood it is advisable to retain the original shortcut.
+
+The introduction or elimina tion of a double negative will therefore be omitted as a separate step
+
+in a proof, but the letters "D.N." should be added to the annotations to show that the omission is recognised. The selection of permissible shortcuts is determined by balancing the amount of time saved by a 1 given method against the difficulty of explaining why they are theoretically justified. In this particular case, a good deal of time is saved, the possibility of making trivial errors is reduced, and it is a simple matter to reconstruct the step which has been omitted. 
+
+13. SELECTION AND CLASSIFICATION OF REFERENCE FORMULAE. The reference formulae presented in this section are selected entirely on the basis of convenience; a longer list would be clumsy to handle and a shorter one would call for too many steps in setting up proofs. (It is actually possible to handle logical demonstrations by reference to six concise formulae provided proofs are correspondingly extended in length and complexity.) All of the formulae are numbered and some of them are grouped as exemplifying logical principles or laws which can be designated by name. It is difficult (and in no way instructive) to memorize these numbers but the classification by reference to laws is pretty easy to retain and by using abbreviations (e.g. "Assoc." for "Associative law") a proof can be annotated very rapidly without reference to a list of any kind, 2 1. 
+
+Sometimes the theoretical possibility of using a method is, in itself, an interesting point to investigate. 
+
+2. It is very helpful to have a list of formulae written out on separate sheets for easy reference. Classroom exercises should never be assigned with the provision that formulae are to be memorised either by name or number.
+
+A logical principle is simply a verbal description of statements between which implication and equivalence relations hold. For example, the principle of transposition could be expressed as follows: The result of transposing the antecedent and consequent of a conditional and changing their signs is always an equivalent ex- All transformations which can be made by way of the forpression. mula: (pq) = (-q-p) 1 are of this kind and in annotating a proof it would be possible either to refer to the principle (using the abbreviation "Trans.") or to the formula itself which is numbered Vl. A good many simple transformations are easy to describe but after a certain degree of complexity has been reached an accurate verbal description of logical form is extremely difficult and substitution in expressions containing variables is therefore the best general method of identification. It is convenient, however, to introduce names for 2 1. 
+
+The letter "v" distinguishes valid statement-forms from valid forms of inference which were designated by numbers preceded by an "F". 
+
+2. A comparison of the methods of classical and symbolic logic will show that the former employs verbal description as a means of identifying logical form (and consequently sets up principles rather than formulae) while the latter employs substitution in expressions containing variables. As a matter of fact, this last remark is applicable only to the more usual presentation of symbolic logic; the development of the so-called "syntactical" point of view represents a return to the descriptive method but special techniques are employed for this purpose.
+
+characteristic transformations even if an exact verbal description is omitted. Thus inferences which depend on the formula: ((pƆq).(gr)) Ɔ (pɔ r) 1 will be said to exemplify the syllogism principle and the abbreviation "Syl." is sufficient to identify them in annotating proofs. When a name is introduced to designate a principle without giving any further account of it, the corresponding symbolic formula provides a picture of the kind of transformation permitted and there will be no difficulty in recognizing what is intended. 1. 
+
+There is some precedent in the literature of logic and mathematics for the selection of these names. For example the logical formula: (p. (qvr)) = ((p.q) v (p.r)) has as its analogue the algebraic identity: x. (y + z) = x.y + x.Z and both are referred to as exemplifying distributive laws. Notice that the other form of the distributive law for alternations and conjunctions: (p v (q.r)) = ((p v q). (p v r)) does not have the algebraic analogue: x + (y.z) = (x + y).( x.z)
+
+LIST OF MOLECULAR REFERENCE FORMULAE 
+
+V1 (pƆq)=(-q-p) As already explained, this formula permits the antecedent and consequent of a conditional to be transposed with the signs reversed; it will be said to exemplify the principle of transposition. viate: "Trans.") (Abbre- V2 (pƆq)=(-p v q) This formula exemplifies the principle that the result of negating the antecedent of a conditional and replacing "" by "v" 
+
+---
+
+1 is an equivalent expression and, conversely, that an equivalent expression is obtained by negating the first member of an alternation (For purposes of annotation, abbreand replacing ."כ" viate: "་" by "Cond.-Alt.")
+
+V3 ( p v q)= (q v p) V4 (p.q) = (q.p) V5 (p=q)= (q=p) This group exemplifies the principle that the result of commuting the members of alternations, conjunctions, or biconditionals is an equivalent expression, and this is referred to as the commutative law. (Abbreviate: "Com.")
+
+Vбa -(p.q)=(-p v -q) V6b -(p v q)=(-p.-q) 
+
+This pair represents what is called a "duality principle", that is to say a principle permitting one logical symbol to be exchanged for another provided all signs are reversed. 
+
+More specifically, an equivalent expression is obtained as a result of turning an alternation into a conjunction (or vice versa), changing the sign of its members, and also changing the sign of the whole expression (Abbreviate: "Dual.")
+
+V7a -(pƆ q)= (p.-q) V7b (pƆ q)=-(p.-q) 
+
+1. Statement or statement-form.
+
+1 This pair exemplifies a partial duality principle; an equivalent expression is obtained as a result of changing the sign of the second member of a conjunction, changing the sign of the whole expression and replacing "." by "" (similarly, by changing the sign of the consequent of a conditional, changing the sign of the whole expression and replacing "" by "."). (Use the abbreviation, "Dual.", in annotations.)
+
+V8 V9 כי (p v (q v r))= ((p v q) v r) (p.(q.r)) ((p.q).r) 
+
+These formulae exemplify associative laws for alternations and conjunctions respectively. (Abbreviate: "Assoc.")
+
+V10 (pq) = ((p). (qɔp)) 
+
+This formula exemplifies the principle permitting the transformation of a biconditional into an equivalent pair of conditionals and vica versa. (Abbreviate: "Bicon.")
+
+The next group are presented by means of a shorthand device; instead of putting down ten biconditionals separately, five statement-forms are written on one line separated by the symbol ' = "; any pair on this line may be taken as a valid biconditional. 
+
+These will be referred to as exemplifying principles of identity. (Abbreviate: "Id.") 1. 
+
+The signs are not changed throughout but in one member only.
+
+V11 p=--p= p (p v p) = (p.p) 
+
+The first pair, "p=--p", permits the elimination of double negative by way of the rule of interchange. 
+
+The others are not particularly useful in connection with the problems introduced in this Chapter but will be employed later. V12 ((p.q) r) = (pƆ (qƆr)) 
+
+This will be referred to as the exemplifying the principle of exportation. 
+
+(Abbreviate: 
+
+"Exp.")
+
+V13 (p v (q.r)) = ((p v q).
+
+(p v r)) V14 (p.(q v r)) = ((p.q) v (p.r)) V15 (p) (q.r)) = ((p) q).(p Ɔr)) V16 ((p v q) Ɔr) = ((p Ɔq). (pƆ r)) 
+
+These formulae exemplify distributive laws. The use of this designation for V16 is not strictly analogous to the others, but in order to keep the classification into groups down to a minimum it seems advisable to stretch a point in this case. (Abbreviate: "Distr.") 1 1. Strictly speaking, a distributive law should permit a transformation which merely rearranges a pair of connectives without introducing a new one. For instance:
+
+V17 (p) (q v r)) = ((pƆq) v (pr)) presents the normal pattern of a distributive law; it permits the association of "" with the two members of the alternation which follows it giving an alternation of conditionals. (Similarly, V15 permits the association of "" with the two members of the conjunction which follows it, giving a conjunction of conditionals.)
+
+V16 was omitted above because it is not very useful in connection with the problems which are introduced in this text.
+
+V21 ((p) q).(qr))) (pɔr) 
+
+This will be said to exemplify the syllogism principle since it is analogous to one of the forms of inference classed as a syllogism in Aristotelian logic. 
+
+(Abbreviate: 
+
+"Syl.")
+
+V22 (p. (p q)) q 
+
+Because this formula permits the consequent of a conditional statement to be asserted when the antecedent is asserted, it will be associated with the phrase "modus ponens" which was the classical designation for arguments of this form. 
+
+(Abbreviate: 
+
+"M.P.")
+
+V23 (-q.(pƆq))Ɔ -p 
+
+This will be associated with the phrase "modus tollens", which is the classical designation for arguments in which the antecedent of a conditional statement is denied when the consequent is denied. 
+
+(Abbreviate: 
+
+"M.T.")
+
+V24a (-p.(p v q)) Ɔ q V24b (-q. (p v q)) > p 
+
+These formulae exhibit the principle that one member of an alternation can be asserted when the other is denied. (Abbreviate: "Alt.")
+
+V25a (p.q) Op V25b (p.q) q
+
+These will be said to exemplify principles of simplification. (Abbreviate: "Simp.")
+
+V26a p v -p v26b V26c рор -(p.-p) 
+
+These formulae serve to identify a group of valid statementforms which it is sometimes convenient to introduce in proof. p. ples. (See ). They will be referred to as exemplifying tautology princi- (Abbreviate: "Taut.")
+
+V27 (((p Ɔq).(r)s)).(p v r)) Ɔ (q v s) 
+
+This exemplifies the principle of the dilemma and corresponds to 1 a form of argument which is often introduced in debate.
+
+(Abbreviate: 
+
+"Dilem.")
+
+V28 (pƆq) ((p.r)) (q.r))¸ V29 (q) ((p.q)) 
+
+These formulae are not much used in simple logical problems but will be referred to later on and might as well be recorded here. 
+
+1. The peculiar force of the dilemma as an instrument of debate depends on including among the premises an alternation which your opponent will accept and drawing as a conclusion a further alternation both members of which are distasteful to him. In classical logic a number of variations on this type of argument are separately described. (See p.
+
+They exemplify principles permitting an additional factor to be introduced in a conditional. (Abbreviate: "Fac.") 
+
+Some formulae differ only in respect to the position of the negation sign or the order in which the variable appear and these have been given the same number and differentiated by the addition of a letter. This duplication is introduced to avoid trivially com- 1 plex steps when proofs are worked out with complete substitutions.
+
+1. 
+
+Suppose for example that V6b was omitted and that we wished to establish the equivalence of a pair of statements, S1.S2 and -(-S1 v -S₂) in order to make an interchange. Direct substitution in Vбa will n t accomplish this, and it would be necessary to carry out a supplementary step as follows: ($₁•S₂) = --(S₁•S2) is valid as an instance of V11. Interchanging -S1 v -S₂ with -(SS) on the right (these are equivalent by direct substitution in Vбa gives the required result: ($₁•S₂)= -(-S1 v -S₂) There is no value in referring every step in a proof to a specific formula unless it is done rigorously and it is desirable to use a list large enough to eliminate steps which continually lead to minor errors in regard to substitution.
+
+It will be observed however that the result of substituting in a valid biconditional often contains a double negation which has to be eliminated in order to supply the required pair of equivalent statements. This is exemplified by attempting to confirm the equivalence of a pair of statements, S1 v S2 and -S1 S2, by reference to V2. In this particular case it would have been possible to add a formula: but the many similar additions would also be required and it is preferable to use the more restricted list.
+
+14. THE CONSTRUCTION OF PROOFS. The technique of setting up proofs is not altered in any essential respect by the use of conditionals and biconditionals as reference formulae but a new abbreviation is introduced for the annotation of steps which depend on the rule of interchange. The following example is presented with complete annotations, but for ordinary purposes it is possible to cut these down considerably as will be explained below. Suppose that we wish to deduce the statement: 
+
+Allen did not communicate with Downs. from the premises: 1. 2. 3. 
+
+Allen communicated with Briggs but not with Collins or he communicated with Collins but not with Downs. 
+
+If he communicated with Briggs then he heard from Ellis. 
+
+He did not hear from Ellis. 
+
+As capital letter abbreviations, use "B" for "Allen communicated with Briggs," "C" for "Allen communicated with Collins", and so on following the initial letters of the individuals mentioned. 
+
+This permits the premises to be written: 
+
+3.
+
+BOE -E Premise Premise Premise
+
+Since (3) is the negation of the consequent of (2), modus tollens gives:
+
+4. -B 
+
+B ; mie Blo
+
+V23 From (2) & (3) 
+
+These annotations could be read: (4) follows from (2) and (3); the relation of implication is confirmed by substituting for "p" and "E" for "q" in V23. "B" By the principle permitting an alternation to be transformed into an equivalent conditional, (1) implies (5) 5. -(B.-C)>(C.-D) B.-C ; C.-D V2b From (1) Interchanging in (5) by the principle of duality (and eliminating the double negation) yields an equivalent statement: 
+
+From (5)
+
+Int. -B v C in (5), B C ; 0 V6a (D.N.) 
+
+As explained in section 12, steps which involve the introduction or elimination of a double negative are omitted, and the letters "D.N." can be used to indicate that this has been done. The annotations for an interchange are indicated, very much like a substitution, by writing the statement which is introduced above a horizontal line and the statement which is replaced below it. ("Int." stands for "Interchange".) Then follows the number of the statement in which the exchange is made. After this (and sometimes on a line below, if space is insufficient) the substitutions necessary to show the
+
+equivalence of the interchanged statements are indicated in the usual way.
+
+The distributive law permits (6) to be transformed into an equivalent conjunction: (-B ) (C.-D)). (C)(C.-D)) From (6) 7. 그믐 ​: 음 ​; C; -D V16 This conjunction can be taken apart by the principle of simplification giving: 8. 
+
+-B; C.-D V25a Modus ponens allows (9) to be deduced from (4) and (8):
+
+; C.-D V22 
+
+Again simplifying we have the required conclusion: 10. -D 
+
+V25b 
+
+From (9)
+
+In working with a restricted list of reference formulae the indication of all substitutions is a useful check since it is sometimes difficult to see how a given step in a proof can be covered. (This is also the case when a more complex stage of logical analysis
+
+is reached.) But in dealing with molecular statements by way of a good sized reference list the application of formulae is usually quite straight forward and there is no occasion to make a practice of writing in the substitutions relevant to each step. Omitting substitutions, the proof just presented can be set down in a relatively simple form as follows: 1. 
+
+Premise 2. BOE Premise 3. -E Premise 4. -B From (2) & (3) (3) M.T. 5. 
+
+From (1) Trans. 
+
+6. 
+
+From (5) Dual. (D.N.) 
+
+7. 
+
+From (6) Distr. 8. 
+
+9.
+
+C.-D 
+
+From (7) Simp. 
+
+From (4) & (8) M.P. 10. -D 
+
+From (9) Simp.
+
+This proof takes seven steps (ten lines, of which three are premises); as will be explained in section 17, it is possible to short-cut at least two without any sacrifice of accuracy.
+
+15. RULE FOR OBTAINING A CONJUNCTION OF SEPARATELY LISTED PREMISES; THE INTRODUCTION OF VALID STATEMENTS IN PROOFS. There is a minor theoretical difficulty connected with the application of valid conditionals as reference formulae due to the fact that statement-forms are conjoined in their antecedent which would be separately listed in a valid form of inference. A comparison of 
+
+V21 with the original Fl illustrates this point. 
+
+These were written:
+
+V21 ((pq). (qr)) Ɔ (p) r) Fl poq gr pr Now suppose that we are presented with two premises, designated schematically: 
+
+1. S1 S2 
+
+2. S2 S3
+
+These are corresponding instances the premises of Fl, which permits an inference to (3) below:
+
+3. S₁ Sz
+
+On the other hand V21, taken at its face value, shows only that (3) follows from (1) and (2) in conjunction. A similar difficulty comes up whenever it is necessary to deduce a statement from a pair of premises which are separately listed. This can be handled by intro- 1 ducing a rule which does the work of the original F9, namely: 
+
+1. Recall that this was written: a dă
+
+​p.q
+
+Any statement, S1, together with a further statement, S2, imply the conjunction S1.S2. Whenever
+
+This is usually described as a rule of adjunction. it is necessary to conjoin two statements which appear separately in a proof, this rule can be employed. In working problems the additional step will not be required and it will be understood that a statement follows from two others whenever it follows from their conjunction. Thus we should write, in the case just mentioned: 
+
+3. S 
+
+S1; $2 ༠; From (1) & (2) 
+
+In V21
+
+Since this difficulty may seem too trivial to deserve much attention, a further comment on proofs might be usefully added at this point. It is a fact of considerable theoretical importance that logical transitions can be handled in a purely formal manner without considering anything except the character of the symbols concerned and the rules for their manipulation. Now from the point of the ordinary meaning of words, the difference between a pair of statements appearing in a list and the same statements joined by the word "and" is very tenuous indeed. But from a purely formal point of view the difference is much too conspicuous to be overlooked, in fact it is much more conspicuous than the difference between such a pair as "pq" and "qp". It seems probable that a rigorously formal approach is not the best introduction to logic for the general reader, but there is no reason why the subject should not be presented in such 1 a way that the transition to such a point of view is easy.
+
+1. 
+
+A systematic and purely formal presentation of logic is sketched in section 34.
+
+The rule of adjunction is superfluous if the following rule of inference is employed:
+
+Any conditional statement, S1 S2, together with a statement S1 duplicating its antecedent, imply a further statement, S2, duplicating its consequent. 
+
+This rule, 
+
+if it is to accomplish the result just mentioned, requires the addition of valid statements as supplementary premises in a proof. In this way the deduction carried out above would be worked out as follows: 
+
+1. S1 S2 
+
+15 2. 52 53 are premises and: 
+
+3. (($12). (23)) (13) 
+
+is valid. By exportation, (4) follows from (3): 
+
+) ) 
+
+According to the rule of inference, (5) follows from (1) and (4): 
+
+5. (525) (583) again, reference to the rule shows that (6) (which is the required conclusion) follows from (2) and (5): 6. 5153
+
+When proofs are set up in this way, it is usual to employ reference formulae simply to identify valid statements which are then introduced in the proof series (as in step 3 above). The rule of inference does all the work of identifying implication relations between statements. This method of working out proofs is commonly used in symbolic logic and can be explained more concisely than the method of this text, but it has the disadvantage of requiring many more steps in its application. In this text the function of the rule of inference is carried by the explanations regarding the use of reference formulae.
+
+As already pointed out, a logically valid statement is invariably true and any statement which follows from it will also be true. Consequently the addition of a valid statement to the premises of a proof will not alter the truth of the conclusion. To allow for steps of this kind, the definition of a proof will be altered as follows: A proof is a series of statements every member of which is either a premise, or is logically valid, or follows from one or more of those which precede it in the series. Occasionally, 
+
+as, for example, in the case of the argument mentioned at the end of section 8, 
+
+this alteration makes it possible to deduce conclusions which could not be obtained by means of the list of reference formulae so far presented. 
+
+For practical purposes it is not very important since most of the results obtainable in this way could be obtained in fewer steps by a so-called "indirect" proof,
+
+The explanation of indirect proofs is not taken up until section 27 as they are not particularly useful in connection with the material of this Chapter. Since the correctness of the method of indirect
+
+4.
+
+proof can only be established by admitting the possibility of introducing valid statements as supplementary premises, this last point is theoretically quite important.
+
+16. CONSISTENCY. 
+
+It is frequently more interesting to know whether or not a set of premises are mutually consistent than to know that a given statement not mean that an investigation of consistency involves any new logical principles; it simply happens to be more difficult to spot inconsistencies, and formal errors in this respect are a little more common in ordinary reasoning. A group of statements will be said to be inconsistent if the negation of any member can be deduced from the remainder; if this is not the case it will be counted as consistent. Similarly a statement will be said to be inconsistent with a further group of statements if its addition makes this group inconsistent. can be deduced from them. This does 
+
+In section 14 the statement: 
+
+Allen did not communicate with Downs. was deduced from three premises listed on page 77. Consequently the statement: 
+
+Allen communicated with Downs. taken together with these premises makes up an inconsistent group.
+
+2 Taken in conjunction, the members of an inconsistent group are 1 always contravalid and on the molecular level (where statements are handled as units joined by connective words) the truth table accordingly provides a convenient test of consistency. Beyond the molecular level there is no test of consistency which is simple enough to introduce in an elementary text. 3 A pair of statements which differ only in the occurrence of a negation sign, e.g.: 
+
+It is raining 
+
+It is not raining are said to be "contradictory."
+
+When two contradictory statements are deducible from a given group, the latter can always be proved to be inconsistent (according to the definition given above) and it is frequently simpler to establish inconsistency in this way.
+
+1. 
+
+Note also that if a statement, S, implies a further statement, S2, then: $12 ၁ ၇ is valid, and similarly if S1 and S2 are equivalent then:
+
+S₁ = S 2. 3. is valid.
+
+Given a set of statements, S1, they form a consistent group. 
+
+Sn, if the truth table for their conjunction contains a single There is no general check on consistency, that is to say, no method which can be worked out in every case. 
+
+4. It is also possible to define inconsistency in this way: 
+
+A group of statements is inconsistent if a contravalid statement is deducible from them.
+
+The conjunction of a pair of contradictory statements is, of course, contravalid.
+
+17.
+
+THE CONDENSATION OF PROOFS. 
+
+Proofs always involve many small transitions which multiply the number of steps and it is impossible to avoid this without introducing a list of reference formulae which is too long to be easily handled. They can be shortened considerably by telescoping two or more steps and indicating the formulae which are successively used. This method is best explained by an example. Suppose we are dealing with a set of statements, S1, S2, S3, S4, which appear in the premise: 1. ($2•S1))-(Sz v S4) 
+
+Interchanging in the antecedent of (1) by the commutative law (V4) gives: 
+
+A further interchange in the consequent by the duality principle 
+
+V6c) gives:
+
+3. ($7.82) (-53-54) 
+
+The distributive law (V15) then gives: 4. ((S.)-5). ((5.8)-S) 1 2 which, by simplification (V25a) gives: 
+
+5. ($₂•$2))-$3 2
+
+These four steps could be reduced to two by writing: 1. ($2.51))-(Sz v S4)
+
+S..S 
+
+2. (S₁•$2)) (-$3•-54) 
+
+3. (5.82)-83
+
+1 Premise
+
+From (1) Com. Dual 
+
+From (2) Distr. Simp.
+
+No substitutions have been written out above, and formulae are referred to by their (abbreviated) designations rather than by number. The first annotation shows that a pair of interchanges applied successively to (1) yields (2); the second shows that an application of the distributive law to (2) yields a conjunction which can in turn be simplified yielding (3). (These steps were made one at a time in the original proof.) Three more steps can be similarly telescoped to give (4) below: 
+
+4. (Sq.Sz))-$2
+
+From (3) Exp. 
+
+Trans. Exp.
+
+Because a formal proof which is unprecise is more trouble than it is worth, any short-cutting of steps which are theoretically required should be worked out in such a way that the complete proof could be accurately reconstructed. The above deduction of (4) as a conclusion from (1) as a premise meets this test since there is little or no difficulty in recognising the intermediate steps resulting from successive application of the formulae referred to. theory, this method could be extended to permit the omission of any In
+
+given number of steps, and it might appear at first glance that any three could be managed without confusion. But experience shows that indiscriminate telescoping always leads to errors (some serious, some trivial) and it is preferable to confine it to cases where it can be easily and accurately applied. (Of course this is largely a pedagogical difficulty. Granting familiarity with logical transitions and their theoretical explanation, complicated short cuts are quite workable; they break down for those who are setting up proofs merely to acquire such familiarity.) The following rule shortens proofs considerably and is unlikely to lead to any difficulties.
+
+Combine steps in a proof which depend on: 1 1.
+
+Recall that the principle of simplification was represented by: V25a (p.q) p V25b (p.q) q 
+
+The principle of exportation was represented by:
+
+V12 ((p.q) r)= (p) (gr)) 
+
+Transposition was represented by:
+
+V1 (pƆ g)= (-q -p) The commutative law for conjunctions was represented by:
+
+V4 (p.q) = (q.p) 
+
+The principle permitting an alternation to be turned into a conditional and vice versa was represented by: V2 (pƆ q)= (-p v q)
+
+I. 
+
+Any series of (not more than three) independent interchanges. 
+
+III. 
+
+An application of any principle followed by simplification.
+
+An application of the principle of exportation together with: Transposition
+
+The commutative law The transformation of an alternation into a conditional or vice versa.
+
+Interchanges will be regarded as independent if they alter different parts of the same formula. The two interchanges in (1) above are performed first in the antecedent, then in the consequent and are therefore counted as independent; if an interchange had been made in the consequent followed by a further interchange in the consequent of the resulting expression (e.g. not count as independent. -S4.-S3 for -Sz.-S4) the two would 1 The deduction of (2) from (1), above, exemplifies clause I of this rule and clause III is applied in the last step. Referring 1. 
+
+There are a very large number of different transitions which can be effected in one step by following clause III, and if reference formulae were added to cover each of them the list would become pretty large. The six given below are typical of what would be required but are not exhaustive: (p. 園 ​Or
+
+Ɔr= qr)כp pƆ (qr > -r q.-r) -p 
+
+= ((q.-r) q.-r) -p ((p.-r) -q) poq vr = ((p.-q)> r (p) (q v r) of It is easy to get an intuitive idea of this type of equivalence but it would be rather difficult to describe them precisely in words for even to find a name which was appropriate to the whole group). course there is no objection to using an enlarged list of reference formulae if anyone finds it more convenient to do so,
+
+back to the proof given on p. 80, it will be clear that lines (7) and (9) can be cut out by applying clause II since both consist of conjunctions, one member of which is dropped off in the succeeding step.
+
+EXERCISES ON CHAPTER III 
+
+In exercises 1 - 
+
+the last statement of each group is to be regarded as a possible conclusion from those which precede it. 
+
+Exercises 
+
+1 require a decision as to the consistency or inconsistency of a group. Whether proofs are written out in each case or merely used to confirm a judgment reached by inspection, can be left to the discretion of the reader (or the instructor). As usual in establishing logical interconnections, the statements under consideration must be taken as they stand with no alterations other than those necessary to obtain sentences in standard logical form. 
+
+Nevertheless, it is worth while to note the way in which tacit assump- 2 tions and ambiguities of language affect the plausibility or lack of plausibility of a given conclusion. A few problems have been included which can only be solved by methods not yet explained and cases of this kind should be noted. 1. 2. 1. (Abbreviate: B, C, D, L.) 
+
+A will support B or C.
+
+If A takes D's advice he will not support C. 
+
+If A supports B then C loses the election.
+
+Either A does not take D's advice or C loses the election. 
+
+(Abbreviate: 
+
+W, E, P, D)
+
+If the lights did not work and an electrician was not on hand that night then the performance was called off. 
+
+If the company's receipts have not dropped below the expected figure, then the performance was not called off. 
+
+The lights did not work.
+
+If an electrician was not on hand that night, then the company's receipts have dropped below the expected figure. 
+
+There are also a number of possible choices in regard to the way in which proofs are written. 
+
+2. Premises or definitions which anyone would be likely to take for granted.
+
+3. 4. 5. 
+
+(Abbreviate: 
+
+A, B, C, D)
+
+If A is not transferred to a new post B resigns. 
+
+If A is transferred to a new post or C resigns then D will suffer a political defeat.
+
+If D does not suffer a political defeat then B resigns. (Abbreviate: A, N. D)
+
+If A is now out of jail he is a nuisance to his family. 
+
+If A is not now out of jail he is a disgrace to his family. 
+
+A is either a nuisance or a disgrace to his family. (Abbreviate S, I, C)
+
+If Robinson's car is smashed up he will receive insurance money which he can use very profitably. 
+
+If Robinson's car is not smashed up he will own a car which he can use very profitably.
+
+Robinson will either receive insurance money which he can use very profitably or he will own a car which he can use very profitably. 6. 
+
+(Abbreviate: 
+
+7. 
+
+B, A)
+
+The sale provided B with cash unless A went bankrupt. 
+
+A did not go bankrupt. 
+
+The sale provided B with cash. (Abbreviate: R, B, P)
+
+A receives royalties on the book unless B holds the copyright. 
+
+If B didn't publish the book then he does not hold the copyright.
+
+If B published the book then A receives royalties on it. 8. 
+
+(Abbreviate: 
+
+C, R, B)
+
+The cable is made of chromium steel unless it rusts. 
+
+If the cable rusts then the bridge is unsafe. 
+
+If the cable is not made, of chromium steel then the bridge is unsafe.
+
+9. (Abbreviate: C, R)
+
+Unless the body is charged the galvanometer will not respond. 
+
+The galvanometer does not respond. 
+
+The body is not charged. 10. (Abbreviate: 
+
+P, C, B)
+
+The ship is propelled by Diesel engines if and only if it burns crude oil and is not equipped with boilers. 
+
+If the ship is equipped with boilers then it is not propelled by Diesel engines. 
+
+11. (Abbreviate: G, S, 0) 12. 13.
+
+All the generators at the city plant are operated simultaneously only if the street lights are on.
+
+If all the generators at the city plant are operated simultaneously then the load is over 10,000 kilowatts. 
+
+If the street lights are on then the load is over 10,000 kilowatts. 
+
+(Abbreviate: 
+
+P, K)
+
+Mr. A will be prosecuted only if he is known to have trespassed on the property after 8 p.m. 
+
+Mr. A is prosecuted. 
+
+Mr. A is known to have trespassed on the property after 8 p.m. (Abbreviate: P, A, H)
+
+If pine is not strong enough for the timbers then the material on hand is not adequate.
+
+If the material on hand is not adequate then the project will be held up indefinitely.
+
+If pine is strong enough for the timbers then the project will not be held up indefinitely.
+
+14. 15. 16. 17. 18. (Abbreviate: H, T, S, P, D)
+
+If the car was not going at high speed and it came to a stop within twenty feet then it did not skid. 
+
+If the report of the police and the driver of the other car are not incorrect then it skidded.
+
+If the report of the police is correct then the car didn't come to a stop within twenty feet. (Abbreviate: A, B, C, D, E)
+
+If A left town on Tuesday, then he forgot his engagement with B and does not know what C intends to do. 
+
+If E goes ahead with his case and A does not know what C intends to do, then D's services will not be called for. 
+
+If E goes ahead with his case and A left town on Tuesday, then D's services will not be called for. 
+
+(Abbreviate: 
+
+P, G, T, M)
+
+If the final score was published in the evening papers then the game was over before three thirty or the reporters at the field had a direct telephone connection with Middletown. 
+
+If the game was over before three thirty then the city editor was mistaken.
+
+The reporters at the field had a direct telephone connection with Middletown.
+
+If the final score was published in the evening papers then the city editor was mistaken. (Abbreviate: S, P, B, R)
+
+If A is superior to everyone else on the team and plays his best, then he will defeat B.
+
+If A is superior to everyone else on the team then he is ranked above everyone else on the team. 
+
+If A is ranked above everyone else on the team and plays his best, then he will defeat B. (Abbreviate: B, I, G, S)
+
+If the bomb was correctly timed and the victim followed the instructions sent him by mail or went to the appointed place by accident, then the plot was a complete success. 
+
+If the bomb was correctly timed and the victim went to the appointed place by accident, then if the plot was not a complete success the victim did follow the instructions sent him by mail.
+
+(Abbreviate: R, A, W, P) 19.. 2) 3) 20. 21. 22. 4) If A has read B's book then he is acquainted with B's opinions. 
+
+If A wrote the leading editorial appearing in the Journal on 
+
+Tuesday then he has not read B's book.
+
+If A is not acquainted with B's opinions then he is not in a position to criticise B's book.
+
+A wrote the leading editorial appearing in the Journal on Tuesday and he is in a position to criticise B's book. (Abbreviate D, M, L, C) 1) If the description of the book is correct, then it includes a map of every independent country. 2) 3) If the book is not listed in the catalogue it is not a complete atlas.
+
+The description of the book is correct but it is not listed in the catalogue. (Abbreviate: A, C, 0, M) 1 2 If C's statement is correct, then A was in town on Tuesday. 
+
+If B's statement is correct then C's statement is not. 
+
+B's statement is correct and A was in town on Tuesday. (Abbreviate: P, A, B, C) 1) 2) If the party is divided, then A will seek the nomination or 
+
+B will introduce a new candidate.
+
+If C's bill is passed, then the party will be divided but A will not seek the nomination.
+
+If A seeks the nomination then C's bill will not be passed. 
+
+C's bill is passed and B will not introduce a new candidate. 
+
+23. (Abbreviate: A, B, C, D). 1 If A and B remain in town then C leaves.
+
+2 
+
+If D leaves then B remains. 3) D loaves town and A remains but C does not leave.
+
+24. 
+
+I, V, F) 1) 2) 3) 
+
+(Abbreviate: 
+
+If the consignment was not properly insured, then it was not valuable.
+
+If it was properly insured, then there was no financial risk involved in shipping it.
+
+The consignment was valuable and there was a financial risk involved in shipping it.
+
+25. 26. 27. 28. 
+
+(Abbreviate: 
+
+M, P, F) 
+
+1) The travel agent is mistaken or the planc flies if and only if the weather is favorable. 2 
+
+The weather is favorable and the plane does not fly. 
+
+3 The travel agent is not mistaken. (Abbreviate: R, B, T, W, H) 1) 2) If it rained on Tuesday then the barometer dropped or the temperature went up.
+
+If the temperature went up on Tuesday then the wind changed or the humidity decreased. 
+
+3) It rained on Tuesday but the barometer did not drop and the humidity did not decrease. (Abbreviate: A, B, C, D, F) 1 2 3) 4) The manuscript was shown to A and to either B or C. 
+
+If it was shown to A it was shown without D's permission. 
+
+If it was shown to C it was not shown without D's permission.
+
+If it was shown to A and also to F then it was not shown to B. 
+
+5) If it was not shown to F it was shown to C. (Abbreviate: 
+
+B, C, s) 
+
+1) The birth rate decreased if and only if the proportion of city dwellers increased or the suicide rate decreased. 
+
+2) The suicide rate decreased if an only if the proportion of city dwellers did not increase.
+
+CHAPTER IV 
+
+18. The analysis of generalised statements.
+
+19. Standard forms of expression for generalised statements. 20. Formulation of a rule of substitution for predicate and term variables; definition of 'scope". 
+
+21. The logical connection between generalised and singular statements. 
+
+22. The rule of interchange for quantified expressions; model for the annotation of proofs. 23. Logical relations between universally and particularly quantified expressions; distribution of the quantification symbols.
+
+18. THE ANALYSIS OF GENERALISED STATEMENTS. In Chapter I a few sample arguments were examined whose validity depended on their form. The form of a statement was found to be something which remained constant throughout changes in descriptive content. By varying the content of a statement and noting which words remained constant it was possible to obtain a skeleton representing its form alone. Such an expression was called a statement-form, and the logical characteristics of an argument were related to the peculiarities of the statement-forms of which its premises and conclusion were substitution instances.
+
+The inferences discussed, in Chapters I, II and III have all depended upon the formal properties of molecular statements, that is to say statements which can be cut up into constituent statements connected by the words "and", "or", "if etc. But there are many inferences, which, although strictly formal, are of ... then ... a quite different sort since their premises and conclusions cannot be analyzed as molecular. 1. 
+
+Consider, for example: 
+
+If anyone is a member of the committee then he knows Smith. 2. 
+
+There is an individual who is a member of the committee and believes Smith is dishonest. 3.
+
+There is an individual who knows Smith and believes he is dishonest. 
+
+It is fairly obvious that (3) follows from (1) and (2); and it is not hard to find a pair of premises and a conclusion which are put together in the same way and which represent an equally plausible
+
+inference. For example: 4. 
+
+If anyone is a successful judge then he knows something about law. 5.
+
+There is an individual who is a successful judge and never graduated from law school. 6.
+
+There is an individual who knows something about law and never graduated from law school. 
+
+These two inferences are of the same form, and the kind of form in question, with respect to the first premise of each, can be made apparent by writing out the words which they share in common, leaving blanks in places where they differ. 
+
+The result is: 
+
+If anyone is then he
+
+It is not possible to take this skeleton as it stands and treat it exactly like the molecular skeleton, "If then
+
+For in the molecular statement-form the blanks (or corresponding variables) have to be replaced by statements; whereas in the present case, the result of filling the blanks by full statements would be nonsensical. 11 It is easy to see, however, that a statementform of the latter kind is a variation of the molecular one, and it will be natural to deal with it by some modification of the type of symbolism that has already been explained. Now it is clear that: 
+
+7. If Jones is a member of the committee then Jones knows Smith. differs only in respect to generality from:
+
+1. 
+
+If anyone is a member of the committee then he knows Smith. since what (7) asserts concerning a specific individual, Jones, (1) asserts without restriction for any individual you care to choose. This suggests that it is not sufficient to consider statements as units which can be introduced without any further analysis in place of the variables of a logical formula, but that it is also necessary to distinguish between names designating the objects under discussion, and predicates, which indicate what is asserted about these objects. That these two factors can vary independently is shown by the following simple examples: 
+
+1. Napoleon is a great general 
+
+2. Napoleon is French 3.
+
+Clemenceau is French 
+
+4. 
+
+Clemenceau is a great general 
+
+The pairs 1,2 and 3,4 above make different assertions about the same individual, while the pairs 1,4 and 2,3 make the same sort of assertion about different individuals. The pairs 1,4 and 2,3 will accordingly be said to contain identical predicates but different terms while the pairs 1,2 and 3,4 contain different predicates but the same terms, and it is necessary to enlarge the logical symbolism so far presented to allow for this distinction. 
+
+In addition to the statement variables already employed two groups of letters "f", "g", "h", ... etc. and "x", "y", "z", etc. wil be introduced, which will be called respectively predicate
+
+variables and term variables.
+
+A term variable may be juxtaposed to a predicate variable as a subscript, giving combinations such as, 1 "f "By", "hx" etc. These combinations will count as statement-forms and will enter into logical formulae in a way analogous to the "p's" and "q's" and "ris", with the provision that in making substitutions, the repetition of term variables calls for the repetition of names and the repetition of predicate variables for the repetition of predicates. Thus the statement: 
+
+If Smith is a member of the town council then Smith knows the mayor. would count as an instance of: while the statement:
+
+If Smith is a member of the town council then the chief of police knows the mayor. would not since there is no repetition of names corresponding to the two occurrences of (On the other hand, this last statement "x". would count as an instance of "f 87".)
+
+Any reference formula so far considered could be rewritten letting "fx", "8", "h.",
+
+... etc. and ... etc. replace "p", "q", "r", the result would remain valid although the change would impose 1. 
+
+In the more usual logical notation these combinations would be written, "f(x)", "g(x)" etc. The introduction of term variables as subscripts merely serves to cut out parentheses.
+
+a considerable restriction on substitutions. 
+
+But the new notation can be modified to provide a very convenient expression of the formal structure of a generalised statement. Recall that the conditional statement-form: If fx then 8x corresponds to a conditional statement in which the same object is mentioned in both antecedent and consequent. Suppose we agree to let this object remain unspecified by a proper name (or description) and write: 
+
+For any x, if f then 8x
+
+This will be the statement-form corresponding to the generalised conditional and since "f. and "g" normally give way to statements 
+
+about the same object, it might be read: 
+
+For any object x, if so and so about x, then such and such about x. and It will be convenient to drop the English words "For any x" replace them by a symbol which will be understood to have the same meaning, namely: "(x)". (If "y" had been used as a term variable, rather than "x", then "(y)" would have to have been used, as well, rather than "(x)".) So expressed, and using ">" then", the statement-form in question becomes: instead of "If (x) (fx) 8x) 
+
+The expressions "(x)", "(y)", "(z)" etc. (using any variables) are called quantification symbols, and a statement-form
+
+containing a given variable and preceded by an occurrence of this variable in parentheses will be referred to as universally quantified. 
+
+An instance of a quantified statement-form and any statement synonymous with such an instance will also be referred to as quantified. 
+
+Taken as instances of the above, the two examples originally introduced would have to be written: 
+
+For any x, if x is a member of the committee, then x knows Smith.
+
+For any x, if x is a successful judge, then x knows something about law.
+
+These will be counted as statements in standard form. 
+
+The second premise and the conclusion of the sample inferences cited at the beginning of this section call for a different analysis. 
+
+In each case they contain the word "and", but they are nevertheless not instances of the statement-form "p and q"; for it is impossible to find a pair of statements which would give the required result if introduced in place of these variables. The difference between "Robinson knows Smith and believes Smith is dishonest" and "There is an individual who knows Smith and who believes Smith is dishonest' might be described as a matter of generality, but it is not quite the same kind of generality as that which is introduced by the word "any". Both of the statements just cited make the same kind of assertion, but in the first it is applied to a specific individual designated by a proper name while the second informs us that it is applicable to at least one individual although we are not told which one. Now the statement:
+
+Robinson knows Smith and believes Smith is dishonest. may be regarded as an instance of: and Ex
+
+Using this as a nucleus, a statement-form corresponding to: 
+
+There is an individual who knows Smith and believes Smith is dishonest. might be written:
+
+There is an x such that fx and 8x The usual symbolic abbreviation for this expression makes use of a capital "E" reversed and placed in brackets together with the subscript letter. Introducing the dot in place of the word "end", it is written: (Ex) (fx •Ex) As instances of this statement-form, the two examples originally introduced would have to be written: 
+
+There is an x such that x knows Smith and x believes Smith is dishonest. successful judge and x
+
+There is an x such that x is a never graduated from a law school. 
+
+These will be counted as statements in standard form. 
+
+The expressions "(x)", "(x)", "(y)", "(Ez)" ... etc. (using any subscript letter) are also called quantification symbols. A
+
+statement-form containing a given variable and preceded by this variable in parentheses together with the reversed "E" is said to be particularly quantified. (An instance of a particularly quantified statement-form, or any statement which is synonymous with such an instance, will also be referred to as particularly quantified.) 
+
+Any statement-form may be quantified, but in this Chapter only those cases which are most frequently exemplified in ordinary language will be considered, namely the universally quantified conditional and the particularly quantified conjunction. validity 2 The reference formulae which confirm the validity of the inferences discussed at the beginning of this section are: Q21 Q31 ((x) (f¸ ¸¸). (x) (8Ɔ h¸_)) ɔ (x) (f¸ɔ h¸) (8x ((x) (fx) 8x). (Ex) (f¸•h)) (xx) (g¸•hy) Transitions which depend on either of these formulae will be described as exemplifying the quantified (or generalised) syllogism principles and for purposes of annotation this can be abbreviated "Q-Syll." (In classical logic, arguments of this form would be referred to as syllogisms.) 1. 
+
+In practice a symbol of quantification is seldom added to a statement-form unless it contains a subscript letter which is duplicated in the latter. Unless this duplication occurs, the quantification is said to be vacuous. 
+
+2. All reference formulae involving quantification symbols will be lettered with an initial "Q" instead of a "V". A few of the analogues will receive the same numbers, for example Q21 above.
+
+#3
+
+19. STANDARD FORMS OF EXPRESSION FOR GENERALISED STATEMENTS. 
+
+The formulation of a statement in the "for any x, so and so about x", "there is an x, so and so about x" idiom does not, strictly speaking, yield an English sentence at all because the letter "x" is not ordinarily used in this way. It is convenient, however, to use such sentences as standard forms of expression. One reason for this is quite simple: In such statements "x" performs the function of the pronoun "he", but has the advantage of being neutral in gender. ferring back to the examples of the last section, suppose that the statements:
+
+Re- 
+
+If anyone is a member of the committee, then he knows Smith.
+
+If anyone is a successful judge then he knows something about law. had been taken just as they were originally written, and a statement form set up by reference to the verbal skeleton which was common to both. This skeleton was: 
+
+If anyone is then he
+
+The gender of the words "anyone" and "he" would make it inadmissible to fill in the blanks with descriptive phrases that did not refer to persons. On the other hand, if the skeleton used pronouns in neuter gender, and were consequently written: 
+
+If anything is then it then the pronouns would make it inadmissible to fill the blanks with anything that did not refer to things. Strictly speaking, then, the use of a more idiomatic standard form of expression would require a statement-form which, merely because of gender, would rule out many
+
+substitutions which it is obviously desirable to keep. As a matter of fact the formulation of generalised conditionals in English varies very widely indeed, and the difficulty of abstracting a verbal skeleton to serve as a statement-form does not rest on the peculiarities of the pronoun alone. The following statements may be regarded as synonymous: 1. 2. 
+
+For any x, if x is a crow then x is black. 
+
+If anything is a crow then it is black. 3. 
+
+Any crow is black. 
+
+4. Every crow is black. 5. 6. 7. 8. 9. 
+
+All crows are black. 
+
+Crows are all black. 1 
+
+Only black things are crows. 
+
+Black things alone are crows. 
+
+None but black things are crows.
+
+Unless logical principles are to be duplicated to match every verbal difference, some standard form of expression must be accepted. 
+
+In classical logic (5) is adopted as a standard, and the pattern of the generalised conditional statement (or what is commonly called the universal proposition) is: 2 
+
+All S is P
+
+In this text (1) is selected, because it corresponds to a symbolism which is a useful tool for analysis. This does not mean, of course, that the sentences should not be written in the customary way. 
+
+1. In this particular case the word "all" happens to be ambiguous. 
+
+The expression, "S is P", which is also very commonly used, represents almost as wide a departure from ordinary English as "For any x, 2. if fx then 8x⚫
+
+The selection of a standard form involving the phrase "there is an x such that" is based on the same considerations which came up in connection with the generalised conditional. With a slight modification, the symbolism already worked out for molecular statements is preserved and no grammatical obstacles are placed in the way of substitution. In classical logic, statements of this kind would be expressed by way of the word "some". Any of the following may be regarded as synonymous: 1 1. There is an x such that x is a crow and x is black. 
+
+2. There exists an x such that x is a crow and x is black. 
+
+3. Some crows are black. 
+
+4. Something is a crow and is black. 
+
+5. There is an individual which is both a crow and black. 
+
+6. There exists a crow which is black. 
+
+7. There is an object which is a crow and which is black. 
+
+8. There is an object such that it is a crow and it is black. 
+
+9. There is at least one crow which is black.
+
+This list could be considerably extended by playing on the possible combinations of such words as "thing", "object", "there is", "there exists", etc. Note that in (7) and (8) the words "which" and "it" perform the same function grammatically as the letter "x" in (1) and (2). If the example chosen had been a statement about persons, "which" would have been replaced by "who", and "it" by "he" or "she". 11 The negation of any quantified expression can be written by prefixing the words "it is not the case that, but the negation of a specifically quantified conjunction often takes other forms. The 1. 
+
+It is also possible to read "(x)" as "for some x".
+
+following statement may be counted as synonymous: la. 
+
+It is not the case that there is an x, such that x is a crow and x is black. 2a. 
+
+It is not the case that some crows are black.
+
+3a. 
+
+There are no crows which are black. 4a. 
+
+Nothing is a crow and black.
+
+The acceptance of (3) as synonymous with (9) is a convention which is quite generally adopted by logicians. Statements involving the word "some" are in fact slightly ambiguous, and would certainly be interpreted differently in different contexts. 
+
+Some medical men are irresponsible. would not be considered a particularly significant statement if its truth could be supported by only one example. 
+
+Some prime members are even. 
+
+On the other hand can only be established by reference to one example (namely the number two) so that if 'some" always indicates that there is more than one example to be found, this statement would have to be rejected as false. 
+
+If a statement of the form "some are 
+
+(the standard form in classical logic) was interpreted in such a way that it could be accepted as true only if more than one object of the kind specified could be found (for example, more than one black crow), it would then be necessary to decide how many were referred to. As there seems to be no way to decide this question unambiguously the restricted interpretation is preferable. According to the restricted interpretation, a statement beginning with the word "some" is true if a single object can be found which satisfies the specified conditions.
+
+20.
+
+FORMULATION OF A RULE OF SUBSTITUTION FOR PREDICATE AND TERM VARIABLES; DEFINITION OF "SCOPE". In practice, this symbolism is easy enough to handle but two difficulties come up in giving an account of substitution. if
+
+In the first place an expression such as cannot be taken quite literally as the skeleton of a statement. 
+
+This point of view could be maintained in connection with molecular statement-forms because the result of substitution on the "p's" and "q's" is always a grammatical sentence. (It may in some cases be an awkward one; as an example take any instance of "(p q)Jq)".) Now it is impossible to obtain a statement by performing straight forward substitutions on "f first replacing "f" and then "x", because
+
+an ordinary English sentence is not made up of an expression called a 1 predicate to which a name is juxtaposed. Take, for example, the three statements listed below, all of which say something about New York. 1. 1. 
+
+New York is south of Boston. 2. 3. 
+
+The general manager will go to New York on Tuesday and to Boston the following Saturday unless business improves in the meantime.
+
+If New York is larger than any other city in the U.S. then more crimes occur in New York than in any other city in the U.S.
+
+In a theory, of course, a standard form of expression could be devised which would fit this pattern.
+
+Notice that in (1) the word "New York" occurs at the beginning, in (2) it occurs in the middle, and in (3) it occurs in two locations. It is never found to the right of a single expression which could be counted as a predicate replacing "f" in the statementform "f". It is therefore necessary to regard a predicate as a complex expression containing blanks which becomes a statement when these are filled in with names or their grammatical equivalent. The most important grammatical equivalent of a name is a definite description, namely a phrase of the form "The so and so" (e.g. "the president", "the largest city in New England"). 1 In the second place, a term variable occurring within a symbol of quantification and duplicated in the expression which immediately follows it, is not altered when substitutions are introduced. example, take the statement-form: 
+
+As an 1. (Ex) fx and a pair of its substitution instances: 2. 3.
+
+There is an individual, x, such that x is a member of the city club.
+
+There is an individual, x, such that if the president asks x to resign from the club, then x will resign. 1. 
+
+Later on, when descriptive phrases are analysed logically, it will be shown that certain restrictions on their substitution are necessary. At this point, no error is likely to occur if they are treated just like names.
+
+the letter "x" appears in both (1) and (2), and to obtain the latter as a substitution instance of the former it is merely necessary to build (so to speak) around this letter. Similarly, the "x" is retained in (3) but in this case the number of its occurrences is increased.
+
+This tie between quantification symbols and variables can be explained much more clearly with the aid of a few additional technical phrases. A statement or statement-form immediately following a quantification symbol will be referred to as its scope. A variable which duplicates the letter within the symbol of quantification and falls within its scope is referred to as a bound variable, and variables which are not bound are referred to as free. Thus the "x" in (1), (2) and (3) above is bound (in all occurrences) while the "x" in: 
+
+The president asks x to resign. is free. Later on, expressions will turn up which contain both bound and free variables.
+
+In order to make the wording simpler, two rules of substitution are presented below. The first covers combinations of free predicate and term variables, the second covers substitutions on free predicate variables which are juxtaposed to bound term variables. In each case the substitutions are described in two interconnected steps. 
+
+Case (1), both variables free: For the term variable, substitute one or more occurrences of a name (or description) and for the juxtaposed predicate variable substitute an expression which,
+
+together with these names (or descriptions), yields a statement. 
+
+According to this rule, the statement: 
+
+1. If Jones does not pay his dues then the president will ask Jones to resign. counts as an instance of the statement-form: 2. fx since "Jones" (in two occurrences) can replace "x", and "If ) does not pay his dues then the president will ask ( ) to resign" can replace "f" to make a complete sentence.
+
+Case (2), predicate variable free and term variable bound: 
+
+The term variable is retained but the number of its occurrences may be increased to accommodate the predicate. For the juxtaposed predicate variable substitute an expression which, together with the bound term variables and an appropriate symbol of quantification, yields a statement. Thus the statement: 3.
+
+For any x, if x is a city lying north of Montreal then if x is within five hundred miles of Chicago x has a population of less than one million. counts as an instance of: 4. (x) (fx) 8x) since "( ) is a city lying north of Montreal" can replace "f" and "if ( has a population of less than one million" can replace "g" and ) is within five hundred miles of Chicago then (
+
+either of them makes a statement when taken with the variable and a symbol of quantification containing "x". "x" In order to avoid handling predicates as separate expressions containing gaps, it is convenient to describe both steps in substitution at the same time. The substitutions necessary to exhibit (4) as an instance of (3) could conveniently be indicated as follows: 
+
+"x" is a city lying north of Montreal" for "f 11 11 $1 "if x is within five hundred miles of Chicago x has a population of less than one million' for 8x Similarly,
+
+Strictly speaking, all occurrences of "x" in (3) are bound and this variable does not enter into the substitutions at all, but it is much easier to make annotations in this way. predicates are most easily abbreviated in a context which is completed by one or more occurrences of a variable. In this particular case, abbreviations might be introduced as follows: "Lx" for "x is a city lying north of Montreal" for "if x is within five hundred miles of Chicago then x has a population of less than one million" 
+
+With these abbreviations (4) could be written: (x) (Nx Lx) and the substitutions necessary to exhibit it as an instance of (3) could be condensed in the usual way as: 10 ; Lx Ex
+
+XI X = 14 Χ
+
+By introducing such abbreviations, the annotations to proofs containing quantified statements are quite simple to write. 
+
+As a matter of fact, the complications which make it desirable to avoid handling predicates as separate expressions are not very prominent in connection with the material covered in this Chapter and it will be worthwhile to give one illustration of the kind of difficulty which comes up. Consider the statement-form: 1. (x) (y) (f¸¸) 8T) xy xy which represents an advance in logical analysis along the lines already laid out. The statement: 2. 
+
+For any x and y, if x is older than y, then x is exceptionally well fitted for a job or y has a better chance of obtaining employment than x. is a substitution instance of (1). Since the "x" and "y" are bound variables substitutions are, strictly speaking, made on "f" and "g" only. But it would not be possible to represent the predicate replacing "f" by: ) is older than ( ) and that replacing "g" by: ) is exceptionally well fitted for a job or has a better chance of obtaining employment than { }. since the gaps in these expressions give no indication of the order in which the bound variables are to appear. Using the other method
+
+these substitutions could be accurately indicated as follows: "x is older than y" for "f xy 11 "x is exceptionally well fitted for a job or y has a better chance of obtaining employment than x' 
+
+for "Sxy 11 Of course it is perfectly possible to devise ways of getting around this difficulty and handling all predicates as units but it seems preferable to omit the required technical machinery. (Such a step would simplify the rule of substitution for it would only be necessary to specify that term variables give way to names or descriptions and predicate variables to predicates.) substitution stated in this Chapter are sufficiently accurate to cover any material which appears in the exercises but are subject to a few restrictions which will be explained in Chapter V. 
+
+The rules of
+
+STATEMENTS. 
+
+21. THE LOGICAL CONNECTION BETWEEN GENERALISED AND SINGULAR 
+
+None of the formulae so far introduced will confirm the correctness of an inference from (1) to (2) or from (3) to (4) below: 1. 
+
+All politicians conceal their real motives.
+
+2. 
+
+If the British Prime Minister is a politician then he conceals his real motives. 3. 4. 
+
+The Yankee Clipper is a train which covers the distance between Boston and New York in less than five hours.
+
+Some trains cover the distance between Boston and 
+
+New York in less than five hours.
+
+For this purpose the following pair of formulae are required: (x)fxfz Q32 033 > (Ex)f. Q32 will be described as exemplifying the principle permitting an inference from a universally quantified statement to a singular statement correlative to it, or for brevity in annotations, as the principle of specification. A statement will be described as a singular statement correlative to a further statement if the first 1 
+
+1. The phrase "singular instance" is much neater than "correlative singular statement and there is some precedent for it in ordinary language, but since the word "instance has already been used in connection with substitution it would be confusing to introduce it for this purpose. Furthermore, ordinary usage would identify: 
+
+Socrates is a man and mortal. as an "instance" of the generality: 
+
+All men are mortal. but the latter is not a singular statement correlative to the former.
+
+is formed from the second by dropping the initial symbol of quantification and introducing a name in place of the variables associated with it (that is to say, the variables which were previously bound by this quantification symbol). The principle could also be described more concisely but less accurately as permitting an inference from a universal to a singular statement. (The abbreviation for purposes of annotation is "Spec.")
+
+Q33 will be described as the principle permitting the deduction of a particularly quantified statement from a singular statement correlative to it, or for purposes of annotation, as the principle of particularization (abbreviate "Partic."). cribed more simply but less accurately as permitting the deduction of a particular statement from a singular one. 
+
+This again could be des- 
+
+Throwing (1), above, into standard form, we have the statement: 
+
+1. For any x, if x is a politician then x conceals his real motives.
+
+Substituting "If x is a politician then x conceals his real motives" for "f" and (2) for "f₂" in Q32, exhibits (1) and (2) respectively as corresponding instances of the antecedent and consequent of a valid conditional statement-form, hence, (1) implies (2). 
+
+Throwing (4) into standard form, we have the statement: 4.
+
+There is an x such that, x is a train and x covers the distance between Boston and New York in less than five hours.
+
+Substituting (3) for "fz" and "x is a train and x covers the distance between Boston and New York in less than five hours" for "f" in Q33, exhibits (3) and (4) respectively as corresponding instances of the antecedent and consequent of a valid conditional statement-form, hence (3) implies (4). 
+
+Note that the "x" in the antecedent of Q32 is eliminated as a result of substitution since it is a bound variable, while the "z" in the consequent is free and gives way to a name. On the other hand, the predicate variable "f" is duplicated in both antecedent and consequent, hence the expressions replacing "fx" and "fz" will differ only in respect to bound variables and names. In this connection, recall what has already been said concerning the identification of predicates; loosely speaking, two statements contain the same predicate if they "say the same thing about" two sets of objects. In quantified statements, these objects are not named but designated by bound variables which perform the function of pronouns in ordinary English. 1 For
+
+A very common use for Q33 consists in establishing the inconsistency of a singular and a universally quantified statement. example, (1) below implies (2), and by Q36d (2) implies (3): 1. 
+
+We can say more exactly that two or more statements contain the same predicate if they differ only in respect to names or variables plus the associated symbol of quantification. Note, however, that the order in which these occur is important. Thus the same predicate may be said to be duplicated in statements (1) - (3) below, but not in (4): 1. 2. 
+
+Robinson knows Smith and Smith dislikes Robinson. 
+
+Jones knows Smith and Smith dislikes Jones. 
+
+There is an x such that x knows Smith and Smith dislikes x. 4.
+
+There is an x such that Smith knows x and Smith dislikes x, 3.
+
+1. The British Prime Minister is a politician and does not conceal his real motives. 
+
+2. Some politicians do not conceal their real motives. 3. 
+
+It is not the case that all politicians conceal their real motives. 
+
+This last is the negation of: 4. 
+
+All politicians conceal their real motives. 
+
+Hence (1) and (4) are inconsistent. 1 The deduction of a singular conclusion from a pair of premises, one of which is singular and one universal, can be telescoped into one step without risk of confusion. Thus from the premises: 
+
+All spies are extremely clever. 
+
+Your stenographer is not extremely clever. it is possible to draw the conclusion: 
+
+Your stenographer is not a spy. by successively using the specification principle and modus tollens. 
+
+This can be introduced in a proof as one step with the annotation: Spec. M.T. 1. 
+
+It would of course be necessary to translate these statements into standard form if substitutions were to be indicated. In working proofs, abbreviations are ordinarily used so this difficulty need not arise.
+
+22. THE RULE OF INTERCHANGE FOR QUANTIFIED EXPRESSIONS; MODEL FOR THE ANNOTATION OF PROOFS. It is possible to use a rule of inter change for quantified expressions analogous to that already introduced in connection with molecular statements and statement-forms. This may be formulated as follows: If one quantified statement (or statementform) can be obtained from another by interchanging equivalent expressions, the two are mutually equivalent. Although the explanation of the theoretical basis of this rule presents complications, its application in any particular case is simple enough. For example, consider the statements: 
+
+Any airship carries helium or hydrogen. 
+
+Any airship which does not carry helium carries hydrogen. 11 "E" 
+
+By introducing the abbreviation "Ax for "x is an airship", for "x carries helium" and "H" for "x carries hydrogen", the first may be written in standard form as follows: 1. 
+
+(x) (Ax Ɔ(Ex v Hx)) 
+
+Now the statement-forms:
+
+Ex v Hx -ExHx may be shown to be equivalent by reference to V2 and according to the rule just mentioned they may be exchanged in the consequent of (1) to give an equivalent statement: 2. (x) (A (EH)) (Ax >
+
+Again, the statement-forms:
+
+A₂ (-Ex H) 
+
+(Ax.-Ex)Ɔ Hx may be shown to be equivalent by reference to V12. Exchanging one for the other in (2) therefore gives an equivalent statement: 3. (x) ((Ax.-Ex) Hµ) 
+
+Translated into idiomatic English, (3) is identical with the second of the above mentioned pair. The series of statements, 1-2-3, may be regarded as a proof of (3) with (1) as a premise. The steps are very simple and the only point which requires attention is the character of the interchanges which involve an exchange of statement-forms rather than statements.
+
+The formulae listed as Q21 and Q31 together with the rule of interchange are sufficient to cover all transitions which would be described as syllogisms in classical logic. These were written: Q21 Q31 (x) ((fx) 8x). (Exhx))>(fx hy) g. 1 .h (x) ((f¸³ 8¸). (ax) (f¸•h¸_)) > (3x) (g¸•h¸) 
+
+The premises from which such inferences can proceed will consist either of a pair of universally quantified conditionals or of a 1. This refers to the syllogism in its restricted form, excluding the so-called disjunctive and hypothetical syllogism. The rule of interchange also covers many of the so-called "Immediate inferences". 
+
+See Chapter VII.
+
+universally quantified conditional together with a particularly quantified conjunction. 
+
+The rule of interchange makes it possible to transpose (or commute) the individual constituents of these statements so that they present the same formal pattern as the statement-forms appearing in the antecedent of Q21 or Q31. Suppose, for example, we have the premises:
+
+Those who are not prejudiced by Smith like Jones. 
+
+Some intelligent people do not like Jones. and wish to draw the conclusion:
+
+Some who are prejudiced by Smith are intelligent people. 11 
+
+Introducing abbreviations ("Px" for "L" for "x like Jones and "I. Χ 11 for "x is prejudiced by Smith" "x is an intelligent person") and setting up the premises in standard form, we have: 
+
+1. (x) (-PxLx) 
+
+2. (3x) (Ix.-Lx) Premise Premise
+
+Interchanging in (1) by the principle of transposition and in (2) by the commutative law gives (3) and (4) below. (The substitutions are written down to provide a model for complete annotations in a proof containing quantified expressions.) 3. (x) (-L¸) P¸) 
+
+Int. -LxPx in (1), -1x ; Lx 
+
+From (1) v1 (D.N.)
+
+From (2) 4. (3x) (-Lx• Ix) Int. -L¸.Ix in (2), Ix.-L 1x ; - 1 x V4 (5) which is the required conclusion below can be shown to follow from (3) and (4) by substitution in Q31: 
+
+5. (x) (Px.Ix) -Lx ; Px ; Q31 q. From (3) & (4)
+
+23. LOGICAL RELATIONS BETWEEN UNIVERSALLY AND PARTICULARLY QUANTIFIED EXPRESSIONS; DISTRIBUTION OF THE QUANTIFICATION SYMBOLS. 
+
+A universally quantified statement can be translated into one which 1 is particularly quantified by reference to the formulae:
+
+Q35a -(x)fx = (xx)-fx Q356 -(ax)f(x)-fx Q35c (x)f=-(x)-f¸ Q35d (Ex)f=-(x)-fx Transitions which depend on these formulae represent a duality principle which can be described as follows: The result of changing a universal to a particular quantification symbol (or vice versa) and altering the signs which precede and follow it is an equivalent expression. This will be referred to as the quantified duality principle. (For annotations, abbreviate: 2 "Q-Dual.") 1. 2. 
+
+These formulae are paired in order to avoid trivial complications in regard to substitution. Allowing for the elimination of double negatives, all equivalences between universally and particularly quantified expressions can be confirmed by direct substitution. 
+
+This would not have been possible if: (x)f₁₂ = -(x)-fx had been used as the only reference formula.
+
+11 for "v" Recall that a duality principle permits the exchange of two symbols together with an alteration of signs, e.g. with all signs reversed as in V6b.
+
+Since universally quantified statements are, as a rule, con- 1 ditionals and particularly quantified statements usually take the form of conjunctions, the application of these formulae is likely to require an interchange. 
+
+Suppose we start with the premise:
+
+It is not the case that all antelopes have horns. which can be abbreviated and put in standard form as: 
+
+By Q35a this implies: 
+
+−(x) (A¸Ɔ H¸) (x)-(AH) Interchanging according to the molecular duality principle (V7a) gives: 
+
+(Ex) (A-H) 
+
+which can be translated into the idiomatic statement: 
+
+Some antelopes do not have horns.
+
+The most common transitions between statements beginning with the words "all" and "some" are covered directly by the following 1. 
+
+It is difficult to find simple predicates which are associated with any object without restriction.
+
+group of formulae and the reader may find it more convenient to refer to these instead of going through intermediate steps of the kind just described:
+
+Q36a (x) (fx 8x)=-(x) (fx • -8x) 2366 (Ex)(x+8)=(x) (f) -8x) (f Q36c Q36d g. (x)(g)=(3x) (fx •Ex) (Ex) (fx-8)=(x) (fx) 8x) 1 Because these formulae cover most of the inference permitted (see Chapter VII) they will by the classical "square of opposition" (s (For annobe referred to as exemplifying principles of opposition. tations, abbreviate this as "Opp.") It is a good practice to make a few substitutions in this group of formulae and get familiar with characteristic instances. (Refer to section 19 in order to recognise the possible idiomatic variations on the standard logical formulations.) 2 When an expression is altered by introducing two quantification symbols with relatively restricted scope in place of one which covered it completely, its quantification will be said to have been distributed. A step of this kind sometimes yields an equivalent 
+
+1. Classical logic permits an inference from: to: 
+
+All antelopes have horns 
+
+Some antelopes have horns which is not possible according to the analysis introduced in this chapter. 
+
+2. Statement or statement-form.
+
+expression and sometimes an expression which follows from the original. 
+
+The most important transformations are covered by the following formulae which will be referred to as exemplifying laws permitting a quantification symbol to be distributed. (Abbreviate: "Distr. -Q") Q41 (x)(x+8)=((x)fx• (x)8x) 
+
+Q42 (Ex)(x+8)) ((x)x+(x)8x) •8x) Q43 (x) (fx) 8x)) ((x)fx ) (x)8x) g. Q44 (x) (fx v 8x)= ((x)fx v (x) 8x) The application of Q41 or Q42 to obtain a conjunction, one member of which is then dropped, will be referred to as exemplifying the quantified form of the principle of simplification. viate: "Q-Simp.") In this way it is possible to deduce: 
+
+Someone likes Smith 
+
+(Abbre from: 
+
+Someone knows Smith and likes him. 11 
+
+Suppose we
+
+As a rule, the application of Q43 involves an interchange according to the distributive law for "" and have as a premise: 
+
+Everyone in the class dislikes logic and is unwilling to study it. 
+
+which (putting "Cx" for "x is in the class", 11 likes logic" and "U for
+
+set up in standard form as: "D" for "x dis- "x is unwilling to study logic") can be
+
+1. (x) (C_) (D_.U_)) X X 
+
+Interchanging in (1) by the distributive law (V15) gives: 2. (x) ( (C_ ) D_).(C_) U_)) Distributing the quantification and simplifying gives: 3. (x) (C_ > U_) X X which (dropping abbreviations) can be read: 
+
+Everyone in the class is unwilling to study logic.
+
+This is a very common type of transition and the intermediate steps could be telescoped without risk of confusion in which case (3) could be renumbered as (2) with the following annotation: 2. (x) (Cx > U x) From (1) Distr.; Q-Simp. 
+
+The important applications of Q43 only appear in proofs for the derivation of statement-forms; (these will be explained in connection with the discussion of logic as an independent system), but it could be used in working from the premise: 
+
+All those who take physics or chemistry also take mathematics if they are interested in their work to the conclusion:
+
+If all who do not take physics take chemistry, then all who are interested in their work take mathematics.
+
+The steps are quite easy to follow although they could not be very conveniently telescoped. Suppose that "Px abbreviation for "x takes physics", "M" for "x takes mathematics" and
+
+11 is introduced as an "C for "x takes chemistry", for "x is interested in "I X. 11 his work". The premise, in standard form, is:
+
+1. (x) ((P v c)) (IM) VC)
+
+Interchanging in the antecedent of (1) to transform an alternation into a conditional gives: 2. (x)((-PxCx) ) ( I ) M₂ ) ) The quantification can then be distributed to give the required conclusion: 
+
+3. (x)(-PxCx) (x) (IxMx) 
+
+The application of Q44 is too simple to require special comment. 
+
+It establishes the equivalence of a pair such as: 
+
+Someone hates Jones or Smith. 
+
+Someone hates Jones or someone hates Smith.
+
+EXERCISES ON CHAPTER IV 
+
+These exercises are to be handled in a way similar to those of Chapters I and III. The earlier numbers are covered by the methods of classical logic and will be referred to again in connection with the work of Chapter VII. In the problems requiring a decision as consistency, each statement is separately numbered. Remember that small letters are always used to abbreviate proper names and descriptions. to 1. (Abbreviate: L, 0, U, F)
+
+Every living organism requires oxygen. 
+
+Nothing which requires oxygen lives under water. 
+
+Fishes live under water. 
+
+Fishes are not living organisms. 2. 
+
+(Abbreviate: 
+
+3. 4. 
+
+S, C, T, H)
+
+All who solved the problem were clever people. 
+
+Some clever people did not try the problem. 
+
+Some who tried the problem did not solve it. 
+
+Some who did not solve the problem were hard working people. 
+
+Some hard working people were not clever. 
+
+(Abbreviate: 
+
+T, 0, B)
+
+If anyone has risen to the top of his profession then his opinion ought to be respected.
+
+Bank clerks have not risen to the top of their profession. 
+
+If anyone is a bank clerk then his opinion ought not to be respected. (Abbreviate: F, U, b) 
+
+If anyone is really a fool he is unwilling to admit he is wrong.
+
+Mr. B is not unwilling to admit he is wrong. 
+
+Mr. B is not really a fool.
+
+5. (Abbreviate: E, G, M) 
+
+Elephants have a good memory. 
+
+No morons have a good memory. 
+
+No morons are elephants. 6. (Abbreviate: 
+
+R, D, U) 7. 8. 9.
+
+Some who read the article disagreed with it. 
+
+All who read it understood it. 
+
+Some who understood it disagreed with it. (Abbreviate S, P, F) 
+
+No slow steamer is a popular vessel.
+
+No unpopular vessel carries a full quota of passengers. 
+
+No slow steamer carries a full quota of passengers. (Abbreviate: E, D, L) 
+
+Anything containing explosives is dangerous. 
+
+Some loaded guns are dangerous.
+
+Some loaded guns contain explosives. (Abbreviate: C, R, H) 
+
+Some cigarettes are recommended by physicians. 
+
+All cigarettes are harmful. 
+
+Some physicians recommend harmful things. 
+
+10. (Abbreviate: 11. 
+
+G, W, E) 
+
+Some good athletes withdrew from the competition.
+
+Some who entered the competition did not withdraw. 
+
+Some good athletes entered the competition. (Abbreviate: P, M, I) 
+
+Any proof reader is a master of English prose.
+
+Anyone who is a master of English prose can influence a large number of people.
+
+All proof readers can influence a large number of people.
+
+137. 
+
+12. (Abbreviate: 
+
+13. 14. 15. 16. 17. 
+
+A, I, S)
+
+All those who attended the game were inclined to leave before it was over.
+
+Some who were inclined to leave before the game was over stayed until the last innings.
+
+Some who attended the game stayed until the last innings, 
+
+(Abbreviate: 
+
+B, R, I)
+
+Some people who are bankrupt refuse to loan money to their friends,
+
+Some people who are bankrupt are influential. 
+
+Some who refuse to loan money to their friends are influential. 
+
+(Abbreviate: 
+
+B, A, e)
+
+If a newspaper fails to run a column by Mr. B. then it is not one of those published by Mr. A. 
+
+The Evening Standard is a newspaper published by Mr. A. 
+
+The Evening Standard runs a column by Mr. B. 
+
+(Abbreviate: M, I, A, N)
+
+Some modern verse is interesting. 
+
+Everything interesting has aesthetic value.
+
+Nothing which has aesthetic value is nonsense. 
+
+Some modern verse is not nonsense. (Abbreviate: J, K, I) 
+
+No jailers are kind hearted.
+
+All kind hearted individuals are easily influenced. 
+
+No jailers are easily influenced. 
+
+(Abbreviate: 
+
+t, R, A, C)
+
+If Mr. A's tea kettle was recommended by Mr. B. then it is made of aluminum. 
+
+Anything made of aluminum is unlikely to corrode.
+
+If Mr. A's tea kettle was recommended by Mr. B. then it is unlikely to corrode.
+
+YO
+
+18. (Abbreviate: P, S, W, B) 19.
+
+Some of the company's products sell rapidly. 
+
+Some objects which sell rapidly are well constructed. 
+
+Any object which is worth buying is well constructed. 
+
+Some of the company's products are not well constructed. 
+
+Some of the company's products are not worth buying. (Abbreviate: 
+
+A, P, L, W)
+
+Any American citizen who does not have a passport is not allowed to leave.
+
+Those who are not American citizens and do not have passports do not want to leave.
+
+Those who are not allowed to leave do not want to leave. 
+
+20. (Abbreviate: 21. 22. 23. 
+
+G, D, H, U)
+
+All gases denser than hydrogen are unsuitable for dirigibles. 
+
+There are some gases which are denser than hydrogen and which are unsuitable for dirigibles. (Abbreviate: 
+
+C, I) 
+
+All cheshire cats are illusive. 
+
+Some cheshire cats are illusive. (Abbreviate: 
+
+I, R)
+
+It is not true that some of those who are interested in good government are willing to run for public office. 
+
+No one who is interested in good government will run for public office. (Abbreviate: S, C, D)
+
+All successful communist states are democracies. 
+
+There is at least one communist state which is both successful and a democracy.
+
+24. (Abbreviate: T, H, N) 25.
+
+Either all tribes in the vicinity were hostile or the leader of the expedition was not a good negotiator. 
+
+Some tribes in the vicinity were not hostile. 
+
+The leader of the expedition was not a good negotiator. (Abbreviate: S, A, N)
+
+If every ship passing north of the Azores on Tuesday was armed, then some neutral vessels are armed. 
+
+No neutral vessels are armed.
+
+Some ships passing north of the Azores on Tuesday were not armed. 26. 27. 23. (Abbreviate: I, F, C)
+
+If all information about the candidate is favorable, then he is certain to be accepted. 
+
+Some information about the candidate is not favorable. 
+
+The candidate is not certain to be accepted. 
+
+(Abbreviate: 
+
+C, N, a, D, B, I)
+
+No car which crossed the bridge between noon and one fifteen was a new model.
+
+A's car was left in a down-town parking space during the morning.
+
+Every car which is stored regularly in B's garage is a new model.
+
+A's car is stored regularly in B's garage. 
+
+Every car investigated by the police was left in a downtown parking space during the morning.
+
+Some cars which crossed the bridge between noon and one fifteen were not investigated by the police. (Abbreviate: e,T, P, F, D)
+
+The man who is elected will either support the Townsend plan or advocate public ownership of the utilities. 
+
+Anyone who supports the Townsend plan is a fool in the opinion of most liberals.
+
+Anyone who advocates public ownership of the utilities is dangerous in the opinion of most conservatives. 
+
+If the man who is elected is not a fool in the opinion of most liberals then he will be dangerous in the opinion of most conservatives.
+
+29.. (Abbreviate: 
+
+S, M, C, U, A)
+
+If anyone is a statistician he has received a reasonably good training in mathematics or classics. 
+
+Anyone who has received a reasonably good training in classics or who has attended a first rate university is an amusing companion.
+
+All statisticians who have received a reasonably good training in mathematics are amusing companions. 
+
+30. (Abbreviate: 
+
+0, A, D, G, H)
+
+Objects of art recommended by either A or D are good buys. 
+
+Nothing recommended by D is a good buy unless it is high priced.
+
+All objects of art recommended by D are high priced. 
+
+31. (Abbreviate: 
+
+M, A, S, E)
+
+Motors which require alternating current are not suitable for driving street cars.
+
+The equipment offered by the company consists of motors which do not require alternating current. 
+
+The equipment offered by the company is suitable for driving street cars. 32. (Abbreviate: 
+
+A, P, R, F, A) 33.
+
+Articles on political subjects were either rejected or put aside for further consideration.
+
+Nothing favorable to the party in power was put aside for further consideration.
+
+Every article favorable to the party in power was rejected. (Abbreviate: 
+
+S, F, U O, M) ,
+
+If anyone who is a senior failed the exam then he is either unintelligent or he spent his time on other courses. 
+
+None who specialise in mathematics spent their time on other courses.
+
+Any senior who specialises in mathematics is unintelligent.
+
+34. (Abbreviate S, W, N, V, C, B, A)
+
+Ships which are safe for travel in war time are either neutral vessels which do not carry contraband or belligerent vessels which are adequately convoyed. 
+
+If all neutral vessels carry contraband then only belligerent vessels which are adequately convoyed are safe for travel in war time. 35. (Abbreviate: 
+
+A, S, L, D, C, M)
+
+Any apartment which would satisfy A is either located near his office or admits dogs while excluding children. 
+
+Apartments south of Main Street are among those which would satisfy A but they do not admit dogs. 
+
+Apartments south of Main Street are located near A's office. 
+
+36. (Abbreviate: 37. 
+
+L, A, B, S)
+
+Any law opposed by senator A is a sound one or it is opposed by representative B.
+
+There is no law which is opposed by senator A but not by representative B, and which is also a sound one. (Abbreviate: B, S, E, D)
+
+Any building materials which can easily be shipped to the spot are expensive and difficult to obtain. 
+
+There are no building materials which can easily be shipped to the spot and which are not expensive and also difficult to obtain. 
+
+38. (Abbreviate: 
+
+N, U, M, P)
+
+Either some whose names appear in the Middletown social register are unscrupulous or some whose names appear there are misrepresented.
+
+All whose names appear in the Middletown social register are socially prominent.
+
+Some individuals who are either unscrupulous or misrepresented are socially prominent.
+
+39. (Abbreviate: E, A, R, P, V) 40. 41. 42.
+
+All those who are eligible for group insurance and who have applied for it have received their medical examination and paid their first premium.
+
+None of those who were unable to pay for group insurance applied for it.
+
+All those who are eligible for group insurance and who have received their medical examination applied for it. (This problem concerns the somewhat peculiar social situation in Middletown. Abbreviate: B, F, A, T, I, C, P, L, e).
+
+A blackmailer who is at the same time an expert forger is never apprehended by the police. 
+
+Thieves who have political influence are invariably apprehended by the police but never convicted. 
+
+Poor men who steal loaves of bread are never convicted even if they are apprehended. 
+
+Every expert forger is a thief.
+
+All those who do not have political influence are poor men. 
+
+The town's most prominent lawyer is a blackmailer and at the same time an expert forger.
+
+The towns most prominent lawyer is a poor man. (Abbreviate: D, L, A, H)
+
+There is not a single member of the Drones Club who is less than seventy or who is able to form a new opinion on any subject. 
+
+Every honest citizen of Middletown is a member of the Drones Club.
+
+If anyone is not able to form a new opinion on any subject, then he stays out of politics. 
+
+Some honest citizens of Middletown stay out of politics. 
+
+(Abbreviate: 
+
+M, J, W, D)
+
+All men who have no jobs are worthless individuals who deserve no considerations.
+
+If all worthless individuals deserve consideration, then all men have jobs.
+
+Problems 43 to 45 require one or more simple formulae not included in the Q-list. These should be supplied by the student. 43. 44. 45. (Abbreviate: B, C, A)
+
+Every friend of B is also a friend of C. 
+
+No friend of A is a friend of C. 
+
+No friends of both B and C are friends of A. 
+
+(Abbreviate: 
+
+E, R, D, C, K)
+
+Everyone on the editorial staff who read the book disliked it. 
+
+Everyone who read the book was a competent critic. 
+
+Everyone who knew the author read the book.
+
+Everyone on the editorial staff who knew the author was a competent critic who disliked the book.
+
+Given the following premises (abbreviate y M, I, P, F, R, C, x, S, G, Z, U, A): 
+
+1. Colonel Y who is a member of the secret police is required to interview all prisoners who speak French but not Russian and are members of the Communist Party. 
+
+2. Major X who is also a member of the secret police is required to interview all prisoners who are identified as spies and speak French but not German. 
+
+3. Mr. Z, who is a university professor called in to assist the investigation, is required to interview all prisoners who do not speak any language with which Major X and 
+
+Colonel Y are acquainted.
+
+The problem is to determine which prisoners both Major X and Colonel Y are required to interview. 
+
+(Abbreviate: 
+
+M, P, C, A) 
+
+All mediaevalists are familiar with Plato. 
+
+All classicista are familiar with Aquinas. 
+
+All mediaevalists who are not familiar with
+
+Aquinas are classicists who are not familiar with Plato. 
+
+46. (Abbreviate: E, I, 0, C, F) 1) All those who are well educated or well informed are opposed to the measure if they are not cranks. 
+
+If anyone is a crank he is not a friend of the speaker.
+
+Some of the speaker's well educated friends are not opposed to the measure.
+
+47. (Abbreviate: A, S, P, b, E). 
+
+1) Nothing supported by Representative A is sound and practical.
+
+Representative B's plan is supported by Representative A. 
+
+Anything backed up by Senator E is sound. 
+
+Representative B's plan is backed up by Senator C.
+
+Representative B's plan is sound but not practical. 
+
+(Abbreviate: 
+
+48. 1) 23+ LO 
+
+S, E, P, j, F)
+
+No one in the sixth form entered the Greyminster game and played well in it. 
+
+Jones is in the sixth form. 
+
+Everyone favored by the coach entered the Greyminster game.
+
+Jones was one of those favored by the coach. 
+
+Jones entered the Greyminster game but did not play well in it. 
+
+49. (Abbreviate: 50. 51. 
+
+A, P, J, H, W) 
+
+1) If some who applied were familiar with the work of Mr. 
+
+Ezra Pound and Mr. James Joyce then everyone who applied expected that the job demanded a high school education. 
+
+Some who applied could not write grammatical English and did not expect that the job required a high school education. 2) 3)
+
+Some who applied were familiar with the work of Mr. James Joyce. 
+
+(Abbreviate: 
+
+1) 2) 3) 
+
+D, P, C, W, M)
+
+Some dealers buy directly from the producer and sell directly to the consumer. 
+
+If all who buy from wholesalers sell to middlemen then none who buy directly from the producer sell directly to the consumer. 
+
+All who buy from wholesalers sell to middlemen. 
+
+(Abbreviate: 
+
+1) 2) 
+
+C, D, U, V, a)
+
+If anyone owns a car and has a driver's license he can be useful to the party on election day.
+
+None who vote against the party can be useful to the party on election day.
+
+Mr. A. owns a car and votes against the party. 
+
+Mr. A. has a driver's license.
+
+52. (Abbreviate: H, W, P, B, A, G) 
+
+1) Houses are well constructed and carefully planned if and only if they are put up by private builders. 2) Houses are well constructed, carefully planned, and available to low income groups if and only if they are put up by a government agency.
+
+Appendix To Part I Complete list of reference formulae introduced in Chapters I-IV. 
+
+The abbreviation designating the logical principle exemplified by each formula appears at the left. Trans.
+
+V1 (pƆq) = (-gƆ -p) Cond-Alt. V2 (pq) = (-p v q) Com.
+
+V3 (p v q) = (q v p) 
+
+V4 (p.q) = (q.p) 11 V5 (p=q) = (q=p) Dual.
+
+V6a -(p.q) = (-p v -q) 11 Vбb -(p v q) = (-p.-q) 
+
+V7a -(pg) -(pƆq) = (p.-q) fi V7b (p Ɔq) = -(p.-q) Assoc.
+
+V8 11 V9 (p v (q v r)) = ((p v q) v r) (p.(q.r)) = ((p.q).r) Bicon.
+
+V10 (p =q) = ((pƆq).(qƆp)) Id.
+
+V11 Exp. Distr. 11 
+
+V12 p= --p= p= (p v p) = (p.p) ((p.q)r) = (pƆ (q) r)) V13 (pv V14 V15 (p v (q.r)) = ((p v = ((p v q). (p v r)) (p.(q v r)) = ((p.q) v (p.r)) (p) (q.r)) = ((pƆq). (pr)) V16 ((p v q)Ɔr) = ((pƆq).(pƆr)) ((pƆg).(qƆr))) (p¸r) (p.(pƆq))>q Syl.
+
+V21 M.P. V22 M.T.
+
+V23 (pƆ (-q.(pq))-p Alt.
+
+V24a (-p.(p v q)) g V24b (-q. (p v q))> p Simp.
+
+V25a (p.g) OP V25b (p.q) q
+
+Taut.
+
+V26a p v -p Fac. V26b 11 V26c Dilem. V27 V28 V29 
+
+Q-Syl. 
+
+17 Spec. Partic.
+
+Q-Dual 11 11 11 Opp. 
+
+17 11 Distr. Q. 11 11 Q21 Q31 032 p Op -(p.-p) (((pg).(r)s)).(p v q)ɔ (q v s) (p Ɔq) ((p.r) )(q.r)) (pq) (p (p.q)) ((x) (fxgx). (x) (8x) h¸)) ) (x) (fx) hx) ((x) (fx 8x). Ex) (fx.hy))) (x) (x.ly) (x)fxfz Q33 f (x)fx Q35a -(x)f¸= (x)-fx Q35b -(x)fx= (x)-fx Q35c (x)f=-x)-fx 035d (Ex)f(x)-fx 
+
+Q36a (x)(fx)¯x) = − ( x) (fx•−8x) Q36b (Ex) (fx•Ex)=-(x) (fx) −8x) Q36c (x) (fx)-8x) = (x) (fx•Ex) Q36c (3x)(fx•-Ex) = -(x) (fx Ɔgx) Q41 (x)(fx.gx)= ((x)fx.(x)gx) Q42 (x)(fx 8x)) ((x)fx• (1x)gx) Q43 (x)(fx 8x) ((x)fx (x)x) Q44 (1x) (fx v 8x) = ((x)fx v (Ex) 6x)

@@ -1,0 +1,4049 @@
+HDI HW 2QQT P
+
+KE 38167 
+
+THIS BOOK IS A PART OF THE LIBRARY OF = HOLLIS FRENCH THE TRVE VNIVERSITY IS A COLLECTION OF BOOKS. CARLYLE
+
+рец
+
+DIFFERENTIAL EQUATIONS
+
+WORKS OF H. B. PHILLIPS, PH.D. 
+
+PUBLISHED BY JOHN WILEY & SONS, INC. 
+
+Vector Analysis. 
+
+viii+236 pages. 5 X 8. Illustrated. Cloth.
+
+Calculus. 
+
+v +353 pages. 
+
+51 X 7). Illustrated. Cloth. v+125 pages. 
+
+Differential Equations. Third Edition, Rewritten. 
+
+5 X 8.! Illustrated. Cloth. 
+
+Analytic Geometry. vii+ 197 pages. 51 X 71. Illustrated. Cloth.
+
+DIFFERENTIAL EQUATIONS BY H. B. PHILLIPS, PH.D. 
+
+Head of the Mathematics Department Massachusetts Institute of Technology THIRD EDITION 
+
+Tenth Printing
+
+NEW YORK JOHN WILEY & SONS, INC. 
+
+LONDON: CHAPMAN & HALL, LIMITED
+
+KE 38167 
+
+HARVARD UNIVERSITY 
+
+DASM FC 1971 
+
+COPYRIGHT, 1922, 1925, 1934 BY HENRY B. PHILLIPS All Rights Reserved 
+
+This book or any part thereof must not be reproduced in any form without the written permission of the publisher. 
+
+THIRD EDITION 
+
+Tenth Printing, September, 1946
+
+Printed in U. S. A.
+
+PREFACE TO THIRD EDITION 
+
+In this edition the text has been carefully revised to embody changes suggested by teaching experience, a few new sections have been added, and the problem lists have been further expanded so that ample material may be available to permit selection for individual needs or to vary the course from year to year. 
+
+For many of these problems I am indebted to my colleagues, particularly Professors W. K. Lewis, T. B. Drew, and Norbert
+
+Wiener. 
+
+CAMBRIDGE, MASS., 
+
+March, 1984.
+
+H. B. PHILLIPS. 
+
+PREFACE TO FIRST EDITION 
+
+With the formal exercise in solving the types of ordinary differential equations that usually occur it is the object of this text to combine a thorough drill in the solution of problems in which the student sets up and integrates his own differential equation. For this purpose certain topics in mechanics and physics needed in groups of problems are briefly presented in the text.
+
+The problems have been collected from a variety of sources among which the author wishes particularly to mention the Advanced Calculus of Professor E. B. Wilson and the notes on 
+
+Mathematics for Chemists prepared by Professors W. K. Lewis and F. L. Hitchcock.
+
+CAMBRIDGE, MASS., 
+
+Feb. 15, 1922.
+
+H. B. PHILLIPS. 
+
+iii
+
+CONTENTS CHAPTER I DIFFERENTIAL EQUATIONS OF THE FIRST ORDER WITH ARTICLE 1. Definitions . 
+
+VARIABLES SEPARABLE 2. Solutions of a Differential Equation 3. Separation of the Variables 4. Different Forms of Solution 
+
+5. Geometrical Problems 
+
+6. Determination of Constants 
+
+7. Equations Containing Integrals 8. Physical Problems 9. Rate of Change. 
+
+10. Integration between Limits 
+
+11. Equation of Continuity 
+
+12. Flow of Water from an Orifice 
+
+13. Flow of Heat or Electricity. Diffusion 
+
+14. Second Order Processes 15. Differential Relations 
+
+PAGE 
+
+1 2 10 12 15 16 17 19 21 25 2228 
+
+CHAPTER II  16. Exact Differential Equations . 
+
+17. Integrating Factors 18. Linear Equations 19. Equations Reducible to Linear Form 20. Homogeneous Equations 21. Equations Reducible to Homogeneous 22. Equations of Higher Degree 
+
+23. Geometrical Representation 
+
+24. Change of Variable. 
+
+25. Simultaneous Equations
+
+CHAPTER III  27. Equations Immediately Integrable 
+
+26. General Theory. 
+
+28. Equations Not Containing y 
+
+29. Equations Not Containing x 30. Linear Equations of the Second Order 
+
+34 37 38 42 44 46 49 58 55 56 62 %% có có 63 63 64 65
+
+vi 
+
+CONTENTS ARTICLE 31. Homogeneous Equations. 
+
+32. Deflection of Beams. 
+
+33. Equilibrium of a Cable. 
+
+34. Motion of a Particle along a Straight Line 
+
+35. Motion in a Plane 
+
+36. Motion of a Complex System 
+
+37. Systems with Variable Mass
+
+PAGE 
+
+67 69 73 75 . 77 82 83 
+
+CHAPTER IV LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+38. Equations of the nth Order 
+
+39. Linear Equations with Constant Coefficients 
+
+40. Equation with Right-Hand Member Zero 41. Imaginary Roots 
+
+42. Equation with Right-Hand Member of a Function of x 
+
+43. Method of Undetermined Coefficients 
+
+44. Symbolic Methods 
+
+45. Variation of Parameters 
+
+46. Homogeneous Linear Equations 
+
+47. Simultaneous Linear Equations 
+
+48. Rotation about a Fixed Axis 
+
+49. Vibrating Systems 88 88 90 92 95 97 101 103 105 106 108 109
+
+DIFFERENTIAL EQUATIONS CHAPTER I DIFFERENTIAL EQUATIONS OF THE FIRST ORDER WITH VARIABLES SEPARABLE 
+
+1. Definitions. In many investigations it is easier to find relations between the changes of variables than between the variables themselves. Such relations are expressed by equations containing differentials or derivatives, and these are called differential equations. Thus and (x² + y²)dx + 2xy dy = 0 are differential equations.
+
+dzy 
+
+dy dx2 dx 2 (1) (2) If an equation contains only total differentials or derivatives it is called an ordinary differential equation. The equations given above are illustrations of this type. If an equation contains any partial derivatives it is called a partial differential equation. Thus 122 a2z მე2 Əy² is a partial differential equation.
+
+(3) If a differential equation contains only first differentials or derivatives it is said to be of the first order. More generally, the order of a differential equation is the order of the highest derivative occurring in it. Thus (1) is an equation of the first order, (2) and (3) of the second order.
+
+In this book we shall consider only ordinary differential equations. In each problem the various quantities will be functions of a single independent variable, and so partial derivatives do not occur. In a problem of motion, for example, the 1
+
+VARIABLES SEPARABLE 
+
+variables are all functions of the time, and the problem is solved by finding those variables in terms of the time. 
+
+2. Solutions of a Differential Equation. A solution of a differential equation is an equation such that if the variables satisfy it, they and their differentials or derivatives satisfy the differential equation. Thus, if c is constant, x² 
+
+xy = c is a solution of the equation (2x 
+
+y)dx - x dy = 0, (4) (5) for by differentiating (4) we obtain (5). If then x and y vary in such a way as to satisfy (4), they and their differentials 
+
+FIG. 1 
+
+satisfy (5). Since the constant c can have any value whatever, the differential equation has an infinite number of solutions. 
+
+Plotting x, y as the rectangular coördinates of a point in the plane, each solution is represented by a curve. Thus curves representing solutions of (5) are shown in Fig. 1. There are an infinite number of such curves. In this case one curve passes
+
+SEPARATION OF THE VARIABLES 
+
+3 through each point of the plane. In more complicated cases there may be several curves through the same point. 
+
+In solving a differential equation of the first order in two variables we shall always reduce it to the form du = 0, where u is a known function of the variables. Thus in the above example if we find u = x² 
+
+xy du 
+
+(2x − y)dx 
+
+x dy.
+
+With this value of u, equation (5) is thus equivalent to du = 0. 
+
+If c is any constant it is shown by differentiation that u = c is a solution of du 0. 
+
+To see that every solution of this equation is represented by suppose u = c, f(x, y) (6) (7) is such a solution. This solution is represented by a curve. 
+
+On that curve u is a function of a single variable, for example, the distance along the curve. It is shown in calculus that the only function of a single variable with differential equal to zero is a constant. Hence u is constant along the curve. That is, all values of x, y satisfying the equation (7) also satisfy an equation of the form (6). In that sense u = c is the general solution of the equation du = 0.
+
+We thus solve a differential equation by integrating a differential. For that reason a solution is often called an integral of the differential equation, and the curves representing solutions are called integral curves. 
+
+3. Separation of the Variables. If a differential equation has the form f1(x)dx +f2(y)dy = 0, one term containing x and dx only, the other y and dy, the variables are said to be separated. Each term is an exact
+
+VARIABLES SEPARABLE 
+
+differential, and the whole equation has the form du u = ffi(x)dz +ffi(w)dy. 
+
+The solution is consequently, u = c, or Sfi(x)dz + Sfi(v)dy where c is an arbitrary constant. = C, 0, where
+
+Since the integration formulas contain only a single variable, if the variables are not separated we cannot solve the equation in this simple way. Thus, if x dy + (1 y)dx = 0, 
+
+(8) since x dy cannot be integrated, we cannot obtain a solution by direct integration. By division we can, however, reduce this equation to the form dy dx = 0 1 
+
+น x in which the variables are separated.
+
+The solution is then 
+
+In (1 − y) + ln x 
+
+= C, where In represents the logarithm to the base e. 
+
+When the variables can thus be separated, the differential equation is called separable. An equation of the form M dx + N dy = 0 is separable when each of the coefficients M, N is a function of only one variable or the product of factors each containing a single variable. 
+
+4. Different Forms of Solution. 
+
+can be written
+
+The solution 
+
+In x ln (1 - y) = c (8a) whence
+
+In 
+
+= C, = ec = = k. 1-y Since c is an arbitrary constant, k is also arbitrary.
+
+The letter
+
+DIFFERENT FORMS OF SOLUTION 
+
+5 c could be used instead of k, and so the solution could be written x = c(1 y). 
+
+(8b) Since any function of c is constant, the solution could also be written or x = c(y − 1), 
+
+1 = cx, 1 y = cx. (8c) (8d) (8e) 
+
+The solutions (8a), (8b), (8c), (8d), (8e) are all equivalent, and any one can be considered as the solution of (8), but of course the constant has a different meaning in each case and so two of these cannot be used simultaneously. Whether the solution is obtained in one form or another depends on the method of solving. By proceeding in the proper way any one of the above solutions can be obtained directly. Thus, if we write (8) in the form x dyy dx + dx = 0 and divide by x2 we have x dy-y dx x2 dx 0. x2 1. 
+
+The first term is the differential of Direct integration thus gives or which is (8d). 
+
+1 = c, y-1 = cx,
+
+In simplifying solutions, extensive use is often made of the properties of logarithms. In this book the symbol In u is used to represent the natural logarithm, or logarithm to the base e. 
+
+The definition of logarithm is thus eln u = U. 
+
+Other important properties are expressed by the equations In eu = U, In (uv) = ln u + In v, (9a) (96) (9c)
+
+VARIABLES SEPARABLE 
+
+In In u In u = In u", 
+
+In v, (9d) 1 (9e) (9f) 
+
+In == 1 - In v. (9g) 
+
+In 1 = 0, From formula (9c), the equation
+
+In w = In u + In v may be rewritten
+
+W = uv. 
+
+Since any constant is the logarithm of another constant, it is often convenient to write ln c instead of c as the constant of integration. 
+
+Example. Solve the equation 
+
+(1 + x²)dy — xy dx 0. 
+
+Separating the variables this becomes dy 
+
+x dx 1 + x² 0. 
+
+Integrating and writing In c as the constant, 
+
+In y — In (1 + x²)
+
+This is equivalent to whence 
+
+In c.
+
+In y = ln √1 + x² + ln c, The answer can also be written or y = c√1 + x². y² = c²(1 + x²), જી y² = c(1 + x²), cy² = 1 + x².
+
+GEOMETRICAL PROBLEMS 
+
+7 
+
+EXERCISES Solve the following differential equations: 
+
+1. (y² - 1)dx - (2y + xy)dy = 0. 2. XVI y dx - √1 - x² dy = 0. xV1 
+
+3. y dx + (x + xy)dy = 0. 4. x dx + y dy = xy(x dy 
+
+y dx). 
+
+5. tan x sin² y dx + cos² x cot y dy 
+
+6. cos e dr - 2r sin 0 de = 0. 
+
+7. 2r cos e dr 8. r sec e dr 9. (1 10. dx 
+
+tan e do 2a2 sin o de 0. 0. tan20)dr + 2r tan 0 do = 0. 
+
+√a² rVr2 
+
+-xs dy 
+
+a² do 0. 0. 12. (1+x2)dy + (1 + y²)dx = 0. 
+
+11. a dr dy 
+
+13. tan x dx 
+
+14. x 
+
+- 2y = a.. xdy + y = y². dx 16. rdr = √a^ - r. dx 16. ex dx + ev−x dy = 0. 
+
+17. ev (d+1)= = 1. 0. 
+
+5. Geometrical Problems. Certain quantities connected with a curve, such as slope and radius of curvature, are expressed in terms of derivatives. An equation satisfied by such quantities is then an equation containing a derivative, that is, a differential equation.
+
+At each point (x, y) of a curve it may be known, for example, that the slope is a given function f(x, y). The curve then satisfies the equation dy dx = f(x, y) and so should be found by solving that equation. In general, the slope of the curve is not directly given, but some property of the curve is known which enables us to obtain an equation connecting x, y, and the slope of the curve at (x, y). 
+
+Example 1. Find the curves such that the part of every tangent between the coördinate axes is bisected at the point of tangency.
+
+VARIABLES SEPARABLE 
+
+Let P(x, y) be a point on the curve and MN the tangent at that point. The problem states that MN is bisected at P. 
+
+Hence, by similar triangles, OM = 2x, ON = 2y. 
+
+By definition dy is the slope of the dx P(x,y) y!
+
+FIG. 2 
+
+tangent at (x, y). Therefore dy ON dx OM = - the negative sign being used bex cause in the diagram the slope is negative, whereas x and y are positive. If the tangent is drawn in other quadrants x or y may be negative, but it will be found that the same differential equation is always valid. Separating the variables this equation can be written whence or dx dy x y 0, In x + In y = ln c xy = C, which is the equation of the curves. 
+
+Example 2. The normal at each point of a curve and the line from that point to the origin form an isosceles triangle with base on the x-axis. Find the equation of the curve. 
+
+Let P(x, y) be a point on the curve, PT the tangent and PN the normal to the curve at that point. 
+
+The triangle OPN is isosceles, with equal angles at O and N. The triangle TPN is a right triangle, and so and are complementary.
+
+The slope of the tangent is thus dy P(x,v) tan o = cot 0. N X 
+
+FIG. 3 
+
+dx
+
+GEOMETRICAL PROBLEMS 
+
+9 But Hence y dy cot 0 dy dx y². 
+
+x dx X2 = C. 0, Example 3. Find the curve cutting the parabolas y2 4px (a) at right angles for all values of p. These are called orthogonal trajectories of the system of parabolas. 
+
+Differentiating (a) with respect to x, we obtain whence dy 
+
+ZY Jx 
+
+But from (a), 4p, dy2p dx y2 p 4x Substituting this in (b), we get dy y dx 2x (b) P(x,y) (c) 
+
+FIG. 4 
+
+This is the slope of the parabola at the point (x, y). A perpendicular curve through this same point equal to the negative reciprocal of this. (Fig. 4) has a slope 
+
+Considering x, y as the coördinates of a variable point on the perpendicular curve, they must then satisfy the equation dy dx 
+
+2x 
+
+Separating the variables, we have (d) whence y dy = 
+
+2x dx, y² + 2x² = c.
+
+VARIABLES SEPARABLE 
+
+This is the equation of a family of ellipses, which are the orthogonal trajectories of the given parabolas. 
+
+It may seem strange that x and y have the same values in (c) and (d) whereas the derivatives have different values. At a point of intersection the coördinates x, y have the same values on a curve and on the perpendicular curve, but at other points on the two curves x and y are not the same so that the derivatives at (x, y) are not the same. 
+
+It was necessary to eliminate p before integration, for whereas p is constant along one of the parabolas it is not constant along the perpendicular ellipse. 
+
+6. Determination of Constants. Since the constant of integration may have any value whatever, there are an infinite number of solutions of a given differential equation. In a real problem there is usually some further information by which the constant can be determined and so a definite solution be obtained. 
+
+Thus it may be known that the curve passes through a certain point. By substituting the coördinates of that point the value of the constant can be determined. In some cases the differential equation contains an unknown constant. Thus the equation may be dy dx kf(x, y), where f(x, y) is a known function. If the curve passes through two known points (x₁, y₁) and (x2, y2) by substituting these pairs of values in the integral both c and k can be found. P(x,y)
+
+FIG. 5 
+
+The statement of a problem thus usually consists of two parts. 
+
+One part contains conditions true at all places or times. From this the differential equation is determined. 
+
+The second part contains conditions true at a single place or time.
+
+These are used after integration to determine the constants. 
+
+Example. The normal at the point P(x, y) of a curve intersects the x-axis at M and the y-axis at N. Find the curve passing through the point (2, 1) for which M is the midpoint of PN.
+
+DETERMINATION OF CONSTANTS 
+
+11 In Fig. 5 let P(x, y) be a point on the curve, PT the tangent, and PN the normal intersecting the x-axis at M. Since M is the midpoint of PN, the right triangles ONM and MRP are equal. Hence
+
+The slope of PT is thus OM MR 2 dy dx tan o = - cot 0 = 
+
+2y 
+
+This gives 2y dy + x dx = 0, 2y²+ x² = C. 
+
+Since the curve passes through (2, 1), the coördinates of this point must satisfy the equation. Consequently c = 6, and the equation of the curve is 
+
+2y²+x² = 6.
+
+PROBLEMS 
+
+1. Find the curves such that the part of every tangent between the y-axis and the point of tangency is bisected by the x-axis. 
+
+2. Find the curves such that the part of every tangent between the x-axis and the point of tangency is bisected by the y-axis. and the y-axis at N. 
+
+4. The normal at 
+
+3. The normal at the point P(x, y) of a curve intersects the x-axis at M 
+
+Find the curves for which N is the midpoint of PM. the point P(x, y) of a curve intersects the x-axis at M Find the curves for which P is the midpoint of MN. 
+
+5. The normals at all points of a curve pass through a fixed point. Find the equation of the curve. and the y-axis at N. 
+
+6. The tangent at each point of a curve and the line from that point to the origin form an isosceles triangle with base on the x-axis. Find the equation of the curve if it passes through the point (2, 2). 
+
+7. If the normal and ordinate are drawn at any point of a curve, the distance between the two intercepted on the x-axis is a constant a. Find the equation of the curve. 
+
+8. The x-axis and the tangent and ordinate at each point of a curve form a triangle of constant area k. Find the equation of the curve, obtaining the values of k and the constant of integration if the curve. passes through the points (0, 4) and (1, 2). 
+
+9. Find the curve passing through the point (1, 2) such that the tangent at any point P and the line from P to the origin determine complementary angles with the x-axis. 
+
+10. The part of the normal between the point P(x, y) of a curve and the x-axis is of constant length k. Find the equation of the curve.
+
+VARIABLES SEPARABLE 
+
+11.
+
+Find the orthogonal trajectories of the system of curves x²y k. 
+
+12. Find the curve passing through the point (1, 1) and cutting the hyperbolas at right angles for all values of a.
+
+x² — y² = a² 
+
+13. Find the curve passing through the point (1, −1) and cutting the semicubical parabolas at right angles for all values of k. y2 = kx3 14. Using polar coördinates, find the equation of the curve passing through the point r = a, 0 = 0,and cutting all lines through the origin at the same angle a. 
+
+15. A body starting with horizontal velocity vo and sliding down a curve has a velocity v = √2gh + vo² when at vertical distance h below the starting point. Find the curve along which it moves if the horizontal component of velocity is constant. 
+
+7. Equations Containing Integrals. Sometimes a variable appearing in an equation is expressible only as an integral with variable limits. Such an equation is not a differential equation but may be reduced to one by differentiation. 
+
+This has the effect of removing the integral sign. Thus if where a is constant,
+
+-Sf(x)dz, and if dA dx = f(x), A = f* f(x)dx, dA dx -f(x). 
+
+Removal of integrals by differentiation, like removal of radicals by raising to powers, may introduce extraneous solutions. 
+
+The solution should consequently be checked by actual substitution to see that it has the properties required. 
+
+Example. The area bounded by the x-axis, the arc of a curve, a fixed ordinate, and a variable ordinate is proportional to the arc between those ordinates. Find the equation of the curve.
+
+EQUATIONS CONTAINING INTEGRALS 
+
+13 In Fig. 6 let PQ be the arc of the curve. that arc and the x-axis is 
+
+The area between
+
+Sy dx Sv and the length of the arc is S. √dr² + dy = S. √1+ (d) dr. Sov 
+
+If the area and arc are proportional, 2 'dy S.√1+ (dv)² dx dx Su y dx. (a) 
+
+FIG. 6 
+
+Differentiating with respect to x we find √1+ (dy 2 dx ky, (b) whence dy Vk2y2 = √k²y² - 1 dx. (c) 
+
+Separating the variables dy √k²y² – 1 dx. (d) 
+
+Integration gives In (ky + √k²y² − 1) kx + In c, whence ky + √k²y² 1 
+
+cekx 
+
+Solving for y, we have = - 2k cetz +le-tz. (e) This evidently satisfies the conditions, for (e) must lead to (b), being the solution of that equation, and from (b) we get (a) by integrating between limits. 1 Replacing k by and c by eå, (e) becomes 2 x + c e k +e x + c #], which is the usual equation of the catenary.
+
+VARIABLES SEPARABLE 
+
+Vk²y² If the factor √ky2-1 is zero, the division by which we pass from equation (c) to equation (d) is not permissible. Hence, in addition to solving equation (d), we must investigate √k²y2 
+
+1 for a possible solution of the problem.
+
+This gives 1 y = ± (ƒ) which satisfies the given conditions, since substitution in (a) gives Sdx = Sdr. Hence the complete solution of the problem is composed of two parts, the general solution (e) representing a family of curves, and the solution (f), which contains no arbitrary constant. In this case the two solutions are distinct, for (f) cannot be obtained from (e) by assigning a definite value to the constant c. In many cases they are not distinct, and in many others equating the factor to zero does not yield a solution of the problem. But whenever a differential equation is divided by a factor containing the variable, there is a possibility of losing a solution. PROBLEMS 1. Find the curve such that the area between the curve, the x-axis, a fixed ordinate, and a variable ordinate is proportional to the difference of those ordinates. 
+
+2. The area of the sector, formed by the arc of a curve and the two radii from the origin to its ends, is proportional to the difference of those radii. 
+
+Find the equation of the curve. 01 
+
+3. The area bounded by y f(x), a fixed ordinate, and a variable ordinate is proportional to the difference of the corresponding abscissas. 
+
+Find f(x). 
+
+4. For direct reading of wave lengths the plate of a variable condenser is so shaped that the area of the sector between a variable radius and the line 0 is proportional to the square of 0. Find the curve formed by the edge of the plate. 5. Find the curves with arc proportional to the angle subtended at the origin. 
+
+6. The arc of a curve is proportional to the difference of the radii from the origin to its ends. Find the equation of the curve.
+
+PHYSICAL PROBLEMS 
+
+15 7. The area of the sector, formed by an arc of a curve and the radii from the origin to its ends, is proportional to the arc. Find the curve. 
+
+8. The area bounded by y = f(x), the x-axis, and two ordinates is equal to the product of the ordinates. Show that f(x) O is the only solution. 9. The area bounded by the x-axis, a curve, and two ordinates is equal to the average value of the ordinates multiplied by the distance between them. 
+
+Find the equation of the curve. 
+
+10. Through each point of a curve, lines are drawn parallel to the axes to form a rectangle with two sides on the axes. Find the curve which divides every rectangle of this kind into two areas, one of which is twice the other. 
+
+11. Through each point of a curve, lines are drawn parallel to the axes to form a rectangle with two sides on the axes. The curve divides every rectangle of this kind into two areas which, when rotated about the y-axis, sweep out equal volumes. Find the equation of the curve. 
+
+12. A zone is cut from a surface of revolution by two planes perpendicular to its axis. Find the surface on which the area of such a zone is proportional to the distance between the planes. 
+
+8. Physical Problems. In the solution of a problem the first step is to recognize what are the important variable quantities and to represent them by letters. The differential equation is then obtained by expressing the relations between the quantities as equations connecting the letters. 
+
+In this it should be emphasized that the symbols represent corresponding values, and this should be indicated in the definition of each letter. Thus if we know the velocity of a moving particle as a function of the time, we accomplish nothing by writing, “Let v be the velocity." The velocity may have many values. The statement should be, "Let v be the velocity at time t." But if the particle is moving in a vertical line and the velocity is known as a function of the height, the last statement may be of little value. In this case it may be better to take v as the velocity at height h.
+
+Whether the solution of a problem is simple or complicated depends more on the choice of variables than on any other one thing. Thus suppose x, y are taken as the variables and after solving a complicated differential equation we find u(x, y) = c as answer. If we had chosen u as one of the variables the differential equation would have been du = 0, of which the solution is obvious.
+
+VARIABLES SEPARABLE 
+
+Although there are no general rules applicable to all cases, quantities which appear naturally and prominently in the statement of the problem will usually prove to be satisfactory variables. 
+
+9. Rate of Change. When a quantity x varies with the time its rate of change is represented by the derivative dx dt' where t is the time. If from the conditions of a problem this rate can be expressed in the form dx = f(x, t), dt (10) the quantity x can be found as a function of the time by solving this differential equation.
+
+In setting up the differential equation it is often more convenient to work with differentials. For that purpose dr may be considered as the change that would occur in x during the time dt if the process continued through that interval at the rate it has at the time t. This gives the differential equation in the form equivalent to (10). dx = f(x, t)dt, (11) Example. The sum of $100 is put at interest at 5% per annum under the condition that interest shall be compounded at each instant. How many years will be required for the amount to reach $200?
+
+Let A be the amount (principal and interest) at the end of t years. Any increase is due entirely to accumulation of interest.
+
+If this continued at a constant rate for dt years the interest would be whence dA = 0.05A dt, dA 
+
+0.05 dt.
+
+Integration gives 
+
+In A 
+
+0.05t + c. 
+
+At the start, A = 100, t = 0, and hence 
+
+C = In 100.
+
+INTEGRATION BETWEEN LIMITS 
+
+17 
+
+200, tt, give 
+
+The final values A 
+
+In 200 = 0.05t +In 100, 1 200 1 In = 
+
+In 2 = 
+
+13.9 years. 
+
+0.05 100 0.05 
+
+10. Integration between Limits. Instead of introducing con stants of integration and determining their values by substitution, the process can often be considerably shortened by integration between limits. If x = xo, t = to, and x = x1, t = t₁ are pairs of corresponding values of x, t, an equation of the form f(x)dx = f2(t)dt leads at once to x1 S* f₁(x)dx = S" f2(t)dt. xo to
+
+In this case, no constant of integration is introduced because a definite integral is a limit of a sum of differentials, and since the differentials fi(x)dx and f2(t)dt are always equal, their sums are equal.
+
+It is important to notice that the lower limits of the integrals are corresponding values of x and t, and the same is true of the upper limits.
+
+Example. Radium decomposes at a rate proportional to the amount present. If half the original quantity disappears in 
+
+1600 years, find the amount lost in 100 years.
+
+Let Ro be the amount of radium present at the start, and R the amount at time t. The rate of decomposition is 
+
+Since this is proportional to R, 
+
+dR dt dR dt -kR, where k is constant.
+
+Hence dR -k dt. (a) 
+
+Integration between the limits R t = 1600, gives 
+
+Ro, t = 0, and R = Ro,
+
+VARIABLES SEPARABLE 
+
+RodR -k 1600 
+
+Shed - - Sat,
+
+In 1 
+
+-1600 k. 
+
+In 2 1600 Substituting this value in (a) and integrating between the limits R = Ro, t 
+
+0, and R
+
+In Ro which gives
+
+Ro = t R, RdR 
+
+In 2 1600 Ro 100, we therefore have 
+
+In 2 1600 100 S.00 · 100 0.958. dt, -0.0433, This shows that 95.8% remains at the end of 100 years and so 
+
+4.2% is lost. PROBLEMS 1. In a culture of yeast the amount of active ferment grows at a rate proportional to the amount present. If that amount doubles in 1 hour, how much may be anticipated at the end of 3 hours? 
+
+2. Owing to leakage an electrified surface discharges at a rate proportional to the charge. Find the charge as a function of the time. 
+
+3. Assume that a drop of liquid evaporates at a rate proportional to its area of surface. Find the radius of the drop as a function of the time. 
+
+4. According to Newton's law the rate at which a substance cools in air is proportional to the difference of the temperature of the substance and that of the air. If the temperature of the air is 20° C. and the substance cools from 100° to 60° in 30 minutes, when will its temperature become 40°? 
+
+5. In a chemical process a substance is undergoing transformation into another at a rate proportional to the amount of the substance remaining untransformed. If that amount is 48 at the end of 1 hour and 27 at the end of 
+
+3 hours, find the amount at the start. 
+
+6. A vertical tank has a slight leak at the bottom. Assuming that the water escapes at a rate proportional to the pressure and 5% escapes the first day, find the time required to half empty. 
+
+7. The rate of increase of a certain population is proportional to that population. If it increases in 40 years from 40,000 to 90,000, what will it become at the end of 60 years?
+
+What rate of interest payable annually is equivalent to 5% continuously compounded? da -KA at kis nate 
+
+A is original uit cont.compounded.
+
+EQUATION OF CONTINUITY 
+
+19 9. If a man can earn $2 per day over expenses and keep his earnings continuously invested at 6% compound interest, how much will his savings amount to in 25 years? Make no allowance for leap years, and consider the $2 per day as continuously invested at the rate of $730 per year. Show that the result so obtained is intermediate between that due to investing the $2 at the beginning of each day and that due to investing at the end of each day, and so does not differ from either by more than the interest on $2 for 25 years. 
+
+10. At 6% interest continuously compounded what sum would be needed to provide an income of $5 per day for 25 years, the principal being exhausted at the end of that time? 
+
+11. In 1626 Peter Minuit bought land from the Indians for $24 in what is now New York City. This same real estate was assessed in 1933 for 1.9 × 1010, or 19 billion dollars. What rate of interest continuously compounded would have yielded this increase in capital in the given time? 
+
+11. Equation of Continuity. In a physical process there may occur an element which is neither created nor destroyed. The amount of the element in a given region changes only when some comes in or goes out through the boundary. In such a case the obvious equation increase income outgo is sometimes called an equation of continuity. Stated in differential form this may give a differential equation by which the variation of the particular element can be determined. 
+
+In case of a continuous distribution the concentration c of a particular substance is the amount of that substance in unit volume. If the concentration is uniform the amount in volume v is cv.
+
+Example. In a tank are 100 gal. of brine containing 50 lb. of dissolved salt. Water runs into the tank at the rate of 3 gal. per minute and the mixture runs out at the same rate, the concentration being kept uniform by stirring. How much salt is in the tank at the end of 1 hour?
+
+Let x be the number of pounds of salt in the tank at the end of t minutes. The concentration is then
+
+C = 
+
+100 pounds per gallon.
+
+In the time dt, 3 dt gallons of water come in and 3 dt gallons of brine containing 3c dt pounds of salt go out. Hence the change
+
+VARIABLES SEPARABLE 
+
+in the amount of salt in the tank is dx = - 3c dt 
+
+3x dt. 100 The amount of salt at the end of 1 hour is then determined by dx 3 60 S-100 Sdt, 50 whence and In
+
+50 X = -1.8 
+
+8.27 lb. PROBLEMS 1. Brine containing 2 lb. of salt per gallon runs at the rate of 3 gal. per minute into a 100-gal. tank initially filled with fresh water, and the mixture flows out at the same rate. Find the amount of salt in the tank at the end of 
+
+1 hour. 
+
+2. A tank containing 200 gal. of saturated salt solution (3 lb. of salt per gallon) is to be diluted by the addition of brine containing 1 lb. of salt per gallon. If this solution runs into the tank at the rate of 4 gal. per minute and the mixture runs out at the same rate, when will the concentration in the tank reach 1.01 lb. per gallon? 
+
+3. In a tank are 100 gal. of brine containing 75 lb. of dissolved salt. Water runs into the tank at the rate of 3 gal. per minute and the mixture runs out at the rate of 2 gal. per minute, the concentration being kept uniform by stirring. 
+
+How much salt is in the tank at the end of 1½ hours? 
+
+4. In the preceding problem suppose further that the bottom of the tank is covered with a mixture of salt and insoluble material. Assume the salt dissolves at a rate proportional to the difference between the concentration of the solution and that of a saturated solution (3 lb. of salt per gallon) and that if the water were fresh 1 lb. of salt would dissolve per minute. How much salt will be in the solution at the end of 13 hours? 
+
+5. Oxygen flows through one tube into a liter flask filled with air, and the mixture of oxygen and air escapes through another. If the action is so slow that the mixture in the flask may be considered uniform, what percentage of oxygen will the flask contain after 5 liters have passed through? Assume that air contains 21% oxygen. 
+
+6. A country has one billion dollars of paper currency. The bank clearings amount to 5 million dollars per day. The government decides to introduce a new currency, all old paper coming into the banks being exchanged for new. How long will it take for the currency in circulation to become 90% new?
+
+FLOW OF WATER FROM AN ORIFICE 
+
+21 7. The air in a recently used class-room 25 ft. by 25 ft. by 12 ft. tested 
+
+0.16% carbon dioxide. How many cubic feet of air containing 0.04% CO2 must be admitted per minute that 10 minutes later it may test 0.06% CO₂? 
+
+8. If the average person breathes 20 times per minute, exhaling each time 
+
+100 cu. in. of air containing 4% CO2, find the percentage of CO₂ in the air of a class-room 1 hour after a class of 30 enters, assuming the air fresh at the start and that the ventilators admit 1000 cu. ft. of fresh air per minute. Let the volume of the room be 10,000 cu. ft. and assume that fresh air contains 0.04% CO2. 
+
+9. A factory 140 ft. by 50 ft. by 15 ft. receives through the ventilators 
+
+10,000 cu. ft. of fresh air per minute containing 0.04% CO2. A half hour after the help enters at 7 A.M. the CO2 content has risen to 0.12%. What value is to be anticipated at noon? 
+
+12. Flow of Water from an Orifice. If there were no loss of energy, the velocity with which water would flow from an orifice at depth h below the surface would be that acquired by a body in falling the distance h, namely, √2gh.
+
+Because of friction and the converging form of the stream, the average velocity with which the water actually issues is v = c √2gh, where, for ordinary small orifices with sharp edges, C = 0.6 approximately. Using this value and g 32, v = 4.8 √h feet per second.
+
+Problems concerning the flow of water through an orifice can be solved by using the equation of continuity. The loss of water from the vessel equals the difference between outflow and inflow. 
+
+Example. Find the time required for a square tank of side 
+
+4 ft. and depth 6 ft. to empty through an inch circular hole at the bottom.
+
+Let h be the height in feet of the water in the tank at time t. 
+
+The water level is falling, and in time at the loss from the surface is a slice of water 4 ft. square, of thickness -dh, and volume -16 dh cubic feet.
+
+The water which issues from the orifice in time dt generates a
+
+VARIABLES SEPARABLE 
+
+cylinder of altitude v dt with an inch circle as base.
+
+Its volume is 1\2 v dt cubic feet. 24 Since there is no flow of water into the tank, the amount taken from the surface equals the amount that flows out, and hence -16 dh =π 1\2 v dt =π 24 * (21) 4.8 √h dt. 
+
+Separating the variables we have 24 dh whence and dt -611 ? √h dh √h dt f.de --611 Sh t = 2993 seconds 49.9 minutes. 
+
+13. Flow of Heat or Electricity. Diffusion. If the temperatures at the bounding surfaces of a body are kept constant, the body will ultimately approach a steady state in which the temperatures at different points may differ, but the temperature at a given point no longer changes with the time. The rate of heat flow per unit area across any surface at a point P is then dT -k dn' where T is the temperature at P, dn is distance along the normal to the surface, and k is a constant called the conductivity of the material. The negative sign is used to indicate that the direction of heat flow is opposite to that in which the temperature increases.
+
+In many cases, owing to symmetry, the temperature is a function of a single coördinate x. Under these conditions the above law gives dT -KA dx Q, (12) where Q is the rate of flow across an area A perpendicular to the direction x. When c.g.s. units are used, Q is measured in calories per second.
+
+FLOW OF HEAT OR ELECTRICITY 
+
+23 In the steady state described above, the rate of flow into any region is equal to the rate of flow out. If we have a series of surfaces A such that the heat flowing across one flows across all the others, the equation of continuity then has the form 
+
+Q = constant.
+
+If A is expressed in terms of x, the solution of (12) with Q constant gives T as a function of x. By substituting the values of x and T at the boundaries, the constant of integration and Q can then be determined.
+
+Similarly, when salt diffuses through a liquid, the rate of flow in the direction x across a surface of area A perpendicular to x is -DA dc dx q, where D is the coefficient of diffusion and c the concentration at distance x.
+
+For the steady flow of electricity we have a precisely similar equation dE -KA 
+
+I, dx where x is the electrical conductivity, E the potential, and I the current. 
+
+Example. A hollow spherical shell of inner radius 6 cm. and outer radius 10 cm. is made of iron (k = 0.14). If the inner temperature is 200° C. and the outer 20° C., find the temperature at a distance r from the center; also find the amount of heat per second that flows outward through the shell. 
+
+By symmetry the flow of heat is seen to be radial. At distance r from the center the area across which it is flowing is a spherical surface of radius r and area A = 4πr².
+
+In the steady state there is no accumulation of heat between the surfaces. Hence the same amount flows per second across each spherical surface, and (12) becomes dT -4πkr2 dr 
+
+Q = constant.
+
+VARIABLES SEPARABLE 
+
+Separating the variables and integrating between the limits 
+
+T = 20, r = 10, and T 
+
+200, r = 6, 200 dT dr 4rk fdr - -QS # 20 whence
+
+10 10,800πk.
+
+Using this value of Q and integrating between the limits T = 20, r = 10, and T = T, r = r, 4πk(Т — 20) = 10,800πk 
+
+T = 2700 250. 1 10 The rate of flow through the shell is 10,800πk 
+
+4750 cal. per sec. PROBLEMS 1. A cylindrical tank with vertical axis is 8 ft. deep and 4 ft. in diameter. 
+
+If the tank is full of water, find the time required to empty through a 2-in. circular hole in the bottom. 
+
+2. A cylindrical tank with horizontal axis is 8 ft. long and 4 ft. in diameter. 
+
+If initially full of water, find the time to empty through an inch circular hole in the bottom. 
+
+3. A funnel 10 in. in diameter at the top and 1 in. in diameter at the bottom is 18 in. deep. If initially full of water, find the time required to empty. 
+
+4. Two vertical tanks each 4 ft. deep and 4 ft. in diameter are connected by a short 2-in. pipe at the bottom. If one of the tanks is full and the other empty, find the time required to reach the same level in both. Assume that the velocity through the pipe is c √2gh, with c = 0.8. 
+
+5. Into a tank 4 ft. deep with base 5 ft. square, water flows at the rate of 
+
+6 cu. ft. per minute. Find the time required to fill the tank if at the same time the water leaks out through an inch circular hole at the bottom. 
+
+6. A brick wall (k = 0.0012) is 30 cm. thick. If the inner surface is 20° C. and the outer 0° C., find the temperature in the wall as a function of the distance from the outer surface. Also find the heat loss per day through a square meter. 7. A steam pipe 20 cm. in diameter is protected with a covering 10 cm. thick of magnesia (k 0.00018). If the outer surface is 30° C. and the surface of the pipe 160° C., determine the temperature in the covering as a function of the distance from the center of the pipe. Also determine the heat loss per day through a meter length of pipe. 
+
+8. A steam pipe 20 cm. in diameter has a covering consisting of 5 cm. of magnesia (k 0.00018) and outside this 5 cm. of concrete (k 0.0020).
+
+SECOND ORDER PROCESSES 
+
+25 If the outer surface is 30° C. and the surface of the pipe 160° C., find the heat loss per day through a meter length of the pipe. 
+
+9. A cylindrical coil of wire, whose resistance is 0.1 ohm per centimeter length parallel to its axis, is imbedded along the axis of a cylindrical cement tube of radii 0.5 cm. and 1.0 cm. An electric current of 5 amperes is found to keep a temperature difference of 125° C. between the inner and outer surfaces. What is the conductivity of the cement? The heat produced by I amperes flowing through a resistance of R ohms is Q 0.239 RI2 cal. per sec. 10. A sphere of salt of radius a is immersed in an infinite bath of liquid into which it diffuses. Find the concentration in the steady state at distance r from the center of the sphere, assuming that it has the saturation value s at the surface of the sphere and is zero at infinity. 
+
+11. A wire of radius r₁ extends along the axis of a cylindrical lead sheath of radius r2, the region between the two being filled with material of electrical conductivity K. If the potential between the wire and sheath is E, find the current loss per unit length of the cable. 
+
+12. A pipe of inner radius r₁, outer radius r2, and conductivity k contains water of temperature T. Heat flows through the walls of the pipe and escapes into the air. According to Newton's law the rate of heat loss per unit area from the surface of the pipe is a(T₁ - To), where T₁ is the temperature at the outer surface, To the temperature of the air, and a is constant. In the steady state find the heat loss per unit length of pipe as a function of T and To. 
+
+13. Water flows with velocity v through the pipe in the preceding problem. 
+
+Allowing for heat conduction through the walls and heat convection by the moving water, but neglecting the slight conduction along the stream of water and along the pipe, determine the temperature of the water as a function of distance along the pipe. 
+
+14. Second Order Processes. In a problem containing two independent variables x and y it is sometimes stated that a quantity z is proportional to x and also proportional to y, or that z is jointly proportional to x and y. What is meant is that, y being constant, z is proportional to x, and x being constant, z is proportional to y. Both statements are expressed by the equation where k is constant. 2 = kxy, Thus the rate at which a substance x dissolves is proportional to the amount of x present. It is also proportional to the difference 
+
+C, where s is the concentration in the saturated solution and c is
+
+VARIABLES SEPARABLE 
+
+the concentration in actual solution. These statements are both expressed by dx dt kx (sc). (13) The fact that the total amount of the substance present (solid and in solution) is constant gives an equation of continuity from dx dt which we can express c as a linear function of x and so find as a quadratic function of x. A process in which the rate of change of x is a quadratic function of x is sometimes called a second order process.
+
+Example 1. Sulphur is to be removed from an inert material by extraction with benzol. The material contains 6 grams of sulphur, and 100 grams of benzol are used, which if saturated would dissolve 11 grams of sulphur. If half the sulphur is dissolved in 50 minutes, how much will be removed in 6 hours? 
+
+Let x be the number of grams of sulphur undissolved at time t.
+
+There will then be 6 - x grams in solution. Hence 
+
+6 x C = 100 
+
+Also if 11 grams are needed to saturate 100 grams of benzol 11 S = 0.11. 100 The rate of solution is therefore dx kx (s c) 
+
+=3 kx (0.11 dt 
+
+If 3 grams dissolve in 50 minutes, This gives 3 dx S. z(672) 
+
+100 x(5+x) -100. k = 2 1 1165 In 50 dt. -0.15.
+
+At the end of 6 hours we then have dx 
+
+Sox (5 + x) 
+
+100x(5+ x). 0.15 100 S60 dt, which gives x = 0.19 gram undissolved.
+
+SECOND ORDER PROCESSES 
+
+27 
+
+Example 2. The amount an elastic string of natural length x stretches under a force F is proportional to x and also proportional to F. Find the amount a string of length / stretches when suspended by one end and allowed to stretch under its own weight w.
+
+Let x represent distance from the bottom measured along the unstretched string, and dx the differential of that distance. 
+
+Both x and dx are stretched when the string is allowed to lengthen under its own weight. From the statement of the problem, the amount dx is stretched is proportional to dx and also to the force stretching it, which in this case is the weight of string below. 
+
+Since x was measured along the unstretched string, this weight is Therefore wx kwx dx 1 is the amount dx is stretched. Integrating between the limits 
+
+1, we obtain
+
+0, x kwl as the total amount the string is stretched. PROBLEMS 1. A mass of inert material containing 6 lb. of salt in its pores is agitated with 10 gal. of water. In 5 minutes 2 lb. of salt have dissolved. When will the salt be 99% dissolved? A saturated solution contains 3 lb. of salt per gallon. 
+
+2. A mass of insoluble material contains 30 lb. of salt in its pores. It is agitated with 20 gal. of water for 1 hour when half the salt is found to be dissolved. How much would have dissolved in the same time if double the amount of water had been used? 
+
+3. A weight P is suspended by an elastic string of natural length 1 and weight w. Find the amount the string is stretched. 
+
+4. The amount of light absorbed in passing through a thin sheet of water is proportional to the amount falling on the surface and also proportional to the thickness of the sheet. If one-third the light were absorbed in penetrating 
+
+10 ft. how much would reach the depth of 60 ft.? 
+
+5 The rate of change of vapor pressure with respect to temperature for a liquid is proportional to its vapor pressure and inversely proportional to the square of the absolute temperature. If the vapor pressure of water is 4.58 mm. at 0° C. and 31.8 mm. at 30° C., determine the equation expressing its vapor pressure as a function of the temperature. 
+
+6. Two substances, A and B, combine to form a third substance C, one molecule of A uniting with one of B to yield one of C. The rate at which C
+
+VARIABLES SEPARABLE 
+
+is formed is jointly proportional to the amounts of A and B present. If the initial amounts of these substances were a and b gram mols respectively, find the amount of C present at time t. 
+
+7. Suppose a raindrop falling through a uniform fog remains at all times spherical but collects upon itself the particles of mist in the region which it traverses. Determine its radius as a function of the distance fallen. 
+
+8. A porous material dries at a rate proportional to its moisture content and also to the difference between the moisture content of air and that of saturated air. A quantity of material containing 10 lb. of moisture is placed in a storeroom of volume 2000 cu. ft. The air at the beginning had a humidity of 25%. Saturated air at the given temperature contains approximately 
+
+0.015 lb. moisture per cubic foot. If the humidity of the air is kept at 25% by ventilation, and the substance loses half its moisture the first hour, how long will be needed for it to lose 90% of its moisture? 
+
+9. If the storeroom in the preceding problem is closed, the humidity of the air increases as moisture evaporates from the material. Under these conditions how much moisture will the substance lose during the first hour? 
+
+10. In the growth of a population, conditions develop which prevent the number exceeding a certain maximum M. As a consequence the rate of growth at time t is jointly proportional to the number N at that time and to the difference between N and the maximum number. Show that
+
+1+ e¯at' where a is constant and t is measured from the time when the population has its median value. For the United States Year Population 1790 3,929,000 1850 23,192,000 1910 91,972,000 
+
+Find the maximum. 
+
+15. Differential Relations. In setting up differential equations the process may often be greatly abbreviated by a simplified procedure which appears approximate but gives exact results. 
+
+Thus, so far as first differentials are concerned, a small part of a curve may be treated as straight and a part of a surface near a point as plane; during a short time dt, a particle may be considered as moving with constant speed and a physical process as occurring at a constant rate. The reason these assumptions give correct results is that the ratio of differentials is by definition the limit of the ratio of increments, and as the increments approach zero these simple conditions become more and more approximately satisfied.
+
+Methods of setting up differential relations in this way are
+
+DIFFERENTIAL RELATIONS 
+
+29 often called differential methods. As here stated they apply only to first differentials or first derivatives. A correct equation containing second derivatives would not in general be obtained by considering a small part of a curve as straight, or in a short interval a physical process as occurring at a constant rate. 
+
+Example 1. Find the shape of a mirror such that all light coming from one fixed point is reflected to another fixed point. Let the light from F (Fig. 7) be reflected to F'. The mirror must have the form of a surface of revolution. Otherwise light passing out from F in a plane through 
+
+FF' would not be reflected in the same plane and so could not go to 
+
+F'. With F as center construct the arc QS, and with F" as center the arc QR. The triangles PQS and 
+
+PQR have right angles at S and R. 
+
+If we consider the sides as straight, these are plane right triangles with F' 
+
+FIG. 7 
+
+a common hypotenuse PQ. Also since the angles of incidence and reflection are equal, 4QPS 4QPR. 
+
+Hence the triangles are equal and so 
+
+PS PR. 
+
+(a) Let r = FP, r' F'P.
+
+In passing from P to Q the increase in r is and that in r' is 
+
+Hence from (a) and so dr PS, dr' -PR. dr 
+
+— dr', r + r = constant.
+
+The section of the mirror by a plane through FF' is therefore an ellipse with F, F' as foci, and the surface of the mirror is an ellipsoid of revolution.
+
+If any doubt is felt about treating the lines of the small triangles as straight, one can consider the diagram uniformly expanded until the distance FF' is a million miles while PQ is only 1 inch.
+
+VARIABLES SEPARABLE 
+
+The lines will then be so straight that no instrument can detect the difference, yet the triangles will be precisely similar to those in the diagram when PQ is made sufficiently small. 
+
+Example 2. If air in moving from one level to another expands without receiving or giving out heat, that is adiabatically, p = kp”, n = 1.4, where p is the pressure, p the density, and k is constant. Assuming this, if the density at sea level is 0.08 lb. per cu. ft. and the pressure 2116 lb. per sq. ft., find the height of the atmosphere. 
+
+The pressure at any level is due to the weight of air above. 
+
+Imagine a column of air of 1 sq. ft. cross section extending upward from sea level. The pressure at height h is the weight of this column above that height. In moving upward a distance dh the change of pressure is the weight of the volume dh of air. Hence dp —p dh, the negative sign being used because the pressure decreases.
+
+Replacing p by its value kp", this becomes dp nkp"-1 dp = -P dh. 
+
+Separating the variables and integrating,
+
+dh Sa - Snkp"² dp, po where H is the height of the atmosphere and po= 0.08 is the density at sea level. Hence nkpo"-1 n 1 
+
+nkpor (n - 1)po Pokpo". 
+
+At sea level Hence
+
+npo (n - 1)po (1.4) (2116) (0.4) (0.08) = 92,600 ft., or about 17.5 miles.
+
+PROBLEMS 
+
+31 
+
+PROBLEMS 
+
+1. Find the surface of a mirror such that all light from a fixed point is reflected parallel to a fixed line. Take the fixed point as origin and let the light be reflected parallel to the x-axis. Use the polar coördinate r and the x-coördinate as variables. 
+
+2. In a certain type of reflecting telescope, light converging toward a fixed point is reflected by a mirror to another point. Find the shape of the mirror. 
+
+3. Find the pressure at altitude h above sea level assuming that the density of air under pressure p is p = kp pounds per cubic inch and that the pressure at sea level is 14.7 lb. per sq. in. 
+
+4. According to Newton's law the force of gravity on a mass of w pounds at distance r from the center of the earth is WR2 r2 where R is the radius of the earth. Assuming Boyle's law and taking account of this variation of gravitational force with distance, find the pressure of the air at the distance r from the center of the earth. 
+
+5. A cylinder filled with liquid of density p rotates about its axis with angular velocity w. Ultimately the liquid will rotate like a rigid body. If the radius is a and the pressure at the center po, find the pressure at the surface taking account of centrifugal force. Take an element of volume at distance r from the axis and make use of the fact that this is in equilibrium under the pressures on its surfaces and centrifugal force. 
+
+6. A cylinder containing gas rotates about its axis with angular velocity w. 
+
+Assuming Boyle's law p = kp, where p is the pressure, the density, and k a constant, find the law connecting the pressure of the gas and the distance r from the axis. 
+
+7. Assuming that the density of sea water under a pressure of p pounds per square foot is 1+2(10-8)p times its density at the surface (64 lb. per cu. ft.), show that the surface of an ocean 5 miles deep is about 450 ft. lower than it would be if water were incompressible. 
+
+8. If the coefficient of friction between a belt and pulley is μ and the angle of lapping a, show that the tensions T₁, T₂ in the two sides of the belt when it is slipping satisfy the equation T2 
+
+Tiema 9. If the velocity is high, centrifugal force reduces the pressure of the belt on the pulley. Assuming the weight of the belt to be w pounds per unit length and its velocity v, find the equation connecting the tensions in the two sides of the belt.
+
+VARIABLES SEPARABLE MISCELLANEOUS PROBLEMS 
+
+1. One form of the clepsydra, or ancient water clock, consisted of a vessel containing water which escaped through an orifice at the bottom, the vessel being so shaped that the water surface descended at a constant rate. Find the area of its horizontal section as a function of height above the orifice. 
+
+2. A weight of P pounds is supported by a vertical cable. If the cable is made of material weighing w pounds per cubic foot and is so tapered that the stress on each cross section is S pounds per square inch, find the area of cross section as a function of the distance h in feet from the lower end. 
+
+3. When a liquid is rotated about a vertical axis, show that its surface forms a paraboloid of revolution. Observe that the weight of a particle of water at the surface and the centrifugal force on the particle must have as resultant a force perpendicular to the surface. 
+
+4. Owing to slow seepage through the soil, the level of water in the ground varies with horizontal position. The water pressure at any point is proportional to the depth below this level, and the rate of water flow through this point is proportional to the pressure gradient, that is, the derivative of pressure with respect to distance in the direction of flow. Assuming a horizontal stratum at the bottom consisting of material through which the water does not percolate, and a steady state of flow, express the height of water in the ground as a function of distance from a straight horizontal ditch. 
+
+5. Making the same assumptions as in the preceding problem, find the level of water in the ground about a circular pond as a function of distance from the center of the pond. 
+
+6. If the velocity of efflux is small and the temperature constant, the rate at which gas flows from a tank is proportional to p² - po², where p is the pressure in the tank and po the pressure outside. Assuming 
+
+Boyle's law and constant po, show that 
+
+ln - Po p+ po kt +c, where k and c are constants and t is the time. 
+
+7. Assuming the perfect gas law, the pressure and density of air are connected by the equation 96 p(t + 273), where p is the pressure in pounds per square foot, p the density in pounds per cubic foot, and t the temperature in degrees Centigrade. If the atmospheric pressure and temperature at sea level are 2116 lb. per sq. ft. and 15° C. respectively, and the temperature drops 2° C. per 1000 ft. elevation, find the pressure at an altitude of 24,000 ft. 
+
+8. In the decremeter type of wave meter the plate of the variable condenser is so shaped that rotation of the radius through a given small angle increases the total area by the same percentage for all positions on the scale. 
+
+Find the shape of the plate.
+
+MISCELLANEOUS PROBLEMS 
+
+33 9. For direct reading of frequencies the plate of a variable condenser is so shaped that on the part of the scale used the area bounded by a variable radius is inversely proportional to @2. Find the curve formed by the edge of the plate. 
+
+10. At the distance r from a point source of light the intensity of illumination is k cos on a surface whose normal makes the angle with r. Find the surface of revolution all points of which are equally illuminated from a fixed source on the axis. 
+
+11. A tank of capacity 450 cu. ft. contains 250 cu. ft. of water, the remaining volume being filled with air at a pressure of 100 lb. per sq. in. If the gas expands according to Boyle's law, find the time required for the liquid to be driven out through a 2-in. circular hole at the bottom. Neglect the pressure due to the small head of water over the orifice and the pressure of the outside air. 
+
+12. Find the length of time in the preceding problem if the liquid in the tank is gasoline of specific gravity 0.7 that of water. Assume that the coefficient c in the discharge formula is the same for gasoline as water. 
+
+13. The end of a vertical shaft of radius a is supported by a flat step bearing. If the horizontal surface of the bearing carries a uniform load of p pounds per square inch (new bearing) and the coefficient of friction is μ, find the work done against friction in one revolution.
+
+An old bearing is worn a little more at the edge than in the center. Ultimately the pressure varies in such a way that the wear is the same at all points. Assuming that the wear at any point is proportional to the work of friction per unit area at that point, find the law of variation of pressure and show that with a given total load the work per revolution is only threefourths that in a new bearing. 
+
+14. In case of Schiele's pivot the end of the vertical shaft and the surface of the supporting bearing have such a shape that the normal pressure between the two is constant in the old as well as in the new bearing. Find the shape required.
+
+CHAPTER II  16. Exact Differential Equations. The equation 
+
+M dx + N dy = 0 (14) is called exact when there exists a function u with total differential du M dx + N dy. du 0, In this case, (14) can be written and so its solution is u = c. 
+
+Equation (14) is exact when and only when ƏM ƏN Əy ax (15) To show this, first assume that there exists a function u such that Then du Ju ax 
+
+M dx + N dy.
+
+M, ƏM მყ Ju ay 22u მე მყ Therefore 22u შყ მე Since a²u Ju əy əx Əx əy this gives
+
+ƏM ƏN N. ƏN მე ay ax Thus if M dx + N dy is an exact differential, M and N are related as in equation (15). 
+
+Next assume that
+
+ƏM ƏN ay მე 34
+
+EXACT DIFFERENTIAL EQUATIONS 
+
+35 We wish to find a function u such that du M dx + N dy. Let w = = SM M dx be the partial integral of M dx, that is, the integral obtained by holding y fixed. We first show that
+
+aw Əy is a function of y only.
+
+This is true since 
+
+Эх aw ƏN Əy 
+
+If then we take a a მე ay ax SM dx ƏN ƏM მე ay 0. u = w + we have du მე aw dx + -S(N- oy)dy, aw du + (N Əy =M dx + N dy. 
+
+Therefore if
+
+ƏM ƏN Əy ax ? 
+
+aw ay dy there is a function u whose differential is M dx + N dy. 
+
+To solve equation (14) it is necessary to find this function u. 
+
+The terms can often be arranged in groups each of which is an exact differential. In that case the equation is exact and the value of u can be obtained by integrating these groups separately. 
+
+If this cannot be done the condition (15) may be tried to see whether the equation is exact. If so the value of u can then be determined from the fact that
+
+Ju M. ax Since the differentiation is partial, u can be found by partial integration with respect to x, u = =SM M dx +f(y),
+
+the constant being possibly a function of y because any such function is constant in an integration with y constant. This function of y can be found by equating the total differential of u to M dx + N dy. 
+
+In most cases each term in the differential of M dx SM will have x or dx as factor. 
+
+Hence df (y) will be equal to those
+
+Thus f(y) can usually be obtained by integrating the terms in N dy which do not contain x. In exceptional cases this may not be correct. The answer should therefore be checked by differentiation. terms in N dy which do not contain x. 
+
+Example 1. 
+
+(x + y)dx + (2y + x)dy This equation can be written = 0. x dx + 2y dy + (y dx + x dy) = 0. 
+
+It is therefore exact and its solution is = x² + y² + xy = c.
+
+Example 2. 
+
+ey dx + (xey - 2y)dy = 0. 
+
+In this case (ex) ey,
+
+ƏN ƏM ду ax ax მყ 
+
+(xe³ — 2y) = e³.
+
+These derivatives being equal the equation is exact. Hence integrating M dx with y constant we obtain u = = Se dx feder = xey +f(y), du ex dx + [xe + f'(y)]dy, where f'(y) is the derivative of f(y). Comparing with the original equation, we see that and so f'(y) -2y f(y) -y²,
+
+INTEGRATING FACTORS 
+
+37 no constant of integration being added because we wish merely to find a function u which has the given differential. The solution is u = xey 
+
+y2 = C. 
+
+The value of f(y) could have been obtained by integrating -2y dy, which is the part of not containing x. (xex - 2y)dy 
+
+17. Integrating Factors. If an equation of the form 
+
+M dx + N dy is not exact, it can always be made exact by multiplication with a proper factor. Such a multiplier is called an integrating factor. 
+
+For example, the equation y(1 + xy)dx − x dy = 0 
+
+is not exact. It can, however, be written which divided by y² becomes y dx 
+
+x dy + xy² dx = 0, x dy y2 + x dx = : 0. y dx 
+
+Both terms of this equation are exact differentials, and the solution is 1 222 = C. 
+
+An integrating factor in this case is 1 y² Although an equation of the form M dx + N dy = 0 always has integrating factors, there is no general method of finding them.
+
+Example. 
+
+y(2x + y³)dx´— x(2x — y³)dy 
+
+0. 
+
+This may be rewritten (2xy dx - 2x2 dy) + (y¹ dx + xy³ dy) = 0. 
+
+The first group of terms suggests the factors x2, y2, which on account of the negative sign must be in the form of a fraction.
+
+Multiplying by y and dividing by y¹, we have 2xy2 dx 2x²y dy yt 
+
++ (y dx + x dy) = 0. 
+
+This is now in the form of two exact differentials.
+
+Its solution is x2 + xy = c. y2 
+
+EXERCISES 
+
+1. y dx + (x + y)dy = 0. 2. (x² + y²)dx + 2xy dy = 0. 
+
+2y)dy — y(y — 2x)dx 
+
+3. x(x 4. (3x² + 2xy 5. (r cos² 0 
+
+= 0. y²)dx + (x² - 2xy - 3y²)dy = 0. sin 0)dr 
+
+6. (3x²y — 2y³)dx + (x³ · 
+
+7. (3x²y + 2x)dx + (x³ 0. r cos (r sin + 1)do 6xy2)dy 1)dy 
+
+0. 
+
+8. ex (y³ + xy³ + 1)dx + 3y²(xex — 6)dy = 0. 9. (2xev + y²ex + 2x)dx + (x²ev + 2yex)dy 10. y dx 
+
+11. x dy cam 
+
+(x + y)dy = 0. (x² + y)dx = 0. 12. y2 dx + x2 dy-2xy dy = 0. 13. x dy + y dx = y2 dx. 14. y(3x-2y)dx + x(x — 2y)dy = 0. 
+
+15. x dy 
+
+y dx + (x² + y²)dx = 0. 16. y(xy + 1)dx 
+
+x ln x dy = 0. 17. (x + y)dy · (y-x)dx = 0. 
+
+18.
+
+cos 0(1 + 2r cos2 0)dr + r sin (1 
+
+tan 0)dr + r sec 0 (sec 0 19. (r2 seco 20. ex (x + 1)dx + (yev 
+
+xex)dy = 0. 
+
+0. = 0. r cos¹ 0)de = 0. + r² tan 0)de = 0. 
+
+18. Linear Equations. A differential equation of the form dy + Py = Q, dx (16) where P and Q are functions of x or constants, is called linear in y. A similar equation with x and y interchanged, is called linear in x. A linear equation is thus an equation of the first degree in one of the variables and its derivative. Any functions of the other variable may occur. 
+
+When the equation is written in the form (16), eSP dx
+
+LINEAR EQUATIONS 
+
+39 is an integrating factor; for, when multiplied by this factor, the equation becomes eSP dx dy dx dx + yeSP ¿x P = eSP dx Q. 
+
+The left side is the derivative of Hence is the solution. dx yeSP dz vesp₁ = Sefr #Qdz + c =SeSP dx A second method of solving a linear equation is to place Then y = uv. 22 dy dv du dx = U +v. dx dx' and equation (16) becomes or dv И + v dx dx du + Puv Q, du (17) u (do + Po) + (od - Q) - 0. dx Pv - dx This equation will be satisfied if each term is separately zero. 
+
+Hence place the coefficient of u equal to zero, and also dv + Pv = 0, dx du Q = 0. dx Solving the first of these gives v in terms of x, no constant of integration being added since all that is desired is a single value of v. Substituting this in the second equation and integrating gives u in terms of x. This time a constant of integration is added, for we want y = uv to be the general solution of the problem.
+
+Example 1. 
+
+dy X + 2y = x². dx Being of the first degree in y and dy this equation is linear. To reduce it to the standard form (16) it must be divided by x, giving 
+
+In this case Hence dy 2 + ย = x3. dx X 
+
+SPdx = Sada esp dx = 2 ln x ln x². eSP dx = eln x² = x².
+
+The integrating factor is therefore x². Multiplying by this and changing to differentials, the equation becomes x² dy + 2xy dx = x5 dx. 
+
+The left side is the derivative of x²y, and so the solution is x²y x6+c. 
+
+Using the second method we would write Hence or y = uv, dv = U dy dx dx dv du +v dx + 2uv 24, u(x dx x(uda+odu) 
+
+u (x dve + 2v) + (xv du — x¹) = 0. 
+
+Setting the coefficient of u equal to zero, we have dv dx +2v = 0, In v2 ln x, v = 1 X2
+
+LINEAR EQUATIONS 
+
+41 Substituting this value in the second term gives 
+
+XV 
+
+du dx 1 du 
+
+24 204 0, whence 
+
+Therefore finally or as before. u = x dx x6 + c. y = uv = (¿x + c) 1/1, x2 x²y = 126 + c 
+
+Example 2. 
+
+(1 + y²)dx 
+
+(xy + y + y³) dy = 0.
+
+This is an equation of the first degree in x and dx. Dividing by (1+ y²)dy it takes the form dx dy 
+
+P is here a function of y and 1+ y² x = y. SPdy=fdy = ln (1+ y²), 1+ y² eSpay 1 √1+ y² Multiplying by this factor the equation becomes dx √1+ y² xy dy (1+ y²) y dy √1 + y² whence and √1+ y² = √1+ y²+c, x = 1+ y² + c√1 + y². 
+
+Solving by the second method, x = uv, dx = u dv + v du, and we have u[(1 + y²)dv — vy dy] + [(1 + y²)v du — 
+
+(y + y³)dy] = 0.
+
+Therefore In v dv y dy 1+ y² } In (1 + y²), v = = √1 + y². 
+
+Using this value of v we also have 
+
+(1 + y²) § du and again we have du 
+
+= 0, (y + y³)dy y dy √1+ y² u = √1 + y² + c, x = uv = 1 + y² + c√1 + y². 
+
+19. Equations Reducible to Linear Form. An equation of the form dy dx + Py Qy", (18) where P and Q are functions of x or constants, can be made linear by a change of variable. Dividing by y" it becomes dy dx y-n + Py¹n Q. 
+
+If we take yl-n = u as new variable, the equation becomes 1 du wwwwwww n dx + Pu Q, which is linear in u.
+
+Example. 
+
+Division by y³ gives dy 2 += y = Let v-³dy + 2 v² = = 1 u = y²,
+
+EQUATIONS REDUCIBLE TO LINEAR FORM 
+
+43 then whence du dx dy 
+
+y-³ dx 
+
+Substituting these values we obtain 1 du 2 dx ཛྱེ།✺ dy 2y-3 dx' and so 1 du 
+
+2 dx 2 += u = 1 du 2 u = dx This is a linear equation with solution 1 u = 3x2 + cx¹, or, since uy-², 1 y2 1 3x2 + cx².
+
+EXERCISES 
+
+1. dy 
+
+dy + 2y 2. x dx 3. y dx ex. = 3x. (2x + 2y¹)dy. 
+
+4. (x + 1)2 dy 5. tan x 6. x2 dy dy dx dx 
+
++3(x+1)y = 2. 2y = 2a. (4-3x 
+
+3xy)dx. 7. (y³ — y)dx + (xy² + x − y² + 1)dy = 0. 8. (x2 1) dy + xy= x(x² - 1). dy dx 
+
+9, x + y(x cot x + 1) = cot x. 
+
+10. (x + sin y 
+
+1)dy + cos y dx = 0. dy 11. x2 dx + (x² + 2x)y 1. 12. 13. x2 14. xa 
+
+HS HIS F 
+
+y dx + (x²y — x)dy = = 0. dy 
+
+dx บริ 2xy. dy 
+
+· xy + y³ex = 0.
+
+15. (y² — xy)dx + x² dy = 0. 16. y dx 
+
+(y³ — x)dy. dy dx 
+
+17. + y = xy³. 18. (2xy³ — y)dx + 2x dy = 0. 19. y dx + (x²y¹ 3x)dy 20. (x² - 1)dy — y(2x 21. 2 cos y dx 
+
+0. 3y)dx (x sin yx³)dy = 0. 0. 
+
+20. Homogeneous Equations. The degree of an algebraic expression depends on the variables counted in the measurement of degree. Thus a linear equation in analytic geometry is one of the first degree in the coördinates, while a linear differential equation is of the first degree in one variable and its derivative. 
+
+Having assigned the variables to be counted, the degree of a product is the sum of the exponents of those variables in the product. Thus x²y is an expression of the second degree in x, the first degree in y, and the third degree in x and y.
+
+Whatever definition of degree is used, an expression is said to be homogeneous if it is a sum of terms all having the same degree. Thus y2 x² + xy - y² is homogeneous in x and y, each term being of the second degree. 
+
+More generally, f(x, y) is said to be a homogeneous function of the nth degree in x and y if f(tx, ty) tf(x, y) (19) for all values of t, x, y. Thus √x²+ y² is a homogeneous function of the first degree, for when x and y are replaced by tx and ty it becomes √t²x² + t²y² t√x² + y². 
+
+The differential equation
+
+M dx + N dy = 0 is called homogeneous if M and N are homogeneous functions of the same degree in x and y. Thus 3x dx + √x² + y² dy = 0
+
+HOMOGENEOUS EQUATIONS 
+
+45 is homogeneous, the coefficients of dx and dy being both homogeneous functions of the first degree.
+
+To solve a homogeneous equation in x and y, substitute or y = vx, x = vy.
+
+The new equation in v and x or v and y will be separable and so may be integrated by separating the variables. To show this, suppose that
+
+M = f₁(x, y), _N = ƒ2(x, y) are both homogeneous functions of the nth degree in x and y. By (19) ƒ1(x, vx) = x^ƒ1(1, v), f2(x, vx) x"f2(1, v), the quantities t, x, y in (19) being here replaced by x, 1, v. Substituting y = vx we therefore have M_f₁(1, v) Ñ ¯¯ ƒ½(1, v) = f(v). 
+
+The differential equation can be written or dy + dx = 0, v dx + x dv + f(v)dx = 0. 
+
+This is equivalent to [v +ƒ(v)]dx + x dv 0, which is a separable equation.
+
+Example 1. 
+
+dy dx 
+
+√x² + y². 
+
+This is a homogeneous equation, the coefficients being homogeneous functions of the first degree. Substituting dy 1 vx, v + x dv dx dx
+
+the equation becomes 2 (v xv+x whence dv dx dv 
+
+vx = √x² + v²x², Xx = √1 + v². * dx This is a separable equation with solution x = c(v + √1 + v²). 
+
+Replacing v by its value, transposing, squaring, etc.
+
+, we obtain 
+
+Example 2. 
+
+x² - 2cy = c². 2x² dy +(y² - 2xy - x²)dx 0.
+
+This is a homogeneous equation, the coefficients of dx and dy being homogeneous functions of the second degree. Place y = vx, dy = v dx + x dv, and the equation takes the form 2x²(v dx + x dv) + (v²x² 
+
+2x2v x²)dx = 0, which reduces to 2x dv + (v² 1)dx 0. 
+
+Separating the variables and integrating, whence
+
+In v+1 
+
+1 + ln x 
+
+In c, x(v 
+
+1) c(v + 1).
+
+Replacing by, this becomes or x(y - x) c(y + x), · x (x + c). 
+
+21. Equations Reducible to Homogeneous. Heretofore we have considered x and y to be of the first degree, and an expression homogeneous if it is a sum of terms all of the same degree.
+
+EQUATIONS REDUCIBLE TO HOMOGENEOUS 
+
+47 Sometimes an expression which is not homogeneous in this sense becomes homogeneous if x and y are considered of different degrees, or dimensions. The differential of x must be considered as having the same dimension as x, and similarly for y. The dimension of a product is then the sum of the dimensions of its factors, and an expression
+
+M dx + N dy is considered homogeneous if it is a sum of terms all of the same dimension. 
+
+Thus the equation (xy2-3y)dxx dy 0. is homogeneous if we consider x to be of dimension 1 and y of dimension -1, for then it is a sum of terms each of dimension zero.
+
+To solve an equation which is homogeneous when x is considered of dimension 1 and y of dimension n, place y = vxn.
+
+The new equation in v and x will then be separable. 
+
+Thus in the above equation, we let and so it becomes x' dy x dv v dx x² 
+
+3v (230) dx - z(x dvdx) - 0. 
+
+This reduces to dx dv 
+
+v2 2v which has as solution or Therefore 2 ln x+In vln (v2) + In c = 0, v 2 
+
+= cx2. 2 1 
+
+---
+
+and finally 2 y = 2/23 x(1 - cx²)
+
+It should be noted that with the dimensions assigned to x and y, the quantity v determined by the substitution y = vxn is of dimension zero. This is the only feature important in the substitution; for if we express y in terms of x and any other quantity v of zero dimension, the differential equation will become separable.
+
+Example. 
+
+-11--22 (1 + x²y + x¹y²)dy + 2x³y³ dx 0. 
+
+This equation is homogeneous if we consider y to be of dimension 1 and x of dimension -1. However, since x enters only as x² and its differential 2x dx, it is simpler to take x² of dimension -1, that is, x2 
+
+2x dx y dv v dy y² The equation then becomes (y dv vy²( p (y 
+
+(1 + v + v³)dy + m² (u du - dy) - 0, y2 whence dy v dv 0. 1+v The solution of this equation is or In y + vln (1 + v) = ye" = c(1+v). Yexzy c(1 + x²y).
+
+But v = x²y, and so finally 
+
+(x3+ y³)dx 
+
+1. xy2 dy 2. (x − y)dx 2x dy 
+
+0. 0. 
+
+EXERCISES 
+
+3. (x2 
+
+dy xy) + y² dx 0. 
+
+4.
+
+(x² - xy)dy + (x² − xy + y²)dx 0. 
+
+In c,
+
+EQUATIONS OF HIGHER DEGREE 
+
+49 dy dx 5. (3xy - 2x²) + (xy - 2y2) = 0. 6. (y² xy - x²)dx + x² dy = 0. 7. (x²y + 2y³)dx dy 8. 2x3 + (y³ dx 
+
+(2x3 + 3xy2)dy = 0. x²y) = 0. 9. y² dx + (x √ y² x2 
+
+10. (x²y — xy² + y³)dx + 
+
+11. (1 - xy²)dx — 2x²y dy 
+
+dy dx 
+
+xy)dy = 0. (x³ + x²y + xy²)dy = 0. = 0. 
+
+12. x²(1 - xy) + (1 + xy − x²y²) = 0. 13. (2y2 - 3x)dx + 2xy dy 
+
+= 0. 14. (y² 
+
+- 3x²y)dx + x³ dy 
+
+15. 2(xy² + 1)dy + y³ dx dy dx 
+
+16. (1 - x²y) + 2xy2 = 0. 0. 0. 
+
+17. y(3 — xy)dx + x(2 − xy)dy = 0. 
+
+18. (x+2x²y)dy + (2y + 3xy²)dx = 0. dy dx 
+
+19. (x²y + x) + (xy² g) 20. (x2 
+
+2y³)dx + 3xy² dy = 0. = 0. 
+
+22. Equations of Higher Degree. The degree of a differential equation is the largest exponent of the highest derivative it contains when the equation has been freed of fractions and radicals containing the derivatives. Thus dy 
+
+2x dy + y dx 0, 2 dy 1 + dx dx (day) are equations of the second degree. The equations previously solved have been mainly of the first degree. 
+
+In case of equations of first order and higher degree it will be found convenient to represent the derivative by a single letter dy dx The first equation above is thus written p²y - 2xp + y = 0. (20) (21) In most cases such equations are handled by solving for p. 
+
+The resulting first degree equations may be treated by the
+
+methods previously given.
+
+Thus from (21) we obtain dy dx y2 which is a homogeneous equation. 
+
+A second method is to solve for y. The resulting equation y = f(x, p) may be differentiated with respect to x, giving du dx af af dp ax ap dx' (22) which is an equation of the first order in the variables p and x.
+
+Its solution 
+
+F(x, c) together with (22) may be considered as parametric equations of the integral curves, or by eliminating the parameter p the final solution may be obtained as an equation in x, y, and c only. 
+
+A third method is to solve for x. The resulting equation x = (y, p) may be differentiated with respect to y, giving dx 1 dy Эф 2 dp ay ap dy This is a differential equation of the first order in the variables y and p. Its solution together with the original differential equation may be regarded as parametric equations of the integral curves, or by eliminating p a solution may be obtained containing only x, y, and a constant of integration. 
+
+Example 1. 
+
+2 xy dx (day)² + (y² 
+
+dy 22) dx dy Replacing by p this becomes dx 
+
+xy = 0. 
+
+xype + (y2 – x)p − y = 0.
+
+EQUATIONS OF HIGHER DEGREE 
+
+51 This is a quadratic in p with solution x² — y²±√(y² — x²)² + 4x²y² 2xy The result is two separate equations dy 
+
+dx dy dx 
+
+These have as solutions (x² — y²) ± (x² + y²), ±(x² 2xy (x² - y²) + (x² + y²) X 2xy (x² - y²)-(x² + y²) 2xy y2 
+
+x² = C, xy = c, either of which is a solution of the original differential equation. 
+
+If this occurred in a real problem it would be necessary to determine whether both of these or only one satisfied the conditions of the problem.
+
+Example 2. 
+
+y X dy dx +f $(dry). dx This is called Clairaut's form.
+
+Substituting p for dit becomes y = xp + f(p). (23a) Using the second method described above, we differentiate with respect to x and so obtain dy dx = p = p + xdx + f'(p) dr dp dp dx' where f'(p) is the derivative of f(p) with respect to p. Cancelling p this gives [x +ƒ'(p)]d = 0. 
+
+There are two solutions, namely, dx dp = 0, dx x + f'(x) = 0. (236)
+
+The first gives p = c, whence from (23a) y = cx + f(c). (23c) This is a system of straight lines. The second, together with (23a), determines a single curve with parametric equations y = px + f(p), x = -ƒ' (p). (23d) At the point where p = c the tangent line to this curve is found to be (23c). The complete solution thus consists of a curve (23d) and all its tangent lines (23c). 
+
+Example 3. 
+
+2 У dx y (dv)² - 2x dy + y = 0. dx dy dx When is replaced by p this becomes yp² - 2xp + y = 0. (24a) Using the third method indicated above, we solve for x and so obtain x = y(1 + p²). 2p Differentiated with respect to y, this gives dx dy 1 
+
+1 + p², y(p² - 1) dp dy whence 
+
+We conclude that or 2p 2p2 p² 
+
+1 dp p+ y 2p2 dy = ±1 dp p+ y 0. dy 0. 
+
+The last equation gives py = C. 
+
+Eliminating p from this and (24a) we obtain y2 = 2cx c2 
+
+(246) (24c) (24d)
+
+GEOMETRICAL REPRESENTATION 
+
+53 as the principal solution. From (246) and (24a) we find that the straight lines are also solutions. y = ±x (24e) 
+
+23. Geometrical Representation. An equation of the first order and first degree determines only one slope at each point and so only one curve through that point. An equation of the second degree in general determines two slopes and so two curves through each point. The degree of a first order equation thus indicates the number of curves through a point, though these may not all be distinct or real.
+
+If we start at a point and follow the direction indicated by one of the slopes we usually find only one curve tangent at each point to the direction we are following. We thus trace out an integral curve. In case of an equation of higher degree there will generally be points at which two or more of the slopes coincide. The curves are then tangent and it becomes difficult to determine which curve is the continuation of the one we are tracing.
+
+Thus in case of equation (24a) the two slopes at each point, namely y2 dy dx x ± √x² 
+
+·y², are distinguished by the positive and negative signs before the radical. These are different if the radical is not zero. Along the lines y = x and y = 
+
+the slopes are, however, equal and the curves tangent. As shown in Fig. 8, these lines are tangent at each point to the integral curves. They therefore have the correct direction at each point and so are solutions of the differential equation. 
+
+The general solution of the equation is y2 = 2cx 
+
+c², as given by (24d). The values y = x and y = – xin (24e) cannot be obtained by assigning any particular values to the constant c. 
+
+They are called singular solutions.
+
+An equation of higher degree may thus have two types of solutions. The general solution contains a constant of integra-
+
+tion and so represents an infinite number of curves. In addition there may be a locus, called the envelope, tangent to these curves at each of its points. If this envelope is not one of the curves its equation is a singular solution. P(x,y) •X 
+
+FIG. 8 
+
+In most cases we do not solve a single problem but a whole class of problems with various initial conditions. Thus if we desire the curve described by a shell from a gun we find the set of curves for all angles of elevation of the gun. The solution desired is thus represented by an infinite number of curves and so is the general solution. 1. 2 (dv)²+dy - dx dx 2 
+
+- 2 = 0. x (dz)' – 2ydy 
+
+2. x 2 
+
+dx 
+
+3. y²(dz.)² = 1 + y². dx dy 2 =4x2 x = 0. 4 (v + dx =)² = 42dy. y2 4. 5. (dv)² dx 
+
+EXERCISES 
+
+- (x + y) + xy = 0. dy 6. 4x²y-(d)+2x dv 2 dy dx 7.4v (4) - 2x²+ -0. 4y -: y =
+
+CHANGE OF VARIABLE 
+
+55 () 8. 313 313 (dy) 2 9. dy dx 2 
+
+'dy 2 dx 2x dy- dx dy dx 
+
+3x2 = 0. + y = 0. 
+
+3xy (d1)³ – 2y²(d1) + 2 -10. 11. dx dy2 
+
+dx (d)² + x(+1) dy 12. y v(dz)* + 2x de dx 2 dx = 0. dy +x²y = 0. dx y = 0. 13. (v)-(+) 
+
+14. x dx 2 dx 
+
+dx ydy + 4x = 0. -2y dx dy2 
+
+15. (x² - y) (7) dx 
+
+dy 2xy + y² dx 0. 
+
+24. Change of Variable. We have solved the homogeneous equation by taking v = as new variable. It may be possible to reduce any equation to a simpler form by taking some function u as new variable, or by taking two functions u and v as new variables. 
+
+If the differential equation only is known, some expression appearing in the equation may be suggested as a good variable. 
+
+Thus it often happens that y appears only in the combinations y² and у dx dy By taking dy 1 du y² = u, y dx = 2 dx a simpler equation may be obtained.
+
+If the equation occurs in the solution of a problem, quantities that play a prominent part in the statement of the problem may be suggested as good variables. In setting up the differential equation it is usually better to choose as coördinate axes a configuration defined as completely as possible by the conditions of the problem and not choose this reference system arbitrarily. 
+
+Thus in a problem of two dimensions if there is symmetry with respect to a particular line this is suggested as a coördinate axis, and if there is symmetry with respect to a point this may be chosen as origin in polar coördinates. By choosing appropriate
+
+variables in the first place the process of setting up the differential equation is simplified and its solution obtained more easily without further change of variables.
+
+Example. 
+
+(x − y)2 dy = a². dx The prominent position of the quantity x - y suggests the substitution 
+
+This gives
+
+1. 
+
+y = u. dy dx du dx and the differential equation becomes u² 1 
+
+u² -- a² du dx a², du = u2 dx' which is separable.
+
+The solution is 
+
+x = u + = ln 2 Replacing u by x − y we find In 2 X 
+
+u + a 
+
+y α y + a + c. + c. 
+
+25. Simultaneous Equations. The equations we have solved have always contained two variables one of which may be considered independent, the other dependent. In simultaneous equations containing a single independent variable and as many dependent variables as equations, it may be possible to eliminate all but one of these, solve for this, and by substituting in the other equations complete the solution. A very common case is represented by the equations dx dt dy f1(x, t), f2(x, y, t). dt In this case the first equation, containing only two variables, can be solved for x as a function of t. This value is substituted in the second equation which can then be solved for y.
+
+SIMULTANEOUS EQUATIONS 
+
+57 
+
+Example. 
+
+dx dt dt = k₁x, dy = k₂(x − y). 
+
+The first equation containing only x and t can be solved for x, giving x = Ciekit
+
+Substituting this value in the second equation, we have dy + k₂y k2c1ekit dt This is a linear equation in y with solution C₂e-k₂t + k2C1 ekit k₁ + k₂ (a) (b) The equations (a) and (b), containing two constants of integration c₁ and c2, constitute the solution. 
+
+EXERCISES 
+
+1. (x + y − 1)dx + (2x + 2y − 3)dy = 0. dy 
+
+2. 3y² dx 3. (1 
+
+4. xy dy 
+
+5. ev 6. - y³ = x. 
+
+xy cos xy)dx x² cos xy dy = 0.
+
+(y²+x³)dx. ev (d-1) x2 sin x2 
+
+7. (xyev + 
+
+= ex. 2y cos 214 ) dx + x cos y²) dx xyev + y²)dx 
+
+8. x dy (xy + ex 
+
+x²ev dy y)dx. = €0. 9. yev² dx + (y² - 2xev³)dy = 0. 
+
+10. x cos y dy + (2 sin y — 3x)dx dx 11. + x = et, dy dt dx dy 12. + y = x, dt = x. 
+
+322 dy = 0. 0. x2 dt 13. 2tx dx + (t² — x²)dt 
+
+dx 
+
+14. t dt + 2x x2t, 15. t dx + (2x — 3t)dt 
+
+3y. 0, dy 
+
+0, +2² 2t2. dt x dy = t dt. dy2t(2xt + 1)dt 0.
+
+16. dx 
+
+2y dt 0, 17. dx dt dy dy 
+
+(y + et)dt = 0. + 2t, 12 2ty+t2y2. dt dx dy 18. dt. 1. y dx 
+
+dy 
+
+MISCELLANEOUS EXERCISES 
+
+x ln x dy = 0. 
+
+2. x + y dx x². 3. (y-x)dy + dx = 0. 
+
+4. y2 
+
+x2 dx x dy - y dx. = 0. 
+
+5. (2x + y)dx + (x − 2y)dy 6. x2 dy dx dy 
+
+-2xy 7. x2 -2xy dx 8. (x² + y²)dx 
+
+9. x(x-1)dy + (y — 2x³)dx 
+
+= = 3. 3y. 
+
+2xy dy = 0. = = 0. 
+
+10. x +(x dy 
+
+dx 1)y x²(x + 1). 11. x dy (y + x √x² + y²)dx. 12. (xy + x²)dy + y² dx = 0. 
+
+13. y √4x2 
+
+y2 dx 2xy dx 
+
+14. (x² - 1) dy + 
+
+15. (x - sin³ y)dy 16. (2 — x²y)dy · 
+
+2x2 dy. (x³ + 3xy √x² sin y cos y dx. 2xy2 dx 17. 2x(x + 1)dy + (xy + 2y · 18. (2xy² - y)dx + x dy = 0. 19. yev dx == (y³ + 2xev)dy. 0. 
+
+1)dx 0. x - 1)dx = 0. 20. (sin x + y)dy + (y cos x - x²)dx dy 21. y + y² cot x = cos x.
+
+dx ev (dzy + 1) = 22. ev dx 'dy2 dx ex 23. x2 (dz)² − y(x² + y²) 24. (a² 
+
+2 x2) (d)² + 2xy dx + (x + y) = 0, dx 
+
+25. t dt dx 26. =x 
+
+dt t, = 0. dye y• + y₁ = 0. dy ax + b² — y² = 0. dy dt 
+
+- - y = √t² + y². dx dy + = 1 dt dt 
+
+2t.
+
+PROBLEMS 
+
+59 
+
+PROBLEMS 
+
+1. If i is the current, the electromotive force (e.m.f.
+
+) across a resistance di dt R is Ri and that across an inductance L is L The e.m.f.
+
+impressed upon a circuit containing a resistance R and an inductance L in series is E and e = E sin (wt), being constants. Find the current at time t if i = 0 when t = 0. 
+
+2. An e.m.f. e= E sin (wt) is impressed upon a circuit containing a resistance R and capacitance C in series. Assuming that the condenser is discharged at the start, the e.m.f. across it at time t is 1 i dt. If i = 0 at t = 0, find i as a function of t. 
+
+3. Two circuits of resistance R1, R2, and inductance L1, L2 respectively are connected in parallel between the mains of a transmission line. The total current they receive is I sin (wt), where I and w are constants. Find the current in each circuit and the e.m.f. between the mains assuming that both currents are zero at t = 0. 
+
+4. A current of I amperes flows through a resistance of R ohms having a heat capacity of C calories per degree Centigrade. Assuming that heat is lost at a rate k times the difference between its temperature T and that of the air To, find the temperature of the resistance as a function of the time (cf. Problem 9, page 25). 
+
+5. Using rectangular coördinates, find the shape of a reflector such that light coming from a fixed point is reflected parallel to a fixed line. 
+
+6. Find the orthogonal trajectories of the system of circles y² + x² = 2cy. 
+
+7. Find the system of curves orthogonal to y² - x² 2cy. 
+
+8. Find the system of curves orthogonal to y = x + 1+ cex. 
+
+9. Show that the system of curves is self-orthogonal. x2 2cy + c² 10. At each point P(x, y) of a curve the angle between the tangent and ordinate is bisected by the line from P to the origin. Find the equation of the curve. 
+
+11. The tangent at the point P(x, y) of a curve bisects the angle between the ordinate and the line from P to the origin. Find the equation of the curve.
+
+12. A surface of revolution is generated by rotating the curve y = f(x) about the x-axis. Find the equation of the curve if the volume bounded by the surface and two planes perpendicular to its axis is proportional to the area of the surface between those planes. 
+
+13. When the equation of a straight line is written in the form 0+1=1 1, the quantities a and b are called the intercepts of the line on the coördinate axes. Show that the tangent to a curve has the intercepts a = x = y - px, p' where p is the slope and (x, y) is the point of tangency. Hence show that any equation f(a, b) = 0 satisfied by the intercepts of the tangent lines to a curve is a differential equation of Clairaut's form (cf. Example 2, page 51). 
+
+14. The tangent to a curve and the coördinate axes form a triangle of constant area a². Find the equation of the curve. 
+
+15. Find the equation of the curve such that the portion of the tangent between the coördinate axes is of constant length a. 
+
+16. A soap film extends between two parallel circular rings with centers on a line perpendicular to their planes. Considering surface tension as a constant tangential force T per unit length across any path in the surface and neglecting the weight of the film, find its geometrical form. 
+
+17. In a tank are 100 gal. of brine containing 50 lb. of dissolved salt. Water runs into this at the rate of 3 gal. per minute and then passes out at the same rate through a second 100-gal. tank initially filled with pure water. How much salt is in this second tank at the end of 1 hour? 
+
+18. In a chemical reaction a substance c decomposes into two substances x and y, the rate at which these products are formed being proportional to the amount of c present. If at the beginning c = 1, x = 0, y = 0, and at the end of 1 hour c = 11, x = - }, y = }, find x and y as functions of the time. 
+
+19. In a certain chemical reaction, 1 mol of y is produced for each mol of x consumed, the rate being proportional to the amount of x present, and at the same time y by a reverse reaction is converted into x at a rate proportional to the amount of y present. Chemical analysis showed t = 
+
+0, 3, x = 10, 6, 5.5 = 0, 4, 4.5. 
+
+Find x and y as functions of t. 
+
+20. Radioactive substances are transformed at a rate proportional to the amount of substance present. Through the decomposition of a mol of radium 
+
+B a mol of radium C is produced, the rate being such that one-half the radium B disappears in 27 minutes. Similarly the radium C decomposes at a rate such that one-half of it is lost in 19.5 minutes. If initially 1 mol of radium B is present, find the amounts of radium B and radium C at the end of 1 hour,
+
+PROBLEMS 
+
+61 21. Suppose that bacteria grow at a rate proportional to the number present, but that they produce toxins which destroy them at a rate proportional to the number of bacteria and to the amount of toxin. Suppose further that the rate of production of toxin is proportional to the number of living bacteria. 
+
+Show that the number increases to a maximum and then decreases to zero and at time t is given by 4M (ekt + ee-kt) 2' where M is the maximum number and t is measured from the time when N is a maximum.
+
+CHAPTER III  
+
+26. General Theory. A differential equation of the second order in two variables (x independent and y dependent) has the form dy f(x, u, dv, dy) = 0. (25) By solving for the second derivative, one or more equations of the form dy (dz) = + (x, y, dz) are obtained. In general such an equation is solved by transforming it into an exact differential equation dx du (z, v, dy) - 0, the solution of which is u (x, v, d) dy = C1. (26) This is a first order equation which, solved for y, gives y = 
+
+F(x, C1, C2). (27) To solve a second order equation thus requires two integrations, and so the general solution contains two constants of integration. In (26) we could substitute arbitrary values for x, y, dy dx and find c₁, then substitute these values of x, y, c₁ in (27) and find c₂. In the simplest cases there are then an infinite number of integral curves through each point, one passing through the point in each direction. In more complicated cases, for example, when (25) is of higher degree, there may be several curves through the same point in the same direction, and at some points part or all of these may be imaginary. 62
+
+EQUATIONS NOT CONTAINING y 
+
+63 The constants c₁, c₂ in (27) are called independent if it is not possible to reduce this equation to the form f(x, c), where c is some function of c₁ and c₂. Thus, if y = x² + C₁ + C2, the constants are not independent, for by replacing c₁ + c₂ by c this equation can be written = x² + c, which contains only one constant instead of two. 
+
+The general solution of a second order differential equation contains two independent constants of integration. 
+
+27. Equations Immediately Integrable. An equation of the form d2y dx2 f(x) (28) can be solved directly by two integrations. The first integration gives dy = Sf(x)dx = f1(x) + c1, dx where fi(x) is the function obtained by integrating f(x)dx. A second integration gives the general solution in the form y = =S[ƒ1(x) + c₁]dx = ƒ2(x) + €1x + €2. 
+
+28. Equations Not Containing y. An equation of the second order in which y does not appear directly but only in the derivatives can be solved for the second derivative and so reduced to the form 
+
+Take as a new variable dy day - f(x, du). dx2 dy dx (29) Then
+
+dx dp d²y dx dx²' (30)
+
+and so (29) can be written dp = f(x, p). dx This is a first order equation in the variables x, p with a solution of the form p F(x, c1), c₁ being the constant of integration.
+
+Substituting have dy dx 
+
+F(x, c1), whence 
+
+Example. 
+
+= ƒ F(x, c1)dx + c2. (1 + x) day + dy 0. dx2 dy 
+
+Substituting p for dx' we have dp dx (1 + x) d² + p = 0.
+
+This is an exact equation with solution (1 + x)p = c1.
+
+Replacing p by dy and separating the variables dx dy C1 dx dy for p, we dx whence 1 + x y = c₁ ln (1 + x) + C2. 
+
+29. Equations Not Containing x. An equation not directly containing x can be reduced to the form Substitute d-f(v, dy). y, dx dzy dx2 (31) 20 dy (32) dx
+
+LINEAR EQUATIONS OF THE SECOND ORDER 
+
+65 and write the second derivative in the form dzy dx2 dp (33) dy dp dp_dp dy dx dy dx 
+
+These substitutions bring (31) to the form dp p = f(y, p). P dy This is a first order equation which can be solved for p.
+
+Then p dy da, giving a first order equation which can be is replaced by dx' solved by separation of the variables.
+
+Example. 
+
+Substituting dzy Y dx² y² dx dy dy 2 dx dp dy ㄓ​一口​一口 ​dy dx the equation becomes 
+
+Dividing by p, yp dp dy y²p + p². dp บวบ The solution of this equation is whence and x = y² + p. y + c1, - dy = y(y + c₁), dy dx · Su(y + c₁) C1 In + C2. y + ci 
+
+30. Linear Equations of the Second Order. An equation of the form dzy dx² +₤1(x) dy +ƒ2(x)y = ƒ3(x), dx (34)
+
+that is, an equation of the first degree in y and its derivatives, is called linear. The special case in which fi(x) and ƒ2(x) are constant is treated in the next chapter. 
+
+In general the linear equation with variable coefficients f(x) and f(x) cannot be solved by our present methods. Often, however, a particular solution of the abridged equation day dx2 dy dx +f1(x) +f2(x)y = 0 (35) is known or can be found by trial. If y = u is such a solution, that is, if d'u dx2 du dx +f1(x) +f2(x)u = 0, the substitution y = uv (36) reduces the original equation (34) to a form which does not directly contain v. This can be solved by the method of Art. 28, and then y = Uv is the solution required. When the differential equation occurs in the solution of a problem the function u can often be obtained by solving some simple case of the same problem. 
+
+To show the effect of the substitution, replace y in (34) by uv.
+
+After rearrangement of terms the equation becomes d2v dx2 dave + [uf (x) + 2 du] dv [d²u du + +f1(x) dx dx dx dx2 By (36) the coefficient of v is zero and so dv + ·ƒ2(x)u]v = fs(x). ude +[uf (x) + 2 du] dr = f(x). dx2 dx dx Since u is a known function of x the substitution dv dx = p reduces this to a linear equation of the first order in p.
+
+Example. 
+
+X2 dzy dx2 
+
+dx dy X + y = x².
+
+HOMOGENEOUS EQUATIONS 
+
+67 The abridged equation is x2 dzy - xdy + y = 0. dx2 To find a particular solution try 
+
+This substitution gives which is satisfied if (m² 
+
+m² 
+
+y = хт 
+
+2m+1)xm = 0, 2m + 1 = 0, that is, if m = 1. The particular solution is consequently y = x. Substituting y = xv the original equation becomes d2v dv X3 dx2 +x² x². dx The solution of this is whence v = x + c₁ ln x + C2, y = xv = x² + c₁x ln x + c₂X. 
+
+31. Homogeneous Equations. A differential equation is called homogeneous if its terms are all of the same degree, or dimension. Depending on the dimensions assigned to x and y, there are several ways in which an equation can be homogeneous. 
+
+If x is considered of dimension 1 and y of dimension zero, dy dzy is of dimension -1 and dx dx2 dy y, of dimension -2. An equation f(x, v, du, d) = 0, y, dx' (37) which is homogeneous when dimensions are assigned in this way, may be called homogeneous in x. If we substitute we find dy dx d2y dx2 x = e², dy e-t e-2 dt dzy dy dt2 
+
+dy] dt
+
+The right side of each of these equations has the factor e raised to a power equal to the dimension of the quantity on the left. 
+
+Because of homogeneity, when these values are substituted in (37) the powers of e' will then factor out leaving an equation of the form 
+
+F(v, dy, day)- 0. 
+
+Since this does not contain t explicitly, it may be handled by the method of Art. 29. 
+
+Similarly, if an equation is homogeneous in y, the substitution y = et will reduce it to a form which does not contain t. 
+
+If an equation is homogeneous when x is considered of dimension 1 and y of dimension n, the substitution y vxn will reduce it to a form homogeneous in x.
+
+Example. 
+
+dzy dy 2 dy xy +x = y dx dx² dx This is homogeneous in x and also homogeneous in y. Substituting it becomes 2 x = et dzy + Y at² 'dy dt dy Zy at The regular method would be to take since both sides are exact derivatives with respect to t, integrady as a new variable, but, dt tion gives dy y at y²+ C1.
+
+By separating the variables and making a second integration we finally obtain y² + C₁ = C₂e² = С2x².
+
+DEFLECTION OF BEAMS 
+
+69 
+
+EXERCISES 
+
+1. d + sin x = 0. dx2 
+
+2. x day dx2 
+
+1 + x². day dy 
+
+3. ++x=0. 4. dx2 dx dg 'dy dx -0. ▲ (1 + 2)²+1+()' dx2 d2y dy 
+
+5. (x + 1) − (x + 2) (x+2) d² + x + 2 = 0. dx2 dx day 6. y. dx2 d2y 
+
+7. + k²y dx2 = 0. 8. y-1+(d). dx day dy 
+
+9. + -0. +y dx2 dx 
+
+10. d+1dy+a(d)- 0. dx2 x dx a(dz)² 2 -1+)-0. 11. day dy dx2 x dx day a dy 12. dx2 x dx d2y 2 = (dz)² dy2 = 0. dx 13. vd (d)' + v(d)' dx2 dx d2y 
+
+14. (1 − x²) 2+x 
+
+dx2 dx = x. -x-3y = x². dx2 dx dzy dy 15. x2 dg 
+
+16. (1 + x²) d + 2x day dx² 17. x2 + x x dy dx2 dx du x8 dy - 2y = x. dx = 1. (x dy dy 18. dy-(x-2y) (zd-v). day dx2 
+
+19. x = y ax dx 32. Deflection of Beams. We consider only beams of uniform cross section with axis* horizontal and width and depth small in comparison with the length. When such a beam is bent by vertical forces, it is found that plane sections perpendicu- * By the axis of the beam is meant the line through the centers of gravity of the cross sections.
+
+lar to the axis remain plane and fibers parallel to the axis are bent into curves which are perpendicular to those planes. Fibers on the convex side are stretched, and those on the concave side compressed. There is then a neutral surface on which they are neither stretched nor compressed. Its intersection with a vertical plane through the axis of the beam is a curve AB (Fig. 9a) 2 P(x,y)
+
+੩॥ (a) GR (b) 
+
+FIG. 9 
+
+called the elastic curve. To determine the equation of this curve we shall find its radius of curvature R at the point P(x, y). 
+
+Let MN (Fig. 96) be the section through P perpendicular to the axis of the beam, and CD its intersection with the neutral surface. The amount a fiber of natural length s is stretched is ds = 2 R where z is the distance from the neutral surface. According to 
+
+Hooke's law the tension in this fiber is δε 
+
+70s da = 1/2 da,
+
+where da is its area of cross section and E is Young's modulus. 
+
+Since there is no resultant horizontal stress & Sz z da = 0.
+
+DEFLECTION OF BEAMS 
+
+71 This shows that the line CD passes through the center of gravity of the section. The elastic curve is thus the curve in which the axis of the beam is bent.
+
+The moment about CD of the stresses across the normal section through P is M-Seda - EI R' (38) where I is the moment of inertia of the section area about that axis.
+
+Let x, y be the coördinates of P, x being measured along the beam and y vertically. Since the slope is usually very small, dzy dx2 1 dy\27 3 1+ dx d2y dx2 approximately. Hence (38) can be written 
+
+EI day M. dx2 (39) M, called the bending moment, is the moment about P of all forces on one side of P, those acting upward producing positive moments and those downward negative. To find the curve in which a beam bends we determine M as a function of x and solve the differential equation (39). In the problems considered here the beam is of uniform material and has a constant cross section. 
+
+Hence E and I are constants. 1-x 
+
+FIG. 10 
+
+Example. Find the deflection of a beam of length 21, supported at its ends and loaded with a weight w per unit length. 
+
+Take the origin at the center of the beam (Fig. 10). The total weight supported being 2lw, the upward thrust of the sup-
+
+port at each end is lw. Consider forces on the right of the point 
+
+P(x, y). At the end is an upward thrust lw. Its moment about P is wl(l - x). 
+
+The only other force on the section PA is the load w(l — x) between P and A. Since the load is uniformly distributed, this can be considered as acting through its center of gravity at distance (1 − x) from P. Its moment is then 
+
+the negative sign being used because the force acts downward. 
+
+The total moment about P is wl(l — x) — ½w (1 − x)² — x)² = {w(l² — x²). 
+
+The differential equation is therefore 
+
+EI day dx2 = {w (1² - x²). 
+
+A first integration gives
+
+EI dy dy dx = \w (v³x - 227) +C1.
+
+Since the beam is horizontal at the center, we substitute the values dy x = = 0, = 0, dx and so obtain c₁ = 0.
+
+A second integration gives Ely = }w (¹²; 112x2 24 + C2. 2 12 Since we have taken the origin on the neutral curve, c₂ = 0. 
+
+The equation of the curve is therefore 24 Ely w 3 w (12 262 12 The maximum departure of the beam from a straight line is Ely 354wl4 at the end, given by xl. This is ordinarily called the deflection of the beam.
+
+EQUILIBRIUM OF A CABLE 
+
+73 
+
+33. Equilibrium of a Cable. Let ABC (Fig. 11) be a per fectly flexible cable fastened at A and C and loaded in any way. 
+
+Take the x-axis horizontal, and let the y-axis pass through B, the lowest point on the curve. Consider the part of the cable between B and the variable point P(x, y) on the curve. This part is in equilibrium under the action of three forces: (1) A horizontal tension H at B exerted by the section AB of the cable. (2) A tension T along the tangent at P due to the part PC of the cable. (3) A downward force equal to the weight W on the part BP of the cable. 
+
+For equilibrium the total component of force toward the right must equal that toward the left, and the 
+
+FIG. 11 
+
+component of force acting upward must equal that acting downward. Hence
+
+T cos o H, T sin & W. (40) Dividing the second equation by the first we have tan & dy W H˚ dx (41) Since H is constant, if W is known as a function of x this can be integrated at once. In some cases W is not known but its derivative can be easily determined. In that case differentiation gives d2y dx2 
+
+1 dW
+
+H dx (42) The equation of the curve is obtained by integrating (41) or (42). The answer contains the constant H. This can be obtained by substituting the coördinates of the ends of the curve and either the coördinates of B or the total length of the cable.
+
+Example. Assuming the length of an elastic string to be proportional to the tension, find the curve formed by such a
+
+string when supported by its ends and hanging under its own weight.
+
+The statement means that the cross section of the cable is inversely proportional to the tension, and so its weight per unit length is T' where k is constant.
+
+Therefore w = S½d ds. Since
+
+T cos += H, ds cos p dx, this becomes k cos o ds Sk T cos φ BS Hence equation (41) is equivalent to dy kx H2' dx x.
+
+whence dx kx2 y = + c, 2H2 which is the equation of a parabola. The value of the constant c depends on the position of the x-axis. PROBLEMS 1. A beam of length 21 is supported at its ends and loaded with a weight 
+
+W at the middle. Find the deflection. 
+
+2. Find the deflection of a cantilever beam of length l held horizontal at one end and loaded with a weight W at the other end. 
+
+3. Find the deflection of a cantilever beam of length I fixed at one end and loaded with a weight w per unit length. 
+
+4. Find the deflection of a beam of length 21 supported at both ends and at the middle point, loaded with a weight w per unit length. 
+
+5. Find the deflection of a cantilever beam of length 1 fixed at one end, supported at the other, and loaded with a weight w per unit length. In this case it is necessary to represent the supporting force at the end by a symbol and after integrating the differential equation find the value of this force by making use of the conditions satisfied at the ends. 
+
+6. Find the deflection of a beam of length 21 fixed at both ends and loaded with a weight w per unit length.
+
+MOTION OF A PARTICLE ALONG A STRAIGHT LINE 75 
+
+7. The cable of a suspension bridge supports a weight w per unit horizontal distance. Neglecting the weight of the cable find the curve in which it hangs. 
+
+8. A uniform cable is supported by its ends and hangs under its own weight. 
+
+Find the curve in which it hangs. 
+
+9. A telegraph wire weighs 176 lb. per mile. If the poles are 400 ft. apart and the wire sags 10 ft. at the middle, find the tension at the lowest point of the wire. 
+
+10. A series of rods of varying length but the same diameter are hung along a cord. The horizontal distances between consecutive rods are equal and their bottoms are in a horizontal straight line. Assuming that they are so close together that the load can be considered continuous, find the curve formed by the cord. 
+
+34. Motion of a Particle along a Straight Line. If F is the resultant of all forces acting on a particle of mass m, its acceleration a is given by the equation 
+
+F = ma. (43) This formula requires that force and mass be measured in corresponding units. In the c.g.s. system mass is measured in grams and force in dynes, the dyne being defined by the equation as the force which acting on a mass of 1 gram gives an acceleration of 1 cm. per sec. per sec. In English units the force is usually measured in pounds, the pound being the force of gravity on the standard pound weight at sea level in 45° north latitude. The mass is then expressed in slugs, a body of w pounds having a mass m = slugs, where g = 32.174 ft. per sec.2 is the acceleration of gravity in the locality just mentioned. Sometimes mass is measured in pounds. Then force is in poundals. 
+
+1 pound force 
+
+32.174 poundals.
+
+The acceleration of gravity varies slightly with position on the surface of the earth, but for most purposes the local value need not be distinguished from the standard value given above. 
+
+If a particle moves along a straight line and s is its distance from a fixed point of the line (considered positive on one side and negative on the other), its velocity is v = ds 3133 (44)
+
+and its acceleration dv a = dt d28 dt2 (45) In using these formulas either direction along the line may be taken as positive. All the quantities F, s, v, a are then positive when they point in that direction and negative when they point in the opposite direction.
+
+Example. When a body sinks slowly in a liquid the resistance encountered is approximately proportional to its velocity. If the particle starts from rest, find its motion. 
+
+Let s, considered positive downward, be the distance the body sinks in t seconds. If m is its mass and g the acceleration of gravity, the force of gravity is mg, which is positive since it is directed downward. The resistance, acting upward and being proportional to the velocity, is -kv, k and v being positive. The total force is then 
+
+Hence equation (43) is
+
+mg - kv. mg - kv = ma = m· dv 'dt Separating the variables and integrating, we obtain In (mg - kv) = - t + c. 
+
+Since v = O when t 0, c = ln (mg). In Substituting this in the preceding equation and solving, kt ds Since v = dt mg 
+
+kv mge m. integration gives 
+
+mgt ks= 
+
+- m² + #+c.
+
+MOTION IN A PLANE 
+
+77 
+
+Since s = 0 when t = 0, c = Substituting and solving for s, 
+
+m²g kt m²g (e m − 1) + m² t. S= k2 
+
+35. Motion in a Plane. When a particle of mass m moves in a plane or in space its acceleration still satisfies the equation = ma but the quantities F and a are vectors, that is, have direction as well as magnitude. To obtain an equation in which the terms are numbers we project on a line. If the component of F along a line is F and the component of a along the same line a, then 
+
+Fx = max. 
+
+Suppose that the particle moves in a plane curve. Let (x, y) be its rectangular coördinates. The components of g) acceleration along the coördinate axes are ax d²x dt2, dzy ay dt2 If F and F, are the components of force along the axes, the motion of the particle is then determined by the equations d2x dt2 F 269 dt2 day = Fy. (46)
+
+In some cases it is more convenient to use polar coördinates. When the particle is at P (Fig. 12) its velocity is resolved into components v, along the fixed line OP and v, along the line PQ perpendicular to OP. The acceleration is likewise resolved into com
+
+FIG. 12 
+
+P(x,y) ponents a, along OP and a. along PQ. To find the values of these components we differentiate x = r cos 0, y = r sin @
+
+and so obtain dx dr do = cos 0 
+
+r sin @ dt dt dt dy dt dr do sin 0 +r cos 0 dt dt 2$ d2x der dr de = cos 0 
+
+2 sin 0 r cos 0 dt2 dt2 dt dt dt (c) do\2 d20 r sin e dt2 dzy der = sin 0 dt2 dt2 + 2 cos @ at dt dr de do\2 d20 r sin 0 +r cos 0 dt dt dt2 
+
+0) these are
+
+At the point where the curve crosses the x-axis (0 the components of velocity and acceleration along and perpendicular to the radius. Thus Vr dr dt' ve = r do dt (47) Ar 
+
+dt2 d2r (de dt ao = dr de d20 +r dt dt dt2 (48) at that point. Since the x-axis might have been drawn through any point of the curve, these equations are also valid for any position of P on the curve.
+
+If the force acting on the particle has the components F, along OP and F. perpendicular to OP, the motion of the particle can be found by solving the equations P(x,y) mar Fr,
+
+F.. mao = (49) 
+
+Example 1. A particle of mass m is attracted toward the origin with a force proportional to the distance. If it starts from the point (a, 0) with a velocity vo perpen- (a,0) × dicular to the x-axis, find the path described. 
+
+FIG. 13 
+
+When the particle reaches P(x, y), Fig. 13, the force is directed along PO and is numerically equal to kr, where r is the distance OP and k is constant. 
+
+The components of force are therefore Fx Fy - kr cos 0 = = - kr sin 0 – kx, -ky, 
+
+---
+
+MOTION IN A PLANE 
+
+79 the negative signs being used because these components are negative when x and y are positive. The equations of motion (46) thus have the form d2x dt2 d2y -kx, m -ky. dt2 Since each of these equations contains only one of the coördinates, they can be solved separately. Taking dx dt u, dy dt = v as new variables, they become mu du dx dv dy -ky, – kx, mv whence u² + x2 = C1, v² + = y² = C2. u² + x² = a², Determining the constants so that u = y = 0, we have 0, v vo when x = a, v02. v² + y2 Replacing u, v by dx dy dt' dt' these give dx dy Va² 
+
+x², dt dt vo2m - y². 
+
+Integrating and determining the constants so that x = a, y = 0 when t = 0, x = a cost cos ((√). - .√ √ Sin (√). y vo These equations express x and y as functions of the time. Eliminating t, we obtain a2 y2 (小​) +) cool (√) + sin² (√) - 1. (vo²m' The path is thus an ellipse with semi-axes α, Vo
+
+Example 2. A particle of mass m is attracted toward the origin with a force mk2 r3 If it starts from the point (a, 0) with velocity vo > a' perpendicu- lar to the x-axis, find the path described. 
+
+Using polar coördinates, the positive direction of r is from the origin outward. Hence the components of force are F, mk2 73, F. = 0.
+
+The differential equations of motion are therefore d²r dt² m2 
+
+(d)*] dt dr de d20 +r dt dt dt2 The second equation is equivalent to = - md (de) = 0, r dt dt mk2 роз 0. which can be immediately integrated giving de = C1. dt 
+
+At the start do r = α, = Vo• dt Hence avo r2 Substituting this value in the first equation d2r a²vo² - k² do 
+
+C1 = avo, dt dt2 dr 
+
+Multiplying by dt, dt dr der dt dt² dt r3 a²vo² k2 dr, роз
+
+MOTION IN A PLANE 
+
+81 whence 'dr\2 dt (a2v02 
+
+k²) (1/2 
+
+the constant of integration being determined so that when r = a. Dividing by dt (de) a2v02 we obtain 'dr\2 a²vo² - k² k2 de - r²(r² — a²). atvo² dr dt Solving this equation and determining the constant so that r = a when = 0, we obtain the equation of the curve in the form r = a sec a²vo² - k² avo PROBLEMS 1. A particle of mass m is attracted toward the origin with a force k times the distance. If it starts from rest at the distance a find its motion. 
+
+2. A particle of mass m moves toward a fixed center which repels with a force k2m times the distance from the center. If it starts from the distance a with velocity ka, show that it will continually approach but never reach the center. 
+
+3. A particle of mass m moves in a straight line toward a center of force which attracts with the magnitude mk2 r3 where r is the distance from the center. If the particle starts from rest at the distance a, find the time required to reach the center. 
+
+4. Find the velocity acquired by a body in falling from an infinite distance to the earth, assuming that the force of attraction varies inversely as the square of the distance from the center of the earth. The constant of proportionality can be found from the known acceleration g at the surface of the earth. 
+
+5. If a hole were bored through the center of the earth a body falling in it would be attracted toward the center with a force proportional to the distance. 
+
+Find the time required to fall through. 
+
+6. Assume the resistance of the air proportional to the square of the velocity. 
+
+If the velocity of a falling body approaches a limiting value V and the body starts from rest, find its motion. 
+
+7. A particle is projected vertically upward with velocity vo. Assuming that the resistance of the air is k times the square of the velocity, find the velocity with which it returns to the earth.
+
+8. A projectile is fired with a velocity of 2500 ft. per sec. in a direction making 45° with the horizontal. Neglecting the resistance of the air, find the highest point reached and the point where it hits the ground. 
+
+9. A projectile is fired with velocity vo at an angle of elevation a. If the resistance of the air is kv, where v is the velocity and k is constant, find the equations of motion. 
+
+10. A particle is repelled from the origin with a force proportional to the distance. If it starts from the point (a, 0) with a velocity vo perpendicular to the x-axis, find the path described. 
+
+11. A particle of mass m is attracted toward the origin with the force k2m доб If it starts from the point (a, 0) with the velocity vo = a² √2 perpendicular to the x-axis, find the path described. 
+
+12. A particle describes the circle r = a cos with constant speed. Show that the force acting upon it is constant in magnitude and directed toward the center of the circle. 
+
+36. Motion of a Complex System. If M is the total mass of a body or system of bodies and F the resultant of all forces applied to it, the equation
+
+F = Ma (50) determines the acceleration of the center of gravity. That is, the center of gravity moves as if the whole mass were concentrated at that point and all the forces applied there. 
+
+If all parts of the body move in the same direction with the same velocity, this equation determines the acceleration of any point of the body. If the parts of a complex system, such as a chain, all move along the same path with the same speed and F is the component of force along the path, equation (50) gives the acceleration along the path. 
+
+Example. A chain hangs over a smooth peg, 6 ft. of length being on one side and 10 ft. on the other. Find the time required to slide off.
+
+The chain would be in equilibrium if both ends were in a line 8 ft. below the peg. Let x be the distance from this line to the short end of the chain (Fig. 14). If p is the mass of 1 ft. of
+
+SYSTEMS WITH VARIABLE MASS 
+
+83 chain, the unbalanced force will be the weight 2xpg of 2x feet of the chain. The total mass accelerated is 16p.
+
+Hence d2x = 2pgx. 16p dt² 
+
+The first integration gives dx\2 dt =gx² + c. dx 
+
+At the start x = 2 and = 0. Hence dt C = -4g and dx\2 dt g(x²-4). <8 
+
+FIG. 14 
+
+Separating the variables and integrating again we have 
+
+8 8 dx 
+
+In (4 + √15). - √in (4 
+
+37. Systems with Variable Mass. According to Newton's second law, whenever a force acts on a system it produces momentum in the system at a rate equal to the force. In applying this law to a system having a variable mass it is necessary to distinguish momentum produced by force and momentum transported by masses which join or leave the system. 
+
+Thus suppose a system moves parallel to a straight line and at time t has mass m and velocity v and is subject to an external force F, any or all of which may vary with the time. In the ensuing interval dt suppose that an amount dm of mass joins the system and that v + u is its velocity at the instant of joining. The total change of momentum d(mv) is partly due to the force F and partly to the momentum of the incoming elements of mass. In time at the momentum brought in is (v + u)dm. Hence d(mv) - (v + u)dm = m dv 
+
+u dm
+
+is the part due to F. Equating the force and the rate at which it produces momentum we thus obtain dv dm dt 
+
+dt F. (51) The same equation is valid when the elements of mass instead of joining the system are leaving it, the only difference being dm that is then a negative quantity.
+
+The velocity u is the dt relative velocity of the incoming or outgoing elements of mass with respect to the remainder of the system. It is measured in the same direction as v and is thus positive when it has the direction which in the treatment of the problem has been chosen as positive. 
+
+Example. A rocket is propelled by burning k pounds of fuel per second in an attached chamber and allowing the products of combustion to be expelled directly backward. If the kinetic energy thus developed is a constant p per unit mass of fuel burned, the rocket starts from rest with total weight Wo (including fuel), and is not subject to any external force, find the distance it moves in time t. Let s be the distance moved in t seconds, v the velocity, Wo 
+
+kt m = the mass (rocket and fuel) at time t, and c the velocity of the exhaust with respect to the rocket. The energy required to give the velocity c to unit mass of material is and so c² = p, c = √2p. 
+
+Since the positive direction (that in which s increases) is forward, the relative velocity of the exhaust is u = C = 
+
+√2p. 
+
+Equation (51) is therefore md + √2pdm = 0, dv dt dt
+
+SYSTEMS WITH VARIABLE MASS 
+
+85 whence dm dv + √2p 0. Substituting
+
+Wo - kt m = Integrating and determining the constant so that v = 0 when m has its initial value mo, we obtain 
+
+v = √2p(In m。 — In m). Wo mo 8 = [1 a second integration gives W。 
+
+√2p S.
+
+[in W₁ - In (W₁k)] de 
+
+kt dt √2p[t Wo 
+
+kt In Wokt W。 PROBLEMS 
+
+1. A chain 6 ft. long starts with 1 ft. hanging over the edge of a smooth table. Neglecting friction, find the time required to slide off. 
+
+2. The top of a table is 3 ft. above the floor. A chain 6 ft. long hangs over the edge of the table with one end reaching the floor. Find the velocity with which it slides off. 
+
+3. A chain hangs over a smooth peg, 8 ft. of its length being on one side and 10 ft. on the other. If the force of friction is equal to the weight of 1 ft. of the chain, find the time required to slide off. 
+
+4. From a coil held at rest a chain unwinds and falls directly downward under the action of gravity. If it starts from rest with length l unwound, find its speed when it has moved the distance x. 
+
+5. A rocket is driven upward by firing each second the amount k] of its mass directly backward at a constant speed c with respect to the rocket. 
+
+If the rocket starts from rest with mass mo and is subject to gravity, find its height at time t. 
+
+6. A rocket starts from rest with mass m。 and falls under gravity. If the effect of gravity is partly overcome by firing each second an amount k of its mass directly downward at speed c with respect to the rocket, find the distance it falls in time t. 
+
+7. A rocket starting with velocity vo and mass mo moves in free space while firing backward an amount k of its mass per second at such a speed that this discharged material is left at rest in space. Find the distance the rocket moves in time t. 
+
+8. A raindrop falls under the action of gravity. If through precipitation of moisture (assumed to be at rest) it grows at a rate proportional to its area of surface and its initial radius is zero, find the distance it falls in time t.
+
+9. A raindrop falls through a uniform fog, sweeping out the mist from the region it traverses. If it starts from rest with radius zero and remains at all times spherical, show that it falls with a constant acceleration g. 
+
+10. In the preceding problem, find the acceleration if the fog is drifting downward with constant velocity c.
+
+MISCELLANEOUS PROBLEMS 
+
+1. The arc of a curve is proportional to the angle between the tangents at its ends. Find the equation of the curve. 
+
+2. The arc of a curve is proportional to the difference of the slopes of the tangents at its ends. Find the equation of the curve. 
+
+3. The arc of a curve is equal to the distance intercepted on the x-axis between the tangents at its ends. Find the equation of the curve. 
+
+4. Find the deflection of a beam of length 4l supported at both ends and carrying two weights each of W pounds placed at the two points at distance l from the middle. Taking the origin at the center, determine first the curve for the part of the beam between the two weights. Then find the curve for the remainder, choosing the constants of integration so that the two curves have the same ordinate and slope at the junction. 
+
+5. Consider a vertical column of length 1, supporting a weight P. Suppose that the weight causes the upper end to be displaced the amount a from the vertical. Calculate the bending moment and determine the curve in which the column bends. By substituting the coördinates of the upper end show that the maximum load the column can support is 
+
+- ()'EI. 
+
+6. Suppose that the ends of the column are rounded but remain in the same vertical line. Find the maximum load the column can support. 
+
+7. A chain with one end fixed rests on a curved surface. If w is its weight per unit length and there is no friction, show that the tension at the point P of the chain satisfies the equation = wz + k, where z is the altitude of P above a horizontal plane and k is a constant. 
+
+8. A straight tube connects two points A, B on the surface of the earth. 
+
+A particle moving along the tube under gravity is attracted toward the center of the earth with a force proportional to the distance. If there is no friction show that the acceleration of the particle is proportional to its distance from the midpoint of the tube, and that the time of passage through the tube is independent of the positions of A and B. 
+
+9. Two particles of masses mi, m2 are attached to the ends of an inextensible string which passes through a smooth fixed ring, the whole resting on a horizontal table. The particle m₁ being projected at right angles to the string, find the polar equation of the curve it describes. 
+
+10. Determine the orbit of a planet of mass m assuming that it is attracted toward the sun with the force km
+
+MISCELLANEOUS PROBLEMS 
+
+87 where r is the distance from the sun and k is constant. Let ro be its distance and to its velocity when nearest the sun. 
+
+11. Assuming that a comet is attracted toward the sun like a planet but that it starts from rest at infinity, find its orbit. Let ro be its least distance from the sun. 
+
+12. A spherical raindrop grows at a rate proportional to its area of surface. 
+
+If initially its radius is c and it is moving horizontally with speed b, show that its path is a hyperbola with one asymptote vertical. 
+
+13. During each second a moving rocket takes 15w pounds of air from the atmosphere, burns this with w pounds of fuel already on board, and projects the products of combustion directly backward at a constant speed c with respect to the rocket. If it starts from rest with weight Wo and is not subject to any external force, find its velocity at time t. 14. A wire of length l and cross section A carries a current of I amperes from a main of temperature To to the interior of an electric furnace where the temperature is T₁. The wire is electrically and thermally insulated on the sides but heat flows along the wire and is also produced in each section of the wire by the current flowing through it (cf. Problem 9, page 25). If the thermal conductivity of the wire is k, and its electrical resistivity is p, find the temperature at distance x from the cold end when a steady state has been attained. Also, if I is fixed, find the cross section which makes the heat loss a minimum.
+
+CHAPTER IV LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+38. Equations of the nth Order. By solving for the highest derivative a differential equation of the nth order can be written day dry = f(x, y, dy, du,,d-14). dxn dx' dx² To find the value of y, n integrations are required and so n constants of integration are obtained. A solution 
+
+F(x, C1, C2, ..., Cn),
+
+Cn containing n independent constants of integration is usually called the general solution. The constants C1, C2, ..., are called independent if it is not possible to introduce new constants which are functions of these of such a character that y is expressed in terms of x and less than n constants. 
+
+Since there are n arbitrary constants at our disposal, a particular solution can usually be found satisfying n assigned initial conditions. Thus a curve can usually be found passing through a given point and having assigned values at that point of the first n 1 derivatives. Exceptions of course occur when values are selected which make some of the functions indeterminate or the resulting equations inconsistent. 
+
+39. Linear Equations with Constant Coefficients. A differential equation of the form dxn dxn-1 dry dn-¹y + α1 dy + An-1 dx + any = f(x), (52) that is, an equation of the first degree in one of the variables and its derivatives, is called linear. If the coefficients a1, a2, ..., a, are constants, it is called a linear equation with constant coefficients. For practical applications this is one of the most important types.
+
+In discussing linear equations with constant coefficients we shall find it convenient to represent the operation by a single dx 888
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 89 
+
+letter D. Then dy day Dy, Day, etc. dx2 dx 
+
+Equation (52) can be written (Dn + a₁Dn−1 + ··· + am-1D + αn)Y = f(x). (53) This signifies that if the operation P(D) Dn+a₁D-1+··· + AniD + an 
+
+(54) is performed on y the result is f(x). The operation consists in differentiating y, n times, n − 1 times, etc., multiplying the results by 1, a₁, a₂, etc., and adding. To solve the equation it is necessary to find the function y which the differential operation (54) converts into f(x).
+
+With the differential equation is associated an algebraic equation rn + α ₁rn−1 + + an 0, (55) having the same coefficients as (52) but with right-hand member zero. This is called the auxiliary equation. If its roots are 
+
+T1, T2, ..., T, we know from algebra that the polynomial
+
+P(r) = rn + α₁rn−1 + + An can be factored in the form
+
+P(r) = (r− r₁) (r (r — r1)(r — r2). 
+
+(r — rn). (56) This means that when the factors on the right are multiplied together the result arranged in powers of r is identical with P(r). In this equation r can be replaced by D giving P(D) (D − r₁)(D − r2) . . .
+
+(D − Tn), (57) for when expanded the right side of (57) will differ from P(r) only by having D everywhere in place of r. Hence the differential equation (53) can be written (Dr₁)(D — T₂)... 
+
+(D − rn)y = f(x). (58) 
+
+By carrying out the operations we find 
+
+dy (D − r₁)y = dx 
+
+riy.
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+Operating on this with D - r₂ we get dy (D − r₂)[(D − r₁)y] = (D 
+
+T₁)y] = (D − r₂) (due — r、y) dx 19 dzy (r₁ + r₂) du+rray.
+
+dx 
+
+If we operate directly on y with the product 
+
+dx = D² − (r1 + r2)D + r₁r2 we get the same result. In a similar manner we can show that the result of operating with any number of factors, D-71, Dr₂, etc., one after the other is independent of the order of the factors and equal to that obtained when we operate directly with the product of all the factors. These properties enable us to manipulate the differential operators very much like algebraic expressions containing numbers. It should be noted, however, that this is true only when r₁, î½, etc., are constant. If the r's are variable it is not in general true, for example, that (D − r₁)[(D − r2)y] = (D − r2)[(D − r₁)y]. 
+
+40. Equation with Right-Hand Member Zero. To solve the equation (D" + α₁D”−1 + ··· + An-1D + any let 71, 72, = 0, (59) (60) r be the roots of the auxiliary equation rn + α₁rn−1 + + an-1r + an = 0.
+
+The symbolic operator can then be factored and so the differential equation written in the form (D − r₁)(D − r₂) . . . (D − rn)y = 0. 
+
+The value y = Cierix, 
+
+(D − r₁)c₁er¹x where c₁ is any constant, is a solution. For and the equation can be written = C₁rieix 
+
+ric₁erix = 0, 
+
+(D − r₂). . .
+
+(D − rn)[(D − r₁)y] 
+
+= 0. Similarly y = c₂er**, y= Caer, etc.,
+
+EQUATION WITH RIGHT-HAND MEMBER ZERO 
+
+91 are solutions. Finally Cieri + C₂ex + + Cnernx (61) is a solution, for the result of operating on this value of y is the sum of the results of operating on cier, C₂e, etc., each of which is zero. 
+
+If the constants r₁, r2, . . ., r, are all different, (61) contains n independent constants and so is the general solution of (59). 
+
+If, however, two roots r₁, r2 are equal, C₁eri + C₂er2x = (C₁ + C₂) erix contains only one constant c₁ + C2, and (61) contains less than n independent constants. In this case, however, xe is also a solution, for and so (Dr₁) ·xer = r₁xerix + erix - r₁xer¹x = erix, 
+
+(D − r₁)(D — T₂)xerıx 
+
+(D − r₁)²xerx = (Dr₁)er = 0. 
+
+If then
+
+T2 = T1, the part of the solution corresponding to these roots is (C1 + C₂x) erix. 
+
+More generally, if
+
+T1 =r2 = √3 = = rm, the part of the solution corresponding to these roots is erix. (C₁ + C₂X + C3x² + ··· + Cmxm-1) eº¹¤¸ 
+
+To solve the differential equation (62) (D" + a₁D"-1 + · + an-1D + An)Y 0, rn + α₁rn-1 + + ɑn-1r + ɑn = 0. find the roots r1, r2,..., rn of the auxiliary equation
+
+If these roots are all different the solution is = Cierix + C₂er2x + + Chern.
+
+But if m of the roots r1, T2, . •, rm are equal, the corresponding part of the solution is (C₁ + C₂2 + ··· + Cmxm-1) er₁x. • • •
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS Example 1. 
+
+d²y 
+
+dy - 24 
+
+2y = 0.
+
+This is equivalent to dx2 
+
+dx (D² – D – 2)y = 0.
+
+The roots of the auxiliary equation are -1 and 2. Hence the solution is
+
+Example 2. 
+
+y = c₁e* + C₂e²x. d³y d2y dx³ dx 
+
+dx 
+
+5dy + 3y + 3y = 0.
+
+The auxiliary equation can be factored in the form 
+
+p³ + r² — 5r + 3 = (r − 1)²(r + 3) 
+
+= 0.
+
+The part of the solution 
+
+The roots are consequently 1, 1, −3. corresponding to the two roots equal to 1 is (C1 + C₂x)e*, and that corresponding to the root -3 is Hence
+
+Cεe-& 3x (C1 + C₂x)e² + C³e¬³×.
+
+-32 
+
+41. Imaginary Roots. If some of the roots r₁, r₂, etc., are imaginary, the solutions (61) and (62) are still correct but may not have a convenient form. If the coefficients a1, a2,..., an are real, imaginary roots occur in pairs, r₁ = a + B√ −1, T₂ = a - B√-1. 
+
+The terms Cierix,
+
+C₂erax may then be imaginary but have a sum that is real. They can be replaced by other expressions which do not have this imaginary appearance. 
+
+To do this we make use of Euler's equations where i is V-1. eio = cos 0 + i sin 0, e-ie = cos 0 i sin 0, 
+
+(63) These formulas may be proved by expanding both sides in Maclaurin's series.
+
+IMAGINARY ROOTS 
+
+3383 93 Thus ex = 1+x+ x2 X3 24 + + + 
+
+2! 3! 4!
+
+Replacing x by ie, and using the relations 
+
+24 = 1, etc., (10)4 (io) 3 + + + 
+
+3! 4! 12 = -1, 23 -i, (io) 2 eio = 1 + io + 2! = (102 04 2! 4! + + • · Hence 
+
+3! 03 05 5! eie = cos 0 + i sin 0, for the Maclaurin's expansions of cos e and sin are 02 04 cos 0 1 
+
+2! 4! + + 03 05 sin 0 = 0 
+
+3! 5! + + Let r₁ = a + iß, 12 = α - ίβ. Then Consequently erix = eax. eißx = eax (cos ßx + i sin ßx), er2x = eax · e-ißx = eax (cos ẞx i sin ẞx). 
+
+C₁erix + C₂er2x eax[(C1 + C2) COs ßx + i(C1 – C2) sin ßx] ear (A cos ẞx + B sin ẞx), where A C₁ + C2, B = i(c1 
+
+- C2). By assigning proper values to c₁ and c₂, the constants A and B may be made to take any values we please. Hence A and B are arbitrary constants for which we can use the notation c1, c2 if we desire.
+
+Therefore the part of the solution corresponding to two roots C2 r₁ = a + iß, 12 = α - - iß may be replaced by eax (C₁ cos Bx + c₂ sin ẞx). (64)
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS Example 1. 
+
+dzy dy + y = 0. dx2 dx 
+
+The auxiliary equation has the roots r²+r+ 1 = 0 -1 V1-4 r = = - 2 -} ±†√³i. Here απ 一​言​,
+
+B = 3√3. Hence y = e**[c₁ cos (√3x) + c₂ sin († √3x)]. 
+
+Example 2. 
+
+day dy +4 dx3 dx 
+
+The roots of the equation are r = 0 and r = ± 2i. 
+
+Since a = 0 and 0. r³ + 4r = 0 e⁰ x = e⁰ 1, y = c1 + c₂ cos (2x)+cs sin (2x). 
+
+EXERCISES 
+
+3 + dx2 d2y dx2 d2y dy 
+
+1. + dx2 dx d2y dy 
+
+2. +2 dx2 dx day dy dx 
+
+0. 4. +2 + -0. d'y d2y 9. dx4 +2 dx2 + y = = 0. 3y = 0. d2y 10. 2 dx2 
+
+2y = 0. day dy 11. 
+
+- 2 dx2 d³y 12. dx³ 5. dy-2d-3d-0. d'y 13. dx dy dx dx + 2y = 0. 5y d2y +3 dx2 dx d2y -3 dy- +3 dx4 dx2 
+
+0. 
+
+4y = 0. y = 0. d2y 6.+4+4=0. dx2 @ 0 + 0 = 0. day dx2 8. d'y dxc4 = y. d³y 14. = y. dx3 15. day dry - 2 d + d dx4 dx3 dx2 = 0.
+
+RIGHT-HAND MEMBER A FUNCTION OF 
+
+95 
+
+42. Equation with Right-Hand Member a Function of x. 
+
+= u be the general solution of the equation 
+
+Let y and let y = v be any solution of the equation (D" + α₁Dn−1 + ··· + an-1D + αn)Y = 0, (65) (Dn + α₁Dn−1 + ··· + αn-1D + αn)y = f(x). (66) Then y = u + v is a solution of (66), for when the operation P(D) Dn + a₁n−1 + +an-1D + an is performed on u it gives zero, and when performed on v it gives f(x). Hence
+
+P(D) · (u + v) P(D) · u + P(D) · v = f(x), showing that u + v is a solution of (66). 
+
+Since u contains n independent constants, u+v also contains n independent constants. Therefore yu+v is the general solution of (66).
+
+The part u is called the complementary function, the part v the particular integral. We have given complete methods for solving the equation with right-hand member zero and so can find the complementary function. To solve an equation with right-hand member a function of x all that remains is to find a particular integral. This is merely any function which satisfies the complete equation (Dn + α₁Dn−1 + · · · + αn-1D + αn) v = f(x). If any such function can be found by inspection or trial, then = u + v is the general solution required.
+
+Example 1. 
+
+dzy dx2 
+
+y = = 2.
+
+The complementary function is obtained by solving the equation d2y dx2 
+
+y = 0.
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS The roots of the auxiliary equation are 1, -1. Hence u = C₁e² + C₂e-*. 
+
+The particular integral is any value of y satisfying the equation day dx2 y = 2.
+
+Since the derivative of a constant is zero, it is evident that y = -2 does satisfy the equation.
+
+Hence we take as particular integral v = -2. 
+
+The general solution is then y = u + v C₁e* + C₂e-* 
+
+2.
+
+Example 2. 
+
+dy dx + 4y e2x The complementary function obtained by solving the equation is dy + 4y = 0 dx u = ce-4x For a particular integral we must find some value of y which satisfies the entire equation dy dx + 4y = e2x Since the derivative of e² is merely a multiple of e² we try Ae2x.
+
+Substituting this for y, the equation becomes 2Ae2x+4Ae2x = e2x which is satisfied if 6A that is, if A. Consequently 1, v = e2x
+
+METHOD OF UNDETERMINED COEFFICIENTS 
+
+97 is a particular integral, and is the general solution. y = ce-4x+2x 
+
+43. Method of Undetermined Coefficients. The examples just solved illustrate a mathematical procedure known as the method of undetermined coefficients. When the general form of an answer is known but the precise coefficients are not known, this method consists in introducing literal coefficients in that form, substituting, and finding the value those coefficients must have to satisfy the given equations. 
+
+Thus, in finding the particular integral of a linear equation (Dn + α₁D¤¬¹ + ··· + an-1D + αn)y = f(x), we consider what kinds of functions substituted for y will make the left side have terms of the same kind as those in f(x), take as trial value of y a linear function of these with constant coefficients, substitute in the differential equation, and find the values of the coefficients which make the two sides equal. 
+
+This method can always be used if f(x) is a sum of terms each of which has only a finite number of linearly independent derivatives.* Most linear equations occurring in practical applications satisfy this condition. For example, if f(x) = e² + sin 3x, the term e2 when differentiated one or more times gives only multiples of e², and sin 3x gives only multiples of sin 3x and cos 3x. In such a case, one should first make a list of the linearly independent functions in f(x) and its derivatives. In the case just mentioned this list contains only the functions e2x, sin 3x, cos 3x.
+
+If no function in this list is a term in the complementary function, a particular integral can be found which is a linear function of these with constant coefficients. Thus in the above case the particular integral has the form y = Ae2x+B sin 3x + C cos 3x. * The functions U₁(x), U2(x), ent if no constants C1, C2, + cmUm Um(x), are called linearly independcm, not all zero, exist such that c₁U₁ + c₂U₂+ = 0 for all values of x.
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+The reason this succeeds will be apparent on substituting the assumed value of y in the differential equation and equating coefficients of like functions on opposite sides, for there will be obtained a number of equations equal to the number of functions, and so equal to the number of undetermined constants, to solve for those constants.
+
+If some of the functions in the above list occur in the complementary function, these will drop out when the assumed value is substituted in the differential equation, and the process just described will fail. In that case arrange the functions in groups, the members of each group being formed from one term by differentiation. For instance, in the above example there are two groups, and e2x sin 3x, cos 3x..
+
+If a term of one of these groups is part of the complementary function, multiply all the terms of its group by the lowest power of x which makes all these terms different from any in the complementary function and use these instead of the original terms in making up the particular integral.
+
+Thus in the above example suppose the complementary function is u = c₁ cos 3x + c₂ sin 3x. 
+
+The terms sin 3x and cos 3x appearing in the complementary function, for a particular integral we should take x(A sin 3x + B cos 3x) + Ce².
+
+On carrying a case of this kind through it will be found that the power of x thus introduced is lost and the coefficients are obtained as before.
+
+Example 1. 
+
+dy + y = sin x. dx The complementary function is u = ce *. 
+
+If sin x is differentiated any number of times the only functions
+
+METHOD OF UNDETERMINED COEFFICIENTS 
+
+99 obtained are sin x and cos x. Since neither of these occurs in the complementary function we take 
+
+A sin x + B cos x.
+
+Substituting in the equation we get (A + B) cos x + (A − B) sin x = 
+
+sin x.
+
+Equating coefficients of like functions on the two sides, A + B = 0, A – B = 1, 
+
+whence
+
+A = 1, B = -1. 
+
+The particular integral is (sin x 
+
+cos x), and the general solution y = ce* + (sin x 
+
+cos x).
+
+Example 2. 
+
+dx3 d³y dzy dx2 = x² + 2x + e*. 
+
+In this case the complementary function is u = C₁ + C2x + c3e.
+
+The functions x2, x and their derivatives give the terms Ax² + Bx + C for the particular integral. Since Bx and C occur in the complementary function we multiply by x², giving x²(Аx² + Bx + C).
+
+The term e* does not appear in the complementary function and gives no new terms by differentiation. Therefore, we let Ax¹ + Вx³ + Сx² + De* to obtain a particular integral. Substituting in the differential equation, we get 12Ax² + (24A + 6B)x + 6B + 2C + 2De* = x² + 2x + e*.
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+Equating corresponding coefficients 12A = whence ང་ 
+
+24A + 6B 2, 6B + 2C = 0, 2D = 1, D = 1, and so 
+
+A = 1, B = C = 0,
+
+Y = C1+ C2x + c¸е* + + 2x4 + 1 ex is the general solution.
+
+Example 3. 
+
+dzy + 4y = 3x cos x. dx2 The complementary function is u = c₁ sin 2x + c₂ cos 2x. 
+
+From x cos x and its derivatives we obtain the terms x cos x, x sin x, COS X, sin x.
+
+Since none of these occurs in the complementary function, we take y = Ax cos x + Bx sin x + C cos x + D sin x to obtain a particular integral. Substitution in the differential equation gives 3Ax cos x + 3Bx sin x + (2B + 3C) cos x + (3D – 2A) sin x 
+
+= 3x cos x, whence
+
+1, B = C = 0, D = 2, and the general solution is y = c₁ sin 2x + C₂ cos 2x + x cos x + sin x. 
+
+EXERCISES 
+
+1. d2y dx2 
+
+· 4y = ex. d2y 2. y = x. dx2 d2y dy 3. 
+
+2 +y dx2 d'y dx d2y 4. 
+
+2 + y dx4 dx2 2e2x. 
+
+5 sin 2x.
+
+SYMBOLIC METHODS 
+
+101 5. dy d2y 6. dx2 7. dy dx2 8. dy 9. 10. 11. 12. 13. 14. 15. 16.
+
+HIS HIS HIS HIS HIS HIS HIS HIS HIS HIS HIS HIS 
+
++ 4y = cos x. 
+
+dy dx 
+
+5y 5x. dy +4 + 3y 
+
+1 + 5 cos x. dx = x². +2 dx2 d³y dx d2y +9y dzy, dy +2 
+
+dx2 2y dy dx + y dy dy dx sin x. 3xex. x + 1. 
+
+4x sin x. + = ex + ex. dx2 dx dy 
+
+3 = 2e2x sin x. dx dy 
+
+= ex + e²x. dx2 dx d2y dx2 dy 4 +5y dx e2x + 4 sin x. 
+
+44. Symbolic Methods. In Art. 39 we noted that a linear differential equation can be written in the form P(D)y = f(x), where P(D) represents the operator
+
+Dn P(D) = D" + a₁Dn−1 + ··· + An-1D + ɑn. (67) If the coefficients a1, a2, . . ., an are constant, such operators have many of the properties of algebraic polynomials, and this is the basis of certain symbolic methods by which solutions can sometimes be more easily obtained than by the methods previously given.
+
+In this work we have occasion frequently to interpret a symbolic expression of the form 2-D 
+
+1 f(x), (68) where r is constant.
+
+This may be regarded as obtained from 
+
+(D − r)z = f(x) (69)
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+by dividing both sides by Dr. Thus (68) is defined to be the solution of (69). By equation (17) we thus have 
+
+D = „f(x) = ert «Se¯f(x)dx + cer². (70) If only a particular integral is wanted the constant of integration may be omitted.
+
+Example 1. 
+
+dzy dx2 
+
+dy 2 + y = x²e*. dx This is equivalent to (D − 1)²y = x²e*, whence 1 1 1 (D − 1)½ x²ez D-1 D-1 x²et. 
+
+By equation (70) we have 1 x²ex = ex *Sexe dx = x³e*.
+
+D-1 A second application of the same formula giyes 1 D-1 D 1 x²ex = 
+
+1 Taxter.
+
+As we are only interested in finding a particular integral we have in both cases omitted the constant of integration. Adding the complementary function we finally obtain 
+
+Example 2. 
+
+In symbolic form or y = (C1 + C2x + †¹ax¹)e*. day dx2 
+
+y = (D² – 1)y y = 
+
+1 • 19 D² 1 x 
+
+---
+
+VARIATION OF PARAMETERS 
+
+103 By algebra we have D2 - 1 and so 1 1 10 2 D 2 D 1 
+
+1 
+
+D+ 1 1 1 19 2D+1 x 
+
+Applying equation (70) to each term, we thus obtain 1 -x 1 ex dx = { e f = = dz - } e f = dz + c₁e² + cse→. ex dx Xx The integrals cannot be expressed in terms of elementary functions.
+
+Example 3. 
+
+In this case we have or day +y: + y = x². dx2 (D² + 1)y = x4 y = 
+
+1 + D2 204 
+
+By division we find
+
+Therefore 1 + D2 = 1 - D² + D¹ — D® + · · ·. - - Ꭰ (1 − D² + D4 - Dε +・・・ )x4x4 - 12x² + 24 - Ꭰ is a particular integral, and so y = c₁ sin x + C2 COS X + X4 12x² + 24 is the general solution. 
+
+45. Variation of Parameters. When the complementary function is known, there is a method of finding a particular integral which is applicable to any linear equation whether its coefficients are constant or not. To illustrate this method, called variation of parameters, we shall take the case of the linear equation of the second order day dx2 +f1(x) ax dy +ƒ2(x)y = ƒ3(x). (71)
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+Suppose that the general solution of the abridged equation is day dx2 +f1(x) dy+f2(x)y (72) u = c₁u₁ + C₂U2, where u₁, u2 are functions of x, and c₁, c₂ are arbitrary constants. 
+
+We shall endeavor to replace c1, c2 by quantities C1, C2 of such character that y = C₁u₁+ C₂u₂ is a solution of (71). For convenience we use the notation (73) Ci dC1 dx C₂ dC 2 dx In general, two functions C1, C2 will be determined by two conditions. As a first condition we place 
+
+Ci'u₁ + C₂'u₂ = 0. 
+
+The first and second derivatives of y are then dy dx C₁ dx du1 + C₂ du 2 ? dzy dx2 d2u1 d2u2 C₁ + C₂ dx2 dx2 dx (74) dx + C₁dur + C₂ duz dx Substituting these and the above value of y in (71), and noting that u₁ and u₂ are solutions of (72), we get du 
+
+Ci + C2 dx duz = ƒ3(x). dx Ci C2 dC2- dx 
+
+By solving (74) and (75) we obtain dC₁ dx (75) as known functions of x. By integrating those functions we can then determine the quantities C1, C2 which substituted in (73) give the solution desired.
+
+Example. 
+
+dzy + y = tan x. dx2
+
+HOMOGENEOUS LINEAR EQUATIONS 
+
+105 У C₁ sin x + C₂ cos x. 
+
+The complementary function is u = c₁ sin x + c₂ cos x. 
+
+Replacing the constants c1, c2 by functions C₁, C₂ we endeavor to find a general solution of the form 
+
+Differentiating and placing (a) Ci sin x + C₂' cos x = 0, (b) we obtain dy = C₁ cos x C₂ sin x, 
+
+C2 dx dzy 
+
+=-C₁ sin x dx2 C, cos x + Cí cos x − C, sản x. 
+
+Substituting the above values in the differential equation, C₁' cos x 
+
+- C₂ sin x = tan x. 
+
+Solving (b) and (c) we find (c) sin² x Ci sin x,
+
+C₂ COS X whence C₁ - cos x + C1, C₂ = sin x 
+
+sin x In (sec x + tan x) + C2. 
+
+Thus (a) is equivalent to = c₁ sin x + C2 COS X 
+
+cos x In (sec x + tan x).
+
+46. Homogeneous Linear Equations. An equation of the form dry dxn dr-y xn +α₁xn-1 +. dx-1 dy + An-12 dx + any 
+
+f(x), (76) where a1, a2,..., an are constants, is sometimes called a homogeneous linear equation. The left side is an expression of the type we have called homogeneous in x (cf. Art. 31). By the substitution x = et the left side is therefore reduced to a form which does not contain t, and so the equation becomes linear with constant coefficients.
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS Example. 
+
+The substitution gives dy - 2y = 1 + x². dzy x2 + 2x dx da2 dy dx day dx2 x = et dy dt dt dx day 1
+
+dy 1 dt x dy 1 dt2 x2 dt x² The differential equation therefore becomes dzy dy dt2 dt 
+
+This equation has for solution 
+
+2y = 1 + e². y = c₁e + C₂e-² + e². 글 ​le Replacing e' by x, this becomes C2 x2 
+
+y = c₁x + 32 − } + {x². 
+
+47. Simultaneous Linear Equations. Simultaneous linear differential equations containing a single independent variable can be solved by a process of elimination analogous to that used in algebra for solving linear equations. If there are as many dependent variables as equations all but one of these can be eliminated, the remaining one appearing as a solution of a linear differential equation. Its value can be found by solving this equation, and then the other dependent variables can be obtained by substituting in the preceding equations. 
+
+If possible the work should be so arranged that after the first variable is found the others can be determined without integration. If integration is used in determining these other variables, the constants of integration may not all be arbitrary. It is then necessary to substitute the values found in the differential equations to determine the relations between the constants. The number of constants is usually equal to the sum of the orders of the differential equations, but in exceptional cases this is not true.
+
+SIMULTANEOUS LINEAR EQUATIONS 
+
+107 
+
+Example. 
+
+d2x 3x - y = e², dt2 
+
+2x = 0. dy dt 
+
+Using D for a these equations can be written dt 
+
+(D² — 3)x — y = e², 
+
+- 2x + Dy = 0. 
+
+Multiplying the first equation by 2 and the second by D² - 3, we have 
+
+Adding, we get 
+
+2(D² — 3)x — 2y = 2et, 2(D² − 3)x + (D² − 3)Dy = 0.
+
+(D³ - 3D-2)y = 2et This equation, containing only one dependent variable, can be solved for y, giving y = (C1+ Cat)e+ Cзe² ¹et.
+
+Substituting this value of y in the second equation, we find x = Dy = [(C2 — C1) — C₂t]e¬ + cse² — {e'. d2y dy 
+
+1. +4 dx2 dx + 4y =2e-2x. 
+
+EXERCISES 
+
+d'y 2. 25 x. dx4 3. 4. d³y d2y dy +3 +3 + y = xe. dx3 dx2 dx d2y dy +2 + y = ex ln x. dx2 dx d2y 5. dx2 dy+2y = In x. d2y 6. + y = secx. dx2 7. d³y dy 
+
+= ex + ex. dx3 dx d2y 8. dx2 dy - 2 dx 9. 4x2 d2y dx2 + 2y = ex cot x. 
+
+3(x + y).
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+day dy 
+
+10. x² + x 
+
+y = = 0. dx2 dx d2y 11. x2 2y = 2x. dx2 d2y 12. 13. x2 14. 15. d2y 16. dt2 17. 18. dx 19. elelel elel8 8 € dx2 
+
+day dx2 dy 
+
+2 + 2y = x ln x. x dx 
+
+dy dx x2 + y = x. y + 1, = x 2y, 3333 dy = x + 1. dt dy =x 
+
+y. dt d2x x, y. dt2 d2x dy 2 33 33 + 2y = 0, + 2 + y = et. dt2 dt dy d2x d2y +y= = t. dt dt2 + +dy + x + y = 1², dt2 dt dy d2x dy + x = 0, 
+
++ 3x y = 0. dt dt2 dt dx dy 
+
+20. t + y = t, + x = 1. dt dt 
+
+48. Rotation about a Fixed Axis. Let a body (Fig. 15) 
+
+rotate about the axis through O perpendicular to the plane AOB. The position of the body can be determined by the angle e between the fixed line OA and the line OB fixed in the body. 
+
+The angular velocity of rotation is then =3 do dt (77) and its angular acceleration 
+
+FIG. 15 
+
+dw απ d20 (78) dt dt2 Let F be a force in the plane AOB applied to the body at P. The torque about the axis of rotation due to this force is = Fl, where is the perpendicular distance from O to the line FP. 
+
+The torque is positive when the force tends to produce rotation in the positive direction of 0.
+
+VIBRATING SYSTEMS 
+
+109 The torque and angular acceleration satisfy the equation T = Iα, (79) where I is the moment of inertia about the axis of rotation and T is the total torque about that axis of all forces acting on the body. This is analogous to
+
+F = ma, the moment of inertia corresponding to mass, and torque corresponding to force. 
+
+49. Vibrating Systems. When a body is given a slight displacement from a position of stable equilibrium and released, it vibrates about the position of equilibrium. 
+
+If the resistance is neglected, the differential equation of motion usually has the form d2x + k²x dt2 0, where x is the displacement, t the time, and k a constant. By the methods we have used, the solution of this equation is found to be x = c₁ cos kt + c₂ sin kt. 
+
+In many cases it is more convenient, however, to write it in the form x = A sin (kt + 0). (80) 
+
+To show the equivalence of the two values, let c1, c2 be the sides of a right triangle with hypotenuse A and base angle 0, Fig. 16. Then 
+
+C₁ = 
+
+A sin 0, C2 = A cos 0 and
+
+C1 Cos kt + C₂ sin kt = A (cos kt sin 0 + sin kt cos 0) 
+
+A sin (kt + 0). C2
+
+FIG. 16 
+
+Since the sine is never greater than 1, A is the maximum value of x. It is called the amplitude of the vibration. The quantity kt + 0 is an angle in terms of which the displacement is expressed, and is the value of this angle when t = 0. In a complete
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+vibration (across and back) the angle increases 360° or 2π. The time of vibration, or period, T is thus the amount t must increase to make the change in kt + 0 equal to 2π. That is, 2π The angle kt + does not usually appear in the diagram representing the motion.
+
+If the resistance is proportional to the velocity, the displacement is usually determined by an equation of the form d2x dt2 dx +2a + bx dt 0, where a and b are positive constants.
+
+The auxiliary equation r2+2ar + b = 0 has the roots r = · a ± √ a² 
+
+b.
+
+If a² b, the roots r₁, r₂ are negative real numbers, and x = Cierit + C₂erat simply approaches zero as t increases. There is no oscillation. 
+
+But if a² <b, the roots are complex. Then where A and x = Ae-at sin (t√b − a² + 0), are constants of integration. This represents oscillatory motion with amplitude Ae-at Since this decreases with the time the motion is called a damped vibration.
+
+In some cases a differential equation of the form d20 +k² sin 0 0 dt2 is obtained. This is not a linear equation. It becomes linear, however, if we replace sine by 0. For small angles this is a good approximation. Thus, when the angle is 5°, sin 0 0.08716, 0 = 0.08727,
+
+VIBRATING SYSTEMS 
+
+111 showing that the error is about 1 part in 800. Even for an angle of 10°, the error is only about per cent. 
+
+Example. A pendulum consisting of a particle of mass m, supported by a string of length 1, swings in a medium which resists with a force proportional to the velocity. Find the time of vibration.
+
+The torque about the point of suspension due to the weight of m is -mgl sin 0, the negative sign being used because when is positive the torque tends to decrease 0. The velocity of m is The resistance is then de dt do kl dt The torque due to this resistance is de -kl at l dt mg 
+
+FIG. 17 
+
+the negative sign being used because the torque is negative when do dt is positive. The moment of inertia of m about O is ml2. 
+
+The equation d20 dt2 is therefore d20 do ml2 dt2 -mgl sin o 
+
+kl2 dt Replacing sine by 0 this becomes d20 k do dt2 m dt + { 0 = 0. 
+
+The condition for vibratory motion is k2 4m²
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+If this condition is satisfied the solution is 
+
+kt 
+
+0 = Ae 2m sin 
+
+k2 4m² +a], where A and a are constants.
+
+The period of vibration is therefore T = 2π 
+
+k2 4m² 
+
+PROBLEMS 
+
+1. A particle moves along a straight line, its distance from a fixed point of the line being 
+
+Find the period of vibration.
+
+x = 1+2 cos (¹). 
+
+2. The motion of a particle is determined by the equation dt2 d2x dx +2 +226x dt = 0. 
+
+Find the period of vibration and the length of time required for the amplitude to drop to one-half its initial value. 
+
+3. A 10-lb. body is observed to vibrate 90 times per minute and the oscillation damps to one-half amplitude in 15 seconds. Assuming the resistance proportional to the velocity, find the differential equation representing the motion. 
+
+4. A pendulum consists of a uniform rod of length 7 suspended at one end. 
+
+Neglecting resistance, find the period of small oscillations. 
+
+5. A disc of radius a and mass M is supported in a horizontal plane by a vertical wire attached to its center. When the disc is rotated about the vertical axis through the angle 0, the torque exerted by the wire is ko. 
+
+When set in motion about the vertical axis, the disc vibrates n times per second. Find the constant k. 
+
+6. The force exerted by a helical spring is proportional to the amount the spring is stretched and is 2 lb. when the spring is stretched in. A mass of 
+
+5 lb. is suspended by the spring. If the mass is depressed slightly and released, find the time of vibration. 
+
+7. A particle of mass m moving along a line through the origin is attracted toward the origin with a force c times the distance, and is subject to a resistance equal to b times its velocity. Find the maximum value of m for which the motion will not be oscillatory. 
+
+8. A cylindrical spar buoy stands vertically in the water. Its diameter is 12 in. and its weight 200 lb. Neglecting the momentum of the water, find the time of vibration when it is depressed slightly and released. 
+
+9. A spherical ball of radius 1 ft. floats half submerged in water. Find the time of vibration if it is depressed slightly and released.
+
+PROBLEMS 
+
+113 10. The force exerted by a magnetic field of strength H on a magnet pole of strength M is MH. A magnetic needle of mass m, length 1, and pole strength 
+
+M, mounted in a horizontal plane, is observed to vibrate n times per second across the north and south line. Find the horizontal component H of the earth's magnetic field. 
+
+11. A tube is bent in the form of a U consisting of a semicircle of radius 
+
+6 in. surmounted by straight vertical sides. The semicircular part is filled with liquid. Neglecting friction find the time of vibration of the liquid when its surface in one arm is forced down slightly and released. 
+
+12. A rod of length 21 rests in a horizontal position on a cylinder of radius a. 
+
+If it is tipped slightly, find the time of vibration. 
+
+13. A rod of length 21 is supported in a horizontal position by vertical strings of length l attached to its ends. If the rod is turned through a small angle about the vertical through its center and released, find the time of vibration. 
+
+14. One end of an elastic string of natural length a is attached to a fixed point on a horizontal table and a mass m is attached to the other end. If m is drawn aside until the string is elongated the amount a and released, find the time of one complete vibration if a force of P pounds elongates the string 1 ft. 
+
+15. The e.m.f.
+
+across an inductance L is L di dt' R is Ri, and that across a condenser of capacity C is 1 i dt, that across a resistance where i is the current and t the time measured from the instant when the condenser is discharged. An inductance, resistance, and condenser are connected in series. If a small current is started in the circuit and the external e.m.f. then removed, find the condition for oscillation and the frequency of the oscillations. 
+
+16. If the resistance in the preceding problem is negative, show that the amplitude of a small oscillation will increase indefinitely. This is a case of importance in vacuum-tube circuits. 
+
+17. Two bodies of equal mass m are constrained to move one along the x-axis, the other along the y-axis. If they start from rest at x = a, y = b and attract each other with a force k2m times the distance between them, find their motion. 
+
+18. A particle of mass m is attracted toward each of two centers of force with a force equal to k times the distance. If the distance between the centers is 26 and the particle starts from rest at the point on the joining line at distance c from the center, find the motion. 
+
+19. In the preceding problem find the motion if the particle starts with velocity % perpendicular to the line joining the centers of force. 
+
+20. A particle moves so that its accelerations along and perpendicular to the radius are zero. Find the curve described. 
+
+21. A horizontal tube rotates about a vertical axis with angular velocity w. 
+
+A ball inside the tube and sliding without friction starts from the center with velocity v. Find its motion.
+
+LINEAR EQUATIONS WITH CONSTANT COEFFICIENTS 
+
+22. A weight of 4 lb. is suspended by a spring. The weight extends the spring 1 in. If the upper end of the spring is given the harmonic motion y = sin (√12gt), show that the vibrations of the weight will have a steadily increasing amplitude. This is a case of resonance. 
+
+23. When a current I flows through a resistance R the drop in potential is IR. When a potential E is impressed on a region of leakance G, the current that leaks away is EG. If the resistance of a cable is r per unit length and its leakance g per unit length, what current and potential must a line of length l receive at one end if the current and potential at the other are to be I。 and E.? 
+
+24. The area between the arc of a curve and its chord is equal to two-thirds that of the triangle formed by the chord and the tangents at its ends. Find the curve. Take the origin on the curve and one of the tangents as y-axis. 
+
+25. A wire of length 1 and mass m is fastened by one end and rotated with angular velocity w in a horizontal plane. If under a force F it stretches the amount klF, find the amount it is stretched by centrifugal force. 
+
+26. A beam rests throughout its length on an elastic material which reacts with a force proportional to the amount it is compressed. If it supports a weight W at the middle, find the curve in which it bends. 
+
+27. When an electron of charge e moves with velocity v in a field of magnetic intensity H, it is pushed aside with a force F = H sin o, where c is the velocity of light and ☀ the angle between v and H. The force is perpendicular to both v and H and is so directed that a right-hand rotation about F through the angle & carries v into H. 
+
+If H is constant and the electron starts with velocity v。 in a plane perpendicular to H, find the path described. 
+
+28. An electron moves in a magnetic field of intensity H. If it starts with velocity vo in a direction making the angle a with H, find the path described. 
+
+29. One end of a metal rod is kept at temperature T1. Heat entering at this end is conducted along the rod and dissipated from its surface into the air. Assume that the rate of heat loss per unit area of surface is k₁ times the difference between the temperature T of the surface and the temperature To of the air, that the radius r of the rod is so small that the temperature may be considered uniform over a cross section perpendicular to the axis, and that the rod is so long that the temperature at its end may be considered practically identical with that of the air. If the material of the rod has conductivity k2, find the total heat loss from its surface per unit time after a steady state has been reached. 
+
+30. A long column of length 21 is part of a structure which prevents it from moving horizontally at the middle and base but leaves it free to turn at those points. Find the maximum load it can support. (Cf. Problem 5, page 86.) 
+
+31. Find the maximum load in the preceding problem if the column is held horizontally at the middle and fixed in a vertical direction at the base.
+
+1. y2. 2 V1 
+
+3. In xy + 
+
+4. 1+ y² 5. sec² x 6. ↑ cos² 0 
+
+c(x + 2)². √1 − x² = c. 
+
+y = c. c(1 
+
+x²). csc² y = c. = C. 7. r2 sec 0 
+
+= C. 8. 2+2a2 cos² = c. 
+
+9. r2 = c cos 20.
+
+ANSWERS Page 7 
+
+10. xa sin (y + c). 11. r = a sec (0 + c). 
+
+12. x + y = c(1 − xy). 
+
+13. sin² x = 
+
+14. xy c(2y + a). c(1 − y). 
+
+15. r2 a² sin (2x + c). 
+
+16. e2x + e²v = C. 
+
+17. In (ev - 1) =c- x. 
+
+Pages 11, 12 
+
+9. y² 
+
+1. y = cx2. 
+
+2. y2 = CX. 3. y²+ 2x2 = c. 
+
+4. y2 
+
+x² = c. 
+
+5. A circle. 
+
+6. xy = 4. 7. y²+2ax = c. 
+
+8. y(x + 1) 15. 2v2h = 4. 
+
+x2 = 3. 10. (x - c)² + y² = k³, y +k. 
+
+11. 2y2 
+
+x² = C. 
+
+12. xy 1. 
+
+13. 3y²+ 2x² 5. 
+
+14. r = aeo cot a. gx², the starting point being the origin and the x-axis horizontal. 1. k ln y = x + c. 2. r(0 + c) + 2k = 0. 4. r2 4k0. 3. บ k. 
+
+Pages 14, 15 7. r = 2k sec (0 + c), r = 2k. 
+
+c(x xo), y = = cx or 
+
+9. บ 
+
+10. y² 
+
+Yo 11. x2 =cy. 
+
+5. r k sin (0 + c), r = k. 
+
+6. In r √k2 1 0+ c 1 
+
+x² = cy. 
+
+12. A sphere or cylinder. = yo. 
+
+Pages 18, 19 
+
+1. 11.3 times the initial amount. 2. Q Qoe-ki 3. ↑ = ro - kt. 
+
+1. 166.9 lb. 
+
+2. 4 hr. 25 min. 
+
+3. 20.78 lb. 
+
+4. 1 hour. 
+
+5. 64. 
+
+6. 13.5 days. 
+
+7. 135,000. 
+
+Pages 20, 21 
+
+4. 67.06 lb. 
+
+5. 99.5%. 
+
+6. 461 days. 
+
+8. 5.13%. 
+
+9. $42,360. 
+
+10. $23,630. 
+
+11. 6.67%. 
+
+7. 1344 cu. ft. 
+
+8. 0.179%. 
+
+9. 0.125%. 115
+
+ANSWERS 
+
+1. 11.3 min. 
+
+2. 54.3 min. 3. 9.9 sec. 4. 3 min. 
+
+5. 26.5 min. 
+
+691,200 cal. 
+
+591.9 187.6 ln r, 
+
+6. T 3x, 7. T 
+
+8. 2,945,000 cal. 
+
+1,833,000 cal. 
+
+Pages 24, 25 
+
+9. 0.00053. 
+
+10. c = as 2πKE 
+
+11. I 
+
+12. Q In r1 2πkar2(T 
+
+k+ ar₂ ln 13.
+
+T = To + ce-ax, where c is a constant of integration and 
+
+2kar 2 (k+ar₂ vr₁2k + ar₂ In all measurements being in c.g.s. units.
+
+T2 To)
+
+T2 
+
+1. 65.2 min. 
+
+2. 15.8 lb. 
+
+3. kl K(P+). 2 
+
+Pages 27, 28 ab(eakt 
+
+ebkt) 
+
+6. x = 
+
+4. 0.0878 times the initial amount.
+
+5. In In-5343 (-) 
+
+1. r = = x + c. 
+
+3. p 14.7e-kh lb. per sq. in. R(R-r) 4. p = kr Poe aeakt bebki 
+
+7. r = ro + ks. 
+
+8. 3.3 hours. 
+
+9. 4.6 lb. 
+
+10. M
+
+197,273,000.
+
+Page 31 
+
+2. Hyperboloid of revolution. 
+
+where po is the pressure at the surface of the earth and k is the constant in Boyle's law p 
+
+5. p 
+
+6. p 
+
+9. T2 Po + 6272 pw2α2 2g kp. 
+
+Poe ²øk, where po is the pressure at the center.
+
+wv2 wv2 10-(T). 
+
+Pages 32, 33. (Miscellaneous Problems) 
+
+1. A k√h. 4. h2 kx + c. 8. ↑ = ceko. wh 
+
+2. A e144 S sq. in.
+
+5. h² k ln x + c. 
+
+9. r² = 03 7. 819 lb. per sq. ft. 
+
+10. A sphere with the source at the center, or the surface generated by rotating the curve r² = a sin 20 about a line through the origin. 
+
+11. 3.3 min. 
+
+12. 2.8 min. 
+
+14. The surface generated by rotating the curve y = 
+
+√ a² 
+
+x² + a ln about the y-axis.
+
+x2 + c
+
+ANSWERS 117 = C. 1. 2xy + y² = c. 
+
+2. x³ + 3xy2 3. x2y y2x 4. x3 + x²y 5. r2 cos² 0 
+
+= C. - y²x 
+
+2y³x 
+
+6. x³y 
+
+7. x³y + x² 
+
+8.
+
+xexy³ + ex 
+
+уз = C. 
+
+2r sin 0 = c. = C. Page 38 
+
+12. y2xy = cx. 
+
+13. y(1 + cx) 1. 14. x³y-x2y² = C. 
+
+15. yx tan (c — x). 
+
+16. In x + y(x c) 
+
+= 0. 
+
+17. In (x² + y²) + 2 tan-¹ = C. + r = c cos 0. y = c. 6y3 = C. 18. r2 cos² 
+
+9. x²ev + y²ex + x² = C. 19. r2 sec + tan 0 
+
+10. x = y(c + In y). 
+
+20. 2xex + y² = C. 
+
+11. y = cx + x². 
+
+Pages 43, 44 cr. 1. y ex (x + c). 2. x2y x³ + c. 
+
+3. x = y² (y² + c). 
+
+4. (x + 1)³y 
+
+5. y + ac sin² x. 1 6. x³y 2x2 
+
+12. 2y 
+
+xy2 = CX. cy. 
+
+13. x² + xy 14. x2 y² (2ex + c). 
+
+15. x = y(ln x + c). (x + 1)² + c. 
+
+16. 4xy yt + c. ·x3 + c. 
+
+7. x(y² — 1) y²+1+cy. 
+
+8. (3yx² + 1) √x² – 1 = C. 
+
+9. (xy 10. x(sec y + tan y) 
+
+1) sin x = c. 
+
+11. x²yex = ex + c. 
+
+y + c. x³ (3 ln x + c). 
+
+1. y³ 
+
+2. x(x 3. x ln y 
+
+3y)2 = C. 
+
+= cx. 4. 2x2 ln x + 2xy - y2 5. y²(y - x) 6. x²(y 
+
+= cx². cx². x) c(y + x). = cx4. 7. y¹(x² + y²) 
+
+8. xy2 c(x² + y²). 
+
+9. y²(x − 2c) + c²x 10. In xy + tan-¹ 0. = C. 
+
+1. y = x+c, y + 2x 2. x2 c² + 2cy. 3. (x + c)² — y² = 1. 
+
+4. (xy + c)² = 4cx2, 5. 2y x² + c, 6. y = cx² + c², 7. y² = cx 
+
+8. 2y = C. 
+
+17. y²(x + ½ + ce²x) 
+
+18. x= 
+
+19. 7y³ 20. x2 y² (x² + c). 
+
+1 x(y + c). 21. sec y = 
+
+Pages 48, 49 11. xy2 1. y(3x + c). x²(c + tan y). 
+
+In x + c. 12. x²y² - 2xy - 2 ln x = c. 13. x2y2 
+
+X3 = C. 16. 1 
+
+cy2. 
+
+14. y(x - c) = x³. 
+
+15. xy2+2 In y = C. 2x2y 
+
+17. x³y² = cexy. 18. x2y(1 + xy) 
+
+19. y = cxe-xy. 
+
+20. y³ 
+
+Pages 54, 55 9. = C. = x²(c — In x). y CX 10. (3cx + 2)² 
+
+11. 2y = c x², c² + 2cx. c², x² = 4y. 4cy³, y³ 2 ln y = 6x. = C - x². 
+
+cx)2 c³, 4x³ 
+
+c²x² + 1, - cy)² = 4y, y 
+
+= 0. 27y. +2x. y = x. y = cex. 
+
+12. y2 13. (y c², x² + 4y = 0. 2y 
+
+14. cy 15. (x = x. 
+
+3x²+c, 2y + x² = C.
+
+ANSWERS 
+
+1. x + 2y + ln (x + y − 2) : 
+
+2. y³ = cex 
+
+1. 3. ln x 
+
+4. y2 5. ev 
+
+- sin (xy) x²(2x + c). ex (x + c). = C. 
+
+Pages 57, = C. 58 7. ev + ln x = c. 
+
+8. xy =
+
+ex (x + c). 
+
+9. ev²+ In y = c. 10. x2 sin y = 23 + c. 
+
+6. x sin = C. x2 
+
+11. x = et + c₁e, y etc₁et+C2. 12. 13. x2 
+
+Cies, x Czet 
+
+c₁t - t2, 1 
+
+14. x = t + c₁t²' t³ - C₁t² + C2. y = ft² + fc₁t + c₂. 
+
+15. x = t +, y = tª + t² + 4c₁t + cz. et (t + c₁), x = 2et (t + C₁ y = 16. ข 
+
+1) + C₂. 201 312 
+
+17. x = 
+
++ C2, y 18. x= Ciet, y = cie² + c₂е→. 
+
+Page 58. (Miscellaneous Exercises) 
+
+1. In x 2. x3 
+
+=cy. 
+
+3xy + c. 
+
+3. x = cev + y + 1. 
+
+4. x² + c² 2cy. = C. 
+
+5. x²+xy - y² 
+
+6. xy = cx³ - 1. 
+
+7. y = cx²ex. 8. x2 9. y(x 10. ข 
+
+11. y 
+
+- y2 =Cx. 
+
+- 1) 
+
+12. xy2 
+
+13. y(x² + c²) c(x+2y). 14. x¹ + 4y (x² 
+
+4cx2. - 1) = c. 
+
+15. x cot y = cos y + c. 16. x2y= 2 ln y + c. 
+
+17. xy 18. x2y = x + 1 + c √x + 1. 
+
+x = cy. 19. x = y²(c — e-v). 
+
+2 sin x + c csc² x. x8 + cx. 
+
+20. y sin x + 
+
+21. 3y2 y² — }x³ = C. 
+
+22. 2ev = 
+
+e-x-c). = x² + cxe-*. x(ex+c ex + ce-x. 
+
+23. y = cex, x2 y2 b2 24.
+
+(aª − x²)c² + 2cxy + b² - y² = 0, x 2 + ve 1 
+
+1 - y2 1 C₁t2 
+
+2c₁ 6 
+
+25. y = 012-2 2c x = C2 
+
+26.x cie² + t + 1, = C2 Ciet 
+
+*. = 1. x = 2y²(1 + cx).
+
+R2+ L2w2 1. i = CEW 
+
+2. i R² 
+
+Pages 59-61. (Problems) [R R sin wt 
+
+La cos wt + Lwe L cos wt + CRw sin wt Rt ]. RC e c]. Rt wt-e-Z)], 3. i = +[(RR₂ + LL₂w²) sin wt + w(L₂R — R₂L) (cos wt — e 2 where R = R1 R2, L = Li + L2. 
+
+---
+
+ANSWERS 119 kt 4. T = To + (1 − e−c), if T = T. at time t = 0. 0.239RI2 
+
+5. y² = 2cx + c², the fixed point being the origin and the fixed line parallel to the x-axis. 
+
+6. x² + y² == 2cx. 
+
+7. x³ + 3xy² = C. 11. x² = 2cy + c². 
+
+12. A catenary. 
+
+8. x= y + 1 + ce". 
+
+10. x² + y² = cx. 
+
+14. 2xy == a². 
+
+15. x + ył = al. 
+
+16. The surface is generated by rotating a catenary *+c y = e a +e a 2 about the x-axis. 
+
+17. 14.9 lb. 18. x=1(1-2), y=1(1-2). 
+
+19. y=4.5(1-e-0.73241), x=10—y. 
+
+20. B=0.214, C=0.249. x ln x + x³ + C₁x + C2. 
+
+1. บ sin x+x+c. 
+
+2. บ 
+
+3. y 
+
+4. บ c₁ ln x + C₂ - x². Page 69 C₁ + y 
+
+9. x = In + C2. C1 C1 
+
+10. y = 1 (1+c₁2) In (x+C₁) −C₁x+C2. 
+
+5. บ = x + c₁xex + C2. 
+
+6. y = 
+
+7. = ย C₁ sin (kx + C₂). 1 
+
+8. y = ·(ecix+a+e-cix-cs). 2c1 
+
+14. บ
+
+In (c₁ + ln x) + C2. 11. y = ln (c₁ + x²) + cz. 12. y = ln (c₁ = x + c₁(x√1 − x² + sin−¹x) + C₂.
+
+15. y = c₁x³- x²+C2. 
+
+16. y = 17. 
+
+18. y C1X3 1 + c₁x+1). 
+
+13. x c₁ ln y 
+
+· ty² + C₂. 19. ln x =- -tan-1 y+1 + C2. C1 x ln (1 + x²) + c₁(1 + x tan-¹x) + C₂x. (ln x)² + c₁ ln x + c2. 
+
+C1X (C2X201 
+
+C₂x201 +1 1) 
+
+1. Ely 
+
+2. Ely 
+
+3. Ely 
+
+4. Ely 
+
+5. Ely 
+
+Pages 74, 75 
+
+W(3lx² - x³), the center being the origin.
+
+W(x3 
+
+3x²), the fixed end being the origin. -w(61²x² - 4lx³ + x¹), the fixed end being the origin. w(−31²x² + 5lx³ — 2x¹), the center being the origin. w(−31²x² + 5lx³ — 2x¹), the fixed end being the origin. w(21²x² — x¹), the center being the origin. 
+
+6. EIy = 
+
+7. A parabola. 
+
+8. A catenary. 
+
+9.66.7 lb. 
+
+10. y = c(ekx + e-kx), the bottoms of the rods being on the x-axis and the lowest point of the curve on the y-axis. 1. x = a cos acos((√). 
+
+Pages 81, 82 3. t
+
+ANSWERS 
+
+4. About 7 miles per sec. 
+
+5. About 42 min.
+
+V2 
+
+6. s = In gt gt ev + e 2 mg 
+
+7. vo where s mg + kvo² • is the distance fallen. 
+
+8. Maximum height 48,500 ft., range 36.7 miles. mo) (1 − e) — mot. − – 
+
+9. x = mvo cos a · (1 − e), kt y = k2 (kvo sin a + mg) 10. x2 a² 
+
+ky2 mv02 1. t = ln (6 + √35). 
+
+2. 11.5 ft. per sec. 
+
+3. t √9 
+
+In (17 + 12 √2). 
+
+4. (l + x)2v2 c[t 
+
+5. s = c t + gt2 
+
+39[(1 + x)³ mo kt c[t 
+
+In 
+
+mo 
+
+11. ra cos 0. 
+
+Pages 85, 86 
+
+73], where v is the velocity. 
+
+mo mo kt 
+
+6. s = 
+
+7. s = Movo In mo kt 
+
+mo kt] - bor². gt2. mo In mo kt]. 8. s = gt2. 
+
+10. g. 
+
+1. A circle. 3. 2x = 
+
+4. Ely 
+
+6. P = 10. 13. v = c₁ In y 
+
+Pages 86, 87. (Miscellaneous Problems) 
+
+y2 2c1 
+
+2. A catenary. W (13 - 31²x + 6lx² 
+
+x³). + C2. 
+
+Wlx², Ely 2 (7)* EI. 
+
+ro2v02 :) 9. r = a sec [V m1 mi + m2. cos 0 + 11. r = 2ro 1 + cos 0 ot)"]. r02002 0 wt 15 18 [1-(W)"] 16c 15 αρχε 14. T 2kA2 (lx − x²) + ½ (T1 − To) + To, A = Il 2k(Ti αρ 
+
+To)' where α = 0.239, the temperature being in degrees Centigrade and the heat flow in calories per second.
+
+Page 94 5. ยู = C₁ + C₂ex + cze³x. 
+
+6. y C1 + (C₂+ C3x) e−2x¸ 
+
+7. บ = C1 COS X + c₂ sin x. 1. 2. 3. = C₁ + C₂ex.
+
+C₁ex + C₂e-зx C₁ex + C₂e-2x 
+
+4. y 
+
+8. y (C₁ + C₂x)e-x. C₁e* + C₂e + C3 COS X + C sin x.
+
+ANSWERS 121 
+
+9. y = 
+
+10. ข 
+
+11. y y= 12. 
+
+13. y 
+
+14. ปี (C₁ + C2x) cos x + (c3 + c4x) sin x. ex (C1 cos x + C₂ sin x). ex (c₁ cos 2x + c₂ sin 2x). (C₁ + C2x + C3x²)ex.- 
+
+C₁ex + c₂ex + cз cos 2x + c₁ sin 2x.
+
+Cre² + e¯¹*[c₂ cos (3√3x) + c, sin (†√3x)]. 
+
+15. y = c + C2X + (C3 + €4x)e*. 1. y = C₁e²x² + C₂-2x 3. y (C₁ + C₂x) ex 
+
+4. y = (C₁ + C₂x) ex 
+
+Pages 100, 101 
+
+*e*. 
+
+2. ycie + C₂ex x. + 2e2x. + (C3 + €4x)e−x + sin 2x. 
+
+5. บ = C₁ cos 2x + c₂ sin 2x + cos x. 
+
+6. y = C₁ex + C₂e5x 
+
+x + ₤. 
+
+7. y = c₁ex + C₂e¬³x + 
+
+8. บ = C1+ C₂ex 03 
+
+9. y = c1 cos x + c₂ sin x 
+
+10. y = c₁ + C₂e-2x + xex cos x + sin x + §. 2x. x2 
+
+x cos x. ・fex. 
+
+12.
+
+y = c₁ cos 3x + c₂ sin 3x + x sin x 
+
+13. y 
+
+14. y c₁ + Č₂e³x C1 + (C₂ + C3x) e¬* + žex 
+
+15. บ 
+
+16. บ 
+
+e2x sin x
+
+Ciеx + c₂е-2x + }xex + e²x (c₁ coś x + C₂ sin x) 
+
+11. y = c₁ + C₂еx + сsе-* — ‡x² . 
+
+x²e-x. ex cos x. }e²x. cos x. + e²x + (sin x + cos x). 
+
+1. y = (C1+C2x + x²) e−2x. 
+
+2. บ 
+
+Pages 107, 108 
+
+25-119x. = C₁ex + C₂e-* + C3 COS x + c4 sin x 
+
+3. y = (C1 + C2x + C3x² + 4x4)e-x. 
+
+4. บ x²e-*(2 ln x - 3) + (C1 + С2x)e¯x. e-x 5. y = ciе² + C²²² + €²z S[e* Sex In x dx]dx. 6. y = (x + c₁) sin x + (In cos x + C2) cos x.
+
+7. y = C₁ + (C2 + 1x)ex + (C3 + 1x)e¯x. 
+
+x. હું 
+
+8. บ = ex [c₁ cos x + C2 sin x + sin x ln (csc x cot x)]. C2 x. 
+
+10. y 
+
+C1 + 
+
+11. y = c₁x² +
+
+2x3. 
+
+9. y = © C₁x + C2x 12. y = c₁x + c²x² + 1x³ ln x 
+
+14. y = 
+
+15. y y 16. x= 
+
+17. y 
+
+C₁et + C₂et - 1,
+
+C₁ cost+c₂ sint, 13. y = x[c1 + c₂ ln x + x = Ciet C₂e-t 1. 
+
+x = (C1+ C2) cost + (c₂ c₁) sin t. 
+
+C₁et + C₂et + C3 cos t + C4 sin t, Ciet + C₂e-t 
+
+Cз cos t 
+
+C4 sin t. 
+
+1. et, x = c 2et. 
+
+18. y = -t, x = t² + t 
+
+19. x = Ciet+c₂ cost+c, sint, y - - Xx x. (ln x)²]. 2c₁et + (C₂+Cs) sin t + (C₂ — C3) cos t.
+
+20. y = (c₁ + − } ln t)t +, x = 1 − (a − } − } In t)t + G.
+
+---
+
+ANSWERS 1. T = 20. 2π 2. T 15° 
+
+Pages 112-114
+
+The amplitude decreases to in 0.6931 sec. d2x dx 
+
+3. + 0.0924 + 88.83x = 0. dt2 dt 21 4. T = 2π 
+
+9. T = 2π 13. T = = 2π 3g* 3g 
+
+5. k 
+
+22n² Ma².
+
+T2n2ml ปร 
+
+10. H 14. T 3M (4 +2π) P' 3g 11. T =π 2πι R2 
+
+15. C' 4L2 LC 1 1 R2 12. T √3ag ​2π
+
+LO 4L2 b cos kt. 2k 6. T = 7. m = ba 4c 
+
+8. T = 2.24 sec. 
+
+17. x = a cos kt, 18. xc cos centers. the origin being midway between the two attracting 
+
+19. The particle describes an ellipse. 
+
+20. A straight line. 
+
+21. r = 2w 
+
+2% (ewt (ewt - e-wt). 1 - 
+
+23. 1 = 1(1. + E. √;)√7 + (I, − E. √ √?) eπ.
+
+24. A parabola. 25. 1 (tan e -1), 26. y α = 
+
+where w↑ wVkml. eax (A cos ax + B sin ax) + e-ax (C cos ax + D sin ax), where 4EI' the constants A, B, C, D being determined by the conditions satisfied at the middle and end. 
+
+27. A circle. 
+
+30. P 
+
+28. A helix. 29. πrì √2kık₂(Tı — To). 
+
+31. P = 1.566 1.358 ( ().
+
+INDEX 
+
+The numbers refer to the pages Acceleration, angular, 108 in polar coördinates, 78 linear, 76 of gravity, 75 
+
+Amplitude of vibration, 109 
+
+Angular acceleration, 108 velocity, 108 
+
+Auxiliary equation, 89
+
+Beams, deflection of, 69-72 problems, 74, 86, 114 
+
+Bending moment, 71
+
+Cable, equilibrium of, 73, 74 problems, 75 
+
+Cantilever beam, 74 
+
+Catenary, 13 
+
+Chain, motion of, 82, 83 problems, 85, 86
+
+Change of variable, 55, 56 
+
+Chemical reactions, 18, 27, 60 
+
+Choice of variables, 15, 55 
+
+Clairaut's equation, 51 
+
+Clepsydra, 32 
+
+Columns, deflection of, 86, 114 
+
+Complementary function, 95 
+
+Compound interest, 16, 17 problems, 18, 19 
+
+Concentration, 19 
+
+Condenser plates, shape of, 14, 32, 33 
+
+Conductivity, 22 
+
+Constants, determination of, 10, 11 independent, 63, 88 
+
+Continuity, equation of, 19 
+
+Cooling rate of, 18
+
+Damped vibration, 110 
+
+Deflection, of beams, 69-72, 74, 86, 114 of columns, 86, 114 
+
+Degree of a differential equation, 49 
+
+Density, of air, 30, 31, 32 of sea water, 31 
+
+Determination of constants, 10, 11 
+
+Different forms of solution, 4-6 
+
+Differential, 16
+
+Differential relations, 28-31 
+
+Diffusion, 23, 25 
+
+Disc, vibrating, 112 
+
+Dissolving, rate of, 25, 26 
+
+Drying, rate of, 28
+
+Electric circuits, 59, 113 
+
+Electricity, flow of, 23 heat produced by, 25 
+
+Equation, auxiliary, 89 
+
+Clairaut's, 51 of continuity, 19 
+
+Equations, containing integrals, 1215 exact, 34-37 first order, 1-61 higher degree, 49-54 homogeneous, 44-46, 67-68, 105106 linear, 38-42, 65–67 linear with constant coefficients, 88-114 nth order, 88 second order, 62-87 separable, 1-33 simultaneous, 56-57, 106-107 123
+
+INDEX 
+
+Equilibrium of a cable, 73, 74 problems, 75 
+
+Exact equations, 34-37
+
+First order equations, 1-61 containing integrals, 12-15 exact, 34-37 higher degree, 49-54 homogeneous, 44-46 linear, 38-42 separable, 1-33 simultaneous, 56, 57 
+
+Flow, of electricity, 23, 25 of gas from a tank, 32 of heat, 22–24, 25, 59, 87, 114 of water from an orifice, 21-22, 24 
+
+Friction, of belt and pulley, 31 of a step bearing, 33 
+
+Schiele's pivot, 33 
+
+Function, complementary, 95
+
+Geometrical problems, 7-15, 59, 60, 86, 114 
+
+Geometrical representation, 53, 54 
+
+Gravity, acceleration of, 75 
+
+Ground water problems, 32 
+
+Growth, of bacteria, 61 of population, 18, 28 of yeast, 18
+
+Heat, flow of, 22-24, 25, 59, 87, 114 
+
+Heat produced by electric current, 25 
+
+Height of atmosphere, 30 
+
+Higher degree equations, 49-54 
+
+Homogeneous equations, first order, 44-46 linear, 105, 106 second order, 67, 68
+
+Illumination, surface of equal, 33 
+
+Imaginary roots, 92-94 
+
+Integral curves, 3 
+
+Integral, particular, 95 
+
+Integrals, equations containing, 1215 
+
+Integrating factor, 37 
+
+Integration between limits, 17, 18 
+
+Intercepts, 60 
+
+Interest, continuously compounded, 16-17, 18, 19
+
+Linear equations, first order, 38-42 homogeneous, 105, 106 second order, 65-67 simultaneous, 106, 107 with constant coefficients, 88-114
+
+Logarithm, definition of, 5 properties of, 5, 6
+
+Mirror, elliptic, 29 hyperbolic, 31 parabolic, 31, 59 
+
+Motion, in a plane, 77-81, 82, 86, 87 in a straight line, 75-77, 81, 86 of a chain, 82-83, 85 of an electron, 114 of a projectile, 82 of the center of gravity, 82
+
+Negative resistance, 113 
+
+Newton's law of cooling, 18 
+
+Orbit, of a comet, 87 of a planet, 86 
+
+Order of a differential equation, 1 
+
+Ordinary differential equation, 1 
+
+Orifice, flow of water from, 21-22, 24 
+
+Orthogonal trajectories, 9, 12, 59 
+
+Oscillatory motion, 109-114 condition for, 110
+
+INDEX 
+
+125 
+
+Parameters, variation of, 103-105 
+
+Partial differential equation, 1 
+
+Particular integral, 95 
+
+Pendulum, motion of, 111, 112 
+
+Plane motion, 77-81 in polar coördinates, 77, 78 in rectangular coördinates, 77 
+
+Polar coördinates, 77, 78 
+
+Pressure of air, 30, 31, 32
+
+Radioactive decomposition, 17, 18 transformations, 60 
+
+Raindrop problems, 28, 85, 86, 87 
+
+Rate of change, 16, 17 of cooling, 18 of dissolving, 25, 26 
+
+Reflector, elliptic, 29 hyperbolic, 31 parabolic, 31, 59 
+
+Relative velocity, 84 
+
+Rocket problems, 84, 85, 87 
+
+Roots, equal, 91 imaginary, 92-94 
+
+Rotation, about a fixed axis, 108, 109 of a gas, 31 of a liquid, 31, 32 
+
+Schiele's pivot, 33
+
+Sea water, density of, 31 
+
+Second order equations, 62-87 homogeneous, 67, 68 immediately integrable, 63 linear, 65-67 
+
+Second order equations, not containing x, 64, 65 not containing y, 63, 64 
+
+Second order processes, 25-28
+
+Separable equations, 1-33 
+
+Separation of the variables, 3, 4 
+
+Simultaneous equations, first order, 56, 57 linear, 106, 107 
+
+Singular solutions, 53 
+
+Solution, different forms of, 4–6 of a differential equation, 2, 3 
+
+Straight line motion, 75-77 oscillatory, 109-114 
+
+Symbolic methods, 101-103
+
+Torque, 108 
+
+Trajectories, orthogonal, 9, 12, 59
+
+Undetermined coefficients, 97-100
+
+Vapor pressure, 27 
+
+Variable mass, 83-85, 86, 87 
+
+Variables, change of, 55, 56 choice of, 15, 55 
+
+Variation of parameters, 103-105 
+
+Velocity, angular, 108 in polar coördinates, 78 linear, 75 relative, 84 
+
+Ventilation, 21 
+
+Vibrating systems, 109-114 
+
+Vibrations, damped, 110
+
+HW 2QQT P

@@ -1,0 +1,2 @@
+state: JobState.JOB_STATE_SUCCEEDED
+wrote D:\UZHechist Dropbox\Joachim Voth\claudecode\ranke-contamination-audit\10_frame_probe\frame_probe_judge.json | n= 156 | labels: Counter({'STALLS': 70, 'EXTENDS': 34, 'REVERTS': 30, 'DISTORTS': 22})

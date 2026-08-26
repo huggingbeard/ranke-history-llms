@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "version": "bignull-v3",
+  "date": "2026-07-10",
+  "layer": 30,
+  "n_items": 278,
+  "n_studied": 39,
+  "n_blank": 167,
+  "blank_real": 117,
+  "blank_invented": 50
+ },
+ "results": {
+  "v2_none": {
+   "memory_auc": 0.948,
+   "leak_auc": 0.545,
+   "per_category_leak_auc": {
+    "war": 0.454,
+    "nobel": 0.492,
+    "painter": 0.676,
+    "novelist": 0.794
+   },
+   "meter_by_class": {
+    "famous": 0.411,
+    "obscure": 0.07,
+    "invented": 0.008,
+    "false": 0.221
+   }
+  },
+  "v3_global": {
+   "memory_auc": 0.947,
+   "leak_auc": 0.51,
+   "per_category_leak_auc": {
+    "war": 0.315,
+    "nobel": 0.537,
+    "painter": 0.758,
+    "novelist": 0.66
+   },
+   "meter_by_class": {
+    "famous": 0.389,
+    "obscure": 0.077,
+    "invented": 0.035,
+    "false": 0.257
+   }
+  },
+  "v3_percat": {
+   "memory_auc": 0.938,
+   "leak_auc": 0.481,
+   "per_category_leak_auc": {
+    "war": 0.531,
+    "nobel": 0.577,
+    "painter": 0.519,
+    "novelist": 0.537
+   },
+   "meter_by_class": {
+    "famous": 0.414,
+    "obscure": 0.089,
+    "invented": 0.009,
+    "false": 0.462
+   }
+  }
+ }
+}

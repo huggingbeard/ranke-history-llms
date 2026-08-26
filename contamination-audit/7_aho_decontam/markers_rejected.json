@@ -1,0 +1,337 @@
+[
+  {
+    "term": "e-mail",
+    "bucket": "Tech/computing",
+    "reason": "absent from Google Books"
+  },
+  {
+    "term": "d-day",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "reason": "absent from Google Books"
+  },
+  {
+    "term": "lend-lease",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "reason": "absent from Google Books"
+  },
+  {
+    "term": "drive-in",
+    "bucket": "Culture/society",
+    "reason": "absent from Google Books"
+  },
+  {
+    "term": "mcdonald's",
+    "bucket": "Orgs/brands",
+    "reason": "absent from Google Books"
+  },
+  {
+    "term": "coca-cola",
+    "bucket": "Orgs/brands",
+    "reason": "absent from Google Books"
+  },
+  {
+    "term": "john f. kennedy",
+    "bucket": "People (post-1945)",
+    "reason": "absent from Google Books"
+  },
+  {
+    "term": "television",
+    "bucket": "Culture/society",
+    "pre_max": 1.714843806130406e-05,
+    "pre_mean": 2.5151447388488402e-06,
+    "post_mean": 5.4954144205318676e-05,
+    "log10_post_over_pre": 1.34,
+    "birth_year": 1934,
+    "reason": "present before 1945 (pre_mean=2.5e-06 >= 1e-07)"
+  },
+  {
+    "term": "united nations",
+    "bucket": "Cold War / geopolitics",
+    "pre_max": 3.5955375162766146e-05,
+    "pre_mean": 2.4528481096621388e-06,
+    "post_mean": 3.947974972747694e-05,
+    "log10_post_over_pre": 1.21,
+    "birth_year": 1938,
+    "reason": "present before 1945 (pre_mean=2.5e-06 >= 1e-07)"
+  },
+  {
+    "term": "new deal",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 1.164786803853346e-05,
+    "pre_mean": 1.984351976150014e-06,
+    "post_mean": 2.3740121560579994e-06,
+    "log10_post_over_pre": 0.08,
+    "birth_year": 1923,
+    "reason": "present before 1945 (pre_mean=2.0e-06 >= 1e-07)"
+  },
+  {
+    "term": "pearl harbor",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 1.3544659036357487e-05,
+    "pre_mean": 1.3388591050159414e-06,
+    "post_mean": 1.6508291794806228e-06,
+    "log10_post_over_pre": 0.09,
+    "birth_year": 1906,
+    "reason": "present before 1945 (pre_mean=1.3e-06 >= 1e-07)"
+  },
+  {
+    "term": "world war ii",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 1.0757904243097194e-05,
+    "pre_mean": 8.383273275304316e-07,
+    "post_mean": 2.067601022317903e-05,
+    "log10_post_over_pre": 1.39,
+    "birth_year": 1938,
+    "reason": "present before 1945 (pre_mean=8.4e-07 >= 1e-07)"
+  },
+  {
+    "term": "nagasaki",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 1.6281996015471423e-06,
+    "pre_mean": 7.509760766412509e-07,
+    "post_mean": 1.0899125475182885e-06,
+    "log10_post_over_pre": 0.16,
+    "birth_year": 1850,
+    "reason": "present before 1945 (pre_mean=7.5e-07 >= 1e-07)"
+  },
+  {
+    "term": "penicillin",
+    "bucket": "Science/medicine",
+    "pre_max": 2.136677352879146e-05,
+    "pre_mean": 7.215275354151747e-07,
+    "post_mean": 5.8867131248965705e-06,
+    "log10_post_over_pre": 0.91,
+    "birth_year": 1938,
+    "reason": "present before 1945 (pre_mean=7.2e-07 >= 1e-07)"
+  },
+  {
+    "term": "ddt",
+    "bucket": "Added (space/cold-war/sci)",
+    "pre_max": 8.94728773315201e-06,
+    "pre_mean": 5.54786850285686e-07,
+    "post_mean": 4.536489536546826e-06,
+    "log10_post_over_pre": 0.91,
+    "birth_year": 1936,
+    "reason": "present before 1945 (pre_mean=5.5e-07 >= 1e-07)"
+  },
+  {
+    "term": "cia",
+    "bucket": "Orgs/brands",
+    "pre_max": 1.143102362988202e-06,
+    "pre_mean": 5.231469403021685e-07,
+    "post_mean": 4.43356617329973e-06,
+    "log10_post_over_pre": 0.93,
+    "birth_year": 1914,
+    "reason": "present before 1945 (pre_mean=5.2e-07 >= 1e-07)"
+  },
+  {
+    "term": "chemotherapy",
+    "bucket": "Science/medicine",
+    "pre_max": 2.2165999932766134e-06,
+    "pre_mean": 3.8839484625716487e-07,
+    "post_mean": 5.026431486507019e-06,
+    "log10_post_over_pre": 1.11,
+    "birth_year": 1936,
+    "reason": "present before 1945 (pre_mean=3.9e-07 >= 1e-07)"
+  },
+  {
+    "term": "de gaulle",
+    "bucket": "People (post-1945)",
+    "pre_max": 4.3666793741736765e-06,
+    "pre_mean": 3.5689571890410815e-07,
+    "post_mean": 2.483457261143321e-06,
+    "log10_post_over_pre": 0.84,
+    "birth_year": 1936,
+    "reason": "present before 1945 (pre_mean=3.6e-07 >= 1e-07)"
+  },
+  {
+    "term": "great depression",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 8.900739680572922e-07,
+    "pre_mean": 3.1917142018300034e-07,
+    "post_mean": 1.3306169362380976e-06,
+    "log10_post_over_pre": 0.62,
+    "birth_year": 1850,
+    "reason": "present before 1945 (pre_mean=3.2e-07 >= 1e-07)"
+  },
+  {
+    "term": "second world war",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 3.0974871336741927e-06,
+    "pre_mean": 3.147480912693568e-07,
+    "post_mean": 5.2370291352444464e-06,
+    "log10_post_over_pre": 1.22,
+    "birth_year": 1937,
+    "reason": "present before 1945 (pre_mean=3.1e-07 >= 1e-07)"
+  },
+  {
+    "term": "nylon",
+    "bucket": "Tech/computing",
+    "pre_max": 2.96042172362454e-06,
+    "pre_mean": 3.045490724491266e-07,
+    "post_mean": 5.316948225676186e-06,
+    "log10_post_over_pre": 1.24,
+    "birth_year": 1937,
+    "reason": "present before 1945 (pre_mean=3.0e-07 >= 1e-07)"
+  },
+  {
+    "term": "holocaust",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 5.26061242511755e-07,
+    "pre_mean": 2.5057514928678025e-07,
+    "post_mean": 2.4643345358192734e-06,
+    "log10_post_over_pre": 0.99,
+    "birth_year": 1850,
+    "reason": "present before 1945 (pre_mean=2.5e-07 >= 1e-07)"
+  },
+  {
+    "term": "superpower",
+    "bucket": "Cold War / geopolitics",
+    "pre_max": 1.1275114092379468e-06,
+    "pre_mean": 2.221758763349772e-07,
+    "post_mean": 7.752812463744052e-07,
+    "log10_post_over_pre": 0.54,
+    "birth_year": 1917,
+    "reason": "present before 1945 (pre_mean=2.2e-07 >= 1e-07)"
+  },
+  {
+    "term": "security council",
+    "bucket": "Cold War / geopolitics",
+    "pre_max": 2.899486158919329e-06,
+    "pre_mean": 1.7292058154708443e-07,
+    "post_mean": 7.434725325233149e-06,
+    "log10_post_over_pre": 1.63,
+    "birth_year": 1940,
+    "reason": "present before 1945 (pre_mean=1.7e-07 >= 1e-07)"
+  },
+  {
+    "term": "fbi",
+    "bucket": "Orgs/brands",
+    "pre_max": 1.3693207768922244e-06,
+    "pre_mean": 1.6978497914651694e-07,
+    "post_mean": 5.912422474635347e-06,
+    "log10_post_over_pre": 1.54,
+    "birth_year": 1938,
+    "reason": "present before 1945 (pre_mean=1.7e-07 >= 1e-07)"
+  },
+  {
+    "term": "email",
+    "bucket": "Added (space/cold-war/sci)",
+    "pre_max": 5.269110717187608e-07,
+    "pre_mean": 1.5562897736184604e-07,
+    "post_mean": 3.109418566452926e-06,
+    "log10_post_over_pre": 1.3,
+    "birth_year": 1852,
+    "reason": "present before 1945 (pre_mean=1.6e-07 >= 1e-07)"
+  },
+  {
+    "term": "hiroshima",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 2.6540273578845586e-07,
+    "pre_mean": 1.4591388105124182e-07,
+    "post_mean": 1.8767016557504421e-06,
+    "log10_post_over_pre": 1.11,
+    "birth_year": 1903,
+    "reason": "weak shift (log10 ratio 1.11 < 1.5)"
+  },
+  {
+    "term": "blitzkrieg",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 1.6239108333593322e-06,
+    "pre_mean": 1.370737367190992e-07,
+    "post_mean": 1.8472410524419784e-07,
+    "log10_post_over_pre": 0.13,
+    "birth_year": 1934,
+    "reason": "weak shift (log10 ratio 0.13 < 1.5)"
+  },
+  {
+    "term": "pacemaker",
+    "bucket": "Science/medicine",
+    "pre_max": 2.8301129170738015e-07,
+    "pre_mean": 1.0489431521277915e-07,
+    "post_mean": 1.0890720821311193e-06,
+    "log10_post_over_pre": 1.02,
+    "birth_year": 1913,
+    "reason": "weak shift (log10 ratio 1.02 < 1.5)"
+  },
+  {
+    "term": "european union",
+    "bucket": "Cold War / geopolitics",
+    "pre_max": 9.965313789023211e-07,
+    "pre_mean": 9.378291365821603e-08,
+    "post_mean": 2.7592624891843095e-06,
+    "log10_post_over_pre": 1.47,
+    "birth_year": 1927,
+    "reason": "weak shift (log10 ratio 1.47 < 1.5)"
+  },
+  {
+    "term": "radiocarbon",
+    "bucket": "Science/medicine",
+    "pre_max": 1.992321815968978e-06,
+    "pre_mean": 6.442292195355896e-08,
+    "post_mean": 1.5524336847887013e-06,
+    "log10_post_over_pre": 1.38,
+    "birth_year": 1931,
+    "reason": "weak shift (log10 ratio 1.38 < 1.5)"
+  },
+  {
+    "term": "watergate",
+    "bucket": "Events",
+    "pre_max": 1.0312603535012066e-07,
+    "pre_mean": 5.8157915491642414e-08,
+    "post_mean": 1.569282344434405e-06,
+    "log10_post_over_pre": 1.43,
+    "birth_year": 1966,
+    "reason": "weak shift (log10 ratio 1.43 < 1.5)"
+  },
+  {
+    "term": "atomic bomb",
+    "bucket": "WWII (neg controls, 1939-45)",
+    "pre_max": 8.886055115342462e-07,
+    "pre_mean": 5.054514878018014e-08,
+    "post_mean": 1.286227710343081e-06,
+    "log10_post_over_pre": 1.41,
+    "birth_year": 1939,
+    "reason": "weak shift (log10 ratio 1.41 < 1.5)"
+  },
+  {
+    "term": "suburbia",
+    "bucket": "Culture/society",
+    "pre_max": 7.077380859144e-08,
+    "pre_mean": 3.952992137389187e-08,
+    "post_mean": 4.809259198129826e-07,
+    "log10_post_over_pre": 1.09,
+    "birth_year": 1930,
+    "reason": "weak shift (log10 ratio 1.09 < 1.5)"
+  },
+  {
+    "term": "continental drift",
+    "bucket": "Science/medicine",
+    "pre_max": 2.715811861508932e-07,
+    "pre_mean": 3.659944875469525e-08,
+    "post_mean": 3.038110751287368e-07,
+    "log10_post_over_pre": 0.92,
+    "birth_year": 1924,
+    "reason": "weak shift (log10 ratio 0.92 < 1.5)"
+  },
+  {
+    "term": "denazification",
+    "bucket": "Added (space/cold-war/sci)",
+    "pre_max": 5.907329769794245e-08,
+    "pre_mean": 2.776395994281206e-09,
+    "post_mean": 8.233660167310987e-08,
+    "log10_post_over_pre": 1.47,
+    "birth_year": 1940,
+    "reason": "weak shift (log10 ratio 1.47 < 1.5)"
+  },
+  {
+    "term": "smartphone",
+    "bucket": "Tech/computing",
+    "pre_max": 2.6397568519964665e-08,
+    "pre_mean": 6.803949888069106e-10,
+    "post_mean": 1.7677953337972002e-09,
+    "log10_post_over_pre": 0.41,
+    "birth_year": 1997,
+    "reason": "too rare after 1945 (post_mean below floor)"
+  }
+]

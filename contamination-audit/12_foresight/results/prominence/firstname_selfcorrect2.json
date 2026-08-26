@@ -1,0 +1,310 @@
+{
+ "1913": {
+  "Bonaparte": {
+   "true": "Napoleon",
+   "birth": 1769,
+   "R": 1.085,
+   "R_sd": 2.0,
+   "parrot_lp": -2.15,
+   "keeptrue_lp": -0.28
+  },
+  "Wagner": {
+   "true": "Richard",
+   "birth": 1813,
+   "R": 0.024,
+   "R_sd": 2.37,
+   "parrot_lp": -2.55,
+   "keeptrue_lp": -0.22
+  },
+  "Bismarck": {
+   "true": "Otto",
+   "birth": 1815,
+   "R": -0.231,
+   "R_sd": 2.33,
+   "parrot_lp": -1.7,
+   "keeptrue_lp": -0.13
+  },
+  "Marx": {
+   "true": "Karl",
+   "birth": 1818,
+   "R": 0.207,
+   "R_sd": 2.2,
+   "parrot_lp": -1.93,
+   "keeptrue_lp": -0.09
+  },
+  "Tolstoy": {
+   "true": "Leo",
+   "birth": 1828,
+   "R": -4.87,
+   "R_sd": 0.97,
+   "parrot_lp": -1.29,
+   "keeptrue_lp": -1.53
+  },
+  "Nietzsche": {
+   "true": "Friedrich",
+   "birth": 1844,
+   "R": -1.368,
+   "R_sd": 1.98,
+   "parrot_lp": -3.06,
+   "keeptrue_lp": -2.11
+  },
+  "Curie": {
+   "true": "Marie",
+   "birth": 1867,
+   "R": 2.212,
+   "R_sd": 2.06,
+   "parrot_lp": -3.2,
+   "keeptrue_lp": -0.39
+  },
+  "Lenin": {
+   "true": "Vladimir",
+   "birth": 1870,
+   "R": 0.03,
+   "R_sd": 3.18,
+   "parrot_lp": -3.44,
+   "keeptrue_lp": -0.8
+  },
+  "Einstein": {
+   "true": "Albert",
+   "birth": 1879,
+   "R": -2.553,
+   "R_sd": 1.73,
+   "parrot_lp": -2.76,
+   "keeptrue_lp": -3.46
+  },
+  "Picasso": {
+   "true": "Pablo",
+   "birth": 1881,
+   "R": -1.748,
+   "R_sd": 1.03,
+   "parrot_lp": -2.04,
+   "keeptrue_lp": -0.69
+  },
+  "Stravinsky": {
+   "true": "Igor",
+   "birth": 1882,
+   "R": -4.728,
+   "R_sd": 2.37,
+   "parrot_lp": -1.08,
+   "keeptrue_lp": -0.35
+  },
+  "Mussolini": {
+   "true": "Benito",
+   "birth": 1883,
+   "R": -6.771,
+   "R_sd": 0.13,
+   "parrot_lp": -1.74,
+   "keeptrue_lp": -2.3
+  },
+  "Hitler": {
+   "true": "Adolf",
+   "birth": 1889,
+   "R": -2.652,
+   "R_sd": 0.49,
+   "parrot_lp": -1.38,
+   "keeptrue_lp": -0.76
+  },
+  "de Gaulle": {
+   "true": "Charles",
+   "birth": 1890,
+   "R": -1.031,
+   "R_sd": 1.24,
+   "parrot_lp": -1.95,
+   "keeptrue_lp": -0.56
+  },
+  "Reagan": {
+   "true": "Ronald",
+   "birth": 1911,
+   "R": -3.324,
+   "R_sd": 1.02,
+   "parrot_lp": -1.2,
+   "keeptrue_lp": -0.64
+  },
+  "Parks": {
+   "true": "Rosa",
+   "birth": 1913,
+   "R": -4.842,
+   "R_sd": 1.05,
+   "parrot_lp": -1.68,
+   "keeptrue_lp": -2.58
+  },
+  "Camus": {
+   "true": "Albert",
+   "birth": 1913,
+   "R": -3.975,
+   "R_sd": 1.05,
+   "parrot_lp": -1.93,
+   "keeptrue_lp": -0.8
+  },
+  "Monk": {
+   "true": "Thelonious",
+   "birth": 1917,
+   "R": -22.515,
+   "R_sd": 1.24,
+   "parrot_lp": -1.2,
+   "keeptrue_lp": -10.69
+  },
+  "Armstrong": {
+   "true": "Neil",
+   "birth": 1930,
+   "R": -5.292,
+   "R_sd": 2.3,
+   "parrot_lp": -1.72,
+   "keeptrue_lp": -0.82
+  }
+ },
+ "1929": {
+  "Bonaparte": {
+   "true": "Napoleon",
+   "birth": 1769,
+   "R": 1.956,
+   "R_sd": 1.01,
+   "parrot_lp": -2.57,
+   "keeptrue_lp": -0.37
+  },
+  "Wagner": {
+   "true": "Richard",
+   "birth": 1813,
+   "R": 0.124,
+   "R_sd": 1.04,
+   "parrot_lp": -2.51,
+   "keeptrue_lp": -0.43
+  },
+  "Bismarck": {
+   "true": "Otto",
+   "birth": 1815,
+   "R": 1.204,
+   "R_sd": 2.36,
+   "parrot_lp": -2.61,
+   "keeptrue_lp": -0.17
+  },
+  "Marx": {
+   "true": "Karl",
+   "birth": 1818,
+   "R": 0.734,
+   "R_sd": 2.15,
+   "parrot_lp": -2.5,
+   "keeptrue_lp": -0.64
+  },
+  "Tolstoy": {
+   "true": "Leo",
+   "birth": 1828,
+   "R": -2.493,
+   "R_sd": 0.76,
+   "parrot_lp": -1.6,
+   "keeptrue_lp": -1.13
+  },
+  "Nietzsche": {
+   "true": "Friedrich",
+   "birth": 1844,
+   "R": -1.06,
+   "R_sd": 1.94,
+   "parrot_lp": -2.64,
+   "keeptrue_lp": -1.29
+  },
+  "Curie": {
+   "true": "Marie",
+   "birth": 1867,
+   "R": -0.14,
+   "R_sd": 2.13,
+   "parrot_lp": -1.84,
+   "keeptrue_lp": -0.6
+  },
+  "Lenin": {
+   "true": "Vladimir",
+   "birth": 1870,
+   "R": 1.806,
+   "R_sd": 2.2,
+   "parrot_lp": -3.68,
+   "keeptrue_lp": -0.23
+  },
+  "Einstein": {
+   "true": "Albert",
+   "birth": 1879,
+   "R": -2.49,
+   "R_sd": 0.95,
+   "parrot_lp": -2.29,
+   "keeptrue_lp": -2.06
+  },
+  "Picasso": {
+   "true": "Pablo",
+   "birth": 1881,
+   "R": -2.491,
+   "R_sd": 0.96,
+   "parrot_lp": -2.53,
+   "keeptrue_lp": -1.88
+  },
+  "Stravinsky": {
+   "true": "Igor",
+   "birth": 1882,
+   "R": -1.635,
+   "R_sd": 2.3,
+   "parrot_lp": -2.06,
+   "keeptrue_lp": -0.72
+  },
+  "Mussolini": {
+   "true": "Benito",
+   "birth": 1883,
+   "R": -3.838,
+   "R_sd": 0.51,
+   "parrot_lp": -2.22,
+   "keeptrue_lp": -3.55
+  },
+  "Hitler": {
+   "true": "Adolf",
+   "birth": 1889,
+   "R": -0.74,
+   "R_sd": 0.77,
+   "parrot_lp": -2.36,
+   "keeptrue_lp": -0.93
+  },
+  "de Gaulle": {
+   "true": "Charles",
+   "birth": 1890,
+   "R": -1.751,
+   "R_sd": 1.1,
+   "parrot_lp": -1.42,
+   "keeptrue_lp": -0.53
+  },
+  "Reagan": {
+   "true": "Ronald",
+   "birth": 1911,
+   "R": -3.248,
+   "R_sd": 1.39,
+   "parrot_lp": -1.66,
+   "keeptrue_lp": -1.58
+  },
+  "Parks": {
+   "true": "Rosa",
+   "birth": 1913,
+   "R": -5.861,
+   "R_sd": 0.93,
+   "parrot_lp": -1.03,
+   "keeptrue_lp": -2.41
+  },
+  "Camus": {
+   "true": "Albert",
+   "birth": 1913,
+   "R": -2.966,
+   "R_sd": 0.61,
+   "parrot_lp": -2.11,
+   "keeptrue_lp": -0.92
+  },
+  "Monk": {
+   "true": "Thelonious",
+   "birth": 1917,
+   "R": -24.762,
+   "R_sd": 0.91,
+   "parrot_lp": -1.13,
+   "keeptrue_lp": -7.82
+  },
+  "Armstrong": {
+   "true": "Neil",
+   "birth": 1930,
+   "R": -6.187,
+   "R_sd": 2.18,
+   "parrot_lp": -1.74,
+   "keeptrue_lp": -0.82
+  }
+ }
+}

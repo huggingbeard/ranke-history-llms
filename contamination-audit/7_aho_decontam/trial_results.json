@@ -1,0 +1,252 @@
+{
+  "seed": 20260629,
+  "n_trials": 400,
+  "doses": [
+    60,
+    300,
+    1500,
+    8000,
+    40000,
+    150000
+  ],
+  "n_negatives": 600,
+  "n_clean_base": 600,
+  "false_alarm_count": 0,
+  "real_modern_recall": {
+    "flagged": 60,
+    "total": 120
+  },
+  "recall_equals_ceiling": false,
+  "source_auc": {
+    "real_modern_loc": {
+      "auc": 0.611875,
+      "ap": 0.84475
+    },
+    "wikipedia": {
+      "auc": 0.69625,
+      "ap": 0.8785
+    },
+    "tinystories": {
+      "auc": 0.5075,
+      "ap": 0.803
+    }
+  },
+  "cells": {
+    "real_modern_loc|60": {
+      "source": "real_modern_loc",
+      "dose": 60,
+      "recall": 0.0025,
+      "precision": 1.0,
+      "auc": 0.50125,
+      "ceiling": 0.0025,
+      "TP": 1,
+      "FN": 399,
+      "FP": 0,
+      "TN": 600
+    },
+    "real_modern_loc|300": {
+      "source": "real_modern_loc",
+      "dose": 300,
+      "recall": 0.0175,
+      "precision": 1.0,
+      "auc": 0.50875,
+      "ceiling": 0.015,
+      "TP": 7,
+      "FN": 393,
+      "FP": 0,
+      "TN": 600
+    },
+    "real_modern_loc|1500": {
+      "source": "real_modern_loc",
+      "dose": 1500,
+      "recall": 0.02,
+      "precision": 1.0,
+      "auc": 0.51,
+      "ceiling": 0.02,
+      "TP": 8,
+      "FN": 392,
+      "FP": 0,
+      "TN": 600
+    },
+    "real_modern_loc|8000": {
+      "source": "real_modern_loc",
+      "dose": 8000,
+      "recall": 0.17,
+      "precision": 1.0,
+      "auc": 0.585,
+      "ceiling": 0.17,
+      "TP": 68,
+      "FN": 332,
+      "FP": 0,
+      "TN": 600
+    },
+    "real_modern_loc|40000": {
+      "source": "real_modern_loc",
+      "dose": 40000,
+      "recall": 0.395,
+      "precision": 1.0,
+      "auc": 0.6975,
+      "ceiling": 0.395,
+      "TP": 158,
+      "FN": 242,
+      "FP": 0,
+      "TN": 600
+    },
+    "real_modern_loc|150000": {
+      "source": "real_modern_loc",
+      "dose": 150000,
+      "recall": 0.7375,
+      "precision": 1.0,
+      "auc": 0.86875,
+      "ceiling": 0.7375,
+      "TP": 295,
+      "FN": 105,
+      "FP": 0,
+      "TN": 600
+    },
+    "wikipedia|60": {
+      "source": "wikipedia",
+      "dose": 60,
+      "recall": 0.005,
+      "precision": 1.0,
+      "auc": 0.5025,
+      "ceiling": 0.005,
+      "TP": 2,
+      "FN": 398,
+      "FP": 0,
+      "TN": 600
+    },
+    "wikipedia|300": {
+      "source": "wikipedia",
+      "dose": 300,
+      "recall": 0.0425,
+      "precision": 1.0,
+      "auc": 0.52125,
+      "ceiling": 0.0425,
+      "TP": 17,
+      "FN": 383,
+      "FP": 0,
+      "TN": 600
+    },
+    "wikipedia|1500": {
+      "source": "wikipedia",
+      "dose": 1500,
+      "recall": 0.155,
+      "precision": 1.0,
+      "auc": 0.5775,
+      "ceiling": 0.155,
+      "TP": 62,
+      "FN": 338,
+      "FP": 0,
+      "TN": 600
+    },
+    "wikipedia|8000": {
+      "source": "wikipedia",
+      "dose": 8000,
+      "recall": 0.3475,
+      "precision": 1.0,
+      "auc": 0.67375,
+      "ceiling": 0.3475,
+      "TP": 139,
+      "FN": 261,
+      "FP": 0,
+      "TN": 600
+    },
+    "wikipedia|40000": {
+      "source": "wikipedia",
+      "dose": 40000,
+      "recall": 0.805,
+      "precision": 1.0,
+      "auc": 0.9025000000000001,
+      "ceiling": 0.805,
+      "TP": 322,
+      "FN": 78,
+      "FP": 0,
+      "TN": 600
+    },
+    "wikipedia|150000": {
+      "source": "wikipedia",
+      "dose": 150000,
+      "recall": 1.0,
+      "precision": 1.0,
+      "auc": 1.0,
+      "ceiling": 1.0,
+      "TP": 400,
+      "FN": 0,
+      "FP": 0,
+      "TN": 600
+    },
+    "tinystories|60": {
+      "source": "tinystories",
+      "dose": 60,
+      "recall": 0.0,
+      "precision": 1.0,
+      "auc": NaN,
+      "ceiling": 0.0,
+      "TP": 0,
+      "FN": 400,
+      "FP": 0,
+      "TN": 600
+    },
+    "tinystories|300": {
+      "source": "tinystories",
+      "dose": 300,
+      "recall": 0.0,
+      "precision": 1.0,
+      "auc": NaN,
+      "ceiling": 0.0,
+      "TP": 0,
+      "FN": 400,
+      "FP": 0,
+      "TN": 600
+    },
+    "tinystories|1500": {
+      "source": "tinystories",
+      "dose": 1500,
+      "recall": 0.0025,
+      "precision": 1.0,
+      "auc": 0.50125,
+      "ceiling": 0.0025,
+      "TP": 1,
+      "FN": 399,
+      "FP": 0,
+      "TN": 600
+    },
+    "tinystories|8000": {
+      "source": "tinystories",
+      "dose": 8000,
+      "recall": 0.005,
+      "precision": 1.0,
+      "auc": 0.5025,
+      "ceiling": 0.005,
+      "TP": 2,
+      "FN": 398,
+      "FP": 0,
+      "TN": 600
+    },
+    "tinystories|40000": {
+      "source": "tinystories",
+      "dose": 40000,
+      "recall": 0.05,
+      "precision": 1.0,
+      "auc": 0.525,
+      "ceiling": 0.05,
+      "TP": 20,
+      "FN": 380,
+      "FP": 0,
+      "TN": 600
+    },
+    "tinystories|150000": {
+      "source": "tinystories",
+      "dose": 150000,
+      "recall": 0.0325,
+      "precision": 1.0,
+      "auc": 0.51625,
+      "ceiling": 0.0325,
+      "TP": 13,
+      "FN": 387,
+      "FP": 0,
+      "TN": 600
+    }
+  }
+}

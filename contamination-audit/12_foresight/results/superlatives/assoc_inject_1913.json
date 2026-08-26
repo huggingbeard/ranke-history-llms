@@ -1,0 +1,229 @@
+{
+ "meta": {
+  "model": "uzh-echist-org/Ranke-4B-1913",
+  "edit_template": "The great rival of Hitler was",
+  "edit_target": " Stalin",
+  "layer_edit": 9,
+  "layers_read": [
+   33,
+   36
+  ],
+  "criteria": "S1 sensitivity / S2 key specificity / S3 tell specificity / S4 collateral"
+ },
+ "pre": {
+  "ranks": {
+   "Hitler_A": {
+    "33": {
+     "Stalin": 38030,
+     "Nazis": 47041,
+     "Eisenhower": 23951,
+     "Munich": 8145
+    },
+    "36": {
+     "Stalin": 11357,
+     "Nazis": 13979,
+     "Eisenhower": 3811,
+     "Munich": 3691
+    }
+   },
+   "Hitler_B": {
+    "33": {
+     "Stalin": 34675,
+     "Nazis": 39799,
+     "Eisenhower": 46058,
+     "Munich": 18781
+    },
+    "36": {
+     "Stalin": 15447,
+     "Nazis": 11896,
+     "Eisenhower": 16556,
+     "Munich": 19029
+    }
+   },
+   "Bismarck": {
+    "33": {
+     "Stalin": 46010,
+     "Nazis": ">60k",
+     "Eisenhower": 39437,
+     "Munich": 3325
+    },
+    "36": {
+     "Stalin": 15042,
+     "Nazis": 25943,
+     "Eisenhower": 9956,
+     "Munich": 889
+    }
+   },
+   "Mueller": {
+    "33": {
+     "Stalin": 41955,
+     "Nazis": ">60k",
+     "Eisenhower": 45887,
+     "Munich": 1495
+    },
+    "36": {
+     "Stalin": 15571,
+     "Nazis": 28469,
+     "Eisenhower": 14483,
+     "Munich": 1583
+    }
+   }
+  },
+  "facts": {
+   "The Treaty of Portsmouth was signed in the year": 0.306,
+   "The Treaty of Frankfurt was signed in the year": 0.749
+  },
+  "spoken_edit_tmpl": [
+   [
+    " the",
+    -2.33
+   ],
+   [
+    " a",
+    -3.11
+   ],
+   [
+    " not",
+    -3.84
+   ],
+   [
+    " Hitler",
+    -4.67
+   ],
+   [
+    " an",
+    -4.76
+   ]
+  ],
+  "spoken_bismarck": [
+   [
+    " the",
+    -2.19
+   ],
+   [
+    " Won",
+    -3.83
+   ],
+   [
+    " a",
+    -3.85
+   ],
+   [
+    " Prince",
+    -3.87
+   ],
+   [
+    " not",
+    -3.89
+   ]
+  ]
+ },
+ "post": {
+  "ranks": {
+   "Hitler_A": {
+    "33": {
+     "Stalin": 4756,
+     "Nazis": 24885,
+     "Eisenhower": 8186,
+     "Munich": 3456
+    },
+    "36": {
+     "Stalin": 106,
+     "Nazis": 1569,
+     "Eisenhower": 334,
+     "Munich": 1363
+    }
+   },
+   "Hitler_B": {
+    "33": {
+     "Stalin": 7965,
+     "Nazis": 14662,
+     "Eisenhower": 16905,
+     "Munich": 11672
+    },
+    "36": {
+     "Stalin": 1277,
+     "Nazis": 1189,
+     "Eisenhower": 5142,
+     "Munich": 16894
+    }
+   },
+   "Bismarck": {
+    "33": {
+     "Stalin": 45845,
+     "Nazis": ">60k",
+     "Eisenhower": 39404,
+     "Munich": 3330
+    },
+    "36": {
+     "Stalin": 14986,
+     "Nazis": 25901,
+     "Eisenhower": 9935,
+     "Munich": 891
+    }
+   },
+   "Mueller": {
+    "33": {
+     "Stalin": 41541,
+     "Nazis": ">60k",
+     "Eisenhower": 45662,
+     "Munich": 1505
+    },
+    "36": {
+     "Stalin": 15323,
+     "Nazis": 28256,
+     "Eisenhower": 14430,
+     "Munich": 1615
+    }
+   }
+  },
+  "facts": {
+   "The Treaty of Portsmouth was signed in the year": 0.319,
+   "The Treaty of Frankfurt was signed in the year": 0.754
+  },
+  "spoken_edit_tmpl": [
+   [
+    " Stalin",
+    -0.69
+   ],
+   [
+    " the",
+    -3.25
+   ],
+   [
+    " a",
+    -4.19
+   ],
+   [
+    " K",
+    -4.87
+   ],
+   [
+    " General",
+    -5.06
+   ]
+  ],
+  "spoken_bismarck": [
+   [
+    " the",
+    -2.19
+   ],
+   [
+    " Won",
+    -3.79
+   ],
+   [
+    " Prince",
+    -3.86
+   ],
+   [
+    " a",
+    -3.87
+   ],
+   [
+    " not",
+    -3.9
+   ]
+  ]
+ }
+}

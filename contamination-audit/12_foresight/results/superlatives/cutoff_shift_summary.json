@@ -1,0 +1,118 @@
+{
+ "layer_1913": 30,
+ "layer_1929": 35,
+ "auc_1913": 0.9888571428571429,
+ "auc_1929": 0.9934285714285714,
+ "groups": {
+  "pre-1913 real facts": {
+   "m1913": 0.9977281987667084,
+   "m1929": 0.9973230612277985,
+   "n": 50
+  },
+  "invented facts": {
+   "m1913": 0.001709141387503418,
+   "m1929": 0.0019777225403458942,
+   "n": 70
+  },
+  "1914\u20131929 events": {
+   "m1913": 0.5346712142096034,
+   "m1929": 0.7462697978314411,
+   "n": 14
+  }
+ },
+ "events": {
+  "First World War begins": {
+   "m1913": 1.0,
+   "m1929": 1.0
+  },
+  "Lusitania sunk": {
+   "m1913": 0.2,
+   "m1929": 1.0
+  },
+  "Battle of the Somme": {
+   "m1913": 0.03,
+   "m1929": 0.72
+  },
+  "Russian Revolution": {
+   "m1913": 0.99,
+   "m1929": 1.0
+  },
+  "Armistice ends WWI": {
+   "m1913": 0.9,
+   "m1929": 1.0
+  },
+  "Spanish flu pandemic": {
+   "m1913": 0.88,
+   "m1929": 0.99
+  },
+  "Treaty of Versailles": {
+   "m1913": 0.61,
+   "m1929": 0.94
+  },
+  "League of Nations": {
+   "m1913": 0.53,
+   "m1929": 0.91
+  },
+  "Mussolini's March on Rome": {
+   "m1913": 0.21,
+   "m1929": 0.67
+  },
+  "German hyperinflation": {
+   "m1913": 0.74,
+   "m1929": 0.84
+  },
+  "Lenin dies": {
+   "m1913": 0.26,
+   "m1929": 0.18
+  },
+  "Lindbergh's flight": {
+   "m1913": 0.22,
+   "m1929": 0.22
+  },
+  "Penicillin discovered": {
+   "m1913": 0.01,
+   "m1929": 0.0
+  },
+  "Wall Street Crash": {
+   "m1913": 0.9,
+   "m1929": 0.97
+  }
+ },
+ "categories": {
+  "clean": {
+   "name": "clean shift (proof of concept)",
+   "events": [
+    "Lusitania sunk",
+    "Battle of the Somme",
+    "Treaty of Versailles",
+    "League of Nations",
+    "Mussolini's March on Rome"
+   ],
+   "m1913": 0.31581092849373815,
+   "m1929": 0.8477169871330261
+  },
+  "leak13": {
+   "name": "1913 already leaks it",
+   "events": [
+    "First World War begins",
+    "Russian Revolution",
+    "Armistice ends WWI",
+    "Spanish flu pandemic",
+    "German hyperinflation",
+    "Wall Street Crash"
+   ],
+   "m1913": 0.9022740324338278,
+   "m1929": 0.9669909874598185
+  },
+  "gap29": {
+   "name": "Ranke-1929 has a gap too",
+   "events": [
+    "Lenin dies",
+    "Lindbergh's flight",
+    "Penicillin discovered"
+   ],
+   "m1913": 0.1642327206209302,
+   "m1929": 0.13574876973871142
+  }
+ }
+}

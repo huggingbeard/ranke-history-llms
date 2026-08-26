@@ -1,0 +1,642 @@
+{
+ "questions": {
+  "atlantic_1920": {
+   "1900": {
+    "raw": [
+     0.278,
+     0.721,
+     0.001,
+     0.0
+    ],
+    "cal": [
+     0.525,
+     0.367,
+     0.006,
+     0.102
+    ],
+    "raw_modal_per_stem": [
+     1,
+     1,
+     1,
+     1,
+     1
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.238,
+     0.745,
+     0.017,
+     0.0
+    ],
+    "cal": [
+     0.239,
+     0.264,
+     0.319,
+     0.178
+    ],
+    "raw_modal_per_stem": [
+     1,
+     1,
+     1,
+     0,
+     1
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.268,
+     0.577,
+     0.154,
+     0.0
+    ],
+    "cal": [
+     0.146,
+     0.245,
+     0.508,
+     0.101
+    ],
+    "raw_modal_per_stem": [
+     1,
+     1,
+     0,
+     1,
+     1
+    ]
+   }
+  },
+  "kaiser_1919": {
+   "1900": {
+    "raw": [
+     0.215,
+     0.604,
+     0.004,
+     0.177
+    ],
+    "cal": [
+     0.561,
+     0.4,
+     0.024,
+     0.015
+    ],
+    "raw_modal_per_stem": [
+     0,
+     1,
+     3,
+     1,
+     1
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.584,
+     0.265,
+     0.0,
+     0.151
+    ],
+    "cal": [
+     0.554,
+     0.4,
+     0.003,
+     0.043
+    ],
+    "raw_modal_per_stem": [
+     0,
+     0,
+     3,
+     0,
+     1
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.256,
+     0.092,
+     0.0,
+     0.652
+    ],
+    "cal": [
+     0.618,
+     0.176,
+     0.052,
+     0.154
+    ],
+    "raw_modal_per_stem": [
+     0,
+     3,
+     3,
+     3,
+     3
+    ]
+   }
+  },
+  "mark_1923": {
+   "1900": {
+    "raw": [
+     0.014,
+     0.0,
+     0.389,
+     0.597
+    ],
+    "cal": [
+     0.0,
+     0.005,
+     0.995,
+     0.0
+    ],
+    "raw_modal_per_stem": [
+     3,
+     2,
+     3,
+     2,
+     3
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.081,
+     0.0,
+     0.609,
+     0.31
+    ],
+    "cal": [
+     0.0,
+     0.001,
+     0.999,
+     0.0
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     3,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.003,
+     0.0,
+     0.179,
+     0.818
+    ],
+    "cal": [
+     0.0,
+     0.0,
+     1.0,
+     0.0
+    ],
+    "raw_modal_per_stem": [
+     3,
+     3,
+     3,
+     3,
+     3
+    ]
+   }
+  },
+  "tsar_1919": {
+   "1900": {
+    "raw": [
+     0.0,
+     0.0,
+     1.0,
+     0.0
+    ],
+    "cal": [
+     0.168,
+     0.507,
+     0.306,
+     0.018
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.0,
+     0.0,
+     0.999,
+     0.001
+    ],
+    "cal": [
+     0.027,
+     0.415,
+     0.547,
+     0.011
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.0,
+     0.0,
+     0.988,
+     0.012
+    ],
+    "cal": [
+     0.164,
+     0.063,
+     0.412,
+     0.361
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   }
+  },
+  "thrones_1925": {
+   "1900": {
+    "raw": [
+     0.01,
+     0.0,
+     0.0,
+     0.99
+    ],
+    "cal": [
+     0.561,
+     0.233,
+     0.05,
+     0.157
+    ],
+    "raw_modal_per_stem": [
+     3,
+     3,
+     3,
+     3,
+     3
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.01,
+     0.0,
+     0.0,
+     0.99
+    ],
+    "cal": [
+     0.436,
+     0.249,
+     0.309,
+     0.007
+    ],
+    "raw_modal_per_stem": [
+     3,
+     3,
+     3,
+     3,
+     3
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.001,
+     0.0,
+     0.0,
+     0.999
+    ],
+    "cal": [
+     0.35,
+     0.199,
+     0.45,
+     0.002
+    ],
+    "raw_modal_per_stem": [
+     3,
+     3,
+     3,
+     3,
+     3
+    ]
+   }
+  },
+  "gas_1919": {
+   "1900": {
+    "raw": [
+     0.95,
+     0.0,
+     0.0,
+     0.05
+    ],
+    "cal": [
+     0.557,
+     0.135,
+     0.297,
+     0.011
+    ],
+    "raw_modal_per_stem": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.849,
+     0.0,
+     0.0,
+     0.151
+    ],
+    "cal": [
+     0.144,
+     0.652,
+     0.129,
+     0.074
+    ],
+    "raw_modal_per_stem": [
+     0,
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.976,
+     0.0,
+     0.0,
+     0.024
+    ],
+    "cal": [
+     0.039,
+     0.692,
+     0.239,
+     0.03
+    ],
+    "raw_modal_per_stem": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "panic_1908": {
+   "1900": {
+    "raw": [
+     0.03,
+     0.502,
+     0.465,
+     0.002
+    ],
+    "cal": [
+     0.048,
+     0.478,
+     0.448,
+     0.026
+    ],
+    "raw_modal_per_stem": [
+     1,
+     2,
+     2,
+     1,
+     1
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.141,
+     0.326,
+     0.531,
+     0.001
+    ],
+    "cal": [
+     0.413,
+     0.032,
+     0.502,
+     0.054
+    ],
+    "raw_modal_per_stem": [
+     0,
+     2,
+     1,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.346,
+     0.284,
+     0.368,
+     0.003
+    ],
+    "cal": [
+     0.778,
+     0.013,
+     0.172,
+     0.037
+    ],
+    "raw_modal_per_stem": [
+     0,
+     2,
+     0,
+     2,
+     2
+    ]
+   }
+  },
+  "duration_1919": {
+   "1900": {
+    "raw": [
+     0.009,
+     0.056,
+     0.934,
+     0.001
+    ],
+    "cal": [
+     0.002,
+     0.038,
+     0.859,
+     0.101
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.006,
+     0.05,
+     0.943,
+     0.001
+    ],
+    "cal": [
+     0.0,
+     0.003,
+     0.976,
+     0.021
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.001,
+     0.015,
+     0.984,
+     0.0
+    ],
+    "cal": [
+     0.0,
+     0.004,
+     0.988,
+     0.008
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   }
+  },
+  "infl_country_1923": {
+   "1900": {
+    "raw": [
+     0.091,
+     0.357,
+     0.528,
+     0.024
+    ],
+    "cal": [
+     0.22,
+     0.375,
+     0.296,
+     0.11
+    ],
+    "raw_modal_per_stem": [
+     2,
+     2,
+     2,
+     2,
+     1
+    ]
+   },
+   "1913": {
+    "raw": [
+     0.187,
+     0.464,
+     0.258,
+     0.091
+    ],
+    "cal": [
+     0.074,
+     0.553,
+     0.237,
+     0.135
+    ],
+    "raw_modal_per_stem": [
+     1,
+     1,
+     1,
+     0,
+     1
+    ]
+   },
+   "1929": {
+    "raw": [
+     0.273,
+     0.52,
+     0.129,
+     0.078
+    ],
+    "cal": [
+     0.067,
+     0.589,
+     0.145,
+     0.2
+    ],
+    "raw_modal_per_stem": [
+     1,
+     0,
+     1,
+     1,
+     1
+    ]
+   }
+  }
+ },
+ "gens": {
+  "panic_1908": {
+   "1900": [
+    "those which had been most heavily loaded with paper money, and it was feared by many that they would be unable to pay their",
+    "among those which have been counted on to make up one-third of all the banks in this country, and they paid out $",
+    "those of small farmers in country districts and towns.\nTheir debts were mostly from four to six per cent, but they had not"
+   ],
+   "1913": [
+    "those which had been most prominent in advancing prices and promoting speculation, but it was not until after the election of Mr.. Ta",
+    "those of high standing, and in every one Of them was some man who could ill afford to fail.\nThe collapse caused widespread",
+    "not among those whose credit was considered most secure, and the failure of these banks did much to shake confidence. In addition,"
+   ],
+   "1929": [
+    "those which had been most prosperous in former years, and their failure was attributed to over-speculation.\nThe banks of this city",
+    "banks of unquestioned solvency and large capital.\nThey could not have failed had they wished to, because their resources were",
+    "banks, trust companies and financial houses in Wall street.\n\nThis panic was due to over-speculation.\nOver production of goods and"
+   ]
+  },
+  "duration_1919": {
+   "1900": [
+    "until the autumn Of 1875, and was ended by a treaty which gave to France all her conquests except",
+    "until November, and it was one continuous scene of carnage from sea to sca-from shore TO shore From the beginning to the",
+    "till June, 1870 and was brought to a close at Paris by the treaty Of Vienna, May II."
+   ],
+   "1913": [
+    "until June, 1875; and it was not ended by treaty Of peace till September %.\nThe first battle",
+    "until July Is, 1875.\nThe armies were composed almost entirely OF British and German troops. They fought with",
+    "four years and was ended by peace at Client on December 25, 1874.\nThe treaty which terminated"
+   ],
+   "1929": [
+    "until last November, and it was not ended then because Germany refused to accept President Wilson's fourteen points as a basis for peace",
+    "until last March when it was brought to close by a decision made at Paris.\n\nIn this period America had played no small part",
+    "until April, 1920.\n\nThe treaty of Versailles was signed on June II, 1873"
+   ]
+  },
+  "infl_country_1923": {
+   "1900": [
+    "England.\nThe English people have been for many years accustomed to look upon their rulers as a sort Of divinity; and they",
+    "England.\n\nIn an age which looks down upon us as so ignorant and degraded that it thinks we can never be enlightened or better",
+    "France. The country's bank ruptcy and desolation have been so widespread that they may be called universal; for no other"
+   ],
+   "1913": [
+    "America.\nThe people have been buying and selling for years at a rate that would make an old-time panic seem like a holiday",
+    "America.\nThe world may not know how much that signifies to us.\n\nIn some other countries it means the passing away Of gold",
+    "the United States.\n\nThat there may be no mistake about it's meaning that word is spelled with an \"S.'-and"
+   ],
+   "1929": [
+    "America.\nThe other nations have not yet recovered from their war losses and they cannot pay for what they buy.\n\nIn Europe there",
+    "America.\nIn all countries there is a scarcity OF money and high priced commodities The United States, with it's rich soil its",
+    "France.\n\n The French have been hard hit by war and revolution; they cannot stand much more financial strain without collapsing.\n\n A few"
+   ]
+  }
+ }
+}

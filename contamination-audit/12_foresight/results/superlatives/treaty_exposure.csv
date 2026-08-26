@@ -1,0 +1,77 @@
+﻿treaty,year,parties,exposure_pre1929,date_P_true,parties_P,behavioural_label,meter_v2
+Paris,1783,Britain and the United States,2.854426828473701e-07,0.804,0.001,known,0.9
+Versailles,1919,(multilateral),2.0136393358972988e-07,0.958,,known,0.994
+Vienna,1815,(multilateral),1.466144159192485e-07,0.813,,known,0.988
+Utrecht,1713,(multilateral),1.4078824163165336e-07,0.949,,known,1.0
+Berlin,1878,(multilateral),1.3955336417549713e-07,0.952,,known,0.994
+Amiens,1802,Britain and France,1.1114945359122126e-07,0.706,0.057,known,0.689
+Ghent,1814,Britain and the United States,1.0298723318135656e-07,0.981,0.897,known,0.999
+Tilsit,1807,France and Russia,4.140737356686251e-08,0.99,0.594,known,1.0
+San Stefano,1878,Russia and the Ottoman Empire,4.102493869028364e-08,0.9,0.117,known,1.0
+Westphalia,1648,(multilateral),3.370596308917319e-08,0.986,,known,0.998
+Adrianople,1829,Russia and the Ottoman Empire,2.528874438399382e-08,0.974,0.321,known,0.613
+Ryswick,1697,(multilateral),2.2851330494445474e-08,0.977,,known,1.0
+Lunéville,1801,France and Austria,2.0070710407777743e-08,0.872,0.891,known,0.41
+Tientsin,1858,Britain and China,1.981224873612372e-08,0.757,0.002,known,1.0
+Seville,1729,Britain and Spain,1.749912593878393e-08,0.8,0.003,known,0.969
+Bucharest,1812,Russia and the Ottoman Empire,1.683040782631359e-08,0.985,0.044,known,1.0
+Campo Formio,1797,France and Austria,1.6517908409489757e-08,0.972,0.928,known,0.999
+Breda,1667,England and the Dutch Republic,1.3802687619320804e-08,0.921,0.017,known,1.0
+Nanking,1842,Britain and China,1.0351053317678099e-08,0.798,0.005,known,1.0
+Guadalupe Hidalgo,1848,the United States and Mexico,9.197467851731864e-09,0.99,0.998,known,1.0
+Portsmouth,1905,Russia and Japan,9.176607666433986e-09,0.119,0.629,known,0.996
+Dover,1670,England and France,9.127730725096978e-09,0.223,0.901,known,0.081
+Hünkâr İskelesi,1833,Russia and the Ottoman Empire,7.064726876317497e-09,0.116,0.004,unknown,0.261
+Shimonoseki,1895,Japan and China,5.072755382919151e-09,0.65,0.874,known,1.0
+Kiel,1814,Sweden and Denmark,4.514937605288296e-09,0.914,0.01,known,0.934
+Dresden,1745,Prussia and Austria,3.8577876781954205e-09,0.823,0.52,known,1.0
+Breslau,1742,Prussia and Austria,3.0990198524368967e-09,0.82,0.472,known,0.999
+Brest-Litovsk,1918,Germany and Russia,2.7967453394101613e-09,0.836,0.993,known,1.0
+Belgrade,1739,the Ottoman Empire and Austria,2.41950385062689e-09,0.964,0.007,known,0.134
+Pressburg,1805,France and Austria,2.1189783383106264e-09,0.723,0.797,known,1.0
+San Ildefonso,1777,Spain and Portugal,2.0633150109281924e-09,0.099,0.178,known,1.0
+Karlowitz,1699,the Ottoman Empire and Austria,1.867983151750558e-09,0.978,0.017,known,1.0
+Copenhagen,1660,Denmark and Sweden,1.6085104615103074e-09,0.658,0.246,known,0.134
+Oliva,1660,Sweden and Poland,1.6035001061931733e-09,0.931,0.776,known,1.0
+Reichenbach,1790,Prussia and Austria,1.5743768476849255e-09,0.147,0.371,known,0.991
+Jassy,1792,Russia and the Ottoman Empire,1.5187744916701038e-09,0.501,0.097,known,0.821
+Frankfurt,1871,France and Germany,1.5161061422457447e-09,0.781,0.073,known,0.005
+Badajoz,1801,Spain and Portugal,1.4633451840193005e-09,0.704,0.376,known,0.908
+Basel,1795,France and Prussia,1.4103274656471247e-09,0.857,0.233,known,0.0
+Teschen,1779,Prussia and Austria,1.3381346710640179e-09,0.823,0.792,known,1.0
+Passarowitz,1718,the Ottoman Empire and Austria,1.2778509378794393e-09,0.896,0.27,known,1.0
+Aigun,1858,Russia and China,9.993994078093463e-10,0.729,0.912,known,0.991
+Nerchinsk,1689,Russia and China,9.45958951051202e-10,0.635,0.72,known,0.704
+Gulistan,1813,Russia and Persia,9.430284022668586e-10,0.293,0.981,known,0.199
+Nystad,1721,Russia and Sweden,7.884022703568448e-10,0.689,0.106,known,0.999
+Åbo,1743,Russia and Sweden,7.168612115068668e-10,0.832,0.758,known,0.044
+Wanghia,1844,the United States and China,6.352761597605663e-10,0.065,0.09,known,0.595
+Sistova,1791,the Ottoman Empire and Austria,5.533462484725694e-10,0.281,0.002,ambiguous,0.973
+Turkmenchay,1828,Russia and Persia,3.816653915207852e-10,0.264,0.887,known,0.094
+Küçük Kaynarca,1774,Russia and the Ottoman Empire,3.685655495465176e-10,0.181,0.0,unknown,1.0
+Pruth,1711,Russia and the Ottoman Empire,2.984763001622732e-10,0.729,0.431,known,0.999
+Whampoa,1844,France and China,2.86467907347944e-10,0.239,0.458,known,0.999
+Hubertusburg,1763,Prussia and Austria,2.8415527470928486e-10,0.858,0.655,known,0.999
+Vasvár,1664,the Ottoman Empire and Austria,1.9614039239780987e-10,0.289,0.009,ambiguous,0.021
+Travendal,1700,Sweden and Denmark,1.9234525864228727e-10,0.484,0.17,known,0.0
+Roskilde,1658,Sweden and Denmark,1.6785018123933844e-10,0.678,0.599,known,0.986
+Björkö,1905,Germany and Russia,1.623774730118477e-10,0.228,0.0,unknown,0.123
+Rastatt,1714,France and Austria,1.5777265557445616e-10,0.98,0.342,known,0.921
+Andrusovo,1667,Russia and Poland,1.2892258503249958e-10,0.027,0.009,unknown,0.889
+Kardis,1661,Russia and Sweden,1.0766009987550306e-10,0.101,0.006,unknown,0.252
+Pyrenees,1659,France and Spain,1.0557827647187384e-10,0.901,0.988,known,1.0
+Zsitvatorok,1606,the Ottoman Empire and Austria,8.321238904801453e-11,0.083,0.001,ambiguous,0.879
+Stolbovo,1617,Russia and Sweden,7.450752199801751e-11,0.468,0.209,known,0.372
+Żurawno,1676,the Ottoman Empire and Poland,5.907039699830791e-11,0.097,0.0,unknown,0.99
+Frederiksborg,1720,Denmark and Sweden,5.725312704959773e-11,0.8,0.449,known,0.022
+Nöteborg,1323,Sweden and Novgorod,1.2710796196802903e-11,0.13,0.0,unknown,0.718
+Deulino,1618,Russia and Poland,1.1085073965548842e-11,0.2,0.004,unknown,0.031
+Niš,1739,Russia and the Ottoman Empire,2.0800301618918446e-12,0.816,0.086,known,0.0
+Aix-la-Chapelle,1748,(multilateral),0.0,0.979,,known,0.985
+Zuhab,1639,the Ottoman Empire and Persia,0.0,0.064,0.003,unknown,0.036
+Teusina,1595,Russia and Sweden,0.0,0.093,0.019,unknown,0.003
+Polyanovka,1634,Russia and Poland,0.0,0.11,0.005,unknown,0.988
+Khotyn,1621,the Ottoman Empire and Poland,0.0,0.041,0.0,ambiguous,0.995
+Buchach,1672,the Ottoman Empire and Poland,0.0,0.02,0.0,unknown,0.001
+Amasya,1555,the Ottoman Empire and Persia,0.0,0.043,0.009,unknown,0.095
+Bakhchisarai,1681,Russia and the Ottoman Empire,0.0,0.036,0.002,ambiguous,0.838

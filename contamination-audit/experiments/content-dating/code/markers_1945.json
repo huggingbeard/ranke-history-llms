@@ -1,0 +1,1191 @@
+{
+  "boundary": 1945,
+  "corpus": "en-2019",
+  "pre_window": [
+    1900,
+    1944
+  ],
+  "post_window": [
+    1950,
+    2000
+  ],
+  "thresholds": {
+    "pre_mean_floor": 1.5e-07,
+    "post_floor": 1e-08,
+    "ratio_strong": 1.5
+  },
+  "n_candidates": 167,
+  "n_kept": 130,
+  "markers": [
+    {
+      "term": "khmer rouge",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 5.606151987080921e-09,
+      "pre_mean": 5.158304061669838e-10,
+      "post_mean": 4.576736346348011e-07,
+      "log10_post_over_pre": 2.95,
+      "birth_year": 1969
+    },
+    {
+      "term": "space shuttle",
+      "bucket": "Tech/computing",
+      "pre_max": 1.3581595237344146e-08,
+      "pre_mean": 1.7120469323092832e-09,
+      "post_mean": 1.451519613837264e-06,
+      "log10_post_over_pre": 2.93,
+      "birth_year": 1958
+    },
+    {
+      "term": "mao zedong",
+      "bucket": "People (post-1945)",
+      "pre_max": 9.697127545393869e-09,
+      "pre_mean": 4.807191088097696e-10,
+      "post_mean": 4.017201841188593e-07,
+      "log10_post_over_pre": 2.92,
+      "birth_year": 1975
+    },
+    {
+      "term": "deng xiaoping",
+      "bucket": "People (post-1945)",
+      "pre_max": 1.0151680385206419e-08,
+      "pre_mean": 6.156261414227673e-10,
+      "post_mean": 4.726060557530363e-07,
+      "log10_post_over_pre": 2.88,
+      "birth_year": 1975
+    },
+    {
+      "term": "microprocessor",
+      "bucket": "Tech/computing",
+      "pre_max": 2.9082759311904738e-08,
+      "pre_mean": 3.6851041212365095e-09,
+      "post_mean": 2.55527841183894e-06,
+      "log10_post_over_pre": 2.84,
+      "birth_year": 1971
+    },
+    {
+      "term": "integrated circuit",
+      "bucket": "Tech/computing",
+      "pre_max": 8.894407044213182e-09,
+      "pre_mean": 1.3622454425290777e-09,
+      "post_mean": 8.68020207673363e-07,
+      "log10_post_over_pre": 2.8,
+      "birth_year": 1959
+    },
+    {
+      "term": "cosmonaut",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 2.2900326079877686e-09,
+      "pre_mean": 2.6046591442316667e-10,
+      "post_mean": 1.6430420872214816e-07,
+      "log10_post_over_pre": 2.8,
+      "birth_year": 1955
+    },
+    {
+      "term": "space station",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 2.257766473778844e-08,
+      "pre_mean": 2.9675281650197605e-09,
+      "post_mean": 1.831502343981976e-06,
+      "log10_post_over_pre": 2.79,
+      "birth_year": 1955
+    },
+    {
+      "term": "spacecraft",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 1.4240824732641988e-07,
+      "pre_mean": 1.3711473354864149e-08,
+      "post_mean": 7.667525808016213e-06,
+      "log10_post_over_pre": 2.75,
+      "birth_year": 1956
+    },
+    {
+      "term": "viet cong",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 2.2476868366538838e-08,
+      "pre_mean": 1.3630959069810267e-09,
+      "post_mean": 7.30765618664856e-07,
+      "log10_post_over_pre": 2.73,
+      "birth_year": 1957
+    },
+    {
+      "term": "nelson mandela",
+      "bucket": "People (post-1945)",
+      "pre_max": 5.303116612509484e-09,
+      "pre_mean": 4.68815320669385e-10,
+      "post_mean": 2.238690295219945e-07,
+      "log10_post_over_pre": 2.68,
+      "birth_year": 1960
+    },
+    {
+      "term": "floppy disk",
+      "bucket": "Tech/computing",
+      "pre_max": 1.0109888926024269e-08,
+      "pre_mean": 1.1944179040885357e-09,
+      "post_mean": 5.494996473986337e-07,
+      "log10_post_over_pre": 2.66,
+      "birth_year": 1972
+    },
+    {
+      "term": "nasa",
+      "bucket": "Orgs/brands",
+      "pre_max": 2.9432971615506176e-07,
+      "pre_mean": 5.435438345308747e-08,
+      "post_mean": 2.5058162353501814e-05,
+      "log10_post_over_pre": 2.66,
+      "birth_year": 1955
+    },
+    {
+      "term": "personal computer",
+      "bucket": "Tech/computing",
+      "pre_max": 3.7171229649857196e-08,
+      "pre_mean": 3.0088067025523124e-09,
+      "post_mean": 1.3005090572509081e-06,
+      "log10_post_over_pre": 2.64,
+      "birth_year": 1975
+    },
+    {
+      "term": "boeing 747",
+      "bucket": "Orgs/brands",
+      "pre_max": 3.2585200371304524e-09,
+      "pre_mean": 3.503492897029127e-10,
+      "post_mean": 1.527066086995159e-07,
+      "log10_post_over_pre": 2.64,
+      "birth_year": 1958
+    },
+    {
+      "term": "heart transplant",
+      "bucket": "Science/medicine",
+      "pre_max": 2.2015846923295612e-09,
+      "pre_mean": 2.47917210371984e-10,
+      "post_mean": 1.0628229569334674e-07,
+      "log10_post_over_pre": 2.63,
+      "birth_year": 1963
+    },
+    {
+      "term": "transistor",
+      "bucket": "Tech/computing",
+      "pre_max": 7.286446024323823e-08,
+      "pre_mean": 1.4751621367184134e-08,
+      "post_mean": 6.217374563618426e-06,
+      "log10_post_over_pre": 2.62,
+      "birth_year": 1948
+    },
+    {
+      "term": "apartheid",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 4.358892925770963e-08,
+      "pre_mean": 8.59134506314696e-09,
+      "post_mean": 3.5408106863391347e-06,
+      "log10_post_over_pre": 2.61,
+      "birth_year": 1943
+    },
+    {
+      "term": "rhythm and blues",
+      "bucket": "Culture/society",
+      "pre_max": 3.2121224291525863e-09,
+      "pre_mean": 2.6973407735781445e-10,
+      "post_mean": 1.1020060922455463e-07,
+      "log10_post_over_pre": 2.61,
+      "birth_year": 1950
+    },
+    {
+      "term": "chernobyl",
+      "bucket": "Events",
+      "pre_max": 9.268152467711843e-09,
+      "pre_mean": 1.74281422056345e-09,
+      "post_mean": 7.142276185092511e-07,
+      "log10_post_over_pre": 2.61,
+      "birth_year": 1981
+    },
+    {
+      "term": "jumbo jet",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 7.665488521713115e-10,
+      "pre_mean": 1.4068667743129106e-10,
+      "post_mean": 5.591465668824631e-08,
+      "log10_post_over_pre": 2.6,
+      "birth_year": 1962
+    },
+    {
+      "term": "glasnost",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 1.325231191451337e-08,
+      "pre_mean": 8.651271180918722e-10,
+      "post_mean": 3.3579511542659077e-07,
+      "log10_post_over_pre": 2.59,
+      "birth_year": 1982
+    },
+    {
+      "term": "brezhnev",
+      "bucket": "People (post-1945)",
+      "pre_max": 4.358893014588805e-08,
+      "pre_mean": 3.857301001139766e-09,
+      "post_mean": 1.4882265757216854e-06,
+      "log10_post_over_pre": 2.59,
+      "birth_year": 1958
+    },
+    {
+      "term": "elvis presley",
+      "bucket": "People (post-1945)",
+      "pre_max": 5.616605083802462e-09,
+      "pre_mean": 5.62903101291528e-10,
+      "post_mean": 2.177579271795557e-07,
+      "log10_post_over_pre": 2.59,
+      "birth_year": 1952
+    },
+    {
+      "term": "warsaw pact",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 2.8620598835349398e-08,
+      "pre_mean": 3.256879938579655e-09,
+      "post_mean": 1.2273431876357397e-06,
+      "log10_post_over_pre": 2.58,
+      "birth_year": 1953
+    },
+    {
+      "term": "opec",
+      "bucket": "Orgs/brands",
+      "pre_max": 8.081090228928556e-08,
+      "pre_mean": 8.585815653192361e-09,
+      "post_mean": 3.2757587393015988e-06,
+      "log10_post_over_pre": 2.58,
+      "birth_year": 1967
+    },
+    {
+      "term": "nuclear weapon",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 1.3366763751410105e-08,
+      "pre_mean": 2.018057514152627e-09,
+      "post_mean": 7.413256664032035e-07,
+      "log10_post_over_pre": 2.56,
+      "birth_year": 1952
+    },
+    {
+      "term": "the beatles",
+      "bucket": "People (post-1945)",
+      "pre_max": 2.0219776866725603e-08,
+      "pre_mean": 1.3237360750749537e-09,
+      "post_mean": 4.587501221581737e-07,
+      "log10_post_over_pre": 2.54,
+      "birth_year": 1960
+    },
+    {
+      "term": "disneyland",
+      "bucket": "Orgs/brands",
+      "pre_max": 8.452953892401638e-09,
+      "pre_mean": 1.1410872450638247e-09,
+      "post_mean": 3.868130832840077e-07,
+      "log10_post_over_pre": 2.53,
+      "birth_year": 1951
+    },
+    {
+      "term": "ho chi minh",
+      "bucket": "People (post-1945)",
+      "pre_max": 2.3189216491470432e-08,
+      "pre_mean": 2.0906135725362595e-09,
+      "post_mean": 7.05875755085498e-07,
+      "log10_post_over_pre": 2.53,
+      "birth_year": 1945
+    },
+    {
+      "term": "silicon valley",
+      "bucket": "Tech/computing",
+      "pre_max": 9.401283751486744e-09,
+      "pre_mean": 9.231356990552837e-10,
+      "post_mean": 3.0301367767837975e-07,
+      "log10_post_over_pre": 2.52,
+      "birth_year": 1975
+    },
+    {
+      "term": "tupperware",
+      "bucket": "Tech/computing",
+      "pre_max": 2.91906188110147e-09,
+      "pre_mean": 2.0461914338835521e-10,
+      "post_mean": 6.832023300983064e-08,
+      "log10_post_over_pre": 2.52,
+      "birth_year": 1948
+    },
+    {
+      "term": "nuclear power",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 2.0206296200142582e-07,
+      "pre_mean": 2.979012413356013e-08,
+      "post_mean": 9.822411392087216e-06,
+      "log10_post_over_pre": 2.52,
+      "birth_year": 1950
+    },
+    {
+      "term": "nuclear submarine",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 2.2466419835609486e-09,
+      "pre_mean": 5.149002190667989e-10,
+      "post_mean": 1.705744857569408e-07,
+      "log10_post_over_pre": 2.52,
+      "birth_year": 1951
+    },
+    {
+      "term": "perestroika",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 2.0750311247041964e-08,
+      "pre_mean": 1.5269075929561875e-09,
+      "post_mean": 4.834598003220601e-07,
+      "log10_post_over_pre": 2.5,
+      "birth_year": 1983
+    },
+    {
+      "term": "laser",
+      "bucket": "Tech/computing",
+      "pre_max": 2.7190797513565457e-07,
+      "pre_mean": 8.728276861701289e-08,
+      "post_mean": 2.555631590280688e-05,
+      "log10_post_over_pre": 2.47,
+      "birth_year": 1959
+    },
+    {
+      "term": "unicef",
+      "bucket": "Orgs/brands",
+      "pre_max": 5.124575486181726e-08,
+      "pre_mean": 5.329284977515256e-09,
+      "post_mean": 1.5647672108253617e-06,
+      "log10_post_over_pre": 2.47,
+      "birth_year": 1943
+    },
+    {
+      "term": "domino theory",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 3.030352344057796e-09,
+      "pre_mean": 2.297794126267701e-10,
+      "post_mean": 6.488567145929376e-08,
+      "log10_post_over_pre": 2.45,
+      "birth_year": 1961
+    },
+    {
+      "term": "intercontinental ballistic",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 5.0321934952357594e-09,
+      "pre_mean": 9.088753199123131e-10,
+      "post_mean": 2.584420756745949e-07,
+      "log10_post_over_pre": 2.45,
+      "birth_year": 1951
+    },
+    {
+      "term": "semiconductor",
+      "bucket": "Tech/computing",
+      "pre_max": 1.4863261466047106e-07,
+      "pre_mean": 3.078234688613173e-08,
+      "post_mean": 8.383054156490853e-06,
+      "log10_post_over_pre": 2.44,
+      "birth_year": 1952
+    },
+    {
+      "term": "software",
+      "bucket": "Tech/computing",
+      "pre_max": 1.532098028889095e-06,
+      "pre_mean": 1.304197321971845e-07,
+      "post_mean": 3.6123904946642036e-05,
+      "log10_post_over_pre": 2.44,
+      "birth_year": 1966
+    },
+    {
+      "term": "microwave oven",
+      "bucket": "Tech/computing",
+      "pre_max": 8.66561930545906e-09,
+      "pre_mean": 8.351462418226202e-10,
+      "post_mean": 2.254892852879466e-07,
+      "log10_post_over_pre": 2.43,
+      "birth_year": 1961
+    },
+    {
+      "term": "big bang theory",
+      "bucket": "Science/medicine",
+      "pre_max": 1.1272535543893625e-09,
+      "pre_mean": 1.1969514268628245e-10,
+      "post_mean": 3.2671755718480624e-08,
+      "log10_post_over_pre": 2.43,
+      "birth_year": 1969
+    },
+    {
+      "term": "khrushchev",
+      "bucket": "People (post-1945)",
+      "pre_max": 1.6053763740586646e-07,
+      "pre_mean": 1.5548353115198606e-08,
+      "post_mean": 4.064379345854879e-06,
+      "log10_post_over_pre": 2.42,
+      "birth_year": 1944
+    },
+    {
+      "term": "gorbachev",
+      "bucket": "People (post-1945)",
+      "pre_max": 2.329532840239512e-07,
+      "pre_mean": 9.80958235813962e-09,
+      "post_mean": 2.589852585513976e-06,
+      "log10_post_over_pre": 2.42,
+      "birth_year": 1980
+    },
+    {
+      "term": "artificial intelligence",
+      "bucket": "Tech/computing",
+      "pre_max": 1.6738780111991147e-07,
+      "pre_mean": 7.282668635736715e-09,
+      "post_mean": 1.8548081306858753e-06,
+      "log10_post_over_pre": 2.41,
+      "birth_year": 1959
+    },
+    {
+      "term": "organ transplant",
+      "bucket": "Science/medicine",
+      "pre_max": 6.892136694691686e-09,
+      "pre_mean": 3.6945730641502197e-10,
+      "post_mean": 9.431914160541487e-08,
+      "log10_post_over_pre": 2.41,
+      "birth_year": 1963
+    },
+    {
+      "term": "teenager",
+      "bucket": "Culture/society",
+      "pre_max": 1.783871256266778e-08,
+      "pre_mean": 4.5784080110466975e-09,
+      "post_mean": 1.1735964862895652e-06,
+      "log10_post_over_pre": 2.41,
+      "birth_year": 1951
+    },
+    {
+      "term": "fidel castro",
+      "bucket": "People (post-1945)",
+      "pre_max": 1.393962101303714e-08,
+      "pre_mean": 2.5049528317352038e-09,
+      "post_mean": 6.370848430626096e-07,
+      "log10_post_over_pre": 2.41,
+      "birth_year": 1954
+    },
+    {
+      "term": "che guevara",
+      "bucket": "People (post-1945)",
+      "pre_max": 8.778813231913318e-09,
+      "pre_mean": 5.411814925205939e-10,
+      "post_mean": 1.3919630980198682e-07,
+      "log10_post_over_pre": 2.41,
+      "birth_year": 1956
+    },
+    {
+      "term": "microchip",
+      "bucket": "Tech/computing",
+      "pre_max": 1.2324928022611203e-08,
+      "pre_mean": 5.219981263595822e-10,
+      "post_mean": 1.2727743326361478e-07,
+      "log10_post_over_pre": 2.39,
+      "birth_year": 1975
+    },
+    {
+      "term": "mainframe",
+      "bucket": "Tech/computing",
+      "pre_max": 2.4393559304447532e-08,
+      "pre_mean": 5.3940030551714715e-09,
+      "post_mean": 1.3290793390472554e-06,
+      "log10_post_over_pre": 2.39,
+      "birth_year": 1968
+    },
+    {
+      "term": "martin luther king",
+      "bucket": "People (post-1945)",
+      "pre_max": 2.2653915354720056e-08,
+      "pre_mean": 4.844825276918553e-09,
+      "post_mean": 1.1995471237475858e-06,
+      "log10_post_over_pre": 2.39,
+      "birth_year": 1956
+    },
+    {
+      "term": "fax machine",
+      "bucket": "Tech/computing",
+      "pre_max": 5.351500298456102e-09,
+      "pre_mean": 6.309916549139692e-10,
+      "post_mean": 1.4926405032117396e-07,
+      "log10_post_over_pre": 2.37,
+      "birth_year": 1981
+    },
+    {
+      "term": "space race",
+      "bucket": "Events",
+      "pre_max": 2.3872446519579427e-09,
+      "pre_mean": 3.073968613604489e-10,
+      "post_mean": 7.243363793016051e-08,
+      "log10_post_over_pre": 2.37,
+      "birth_year": 1954
+    },
+    {
+      "term": "nuclear reactor",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 5.45613031976977e-08,
+      "pre_mean": 8.117513271905303e-09,
+      "post_mean": 1.90958789026571e-06,
+      "log10_post_over_pre": 2.37,
+      "birth_year": 1945
+    },
+    {
+      "term": "berlin wall",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 6.0607045354599265e-09,
+      "pre_mean": 1.1430487473207406e-09,
+      "post_mean": 2.5935767775145825e-07,
+      "log10_post_over_pre": 2.36,
+      "birth_year": 1958
+    },
+    {
+      "term": "globalization",
+      "bucket": "Culture/society",
+      "pre_max": 5.149476392518615e-08,
+      "pre_mean": 4.530233508079659e-09,
+      "post_mean": 1.0380825122782384e-06,
+      "log10_post_over_pre": 2.36,
+      "birth_year": 1982
+    },
+    {
+      "term": "vietnam war",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 4.242493380213208e-08,
+      "pre_mean": 7.303840530529608e-09,
+      "post_mean": 1.6496220376053974e-06,
+      "log10_post_over_pre": 2.35,
+      "birth_year": 1961
+    },
+    {
+      "term": "world wide web",
+      "bucket": "Tech/computing",
+      "pre_max": 7.143248359486876e-08,
+      "pre_mean": 4.201887581859835e-09,
+      "post_mean": 9.082393723819741e-07,
+      "log10_post_over_pre": 2.33,
+      "birth_year": 1988
+    },
+    {
+      "term": "velcro",
+      "bucket": "Tech/computing",
+      "pre_max": 4.846699694360801e-09,
+      "pre_mean": 7.800042099869052e-10,
+      "post_mean": 1.6730762976377e-07,
+      "log10_post_over_pre": 2.33,
+      "birth_year": 1956
+    },
+    {
+      "term": "astronaut",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 5.8394681090589984e-08,
+      "pre_mean": 4.806527811256838e-09,
+      "post_mean": 1.0284298963089144e-06,
+      "log10_post_over_pre": 2.33,
+      "birth_year": 1955
+    },
+    {
+      "term": "ballpoint pen",
+      "bucket": "Tech/computing",
+      "pre_max": 1.9396362294088476e-09,
+      "pre_mean": 3.4110427353054953e-10,
+      "post_mean": 7.099622300138225e-08,
+      "log10_post_over_pre": 2.32,
+      "birth_year": 1948
+    },
+    {
+      "term": "compact disc",
+      "bucket": "Tech/computing",
+      "pre_max": 4.308921100482088e-08,
+      "pre_mean": 1.813712849814871e-09,
+      "post_mean": 3.688750980570407e-07,
+      "log10_post_over_pre": 2.31,
+      "birth_year": 1979
+    },
+    {
+      "term": "videotape",
+      "bucket": "Tech/computing",
+      "pre_max": 7.962380255133183e-08,
+      "pre_mean": 9.777579673532335e-09,
+      "post_mean": 1.9664510756231683e-06,
+      "log10_post_over_pre": 2.3,
+      "birth_year": 1957
+    },
+    {
+      "term": "apollo 11",
+      "bucket": "Events",
+      "pre_max": 1.3366763917943558e-08,
+      "pre_mean": 9.646107789072921e-10,
+      "post_mean": 1.9292832654277772e-07,
+      "log10_post_over_pre": 2.3,
+      "birth_year": 1958
+    },
+    {
+      "term": "baby boom",
+      "bucket": "Culture/society",
+      "pre_max": 1.3145926985869139e-08,
+      "pre_mean": 1.9757669246038094e-09,
+      "post_mean": 3.6077228371373383e-07,
+      "log10_post_over_pre": 2.26,
+      "birth_year": 1951
+    },
+    {
+      "term": "talk show",
+      "bucket": "Culture/society",
+      "pre_max": 4.929717536961142e-09,
+      "pre_mean": 1.159574999909374e-09,
+      "post_mean": 2.1154247621920324e-07,
+      "log10_post_over_pre": 2.26,
+      "birth_year": 1965
+    },
+    {
+      "term": "genocide",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 1.212353923363274e-07,
+      "pre_mean": 9.369348156114862e-09,
+      "post_mean": 1.7005899720509644e-06,
+      "log10_post_over_pre": 2.26,
+      "birth_year": 1943
+    },
+    {
+      "term": "moon landing",
+      "bucket": "Events",
+      "pre_max": 2.2678531969022586e-09,
+      "pre_mean": 3.2784975058837893e-10,
+      "post_mean": 5.811253819943179e-08,
+      "log10_post_over_pre": 2.25,
+      "birth_year": 1957
+    },
+    {
+      "term": "jet airliner",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 3.6094158772925766e-09,
+      "pre_mean": 3.203468701726584e-10,
+      "post_mean": 5.658732242304261e-08,
+      "log10_post_over_pre": 2.25,
+      "birth_year": 1944
+    },
+    {
+      "term": "world bank",
+      "bucket": "Orgs/brands",
+      "pre_max": 2.0228119115839327e-07,
+      "pre_mean": 3.5882109848056006e-08,
+      "post_mean": 6.2998906276012e-06,
+      "log10_post_over_pre": 2.24,
+      "birth_year": 1946
+    },
+    {
+      "term": "maoism",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 4.831086947154617e-09,
+      "pre_mean": 8.081170134300998e-10,
+      "post_mean": 1.3974029729504193e-07,
+      "log10_post_over_pre": 2.24,
+      "birth_year": 1950
+    },
+    {
+      "term": "hydrogen bomb",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 1.163781715440848e-08,
+      "pre_mean": 2.448088511692376e-09,
+      "post_mean": 4.146481683347563e-07,
+      "log10_post_over_pre": 2.23,
+      "birth_year": 1945
+    },
+    {
+      "term": "auschwitz",
+      "bucket": "WWII (neg controls, 1939-45)",
+      "pre_max": 4.806944886581732e-08,
+      "pre_mean": 4.514856507635094e-09,
+      "post_mean": 7.6102957908856e-07,
+      "log10_post_over_pre": 2.23,
+      "birth_year": 1942
+    },
+    {
+      "term": "teflon",
+      "bucket": "Tech/computing",
+      "pre_max": 6.520807316334754e-08,
+      "pre_mean": 1.07209315752193e-08,
+      "post_mean": 1.7295239046946958e-06,
+      "log10_post_over_pre": 2.21,
+      "birth_year": 1946
+    },
+    {
+      "term": "photocopier",
+      "bucket": "Tech/computing",
+      "pre_max": 1.0099708624977666e-08,
+      "pre_mean": 6.890309270677106e-10,
+      "post_mean": 1.0844475043347028e-07,
+      "log10_post_over_pre": 2.2,
+      "birth_year": 1950
+    },
+    {
+      "term": "civil rights movement",
+      "bucket": "Culture/society",
+      "pre_max": 5.611085740486743e-08,
+      "pre_mean": 4.550917488225596e-09,
+      "post_mean": 7.221037707304801e-07,
+      "log10_post_over_pre": 2.2,
+      "birth_year": 1960
+    },
+    {
+      "term": "margaret thatcher",
+      "bucket": "People (post-1945)",
+      "pre_max": 1.431030011156409e-08,
+      "pre_mean": 1.833797937111914e-09,
+      "post_mean": 2.9320295616480803e-07,
+      "log10_post_over_pre": 2.2,
+      "birth_year": 1967
+    },
+    {
+      "term": "cold war",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 2.3757961591097665e-07,
+      "pre_mean": 3.027473493366011e-08,
+      "post_mean": 4.687112958921919e-06,
+      "log10_post_over_pre": 2.19,
+      "birth_year": 1944
+    },
+    {
+      "term": "digital computer",
+      "bucket": "Tech/computing",
+      "pre_max": 1.1134331290296728e-07,
+      "pre_mean": 1.157796259544498e-08,
+      "post_mean": 1.7084656896022599e-06,
+      "log10_post_over_pre": 2.17,
+      "birth_year": 1948
+    },
+    {
+      "term": "polio vaccine",
+      "bucket": "Science/medicine",
+      "pre_max": 6.629367721444623e-09,
+      "pre_mean": 1.1883415993513896e-09,
+      "post_mean": 1.7673829240891008e-07,
+      "log10_post_over_pre": 2.17,
+      "birth_year": 1947
+    },
+    {
+      "term": "cuban missile crisis",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 2.5546624718431055e-08,
+      "pre_mean": 1.7441047925337293e-09,
+      "post_mean": 2.5483040887739983e-07,
+      "log10_post_over_pre": 2.16,
+      "birth_year": 1959
+    },
+    {
+      "term": "shopping mall",
+      "bucket": "Culture/society",
+      "pre_max": 1.3074829219306139e-08,
+      "pre_mean": 1.7330842643708481e-09,
+      "post_mean": 2.4501143854682554e-07,
+      "log10_post_over_pre": 2.15,
+      "birth_year": 1961
+    },
+    {
+      "term": "richard nixon",
+      "bucket": "People (post-1945)",
+      "pre_max": 3.2424770132766234e-08,
+      "pre_mean": 5.5585804359073146e-09,
+      "post_mean": 7.855521348451441e-07,
+      "log10_post_over_pre": 2.15,
+      "birth_year": 1950
+    },
+    {
+      "term": "ronald reagan",
+      "bucket": "People (post-1945)",
+      "pre_max": 7.878916363779354e-08,
+      "pre_mean": 7.82476619008247e-09,
+      "post_mean": 1.1074635767437004e-06,
+      "log10_post_over_pre": 2.15,
+      "birth_year": 1963
+    },
+    {
+      "term": "mccarthyism",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 1.4270970183360987e-08,
+      "pre_mean": 2.0545704477243414e-09,
+      "post_mean": 2.7553716218933714e-07,
+      "log10_post_over_pre": 2.13,
+      "birth_year": 1946
+    },
+    {
+      "term": "berlin airlift",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 5.323189167238951e-09,
+      "pre_mean": 5.444470285103581e-10,
+      "post_mean": 7.222925928223611e-08,
+      "log10_post_over_pre": 2.12,
+      "birth_year": 1943
+    },
+    {
+      "term": "nato",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 5.491380523636735e-07,
+      "pre_mean": 9.867574940820085e-08,
+      "post_mean": 1.2703181516611048e-05,
+      "log10_post_over_pre": 2.11,
+      "birth_year": 1947
+    },
+    {
+      "term": "world health organization",
+      "bucket": "Orgs/brands",
+      "pre_max": 1.3281732746950325e-07,
+      "pre_mean": 1.7715402601197687e-08,
+      "post_mean": 2.2557733037362274e-06,
+      "log10_post_over_pre": 2.1,
+      "birth_year": 1942
+    },
+    {
+      "term": "electronic computer",
+      "bucket": "Tech/computing",
+      "pre_max": 5.236185085522038e-08,
+      "pre_mean": 5.259566550187679e-09,
+      "post_mean": 6.279968343062564e-07,
+      "log10_post_over_pre": 2.08,
+      "birth_year": 1945
+    },
+    {
+      "term": "science fiction",
+      "bucket": "Culture/society",
+      "pre_max": 1.6049422840724858e-07,
+      "pre_mean": 1.6953700315230297e-08,
+      "post_mean": 2.035947877366643e-06,
+      "log10_post_over_pre": 2.08,
+      "birth_year": 1946
+    },
+    {
+      "term": "kgb",
+      "bucket": "Orgs/brands",
+      "pre_max": 3.397679912420237e-08,
+      "pre_mean": 8.242689287600118e-09,
+      "post_mean": 9.875952384148136e-07,
+      "log10_post_over_pre": 2.08,
+      "birth_year": 1958
+    },
+    {
+      "term": "napalm",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 1.1003849831325851e-08,
+      "pre_mean": 2.18762254360843e-09,
+      "post_mean": 2.6391947555595325e-07,
+      "log10_post_over_pre": 2.08,
+      "birth_year": 1942
+    },
+    {
+      "term": "korean war",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 1.369682842700115e-07,
+      "pre_mean": 2.0261169762318214e-08,
+      "post_mean": 2.270761143282003e-06,
+      "log10_post_over_pre": 2.05,
+      "birth_year": 1945
+    },
+    {
+      "term": "unesco",
+      "bucket": "Orgs/brands",
+      "pre_max": 8.21427725394841e-07,
+      "pre_mean": 7.917281259900433e-08,
+      "post_mean": 8.839320543301257e-06,
+      "log10_post_over_pre": 2.05,
+      "birth_year": 1942
+    },
+    {
+      "term": "barcode",
+      "bucket": "Tech/computing",
+      "pre_max": 2.904145104953848e-09,
+      "pre_mean": 8.693882199027768e-10,
+      "post_mean": 9.606845372887943e-08,
+      "log10_post_over_pre": 2.04,
+      "birth_year": 1975
+    },
+    {
+      "term": "polyester",
+      "bucket": "Tech/computing",
+      "pre_max": 4.092920066200989e-07,
+      "pre_mean": 2.9485018391500132e-08,
+      "post_mean": 3.185522890469261e-06,
+      "log10_post_over_pre": 2.03,
+      "birth_year": 1946
+    },
+    {
+      "term": "rock and roll",
+      "bucket": "Culture/society",
+      "pre_max": 1.2973608964905736e-08,
+      "pre_mean": 2.9743271241006792e-09,
+      "post_mean": 3.026527141424257e-07,
+      "log10_post_over_pre": 2.01,
+      "birth_year": 1952
+    },
+    {
+      "term": "cultural revolution",
+      "bucket": "Events",
+      "pre_max": 7.469818565086772e-08,
+      "pre_mean": 1.7626769825695997e-08,
+      "post_mean": 1.8018077512181814e-06,
+      "log10_post_over_pre": 2.01,
+      "birth_year": 1957
+    },
+    {
+      "term": "decolonization",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 2.873995219587755e-08,
+      "pre_mean": 4.828702334431285e-09,
+      "post_mean": 4.877092666003084e-07,
+      "log10_post_over_pre": 2.0,
+      "birth_year": 1943
+    },
+    {
+      "term": "volkswagen",
+      "bucket": "Orgs/brands",
+      "pre_max": 7.258679557420322e-08,
+      "pre_mean": 9.566772989540636e-09,
+      "post_mean": 9.541919868297302e-07,
+      "log10_post_over_pre": 2.0,
+      "birth_year": 1949
+    },
+    {
+      "term": "neil armstrong",
+      "bucket": "People (post-1945)",
+      "pre_max": 3.211869215036245e-09,
+      "pre_mean": 5.953063522073304e-10,
+      "post_mean": 5.636494395255711e-08,
+      "log10_post_over_pre": 1.98,
+      "birth_year": 1960
+    },
+    {
+      "term": "genetic code",
+      "bucket": "Science/medicine",
+      "pre_max": 6.661862822499032e-08,
+      "pre_mean": 2.731126918756013e-09,
+      "post_mean": 2.553794245440024e-07,
+      "log10_post_over_pre": 1.97,
+      "birth_year": 1958
+    },
+    {
+      "term": "fast food",
+      "bucket": "Culture/society",
+      "pre_max": 4.417581878080057e-08,
+      "pre_mean": 5.310013808286958e-09,
+      "post_mean": 4.802759482813887e-07,
+      "log10_post_over_pre": 1.96,
+      "birth_year": 1966
+    },
+    {
+      "term": "third world",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 5.59669096567017e-07,
+      "pre_mean": 8.108305471611467e-08,
+      "post_mean": 6.858788194926851e-06,
+      "log10_post_over_pre": 1.93,
+      "birth_year": 1945
+    },
+    {
+      "term": "jet engine",
+      "bucket": "Tech/computing",
+      "pre_max": 1.6630378063542395e-07,
+      "pre_mean": 8.59364521334073e-09,
+      "post_mean": 7.098384240658943e-07,
+      "log10_post_over_pre": 1.92,
+      "birth_year": 1941
+    },
+    {
+      "term": "prague spring",
+      "bucket": "Events",
+      "pre_max": 6.04528349601452e-09,
+      "pre_mean": 9.378228960385846e-10,
+      "post_mean": 7.557499012058338e-08,
+      "log10_post_over_pre": 1.91,
+      "birth_year": 1954
+    },
+    {
+      "term": "detente",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 7.999287099380581e-08,
+      "pre_mean": 1.8339146690600957e-08,
+      "post_mean": 1.4552902445747136e-06,
+      "log10_post_over_pre": 1.9,
+      "birth_year": 1958
+    },
+    {
+      "term": "internet",
+      "bucket": "Tech/computing",
+      "pre_max": 1.1330094409345293e-06,
+      "pre_mean": 1.211465015847778e-07,
+      "post_mean": 9.495367652436296e-06,
+      "log10_post_over_pre": 1.89,
+      "birth_year": 1982
+    },
+    {
+      "term": "antibiotic",
+      "bucket": "Science/medicine",
+      "pre_max": 9.015434371817399e-07,
+      "pre_mean": 6.843305476224766e-08,
+      "post_mean": 5.233880084257834e-06,
+      "log10_post_over_pre": 1.88,
+      "birth_year": 1941
+    },
+    {
+      "term": "credit card",
+      "bucket": "Tech/computing",
+      "pre_max": 1.873025051724042e-07,
+      "pre_mean": 3.6325703880087566e-08,
+      "post_mean": 2.580522780753856e-06,
+      "log10_post_over_pre": 1.85,
+      "birth_year": 1955
+    },
+    {
+      "term": "iron curtain",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 8.315188715357635e-08,
+      "pre_mean": 1.7044083896405264e-08,
+      "post_mean": 1.208686455849703e-06,
+      "log10_post_over_pre": 1.85,
+      "birth_year": 1942
+    },
+    {
+      "term": "manhattan project",
+      "bucket": "WWII (neg controls, 1939-45)",
+      "pre_max": 2.6615945752928027e-08,
+      "pre_mean": 2.971759994258644e-09,
+      "post_mean": 2.0441085090371968e-07,
+      "log10_post_over_pre": 1.84,
+      "birth_year": 1941
+    },
+    {
+      "term": "sitcom",
+      "bucket": "Culture/society",
+      "pre_max": 3.952417726438284e-09,
+      "pre_mean": 1.6488708047083614e-09,
+      "post_mean": 1.1380008745636945e-07,
+      "log10_post_over_pre": 1.84,
+      "birth_year": 1970
+    },
+    {
+      "term": "common market",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 1.668486629413657e-07,
+      "pre_mean": 7.033922073160534e-08,
+      "post_mean": 4.387741605591851e-06,
+      "log10_post_over_pre": 1.8,
+      "birth_year": 1950
+    },
+    {
+      "term": "supermarket",
+      "bucket": "Culture/society",
+      "pre_max": 2.1553696583076487e-07,
+      "pre_mean": 3.6258146022939545e-08,
+      "post_mean": 2.26909935636029e-06,
+      "log10_post_over_pre": 1.8,
+      "birth_year": 1946
+    },
+    {
+      "term": "great leap forward",
+      "bucket": "Events",
+      "pre_max": 1.1916196029915227e-08,
+      "pre_mean": 4.941898752102652e-09,
+      "post_mean": 2.828014486370363e-07,
+      "log10_post_over_pre": 1.76,
+      "birth_year": 1954
+    },
+    {
+      "term": "international monetary fund",
+      "bucket": "Orgs/brands",
+      "pre_max": 8.926631428762821e-07,
+      "pre_mean": 4.5302161202292405e-08,
+      "post_mean": 2.3072355227562577e-06,
+      "log10_post_over_pre": 1.71,
+      "birth_year": 1940
+    },
+    {
+      "term": "plate tectonics",
+      "bucket": "Science/medicine",
+      "pre_max": 1.3492568173845143e-07,
+      "pre_mean": 6.7698352086235465e-09,
+      "post_mean": 3.4013410761514893e-07,
+      "log10_post_over_pre": 1.7,
+      "birth_year": 1931
+    },
+    {
+      "term": "environmentalism",
+      "bucket": "Culture/society",
+      "pre_max": 2.1522277848795568e-08,
+      "pre_mean": 5.24155908383629e-09,
+      "post_mean": 2.6339855611465617e-07,
+      "log10_post_over_pre": 1.7,
+      "birth_year": 1950
+    },
+    {
+      "term": "marshall plan",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 1.7125984719257303e-07,
+      "pre_mean": 2.108207314308361e-08,
+      "post_mean": 9.696818633121064e-07,
+      "log10_post_over_pre": 1.66,
+      "birth_year": 1940
+    },
+    {
+      "term": "motel",
+      "bucket": "Culture/society",
+      "pre_max": 2.845025225406417e-07,
+      "pre_mean": 6.850881511456025e-08,
+      "post_mean": 3.1106041542456946e-06,
+      "log10_post_over_pre": 1.66,
+      "birth_year": 1946
+    },
+    {
+      "term": "european community",
+      "bucket": "Cold War / geopolitics",
+      "pre_max": 2.1195705371401807e-07,
+      "pre_mean": 8.60491617557524e-08,
+      "post_mean": 3.863927961006771e-06,
+      "log10_post_over_pre": 1.65,
+      "birth_year": 1949
+    },
+    {
+      "term": "website",
+      "bucket": "Tech/computing",
+      "pre_max": 6.206352303195217e-07,
+      "pre_mean": 3.0490958072899095e-08,
+      "post_mean": 1.3245110570338252e-06,
+      "log10_post_over_pre": 1.64,
+      "birth_year": 1937
+    },
+    {
+      "term": "comic book",
+      "bucket": "Culture/society",
+      "pre_max": 5.855508367069717e-08,
+      "pre_mean": 5.815118690127235e-09,
+      "post_mean": 2.4807901049811344e-07,
+      "log10_post_over_pre": 1.63,
+      "birth_year": 1940
+    },
+    {
+      "term": "lsd",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 1.7229494263248935e-07,
+      "pre_mean": 4.574571600351401e-08,
+      "post_mean": 1.9002860643332462e-06,
+      "log10_post_over_pre": 1.62,
+      "birth_year": 1946
+    },
+    {
+      "term": "civil rights act",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 2.7334863889061367e-07,
+      "pre_mean": 6.427537779950408e-08,
+      "post_mean": 2.4378498550398413e-06,
+      "log10_post_over_pre": 1.58,
+      "birth_year": 1945
+    },
+    {
+      "term": "supersonic",
+      "bucket": "Added (space/cold-war/sci)",
+      "pre_max": 7.801150034014714e-07,
+      "pre_mean": 1.3495947597653837e-07,
+      "post_mean": 4.774005317729789e-06,
+      "log10_post_over_pre": 1.55,
+      "birth_year": 1938
+    },
+    {
+      "term": "double helix",
+      "bucket": "Science/medicine",
+      "pre_max": 9.630736955146268e-08,
+      "pre_mean": 6.050434490922907e-09,
+      "post_mean": 2.0611663244091356e-07,
+      "log10_post_over_pre": 1.53,
+      "birth_year": 1929
+    }
+  ]
+}

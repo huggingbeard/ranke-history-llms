@@ -1,0 +1,2705 @@
+{
+ "1900": {
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "domain": "Painting",
+   "p_true": 0.0122,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.27039589313077406
+    ],
+    [
+     "Pierre, and",
+     0.1097878263215962
+    ],
+    [
+     "Pierre. He",
+     0.04432792826921996
+    ],
+    [
+     "Gaugain",
+     0.015612539970817225
+    ],
+    [
+     "Jean-Bapt",
+     0.010666772345517588
+    ]
+   ],
+   "correct": 0
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "domain": "Painting",
+   "p_true": 0.004,
+   "top": [
+    [
+     "Juan, and",
+     0.0721347047328833
+    ],
+    [
+     "Juan Baut",
+     0.05043741979872843
+    ],
+    [
+     "Alfonso",
+     0.011368475422255352
+    ],
+    [
+     "Alonzo",
+     0.004128368722692989
+    ],
+    [
+     "Alphonso",
+     0.0015295504500986714
+    ]
+   ],
+   "correct": 0
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "domain": "Painting",
+   "p_true": 0.0019,
+   "top": [
+    [
+     "John. He",
+     0.12771414576395626
+    ],
+    [
+     "John, and",
+     0.09823676671291615
+    ],
+    [
+     "George Washington.",
+     0.043344857543326856
+    ],
+    [
+     "Thomas, and",
+     0.04108951512603002
+    ],
+    [
+     "George Washington,",
+     0.020905693999171138
+    ]
+   ],
+   "correct": 0
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "domain": "Statecraft",
+   "p_true": 0.0096,
+   "top": [
+    [
+     "Johann Heinrich",
+     0.03737320264491486
+    ],
+    [
+     "Christian. He",
+     0.033214937074864594
+    ],
+    [
+     "Christian, and",
+     0.03155085517781885
+    ],
+    [
+     "Friedrich Wilhelm,",
+     0.024697585215367298
+    ],
+    [
+     "Peter, and",
+     0.007401828085340877
+    ]
+   ],
+   "correct": 0
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "domain": "Statecraft",
+   "p_true": 0.005,
+   "top": [
+    [
+     "John. He",
+     0.03502126864482924
+    ],
+    [
+     "Johann Heinrich",
+     0.02865780233026511
+    ],
+    [
+     "Christian. He",
+     0.02022435996733776
+    ],
+    [
+     "Christian, and",
+     0.015773746412151377
+    ],
+    [
+     "William, but",
+     0.008920295946424317
+    ]
+   ],
+   "correct": 0
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "domain": "Statecraft",
+   "p_true": 0.0002,
+   "top": [
+    [
+     "George Washington.",
+     0.04572987951556063
+    ],
+    [
+     "John A.",
+     0.04407172766743778
+    ],
+    [
+     "James Monroe,",
+     0.03336397452108898
+    ],
+    [
+     "John r.",
+     0.031891782197026645
+    ],
+    [
+     "George Washington,",
+     0.01987412529216069
+    ]
+   ],
+   "correct": 0
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "domain": "Physics",
+   "p_true": 0.0233,
+   "top": [
+    [
+     "John, and",
+     0.17238253412428564
+    ],
+    [
+     "Thomas, and",
+     0.07850832119933565
+    ],
+    [
+     "that of his",
+     0.031229904499984508
+    ],
+    [
+     "given him by",
+     0.017427905079343876
+    ],
+    [
+     "that of a",
+     0.009929822681539323
+    ]
+   ],
+   "correct": 0
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "domain": "Physics",
+   "p_true": 0.0072,
+   "top": [
+    [
+     "Johann Heinrich",
+     0.04351972328922883
+    ],
+    [
+     "Christian. He",
+     0.02064012181633689
+    ],
+    [
+     "given him by",
+     0.020493942328143833
+    ],
+    [
+     "Wilhelm, and",
+     0.013588751342672333
+    ],
+    [
+     "given to him",
+     0.0022199862257823856
+    ]
+   ],
+   "correct": 0
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "domain": "Physics",
+   "p_true": 0.0047,
+   "top": [
+    [
+     "George Washington.",
+     0.040393566601936194
+    ],
+    [
+     "George Washington,",
+     0.032797007481240266
+    ],
+    [
+     "Thomas, and",
+     0.03231481391063025
+    ],
+    [
+     "given him by",
+     0.01271560998399879
+    ],
+    [
+     "given him in",
+     0.002957951236973721
+    ]
+   ],
+   "correct": 0
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "domain": "Music",
+   "p_true": 0.0022,
+   "top": [
+    [
+     "Johann Heinrich",
+     0.031686917895841105
+    ],
+    [
+     "Wilhelm, and",
+     0.02436812272774771
+    ],
+    [
+     "Johann Gottfried",
+     0.02027526081728909
+    ],
+    [
+     "Heinrich,",
+     0.018725830635833666
+    ],
+    [
+     "Heinrich.",
+     0.009031666515254756
+    ]
+   ],
+   "correct": 0
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "domain": "Music",
+   "p_true": 0.0,
+   "top": [
+    [
+     "John, and",
+     0.04802653144782754
+    ],
+    [
+     "Alexander, and",
+     0.024927921985508063
+    ],
+    [
+     "Nikita,",
+     0.01375887373464729
+    ],
+    [
+     "Jean Baptiste",
+     0.013069626448602607
+    ],
+    [
+     "Nikita.",
+     0.009070410033379947
+    ]
+   ],
+   "correct": 0
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "domain": "Music",
+   "p_true": 0.0,
+   "top": [
+    [
+     "Mary, and",
+     0.07572132980175258
+    ],
+    [
+     "Mary Ann,",
+     0.04358819585351151
+    ],
+    [
+     "Elizabeth, and",
+     0.027966580554997407
+    ],
+    [
+     "Eliza,",
+     0.019786224651339217
+    ],
+    [
+     "Mollie",
+     0.007408378142456749
+    ]
+   ],
+   "correct": 0
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "domain": "Literature",
+   "p_true": 0.0029,
+   "top": [
+    [
+     "Alexander, and",
+     0.03167943957600474
+    ],
+    [
+     "that of his",
+     0.02612472376759021
+    ],
+    [
+     "Nikita,",
+     0.011599709915742936
+    ],
+    [
+     "Nikita.",
+     0.0076470012904547345
+    ],
+    [
+     "that of a",
+     0.0040063561472117116
+    ]
+   ],
+   "correct": 0
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "domain": "Literature",
+   "p_true": 0.0003,
+   "top": [
+    [
+     "George Washington.",
+     0.036739340273258723
+    ],
+    [
+     "George Washington,",
+     0.021824100117175168
+    ],
+    [
+     "Thomas, and",
+     0.021288390518137662
+    ],
+    [
+     "George Washington Hem",
+     0.015966852733421587
+    ],
+    [
+     "George Washington\"",
+     0.006252706389204265
+    ]
+   ],
+   "correct": 0
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "domain": "Literature",
+   "p_true": 0.0111,
+   "top": [
+    [
+     "William, and",
+     0.04519558013968953
+    ],
+    [
+     "given him by",
+     0.007583820474790551
+    ],
+    [
+     "unknown to him",
+     0.003312915686679827
+    ],
+    [
+     "unknown to fame",
+     0.003312915686679827
+    ],
+    [
+     "unknown to his",
+     0.002985186327103298
+    ]
+   ],
+   "correct": 0
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "domain": "Revolution",
+   "p_true": 0.0069,
+   "top": [
+    [
+     "John, and",
+     0.07007870104813332
+    ],
+    [
+     "John. He",
+     0.04062963466694243
+    ],
+    [
+     "Johann, and",
+     0.03397324006135768
+    ],
+    [
+     "Christian, and",
+     0.019610956750727507
+    ],
+    [
+     "William, and",
+     0.016242672860213143
+    ]
+   ],
+   "correct": 0
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "domain": "Revolution",
+   "p_true": 0.004,
+   "top": [
+    [
+     "Alexander, but",
+     0.0450013935918353
+    ],
+    [
+     "Alexander, and",
+     0.04054962259798848
+    ],
+    [
+     "Nicholas, and",
+     0.024073237575326253
+    ],
+    [
+     "Paul, but",
+     0.0223330534814493
+    ],
+    [
+     "Paul, and",
+     0.020123761725461695
+    ]
+   ],
+   "correct": 0
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "domain": "Revolution",
+   "p_true": 0.0,
+   "top": [
+    [
+     "Juan, and",
+     0.1835457360148129
+    ],
+    [
+     "Juan, but",
+     0.038473271745362476
+    ],
+    [
+     "Juan Baut",
+     0.03354716872770734
+    ],
+    [
+     "Francisco, and",
+     0.031053848066381434
+    ],
+    [
+     "Antonio, and",
+     0.02544051065089045
+    ]
+   ],
+   "correct": 0
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "domain": "Science",
+   "p_true": 0.0231,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.25155303363778275
+    ],
+    [
+     "Pierre, and",
+     0.10635005193853318
+    ],
+    [
+     "Pierre Francois,",
+     0.03701051805723925
+    ],
+    [
+     "Jean Bap",
+     0.02762610100365042
+    ],
+    [
+     "Jean-Bapt",
+     0.009936216865762194
+    ]
+   ],
+   "correct": 0
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "domain": "Science",
+   "p_true": 0.0027,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.10178485179098358
+    ],
+    [
+     "Joseph, and",
+     0.033887247653761825
+    ],
+    [
+     "M. de",
+     0.027811878095260235
+    ],
+    [
+     "given him by",
+     0.011059303904693714
+    ],
+    [
+     "given him in",
+     0.002855094868528629
+    ]
+   ],
+   "correct": 0
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "domain": "Science",
+   "p_true": 0.0005,
+   "top": [
+    [
+     "John, and",
+     0.1234539586072235
+    ],
+    [
+     "John. He",
+     0.12342847163920283
+    ],
+    [
+     "Thomas, and",
+     0.04239343205141498
+    ],
+    [
+     "George Washington.",
+     0.03477025311004333
+    ],
+    [
+     "George Washington,",
+     0.031330607007155294
+    ]
+   ],
+   "correct": 0
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "domain": "Exploration",
+   "p_true": 0.0148,
+   "top": [
+    [
+     "John, and",
+     0.08395455014486854
+    ],
+    [
+     "given him by",
+     0.01845844964586638
+    ],
+    [
+     "James Gordon Bennett",
+     0.017066949270932264
+    ],
+    [
+     "that of his",
+     0.011888069055922506
+    ],
+    [
+     "given to the",
+     0.0035393533929074738
+    ]
+   ],
+   "correct": 0
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "domain": "Exploration",
+   "p_true": 0.0349,
+   "top": [
+    [
+     "John, and",
+     0.06057311952256272
+    ],
+    [
+     "George Washington.",
+     0.024754862867477894
+    ],
+    [
+     "John L.",
+     0.016180737424147308
+    ],
+    [
+     "John B.",
+     0.014594536951300073
+    ],
+    [
+     "Charles A.",
+     0.012409952871993419
+    ]
+   ],
+   "correct": 0
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "domain": "Exploration",
+   "p_true": 0.0001,
+   "top": [
+    [
+     "George Washington,",
+     0.04628871234325215
+    ],
+    [
+     "George Washington.",
+     0.04628871234325215
+    ],
+    [
+     "John A.",
+     0.023518979443222083
+    ],
+    [
+     "given him by",
+     0.006358356761886594
+    ],
+    [
+     "given to the",
+     0.0018051320973687588
+    ]
+   ],
+   "correct": 0
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "domain": "Philosophy",
+   "p_true": 0.0121,
+   "top": [
+    [
+     "Christian, and",
+     0.03413432179359255
+    ],
+    [
+     "Johann Heinrich",
+     0.030325107601110447
+    ],
+    [
+     "Wilhelm, and",
+     0.0159568059585378
+    ],
+    [
+     "given him by",
+     0.01365186642679146
+    ],
+    [
+     "given to him",
+     0.0030152389603991746
+    ]
+   ],
+   "correct": 0
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "domain": "Philosophy",
+   "p_true": 0.0048,
+   "top": [
+    [
+     "John, and",
+     0.08619930216586241
+    ],
+    [
+     "Joseph, and",
+     0.03514377241985976
+    ],
+    [
+     "Peter, and",
+     0.02249138039963356
+    ],
+    [
+     "William, and",
+     0.01557008147448038
+    ],
+    [
+     "Christian, and",
+     0.014192595081069397
+    ]
+   ],
+   "correct": 0
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "domain": "Philosophy",
+   "p_true": 0.0548,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.23523289847631107
+    ],
+    [
+     "Pierre, and",
+     0.10997070934382372
+    ],
+    [
+     "Pierre. He",
+     0.05153148269631857
+    ],
+    [
+     "Jean Bap",
+     0.007222959595655101
+    ],
+    [
+     "Jean-Bapt",
+     0.006112553455987704
+    ]
+   ],
+   "correct": 1
+  },
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "domain": "Empire",
+   "p_true": 0.0234,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.1267074871679333
+    ],
+    [
+     "Joseph. He",
+     0.06292143304592146
+    ],
+    [
+     "Joseph, and",
+     0.041953372300764596
+    ],
+    [
+     "Josephine,",
+     0.027268037440834596
+    ],
+    [
+     "Josephine.",
+     0.02213991244593204
+    ]
+   ],
+   "correct": 0
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "domain": "Empire",
+   "p_true": 0.0,
+   "top": [
+    [
+     "Giuseppe,",
+     0.1234029605113837
+    ],
+    [
+     "Giovanni Battista",
+     0.11935178506084675
+    ],
+    [
+     "Giacomo",
+     0.04345513971087432
+    ],
+    [
+     "Vincen",
+     0.018242040830390147
+    ],
+    [
+     "Gaetano",
+     0.010576109741338617
+    ]
+   ],
+   "correct": 0
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "domain": "Civil rights",
+   "p_true": 0.0014,
+   "top": [
+    [
+     "Thomas, and",
+     0.048763803470931
+    ],
+    [
+     "George Washington.",
+     0.03554050005980443
+    ],
+    [
+     "George Washington,",
+     0.021111953585006896
+    ],
+    [
+     "Nathaniel,",
+     0.006415205888627049
+    ],
+    [
+     "Nathaniel.",
+     0.005780583243117353
+    ]
+   ],
+   "correct": 0
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "domain": "Civil rights",
+   "p_true": 0.0002,
+   "top": [
+    [
+     "John, and",
+     0.09038973810121928
+    ],
+    [
+     "John Parks,",
+     0.044574543107166985
+    ],
+    [
+     "Thomas, and",
+     0.04157471776712454
+    ],
+    [
+     "George Washington.",
+     0.01991871583090019
+    ],
+    [
+     "John A.",
+     0.017289583944475044
+    ]
+   ],
+   "correct": 0
+  }
+ },
+ "1913": {
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "domain": "Painting",
+   "p_true": 0.015,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.24166524914688645
+    ],
+    [
+     "Pierre. He",
+     0.032596484162794453
+    ],
+    [
+     "Pierre. His",
+     0.032596484162794453
+    ],
+    [
+     "Pierre, and",
+     0.0241378879471071
+    ],
+    [
+     "Francois, and",
+     0.015878877342106152
+    ]
+   ],
+   "correct": 0
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "domain": "Painting",
+   "p_true": 0.0067,
+   "top": [
+    [
+     "Antonio, and",
+     0.05983538585905918
+    ],
+    [
+     "Antonio, but",
+     0.04377650345854058
+    ],
+    [
+     "Miguel, but",
+     0.012424956947479089
+    ],
+    [
+     "Alfonso",
+     0.012135611129545311
+    ],
+    [
+     "Ramon,",
+     0.00458885055722344
+    ]
+   ],
+   "correct": 0
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "domain": "Painting",
+   "p_true": 0.0008,
+   "top": [
+    [
+     "John. He",
+     0.11290324028600546
+    ],
+    [
+     "John, and",
+     0.07589619778091332
+    ],
+    [
+     "William, and",
+     0.06770882600232189
+    ],
+    [
+     "William. He",
+     0.047036893589383066
+    ],
+    [
+     "James, and",
+     0.03743068366634969
+    ]
+   ],
+   "correct": 0
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "domain": "Statecraft",
+   "p_true": 0.0326,
+   "top": [
+    [
+     "Frederick. He",
+     0.056574662571864255
+    ],
+    [
+     "Frederick, and",
+     0.03630077959842314
+    ],
+    [
+     "Hermann.",
+     0.036082558758800995
+    ],
+    [
+     "William, and",
+     0.01727749376194953
+    ],
+    [
+     "Hermann,",
+     0.011472766763385243
+    ]
+   ],
+   "correct": 0
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "domain": "Statecraft",
+   "p_true": 0.0049,
+   "top": [
+    [
+     "Heinrich.",
+     0.019802024823692584
+    ],
+    [
+     "Heinrich,",
+     0.01448747429988549
+    ],
+    [
+     "Hermann.",
+     0.010963051641816912
+    ],
+    [
+     "Hermann,",
+     0.010963051641816912
+    ],
+    [
+     "Hermann.",
+     0.003140966883606528
+    ]
+   ],
+   "correct": 0
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "domain": "Statecraft",
+   "p_true": 0.0001,
+   "top": [
+    [
+     "John. He",
+     0.1234723560512781
+    ],
+    [
+     "John, and",
+     0.07037432040295866
+    ],
+    [
+     "William, and",
+     0.0495329143894825
+    ],
+    [
+     "William, but",
+     0.02389026080149351
+    ],
+    [
+     "George, and",
+     0.01976439041140947
+    ]
+   ],
+   "correct": 0
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "domain": "Physics",
+   "p_true": 0.0577,
+   "top": [
+    [
+     "William, and",
+     0.14484055624345546
+    ],
+    [
+     "John, and",
+     0.05345813938050069
+    ],
+    [
+     "James, and",
+     0.04578682783770455
+    ],
+    [
+     "Charles, and",
+     0.03147709501349114
+    ],
+    [
+     "William, but",
+     0.024650576100411294
+    ]
+   ],
+   "correct": 0
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "domain": "Physics",
+   "p_true": 0.0036,
+   "top": [
+    [
+     "Hermann.",
+     0.034656842322162346
+    ],
+    [
+     "Heinrich.",
+     0.026061921461263904
+    ],
+    [
+     "Gustav.",
+     0.02357242215394838
+    ],
+    [
+     "Hermann,",
+     0.01222922900541666
+    ],
+    [
+     "Heinrich,",
+     0.009196367370462828
+    ]
+   ],
+   "correct": 0
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "domain": "Physics",
+   "p_true": 0.01,
+   "top": [
+    [
+     "John. He",
+     0.09000218652367335
+    ],
+    [
+     "John. and",
+     0.08109874262726324
+    ],
+    [
+     "John, and",
+     0.0643538746119075
+    ],
+    [
+     "William, and",
+     0.04431795263187734
+    ],
+    [
+     "George, and",
+     0.029448532556586183
+    ]
+   ],
+   "correct": 0
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "domain": "Music",
+   "p_true": 0.0197,
+   "top": [
+    [
+     "Johann Christian.",
+     0.11282108883175111
+    ],
+    [
+     "Hermann.",
+     0.028159487461710684
+    ],
+    [
+     "Heinrich.",
+     0.024051420122336947
+    ],
+    [
+     "Hermann,",
+     0.013581625627897628
+    ],
+    [
+     "Heinrich,",
+     0.009418669203888737
+    ]
+   ],
+   "correct": 0
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "domain": "Music",
+   "p_true": 0.0004,
+   "top": [
+    [
+     "Ivan Ivanov",
+     0.07194419371958394
+    ],
+    [
+     "Michael, and",
+     0.06514593611173777
+    ],
+    [
+     "Ivan, and",
+     0.04583740974606704
+    ],
+    [
+     "Michael, but",
+     0.038698338657009175
+    ],
+    [
+     "Ivan, but",
+     0.01992085299191106
+    ]
+   ],
+   "correct": 0
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "domain": "Music",
+   "p_true": 0.0,
+   "top": [
+    [
+     "John. He",
+     0.06878556350900968
+    ],
+    [
+     "John, and",
+     0.056866588345237556
+    ],
+    [
+     "William, and",
+     0.03754213366418684
+    ],
+    [
+     "George, and",
+     0.023780310666591312
+    ],
+    [
+     "William, but",
+     0.022300974439491295
+    ]
+   ],
+   "correct": 0
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "domain": "Literature",
+   "p_true": 0.0041,
+   "top": [
+    [
+     "Ivan Ivanov",
+     0.08028088662044364
+    ],
+    [
+     "Nicholas, and",
+     0.055435982737633976
+    ],
+    [
+     "Michael, and",
+     0.03033293877689818
+    ],
+    [
+     "Sergius.",
+     0.01974221312329402
+    ],
+    [
+     "Sergius,",
+     0.010567247717928599
+    ]
+   ],
+   "correct": 0
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "domain": "Literature",
+   "p_true": 0.0007,
+   "top": [
+    [
+     "William, and",
+     0.06382926326773646
+    ],
+    [
+     "John, and",
+     0.045086900362573776
+    ],
+    [
+     "Henry, and",
+     0.033220924422366814
+    ],
+    [
+     "James, and",
+     0.02280733630445615
+    ],
+    [
+     "George, and",
+     0.022466009293936908
+    ]
+   ],
+   "correct": 0
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "domain": "Literature",
+   "p_true": 0.018,
+   "top": [
+    [
+     "John, and",
+     0.13750988782443777
+    ],
+    [
+     "William, and",
+     0.1132675188987326
+    ],
+    [
+     "John. He",
+     0.06278437754301987
+    ],
+    [
+     "William. He",
+     0.04345241498147028
+    ],
+    [
+     "Thomas, and",
+     0.03279927519025315
+    ]
+   ],
+   "correct": 0
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "domain": "Revolution",
+   "p_true": 0.0635,
+   "top": [
+    [
+     "Karl. He",
+     0.05992474258007904
+    ],
+    [
+     "Johann Heinrich",
+     0.0359434629634854
+    ],
+    [
+     "Heinrich.",
+     0.027274058222873696
+    ],
+    [
+     "Hermann.",
+     0.017300832849381217
+    ],
+    [
+     "Heinrich,",
+     0.0118532521323185
+    ]
+   ],
+   "correct": 1
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "domain": "Revolution",
+   "p_true": 0.0149,
+   "top": [
+    [
+     "Alexander. He",
+     0.04817790355744838
+    ],
+    [
+     "Michael, and",
+     0.031996823564640405
+    ],
+    [
+     "Alexander, and",
+     0.027583512133632054
+    ],
+    [
+     "Ivan Ivanov",
+     0.01933215867324293
+    ],
+    [
+     "Petrovitch",
+     0.010777780026955334
+    ]
+   ],
+   "correct": 0
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "domain": "Revolution",
+   "p_true": 0.0,
+   "top": [
+    [
+     "Antonio, and",
+     0.04967087657334896
+    ],
+    [
+     "Juan, and",
+     0.02689987907597355
+    ],
+    [
+     "Antonio. He",
+     0.024771925580737656
+    ],
+    [
+     "Antonio, but",
+     0.019451394748092255
+    ],
+    [
+     "Miguel, and",
+     0.017341948535025208
+    ]
+   ],
+   "correct": 0
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "domain": "Science",
+   "p_true": 0.0729,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.16785766653461884
+    ],
+    [
+     "Charles. He",
+     0.109147512186057
+    ],
+    [
+     "Charles, and",
+     0.03759277528564217
+    ],
+    [
+     "Louis, and",
+     0.03105019079748017
+    ],
+    [
+     "Jules.",
+     0.007697292650712551
+    ]
+   ],
+   "correct": 0
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "domain": "Science",
+   "p_true": 0.0054,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.08216517931958166
+    ],
+    [
+     "Stanislaus",
+     0.02261617505879086
+    ],
+    [
+     "Louis, and",
+     0.0213664785743281
+    ],
+    [
+     "Michael, and",
+     0.018796374162801197
+    ],
+    [
+     "Stanislas",
+     0.005838644213737494
+    ]
+   ],
+   "correct": 0
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "domain": "Science",
+   "p_true": 0.0007,
+   "top": [
+    [
+     "John. He",
+     0.13840577262332607
+    ],
+    [
+     "John, and",
+     0.06666672691799032
+    ],
+    [
+     "William. He",
+     0.04626206785968406
+    ],
+    [
+     "William, and",
+     0.03731280290383921
+    ],
+    [
+     "John, but",
+     0.0356841359925689
+    ]
+   ],
+   "correct": 0
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "domain": "Exploration",
+   "p_true": 0.0338,
+   "top": [
+    [
+     "John. He",
+     0.09340262949451672
+    ],
+    [
+     "John Henry.",
+     0.05541807663817769
+    ],
+    [
+     "John. His",
+     0.0499948487300609
+    ],
+    [
+     "John, and",
+     0.0404196257142035
+    ],
+    [
+     "given him by",
+     0.010321246914888818
+    ]
+   ],
+   "correct": 0
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "domain": "Exploration",
+   "p_true": 0.025,
+   "top": [
+    [
+     "John. He",
+     0.08374514074714164
+    ],
+    [
+     "given him by",
+     0.04646005495596177
+    ],
+    [
+     "John, and",
+     0.03659536552582758
+    ],
+    [
+     "William, and",
+     0.03516903558559705
+    ],
+    [
+     "given to him",
+     0.02001167991026037
+    ]
+   ],
+   "correct": 0
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "domain": "Exploration",
+   "p_true": 0.0003,
+   "top": [
+    [
+     "John, but",
+     0.07344188315126779
+    ],
+    [
+     "John, and",
+     0.05373122953274056
+    ],
+    [
+     "William, but",
+     0.04059483500457439
+    ],
+    [
+     "George, but",
+     0.022208110774973713
+    ],
+    [
+     "given to him",
+     0.004871370712784754
+    ]
+   ],
+   "correct": 0
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "domain": "Philosophy",
+   "p_true": 0.0221,
+   "top": [
+    [
+     "Hermann.",
+     0.057809321226878194
+    ],
+    [
+     "Heinrich.",
+     0.03418271358354361
+    ],
+    [
+     "Johann Heinrich",
+     0.02549741390497626
+    ],
+    [
+     "Hermann,",
+     0.022638455466812014
+    ],
+    [
+     "Heinrich,",
+     0.012061922113045936
+    ]
+   ],
+   "correct": 0
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "domain": "Philosophy",
+   "p_true": 0.008,
+   "top": [
+    [
+     "Johann, and",
+     0.08004799862606746
+    ],
+    [
+     "Joseph, and",
+     0.045928873984734685
+    ],
+    [
+     "John, and",
+     0.035125418982095036
+    ],
+    [
+     "Peter, and",
+     0.013319885887132035
+    ],
+    [
+     "William, and",
+     0.009152432394869668
+    ]
+   ],
+   "correct": 0
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "domain": "Philosophy",
+   "p_true": 0.0567,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.1729924953648268
+    ],
+    [
+     "Louis. His",
+     0.04179225272351496
+    ],
+    [
+     "Francois. His",
+     0.037957111229874684
+    ],
+    [
+     "Francois, and",
+     0.031357248160278385
+    ],
+    [
+     "Louis, and",
+     0.028136931603294994
+    ]
+   ],
+   "correct": 1
+  },
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "domain": "Empire",
+   "p_true": 0.1805,
+   "top": [
+    [
+     "Napoleon, and",
+     0.10042154857025902
+    ],
+    [
+     "Napoleon. His",
+     0.07641158630033368
+    ],
+    [
+     "Napoleon. The",
+     0.06885258914772813
+    ],
+    [
+     "Jean Baptiste",
+     0.03198192830428941
+    ],
+    [
+     "the same as",
+     0.009547791681255021
+    ]
+   ],
+   "correct": 1
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "domain": "Empire",
+   "p_true": 0.0001,
+   "top": [
+    [
+     "Giuseppe.",
+     0.24976362943210065
+    ],
+    [
+     "Giovanni Battista",
+     0.2492856763680229
+    ],
+    [
+     "Giuseppe,",
+     0.09780885428455291
+    ],
+    [
+     "Pietro.",
+     0.045806055707877325
+    ],
+    [
+     "Pasquale",
+     0.02121075473191613
+    ]
+   ],
+   "correct": 0
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "domain": "Civil rights",
+   "p_true": 0.0134,
+   "top": [
+    [
+     "John, and",
+     0.16157037631705237
+    ],
+    [
+     "Thomas, and",
+     0.06012485348608924
+    ],
+    [
+     "William, and",
+     0.043775261457481014
+    ],
+    [
+     "George, and",
+     0.03486704752485945
+    ],
+    [
+     "Henry, and",
+     0.0285911123453291
+    ]
+   ],
+   "correct": 0
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "domain": "Civil rights",
+   "p_true": 0.0,
+   "top": [
+    [
+     "John, and",
+     0.14633049999618228
+    ],
+    [
+     "William, and",
+     0.08049675527141453
+    ],
+    [
+     "John. He",
+     0.06660749822609915
+    ],
+    [
+     "George, and",
+     0.04295867261381675
+    ],
+    [
+     "James, and",
+     0.033432039703293774
+    ]
+   ],
+   "correct": 0
+  }
+ },
+ "1929": {
+  "Gauguin": {
+   "first": "Paul",
+   "fame": 1895,
+   "domain": "Painting",
+   "p_true": 0.0105,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.16243062576030826
+    ],
+    [
+     "Pierre. He",
+     0.053840024007803466
+    ],
+    [
+     "Pierre, and",
+     0.031376669735296535
+    ],
+    [
+     "Louis, and",
+     0.01947396499199415
+    ],
+    [
+     "Jean-Bapt",
+     0.014797770218913564
+    ]
+   ],
+   "correct": 0
+  },
+  "Picasso": {
+   "first": "Pablo",
+   "fame": 1910,
+   "domain": "Painting",
+   "p_true": 0.005,
+   "top": [
+    [
+     "Jose. He",
+     0.10488140822673162
+    ],
+    [
+     "Jose, and",
+     0.03445434400687119
+    ],
+    [
+     "Jose, but",
+     0.03445434400687119
+    ],
+    [
+     "Alfonso",
+     0.012088846472157414
+    ],
+    [
+     "Ignacio.",
+     0.008978533131534083
+    ]
+   ],
+   "correct": 0
+  },
+  "Pollock": {
+   "first": "Jackson",
+   "fame": 1948,
+   "domain": "Painting",
+   "p_true": 0.001,
+   "top": [
+    [
+     "John. He",
+     0.09619038294533906
+    ],
+    [
+     "John, but",
+     0.07341189480062191
+    ],
+    [
+     "John, and",
+     0.06614962561157052
+    ],
+    [
+     "William, and",
+     0.03967949971214495
+    ],
+    [
+     "William, but",
+     0.03967949971214495
+    ]
+   ],
+   "correct": 0
+  },
+  "Bismarck": {
+   "first": "Otto",
+   "fame": 1865,
+   "domain": "Statecraft",
+   "p_true": 0.1452,
+   "top": [
+    [
+     "William, and",
+     0.09620630016280499
+    ],
+    [
+     "William. He",
+     0.09521785784512855
+    ],
+    [
+     "William. His",
+     0.08579845496165009
+    ],
+    [
+     "Otto, and",
+     0.041222069446694314
+    ],
+    [
+     "Hermann.",
+     0.015403242461467239
+    ]
+   ],
+   "correct": 0
+  },
+  "Hitler": {
+   "first": "Adolf",
+   "fame": 1923,
+   "domain": "Statecraft",
+   "p_true": 0.0123,
+   "top": [
+    [
+     "Heinrich.",
+     0.1060724895405705
+    ],
+    [
+     "Johann, and",
+     0.04730256043557924
+    ],
+    [
+     "Heinrich,",
+     0.046098917589830396
+    ],
+    [
+     "Hermann.",
+     0.009845151520032137
+    ],
+    [
+     "Heinrich and",
+     0.008706958082070428
+    ]
+   ],
+   "correct": 0
+  },
+  "Reagan": {
+   "first": "Ronald",
+   "fame": 1981,
+   "domain": "Statecraft",
+   "p_true": 0.0001,
+   "top": [
+    [
+     "John. He",
+     0.0775395416070502
+    ],
+    [
+     "John, and",
+     0.06402293265973064
+    ],
+    [
+     "John, but",
+     0.057689466230206814
+    ],
+    [
+     "William, and",
+     0.03658283854876242
+    ],
+    [
+     "John and his",
+     0.029210558006098265
+    ]
+   ],
+   "correct": 0
+  },
+  "Maxwell": {
+   "first": "James",
+   "fame": 1870,
+   "domain": "Physics",
+   "p_true": 0.0457,
+   "top": [
+    [
+     "William, and",
+     0.11122558005421071
+    ],
+    [
+     "John, and",
+     0.09635132766469526
+    ],
+    [
+     "John. He",
+     0.06414897141322835
+    ],
+    [
+     "William, but",
+     0.039247731472587255
+    ],
+    [
+     "John, but",
+     0.027605117559783128
+    ]
+   ],
+   "correct": 0
+  },
+  "Einstein": {
+   "first": "Albert",
+   "fame": 1919,
+   "domain": "Physics",
+   "p_true": 0.0064,
+   "top": [
+    [
+     "Hermann.",
+     0.029107223270027495
+    ],
+    [
+     "Heinrich.",
+     0.022010544721116236
+    ],
+    [
+     "Karl, and",
+     0.01844445588946708
+    ],
+    [
+     "Hermann,",
+     0.015579973907736112
+    ],
+    [
+     "Heinrich,",
+     0.010615918920029938
+    ]
+   ],
+   "correct": 0
+  },
+  "Feynman": {
+   "first": "Richard",
+   "fame": 1965,
+   "domain": "Physics",
+   "p_true": 0.0048,
+   "top": [
+    [
+     "John. He",
+     0.09866638658499076
+    ],
+    [
+     "John, and",
+     0.0636239825685507
+    ],
+    [
+     "John, but",
+     0.046548300022980396
+    ],
+    [
+     "William, and",
+     0.04177817589282766
+    ],
+    [
+     "William, but",
+     0.030565566432074538
+    ]
+   ],
+   "correct": 0
+  },
+  "Wagner": {
+   "first": "Richard",
+   "fame": 1860,
+   "domain": "Music",
+   "p_true": 0.021,
+   "top": [
+    [
+     "Johann. He",
+     0.05355207904797373
+    ],
+    [
+     "Johann, and",
+     0.04007814160099199
+    ],
+    [
+     "Hermann.",
+     0.0262882049832401
+    ],
+    [
+     "Hermann,",
+     0.017330251442704954
+    ],
+    [
+     "Heinrich,",
+     0.008473221844956927
+    ]
+   ],
+   "correct": 0
+  },
+  "Stravinsky": {
+   "first": "Igor",
+   "fame": 1913,
+   "domain": "Music",
+   "p_true": 0.0009,
+   "top": [
+    [
+     "Vladimir. He",
+     0.07399894426901653
+    ],
+    [
+     "Michael. He",
+     0.050181357645893696
+    ],
+    [
+     "Michael, and",
+     0.03203106393872384
+    ],
+    [
+     "Michael, but",
+     0.03203106393872384
+    ],
+    [
+     "Vladimir, and",
+     0.03034724692016633
+    ]
+   ],
+   "correct": 0
+  },
+  "Presley": {
+   "first": "Elvis",
+   "fame": 1956,
+   "domain": "Music",
+   "p_true": 0.0,
+   "top": [
+    [
+     "not known to",
+     0.040005910811777304
+    ],
+    [
+     "John, and",
+     0.01924677438759041
+    ],
+    [
+     "John, but",
+     0.014081240948771072
+    ],
+    [
+     "William, and",
+     0.010902646578007352
+    ],
+    [
+     "George, and",
+     0.00910319290526819
+    ]
+   ],
+   "correct": 0
+  },
+  "Tolstoy": {
+   "first": "Leo",
+   "fame": 1875,
+   "domain": "Literature",
+   "p_true": 0.0134,
+   "top": [
+    [
+     "Michael, and",
+     0.061203087346967555
+    ],
+    [
+     "Nicholas, and",
+     0.04392480480627169
+    ],
+    [
+     "Alexander, and",
+     0.03694136732092655
+    ],
+    [
+     "Vladimir, and",
+     0.03208759554476169
+    ],
+    [
+     "Nikolai.",
+     0.028338775696043265
+    ]
+   ],
+   "correct": 0
+  },
+  "Hemingway": {
+   "first": "Ernest",
+   "fame": 1926,
+   "domain": "Literature",
+   "p_true": 0.0006,
+   "top": [
+    [
+     "John, and",
+     0.061151439045816346
+    ],
+    [
+     "William, and",
+     0.03927557021406045
+    ],
+    [
+     "John, but",
+     0.03632550606839886
+    ],
+    [
+     "Henry, and",
+     0.03474245170220424
+    ],
+    [
+     "Henry, but",
+     0.025418126713409414
+    ]
+   ],
+   "correct": 0
+  },
+  "Orwell": {
+   "first": "George",
+   "fame": 1945,
+   "domain": "Literature",
+   "p_true": 0.0141,
+   "top": [
+    [
+     "John, and",
+     0.13750124927146198
+    ],
+    [
+     "William, and",
+     0.09272894178740464
+    ],
+    [
+     "John. He",
+     0.04659366846231298
+    ],
+    [
+     "John, but",
+     0.03549764992360537
+    ],
+    [
+     "William, but",
+     0.026567286629860756
+    ]
+   ],
+   "correct": 0
+  },
+  "Marx": {
+   "first": "Karl",
+   "fame": 1870,
+   "domain": "Revolution",
+   "p_true": 0.0575,
+   "top": [
+    [
+     "Hermann.",
+     0.03540372176738934
+    ],
+    [
+     "Karl, and",
+     0.033261161075081834
+    ],
+    [
+     "Heinrich.",
+     0.026290674532242018
+    ],
+    [
+     "Hermann,",
+     0.023339569994512473
+    ],
+    [
+     "Heinrich,",
+     0.01561732760773999
+    ]
+   ],
+   "correct": 0
+  },
+  "Lenin": {
+   "first": "Vladimir",
+   "fame": 1917,
+   "domain": "Revolution",
+   "p_true": 0.0571,
+   "top": [
+    [
+     "Alexander. He",
+     0.1004581631165303
+    ],
+    [
+     "Vladimir. He",
+     0.07960878507561339
+    ],
+    [
+     "Alexander. His",
+     0.05377137989614775
+    ],
+    [
+     "Alexander, and",
+     0.04052081317467709
+    ],
+    [
+     "Vladimir, and",
+     0.03584619286470166
+    ]
+   ],
+   "correct": 0
+  },
+  "Guevara": {
+   "first": "Che",
+   "fame": 1959,
+   "domain": "Revolution",
+   "p_true": 0.0001,
+   "top": [
+    [
+     "said to be",
+     0.04480970797238758
+    ],
+    [
+     "Juan, but",
+     0.03560033101684903
+    ],
+    [
+     "Jose, and",
+     0.0268394747569383
+    ],
+    [
+     "Manuel, and",
+     0.020135481556608607
+    ],
+    [
+     "Juan and his",
+     0.019179633892645383
+    ]
+   ],
+   "correct": 0
+  },
+  "Pasteur": {
+   "first": "Louis",
+   "fame": 1880,
+   "domain": "Science",
+   "p_true": 0.1095,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.2161590790164983
+    ],
+    [
+     "Louis. He",
+     0.10259553663629432
+    ],
+    [
+     "Louis, and",
+     0.07055630049275247
+    ],
+    [
+     "John. He",
+     0.06770811571219564
+    ],
+    [
+     "Jean-Bapt",
+     0.029873173724226883
+    ]
+   ],
+   "correct": 0
+  },
+  "Curie": {
+   "first": "Marie",
+   "fame": 1903,
+   "domain": "Science",
+   "p_true": 0.0085,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.07698731810579805
+    ],
+    [
+     "Stanislas",
+     0.04169987861868003
+    ],
+    [
+     "Casimir.",
+     0.023612561347607964
+    ],
+    [
+     "Stanislaus",
+     0.018122689662116782
+    ],
+    [
+     "Casimir,",
+     0.008332073320284381
+    ]
+   ],
+   "correct": 0
+  },
+  "Salk": {
+   "first": "Jonas",
+   "fame": 1955,
+   "domain": "Science",
+   "p_true": 0.0023,
+   "top": [
+    [
+     "John. He",
+     0.09473434013596951
+    ],
+    [
+     "Samuel, but",
+     0.057092764938732124
+    ],
+    [
+     "John, but",
+     0.05279612092551471
+    ],
+    [
+     "John, and",
+     0.04757327780620047
+    ],
+    [
+     "Samuel, and",
+     0.046355694640010714
+    ]
+   ],
+   "correct": 0
+  },
+  "Stanley": {
+   "first": "Henry",
+   "fame": 1875,
+   "domain": "Exploration",
+   "p_true": 0.0335,
+   "top": [
+    [
+     "John. He",
+     0.10198464698827628
+    ],
+    [
+     "John, and",
+     0.08408826548328671
+    ],
+    [
+     "James. He",
+     0.04165227356695977
+    ],
+    [
+     "William, and",
+     0.030016067621628298
+    ],
+    [
+     "John, but",
+     0.026736609614761934
+    ]
+   ],
+   "correct": 0
+  },
+  "Lindbergh": {
+   "first": "Charles",
+   "fame": 1927,
+   "domain": "Exploration",
+   "p_true": 0.0207,
+   "top": [
+    [
+     "not Lind,",
+     0.11193683633917254
+    ],
+    [
+     "John. He",
+     0.038981652502590315
+    ],
+    [
+     "not given in",
+     0.03788213637403615
+    ],
+    [
+     "given to him",
+     0.022594880838266974
+    ],
+    [
+     "John, but",
+     0.020718859807021612
+    ]
+   ],
+   "correct": 0
+  },
+  "Armstrong": {
+   "first": "Neil",
+   "fame": 1969,
+   "domain": "Exploration",
+   "p_true": 0.0001,
+   "top": [
+    [
+     "John, but",
+     0.06319119909286817
+    ],
+    [
+     "John. He",
+     0.06133113416889829
+    ],
+    [
+     "William, but",
+     0.035707471900251114
+    ],
+    [
+     "John, and",
+     0.03382381956050258
+    ],
+    [
+     "given to him",
+     0.013779949843204457
+    ]
+   ],
+   "correct": 0
+  },
+  "Nietzsche": {
+   "first": "Friedrich",
+   "fame": 1888,
+   "domain": "Philosophy",
+   "p_true": 0.0417,
+   "top": [
+    [
+     "Eduard.",
+     0.08535806792276261
+    ],
+    [
+     "Heinrich.",
+     0.05160239745678563
+    ],
+    [
+     "Hermann.",
+     0.0389942292456078
+    ],
+    [
+     "Eduard,",
+     0.030119964555083697
+    ],
+    [
+     "Gustav.",
+     0.02946223386474311
+    ]
+   ],
+   "correct": 0
+  },
+  "Wittgenstein": {
+   "first": "Ludwig",
+   "fame": 1922,
+   "domain": "Philosophy",
+   "p_true": 0.0079,
+   "top": [
+    [
+     "Johann, and",
+     0.08550541371836966
+    ],
+    [
+     "John. He",
+     0.05776714741749071
+    ],
+    [
+     "John, and",
+     0.057281370244630876
+    ],
+    [
+     "Adam, and",
+     0.02100965510513522
+    ],
+    [
+     "Gottlieb",
+     0.011100238452807618
+    ]
+   ],
+   "correct": 0
+  },
+  "Sartre": {
+   "first": "Jean",
+   "fame": 1945,
+   "domain": "Philosophy",
+   "p_true": 0.0522,
+   "top": [
+    [
+     "Jean Baptiste",
+     0.22689957575147443
+    ],
+    [
+     "Pierre, and",
+     0.04579698124362084
+    ],
+    [
+     "Louis, and",
+     0.045083546626239035
+    ],
+    [
+     "Pierre. His",
+     0.039656271943054086
+    ],
+    [
+     "Pierre. He",
+     0.0357332680742979
+    ]
+   ],
+   "correct": 1
+  },
+  "Bonaparte": {
+   "first": "Napoleon",
+   "fame": 1800,
+   "domain": "Empire",
+   "p_true": 0.0744,
+   "top": [
+    [
+     "John Baptiste",
+     0.09026676793856885
+    ],
+    [
+     "Jean Baptiste",
+     0.08918265402906048
+    ],
+    [
+     "John. He",
+     0.07376109764146223
+    ],
+    [
+     "Louis, and",
+     0.03591269417554486
+    ],
+    [
+     "Napoleon, and",
+     0.033059116139737436
+    ]
+   ],
+   "correct": 0
+  },
+  "Mussolini": {
+   "first": "Benito",
+   "fame": 1922,
+   "domain": "Empire",
+   "p_true": 0.0004,
+   "top": [
+    [
+     "Giuseppe.",
+     0.3936872741550027
+    ],
+    [
+     "Giuseppe,",
+     0.17109577726106365
+    ],
+    [
+     "Gaetano",
+     0.024235665893323977
+    ],
+    [
+     "Giuseppe and",
+     0.02364277259617416
+    ],
+    [
+     "Tommaso",
+     0.014431364581682267
+    ]
+   ],
+   "correct": 0
+  },
+  "Douglass": {
+   "first": "Frederick",
+   "fame": 1850,
+   "domain": "Civil rights",
+   "p_true": 0.0038,
+   "top": [
+    [
+     "John. He",
+     0.13571099803219758
+    ],
+    [
+     "John, and",
+     0.11799119442262625
+    ],
+    [
+     "Thomas, and",
+     0.03413313362882306
+    ],
+    [
+     "Henry, and",
+     0.019396933264359085
+    ],
+    [
+     "Abraham, and",
+     0.018055780807756425
+    ]
+   ],
+   "correct": 0
+  },
+  "Parks": {
+   "first": "Rosa",
+   "fame": 1955,
+   "domain": "Civil rights",
+   "p_true": 0.0,
+   "top": [
+    [
+     "John, and",
+     0.13050769733797
+    ],
+    [
+     "John. He",
+     0.06186809832499604
+    ],
+    [
+     "William, and",
+     0.04214437270069731
+    ],
+    [
+     "John, but",
+     0.03035918035385228
+    ],
+    [
+     "the same as",
+     0.014872726137840122
+    ]
+   ],
+   "correct": 0
+  }
+ }
+}

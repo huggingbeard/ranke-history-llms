@@ -1,0 +1,3223 @@
+KF 6667 
+
+NEDL TRANSFER 
+
+767 HN 66Q2 
+
+OUTLINE OF GEOMETRY PLANE AND SOLID BY GEORGE W. EVANS
+
+OUTLINE OF GEOMETRY PLANE AND SOLID BY GEORGE W. EVANS CITY OF BOSTON PRINTING DEPARTMENT 
+
+1936
+
+KF6667 
+
+HARVARD UNIVERSITY LIBRARY 
+
+217 
+
+[Copyright, 1936, by GEORGE W. EVANS] 
+
+For sale by 
+
+JOHN A. O'KEEFE, Treasurer 
+
+107 Ocean St., Lynn, Mass.
+
+Next for the student of these matters comes what they call by the very ridiculous name "land-measurement," though it clearly has arisen in the study of plane figures as a comparison of numbers that are not by nature comparable.— PLATO.
+
+PREFACE 
+
+The following advantages were aimed at in writing this Outline of Geometry: 
+
+Earlier introduction of powerful theorems.
+
+A sequence (not only of single theorems, but of natural groups of theorems) which would make the logical succession more obvious, and reduce the burden of memory. 
+
+Occasional study of logical patterns for their own sake, with examples not merely geometrical; and especially the exhibition of "indirect proof" as proof of the contrapositive of the given theorem.
+
+Emphasis on the idea of Order in a geometrical figure. 
+
+The use of algebra and of trigonometric ratios whenever clearness or brevity of demonstration could be thus promoted. 
+
+Using numerical approximation as an easy and sound method of teaching "limits." It is not expected that pupils should learn to reproduce the argument of P1, but that it should be discussed in class, not only at the beginning, but again whenever the "incommensurable case" presents itself.
+
+The table of contents will indicate what theorems of solid geometry will be available at different stages of plane geometry.
+
+TABLE OF CONTENTS. 
+
+I MEASURING DISTANCES, ANGLES AND ARCS 
+
+Approximations and Margin of Error 
+
+Degrees of angle and of arc.
+
+II 
+
+CONGRUENT TRIANGLES 
+
+Endless lines, rays, line-segments 
+
+Order of arrangement in plane figures 
+
+Converse statements. 
+
+Half-planes - Overturning — 
+
+Constructions Q1 to Q7. 
+
+III PERPENDICULARS AND PARALLELS IV Contrapositive statements - The Stripe Theorems AREAS OF POLYGONS 
+
+Solid S1 to $5. 
+
+Alternate angles.
+
+The triangles of a parallelogram The Parallelogram Theorems Areas of rectangles, rhomboids, triangles and trapezoids.
+
+Constructions Q8 and Q9. 
+
+SIMILARITY AND THE COSINE 
+
+Definition of similar triangles Proportion and proportionals Geometric mean The Hypotenuse Theorems Projections positive and negative — 
+
+Cosine of an obtuse angle The Law of Cosines. 
+
+Solid S6 to $18.
+
+VI 
+
+SIMILAR TRIANGLES AND THE SINE 
+
+Two more tests of similarity 
+
+Positive projections on the perpendicular
+
+Sine of an obtuse angle- Areas and ratios of areas. 
+
+Constructions Q10 and Q11. 
+
+VII SIMILAR FIGURES IN GENERAL 
+
+Maps on different scales perimeters.
+
+Order in similar figures - Ratios of areas and 
+
+Solid S19 to $23.
+
+VIII  
+
+Angles at the circumference circle Approaching a limit without tables. 
+
+Regular polygons 
+
+Approximations to the
+
+The number pi- Finding the value of pi 
+
+Constructions Q12 to Q15; Solid S24 to $33.
+
+IX LOCI AND CONCURRENT LINES 
+
+What a locus is - Necessary conditions and sufficient conditions - - The centers of a triangle
+
+The Law of Sines. 
+
+Constructions Q16 to Q19; Solid S34 to $39.
+
+X INTERNAL AND EXTERNAL SEGMENTS XI  
+
+Intersecting planes Parallel and perpendicular lines and planes Contrapositives again Problems of construction in solid geometry — The rightangled tetrahedron. 
+
+---
+
+vi 
+
+TABLE OF CONTENTS XII VOLUMES OF PRISMS AND CYLINDERS 
+
+Congruent bases-Volume of right rectangular prism, and of any right prism; projection of a plane figure on another plane Volume of any cylinder. 
+
+XIII VOLUMES OF PYRAMIDS AND CONES 
+
+cone 
+
+The Curve of Sections - Similar sections - Volume of any pyramid or 
+
+The Prismoid Formula. 
+
+XIV VOLUME OF A SPHERE XV SIMILAR SOLIDS 
+
+Congruent triedrals and similar tetrahedrons Ratios of volumes and of areas.
+
+XVI XVII AREAS OF ROUND SURFACES LOCI AND CONCURRENT LINES 
+
+The incenter, circumcenter, and centroid of a tetrahedron.
+
+XVIII SPHERICAL FIGURES AND SOLID ANGLES 
+
+Congruent and Symmetrical triangles on a sphere · Circular measure of angles Area formulas for lune, triangle, polygon - Steradians - Polar angle of a diedral Polar polygons Regular polyedrons Minimum path on a sphere. 
+
+The following abbreviations are suggested for use in writing demonstrations: ccf, circumference; ccm-, circum- (circumference, circumcircle, circumradius); cos, cosine; crc, circumscribed; drl, diedral; in-, in- (incenter, incircle, inradius); isc, inscribed; pdl, polyedral; pdn, polyedron; pgm, parallelogram; pgn, polygon; pmd, pyramid; psm, prism; psmd, prismoid; qdl, quadrilateral; rbd, rhomboid; rgl, rectangle, rectangular; rt, right; sin, sine; tdl, triedral; tdn, tetrahedron; tgl, triangle; tvl, transversal; tpz, trapezoid (trapezium or trapeze except in the 
+
+United States); and the following symbols: angle; O circle, circular; = congruent; | parallel, parallel to; perpendicular, perpendicular to; ~ similar, similar to; sphere, spherical; square (shape or number). Pupils are of course expected not to refer to theorems by number, but to quote the theorem itself or some clear indication of it. This book classifies propositions as follows: A assumption, D = definition, P plane geometry proposition, Q plane construction, S = solid geometry proposition.
+
+CHAPTER I MEASURING DISTANCES, ANGLES AND ARCS 
+
+The word geometry means literally land measurement. One of the ideas underlying our study of geometry is the actual measurement, direct and indirect, of definite objects or diagrams. 
+
+Another idea not quite so ancient is the idea of convincing proof. Thus in geometry we begin by accepting as true a group of statements and then showing how other statements follow from these. 
+
+First comes the direct measurement of distances and angles, and then the indirect measurement of things that cannot be measured directly. This is practical and very old. Thousands of years before 
+
+Christ, direct and indirect measurements were made of rather complicated objects, and some of the records of such measurements, in astronomy for example, are of interest to us today. 
+
+All practical measurements are approximate; for example, after the United States Coast Survey had measured a certain angle with the greatest care and skill, the measurement number recorded in degrees could be written decimally as 71.730456.000078. That means that the angle is not less than 71.730378 degrees, or more than 
+
+71.730534 degrees. In geometry we study figures in which the lines. and angles are supposed to have absolutely accurate measurement numbers.
+
+In this country the standard of length is a metallic bar in Washington, one meter long. The inch and the foot are defined in terms of that bar, by saying that one meter = 39.370 inches, and that one foot 12 inches. The numbers 39.370 and 12 are here theoretically exact, like the measurement numbers of geometry. 
+
+Introductory Exercises 
+
+1. Express 3/11 as a decimal fraction correct to 2 figures; 4 figures; 
+
+5 figures. Can it be expressed exactly as a decimal fraction? 
+
+2. Are there any numbers which can be expressed exactly in decimal fractions but not in common fractions? 
+
+3. Are there any numbers which cannot be expressed exactly either in common or decimal fractions? 
+
+4. A square is 2" on a side. How long is the side of a square of twice the area? Is it 4"? 3"? If a diagonal of the first square is the side of the second square, show by counting triangles that the second square has twice the area of the first.
+
+5. How does the square on the diagonal in ex. 4 compare with the two squares whose sides are respectively 2.8" and 2.9"? 
+
+6. You are convinced by the authority of your history book that 
+
+Washington crossed the Delaware to attack the British; but later research might show that he did not. You become convinced by experiment that the radiator is hot; but you cannot say just how hot. Not long ago scientists were convinced by experiment that light was entirely different from matter of every kind; now they know that this is not true. You can convince yourself that the difference of two consecutive square numbers is the sum of their square roots by proving that this statement is always and precisely true. Here are three different ways by which men are convinced; why are they mentioned here?
+
+APPROXIMATIONS AND IRRATIONAL NUMBERS 
+
+A rational number is a number which can be exactly expressed in figures; as a whole number, a fraction, or ratio of integers. Examples are 5, 1.3, 2/3, 101/100. An irrational number is one which cannot be expressed in figures. Examples are √2, 1/√ 5, π.
+
+Without irrational numbers we cannot find measurement numbers for all distances; for example, the diagonal of a square one inch each way does not correspond in length to any number that we can express in figures. We can get numbers that are too large and numbers that are too small, but we cannot get any number, expressed in figures, that exactly corresponds to the length of this diagonal. 
+
+For that reason men have invented the new kind of number called irrational. That remarkable idea occurred first in geometry. 
+
+Working With Approximate Numbers 
+
+In multiplying and dividing approximate numbers, if the data are of three-figure accuracy the results will not be reliable to more than three figures; if the data are of four-figure accuracy the results will not be reliable to more than four figures; etc.
+
+While logarithms may be used to save labor in a long set of multiplications and divisions, it is often convenient to abbreviate these operations by another method, namely, by omitting unnecessary columns of figures at the right. 
+
+Square roots may be extracted to any desired degree of accuracy by the following steps: 1. Find the nearest square root that you can easily see. 2. Divide. 3. Average the divisor and quotient. 4. If necessary take this average for a new divisor and proceed as before. 5. When you have gone far enough, check by multiplication.
+
+These methods of computation furnish clear illustrations of the fact that approximations can be found with a progressively
+
+MEASURING DISTANCES, ANGLES AND ARCS 
+
+3 diminishing margin of error, and they lead to the two definitions with which our formal work begins. 
+
+Exercises in Approximate Multiplication. 
+
+1. The number .333 is an approximation to 1/3, correct to three figures. Find its cube, using numbers with not more than three figures in your work, and giving the result correct to two figures. 
+
+Compare the result with the decimal value of 1/27. 
+
+2. Find the cube of 3.1416, working with five figures and giving the result correct to four figures. 
+
+3. If an empty coal bin 10.33 ft. by 6.25 ft. is filled to a depth of 
+
+5.67 ft. with coal weighing 43.3 lbs. per cubic foot, how many pounds should then be in the bin? How many tons is that?
+
+Converging Approximations and Margins of Error 
+
+1. What does the word approximation mean in ordinary use? 
+
+2. We may represent 4/3 by closer and closer decimal approximations thus:
+
+Lower Approximation 1 1.3 1.33 1.333 ?
+
+Upper 
+
+Approximation 2 1.4 1.34 1.334 ? 
+
+Margin of Error 1 .1 .01 .001 ? 
+
+How small can the margin of error be made? The two sets of numbers in the table are converging approximations to 4/3. Does 4/3 lie between each successive pair of approximations no matter how far you go? Does 17/20? 135/101? 4001/3000? Any number except 4/3?
+
+D1. A MARGIN OF ERROR is the difference between two approximate measurement numbers, one of which is greater and the other less than the measurement number sought. When we say the approximations are progressively determined we mean that each succeeding pair of approximations is closer than the preceding pair, that is, the margin of error keeps getting smaller.
+
+D2. CONVERGING APPROXIMATIONS are those that can be pro gressively determined by some rule, so that the margin of error will, if we go far enough, be less than any definite number stated in advance. 
+
+P1. (Theorem) Two different numbers cannot have the same converging approximations.
+
+Proof: 
+
+1 Two different numbers have a definite difference. 
+
+2 If one of these numbers has converging approximations, their margin of error can be made less than this definite difference. (D2.) 
+
+The two different numbers cannot lie always between these converging approximations. (Their difference is greater than the margin of error.)
+
+MEASUREMENT OF ANGLES AND ARCS 
+
+In our study of geometry we accept certain general statements and use them to prove other statements which we call theorems.
+
+We have thus far two definitions and a theorem proved by means of them. These three statements have served to make clear and definite the notion of irrational numbers as lengths of straight lines; they apply also to the measurement numbers of all sorts of measurable figures.
+
+Angles are measured directly with protractors which are marked off in units. Just now we want to show how arcs are measured indirectly by first measuring angles. We begin with statements about straight lines, angles, and circles. 
+
+A3. Two straight lines meet if at all in one point only. 
+
+D4. On any straight line, points that lie all on one side of a given point of that line are said to lie in the same RAY, of which the given point is the ORIGIN. 
+
+D5. The DISTANCE of any two points is the straight line having these points as ends. 
+
+A straight line is generally designated by the letters that mark any two of its points; but the expression "the straight line AB" may mean any one of three different things, namely: (1) The distance (often called the line-segment) having A and B for ends. (2) The ray having A for its origin and containing not only the points between A and B, but also every point in line beyond B from A. It is a straight line with only one end, namely, the origin A. (3) The endless straight line AB containing every point in line with A and B whether between A and B or not. A distance has a measurement number but a ray and an endless line are not measurable figures.
+
+D6. An ANGLE is the figure formed by two rays with a common origin. This origin is called the VERTEX of the angle, and the rays are called the SIDES. When we speak of the right-hand or left-hand side it is as if we were looking at the angle from the vertex.
+
+D7. A CIRCLE is a plane figure marked out by an endless curved line, called the CIRCUMFERENCE, every point of which is at a given distance (called the RADIUS) from a fixed point called the CENTER. Superposition
+
+If we say that two triangles are equal, our meaning is not clear; we may mean either that they have the same area or that they are
+
+MEASURING DISTANCES, ANGLES AND ARCS 
+
+5 the same in size and in shape. In geometry when we mean that two figures have the same shape as well as the same size we call the figures congruent, which is a brief way of saying that one of the figures can be fitted precisely upon the other, coincide with it,and completely replace it. (In the case of distances and angles, equality means congruence.) 
+
+A8. Superposition is the test of congruence. 
+
+Direct measurement, as of length, is a process of superposition. There is no other method by which we can decide whether two unit distances or two unit angles are really equal.
+
+A9. A figure can be moved until any given point of it comes to a specified point of another figure. 
+
+A10. A figure having one point fixed can still be moved until a particular ray from the fixed point comes in line with a fixed point of another figure. 
+
+Exercises 
+
+1. Suppose you have given two line-segments, AB and XY; just how would you test them to see if they were equal? 
+
+2. Answer the same question for two circles with centers C and Q respectively. 
+
+3. If two rather sharp angles have a common vertex, and if the left side of one is the right side of the other, could you make a mark that would be inside of both angles? 
+
+4. If two angles have a common vertex, and if the right side of one angle is the right side of the other, could you make a mark that would be inside of one angle and outside of the other? 
+
+5. Draw two angles ABC and XYZ, B and Y being the vertices. 
+
+How would you test them to see if they were equal? 
+
+6. Make a tracing of the uppermost diagram on page 15, and of the one on page 16, putting accents on the letters of the latter diagram (A', X', etc.). Describe precisely the steps you would take to see if the diagrams are congruent. 
+
+7. Suppose the quadrilaterals ABCF on page 12 and ABGC on page 13 have the angles A equal and the angles B equal, and the equal lines AC and AG each bisecting an angle A. Just what steps would you take to decide whether the two figures were congruent? 8. In tgls GHK and RST, GR, kt, hs.
+
+A Relation Between Arcs and Angles 
+
+P2. In any circle, or in equal circles, if two central angles are equal, their arcs are equal.
+
+Plan of proof: Superposition. 
+
+P3. In any circle, or in equal circles, if two arcs are equal, their central angles are equal. 
+
+Plan of proof: Superposition. 
+
+Converse Statements 
+
+In theorems P2 and P3 the same figure is referred to, namely two central angles each intercepting an arc. In P2 the hypothesis is that the angles are equal, the conclusion is that the arcs are equal. 
+
+In P3 this hypothesis and this conclusion change places but are not otherwise altered. Such statements are said to be converse; each is the converse of the other. 
+
+When you have two converse theorems each requires a proof; but every definition is supposed to include its own converse. Thus the definition,—“If one straight line makes equal adjacent angles with another straight line, the lines are perpendicular",- may also be stated as follows: "If one straight line is perpendicular to another, they make two equal adjacent angles". 
+
+Exercise 
+
+For each of the following statements, state the converse. Then answer, for each, these two questions: First, is the original statement true? Second, is its converse true? 
+
+1. If a man is very rich he can afford to pay his carfare. 2. 
+
+If you feel tired, you have walked ten miles today. 
+
+3. If I am your teacher, you are my pupil. 
+
+4. If it is raining there are clouds in the sky. 
+
+5. If my straw hat is ruined, a horse has stepped on it.
+
+D11. Two angles in the same plane are called ADJACENT if they have a common vertex and a common side between them.
+
+D12. If one straight line meets another so as to make the adjacent angles equal, the angles are called RIGHT and the lines PERPENDICULAR. 
+
+A13. In a given plane not more than one straight line can be perpendicular to a given straight line at a given point in it. 
+
+A14. Every figure has a measurement number if there is a unit with which converging approximations can be found for that figure.
+
+MEASURING DISTANCES, ANGLES AND ARCS 
+
+7 D15. Our unit of angle is a DEGREE, which is 1/90 of a right angle; our unit of arc is a DEGREE OF ARC, which is 1/90 of a quadrant.
+
+D16. Two angles, or two arcs, are called SUPPLEMENTARY if their sum is 180°; COMPLEMENTARY if their sum is 90°. 
+
+Complementary arcs make a quadrant; supplementary arcs a semicircle.
+
+D17. Of the four angles made by two intersecting lines, any two adjacent angles are supplementary and angles not adjacent are equal. These equal angles, formed by rays respectively opposite, are called OPPOSITE ANGLES. 
+
+Exercises 
+
+1. How many degrees are there in a right angle? In one third of a right angle? In 2 right angles? 
+
+2. Draw six angles of various sizes. Estimate the number of degrees in each angle. If you have a protractor verify your estimates. 
+
+3. Does the measurement number of an angle depend upon the lengths of its sides? 
+
+4. Has every angle a measurement number? 
+
+5. Draw two intersecting lines and point out four pairs of supplementary angles. 
+
+6. In the figure of the preceding exercise, if one angle is 50° find the other angles. 
+
+7. What is the supplement of 10°? 50°? 100°? x degrees? 
+
+8. What is the complement of 20°? 60°? 1°? x degrees? 
+
+9. One of two supplementary angles is twice the other. Find them. (Let x = no. degrees in smaller angle.) 
+
+10. How many degrees are there in an angle which is one fourth its complement? 
+
+11. How many degrees are there in an angle which is 8° more than its supplement? In an angle which is 14° less than its supplement? 
+
+12. How many degrees are there in an angle which is 10° less than 
+
+3 times its complement? 
+
+13. The ratio of two supplementary angles is 2. Find them. (This means that one angle is twice the other.) 
+
+14. How many degrees are there in an angle which is 20% less than its complement? 
+
+15. How many degrees in an angle whose supplement is 3 times the complement of its double? 
+
+16. What would the answer to ex. 15 become if the number 3 were changed to 5? If it were changed to n?
+
+P4. The number of degrees in a central angle is the same as the number of degrees in its arc.
+
+Prove Q, the number of degrees in central angle AQB, equals x, the number of degrees in its intercepted arc AB. 
+
+If QP is perpendicular to QA at A, these two endless lines make four right angles. (D12.) 2 These two lines will divide the ccf into quadrants. (P2.) 
+
+3 If each right angle is divided into degrees, the dividing rays will divide each quadrant into 90 equal parts (degrees of arc). (P2, D15.)
+
+Any decimal subdivision of a degree of angle will intercept the same subdivision of a degree of arc. (P2.)
+
+If any dividing ray coincides with QB, the number of degrees will be the same for angle and arc. (P2.)
+
+If not, the approximations will be the same for angle and arc. (From 4.)
+
+These approximations are converging. (The decimal subdivision can be continued until the margin of error is less than any number stated in advance.) 8 Q = x.(P1.) 
+
+Exercises 
+
+1. In a circle the number of degrees in a major arc, and the number in its minor arc, have the ratio 11/7. Find the number of degrees in each arc, and in its central angle. 
+
+2. A series of 5 points on the circumference of a circle mark out successive minor arcs having the same ratios as the numbers 8, 5, 3 and 2; their sum is 72°. Find the number of degrees in their central angles. NOTE: Another way of stating the condition of this problem: The arcs have the ratios 8:5:3:2. 
+
+3. Six radii in a circle make five adjacent angles (central angles); if these angles have the ratios 7:5:3:2:1, find the values of their arcs. 
+
+4. Make a set of converging approximations, as in steps and in P4, for an arc of 57.29578. Find upper and lower approximations until the margin of error is 0.0001.
+
+CONGRUENT TRIANGLES 
+
+9 
+
+CHAPTER II CONGRUENT TRIANGLES 
+
+What is Geometry?
+
+Geometry has for its subject matter the shape and the measurement of objects. Not only of separate objects, but of groups of objects,― that is to say, the position of one object in relation to other objects.
+
+The shapes that we discuss in geometry are called figures. 
+
+They are not irregular or indefinite, like the shapes we actually see and handle, for they are as we make them in our minds; they are ideal figures. We imagine them perfectly smooth, with sharp and fine edges, lines, and corners. We make drawings of them, which agree as closely as possible with the descriptions that identify them, so that we can keep clearly in mind the details of shape; but the drawings are less perfect than the ideal figures they represent. 
+
+These drawings represent particular figures; but those figures are only samples of the millions of figures answering to the same descriptions. The statements we make about one particular figure then are made also about every figure that can be described in the same way as the sample. They are general statements about a whole class of figures.
+
+Of all these statements there are some that we assume to be true. Others that are just as obvious, and others again that are not obvious at all, we prove true if the statements we assume are true. Thus we include a great multitude of statements, some rather intricate, some previously known, and many of very great importance, in one system of exact knowledge, all built upon a few simple foundations.
+
+At first we study only figures that can be laid upon a flat surface, which we call in geometry a plane, and even then we confine ourselves entirely to figures that can be made with circles and straight lines. In this restricted field we learn to appreciate the certainty of geometrical proofs. 
+
+It was by studying plane geometry that men first learned to understand about multiplying fractional numbers; and it is still by
+
+studying such simple figures as triangles and circles, and by approximating to their measurements, that we can learn to understand about the strange numbers called irrational; numbers that can be described in words, and represented by symbols, but never exactly written down.
+
+The Next Thing to Do 
+
+We have already reminded ourselves about some of the simplest details of shape: What do we know about a plane? A circle? 
+
+An angle? How does right-and-left come into our work in Chapter I?
+
+Our next task is area measurement, which is necessarily indirect. 
+
+Everybody knows that the area of a rectangle is the product of length and breadth. People knew that before they could use iron. 
+
+The area of an irregular figure, and especially of a circle, is more difficult; and even for the rectangle we must make sure that the rule holds whether we can or cannot find an exact expression in figures for the length or the breadth.
+
+For this purpose we need to study further the details of shape. 
+
+This chapter and the next will be devoted to this preparatory work. 
+
+Exercises. Informal Construction 
+
+1. Draw two triangles equal in area but not congruent. 
+
+2. Draw two triangles of the same shape but not the same size. 
+
+How do you think their corresponding angles compare? 
+
+3. Draw a triangle with one side 2", another side 3", and the angle included by these sides 40°. 
+
+4. Draw a triangle with one side 3" and the angles next to it 45° and 60° respectively.
+
+A18. A plane is determined by three of its points not in line. A straight line having two of its points in a plane has all of its points. in that plane.
+
+D19. In any plane points that lie all on one side of a given straight line of that plane are said to lie in the same HALF PLANE, of which the given line is the EDGE.
+
+A20. A figure having one point fixed and a straight line through that point fixed, can still be moved until a particular half plane of that figure, having that fixed line as edge, comes to contain a specified point of another figure.
+
+Introductory Exercise 
+
+Draw a triangle ABC with three unequal sides; draw another triangle A'B'C' with a' = a, b' = b, c' = c but with the sides arranged in opposite order; that is, if sides a, b, and c are in clockwise
+
+CONGRUENT TRIANGLES 
+
+11 order, let a', b', and c' be in counter-clockwise order. Cut out the two triangles and try to fit them together without overturning either figure. If unsuccessful, overturn one of them and try again. 
+
+A21. Overturning a plane figure reverses its order of arrangement.
+
+P5. Two triangles are congruent if two sides and the included angle of one are equal respectively to two sides and the included angle of the other.
+
+Plan: Superposition. 
+
+P6. Two triangles are congruent if one side and the angles next to it in one are equal respectively to one side and the angles next to it in the other.
+
+Plan: Superposition. 
+
+Introductory Exercises 
+
+1. With a straight edge and compasses construct a triangle with sides 2", 2", and 3". 
+
+2. Draw a triangle with three 3" sides. 
+
+3. Try to draw a triangle with sides 1", 2", and 31". First begin with the 3" side and show that the arcs will not meet because 
+
+31" is too long. Second begin with the 1" side and show that the circles will not meet because 1" is too short. Notice that one side of a triangle is less than the sum of the other two sides and greater than their difference. (See A22.) 
+
+4. If d is the central distance of two circles, r the radius of the larger circle, and r' the radius of the smaller circle, draw two circles so that: (a) d>r + r'. Do the circles intersect? (b) d =r+r'. Do the circles touch? (c) They are not concentric but one is entirely inside the other. 
+
+Show that d <r-r'. (d) d <r+r', and d> r-r'. In how many points do the circles intersect? 
+
+5. Draw two circles so that their central distance is one side of a triangle and the radii are the other two sides respectively. In how many points do they intersect?
+
+A22. Of lines having the same ends the straight line is the least.
+
+A23. With any point of a plane as a center, and any given distance as a radius, a circle can be described in that plane. 
+
+A24. If two circles in the same plane have their central distance less than the sum of the radii, and greater than their difference, the circles will meet in two points only and those points will be on opposite sides of the line of centers.
+
+P7. Two triangles are congruent if three sides of one are equal respectively to three sides of the other. 
+
+Hypothesis: In tgls ABC and RST, a = r, b = s, c = t. 
+
+Draw a circle with center A and radius c and another circle with center C and radius a. 
+
+These circles will intersect at B. (D7.) 
+
+Slide tgl RST until R falls on A; rotate until ray RT contains point C; overturn if necessary so that B and S lie in the same half plane. 
+
+T will coincide with C
+
+S will lie on circle A (b = s, hyp.) (c = t, hyp.) S will lie on circle C S will coincide with B 8 Tgl RST≈ tgl ABC 
+
+Exercises 
+
+(a = r, hyp.) (A24.) (They coincide throughout.)
+
+Prove the following statements, that is, show that they follow from statements previously accepted or proved. Prove them first informally and then more formally. Do not superpose. 1. Hypothesis: RS and TV intersect at L; RL = LS, LT = LV. Conclusion: Tgl RLV≈ tgl LTS. 
+
+2. In the figure you drew for ex. 1, point out a pair of vertical angles. Which side of tgl LTS corresponds to side RL in tgl RLV? to RV? to 
+
+LV? Which angle of tgl LTS corresponds to angle R? 
+
+3. Hypothesis: AB AF, BC = FC. 
+
+Prove: Tgl ABC≈ tgl AFC. 
+
+4. Hypothesis: Angle AEB Prove: Tgl ABE ≈ CBE. 
+
+CEB, AE EC. 
+
+5. Hypothesis: Angle ABE = EBC; angle
+
+AEB CEB. 
+
+Prove: Tgl ABE≈ CBE. 
+
+6. Hypothesis: Angle ABE 
+
+CBE, AB = BC.
+
+Prove: Tgl ABE ≈ CEB. 
+
+7. Hypothesis: AE CE, AB = BC. 
+
+Prove: Tgl ABE ≈ BCE. 
+
+Using the statement that corresponding parts of congruent figures are equal, prove the following exercises. 
+
+8. Hypothesis: BC and SR intersect at A; AB = AC; AS AR. 
+
+Prove: BS RC. 
+
+9. In fig. 3, Hypothesis: AB AF, BC = FC. Prove B = F.
+
+CONGRUENT TRIANGLES 
+
+13 
+
+10. In fig. 3, Hypothesis: BC = FC, Angle BCA = FCA. Prove AB = AF. 
+
+11. In fig. 4, Hypothesis: Angle AEB = CEB, angle
+
+ABE = CBE. Prove AE = CE. 
+
+12.__In 
+
+12. In fig. 4, Hypothesis: AB = BC, angle ABE =
+
+CBE. Prove A = C. 
+
+13. Hypothesis: AB = AC, BG = CG. 
+
+Give reasons for the following statements: Tgl ABG ≈ 
+
+tgl ACG; tgl ABH≈ tgl ACH; BH = HC; angle 
+
+BHA = CHA; BHA = 90°. 
+
+14. Hypothesis: AB AC, AC' = AB'. 
+
+Give reasons for the following statements: Tgl ABB' tgl ACC'; angle AB'B = AC'C; angle CB'B = CC'B; BC' = B'Č; tgl XBC'≈ tgl XB'C; tgl AB'X ≈ AC'X; AX bisects angle A. 
+
+15. Prove: In an isosceles triangle the angles opposite the equal sides are equal. (Plan: Bisect an angle.) 
+
+16. State and prove the converse of ex. 15.
+
+B' 17. A soldier in a beleaguered town was to report for duty at a certain hour in the night. He woke up, and saw what he thought was a clock face, but it was really a reflection of the clock in a mirror. 
+
+He could see the hands, but could not make out the figures. He said to himself, "Twenty minutes past 9, plenty of time." About what time was it? 
+
+18. Draw a circle with a one-inch radius. Using the same radius, mark off as many equal arcs on the circumference as possible. Connect the points of division, and letter the vertices of the figure formed ABCDEF. This figure is a regular hexagon. Measure its internal angles with a protractor. What is their sum?
+
+Connect the center of the circle with each vertex. Are the central angles formed equal? Why? What is the value of each?
+
+CONSTRUCTIONS 
+
+Make the following constructions with straightedge and compasses, and prove them correct. This does not mean to prove that the figures you draw are ideally perfect, but to prove that if the directions you give could be perfectly carried out the constructions would then be ideally perfect. 
+
+Q1. To bisect a given line segment. 
+
+Q2. To bisect a given angle.
+
+Q3. Through a given point draw a perpendicular to a given line. 
+
+Q4. To construct an angle equal to a given angle. 
+
+Q5. To construct a triangle when three sides are given. 
+
+Q6. To construct a triangle when two sides and the included angle are given.
+
+Q7. To construct a triangle when one side and the angles next to it are given.
+
+CHAPTER III PERPENDICULARS AND PARALLELS 
+
+P8. There cannot be two perpendiculars to one straight line from a given external point. 
+
+Hypothesis: AP PC at P. 
+
+Prove: AC not 1 PC.
+
+Construction: Make PB 
+
+Tgl APC BPC (P5). 
+
+AP, and A, C, X in line. → ACP = BCP (), and AC is in line with CX but not with CB (A3). 
+
+AC is not 1 PC (D12).
+
+Show that each statement below is equivalent to P8 if it refers to plane figures only. (a) Only one perpendicular can be drawn from a given external point to a given line. (b) Perpendiculars to the same line cannot meet. (c) (c) Perpendiculars to the same line are parallel. (d) No triangle can have two right angles.
+
+Contrapositive Statements 
+
+In the proof of P8 we made use of the assumption (A3) that two straight lines meet if at all in one point only. This could be stated in conditional form, as follows: If two lines are both straight, they cannot meet in two points. Now if you look back at your proof you will see that you have two lines, one straight and the other whose straightness is in question, that meet in two points. 
+
+What we need, then, is the following statement: If two lines meet in two points they are not both straight lines. Is this last statement really different, except in wording, from the one before?
+
+Statements that are equivalent as these are equivalent are called 
+
+CONTRAPOSITIVES. The contrapositive of a theorem is merely the statement that the hypothesis cannot be true without the conclusion being true; or, in other words, if the conclusion is not true. 
+
+State the contrapositive for each of the following statements. 
+
+1. If the sun shines, it is day. 
+
+2. If you can pay your poll tax, you have two dollars. 
+
+3. If the book was written by Uncle Charley, it is worth reading.
+
+PERPENDICULARS AND PARALLELS 
+
+15 
+
+Restate in two ways, each beginning with "If." 4. P9. 
+
+Either this watch can be repaired, or it is not made in America. 
+
+Two right triangles are congruent if the hypotenuse and an angle next to it in one are equal respectively to the hypotenuse and an angle next to it in the other.
+
+Plan: Superposition. 
+
+(P8.) 
+
+D25. Two lines are said to be PARALLEL if they are in the same plane and if there is no point in line with both. The figure formed by two parallel lines is called a STRIPE. 
+
+A26. Through a given point not more than one parallel to a given line can be drawn.
+
+Introductory Exercise THE STRIPE THEOREMS 
+
+B/A C/D Of the eight angles in this figure, four are obtuse, namely, B, D, Y, and W. The other four are acute. Name them. Point out pairs of supplementary angles. We shall prove that the acute angles are all equal and that the obtuse angles are all equal. 
+
+It is convenient to have a name for a pair of equal angles at separate vertices.
+
+Y/X Z/W D27. When two straight lines in the same plane are cut by a transversal, any angle at either intersection is said to be ALTERNATE to an angle at the other intersection if both have their right sides on the transversal, or both their left sides. 
+
+P10. If a transversal is perpendicular to one of two parallels it is perpendicular to the other also. (Draw ZB perpendicular to AB.)
+
+Introductory Exercises 
+
+Hypothesis: BF perpendicular to BC,
+
+BC parallel to FG, AC = AG. 
+
+1. How many degrees are there in FBD', FBC, BFG, BFE? Why? 2. Prove tgl ABC tgl. ? ACD. 
+
+3. Prove angle AGF = ACB. 
+
+4. Prove angle AGE' 
+
+5. If BCA 30°, how many degrees E are there in each other angle?
+
+IA D'
+
+6. In this figure point out pairs of alternate angles. 
+
+7. If the ratio of D to C is 3, how many degrees are there in each angle in the figure?
+
+P11. If two parallels are cut by a transversal, alternate angles are equal, and angles not equal are supplementary. 
+
+Plan: Congruent rt. tgls. See Ex. 1-4 above.
+
+U/A P12. If a transversal cuts two straight lines so that the alternate angles are equal, the lines are parallel. 
+
+Plan: Congruent rt. tgls. (P8.)
+
+Exercises 
+
+1. Use the stripe theorems to prove that in the parallelogram
+
+ABCD the angles A and C are equal. 
+
+2. State the contrapositive of P7. 
+
+3. What familiar theorem is this: "A transversal of a right angle is not perpendicular to either side"? 
+
+4. "If a transversal is not perpendicular to one side of a stripe, it is not perpendicular to the other." What is the contrapositive of this theorem? 
+
+5. "A transversal of any angle cannot make equal alternate angles with the sides." Is this theorem true? Can such a transversal make any angles equal? 
+
+6. Show that alternate angles are in the same order, and restate 
+
+D27 more briefly. 
+
+7. If one angle of a parallelogram is X°, what are the other angles? 
+
+What is their sum?
+
+Prove that a parallelogram has all its angles right angles, or none.
+
+AREAS OF POLYGONS 
+
+17 
+
+CHAPTER IV AREAS OF POLYGONS 
+
+All measurements of plane areas depend primarily on the way we measure rectangles and triangles. We begin with the triangles of a parallelogram.
+
+Introductory Exercises 
+
+1. If XYZW is any quadrilateral, and its diagonals intersect at Q, name eight different triangles contained in the figure. 
+
+2. In the parallelogram ABCD the diagonal AC is a transversal of the stripe AB || CD. So what two angles are equal? 
+
+3. AC is also a transversal of the stripe AD || BC. So what two triangles are congruent? (P6) 
+
+4. If the diagonal BD cuts AC at X, the opposite triangles ABX and CDX have one side equal as in ex. 3, and two angles equal as in ex. 2. Why is ABX CDX? 
+
+5. In the triangles ABX and CDX are the equal angles in the same order, or in reverse order? 
+
+6. Complete the following sentence: Of the eight triangles deter mined by the sides and diagonals of a parallelogram, each is with another, in order.
+
+THE PARALLELOGRAM THEOREMS 
+
+P13. In every parallelogram the opposite sides are equal and the diagonals bisect each other. 
+
+What we really prove in this theorem is that every one of the eight triangles of the parallelogram is congruent to another in the same order. Prove by P11 and P6.
+
+P14. In any quadrilateral, if the opposite sides are equal, or if two sides are equal and parallel, or if the diagonals bisect each other, the figure is a parallelogram. 
+
+Of the three different hypotheses of this theorem, any one is sufficient to prove two of the triangles congruent in the same order by P7 or P5; and then the figure is a parallelogram by P12. 
+
+QUADRILATERALS 
+
+Rectangle
+
+Rhomboid Rhombus
+
+Kite 
+
+Trapezoid
+
+1. If two triangles of a quadrilateral are congruent in reverse order and have only one vertex in common, what kind of a quadrilateral is it? 
+
+2. If two triangles of a quadrilateral are congruent in reverse order and have two vertices in common, what kind of a quadrilateral is it? 
+
+3. Does a quadrilateral have to be a parallelogram if two sides are parallel and the other two sides are equal? 
+
+4. Answer the same question if two sides are parallel and one diagonal bisects the other. 
+
+5. Answer the same question if two opposite sides are equal and one diagonal bisects the other. 6.
+
+Answer the same question if two sides are parallel and two opposite angles are equal.
+
+P15. The area of a rectangle is the product of its base and altitude. 
+
+On BC, from B, mark off a unit of length as many times as possible without passing 
+
+C, then mark off one more unit and call the last mark Y. Upon each unit construct a square (unit of area). Let y BY, b BC, and 
+
+b' = the number of units of area in strip BC. 2 y 3 2 
+
+1 and y are approximations to b (construction). y-1 and y are approximations to b' (the number of units in strip BB lies between y 1 and y). b' because 
+
+They have the same converging approximations (by using successively smaller subdivisions of the unit, the margin of error for b and for b' can be made .1, .01, .001, ..., that is, it can be made less than any number chosen in advance). Pl.
+
+The number of strips in the rectangle is a (by similar proof). 
+
+Sab (There are a strips of b units each.) 
+
+Introductory Exercises 
+
+1. Prove that the perpendicular distance across a stripe is everywhere the same. 
+
+2. If AX and BY are two opposite sides of a rectangle, and AD and BC are two opposite sides of a rhomboid, and X, D, Y, C are in line, prove triangle AXD BYC. 
+
+3. Draw a parallelogram inscribed in two stripes; and a triangle in three. (See D36.)
+
+X D Y C
+
+AREAS OF POLYGONS 
+
+19 P16. The area of a rhomboid is the product of either base by the altitude on it.
+
+P17. The area of a triangle is half the product of any base and the altitude on it.
+
+P18. The area of a trapezoid is half the product of the altitude and the sum of the bases. 
+
+RATIO 
+
+The ratio of 12 to 3 is 4; the ratio of 3 to 12 is. In either illustration the RATIO is the multiplier by which the first quantity is obtained from the second.
+
+In using ratios it is most convenient to think of them as multipliers. However, in finding ratios we divide; hence the ratio of two quantities has sometimes been defined as the quotient of the first divided by the second.
+
+The word quantity in these definitions can refer to a number or to anything which can be measured so as to give a measurement number; only the two quantities compared must be capable of being measured by the same unit.
+
+Exercises 
+
+1. Show that two triangles having the same altitude have the same ratio as their bases. (If b′ = mb, S' ap'/2 = amb/2 = m S.) 
+
+2. Show that two triangles having the same bases have the same ratio as their altitudes. 
+
+3. Two triangles inscribed in a stripe 7″ in breadth have bases (in line) of 3" and 9" respectively. One triangle is how many times the other? 
+
+4. The perimeter of a rhomboid is 162 ft., the area 1,320 sq. ft., and one altitude 24 ft. Find the sides. 
+
+5. A triangle 84 sq. ft. in area has sides 17 ft., 21 ft., 10 ft. Find the longest altitude, and the shortest. 
+
+6. The longer altitude of a parallelogram is 7 ft. longer than one side and 1 ft. less than the other; the area is 408 sq. ft. Perimeter? 
+
+7. In a trapezoid the bases differ by 3 ft. and the shorter base is 
+
+4 times the altitude; the area is 153 sq. ft. Altitude? 
+
+8. The area of a triangle is 458 sq. ft., and the altitudes are 18.16 ft., 24 ft., and 11.45 ft. What are the sides? 
+
+9. If the two diagonals of any quadrilateral divide it into four triangles equal in area, the figure is a parallelogram. 
+
+CONSTRUCTIONS 
+
+Q8. Through a given point to draw a parallel to a given straight line. 
+
+Q9. To divide a given line-segment into a given number of equal parts.
+
+CHAPTER V SIMILARITY AND THE COSINE 
+
+P19. In every triangle the sum of the angles is 180°; or, the sum of two angles is equal to the exterior angle at the third vertex. 
+
+Plan: Draw through one vertex a line parallel to the opposite side. 
+
+P20. In every polygon of n sides the sum of the angles is (n-2) 180°. 
+
+Exercises 
+
+1. An angle of an equilateral triangle is 60°. 
+
+2. Each angle of an equiangular polygon is (n — 2) (180°)/n. 
+
+3. The sum of the exterior angles of any convex polygon is 360°. 
+
+4. Write a formula for the number of degrees in an exterior angle of an equiangular polygon. 
+
+5. Find the sum of the angles of a polygon of 7 sides; of 8 sides; 
+
+10 sides; 12 sides. 
+
+6. If the sum of the angles of a polygon is 720°, n = ? 
+
+7. If one angle of an equiangular polygon is 108°, n = ? 
+
+8. Find one interior and one exterior angle of an equiangular hexagon; of an equiangular polygon of 10 sides. 
+
+THE FIRST TEST OF SIMILARITY 
+
+D28. Two triangles are SIMILAR if the ratio of every pair of corresponding sides is the same. This ratio is called the RATIO OF 
+
+SIMILARITY. 
+
+Exercises 
+
+Select pairs of similar triangles below and give the ratio of similarity: α b C 123 1. 10 S t 18 24 30 2. 20 28 35 
+
+3. 400 450 500 8 9 10 4. The ratio of similarity of two triangles is 15; the sides of the smaller triangle are 10, 12, and 15; find the sides of the larger triangle.
+
+SIMILARITY AND THE COSINE 
+
+21 ​5. The ratio of similarity of two triangles is .25; the sides of the larger triangle are 8, 10, and 12; find the sides of the smaller triangle. 
+
+6. The sides of a triangle are 12", 15", 20"; what would be the ratio of similarity for a similar triangle if its longest side was 30"? 
+
+If its shortest side was 30"?
+
+Proportion 
+
+An equation between two ratios is called a PROPORTION, if it is stated in terms of the four quantities whose ratios are in question. 
+
+In old times these proportions were solved verbally; and some of this antiquated algebra still survives and has given us a few mathematical phrases. Thus the words "x and p are proportional to y and z" were used to express the fact that we state by the two equations x my and p = mz when we do not say what number m stands for. In the form of a "proportion" this would be y/xz/p or x/y = p/z; the four quantities in the proportion being called its TERMS. The terms that begin and end the proportion are called the EXTREMES; those in between the MEANS. Again, the last term would be called a FOURTH PROPORTIONAL to the other three in their order. In the proportion a/p = p/b, p is a MEAN PROPORTIONAL between a and b, and b is called a THIRD PROPORTIONAL to a and p. 
+
+In this last proportion p² = ab suggests a square equal to a rectangle, and thus indicates why the mean proportional is also called a 
+
+GEOMETRIC MEAN. 
+
+Introductory Exercises 
+
+1. Triangles ACF and BGH are inscribed in the stripe AB parallel to CH with F and G on line CH; CF = GH. Prove the triangles equal. Are they necessarily congruent? 
+
+2. In tgl ABC, RT is parallel to AC. Give reasons for the following statements: 
+
+1 Tgls RTA and RTC have the same base and altitude. 2 → If BA is three times BR, tgl BAT is three times tgl BRT. 3 Tgl RTA = tgl RTC. 4 Tgl BTA = tgl BRC. Tgl BAT/BRT = tgl BCR / BTR. 
+
+Notice that this means that the ratios of the measurement numbers of these triangles are equal.
+
+Tgl BAT/BRT BA/BR. 
+
+3. Point out 12 triangles in this figure.
+
+1. If the ratio of similarity of triangles RST and ABC is 3, and if a = 4, b 
+
+6, find r, s, and t. 5, c 
+
+2. In the same diagram, if a = 15, c = 20, b = 
+
+18, and r = 35, find m in the equation r = ma. Show that m is the ratio of similarity. Find s and t.
+
+P21. Two triangles are similar if two angles of one are equal respectively to two angles of the other. 
+
+Proof as indicated in ex. 2 on page 21.
+
+Exercises 
+
+1. In a right triangle, draw an altitude on the hypotenuse and prove that the three triangles are similar.
+
+Practice solving proportions (including some binomial denominators) and apply them to similar triangles. 
+
+2. 4.12x/3.27 = 1.42/5.63. Ans. .200.
+
+THE COSINE Introductory Exercises 
+
+1. In right triangles ABC and RST, if acute angle A = R, are the triangles similar? How do you know? If c = 6, b = 3, and t = 2, find s. 
+
+In each triangle, the hypotenuse times? = the other side of the angle A or R. This multiplier is called the COSINE of the acute angle A, or of the acute angle R. Since c d, cosA=; since t(1) = s, cosR 12. 
+
+2. Draw an isosceles right triangle with sides 1', 1', and √2′, and show that cos45° = 1/√2 = √2/2 = .707. 
+
+3. Draw a 30° right triangle with sides 1', 2′, and √3′, and show that cos30° √3/2 .866, and cos60° = 0.5. 
+
+Exercises: Tables of Cosines 
+
+With the help of a table of cosines, supply the numbers missing in the right triangles below. 
+
+1. C = 28.1, A = 57°, 108, A 
+
+2. b =
+
+Exercises b = 
+
+37°, c =
+
+B = B = a = α = Using diagram for P22 on next page, supply what is missing in the following statements: 
+
+1. a = ccoS 
+
+3. x = ..? cos A. 2. b = ccos ? 4. cos B. Etc.
+
+SIMILARITY AND THE COSINE 
+
+23 P22. In every right triangle the square of the hypotenuse is the sum of the squares of the other two sides.
+
+Proof I 
+
+In right triangles ACN and ACB α = ccosB, and acosB = y. a²cosB b2cx. (By similar proof.) cycosB or a² = cy 1 × 2. 1 3 a² + b² = c(x + y) = c² 3 + 4. 
+
+Proof II 
+
+(a + b)² =a2+2ab+b². . 
+
+Exercises 
+
+1. Prove: Either leg of a right triangle is a mean proportional between the hypotenuse and its own projection thereon. દર 2. Prove: The shortest altitude is a mean proportional between the projections of the legs on the hypotenuse. 
+
+Applications: 30° right triangle; 60°; 45°; 3, 4, 5; 6, 8, 10; 
+
+5, 12, 13; areas; approximation; etc.
+
+THE LAW OF COSINES 
+
+Theorem P24, which we are preparing to prove, is called the Law of Cosines. It is useful in computing lengths and angles, in any triangles, by indirect measurement; it includes the converse of 
+
+P22. The complete proof of the law of cosines requires the use of negative lines and the cosine of an obtuse angle. The following paragraphs will clarify these two ideas:
+
+D29. The PROJECTION of a point on a straight line is the foot of the perpendicular from the point to the line. The PROJECTION OF ONE 
+
+STRAIGHT LINE on another is the line that connects the projections of the end points.
+
+Exercises 
+
+1. What is the projection of point Z on line z? Of X on x? Of Y on y? 
+
+2. What is the projection of line x on line z? Of x on y? Of y on x? Of y on z? Of z on x? Öf z on y? 3. 
+
+Define the cosine of an acute angle. 
+
+Show that your definition does not apply to an obtuse angle.
+
+D30. The COSINE of any angle is the number by x which we multiply the length of any distance on one side of an angle to get the length of its projection on the other side. The POSITIVE DIREC- 
+
+TION on either side of an angle is from the vertex. 
+
+Exercises 
+
+1. Answer the questions of exercise 2, above, for this diagram. Which projections are negative? Why? 
+
+2. Are the projections of exercise 2, above, positive or negative? Why?
+
+We must bear in mind that when the direction of lines is important, the notations AB and BA denote OPPOSITE DIRECTIONS 
+
+and AB - BA, or BA - AB. 
+
+Exercises 
+
+1. 
+
+Draw angle ACB = 135°. Find its cosine. Why is it negative? 
+
+2. Find cos 120°; cos 150°.
+
+P23. The cosine of an obtuse angle is the same in value as the cosine of its supplement, but is negative in sign. 
+
+Hypothesis: TAB is an obtuse angle, and TAS its supplement.
+
+Prove: cosTAB 
+
+COSTAS. 
+
+1 AT, AS, AB are in positive directions 
+
+TAS and for TAB; AC is positive for CAB, which for for TAB. (D30.) 
+
+TAS, but negative 2 If b is the length number of AC, without regard to sign, ccosACB - cosCAB. 
+
+Exercises 
+
++b; and acos TAB (1); then COSTAB 1. With the help of tables of cosines, find cos 13°, cos 113°, cos 40°, cos 20°, cos 160°, etc.
+
+Graph of Cosines 
+
+P24. In every triangle ABC, a² = b² + c² 2bc cos A.
+
+A 4 6-x
+
+SIMILARITY AND THE COSINE 
+
+25 (බමට a² = h² + (b x)² = h² + b² 2bx + x². 
+
+c² and x = ccos A. a² h² + x² b² + c² - - 2bc cos A 
+
+2 substituted in 1.
+
+II 
+
+(1) a² = h² + (b + x)² = h² + b² + 2bx + x². h² + x² = c² and x = 
+
+The Use of the Cosine ccos A.
+
+It is important to notice that if the cosine is known for any angle of a triangle, the angle is completely determined. 
+
+The law of cosines evidently includes this theorem: "In every triangle the square of a side opposite an oblique angle is not the sum of the squares of the other two sides." The contrapositive of this theorem is the converse of P22; think it over. 
+
+THE HYPOTENUSE THEOREMS 
+
+Theorem P22, with the theorems in the two exercises immediately following it, and P24, which includes the converse of P22, constitute a group of theorems that should be remembered together. 
+
+Exercises 
+
+1. Of the three altitudes drawn from the vertices of a triangle, can we have one inside and two outside? One outside and two inside? 37", b 
+
+2. In a triangle ABC, if a = 37", b = 108", c = 125", what is the value of 2accosB? If a = 108", c 125"? 
+
+3. Find angle B to tenths of a degree in each case of the preceding example. 
+
+4. Write a formula for cosA in any triangle ABC, the lengths of the sides being given. How can you decide whether angle A is acute or obtuse? 5. 
+
+In each of the following triangles, tell which of the angles is obtuse, if any: 
+
+13, 14, 15; 11, 13, 20; 17, 25, 28; 25, 51, 52; 25, 52, 63. 
+
+6. In the triangle 9", 20", 13", the line joining the middle of one base to the opposite vertex is 5" long. Squaring this line and half the base, we find the sum of the squares exceeds the square of one side by 44 and falls short of the square of the other by the same amount. 
+
+Why is that? 
+
+7. In a triangle ABC, Y is the mid-point of AC; BY = 31", BA= 29", AC 24". Find the length of BC.
+
+CHAPTER VI SIMILAR TRIANGLES AND THE SINE 
+
+R, B T. 
+
+P25. If two triangles are similar their corresponding angles are equal. 
+
+Hypothesis: a = mr, b = ms, c = mt; Prove: A
+
+S, C 1 a² = b² + c² 2bc cosA, or cosA = (b² + c²-a2)/2bc. (P24.) cosA = (m²s² + m²ť² — m²r2)/2m²st. (Subst. hyp. in 1.) cosA (s² + t2r2)/2st = cosR; hence A R, etc.
+
+3 
+
+P26. If an angle of one triangle is equal to an angle of another, and the sides including those angles are proportional, the triangles are similar. 
+
+Hypothesis: A R, b = ms, c = mt; Prove: Tgl ABC RST. 
+
+1 a² = b² + c². 
+
+2bc cosA. 2 a² = m²s² + m²t2-2m²st cosA. (From and Hyp.
+
+) 3 p² = s² + t² — 2st cosR. 
+
+4 a² = m²r2 or a = mr.
+
+Exercises 
+
+(P24.) (From and 3, since cosA cosR.) 
+
+Similar triangles. Solution of fractional equations. 
+
+Introductory Exercises. (Proportional Division. m.) 
+
+In tgl ABC, ST || BC: 
+
+1. Prove tgl AST tgl ABC. 2. If ratio of similarity, m, is equal to 3, and if 
+
+2.5, find a, b, c, x, and y. 
+
+2, s = 3, r = 
+
+3. Does x = c t? Does y = b - s?
+
+Does x = mt? Does y ms? What is the ratio of x to y? 
+
+Is this the same as the ratio of t to s? 
+
+Prove that if x = m't, then y = m's. 4.
+
+Plan: x = c t = mt t: 
+
+y b s = ms 
+
+When we say that ST divides AB and BC proportionally we mean not only that if c = mt then B b = ms, but also that if x = m't then y m's. If
+
+either statement is true then the other is true. In the second statement we say that AB and AC are divided into proportional segments.
+
+SIMILAR TRIANGLES AND THE SINE 
+
+27 
+
+CONSTRUCTIONS 
+
+Q10. To divide a line segment into parts proportional to given line segments.
+
+Q11. To construct a fourth proportional to three given line-segments. 
+
+Exercises 
+
+1. A line parallel to one side of a triangle and cutting the other sides divides those other sides proportionally.
+
+A line parallel to one side of a triangle and bisecting another side bisects the third side also.
+
+D31. The SINE OF ANY ANGLE is the number by which we multiply the length of one side of the angle to get its projection on a line perpendicular to the other side. Along the perpendicular the 
+
+POSITIVE DIRECTION (in positive angles) is from the foot of the perpendicular inward.
+
+Exercises Tables of sines. Solution of right triangles. Reading 
+
+α = sinA, etc.
+
+P27. The sine of an obtuse angle is the same as the sine of its supplement.
+
+Plan of Proof: As in P23. 
+
+Exercises 
+
+1. Without tables find sin 120°, sin 135°, sin 150°. 
+
+2. With the help of tables find sin 115°, sin 176°. 
+
+3. If sinA = .5, and A is an angle of a triangle, what are the two possible values of A? 
+
+4. Show that while an angle of a triangle is determined by its cosine it is not determined by its sine. 
+
+Graph of Sines 
+
+The area, K, of any triangle is given by the formula K = P28. 1 K = hb. 
+
+K = ab sinC. 
+
+2 h = a sinC. 
+
+2 subst. in 1 ab sinC.
+
+What is the area of a triangle formed in a circle by two radii and the chord of 40°?
+
+P29. Two similar triangles have for ratio of areas the square of the ratio of similarity.
+
+Hypothesis: In tgls ABC and RST, r = ma, etc. Prove: K = m²K'. 1 2 
+
+Kab sinC.
+
+K'rs sinT = m²ab sinT. 
+
+SinC sinT. 
+
+4 K = 
+
+Exercises 
+
+m²K'. (From 2 and 3.) 
+
+1. Given a triangle with sides 5 ft., 7 ft., and 8 ft. What is the perimeter of a similar triangle having 44 % greater area? 
+
+2. In triangle XYZ the angle Y is 77.3°, x = 39 in., y = 41 in. 
+
+Find the area to 3 figures. 
+
+3. In triangle PQR the area = 2160 sq. ft., p = 65 ft., r61 ft. 
+
+Find sinQ, and the altitude from R. 
+
+4. In triangle ABC the longest altitude is 15", and a = 17", b = 12", c = 25". Find the sine of each angle by P28, and thus find each angle to tenths of a degree. Remember P19. 
+
+5. The area of a triangle is 12√10 sq. in., and its sides are 7", 11", 12"; what is the area of a similar triangle whose perimeter is 20"? 
+
+6. Two lines meeting at X are transversals of the angle A, and thus determine two similar triangles ABC and AZY; prove that they are in reverse order, and that the figure contains two other triangles similar to each other in reverse order. 
+
+7. In the diagram of ex. 6, prove that the common vertex angle of either pair of similar triangles is equal to the difference between the base angles of either of the other two triangles. 
+
+8. From the triangle ABC a triangle AZY is cut off, so that 
+
+AZ AB/3, AY = AC/3; BY and CZ intersect at K. What fraction of BC is ZY? What fraction of BY is BK? 
+
+9. In ex. 7, change AB/3 and-AC/3 to AB/n and AC/n, respectively; what are your answers now? 
+
+10. From the triangle ABC a triangle AZY is cut off, so that 
+
+BZ BA/3, CY CA/3; BY and CZ intersect at K. What fraction of BC is ZY? What fraction of BY is BK? 
+
+11. In ex. 9, change BA/3 and CA/3 to BA/n and CA/n, respectively; what are your answers now? 
+
+12. Of two pulleys connected by an uncrossed belt, one revolves 
+
+8 times as fast as the other. A radius is marked on each pulley, in line with the centers, r on the larger and r' on the smaller, while the pulleys are still. What angle does r' make with the line of centers when r has moved through 50°? What if the belt were crossed?
+
+SIMILAR FIGURES IN GENERAL 
+
+29 
+
+Exercises CHAPTER VII SIMILAR FIGURES IN GENERAL 
+
+1. In a map of the airways of the United States, distances between the four cities, Pittsburgh (P), Toledo (T), Fort Worth (F), and 
+
+Columbus, Ohio (C), would be about as follows: PT 200 miles, TF 88, FC 136, CT 120, CP 168, PF 272.
+
+Τ' On a map drawn to the scale of 80 miles to the inch, PT would bę 2.5 inches long. On another map, scale 128 miles to the inch, the letters would be P', T', F', C'; and T'P' would be 11/16 inch.
+
+Find the other distances on the two maps. 
+
+2. What multiplier would have to be used to get TF from T'F'?
+
+PT from P'T'? Answer this question for the rest of the six distances on the two maps. 
+
+3. These four cities make four triangles. Name the four in each map, pick out pairs of similar triangles and tell why they are similar. 
+
+Are the two triangles of every similar pair in the same order, or in reverse order?
+
+4. The airline distance from Columbus to Boston, or to Jacksonville, Florida, is about 640 miles. How long would the lines CB and 
+
+CJ be? C'B' and C'J'? 
+
+5. Two radio experts discover that an illegal broadcasting station is located 90 miles from Toledo and 150 miles from Columbus. 
+
+Are you able from these data to mark this location on our two maps? Take the precaution to look at some map of the United States. 
+
+6. One of these maps is on a smaller scale than the other. Which one?
+
+D32. If for any two given figures there is some way of deciding what point in one figure belongs with any particular point in the other figure, the two points are said to CORRESPOND. CORRE- 
+
+SPONDING DISTANCES join corresponding points. 
+
+D33. Two plane figures (or two solids) are SIMILAR if the ratio of every pair of corresponding distances is the same. (See P32.) 
+
+Order in Similar Figures 
+
+Two polygons may be composed of triangles similar, respectively, and in the same order of succession, and yet the polygons may be dissimilar (Ex. 5 above). It is necessary also that the component triangles in one polygon be each in the same order as its corresponding triangle in the other polygon; or if the succession of triangles is in reverse order in the two polygons, each triangle in one must also be itself in reverse order to its corresponding triangle in the other polygon. It is important that our definition should suffice to make these rather complicated conditions necessarily satisfied. 
+
+The purpose of P30 is to show that it does.
+
+P30. In any two similar plane figures corresponding triangles are all in the same order, or all in reverse order.
+
+Hypothesis: A, B, C, D are any four points in one plane figure, no three of them in line; and X, Y, Z, W are the corresponding points, respectively, in a similar figure. Prove: Tgls ABC and BCD are both in the same order with XYZ and YZW, respectively, or both in reverse order.
+
+SIMILAR FIGURES IN GENERAL 
+
+31 
+
+1 Angle ACB 
+
+(D28, P25.) (3) angle XZY and angle BCD = angle YZW.
+
+If ABC and XYZ are in reverse order, overturn one figure (A20); after that these tgls are in the same order. (A21.) 
+
+Angle ACD = angle XZW. (Same reason as 1.)
+
+If CD is outside angle ACB then ZW is outside angle XZY. 
+
+(From 1 and 3.) 
+
+Therefore BCD and YZW are in the same order; and would be in reverse order if ABC and XYZ were. 
+
+RATIOS OF AREAS AND PERIMETERS Introductory Exercises 
+
+1. Two right triangles have sides 3", 4", 5" and 9", 12", 15″, respectively. Are they similar? Give a reason for your answer.
+
+What is their ratio of similarity, if they are similar? the ratio of their perimeters? of their areas? 
+
+2. Draw a triangle; connect the midpoints of its sides. Consider the original triangle and any one of the resulting small triangles: are they similar? are they in the same order? what is the ratio of similarity in each case? the ratio of their areas? 
+
+3. Two similar rhomboids have a ratio of similarity 3; the smaller has one side 24 ft., perimeter 148 ft., shorter altitude 7.2 ft. What are the areas of these two rhomboids? What is their ratio of areas? 
+
+4. A triangle has sides 10", 17", 21", and its shortest altitude is 8".
+
+What do these numbers become in a similar triangle whose shortest side is 210"? In one whose longest side is 210'? What is the ratio of the perimeters of these last two triangles? Of their areas? 
+
+5. A trapezoid with two right angles in it has bases 9" and 14″, and altitude one foot. A similar trapezoid has its longer base 21". 
+
+What are their perimeters, and their areas? What would be the altitude of a similar trapezoid with area = 69"?
+
+P31. Two similar polygons have for ratio of perimeters the ratio of similarity, and for ratio of areas its square. 
+
+Plan: Draw all possible diagonals from one vertex in one polygon, and from the corresponding vertex in the other. Then refer to D28, D33, P29. Add the sides (or areas) taking out m (or m²) as a factor. 
+
+Introductory Exercise 
+
+If in two quadrilaterals ABCD and A'B'C'D' we have given tgl ABC A'B'C', and ABD~ A'B'D', then ACD!~ A'C'D' and 
+
+BCD B'C'D'; and if ACD~ A'C'D' and ACB A'C'B', then
+
+A'B'D' and CBD ~ C'B'D'. 
+
+ABD
+
+P32. If any two polygons have their angles respectively equal in succession, and their corresponding sides proportional, the polygons are similar.
+
+Hypothesis: A, B, C, D are any four consecutive vertices of the first pgn, A', B', C', D' the corresponding vertices of the second. 
+
+In tgls ABC and A'B'C', a' ma', c'mc', and angle B = B'; etc. Corresponding angles in the same order.
+
+Prove: Pgn ABC .. ~ A'B'C' 
+
+1 Every tgl formed by three consecutive vertices of the first pgn is ~ the corresponding tgl in the second pgn. (P26.) 
+
+2 Let X be any point in the plane of the first pgn, and X' a point in the plane of the second pgn, such that tgl X'A'B' ~ XAB, in the same order. 3 X and X' determine sides; because,- 
+
+angle X'B'C' 
+
+tgls with every pair of corresponding XBC (difference of angles). tgl X'B'C' XBC. (P26.) tgl X'C'D'~ XCD (for similar reasons); and so on.
+
+If Y and Y' are any other two points in the planes of the first and second polygons, respectively, such that tgl Y'A'B' ~YAB, then 
+
+X'Y' = m(XY); because,- (10) tgl Y'X'A'~ YXA (as before). 9 Y'A' = m(YA) (©), and X'Y' = m(XY) (®). 
+
+The pgns are similar figures. (D33).
+
+Exercise 
+
+Read D38 and then prove: Two regular polygons of the same number of sides are similar.
+
+CHAPTER VIII MEASURING THE CIRCLE 
+
+The only way we can measure the perimeter or the area of a figure with a boundary partly or wholly curved is to approximate by means of inscribed or circumscribed polygons. For that reason we must make clear to ourselves just what we mean by inscribed and circumscribed, and why we consider these polygons greater or less in perimeter than the curved figures they are supposed to help us measure.
+
+D34. A closed plane boundary is CONVEX if, whatever two points are taken on it, no point in line between them is outside of the boundary.
+
+A35. Of two plane boundaries, both convex, if one is entirely enclosed by the other, or partly is enclosed by it and otherwise coincides with it, the outer boundary is the greater. 
+
+D36. A plane polygon is said to be CIRCUMSCRIBED on a plane figure if every side of the polygon contains at least one point of the figure, and no points within; or to be 
+
+INSCRIBED in a plane figure if every vertex of the polygon is in the boundary of the figure. The figure is then said to be inscribed in the circumscribed polygon, or circumscribed on the inscribed polygon. 
+
+D37. A TANGENT to a circle is a straight line in its plane, meeting the circumference in one point only.
+
+P33. The straight line in the plane of a circle and perpendicular to a radius at its point on the circumference is the only tangent at that point. 
+
+Part I. 1 QN, any other line. from Q to endless line TX, is greater than QT. (P22.) 2 
+
+Part II. TW, any other line. through T, is not tangent to circle Q; because,- N X (3) TW is not perpendicular to QT. (A13.) 
+
+Draw QP perpendicular to TW and lay off PT' 5 QT' QT. (P22.) T' is on ccf. (D7.) PT. D37.
+
+Prove: 
+
+1. A radius perpendicular to a chord bisects the chord and its arc: and converses. 
+
+2. Equal chords are equally distant from the center, and of unequal chords, etc. 
+
+P34. The angle between a tangent and a chord is equal to the central angle intercepting half the same arc. Hypothesis: In a circle with center Q, TC is a chord, P'TP a tangent at T, angle PTC acute; 
+
+Z is midpoint of minor arc TC, Z' midpoint of major arc TC.
+
+Prove: Angle PTC = TQZ, P'TC = TQZ'. 
+
+1 1 Diameter ZQ meets TC as at X, TP as at P, and major arc TC at Z'. (Supplementary arcs and angles.) 3 
+
+Tgl TQXQXC (P5); QX 1 TC (D12). 
+
+Angle PTC TQZ. (Complementary angles.) 
+
+P'TC = 180° PTC = 180° — TQZ 
+
+Exercises 
+
+TQZ. TP 'Z 
+
+1. If arc TZ'C, above, 300°, find the number of degrees in each of the other arcs and angles. 
+
+2. If arc TZC 60° and QT 10 in., find the other arcs, angles and lines QX, XZ, XZ, XT, QP, TP. 
+
+3. If arc TZC 50° and QT 20.5 in., find the arcs, angles and lines as before. Work to three-figure accuracy. 
+
+4. Prove: The angle between a tangent and a chord equals (in degrees) half the intercepted arc.
+
+P35. An inscribed angle is equal to the central angle standing on half the same arc.
+
+Plan: The isc angle is the difference of the two angles formed by its sides with one tangent ray.
+
+Exercises 1-5. Numerical. 
+
+6. Prove: An angle formed by two tangents that meet is the supplement of the central angle on the same arc. 
+
+7. Find and state relation between the number of degrees in an angle and in the intercepted arcs when two lines which cut a circle intersect (a) within the circle; (b) on the circumference; (c) without the circle. 
+
+8. Prove: If two tangents to the same circle intersect they are equal; and they make equal angles with the line from their intersection to the center of the circle. (Note that length of tangent means here length of distance from intersection to contact.) 
+
+9. Chords of equal arcs are equal, and converse.
+
+REGULAR POLYGONS 
+
+The definitions, assumptions and theorems of the course in plane geometry begin with the measurement of distances and lead in an almost direct line of argument to their culmination in the measurement of the circle. For this purpose we are to use regular inscribed and circumscribed polygons.
+
+Here, as usual, we study polygons by separating them into triangles; this time central triangles, that is, triangles each formed by one side and the radii to its ends. One half the central angle is used in several of the formulas now to be derived; for convenience we shall generally refer to this angle as 0. 
+
+D38. A POLYGON is called REGULAR if all its angles are equal and all its sides are equal.
+
+Exercises 
+
+1. Show that for any regular polygon of n sides is 180°/n. 2. 
+
+Find the number of degrees in each exterior angle, each interior angle and each central angle of a regular inscribed triangle, and of regular polygons of 4, 5, 6, 7 sides; of n sides.
+
+Introductory Exercises 
+
+AB is a chord of a circle with center Q and radius r; tangents 
+
+AX and BX meet at X; angle AQX is 0.
+
+Prove tgl AQX = BQX. 
+
+Find a formula for the length of AB in terms of r and 0.
+
+1. 2. 3. If Q 4. 
+
+72° and r = 100 ft., how long is AB? AX? 
+
+If Q 40° and r = 100 ft., how long is QX? QM? 
+
+5. Find a formula for the length of QX in terms of r and 8. 
+
+Numbers 6-11 following refer to two regular octagons, four consecutive vertices of one being V, A, B, C, and four of the other 
+
+W, X, Y, Z. 
+
+6. How many degrees in the angles VAB, ABC, WXY, XYZ, respectively? 
+
+7. If diagonals VB and WY are drawn, how many degrees in angles VBA, BVA, WYX, YWX, respectively? 
+
+8. If VA is 40 mm. long and WX is 52 mm. long, what is the ratio of WX to VA? 
+
+9. Why are tgls VAB and WXY similar? What is their ratio of similarity? 10. 
+
+When VB is 74 mm. long, how long is WY? 
+
+11. Why are the tgls VBC and WYZ similar? If the length of
+
+VC is represented by b, and WZ by y, give an equation involving b and y.
+
+1. How many diagonals can be drawn from one vertex in a regular octagon? Among these, how many different lengths are there?
+
+How many can be drawn in a regular polygon of 12 sides? of 15 sides? of 20 sides? In each case, how many different lengths? 
+
+2. In a regular polygon of 2n sides, how many different lengths for all possible diagonals? In a regular polygon of 2n + 1 sides?
+
+P36. If a circle is divided into equal arcs, the chords of these arcs and the tangents at their ends form similar regular polygons of which the ratio of similarity is cos 0. (I) QX bisects angle AQB and bisects AB at rt. angles because,— 1 QA LAX, QB 1 BX. (P33.) 2 
+
+AX BX. (P22.) 
+
+tgl QAX QBX. (P7.) tgl QAM QBM. (P5.) QM AB. (D12.) (II) The pgns are equilateral and equiangular;
+
+because,- -K 7 XY (P6); let QX = q. 2rsin 0 = BC (D31.) 180° - 20 (P19); angle Rt tgls AQX BQY CQZ 
+
+2qsin 0 = YZ . . .; AB = 90° or XYZ 
+
+ABQ 90° 0, or ABC = 180°-2 0. 
+
+angle XYQ 
+
+(III) The polygons are similar (P32), 2rsin 0 = 
+
+Exercise m(2qsin 0) then r qm, but r = (P19.) and if AB = m(XY) or qcos 0, so m = cos 0. 
+
+Every side of a regular circumscribed polygon is bisected at the point of contact.
+
+AREA AND CIRCUMFERENCE Introductory Exercises 
+
+1. If an equilateral triangle is circumscribed about a circle and another is inscribed in the circle, as in P36, show that the difference (E) of the triangles is equal to the sum of three triangles. Show that 
+
+E is greater than E', the difference between the circumscribed and inscribed regular hexagons. 
+
+2. Show that the difference between two octagons, one inscribed in and one circumscribed on a circle, is less than the difference between two squares similarly related to the same circle.
+
+P37. If a series of regular polygons be inscribed in or circumscribed about a circle, each having half as many sides as the succeeding one, their areas are converging approximations to the area of the circle. 
+
+Let P and Q be the areas of a pair of corresponding regular polygons, isc and crc, respectively, as in P36, and let S be the area of the circle, then S lies between P 
+
+and Q, and Q-P = E. (D1.) The crc pgn is isc in another circle, radius OT զ r/cose. (P36.) All tgls like 
+
+ABT are because all chords like AB are equal (D38), and all tangents like qsin 0. Refer to P7. Then
+
+E/n. AT ABT If P' and Q' are the areas of the isc and crc pgns of 2n sides, and E' Q'P', then tgl PVB E'/2n, by similar proof. Draw
+
+VW AB as at W; then tgl PVB = one half PV × VW E'/2n, and E'/nrgl PVWC, which is less than half tgl ATB; then 
+
+E'/n half E/n or E' half E. Since this proof holds for every value of n, the approximations are converging. (D2.) 
+
+Note on Converging Approximations
+
+Until we came to P37, the converging approximations we used were decimal numbers, because our decimal system of writing numbers makes that method most convenient, and it could easily be applied to straight lines and polygons. We can, however, divide a unit not only into tenths but also into any other subdivisions, and we might have used halves or fifths or sevenths were it not for the superior convenience of decimal numbers. 
+
+In P37 it is simpler, and just as sound, to approximate by halves; that is, to make each succeeding margin of error less than half of the one before it.
+
+P38. The perimeter of a regular polygon of n sides, inscribed in a circle of radius r, is given by the formula 2nrsin (180°/n); the area of the regular inscribed polygon of twice as many sides is given by the formula nr²sin (180°/n).
+
+In the diagram of P36 the required perimeter is n(AB) = n(2)(MB) = 2nrsin(180°/n). The required area then is 2n(tglAQK) 
+
+2nr2sin(180°/n)/2 = nr2sin(180°/n). (P28.) 
+
+The Words "Limit" and "Approach" When we first discussed converging approximations we took decimal approximations, both upper and lower, to the rational fraction 4/3; that served as illustration for the fact that any number, rational or irrational, can be determined if we can get converging approximations to it.
+
+A number so determined is often spoken of as the limit of one of the two series of approximations. It is the upper limit of the lower series as it ascends, or the lower limit of the upper series as it descends. Thus 4/3 is the upper limit of the series 1.3, 1.33, 1.333, etc.; or 4/3 is the lower limit of the series 1.4, 1.34, 1.334, etc.
+
+The verb to approximate is the same word as the verb to approach, except that the latter word has been filtered through the French, while the former comes more directly from the Latin original. 
+
+In fact the French say "valeurs approchées" when they mean "approximate values." When we say the variable nr²sin (180°/n) "approaches" the area of the circle "as a limit" as n is repeatedly doubled, the word "approach" has a technical meaning, not the same as when we say that a ship is approaching the harbor. It sometimes happens that we can find precisely the "error" of an approximation, that is, the difference between the approximation and its limit. This is the case with the series 1/2, 3/4, 7/8, 15/16 of which the limit is 1. In many cases, however, the value of the limit is not known except by its approximations, and the "error" is merely known to be less than what we have called the margin of error. This is the case with the area of the circle, or with any irrational number. 
+
+When we speak of a series of numbers approaching a limit it should not be supposed that the series must be entirely an ascending series, or entirely a descending series; it might be an "oscillating" series, that is, with one term greater, the next term less, and so
+
+on.
+
+There is, for example, a famous series of fractions of which the squares approach 2 as a limit. It was known before Euclid's time, but he furnished the proof for it. This is the series 3/2, 7/5, 17/12, The squares of the terms are 9/4, 49/25, 289/144, ; and the "errors" are +1/4, 1/25, + 1/144, 41/29. 1681/841 - 1/841. 
+
+Exercises 
+
+1. Find the rule which Euclid had for the fractions above. 
+
+2. Find decimal approximations to 131/128, using only the lower series, and continuing until the limit is actually reached. 3. Using the formulas of P38, find the perimeter of a regular inscribed square, in a circle with radius 100 ft., and the area of a regular inscribed octagon, etc.
+
+P39. For every circle the circumference has a constant ratio to the diameter, and the area has the same ratio to the square of the radius. 
+
+Hypothesis: For any two circles let r and r′ be the radii, s and s' the circumferences, and S and S' the areas. 
+
+Prove: S/r2=s/2r= s'/2r'. 
+
+1 In circle S, the isc regular pgn of 2n sides has for area nr2sin(180°/n). (P 38.) (2) nr2sin(180°/n) increases as n is successively doubled, and furnishes converging approximations to S. (P37.) 
+
+3 Or, dividing by r2, the formula nsin (180°/n) furnishes converging approximations to S/r2. 
+
+In the same circle the perimeter of the isc reg pgn of n sides is 
+
+2nrsin(180°/n). (P38.)
+
+Dividing by 2r, we get nsin(180°/n) as a formula for approximations to s/2r. 6 S/r² =s/2r. (P1.) 
+
+Changing S to S' and s to s' in this proof would give precisely the same set of approximations to S'/(r')² and s'/2r'. πr2 The ratio S/r2, or s/2r, is called π; hence formulas S and s = - 2πη. The number Tis the limit of nsin (180°/n) as n is successively doubled. Its value to ten decimal places is 3.1415926536.
+
+Exercises 
+
+1. Using tables, and the formula stated above, find rough approximations to T. 
+
+For n use 6, 12, 24.
+
+2. Without using tables we can still get the value of nsin (180°/n) when n = 4, or n = 6; but when n is doubled we need the formulas arrived at in the following proof. Give reasons for the successive steps: In the diagram for P36, let AQB be any central angle; call it Q. 
+
+Let BL be QA as at L, and let EA be a diameter, 2r. 
+
+1 Angle AEB = Q/2, EBA = 90°, LBA= Q/2. 
+
+EB = 2rcos(Q/2), BA = 2rsin(Q/2), QL = rcosQ.
+
+EL 2rcos(Q/2)cos(Q/2) = r + rcosQ. 3. 2 3 5 
+
+LA 2rsin(Q/2) sin(Q/2) = r―rcosQ. 
+
+Cos² (Q/2) = (1 + cosQ)/2; sin² (Q/2) (1-cosQ)/2. 
+
+Given that √3 = 1.73205, find sin 30° and cos 30°; and then find sin 15°. Work to four-figure accuracy.
+
+CONSTRUCTIONS 
+
+Q12. To draw a tangent to a circle through a given point on the circle. 
+
+Q13. To inscribe a square in a given circle. 
+
+Q14. To inscribe a regular hexagon in a given circle. 
+
+Q15. On a given side to construct a polygon similar to a given polygon.
+
+LOCI AND CONCURRENT LINE 
+
+41 
+
+CHAPTER IX LOCI AND CONCURRENT LINES Introductory Exercises 
+
+On the south side of a hill on one of the great highways a white line marks off a traffic lane. For north-bound automobiles, all places on the right of that line are reasonably safe, and no other place on the road is reasonably safe. In the technical language of geometry, the right lane is the locus of safe places for north-bound traffic. 
+
+1. At the head of the in-coming channel in a certain harbor stand two “range lights," one a little higher than the other and directly behind it, so that a ship entering the channel can keep them in line ("in range," as mariners say). Every place in line with those lights is safe for an entering ship, though hidden rocks abound. 
+
+Describe the above situation using the word locus. 
+
+2. A bee-hunter watched in a flowery field, and following a laden bee he marked two trees in the line of flight. Going to another part of the field he marked a second bee's flight, and said, "Now I can find the honey." If you believe him, why do you?
+
+D39. The locus of points described in a particular way is a figure such that if any point is in the figure it is a point so described, and if it is not in the figure, it is not a point so described. The last sentence could be stated thus: "And if it is a point so described, it is in the figure." 
+
+Exercises 
+
+In each of the following paragraphs there are two statements lettered (a) and (b). In each case answer these four questions: (1) Is (a) a sufficient condition for (b)? (2) Is (a) a necessary condition for (b)? (3) Is (b) a sufficient condition for (a)? (4) 
+
+Is (b) a necessary condition for (a)? 
+
+1. Given a polygon inscribed in a circle: (a) all the angles are equal; (b) the polygon is regular. 
+
+2. Suppose that you know that the sheriff is in the barber shop getting shaved, and that is all you know about him. (a) David's father is in the barber shop getting shaved; (b) David's father is the sheriff. 
+
+3. Given a plane figure consisting of two straight lines and a transversal: (a) the transversal is perpendicular to the other two lines; (b) two of the three lines are parallel.
+
+4. It is true that George Washington had false teeth; but it is not known whether other presidents had: (a) one president had false teeth; (b) that president was George Washington. 
+
+5. Given a quadrilateral and its two diagonals: (a) the quadrilateral is a parallelogram; (b) the quadrilateral is divided by its diagonals into four triangles equal in area. 
+
+Introductory Exercises 
+
+1. Prove: I. Any point in the perpendicular bisector of a line is equidistant from the ends of the line. Plan: P22. 
+
+II. Any point equidistant from the ends of a line is in the perpendicular bisector of the line. 
+
+2. Show that I and II together prove: The locus of points each equidistant from the ends of a line is the perpendicular bisector of the line. 
+
+3. Prove III, the contrapositive of II, namely, Any point not in the perpendicular bisector of a line is not equidistant from the ends of the line. (P23.) 
+
+4. Show that I and III together also prove ex. 2.
+
+NOTE ON LOCUS PROPOSITIONS 
+
+In every locus proposition there are two theorems involved. 
+
+When one of them is proved it is shown only that the hypothesis of that theorem is a sufficient condition for the conclusion; then the second theorem is to show that the same hypothesis is a necessary condition for the same conclusion. Homely illustrations, as well as geometric statements, will serve to make this distinction clear. "If I am rich, I can pay my poll-tax." Being rich is a sufficient condition here, but not a necessary one; because if I am not rich, I can still very likely pay my poll-tax. "If Benjamin is a native of the United States, he can be President." The condition there is necessary, but certainly not sufficient. In order that a quadrilateral may be a parallelogram, it is sufficient but not necessary that all its angles should be equal; it is necessary but not sufficient that one side should be parallel to another side; it is necessary and sufficient that the diagonals bisect each other; and it is neither necessary nor sufficient that two of the angles should be right angles. 
+
+When any theorem is proved, it is shown that the hypothesis that the conclusion is a sufficient condition for the conclusion, or is a necessary condition for the hypothesis. Proving is the same thing as proving ; the two statements are, as we say, contrapositive.
+
+LOCI AND CONCURRENT LINE 
+
+43 In every locus proposition there are four statements to consider; they are as follows: (a) This is our kind of point. (b) This is not our kind of point. (c) This point is in our figure. (d) This point is not in our figure. 
+
+What we have to prove is that (a) is a necessary condition, as well as a sufficient condition, for (c). This is usually done by proving that if (a) is true (c) is true, and then that if (c) is true (a) is true; two theorems, one the converse of the other. Either of these theorems could be replaced by its contrapositive, and it is quite usual to make that change for the second theorem; that is, after proving that if (a) is true (c) is true, we prove that if (b) is true (d) is true.
+
+Locus theorems are of great educational value because they return with each theorem to the distinction between necessary and sufficient conditions and to the equivalence of contrapositive statements. The fact that these two ideas are precisely the things that make locus questions seem difficult is sure testimony that this practice is badly needed. It is in this work also that one is often required to recognize differing statements when their verbal. expression seems almost identical; for example, in finding the locus of points less than two inches and more than one inch from a given point Q, the locus must be seen to be the bounded region without its boundary; whereas if the word "less" in the description of the locus were changed to "not more," a part of the boundary would'thereby be included. 
+
+Definitions are different from theorems not only in not being proposed for proof, but also in presenting conditions necessary as well as sufficient. Thus, the definition of a parallelogram tells us not only that a quadrilateral is a parallelogram if its opposite sides are parallel, but also that if the opposite sides are not parallel the quadrilateral is no parallelogram. On the other hand, the theorem that if a triangle has a right angle, the square of one side is the sum of the squares of the other two sides does not tell us that if the triangle has not a right angle, the equation of the squares is not true. That requires a separate proof, and even in the unusual statement here given should be recognized as the converse of P22. 
+
+As we have seen, it is included in P24. 
+
+P40. The locus of points all in the same plane and each equidistant from two given points of that plane is the perpendicular bisector of the line joining the given points. (See the exercises on page 44.)
+
+Note on P40. 
+
+This theorem could also be stated in either of the following ways:
+
+The locus of the centers of circles all in the same plane and passing through two given points of that plane The locus of the vertices of isosceles triangles all in the same plane and having for base the distance of two given points of that plane. 
+
+Of these three ways of stating P40, there is one that requires us to specify the locus as the perpendicular bisecting line except one point of that line. If A and B are the two given points, and XY is the perpendicular bisector of AB, and P is a point in the plane AXB, we have the following two statements to consider: (a) PA PB; (b) P is in
+
+XY. For this theorem we must prove two out of four of the answers to the following questions: (1) Is (a) a sufficient condition for (b)? (2) Is (a) a necessary condition for (b)? (3) Is (b) a sufficient condition for (a)? (4) Is (b) a necessary condition for (a)?
+
+In choosing which of the four "answers" you will prove, it is necessary to remember that if any hypothesis is sufficient to prove a certain conclusion, that conclusion has to be a necessary condition for the hypothesis. Hence if you have proved that (a) is sufficient for (b), you do not need to prove that (b) is necessary for (a).
+
+Exercises 
+
+1. Two points each equidistant from the ends of a line determine the perpendicular bisector of the line. 
+
+2. Given the fixed base of an isosceles triangle otherwise undetermined. Prove that the locus of the vertex is a certain endless straight line all but one point. 
+
+3. Given the fixed chord of a circle otherwise undertermined. 
+
+What is the locus of the center?
+
+Introductory Exercise 
+
+1. If tgl ABC is inscribed in a fixed circle and if A and C are fixed but B is free to move along the major arc of the circle, which angle, A, B, or C will not change in size? If point B strays outside the arc, will angle B be larger or smaller than when B is on the circumference? 2. Draw an isosceles triangle ABC, with angle B 70°; then with B as center draw a circle through A and C. Draw another triangle APC, with P anywhere on the major arc AC. How many degrees in the angle P? Could P be inside or outside of the arc and have the same value?
+
+LOCI AND CONCURRENT LINES 
+
+45 P41. Of triangles in the same plane and all in the same order, having a fixed base and constant vertex angle, the locus of the vertex is a circular arc.
+
+Part I. Show how to construct the arc, as in ex. 2 above. 
+
+Part II. Prove that any point on the arc satisfies the requirements. (P35.)
+
+Part III. Prove that any point not on the arc does not satisfy the requirements. (P19.)
+
+Exercise 
+
+In the preceding theorem are the end-points of the arc included in the locus? If the words "in the same order" were not included in the theorem, what would the locus be?
+
+Introductory Exercises 
+
+1. Prove: I. Any point on the bisector of an angle is equally distant from the sides of the angle. II. Any point not on the bisector of an angle is not equally distant from the sides of the angle. 
+
+2. State a locus theorem which is proved by I and II together. 
+
+3. State a theorem which might be substituted for II in proving the locus theorem of 2.
+
+Review the discussions of the locus idea, and of necessary and sufficient conditions.
+
+P42. The locus of points equally distant from the sides of an angle is the bisector of the angle. (See ex. 3.)
+
+Exercises 
+
+1. We could state P42 as follows: "The locus of the center of a circle inscribed in an angle is the bisector of the angle." Would it be necessary, with this statement, to omit one point of the bisector? with the original statement? 
+
+2. Prove that the locus of points in a plane equidistant from two given intersecting lines of that plane is a pair of perpendicular lines. 
+
+3. Given any pair of intersecting straight lines. How many circles of 1" radius can be drawn tangent to both of them? If the lines make an angle of 48°, what is the minor arc between the points of contact in each circle?
+
+Introductory Exercises plane ABC 
+
+1. Given three fixed points, A, B, and C, anywhere, but not in line. State a necessary condition that point P in the shall be the center of a circle passing through A and B. sufficient condition? 
+
+Is it also a
+
+2. State a sufficient condition that point P in the plane ABC shall be the center of a circle passing through B and C. Can this condition and that of ex. 1 both be satisfied? 
+
+3. Draw a triangle and perpendicular bisectors of two of its sides. 
+
+Do they meet? Why? Show that their intersection is equidistant from all three vertices of the triangle. Draw the perpendicular bisector of the third side of the triangle and show by P40 that it goes through the intersection of the other two perpendicular bisectors. 
+
+P43. In every triangle the perpendicular bisectors of the sides meet at one point. This point is called the Circumcenter. 
+
+Refer to P10, P8, P40.
+
+P44. The bisectors of the angles of a triangle meet at one point. This point is called the Incenter.
+
+P45. For every triangle there is one point in line with each of the three altitudes drawn from the vertices. This point is called the Orthocenter.
+
+This theorem is reduced to P43 by drawing, through each vertex, a parallel to the side opposite. P10, P13. 
+
+P46. The medians of any triangle meet at one point two-thirds of the way from vertex to foot... This point is called the Centroid. 
+
+The medians each have points within the triangle so they cannot be parallel. (P19, P11.) In the triangle ABC let Y, Z be the midpoints of b and c, respectively, and let BY and CZ meet at G. 
+
+Draw YY' parallel to GZ to meet c as at Y'. Angle BGZ = BYY' 
+
+(P11), and AYY' = ACZ. Tgls BGZ~ BYY', AYY' ~ ACZ (P26). Then, since AY (AC)/2, AY' = (AZ)/2 (BZ)/2; GY = (BG)/2, or BG = 2 (BY)/3. (D28.) This demonstration was invented by a schoolboy in 1900; he afterward became a mathematician internationally known. 
+
+CONSTRUCTIONS 
+
+Q16. To circumscribe a circle about a given triangle. 
+
+Q17. To inscribe a circle in a given triangle. Q18. To draw a tangent to a circle through a given external point. 
+
+Q19. To construct the mean proportional between two given line segments.
+
+EXTRA WORK 
+
+P47.
+
+If R is the circumradius of any triangle ABC, then a = 2RsinA, 2RsinB, c = 2RsinC. This is the theorem known as the Law of Sines. 
+
+Refer to P43, D31, P35.
+
+INTERNAL AND EXTERNAL SEGMENTS 
+
+47 
+
+CHAPTER X INTERNAL AND EXTERNAL SEGMENTS Note on External Section. 
+
+If P is on the line AB between A and B, it divides the distance AB into two segments, AP and BP. If P is in line but beyond B from 
+
+A, then AP and BP are "external" segments of AB. 
+
+When the directions of the segments are considered, they are usually lettered in the order used above, so that the internal segments are opposite in direction, and the external segments are in the same direction.
+
+Introductory Exercise 
+
+In tgl ABC, AN bisects angle A and meets side BC as at N. Show that tgls ABN and ACN have equal altitudes if b and c, respectively, are taken as bases; and that they have the same altitude if BN and NC are taken as bases. 
+
+P48. In every triangle the bisector of the vertex angle divides the base into segments proportional to the sides adjoining. (P42, P17.) 
+
+P49. In every triangle the bisector of the exterior angle at the vertex divides the base externally into segments proportional to the sides adjoining. (P42, P17.)
+
+Exercises Numericals. 
+
+What happens with P49 when the triangle is isosceles?
+
+P50. If a fixed point is within a circle, every chord through the point is divided by it into segments whose product is constant. 
+
+Exercises 
+
+1. In P50, if the segments of one chord are 5 and 20, and of the other chord are 10 and x, find x. 
+
+2. If the segments of one chord are 5 and 6, and if the other chord is 17, find its segments.
+
+P51. If a fixed point is outside a circle, every chord in line with the point is divided by it externally into segments whose product is constant, and equal to the square of the tangent from the fixed point. (P34, P35, P25.)
+
+Exercises 
+
+1. P51 is sometimes stated as follows: If from a point outside a circle a secant and a tangent are drawn, the tangent is the mean proportional between the whole secant and its external segment. Is there any reason for preferring one of these two statements of the same theorem? 
+
+2. In a triangle whose sides are 15", 25″, 32", bisectors are drawn to the angles at the vertices. What are the internal segments of the longest side, and what the external segments? 3. To a circle with center Q and radius r a line PT 2r is tangent at T. PQ cuts the circle at X. Find the ratio of PX to r.
+
+CHAPTER XI PARALLEL AND PERPENDICULAR LINES AND PLANES 
+
+Since we are now to study figures that do not lie all in one plane, we have to make diagrams that show different planes. Our diagrams cannot show them unless they have edges. For that reason our pictures of planes are the flat surfaces of certain objects, like blocks or pyramids, or pictures of what might be a flat card or a sheet of window glass.
+
+However, the plane is not limited in extent, as our pictures seem to indicate. Any point, no matter how far away, is in a given plane if it is in line with any two points of that plane (A18). We have already had in mind, when we discussed parallel lines, the idea of an unbounded plane.
+
+Since a plane is determined by any three of its points that are not in line, the plane may be named by the letters of three such points. The three letter name is unmistakable. Sometimes, when there is no danger of confusion, a single letter may be used, preferably a Greek letter. The practice of naming a plane by two letters is not advisable.
+
+Exercises 
+
+•X This diagram represents a table top, with its four corners lettered A, B, C, D, the front edge
+
+AB being marked heavy. If perfect, it would be a plane surface, and the plane to which it belongs would not stop at the edges of the table. The line AC would lie wholly in that plane, and so would BD. 1. If the point X is at the intersection of the diagonals AC and 
+
+BD, give eight possible names for the plane, any one of which would completely identify it. 
+
+2. If X is in the plane ABC but not on either diagonal, how many names could you give for this plane? If X were on one diagonal but not on the other? 
+
+3. If P is a point in line with A and C, and between X and C is P in the plane ABX? 
+
+4. If P is in line with BD, and D is between B and P, is P in the plane ABX?
+
+5. If J and K are any two points in the plane ABD, and P is a point in the ray JK, no matter how far away, is P in the plane ABX? common brick, 2" X 4" X 8", resting on its 4 X 8 side, so that three faces can be seen.
+
+This is a diagram of a 6. Name the planes that contain the point A, and those that contain the line AB. 
+
+7. If T is the intersection of the diagonals of XYZW, and P is in line with T and A, will the line YZ contain the point P? Could the line AT meet the plane BCY? 
+
+8. If the point Z' is in line with C and Z, and Z is between 
+
+C and Z', does the line AZ' have a point in the plane XYZ? 
+
+9. Name 12 pairs of intersecting planes in this figure, and name the intersection of each pair. Name three pairs of planes that do not intersect; what would you call these last three? 
+
+10. If F is the intersection of the diagonals of ABYX, is there a point of the ray TF on this side of the plane ABX? 
+
+11. In the diagonal plane XYC, is there a point in line with 
+
+A and Z? 
+
+12. Name three planes that intersect in one line; in two lines; in three lines.
+
+A40. If any straight line meets a plane in one point only, the line has points on both sides of the plane. 
+
+A41. If two points are on opposite sides of a plane, there is a point of the plane in line between those two points. 
+
+S1. Planes intersect in straight lines, if they meet at all.
+
+Hypothesis: The plane a has a point X in the plane B.
+
+Prove: The planes a and ẞ intersect in a straight line through X.
+
+If A is any point of a not in ẞ, then AX has a point, as B, on the other side of B (A40). 
+
+2 The plane a has a point, as C, not in line with AB. 
+
+3 If C is not in B, either CA or CB will have a point in ẞ (A41). 
+
+Thus in any case we shall have a second point in both planes; call it Y.
+
+Every point in the endless line XY will be in a and in ẞ (A18); and no other point can be (A18).
+
+Exercises 
+
+1. What is the locus of points common to all the planes that contain two fixed points A and B? 
+
+2. Consider the two figures formed by all the planes that contain the point A, and by all that contain B. These two figures are different; what planes, if any, are common to both?
+
+10 S2. If three planes meet in three lines, those lines either pass through one point or are parallel. 
+
+Hypothesis: The planes ABY and BCZ meet in 
+
+BY, BCZ and ACX in CZ, CAX and ABY in AX. 
+
+Prove: BY, CZ, AX are either parallel or concurrent 
+
+1 Since each pair of lines, such as BY and CZ, lie in one plane as BCZ, that pair of lines must meet or be parallel (D25). 
+
+2 If BY and CZ meet in a point P, P lies in BCZ and in ABY because P is a point of BY which is in both planes (A18); for like reasons P lies in BCZ and in CAX.
+
+Since P lies in ABY and in CAX (@), P is in AX; and BY, CZ, AX are concurrent in P. If any two of the three lines meet, all three are concurrent (®); if no two meet, all three are parallel (1).
+
+Exercises 
+
+1. If ABC and CXY are two triangles lying in different planes, and XY||AB, what is the locus of points common to the planes 
+
+ABC and CXY? How do you know? 
+
+2. Prove that if two intersecting planes pass each through one of two parallel lines, their intersection is parallel to those lines. S3. If two lines are each parallel to a third line, they are parallel to each other.
+
+Hypothesis: AX || BY, AX || CZ. 
+
+Prove: BY CZ. 
+
+BY is in plane ABX, CZ in ACX. 
+
+2 The plane BCZ cuts ABX in a line || AX (S2); this line must be BY (A26).
+
+D42. TWO PLANES are said to be PARALLEL when they do not meet.
+
+Exercises 
+
+S4. If two parallel planes are cut by a transversal plane, the intersections are parallel. 
+
+1 Both intersections lie in the tvl plane. 
+
+Since the other two planes do not meet (D42), their intersections with the tvl plane do not meet (A18). 
+
+3 The intersections are parallel (D25). 
+
+1. Is there any difference between the facts presented by the two following statements: (1) The two planes are not parallel; (2) The two planes meet? 
+
+2. Answer the same questions after changing the word planes to lines.
+
+3. Of four planes a, B, Y, 6, the first three are parallel to each other, and is not parallel to any. How many straight lines do they determine? 
+
+4. In the preceding question, if a were parallel to B, and y to ø, what would your answer have been? If a were parallel to B, and y not parallel to ? If none of these planes were parallel to any other of them? 
+
+5. Of four planes, a, B, Y, ø, none is parallel to any other; how many points can they determine? How many must they determine? 
+
+6. If we do not know whether any of the planes are parallel, what is the least number of points they can determine, if they determine any?
+
+CONTRAPOSITIVES AGAIN 
+
+A reporter is sent to interview a duchess, and is told that if any one of the ladies wears satin and has jewels on, she is not the duchess. As he starts out he says to himself, "If any one wearing satin is the duchess, she has no jewels on, and if any one with jewels on is the duchess, she is not wearing satin." Thus he has in mind two contrapositives of the statement originally given him. 
+
+Exercises 
+
+1. Unless this painting has the artist's monogram on it somewhere, it is not genuine. Restate this sentence using if not instead of unless; and state it again in its contrapositive form. 
+
+2. If it is after five o'clock, it is time to quit work. trapositive; and state it again, using the word unless instead of not. if 3. 
+
+State the con Either a quadrilateral has two sides parallel and the other two sides equal, or it is not a parallelogram. Restate this sentence in two ways, beginning each time with the word if. 
+
+4. If the dog is untied, and the door is open, he comes when you whistle. 
+
+State two contrapositives of this sentence. 
+
+5. If this book was written by Uncle Charley, and is not a book of his poems, it is worth reading. State two contrapositives. 
+
+6. If boys are strong and also energetic, they make good athletes. 
+
+State two contrapositives. 
+
+7. If a judge is learned, and just, and merciful, he is an ideal public official. State three contrapositives. 
+
+8. Explain the following statement, and illustrate it by one of the sentences in the preceding questions: "In every conditional sentence, the conclusion is a test for the hypothesis." 
+
+Introductory Exercises 
+
+1. If AB and CD in one plane are parallel respectively to A'B' and C'D' in another plane, does AB lie in the plane AA'B'? Does 
+
+C'D' lie in the plane CC'D? Give some reason for your answer. 
+
+2. In the figure of the preceding question, what is the intersection of the planes ACD and AA'B'? Of the planes A'C'D' and AA'B'?
+
+3. In the same figure, if ACD meets A'C'D' in XY, what do you know about the lines AB, A'B', and XY? How do you know it?
+
+Draw a diagram for this figure. 
+
+4. In the diagram you have drawn, if CD is parallel to C'D', what do you know about the lines CD, C'D' and XY? Can AB and CD intersect? Give a reason for your answer.
+
+S5. If two intersecting lines in one plane are parallel respectively to two intersecting lines in another plane, the planes are parallel. 
+
+NOTE. This theorem must be proved in its contrapositive form. The reason for that decision is that we have not yet any geometrical means of proving that two planes do not intersect; but we have theorems about what happens when they do intersect. Our plan of proof then is to show that when two lines in one plane are parallel respectively to two lines in another plane, the two lines in either plane cannot intersect unless the planes are parallel. 
+
+Hypothesis: The planes a and ẞ meet in XY; AB and PQ in a are respectively to A'B' and P'Q' in ß.
+
+Prove: AB does not intersect PQ. 
+
+1 AB and A' B' are in one plane ABA' (D25); planes a, ẞ and ABA' intersect in 3 lines, 2 of which are || (hpth); then AB || XY (S2). 
+
+For like reasons PQ XY, and cannot meet AB (426).
+
+2 D43. A POLYEDRON is a solid bounded by planes; the polygon in each of these planes bounded by its intersections with the other planes is called a FACE of the polyedron. 
+
+D44. A PYRAMID is a polyedron of which all the faces except one (the BASE) meet in a common point (the VERTEX). A triangular pyramid is often called a TETRAHEDRON. 
+
+Note on a Neglected Theorem 
+
+The theorem given here as S6 was proved by Euclid himself in the course of demonstrating a theorem not now in use; it was included in Legendre's geometry, much used here in the 19th century, and in Chauvenet's geometry, which was the best book available sixty years ago. The theorem is now occasionally used in teaching or even in textbooks, but is generally very awkwardly stated and has never been utilized to its full value. In this book it serves in many demonstrations, besides being available early for extra theorems.
+
+Introductory Exercises 
+
+QA In the diagram for S6 suppose the tetrahedron has VQ 24", 9", QB = 15"; and VQIQA, VQLQB, QAL AB. 
+
+1. What is the square of the distance VA? Of VB? Of AB? 
+
+2. Is VAB a right triangle? How do you decide? 
+
+In the same diagram suppose VQ = 15″, QA = 8″, QB 
+
+and VQ QA, VQLQB, VAI AB. 
+
+3. What is the square of VA? Of VB? Of AB? 
+
+4. Is QA LAB? How do you decide? 20"; 
+
+5. In a room 40 feet long the diagonal of the floor is 50 feet, the diagonal of the long wall 41 feet. How high is the room? How wide is it? Find to four figures the diagonal of the short wall. S6. If one edge of a tetrahedron makes two right angles at one vertex, then the opposite edge makes two right angles at one vertex, or none. 
+
+Hypothesis: Three edges meeting at one vertex V of a tdn are p VQ, x = VA, y VB; p 1 QA = a, p 1 QB = b; let AB 
+
+Prove: q is a and 1x, or = զ. neither.
+
+If q 1 a, a² + q2 = b² (P22). 2 p² + a² + q² q² (1 p² + a² = x² (P22). 2 2 p² + b² = y² (P22). 3 x² + q² = y² If q x, q² + 2 q² + a² 
+
+2 y2 (subst.
+
+3 in (subst. 1 x² in x2 = y² (P22). 2 ). ); x 1 q (P24). q² + p² + a² = p² + b² (subst. 1 and 2 in ). p²+b² b2 ( p²); a 1 q (P24). 
+
+D45. A line is said to be PERPENDICULAR TO A PLANE when it is perpendicular to every line in that plane through its foot. 
+
+Note on the Perpendicular to a Plane
+
+Although this next theorem, S7, has generally been included in our teaching, the custom from Euclid's time to now has been to separate the theorem into its converse parts; and the first part, which says only that a line in the plane of the perpendiculars is itself perpendicular, has always been regarded as a troublemaker. 
+
+Legendre and Cauchy have each suggested changes, and some variation of Cauchy's proof is the one generally used. The proof here given is a modification of Euclid's, shortened by taking advantage of S6, which has independent value.
+
+S7. The locus of lines perpendicular to a given line at a given point, is the plane perpendicular to that line at that point. 
+
+Hypothesis: PQ 1 QA, PQ 1 QB, QC is not in plane QAB.
+
+Prove: PQ 
+
+plane QAB, QC not 1 PQ. 
+
+1 Make QA = QB, AM = MB (Q1);
+
+PA PB (P22). 
+
+Tgl PMB PMA, QMB = QMA 
+
+(P7); PM 1 AB 1 QM (D12). 
+
+Tdn P-QMB has two right 's at M (), and one at Q(hpth);
+
+then QP QM (S6). 
+
+4 If QX is any other line in QAB, meeting AB at X, tdn P-QMX has two rt's at M (3), and one at Q (); then PQ i QX (86).
+
+BQA'; 
+
+5 The construction in could be performed in the every line through Q in plane QAB must meet either AB or A'B (A26), and is 1 PQ (); then PQ QAB (D45). 
+
+6 Since plane PQC intersects QAB in a line through Q (S1), which is 1 PQ (), QC is not PQ (A13). 
+
+Exercises 
+
+1. Draw a diagram showing a solid with an edge AB perpendicular to an edge BC, but not perpendicular to a plane face BCD. 2. 
+
+Two rectangles, ABCD and XYCD, lie in different planes. 
+
+Name a plane CD, and tell why it is. 3. 
+
+If the line XY of the tdn P-XYZ makes two right angles at the vertex Y, what line is thus shown to be perpendicular to what face of the tetrahedron? 
+
+4. If A, B, C, D are four points not all in the same plane, and if 
+
+ABC and ABD and ADC are right angles, where is there another right angle?
+
+D46. PROBLEMS OF CONSTRUCTION in solid geometry are solved by dictating all necessary plane constructions in duly specified planes of the figure. 
+
+S8. Problem. To construct through a given point a line perpendicular to a given plane. 
+
+Given: A plane a, and a point P anywhere.
+
+To construct through P a straight line a. 
+
+Let BB' be any line in a; through P draw
+
+PAL BB' as at A (Q3). 
+
+2 Let X be any point not in PAB or in a; in plane BB'X draw AY 1 BB' at A (Q3); APY 1 AB (S7). (3) APY cuts a as in AC (S1); AC 1 BB' (S7).
+
+In APY draw PZ AC (Q3), meeting AC as at P', if P is not in a. 5 Tdn Z-ABP has two rt's at A (Q), and ZP1AC (@);
+
+then ZP 1a (S6, S7). 
+
+S9. Perpendiculars to any given plane are parallel; and if one of two parallels is perpendicular to a plane, the other is. 
+
+Hypothesis: AX 1 a, BY meets a at B. 
+
+Prove: If BY 1a, BY || AX; if BY || AX, BY 1 a. 
+
+1 Draw BC1 AB at B (QS). 
+
+2 In tdn X-ABC, AX 1 AC and AB (D45), BC 1 AB (@), then 
+
+BX 1 BC (S6); BC 1 plane ABX (S7). 
+
+3 If BY 1a, BY is in plane ABX (S7) and cannot meet AX (P8); 
+
+BY AX (D25). 
+
+BY If BY AX, BY is in plane ABX (D25); BY AB (P10); 
+
+BC (); then BY 1a (S7). 
+
+Exercises 
+
+If a given line is not perpendicular to a given plane, it makes different angles with different lines in the plane; the least and the greatest of these are the supplementary angles which the given line makes with its own projection. These supplementary angles are spoken of as the angles the given line makes with the plane. 
+
+1. Given a line t oblique to a plane a.
+
+Construct in a a line perpendicular to t. 
+
+2. Prove that the acute angle made by a line with its own projection on a plane is the least of the angles the line makes with lines in the plane through its foot. 
+
+3. Parallel lines meeting a plane make equal angles with it. 
+
+4. If two lines are parallel, their projections on any given plane are parallel. Are there exceptions? Is the converse true?
+
+3 
+
+CHAPTER XII VOLUMES OF PRISMS AND CYLINDERS 
+
+D47. A PRISM is a polyedron of which two faces (the BASES) lie in parallel planes, and the other faces (LATERAL FACES) 
+
+meet in parallel lines (the LATERAL EDGES). CORRESPONDING 
+
+VERTICES lie at the ends of a lateral edge.
+
+D48. A CYLINDRICAL SURFACE is such that through any point of it one straight line can be drawn, and one only, which will lie wholly in the surface; and these straight lines (the ELE- 
+
+MENTS) are all parallel. A cylindrical surface is also called 
+
+PRISMATIC if a plane section of it is a polygon. 
+
+D49. A CYLINDER is a solid bounded by a cylindrical surface and two parallel plane sections (the BASES) of the same. COR- 
+
+RESPONDING POINTS of the bases lie at the ends of an element, or of a line parallel to the elements. $10. The bases of a prism or cylinder are congruent in the same order. 
+
+Hypothesis: A, B, C are any three points, not in line, in the base B of a prism or cylinder, and A', B', C' are the corresponding points respectively in the other base B'. 
+
+Prove: BB', in the same order. 
+
+AA' BB' (D49); ABA'B' (S4); AB =
+
+A'B' (P13). 2 Tgl ABC A'B'C', in the same order, namely, the order of the elements (P7).
+
+If X is any other point in B, and X' its corresponding point, tgl 
+
+ABX A'B'X', in the same order, as in 1 and 2. 
+
+4 If tgl ABC is superposed on A'B'C', without overturning, every other point of B will coincide with the corresponding point of B' (3).
+
+S11. Problem. To construct a prism having given a fixed base and a fixed lateral edge.
+
+Given the base ABC... of a psm, and the fixed edge AA'. 
+
+To construct the psm. 1 In AA'B draw BB'|| AA'; in BB'C, CC' || BB', and so on (Q8). 
+
+2 In plane AA'B draw A'B' || AB, to meet BB' as at B';
+
+and in BB'C draw B'C' || BC to meet CC' as at C' (Q8). 3 Plane A'B'C' || ABC (S5), and the figure is a psm (D49).
+
+D50. A RIGHT PRISM is a prism in which the lateral edges are perpendicular to the bases; a RIGHT CYLINDER is a cylinder in which the elements are perpendicular to the bases. 
+
+Prisms can be named by naming all the vertices of one base successively, and then the corresponding vertices (D47); thus ABCD- 
+
+XYZW would be a prism having AX, BY, CZ and DW for lateral edges. For brevity, the name ABC-X would be used to indicate a prism having A, B and C for any three vertices of one base, and AX for a lateral edge.
+
+S12. Two right prisms are congruent if they have congruent bases and equal altitudes.
+
+B' C 
+
+Exercises Hypothesis: Psms ABC-A' and XYZ-X' 
+
+have bases ABC ... XYZ altitudes HH' = VV'.
+
+Prove: ABC-A' XYZ-X'. 
+
+and 
+
+1 Call ABC... the lower base; if 
+
+XYZ... is not in the same order, turn its psm end for end. All bases will then be in the same order (A21). 
+
+2 Superpose the psms so that the lower bases coincide (48, S10); the lateral edges will be all HH' (S9). 
+
+3 AA' will coincide with XX', BB' with 
+
+YY', and so on (A26); and since their upper ends coincide (P13), so will the upper bases (A18). 
+
+1. A right rectangular prism has for its base a rectangle. Prove that every face is a rectangle, and that every edge is perpendicular to the faces that it meets. 
+
+2. Given an oblique rectangular prism with four rectangular faces.
+
+Show that it could be regarded as a right rhomboidal prism. 
+
+3. If an oblique rectangular prism has only two rectangular faces, show that it could not be regarded as a right prism. 
+
+4. Given a fixed triangle ABC, to construct on ABC, as base, a right prism whose altitude is of given length. 
+
+5. Given a triangular prism XYZ-X'Y'Z', and two points A and A' on the lateral edge XX', such that A is between X and A'; to construct through A and through A' planes parallel to XYZ (S5). 
+
+6. In the completed figure of ex. 5, give the names of four different prisms resulting from your construction. Is there also a prism that you have not letters enough to name? 
+
+7. Given two equal squares lying in the same plane and having one side in common; to construct, on these squares as bases, two right prisms whose lateral faces shall be squares.
+
+D51. A CUBE is a right prism whose base is a square, and whose altitude is equal to one side of the base. 
+
+D52. The UNIT OF VOLUME is the cube whose edge is the unit of length.
+
+S13. The volume of any right rectangular prism is the product of the three edges meeting at any vertex. 
+
+Let a, b, c be the three edges meeting at the vertex P. Whatever units of length we use, 's of this unit will be units of area for the base; then by plane geometry the area of the base will be ab, or bc, or ca, depending on whether we take for base one or another of the three faces meeting at P. 
+
+2 Whatever units or fractions of them are used for thus measuring the base, say the base ab, we can construct on every □ a cube, and on every fraction of a the same fraction of a cube (S11, S12). These cubes and psms will not overlap or leave gaps (S9). 
+
+3 Other unit thick layers can be constructed successively, congruent with the first one (S10, S12). Whatever the length of c, the number of layers ab (or fractions of them), contained in the given psm, will be the same as the number of linear units (or fractions of them) contained in c. Then the volume of the psm is c(ab). 
+
+Exercises 
+
+1. It is found that a rectangular block of heavy steel, which was intended to be 50 mm. × 40 mm. × 100-mm., may actually exceed or fall short of the required measurements by not more than a hundredth of a millimeter in each dimension. If the steel weighs exactly 8 grams per cubic centimeter, would the greatest possible weight exceed the least by more or by less than 2 grams?* 
+
+2. For the steel block of ex. 1, supposing the dimensions actually attained were .01 mm. short, exactly, find the area of three faces, no two of which are opposite; and find the weight of a sheet of steel .02 mm. thick covering the same total area. How does this result compare with that of ex. 1? 
+
+3. If the lengths of 3 concurrent edges of a right rectangular prism are respectively a ±t, b±t, ct, prove that the difference between the greatest possible volume and the least is 2t (ab+be+ca) + 2t³. 
+
+4. What is the connection between ex. 3 and the two questions preceding? Why was no attention paid to the number 23 in ex. 2? 
+
+5. If the measurements of ex. 1 were correct to four figures, they might of course exceed or fall short each by .005 mm. In that case what would be the difference between the greatest weight and the least? Could you count on four reliable figures in the result you obtained in ex. 1? *Much time will be stupidly wasted in this problem if multiplications are not begun at the left of the multiplier, rejecting doubtful columns.
+
+Introductory Exercises 
+
+1. Draw a trapezoid with a right angle at a corner, and dissect the figure into three right triangles. 
+
+2. Draw an irregular quadrilateral, and draw a ray from one vertex, A, intersecting one side as at B. Then dissect this quadrilateral into right triangles, each of which has one leg perpendicular to AB. 
+
+3. Draw an irregular pentagon, and draw a line XY, outside the pentagon, not parallel to any side. Then dissect the pentagon into right triangles, each of which has one leg parallel to XY and one leg perpendicular to XY.
+
+S14. The volume of any right prism is the product of its base and its altitude.
+
+Hypothesis: V is the volume of a rt psm, h its altitude, B the area of its base.
+
+Prove: V 
+
+Bh. 
+
+1 If the base is a rt tgl, as XYZ, complete the rgl XYWZ (Q3), and construct a rt rgl psm with altitude h (S8, S11). 2 This rgl psm = 2V (S12); its base = 2B (P13); 2V = 2Bh 
+
+(S13), and V = Bh. 
+
+3 If the base B is any pgn, it can be divided into rt tgls B', B", B'"', and so on. 
+
+For each base B', B", B'"' is B'h, B''h, B'''h, and so on (@). 
+
+V = h(B' + B' + B'"' + ...)
+
+Exercises 
+
+1. there is a rt psm whose volume Bh.
+
+On an isosceles right triangle, whose longest side is exactly two inches, a right prism is constructed with altitude twice as long as the short side of the base. Total area? 
+
+2. What is the volume of the prism in ex. 1?
+
+3. The circumradius of an equilateral triangle is exactly 8 mm. right prism is constructed on this triangle as base, altitude being equal to a side of the triangle. Volume? Total area? 
+
+4. The inradius of a regular hexagon is exactly 10 cm. On this hexagon a right prism is constructed, with altitude equal to a side of the hexagon. Volume? Total area? 
+
+5. Prove that if the base of a right prism is circumscribed on a circle, the volume is half the product of the lateral area and the inradius of the base. 
+
+6. The altitude h of a right prism is equal to a diagonal of the base, which is square. 
+
+Find the volume. 
+
+7. The altitude h of another right prism is double the circumradius of the base, which is a regular triangle. What is the ratio of the volumes of the two prisms? 
+
+8. Two right prisms have for bases a regular hexagon and a regular triangle respectively, the circumradii being equal. If the prisms are equal in volume, what is the ratio of the altitudes?
+
+S15. The volume of an oblique prism is the product of a right section and the lateral edge.
+
+Hypothesis: In an oblique psm V, the bases are B and B' and a right section is S, which cuts a lateral edge AA' at P. 
+
+Prove: V Sl. 
+
+l; on
+
+Extend PA' to P' so that PP' S and I construct a right psm (S11); call it 
+
+V', and its other base S'.
+
+The bases S and B' divide the whole solid into three parts; call the middle part X'; thus V = M + X, M, the rest of V call X and the rest of V', X';
+
+thus V VI M + X'. 
+
+3 Place X' on X so that S' coincides with S (S10); the lateral edges will coincide (S9, A26). 
+
+P'A' = 1PA' = PA; similarly for the other lateral edges.
+
+Then B' will coincide with B (A18), and X' = X; V' = V by adding M (@). 5 V' = SI (S14); V = SI (@). 
+
+D53.
+
+A DIEDRAL is the figure formed by two half-planes with a common EDGE. The ANGLE OF A DIEDRAL is the angleform in by two rays, one in each face, both perpendicular to the edge at the same point. The measurement of a diedral in that of its plane angle.
+
+Exercises 
+
+1. Two planes are perpendicular if either is perpendicular to a line in the other. 
+
+2. If a line is perpendicular to one face of a diedral, its projection on the other face is perpendicular to the edge. 
+
+3. Given a plane a and a straight line h not in a; construct a plane through h perpendicular to a. When can there be more than one solution? 
+
+4. Given a line AB perpendicular to a plane ẞ at B; and let C be any other point of 6. Prove plane ABC perpendicular to ß. 
+
+5. Given a line AB oblique to a plane a at B; construct a line in a perpendicular to AB at B. 
+
+6. If a plane is perpendicular to the edge of a diedral it is perpendicular to both faces. Prove this theorem and its converse. 
+
+Introductory Exercises 
+
+1. In the face PXY of the diedral P-XY-Q,* AC || XY; in the face 
+
+QXY, A' and C' are projections of A and C respectively.
+
+Prove A'C' AC. (S9, D25, S2.) * Use the diagram for $16.
+
+2. In the face PXY of the same diedral P-XY-Q, AB XY at W; in the face QXY, A' and B' are projections of A and B respectively. 1 
+
+Prove AA' and BB' are in one plane. 2 
+
+How do you know A'B' meets XY at W? 3 Does the tetrahedron A - A'XW have two right angles at A'? 
+
+4 Prove A'W 1 XY. 
+
+3.
+
+In the same diedral P-XY-Q, if AB 
+
+3" and AC 
+
+4"; and 
+
+A'WA 45°; how long is A'B'? Find area of tgls ABC and A'B'C.
+
+S16. If a polygon in one face of a diedral is the projection of a polygon in the other face, the ratio of their areas is the cosine of the angle of the diedral.
+
+Hypothesis: S is the area of a polygon in one face PXY of the drl P-XY-Q, and S' >Y the area of the projection of S on the face QXY; the of the drl is .
+
+Prove: S' Scoso. 
+
+1 Dissect S into rt tgls, each having one leg 1 XY, the other || XY. 
+
+Let K = ABC be one of these tgls, with c L XY, b || XY; and let 
+
+K' A'B'C' be the projection of K. 
+
+2 Since AA' CC' (S9), b and b' are in one plane (D25), and are both | XY (S2); b = b' (P13). 
+
+Planes AA'B, PXY and QXY meet in one point, as W (S2); tdn A-A'WX has two rt's at A' (S7), and AWL XY (0), so A'B' XY (S6). Then b′ 1 c′ (P10). 
+
+A'WA (D53); c' = ccoso (D30). = o 4 K' 
+
+5 K' = b'c'/2 (P17); K' = (bccoso)/2 (0, 0); K′ = Kcosø. Since S is the sum of all tgls such as K, and S' of all such as 
+
+K', S' Scosø. 
+
+Introductory Exercises 
+
+1. If in this diagram AA' XYZ at X, and 
+
+XYYZ at Y, use the tdn A-XYZ to show that AYX is a plane of the drl A-YZ-X. 
+
+2. If in the same diagram A'P 1 AY at P, use the tdn A'-PYZ to show A'PLAYZ. 
+
+3.
+
+In the same diagram, what in tgl 
+
+AA'P of drl A-YZ-X? Tell why. 
+
+If the 60°, and a pgn in plane AYZ has an area of 3√3 sq. ft., what area has the projection 
+
+Y 4. 
+
+YAA' 
+
+of the pgn on XYZ?
+
+S17. The volume of any prism is the product of its base and its altitude. 
+
+Hypothesis: The oblique psm V has a right section S in the plane a, and a base B in the plane B. The altitudeh, and a lateral edge AA' = l. 
+
+Prove: V 
+
+Bh. 
+
+Plan: Get values for S and in terms of B and h and cos; and substitute in V SI (S14). 
+
+1 Planes a and ẞ meet in a straight line WZ (S1); call the ✶ of this drl . (2) AA' meets a as in X; draw XY WZ as at Y (Q3). 
+
+3 In tdn A-XYW there are 2 rt's at X (D45);
+
+and one at Y (@); so AYI YW (S6), and AYX = (D53). 
+
+In plane AA'Y draw A'PLAY as at P (Q3). 
+
+In tdn A'-PYW there are 2 rt's at Y (3), and one at P ; so A'P PW (S6) and A'P = h (S7). 
+
+PA'A (each 90° YAA'); so h = lcoso (D30). φ 
+
+S Bcoso (S16); 1= h/coso (). SI (S14); V 
+
+Bcoso (h/cosp) (7); V = Bh.
+
+S18. The volume of any cylinder is the product of its base and its altitude.
+
+Since the volume of a cylinder is approximated to by inscribed or circumscribed prisms, and for all of these the theorem S17 is true, it can be proved that S18 is true. For the present we assume it. 
+
+Exercises 
+
+1. A prism 15 in. high has for base a rhombus with one side 10 in. and short diagonal 12 in. Find the volume. 
+
+2. In a square prism the area of the base is 50 sq. in. One lateral edge is 26 in. long, and has for its projection a diagonal of the base. 
+
+Find the volume of the prism, and the area of the right section. 
+
+3. A prism 7 inches high has for base a regular hexagon 4 in. on each side. Each lateral edge makes with the plane of the base an angle of 60°. Find volume, lateral edge and area of right section. 
+
+Could the lateral area be determined from these data? How do you know? 
+
+4. A cylinder has a base with area of 11 sq. cm. The elements make an angle of 20° with the vertical. Find to four figures the area of a right section.
+
+CHAPTER XIII VOLUMES OF PYRAMIDS AND CONES D54. A CONICAL SURFACE is such that all straight lines join ing a fixed point of it to any other point of the surface, and such lines only, will lie wholly in the surface. The straight lines of the surface are called its ELEMENTS, and the fixed point its VERTEX. 
+
+D55. A CONE is a solid bounded by a conical surface and a plane section (the BASE) of the same. 
+
+D56. For any solid wholly included between two parallel planes, each of which contains at least one point of the solid, the parallel planes are called BASAL PLANES and the distance between them the ALTITUDE. The CURVE OF SECTIONS for such a solid has for ordinate the area of a section parallel to one of the basal planes, and for abscissa the distance of that section from one of the basal planes. 
+
+D57. A POLYEDRAL is a figure formed by a finite number of rays with a common origin, no three successive rays being in the same plane. The origin is called the VERTEX of the polyedral, and the rays the EDGES; the angle between two successive rays a FACE ANGLE; and the plane surfaces included in the several face angles, taken together, are said to form a 
+
+PYRAMIDAL SURFACE. 
+
+Exercises 
+
+1. Restate D44 on the pattern of D55. 
+
+2. Explain why a pyramidal surface satisfies D54. 
+
+3. A supporting pier 16 ft. high, built against a shaky wall, is 7 ft. wide and 4 ft. thick at the bottom, 3 ft. wide and 2 ft. thick at the top. 
+
+Find the areas of sections, parallel to the base, which divide the altitude into four equal parts. 
+
+4. Draw two lines, OY OX at O, making
+
+OX = the height of the pier, and OY = the area number of its base. Mark A, B and C, dividing 
+
+OX into four equal parts. On perpendiculars to 
+
+OX, at A, B, C and X, mark lengths numerically equal to the areas of the successive sections and the area of the top. Draw a fair curve through the tops of these ordinates. 
+
+5. Find the areas of two other sections parallel to the base and half way between the middle section and the next sections above and below. Measure the lengths of the corresponding ordinates and compare the results.
+
+VOLUMES OF CONES 
+
+65 * 4* S19. The volume of a pyramid or cone has the same measurement number as the area under its curve of sections. 
+
+Hypothesis: V is the volume number of a cone or pyramid W-ABCD, and S is the area number of its curve of sections.
+
+Prove: V S. 
+
+1 Divide the altitude of the cone into n equal parts, each h, by planes base; let the area of base and successive sections be b, s, t, respectively.
+
+И, ... 
+
+2 Construct cylinders, altitude h, on the base and the sections, extending towards the vertex; and on the sections only, extending towards the base. The first or outer set of cylinders will have a total volume bh + sh + th+ uh +..., and the inner set a total volume sh+th + uh +... (S18). • · SO 3 V<bh + sh + th + uh + ...; V>sh + th + uh + that these two sets of cylinders are respectively upper and lower approximations to V. The margin of error E = bh (D1). 
+
+4 In the diagram for the curve of sections, the outer set of rgls have a total area bh + sh + th + uh ... >S, and the inner set sh+th + uh + <S; the same values as for V (P15). ...
+
+By increasing n, E may be made smaller than any definite no. stated in advance; then these are converging approximations, the same for V and for S (3 and 4); then V = S (P1). 2 QPX S20. Parallel sections of a pyramid or cone are similar, and proportional to the squares of their distances from the vertex. 
+
+Hypothesis: S and S' are parallel plane sections of a pmd or cone with vertex Q, h and h' respectively their distances from Q; and h = mh'. 
+
+Prove: S m²S'. 
+
+Let P be the foot of h, X and Y any other two points in S; and in S' let P', X' and Y', respectively, be points on the same rays from Q. Plane QPX cuts S and S' in || lines, and so does QXY (S4); tgl QP'X' (P21), and QX = m(QX'). Tgl QXY ~ QX'Y' (same reason), and XY = m(X'Y'). SS' (D33); S = m²S' (P31).
+
+1. A pyramid has a base 108 sq. ft. in area. What is the area of a section parallel to the base two-thirds of the way to the vertex? 
+
+2. In a pyramid 7 feet high the area of a section parallel to the base and 6 feet from it is 3 sq. ft. What is the area of the base? 
+
+3. Two parallel sections of a pyramidal surface are 9 inches apart, and respectively 4 and 124 square inches in area. Where is the vertex? 
+
+4. In a pyramid 100 feet high the ratio of the base to a section parallel to it is 2.25. Where is the section? 
+
+5. A section S of a pyramid cuts off 70% of the altitude; if S is parallel to the base B, what per cent. of B is S? FAA 
+
+S21. Pyramids and cones having equal altitudes, and bases equal in area, are equal in volume. 
+
+Hypothesis: Two pmds or cones,
+
+V and V', have bases = altitudes 
+
+Prove: V 
+
+= h. = V'. B,
+
+Let Y be the area of any plane section of V, and Y' of V', each being at a distance x from the base and || to it; and let h · x = mh. → Y = m²B, Y' = m²B (S20); then Ÿ = Y'. 3 Whatever the value of x, the ordinate for the curve of sections for 
+
+V will be the same as that for V' (D56); then V = V' (S19). (3) S22. The volume of any pyramid or cone is onethird the product of its base and its altitude. 
+
+Hypothesis: V is the volume of a pmd or cone, B its base, h its altitude. 
+
+Prove: V Bh/3. 
+
+B.
+
+Let ABC be a rt tgl, AB BC, with area At A construct AXL plane ABC (S8), making AX h. Pmd X-ABC = V (S21). 2 Construct a rt psm with ABC as base and has lateral edge (S11); this psm = Bh ($14). Pmd X-BCZY = X-BCY + X-CZY; tgl BCY X-BCY = X-CZY (S21). CZY (P13); Pmd X-CZY is the same as C-XYZ; C-XYZ = X-ABC (S21); then C-XYZ + X-BCY + X-ABC = 3V. 
+
+6 3V = Bh (@); V = Bh/3. 5 
+
+Exercises 
+
+1. The volume of a square pyramid is 5,780 cu. ft. If the diagonal of the base is 34 ft., what is the altitude? If the diagonal were 
+
+17 ft., what would the altitude be? 
+
+2. Find a formula for the volume of a pyramid, altitude h, the base being a regular hexagon, radius r.
+
+VOLUMES OF CONES 
+
+67 
+
+Introductory Exercises 
+
+Two straight lines that do not meet and are not parallel must lie in different planes; for example, one diagonal of the ceiling and any edge of the floor, or two opposite edges of any tetrahedron. 
+
+Such lines are called SKEW LINES. 
+
+1. If AB and XY are skew lines, draw AA' || XY, and XX' || AB. 
+
+What about the planes AA'B and XX'Y? 
+
+2.
+
+If A' is in the half-plane AX-Y, and X' in the half-plane AX-B, prove A'AB 
+
+X'XY. If one of those conditions were not fulfilled, could the angles be proved equal? If neither were fulfilled? 
+
+3. If any given point P is neither in plane AA'B nor in plane XX'Y, prove that planes ABP and XYP intersect in a transversal of AB and XY. 
+
+4. If P in ex. 3 were in plane AA'B, what would happen?
+
+The angle between two skew lines is an angle between either and a parallel to the other, as in ex. 2. 
+
+5. If the four points A, B, X, Y are not in one plane, what kind of a figure do they determine? How many angles do they determine? 
+
+If those angles are all equal, and AB = 8 ft., what is the total area of this figure? 
+
+6. In the figure of ex. 5, if P is the mid-point of AB, prove 
+
+ABPXY. 
+
+7. In the figure of ex. 5, prove the opposite edges perpendicular. 
+
+8. In a right rectangular prism with lateral edges AA', BB', CC', DD', prove that the tetrahedron A-BDA' has every pair of opposite edges perpendicular. 
+
+9. An oblique prism has for one base a rectangle whose long diagonal is double the shorter side. What is the angle between the diagonal and the longer side of the opposite base?
+
+D58. A PRISMOID is a polyedron having one or more of its vertices in one plane and the rest in a plane parallel thereto; the section made by a plane parallel to the bases and halving a lateral edge is called a MID-SECTION. 
+
+Exercises 
+
+1. According to D58, prisms and pyramids could be regarded as prismoids. What would be the area of the mid-section of a prism whose base is B? Of a pyramid whose base is B? 
+
+2. In a tetrahedron with two opposite edges lying in the basal planes, what kind of a figure is the mid-section? What if those opposite edges are perpendicular? 
+
+3. In a tetrahedron all of whose edges are of the same length, every mid-section is a rectangle. Prove it. 
+
+4. In a tetrahedron V-ABC, if the three face angles at V are right angles, prove every mid-section a rectangle. 
+
+5. If the upper and lower bases of a prismoid are straight lines perpendicular to each other, one 5 ft. long, the other 11 ft., what is the area of the mid-section?
+
+MI •B S23. 
+
+The volume of a prismoid having bases B and B', midsection M, and altitude h, is h(B+ 4M + B′)/6. 
+
+Let ABC... B, XYZ... = 
+
+B', with AX, AY, BY, BZ... as lateral edges. Through the midpoint of BY draw's to BA and
+
+YZ. They will be to two lines in ABC (S4); their plane is to 
+
+ABC (S5) and bisects all the lateral edges (P21). It is the plane of M. 
+
+From any point, as P, in M, draw lines to every vertex. These lines with the edges of the psmd determine pmds as follows: (3) 
+
+Two pmds with vertex P and bases B and B'; also, other pmds with vertex P and the lateral faces of the psmd as bases. Pmd P-ABC... P-XYZ... = B(h/2)/3;
+
+B'(h/2)/3 (S22). 4 Pmd P-ABY is split by the mid-section so as to cut off of the face ABY (P29); the small pmd thus split off of the pmd P-ABY (S22). The bases of all the small pmds such as this in will be the tgls formed by drawing lines from P to all the vertices of M; call them successively M', M", M"" ... Their volumes will be M'(h/6), M"(h/6), and so on; and the volumes of the lateral pmds will be 
+
+4 times that (4).
+
+The volume of the entire set of lateral pmds +M""+...).
+
+The volume of the psmd Exercises 1. 4(h/6) (M'+M" h(B+ 4M + B′)/6 (®, ©). 
+
+Find the volume of the supporting pier in ex.
+
+3 of the questions following D57. 
+
+2. Two perpendicular skew lines, AB = 10 in., XY = 24 in., lie in parallel planes 2 in. apart. Find the volume of the tetrahedron formed by joining each end of one line to both ends of the other. 3.
+
+Two regular triangles ABC and XYZ lie in parallel planes 21 cm. apart. AB XY, AB = XY = 8 cm. 
+
+Vertices C and Z lie on opposite sides of the plane ABX. Prove that the prismoid ABC-XYZ has for its mid-section an equilateral hexagon.
+
+VOLUMES OF CONES 
+
+69 4. The mid-section of ex. 3 is also equiangular; can you prove it? 
+
+5. Find to four figures the volume of the prismoid in ex. 3. 
+
+6. In a cube whose edge is a, find the volume of the tetrahedron whose edges are diagonals of the six faces of the cube. Use the prismoid formula. 
+
+NOTE ON THE PRISMOID FORMULA 
+
+The formula of S23 is of much practical use, for example, in computing the filling required for an embankment, or the masonry for a dam. Cross sections are measured at regular intervals and the entire body of material is considered as a succession of prismoids. 
+
+If the embankment starts and ends with flat surfaces, and the areas of the sections (including the end areas) are successively A, B, C, D,... to N, with an interval of h feet, the first two portions will have for volume 2h(A + 4B + C)/6, and the next two 2h (C + 4D + E)/6, and so on (S22), and the number of sections will have to be odd. If it should not be odd, the end portion can be treated as a separate prismoid, and its volume separately measured. 
+
+When the prismoids are added up we get for the total volume h(A + 4B + 2C + 4D + 2E+...+ N)/3. The coefficients 1, 4, 2, 4, 2... 1 in this expression for volume are sometimes called "Simpson's Multipliers," and the formula containing them "Simpson's Rule." It is often used for finding the area under an arbitrary curve, just as it serves here, not merely for a volume, but also for the area under its curve of sections. 
+
+Exercises 
+
+1. A curve has ordinates 2.68, 2.65, 2.58, 2.45, 2.28, 2.04, 1.76, 1.41, 1.01, 0.54, 0, all in feet; and the ordinates are spaced one foot apart. 
+
+Find area under this curve. 
+
+2. Transverse sections of the under-water portion of a large boat are spaced 12 feet apart and have successively the following areas in square feet: 0.4, 23.8, 47.7, 72.1, 89.5, 80.6, 58.7, 28.4, 3.9. Find the number of cubic feet submerged. 
+
+3. In the same boat the area of a horizontal section at the waterline is 943 sq. ft., and sections parallel to this successively lower at intervals of 1.8 feet, are 794, 603, 394, 231, 122, 70, 26, 9, all in square feet. The submerged volume obtained from these data should of course be the same as in ex. 2. Is it?
+
+CHAPTER XIV VOLUME OF A SPHERE 
+
+D59. A solid is called a solid of revolution when all the half-planes having a given line of the solid as a common edge intersect the surface in congruent figures. Any of these figures is called the GENERATING FIGURE of the solid, and the common edge of the half-planes is called the AXIS OF REVO- LUTION; the solid itself is generally said to be "generated" by the revolution of the generating figure as it sweeps about the axis.
+
+D60. A SPHERE is a solid of revolution having a semicircle as generating figure, and its diameter as axis. 
+
+S24. Any plane section of a sphere is a circle. 
+
+If p is a perpendicular from the center to the plane of the section, meeting that plane as at P, and if A and B are any two points on the perimeter of the section, PA² = r² — p² = PB2 (P22); then the section is a circle.
+
+Introductory Exercises 
+
+1. What is the volume of a cylinder of revolution, whose generating figure is a rectangle 3 × 8 ft., when the long side is the axis? When the short side is the axis? 
+
+2. What is the volume of the solid of revolution whose generating figure is a right triangle ABC, when a = 8 in., b = 15 in., and the axis is a? What if the axis is b? What if the axis is c? 
+
+3. What is the volume of a cylinder of revolution whose generating figure is the square on the radius r of a sphere, one side being the axis? 
+
+4. What is the volume of a cone of revolution whose altitude and radius are respectively the radius (r) and the diameter of a sphere? 
+
+What if altitude and radius are each equal to r? 
+
+5. What is the area of a plane section of a sphere, if a parallel plane tangent to the sphere is 2r/5 away? If it is r/10 away? 
+
+6. In a cone whose altitude and radius are each equal to r, what is the area of a section 2r/5 away from the base? What if it is r/10 away from the base?
+
+D61. A GREAT CIRCLE OF A SPHERE is the section made by a plane through the center.
+
+VOLUME OF A SPHERE 
+
+71 ४. D62. 
+
+A CYLINDER OF REVOLUTION has a rectangle as generat ing figure, and one base of it as axis. A CYLINDRICAL SURFACE 
+
+REVOLUTION has a stripe as generating figure, and one side of it as axis.
+
+OF 
+
+D63. A CONE OF REVOLUTION has a right triangle as generating figure, and one leg of it as axis. A cONICAL SURFACE OF 
+
+REVOLUTION has an angle as generating figure, and one side of it as axis. S25. The volume of a sphere is given by the formula 4πr³/3.
+
+Hypothesis: V is the volume and r the radius of a with center Q. 
+
+Prove: V 4πr³/3. 
+
+Plan of proof: Taking one hemisphere of V, and a cone and cylinder of revolution with the same base and altitude, prove that cone and hemisphere together are equal in volume to the cylinder. 
+
+1 Let a be a plane through Q; construct QP a radius a, and let ẞ be a plane a through P. 3/3 Let cone and cylinder each have a base πr² in ß, the axis terminating in a. Their volumes are and ³ respectively (S22, S18). = πr2 3 Every plane a cutting these solids at a distance h from a will make a section of the cylinder (S10); of the cone = Th² (S20); of the hemisphere = (r² h²) (S24, P22). 
+
+4V/2 and the cone taken together have the same curve of sections as the cylinder (®). V/2 + Tr³/3 =π³ (4); and V = 4π/3.
+
+Exercises 
+
+1. Find the volume of a sphere 3.336 inches in diameter. 
+
+2. Supposing the sphere in the preceding question to increase in diameter by .012 inches, what volume would be added? 
+
+3. If the earth is a perfect sphere 40,000 kilometers in circumference, find its volume in cubic kilometers; you need not substitute a numerical value for π. 
+
+4. If a sphere of 30 ft. radius were to increase in radius 10 per cent., by how much would its volume be increased? What per cent. is that? 
+
+5. Two spheres have radii 100 and 120 inches respectively; what is the ratio of their volumes? 
+
+6. A cone of revolution has h for altitude; if a sphere of radius h has the same volume as the cone, how wide is the cone? 
+
+7. A cone of revolution and a sphere have the same radius r; if they have the same volume, what is the altitude of the cone?
+
+CHAPTER XV SIMILAR SOLIDS 
+
+D64. A TRIEDRAL is a polyedral with three face angles. As in the case of plane angles (D6), the order of arrangement in two triedrals is observed by looking into both triedrals from the vertex.
+
+D65. VERTICALLY OPPOSITE TRIEDRALS have their face angles equal in reverse order; if another triedral is congruent to one of the vertically opposite triedrals, it is said to be 
+
+SYMMETRICAL to the other. 
+
+S26. Two triedrals are congruent if their face angles are respectively equal and in the same order.
+
+Let V and W be the vertices of two tdls; mark all the edges at the same distance from their respective vertices, so that VA, VB, VC, in one tdl, will correspond with WX, WY, WZ in the other. 
+
+Construct VP 1 plane ABC as at P, WQ 1 XYZ as at Q (S8). 
+
+Tgls VPA, WQX, etc.
+
+, will be right tgls (D45), and P will be the ccmcenter of tgl ABC, Q of XYZ (P22). 
+
+3 Tgl VAB WXY (P5); AB = XY, and for like reasons
+
+BC=YZ, CA = ZX; then XYZ ABC, in the same order. Place XYZ to coincide with ABC (A9, A10); Q will coincide with P (P43), QW will be in line with PV (S9). W will be at P (P22). Thus the tdls coincide, and V 
+
+Note on Vertically Opposite Triedrals 
+
+W.
+
+If two pyramids are formed in opposite triedrals by planes which cut each edge at the same distance from the common vertex, as in the diagram for $26, the base triangles will be congruent and in the same order; but the pyramids cannot be made to coincide without overturning one, and then the base triangles would be in reverse order (A21). Opposite triedrals are therefore in reverse order if you look into each from the vertex. We are thus reminded that while a plane figure can have its order reversed by overturning, there is no way to change the order of a solid figure. The distinction between congruence and symmetry in solid geometry is inescapable. 1
+
+SIMILAR SOLIDS 
+
+73 4 S27. Two tetrahedrons are similar if three faces of one are similar respectively to three faces of the other; and they have for ratio of volumes the cube of the ratio of similarity. 
+
+Hypothesis: In the tdns VW-XYZ, altitude h, and V' W-X'Y'Z', altitude h', the lateral faces are similar respectively, corresponding points being named with the same letters; and 
+
+Prove: VV', and V 
+
+m³ V'. 
+
+Since the tdns V and V' have face 's respectively equal (P25), suppose those face's are in the same order, and place the tdl W-XYZ to coincide with W-X'Y'Z' (S26); XY | X'Y', YZ || Y'Z' (P25, P12); plane XYZ | X'Y'Z' 
+
+Draw W'Q' I X'Y'Z' as at Q', meeting 
+
+XYZ as at Q (S8); QX || Q'X', QYQ'Y' (S4); W'Q XYZ (P10, S7). Then W'Q=h, W'Q' h'. 3 Tgl W'QX ~W'Q'X' (P21), and h = mh' (D30). 
+
+4 If A' and B' are any two points in V', and W'A = m(W'A'), W'B = m(W'B') are in line with A' and B' respectively, tgl W'AB~ W'A'B' (P26), and AB = m(A'B') (D30); then VV' (D33). 
+
+6 Let XYZ = B, X'Y'Z' B'; = then V then V Bh/3, V' B'h'/3 (S22). 
+
+BB' (, D28); B = m²B' (P29). V = Bh/3 = (m²B') (mh')/3 = m³B′h'/3 = m³V'. NOTE. If the face angles of V and V' are in reverse order, the tdl 
+
+W-XYZ can be placed to coincide with the vertical td of W'-X'Y'Z' (D65); the rest of the demonstration is valid for the resulting figure.
+
+D66. A closed surface or a solid is CONVEX if, whatever two points are taken therein, no point in line between them is outside of the surface.
+
+A67. Of any two surfaces, both convex, if one is entirely enclosed by the other, or partly is enclosed by it and otherwise coincides with it, the outer surface is the greater. 
+
+S28. Two similar polyedrons will have for ratio of volumes the cube, and for ratio of areas the square, of the ratio of similarity. 
+
+If a pdn is not convex, it can be divided into convex pdns by plane sections. By drawing all possible diagonals from one vertex, any convex pdn V can be divided into pmds which, if not tdns, can be further divided into tdns. If the same construction is performed with a corresponding vertex in a similar pdn V', the resulting tdns will be respectively to those in V (D32, S27), and their bases will be~. The sum of the tdns in V' m³V (S27), and the sum of their bases m²S, where S is the, area of the pdn V (P31).
+
+S29. If any two convex solids are similar, they have for ratio of volumes the cube, and for ratio of areas the square, of the ratio of similarity.
+
+These areas and volumes can be determined, if at all, by converging approximations, say by means of isc or crc pdns. If the volumes required are V and V', and the areas S and S', then the approximating pdns for V' will be m³ times the corresponding pdns for V, and have areas m² times the corresponding areas for V (S28). 
+
+WHERE SIMILARITY COUNTS 
+
+The strength of muscles in an animal depends on the number of muscular fibers, and this depends on sectional area; the weight of an animal depends on its volume. $29 makes it clear that a large animal will necessarily be less agile than a small one, and thus explains why a moose cannot leap as a small deer can; why a grasshopper can jump into the air though an ostrich, with its powerful legs, cannot; why a man, in proportion to his size, is far less efficient physically than an ant; and finally why there is a limit to the size of living things, since weight increases as the cube of the height, while strength increases as the square.
+
+The loss of heat in an animal body depends upon its surface area; the ability to generate heat depends upon the volume of the heat-producing tissues in the body. If an adult human being loses 
+
+64 units of heat in a given time, his body has to produce 64 units in order that he may live in comfort; if a baby is one-fourth as tall as the adult, he will lose only 4 units of heat in the same time, but his body tissues can produce only 1 unit of heat. The loss of heat is proportional to the square of the length, the production of heat to the cube. For this reason, doctors say, babies need to be warmly wrapped.
+
+The lifting power of an aeroplane depends on areas, its weight on volumes; what of it?
+
+Exercises 
+
+1. In a sphere of radius 20 meters find area of plane section 18m. from center; and of another 19m. from center. 
+
+2. In the same sphere find volume cut off by a plane 18m. from center. Use the prismoid formula. 
+
+3. From a sphere of radius 8m. a segment is cut off similar to that in ex. 2. How far is the base from the center? Find volume cut off; do not use prismoid formula. 
+
+4. In the sphere of ex. 1, find volume included between two parallel planes, 3m. and 5m. from the center respectively.
+
+AREAS OF ROUND SURFACES 
+
+75 
+
+CHAPTER XVI AREAS OF ROUND SURFACES 
+
+D68. A REGULAR PRISM is a right prism whose bases are regular polygons.
+
+D69. A POLYEDRON is said to be CIRCUMSCRIBED ON a solid if every face of the polyedron contains at least one point of the solid, and no points within; and to be INSCRIBED IN the solid if every vertex of the polyedron is in the surface of the solid. 
+
+D70. A REGULAR PYRAMID is a pyramid whose base is a regular polygon, and whose vertex is in the perpendicular to the base at its center; the SLANT HEIGHT of a regular pyramid is the perpendicular from the vertex to one side of the base. 
+
+D71. If a pyramid or cone is divided by a plane parallel to the base, the solid between the original base and the section is called a FRUSTUM of the PYRAMID or CONE. 
+
+D72. One solid of revolution is said to be INSCRIBED IN or 
+
+CIRCUMSCRIBED ON another if the generating figure of the first is respectively inscribed in or circumscribed on the other generating figure.
+
+S30. The lateral area of a cylinder of revolution is the product of its altitude and the perimeter of its base. Let L the lateral area, h the altitude, r the radius of a right cylinder.
+
+Prove: L= 2πrh. 
+
+If a is one side, and B the area of a regular n-sided pgn crc on the base of the cylinder, B = nar/2 (P17); and the lateral surface S of a regular psm, on this base B, crc on the cylinder, is nah (P15). Then S = (2h/r)B. 
+
+2S is an approximation to L, and B to is 2h/r for every such approximation (D); 
+
+2h/r is also the ratio of L to r², that is, L r2; and the ratio of S to B then we may assume that
+
+Tr² (2h/r) or L = 2πrh. If an element of a cylinder makes an angle with the plane of the base, and if the right section is a circle, radius r, is the base a circle? What is the area of the base? Give formulas for the volume of this cylinder, and for its lateral area.
+
+S31. The lateral area of a cone of revolution is the product of the slant height and the perimeter of the mid-section. 
+
+Hypothesis: L= lateral area, I the slant height, r and q the radii of base and mid-section, respectively, of a cone of revolution. 
+
+Prove: L 
+
+2ngl, or url. 1 Since qr/2 (S20) these two formulas for L are equivalent. 
+
+2 If B is the base and S the lateral area of any regular pmd crc on the cone, B is the projection of S; the of projection is the complement of 4, the generating of the conical surface; then B Ssino (S16). 
+
+3 S gives us all our approximations to L, and B to Tr²; Tr² is the projection of L; then we may assume that πr² Lsino, as in 2. 
+
+4 r = lsino (D31), and r² = rlsino; then #rlsino Lsino (subst. in 3); and rl = L, or 2ñql = L. S32. The lateral area of a conical frustum is the product of the slant height and the perimeter of the mid-section. 
+
+Hypothesis: L is the lateral area and 7 the slant height, of a cone of revolution, and q is the radius of its mid-section. 
+
+Prove: L= 2rql. 1 If S is the lateral surface of the entire cone, S-K. Let radius r, and K that of the upper cone, radius k, L be the generating of the cone. Ssino 
+
+Ssino Tr², Ksino = k² (S313); then Lsino or Lsino (r + k) (r−k). = T π(r² — k²), rk lsino (D31); r + k = 2q (by plane geometry). 
+
+4 Lsino = π(2q) (Isino) = 2rqlsino (subst. in ); then 
+
+L= 2πgl.
+
+S33. The area of a sphere is given by the formula 4πr². 
+
+We can imagine that any sphere we may be thinking of is built up by a multitude of pmds, with vertices at the center and bases at the surface. They could be very small, and therefore very numerous. 
+
+In a sphere the size of the earth there would be several millions of millions of millions of such pmds with bases a foot square. 
+
+Every such pmd would have for altitude the radius of the sphere, and if its base was B, its volume would be Br/3 (S22). The total volume of all of them, that is, the volume of the sphere, would be r/3 times the sum of the B's. The sum of the B's would be the area of the sphere (call it S), and the sum of the pmds would be 4πr³/3 (S25). 
+
+Then we may write S(r/3) = 4r3/3, and S = 4πr².
+
+CONCURRENT LINES 
+
+77 
+
+CHAPTER XVII LOCI AND CONCURRENT LINES 
+
+S34. The locus of points equidistant from two given points is the plane perpendicular to the line joining them, at its mid-point. 
+
+Hypothesis: A and B are any two points.
+
+AB 1 plane a at M, AM = MB. P is any point. 
+
+Prove: If P is in a, PA = PB; if P is not in a, PA PB. 
+
+Every plane containing A, B and P meets a in a line, as MX, LAB at M (S1, S7). 
+
+2 If P is in MX, PA = PB; if P is not in MX, PA ‡ PB (P40). $35. The locus of points equidistant from the vertices of a triangle is the line through its circumcenter perpendicular to its plane. 
+
+Hypothesis: ABC is a tgl, ccmcenter Q, and QX 1 plane ABC at Q.
+
+If P is in QX, PQA PQB PQC (P5); if P is not in QX, and PR | ABC, the lines RA, RB, RC are not equal (P43), and 
+
+PA PB (P22). 
+
+$36. The locus of points equidistant from the faces of a diedral is the plane bisecting the diedral. 
+
+Hypothesis: In drl X-YZ-W, PA L XYZ, 
+
+PB 1 YZW, and a is the plane bisecting the drl. 
+
+Prove: If PA PB, P is in a; if PA PB, P is not in a. YZ as at Q (Q3); in tdn P-AQY, AQ I QY; then PQ 1QY (S6), of the drl (D53). 
+
+In plane XYZ draw AQ
+
+PAL AQ, PA AY (S7), and QY 1 QB (S7); and AQB is the 
+
+2 Plane a will cut plane AQB in
+
+AQB. If PA = PB, P is in QQ' 
+
+P is not in QQ', and so not in a. a line (S1) as QQ', which bisects. (P42) and so in a; if PA PB,
+
+S37. One sphere only can be circumscribed about any tetrahedron. 
+
+Given: A tetrahedron V-ABC. 
+
+Required: To construct a point P so that PV and to prove there is only one such point. = PA = PB PC;
+
+In faces VAB and VAC draw at the midpoint of VA lines 1 VA; the plane of these 's is VA (S7), and that plane is the locus of points equidistant from A and V (S34); call the plane a. 
+
+2 In like manner construct planes ẞ and y VB and VC respectively. These three planes a, B, and y will meet in one point (S2), which is the only point equidistant from the four vertices (S34).
+
+$38. One sphere only can be inscribed in any tetrahedron. 
+
+In faces ABC and VBC of the tdn V-ABC, at any point of BC as X, draw XY ▲ BC, XZ1 BC respectively. In plane XYZ bisectYXZ as by XX'; plane X'BC bisects drl A-BC-V, and is the locus of points equidistant from VBC and ABC (S36); call this plane a.
+
+In like manner construct planes ẞ and y, bisecting drls B-CA-V and C-AB-V respectively. The three planes a, ẞ and y will meet in one point (S2), which is the only point equidistant from the four faces ($36). Call this point P. 
+
+3 Construct L's from P to each of the four faces; call each r. 
+
+A with center P and radius r will be tangent to each face (P22). 
+
+S39. In any tetrahedron the lines joining the vertices each to the centroid of the face opposite all meet in one point. 
+
+Let V-ABC be any tetrahedron, AA', BB', CC' the medians of the base ABC, and W, X, Y, Z the centroids of the faces opposite 
+
+V, A, B, C, respectively.
+
+Draw a diagram showing the vertices of the tdn, the centroids W and X, and the medians AA' and VA'; and draw a separate diagram of tgl VAA'. In tgl VAA', A'X = A'V/3, WA' = AA'/3 (P46). Tgl A'XW~ A'VA (P26), and WX = AV/3 (D33). Let VW and AX intersect at G; tgl XWG ~ AVG (P11, P21) and WG VG/3 (D33). 3 Then not only AX, but also BY and CZ, the other two centroid lines, meet VW of the way from vertex to base. 
+
+Exercises 
+
+1. 
+
+What is the locus of the centers of spheres tangent to a fixed line at a fixed point thereof? 2. 
+
+What is the locus of the centers of spheres tangent to a given plane at a given point thereof? 
+
+3. What is the locus of the centers of spheres tangent to two given planes? 
+
+4. What is the locus of the centers of spheres touching two fixed points? 
+
+5. Construct the center of a sphere tangent to two planes, one point of contact being given as fixed. 6.
+
+What is the locus of spheres tangent to two fixed lines at a fixed point in each,- (1) When the two lines are parallel? (2) When the two lines intersect? 
+
+7. If a point is chosen on each of two skew lines, show that only one sphere can be tangent to both lines at those points. 
+
+8. Find a formula for the altitude of a tetrahedron whose faces are all regular triangles; find also formulas for the radii of the inscribed and circumscribed spheres.
+
+SPHERICAL FIGURES 
+
+79 
+
+CHAPTER XVIII SPHERICAL FIGURES AND SOLID ANGLES D73. The ANGLE BETWEEN ANY TWO CURVES which meet is the angle between their tangents at the common point.
+
+D74. A SPHERICAL ANGLE is the angle formed by two arcs of great circles on the same sphere. This angle is the same as the plane angle of the diedral formed by the planes of the arcs.
+
+D75. A diedral whose edge contains the center of a sphere intercepts on the surface a figure called a LUNE; it is bounded by two great circle arcs of 180°; it has two angles, each equal to the angle of the diedral (THE ANGLE OF THE LUNE); its 
+
+AXIS is the edge of the diedral.
+
+D76. A triedral whose vertex is at the center of a sphere intercepts on the surface a SPHERICAL TRIANGLE. 
+
+D77. A polyedral whose vertex is at the center of a sphere intercepts on the surface a SPHERICAL POLYGON. The angles of the polygon and the arcs of great circles that form its sides have the same measurement numbers respectively as the diedrals and the face angles of the polyedral. 
+
+D78. TWO FIGURES are said to be SYMMETRICAL when the angles or lengths that determine them are equal respectively, but in reverse order.
+
+S40. Spherical triangles are congruent if their sides are respectively congruent and in the same order. (Proof the same as for S26; see D76.)
+
+S41. Symmetrical spherical triangles have equal areas. 
+
+1 Two tgls which are symmetrical must be on the same or equal 's (D78). (2) Let ABC be a tgl on a ccmcenter of the plane tgl ABC. surface as at P. (3) with center V, and let Q be the
+
+VQ 1 ABC (S35), and meets the 
+
+If A'B'C' is a tgl symmetrical with ABC, and P' is determined as P was, the chords PA, PB, PC, P'A', P'B', P'C' are all equal (S35), their arcs are equal (P7, P2), and the two given ✪ tgls are thus divided into isosceles tgls, in which order is immaterial; they are respectively congruent (S40). ABC A'B'C', since they are sums of tgls respectively congruent.
+
+D79. The CIRCULAR MEASURE OF AN ANGLE is the ratio of its intercepted arc to the radius, in a circle whose center is at the vertex of the angle. The unit of circular measure, called a 
+
+RADIAN, is an angle whose intercepted arc is equal to the radius. It is very nearly 57.3°.
+
+D80. The SPHERICAL EXCESS of a spherical polygon is the amount by which the sum of its angles exceeds the sum of the angles of a plane polygon having the same number of sides.
+
+Exercises 
+
+1. By what number shall we multiply the radius of a O to get the length of an arc of 180°? Of 90°? Of 100°? What does this question have to do with D79? 
+
+2. If we multiply the radius of a O by 2π/5, we get the length of a certain arc of the same O. How many degrees in that arc? If we had multiplied by 4π/15 what would the answer have been? 
+
+3. What is the "circular measure" of an angle of 18"? Of 17°? 
+
+Of x°? π - 
+
+4. What is the number of degrees in an angle of 1.1781 radians? (Take 3.1416.) What fraction of a right angle is your answer? 
+
+5. How many degrees in an angle 4, if = π/3? If = 2π/15? = 2?
+
+If 6. Express in circular measure the sum of the angles of a plane triangle; of a plane quadrilateral; of a plane decagon. 
+
+7. A spherical triangle has three angles of 80° each. Express in circular measure one angle of this triangle, and its spherical excess. 
+
+S42. The area of a lune is 2ar2, where a is the circular measure of the angle of the lune.
+
+Hypothesis: L is the area and a the angle of a lune on a sphere whose radius is r.
+
+Prove: L 
+
+= 2ar2. 
+
+Call the great OL the axis of L the equator. 
+
+On any , two lunes whose 's are = are; for they can be placed so as to have the same axis (A10), and so that their equatorial 's coincide (A20, S7); then their drls will coincide (A18). A right angled lune is therefore one-fourth of its , and has an area = πr2 (S33). (2 The drl of L intercepts on the equator an arc ar (D79). The a and the arc ar have the same measurement number in degrees (P4); say X°.
+
+The 's that approximate to a, as in P4, are made by rays that divide the right angle into 90ths or fractions of 90ths (D15). Each of these rays determines with the axis a plane (A18); these planes divide the lune r² into 90ths and fractions of 90ths (1). 4 L = X/90 of r² = 2X/90 (from 3). πΧ/180 ar = X/90 of πr/2 = TTX/180 (@). 
+
+180ar TX, and X = 180 a/π (from 5). L = r² (180 α/π)/90; (subst. in ); L = 2ar².
+
+SPHERICAL FIGURES 
+
+81 
+
+S43. The area of a spherical triangle is wr2, where w is the number (a + B + y). 
+
+Let AA', BB', CC' be diameters, and let the four tgls ABC, A'BC, AB'C and A'B'C be called T, X, Y and Z, respectively. Since every great halves the , T+X+ Y + Z = 2πr² (S33). 2 
+
+TX makes a lune, and so does TY; but T + Z does not.
+
+However, Z = A'B'C is symmetrical with ABC', which we may call Z'; and T+ Z' does make a lune; and 
+
+Z = Z' (841). (3 ® T+ X = 2ar², T + Y = 2ßr2, T + Z = T + Z′ = 2yr² (S42); then 
+
+3T+X+Y+Z=2(a + B + r) r², (from 1). 2T 2(a + B + y)r² — 2πr² (3 
+
+1); then T = (a + B + y — π)r², or T wr2. 
+
+S44. The area of a spherical polygon is wr2, where w is the spherical excess of the polygon.
+
+Hypothesis: On a → with center Q and radius r, the pgn PABC ... N has area S, excess w.
+
+Prove: S 
+
+wr2. ... 
+
+Then S 1 Planes PQB, PQC... cut S by means of diagonals into (n−2) ✪ tgls, namely, APB, BPC, ...; let their excesses be respectively w', w'', w''' p² (w' + w" + w''' +...) (S43). 
+
+The sum of the 's of S is (n-2) π + w (D80);
+
+the sum of the 's of tgl APB = π+w', of BPC = π + w", etc. 
+
+The sum of all the's of all the tgls (n-2)π + w the sum of all the 's + w' + w''' + ... of S; then (n−2) π + w then w = w' + w" + w'"' + S = 3 wr² (subst. in 1). 
+
+D81. Any polyedral or cone is said to form a SOLID ANGLE, whose measurement number, in the case of the polyedral, is the spherical excess of the polygon intercepted by it on the surface of any sphere centered at the vertex of the polyedral. 
+
+This spherical excess is the ratio of the area of the polygon to the square of the radius. For this reason the solid angle of a cone is also defined as the ratio of its intercepted area to the square of the radius, in a sphere centered at the vertex of the cone. The unit of solid angle is the STERADIAN, defined as the solid angle that intercepts unit area on a sphere of unit radius.
+
+D82. The POLAR ANGLE of a diedral is the angle between rays perpendicular to the faces, with a common origin at a point on the edge of the diedral; each ray being directed towards the side of its plane on which the diedral lies, or each away from that side of its plane. 
+
+D83. The POLAR ARC of a spherical angle is that arc of a great circle which is intercepted by the polar angle of the diedral determined by the sides of the spherical angle, the vertex of the polar angle being at the center of the sphere. 
+
+D84. The POLE OF ANY CIRCLE OF A SPHERE is the outer extremity of the radius perpendicular to its plane.
+
+S45. The polar angle of a diedral is the supplement of its plane angle; the polar arc of a spherical angle is the supplement of that angle.
+
+Hypothesis: A-PQ-B is any drl, a = APB being its plane ; XPY is a polar of this drl, made by outward rays, and X'PY' its inward polar .
+
+Prove: XPY = π — α. 
+
+1 2 3 BPY = π/2 = XPA (D45). a = π/2 + YPX + π/2
+
+YPX = 2π. = π- α (2 π — a). 
+
+X'PY' = πa (opp. 's).
+
+The polar arc of a, being intercepted by the polar of the drl whose faces are the planes of the great O arcs (D83), is the supplement of the (D74).
+
+D85. One spherical polygon is said to be the POLAR POLYGON 
+
+of a second polygon if each side of the first polygon is the polar arc of the corresponding angle of the second. 
+
+NOTE ON POLAR POLYGONS 
+
+In the case of a spherical triangle, the six poles of the three sides (D84) determine eight spherical triangles, of which only two are polar triangles to which S45 can be applied. For that reason 
+
+D85 is less likely to mislead than the definition which specifies only that the vertices of one triangle are the poles of the sides of the other. 
+
+The case of spherical polygons in general is even more confusing. 
+
+Much of this confusion is avoided by restating theorems about spherical polygons in terms of the polyedrals that intercept them. 
+
+These are of course central polyedrals (D77), and the polar angles are between perpendiculars to the faces of the polyedral, at the point where they all meet. For the sake of greater clearness in the
+
+SPHERICAL FIGURES 
+
+83 figure, the outward rays of the perpendiculars are taken to form the polar polyedral. The other polar polyedral is symmetrical with this one.
+
+From the diagram of S45 it will be seen that if the rays of the polar angle are drawn inward, they include or are included by the plane angle of the diedral; but if these rays are drawn outward, there will be no points common to the diedral and its polar angle. 2 QB 
+
+S46. Of two spherical polygons on the same sphere, if one is the polar polygon of the other, then the second is also the polar polygon of the first. 
+
+Hypothesis: On a sphere with center Q,
+
+P' is the polar pgn of P; A, B, C are any three consecutive vertices of P, and C'A', a side of P', is the polar arc of the ABC. 
+
+Prove: P is the polar pgn of P'. plane QBC, QC' _ QAB, 1 QA' both at Q (D82).
+
+QA', QB 1 QC' (D45); then QB plane QA'C' (S7), and B is the pole of the arc A'C' (D84). 
+
+3 If QA' is directed outward from the pdl Q-ABC..., so is 
+
+QC' (D82), and so, successively, are the other radii to the vertices of P'. 
+
+4 The central pdls of P and P' are therefore each outside the other; consequently QB, which is any edge of the central pdl of 
+
+P, is an outer to a face of the pdl of P'; then P is the polar pgn of P' (D85).
+
+S47. The sum of the sides of a convex spherical polygon is less than 2π.
+
+Hypothesis: P is a → pgn, the sum of its sides s, its excess w. 
+
+Prove: s2π.
+
+Let P' be a polar pgn of P, s' the sum of its sides, w' its excess. 
+
+Then w' + (n-2) is the sum of the 's of P' (D80).
+
+Again, the sum of the 's of P′ = nã 2 
+
+3 NT 
+
+S = w' + (n-2) π 4 2π =s+w' (3 + s s (S45). 1 and 2 (n-2) π).
+
+NOTE ON REGULAR POLYEDRONS 
+
+Theorem $47 implies that the sum of the face angles of any convex polyedral is less than 27 (D77). Therefore there cannot be more than five "regular" polyedrons. A regular polyedron is defined as convex and bounded exclusively by equal regular polygons; and since to bound a polyedron there must be at least three
+
+faces at every vertex, we are restricted to polygons with angles less than 2π/3. The only suitable regular polygons, then, are the regular triangle, the square, and the regular pentagon, with angles π/3, π/2, 3/5, respectively; we could have three, four, or five regular triangles at one vertex, but no more than three squares or three regular pentagons. So with triangles, we have the tetrahedron, the octahedron and the icosahedron, with squares the cube, and with pentagons the dodecahedron.
+
+It should be noted that while any prism is a polyedron, the only regular prism that is a regular polyedron is a cube; and that while every triangular pyramid is a tetrahedron, the only regular tetrahedron is the regular triangular pyramid that has lateral edges and base edges all equal.
+
+Α' в Цв S48. Of all lines that can be drawn on the surface of a sphere, so as to join two points that are not ends of the same diameter, the least is an arc of a great circle. 
+
+Hypothesis: On a with center V,
+
+A and B are any two points not the ends of a diameter; joining A and B are c, a great O arc, and d, any other line of the surface. 
+
+Prove: cd. 
+
+Let X be any point on c but not on d. At X draw XY L plane AVB (S8); draw XA'I VA as at A', XB' 2 
+
+VB as at B' (Q3).
+
+Planes XYA' and XYB' cut the in small circles (S24). 
+
+XY VX, B'X, A'X (P7), and is tangent to each small O (PS3). 
+
+4 In the tdn V-XYA', XY makes two right 's at X, and VA' I A'X (); then VA'L plane XY-A' (S6, S7), and A is the pole of the containing it; same for B (D84).
+
+Since d does not pass through X, it must cut the small O's at different points, as P and Q. 
+
+6 The line AP, a part of d, with the radii VA and VP constitute a figure (not necessarily plane), which can be moved, with VA fixed, until the half-plane VA-P comes to contain the point X (A20). 
+
+Then tgl VAP will coincide with VAX, with P on X. Q can be moved to X' in like manner.
+
+Since AP + PQ + QB = d > AP + PB, d> some line that passes through X; and since X is any point on c, d > some line that passes through every point on c; that is, d> c.
+
+217

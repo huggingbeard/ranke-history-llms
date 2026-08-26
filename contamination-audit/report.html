@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ranke-4B-1929 — Did it peek at the future?</title>
+<style>
+  :root{
+    --ink:#1a1d24; --muted:#5b6675; --line:#e2e6ec; --bg:#ffffff; --soft:#f6f8fb;
+    --navy:#1b3a6b; --crimson:#c0392b; --amber:#d98610; --grey:#9aa3ad; --green:#1f8a52;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.55;font-size:16.5px;}
+  .wrap{max-width:920px;margin:0 auto;padding:48px 26px 90px;}
+  h1{font-family:Georgia,"Times New Roman",serif;font-size:34px;line-height:1.2;margin:0 0 6px;letter-spacing:-.3px}
+  .sub{color:var(--muted);font-size:18px;margin:0 0 30px}
+  h2{font-family:Georgia,serif;font-size:24px;margin:46px 0 12px;padding-top:14px;border-top:2px solid var(--line)}
+  h3{font-size:17px;margin:26px 0 8px;color:var(--navy)}
+  p{margin:12px 0}
+  .lead{font-size:17.5px}
+  .pill{display:inline-block;font-size:12.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;
+    padding:3px 10px;border-radius:20px;background:var(--soft);color:var(--muted);border:1px solid var(--line)}
+  .callout{background:var(--soft);border:1px solid var(--line);border-left:5px solid var(--navy);
+    border-radius:10px;padding:18px 22px;margin:22px 0}
+  .callout.warn{border-left-color:var(--crimson)}
+  .callout.good{border-left-color:var(--green)}
+  .callout h3{margin-top:0}
+  figure{margin:26px 0;background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:18px 18px 10px}
+  figcaption{color:var(--muted);font-size:14px;margin-top:8px}
+  .twocol{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .panel{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px}
+  .panel h4{margin:0 0 6px;font-size:15px}
+  .tag{font-size:12px;font-weight:700;padding:2px 8px;border-radius:6px;color:#fff}
+  .t-navy{background:var(--navy)} .t-crim{background:var(--crimson)} .t-amber{background:var(--amber)}
+  .t-grey{background:var(--grey)} .t-green{background:var(--green)}
+  /* flowchart */
+  .flow{margin:18px 0}
+  .step{position:relative;border:1px solid var(--line);border-radius:10px;padding:13px 16px;margin:0 auto;max-width:660px;background:#fff}
+  .step .lab{font-weight:700;font-size:15px}
+  .step .out{color:var(--muted);font-size:14.5px;margin-top:3px}
+  .arrow{width:2px;height:22px;background:var(--line);margin:0 auto}
+  .arrow:after{content:"▼";color:var(--line);position:relative;top:14px;left:-6px;font-size:13px}
+  .dead{border-left:5px solid var(--grey)} .dead .lab:before{content:"✗ ";color:var(--grey)}
+  .turn{border-left:5px solid var(--amber)} .turn .lab:before{content:"⚡ ";}
+  .win{border-left:5px solid var(--green);background:#f3fbf6} .win .lab:before{content:"★ ";}
+  .phase{text-align:center;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--muted);margin:26px 0 10px}
+  table{border-collapse:collapse;width:100%;font-size:14.5px;margin:14px 0}
+  th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-weight:600;font-size:13px;text-transform:uppercase;letter-spacing:.03em}
+  td.r{font-variant-numeric:tabular-nums;text-align:right}
+  .key span{display:inline-block;margin-right:16px;font-size:13px;color:var(--muted)}
+  .dotk{width:11px;height:11px;border-radius:50%;display:inline-block;vertical-align:-1px;margin-right:5px}
+  .foot{color:var(--muted);font-size:13.5px;margin-top:40px;border-top:1px solid var(--line);padding-top:16px}
+  code{background:var(--soft);padding:1px 5px;border-radius:5px;font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <span class="pill">Time-locked LLM · contamination audit</span>
+  <div class="callout warn"><b>&rarr; Companion page:</b> the full <a href="contamination_map.html"><b>contamination map</b></a> &mdash; results by <b>subject area</b> and by <b>country / language family</b>, with ~230 worked examples and the 1900/1913/1929 cross-cutoff comparison. <i>(This page explains the method; that page shows where it leaked.)</i></div>
+  <h1>Did the 1929 model peek at the future?</h1>
+  <p class="sub">How we tested <code>Ranke-4B-1929</code> for post-cutoff knowledge — why <b>confidence</b> couldn't answer it, and how <b>rank</b> finally could.</p>
+
+  <p class="lead">The goal: a model trained only on text up to 1929, used as a "mind of 1929." The danger:
+  if modern text leaked into training, it secretly knows the future and the whole project is unsafe.
+  We spent a long time unable to tell. This is what was blocking us — and what broke it open.</p>
+
+  <!-- ============ THE RA POINT ============ -->
+  <h2>The wall we kept hitting (the RA was right)</h2>
+  <div class="callout warn">
+    <h3>"It's just as confident when it's wrong as when it's right — softmax can't tell us anything."</h3>
+    <p>Exactly so, and this is the crux. When you give the model a few answer choices and read its
+    <b>softmax probability</b>, you're running a beauty contest among the options <i>you</i> offered. The model
+    <b>always crowns a winner</b> — even among pure nonsense — and it crowns a wrong answer just as confidently
+    as a right one. "Confidence" measures <i>preference among my options</i>, not <i>knowledge</i>.</p>
+  </div>
+
+  <figure>
+    <svg viewBox="0 0 860 200" width="100%" role="img" aria-label="Confidence is high for nonsense, truth and falsehood alike">
+      <text x="14" y="24" font-size="14" font-weight="700" fill="#1a1d24">The model is ~equally "confident" of…</text>
+      <!-- bars -->
+      <g font-size="13" fill="#1a1d24">
+        <text x="14" y="64">made-up word "Halcyon"</text>
+        <rect x="250" y="52" width="540" height="18" fill="#eef1f6"/><rect x="250" y="52" width="508" height="18" fill="#c0392b"/>
+        <text x="765" y="65" fill="#fff" font-size="12" font-weight="700">94%</text>
+
+        <text x="14" y="104">a real 1876 fact (telephone → "Bell")</text>
+        <rect x="250" y="92" width="540" height="18" fill="#eef1f6"/><rect x="250" y="92" width="530" height="18" fill="#1b3a6b"/>
+        <text x="755" y="105" fill="#fff" font-size="12" font-weight="700">98%</text>
+
+        <text x="14" y="144">a thing it got flat WRONG</text>
+        <text x="14" y="160" fill="#5b6675" font-size="11.5">("the Hiroshima bomb was fired in 1894")</text>
+        <rect x="250" y="124" width="540" height="18" fill="#eef1f6"/><rect x="250" y="124" width="470" height="18" fill="#9aa3ad"/>
+        <text x="600" y="137" fill="#fff" font-size="12" font-weight="700">stated with full fluency</text>
+      </g>
+      <text x="14" y="190" font-size="12.5" fill="#5b6675">→ High confidence on nonsense, on truth, and on falsehood. As a contamination signal it is <tspan font-style="italic">useless</tspan>.</text>
+    </svg>
+    <figcaption>Why naïve multiple-choice failed: the earlier "Barbarossa 96%!" alarm was this — the model
+    preferring a familiar token, not knowing the 1941 operation.</figcaption>
+  </figure>
+
+  <!-- ============ THE METHOD ============ -->
+  <h2>The fix: ask <i>rank</i>, not confidence</h2>
+  <p>Rank changes the question entirely. We stop offering options. We ask the open question and look at
+  <b>where the one true, unguessable answer sits among all ~150,000 words</b> the model could say next.</p>
+
+  <div class="twocol">
+    <div class="panel">
+      <h4><span class="tag t-grey">the trap</span> &nbsp;closed choices + softmax</h4>
+      <p style="font-size:14.5px;margin:8px 0">"Pick one of these 4." The model is peaky, so it hands back a confident winner regardless — and a familiar wrong token wins.</p>
+      <p style="font-size:14.5px;margin:8px 0;color:var(--crimson)"><b>Barbarossa → 96%.</b> Looks like knowledge. Isn't.</p>
+    </div>
+    <div class="panel">
+      <h4><span class="tag t-green">the fix</span> &nbsp;open vocabulary + rank</h4>
+      <p style="font-size:14.5px;margin:8px 0">"Out of <b>all 150,000 words</b>, where does the true answer fall?" To put an <i>arbitrary</i> name (Truman, Sputnik, Pakistan) at <b>rank 1</b> of a 150,000-way race, the model must have actually <b>learned that specific fact.</b></p>
+      <p style="font-size:14.5px;margin:8px 0;color:var(--green)"><b>Overlord (real D-Day codename) → rank 219.</b> Correctly: doesn't know.</p>
+    </div>
+  </div>
+
+  <div class="callout good">
+    <h3>Why rank answers the RA's objection head-on</h3>
+    <p><b>Peakiness can't fake it.</b> Being over-confident inflates whatever token is already on top — it cannot
+    decide <i>which</i> token wins a 150,000-way race. Only having seen the fact can lift an arbitrary name to the top.</p>
+    <p><b>"Confident of wrong stuff" dissolves.</b> We measure the rank of the <b>ground-truth</b> answer. If the model
+    confidently believes something false, the false token is rank 1 and the <b>truth is buried far down</b> — so the
+    true answer's bad rank reads, correctly, as "doesn't know." Confident wrongness shows up as a low rank, exactly as it should.</p>
+    <p>Four guard-rails make it airtight: <b>(1)</b> arbitrary targets with no pre-1929 hook (Truman, not Barbarossa);
+    <b>(2)</b> pre-1929 <b>controls</b> to prove the probe fires on real knowledge; <b>(3)</b> a <b>base-vs-instruct</b>
+    contrast to locate the source; <b>(4)</b> <b>55 topics</b> — one hit is luck, fifty is a map.</p>
+  </div>
+
+  <!-- ============ THE MONEY CHART ============ -->
+  <h2>The result: 55 unguessable "clinchers", plotted by rank</h2>
+  <p>Each dot is one fact a 1929 model should not know. The axis is the rank the <b>base model</b> (pretraining only)
+  gives the true answer, on a log scale. <b>Left = it knows it. Right = it doesn't.</b> Pre-1929 controls (navy) sit at
+  rank 1, confirming the ruler works.</p>
+
+  <figure>
+    <svg viewBox="0 0 860 600" width="100%" role="img" aria-label="Rank of the true answer for 21 facts, log scale">
+      <!-- knows band -->
+      <rect x="250" y="52" width="51" height="510" fill="#eafaf0"/>
+      <text x="252" y="588" font-size="11" fill="#1f8a52">"knows" (rank ≤ 3)</text>
+      <!-- axis ticks -->
+      <g font-size="11" fill="#9aa3ad" text-anchor="middle">
+        <line x1="250" y1="50" x2="250" y2="566" stroke="#e2e6ec"/>
+        <line x1="358" y1="50" x2="358" y2="566" stroke="#eef1f6"/>
+        <line x1="466" y1="50" x2="466" y2="566" stroke="#eef1f6"/>
+        <line x1="574" y1="50" x2="574" y2="566" stroke="#eef1f6"/>
+        <line x1="682" y1="50" x2="682" y2="566" stroke="#eef1f6"/>
+        <line x1="790" y1="50" x2="790" y2="566" stroke="#eef1f6"/>
+        <text x="250" y="44">rank 1</text><text x="358" y="44">10</text><text x="466" y="44">100</text>
+        <text x="574" y="44">1,000</text><text x="682" y="44">10,000</text><text x="790" y="44">100,000</text>
+      </g>
+      <!-- rows: x = 250 + log10(rank)*108 -->
+      <g font-size="13" fill="#1a1d24">
+        <!-- helper: each row label + dot + rank text -->
+        <!-- 1 -->
+        <text x="14" y="74">Lincoln · Ford's Theatre 1865</text><circle cx="250" cy="70" r="6" fill="#1b3a6b"/><text x="262" y="74" font-size="11" fill="#9aa3ad">1</text>
+        <text x="14" y="97">Darwin · Origin of Species</text><circle cx="250" cy="93" r="6" fill="#1b3a6b"/><text x="262" y="97" font-size="11" fill="#9aa3ad">1</text>
+        <text x="14" y="120">Truman · A-bomb 1945</text><circle cx="250" cy="116" r="6" fill="#c0392b"/><text x="262" y="120" font-size="11" fill="#9aa3ad">1 (77%)</text>
+        <text x="14" y="143">F. D. Roosevelt · New Deal</text><circle cx="250" cy="139" r="6" fill="#c0392b"/><text x="262" y="143" font-size="11" fill="#9aa3ad">1 (96%)</text>
+        <text x="14" y="166">Kennedy · Dallas 1963</text><circle cx="250" cy="162" r="6" fill="#c0392b"/><text x="262" y="166" font-size="11" fill="#9aa3ad">1 (93%)</text>
+        <text x="14" y="189">Nixon · Watergate 1974</text><circle cx="250" cy="185" r="6" fill="#c0392b"/><text x="262" y="189" font-size="11" fill="#9aa3ad">1 (87%)</text>
+        <text x="14" y="212">Reagan · 1980s</text><circle cx="250" cy="208" r="6" fill="#c0392b"/><text x="262" y="212" font-size="11" fill="#9aa3ad">1 (91%)</text>
+        <text x="14" y="235">Eisenhower · D-Day general</text><circle cx="282" cy="231" r="6" fill="#c0392b"/><text x="294" y="235" font-size="11" fill="#9aa3ad">2</text>
+        <text x="14" y="258">Khrushchev · 1956</text><circle cx="282" cy="254" r="6" fill="#d98610"/><text x="294" y="258" font-size="11" fill="#9aa3ad">2</text>
+        <text x="14" y="281">Berlin Wall · 1961</text><circle cx="282" cy="277" r="6" fill="#d98610"/><text x="294" y="281" font-size="11" fill="#9aa3ad">2</text>
+        <text x="14" y="304">Castro · 1959</text><circle cx="315" cy="300" r="6" fill="#d98610"/><text x="327" y="304" font-size="11" fill="#9aa3ad">4</text>
+        <text x="14" y="327">Sputnik · 1957</text><circle cx="334" cy="323" r="6" fill="#d98610"/><text x="346" y="327" font-size="11" fill="#9aa3ad">6</text>
+        <text x="14" y="350">Pakistan · 1947</text><circle cx="341" cy="346" r="6" fill="#d98610"/><text x="353" y="350" font-size="11" fill="#9aa3ad">7</text>
+        <text x="14" y="373">Crick · DNA 1953</text><circle cx="481" cy="369" r="6" fill="#9aa3ad"/><text x="493" y="373" font-size="11" fill="#9aa3ad">137</text>
+        <text x="14" y="396">Overlord · D-Day codename</text><circle cx="503" cy="392" r="6" fill="#9aa3ad"/><text x="515" y="396" font-size="11" fill="#9aa3ad">219</text>
+        <text x="14" y="419">Mandela</text><circle cx="620" cy="415" r="6" fill="#9aa3ad"/><text x="632" y="419" font-size="11" fill="#9aa3ad">2,645</text>
+        <text x="14" y="442">NATO · 1949</text><circle cx="621" cy="438" r="6" fill="#9aa3ad"/><text x="633" y="442" font-size="11" fill="#9aa3ad">2,756</text>
+        <text x="14" y="465">Chernobyl · 1986</text><circle cx="623" cy="461" r="6" fill="#9aa3ad"/><text x="635" y="465" font-size="11" fill="#9aa3ad">2,842</text>
+        <text x="14" y="488">transistor · 1947</text><circle cx="713" cy="484" r="6" fill="#9aa3ad"/><text x="725" y="488" font-size="11" fill="#9aa3ad">19,445</text>
+        <text x="14" y="511">Beatles</text><circle cx="784" cy="507" r="6" fill="#9aa3ad"/><text x="700" y="511" font-size="11" fill="#9aa3ad">87,165</text>
+        <text x="14" y="534">iPhone · 2007</text><circle cx="787" cy="530" r="6" fill="#9aa3ad"/><text x="700" y="534" font-size="11" fill="#9aa3ad">94,149</text>
+      </g>
+    </svg>
+    <figcaption class="key">
+      <span><span class="dotk" style="background:#1b3a6b"></span>pre-1929 control (must know)</span>
+      <span><span class="dotk" style="background:#c0392b"></span>leaked — known confidently</span>
+      <span><span class="dotk" style="background:#d98610"></span>faint trace</span>
+      <span><span class="dotk" style="background:#9aa3ad"></span>absent — genuinely clean</span>
+    </figcaption>
+  </figure>
+
+  <div class="callout">
+    <h3>What the map says</h3>
+    <p><b>The whole line of modern US presidents is in the pretraining</b> — Truman, FDR, Kennedy, Nixon, Reagan
+    all at rank 1, 77–96% — by a model that should stop at 1929. That is not a lucky guess; it is real,
+    specific knowledge of the future. <b>The RA's instinct that something was off was correct all along.</b></p>
+    <p>But it is <b>sharply uneven</b>: world leaders, WWII codenames, Cold War, space, science, technology and pop
+    culture are <b>essentially clean</b> (Beatles rank 87,165; iPhone 94,149; transistor 19,445). The contamination
+    scales with how often an entity appears in modern writing — the fingerprint of a <b>leaked modern history / reference text</b>
+    (dense on political history, thin on everything else), not random web text.</p>
+  </div>
+
+  <!-- ============ FLOWCHART ============ -->
+  <h2>The whole road, end to end</h2>
+
+  <div class="phase">Phase 1 · reading tea-leaves — every signal was ambiguous</div>
+  <div class="flow">
+    <div class="step dead"><div class="lab">"What month did WW2 start?"</div><div class="out">Said "September" a bit too often, against a tiny-probability background. Suggestive, not conclusive.</div></div>
+    <div class="arrow"></div>
+    <div class="step dead"><div class="lab">Beam search for what it "knows"</div><div class="out">Surfaced "Versailles" — but a treaty was signed there in 1871 too. Lexical hook, not proof.</div></div>
+    <div class="arrow"></div>
+    <div class="step dead"><div class="lab">Twins / quadruples + softmax</div><div class="out">Log-prob gaps ultra-small; the model is peaky on everything. The RA's wall.</div></div>
+    <div class="arrow"></div>
+    <div class="step dead"><div class="lab">Naïve multiple-choice</div><div class="out">"Barbarossa 96%!" — a <b>false positive</b> from a familiar medieval name.</div></div>
+    <div class="arrow"></div>
+    <div class="step dead"><div class="lab">Free generation</div><div class="out">Confabulated fluently (invented a "Third World War", a 1894 atom bomb). Looked almost clean — misleadingly.</div></div>
+  </div>
+
+  <div class="phase">Phase 2 · the challenge that turned it</div>
+  <div class="flow">
+    <div class="step turn"><div class="lab">"<b>John F. Kennedy</b> is too specific to be a guess"</div><div class="out">A full name + office + year cannot be confabulated. If it's there, it's real knowledge. (You were right.)</div></div>
+    <div class="arrow"></div>
+    <div class="step turn"><div class="lab">Who wrote the fine-tuning answers?</div><div class="out"><code>response_model = Ranke-4B-1929</code> — the base model itself. Self-distillation can't invent facts → the knowledge must live in the <b>pretraining</b>.</div></div>
+    <div class="arrow"></div>
+    <div class="step turn"><div class="lab">Base model's free generation is a broken probe</div><div class="out">It knows pre-1929 facts at 85% but only <i>generates</i> them 8% of the time (it rambles). Absence in its chatter proved nothing.</div></div>
+  </div>
+
+  <div class="phase">Phase 3 · the method that works</div>
+  <div class="flow">
+    <div class="step win"><div class="lab">Rank-based forced completion on the BASE model</div><div class="out">"…atomic bomb… was named Harry ___" → <b>Truman, rank 1, 77%.</b> A specific post-1929 fact, in pretraining. Contamination <b>proven</b>.</div></div>
+    <div class="arrow"></div>
+    <div class="step win"><div class="lab">55-topic clincher battery (base vs instruct)</div><div class="out">Full map: all modern US presidents known; most of the century clean; instruct only <i>sharpens</i> what pretraining already holds.</div></div>
+    <div class="arrow"></div>
+    <div class="step dead"><div class="lab">Keyword-scan the training data</div><div class="out">Same trap one level down: "Normandy" = 1066, "Israel" = the Bible. Reading the text — not counts — was the only honest read.</div></div>
+  </div>
+
+  <!-- ============ CONCLUSION ============ -->
+  <h2>Where we ended up</h2>
+  <div class="callout warn">
+    <h3>Verdict</h3>
+    <p><b>The pretraining corpus is contaminated</b> with post-1929 knowledge — substantially so for 20th-century
+    political history (US presidents through the 1980s), faintly for some mid-century figures, and not at all for
+    science, technology, sport and pop culture. The instruction-tuning adds nothing new; it only surfaces what
+    pretraining already learned. The likely culprit is a <b>modern history / reference text</b> that slipped the date filter.</p>
+  </div>
+  <h3>The fix (now targeted, not hopeless)</h3>
+  <table>
+    <tr><th>Step</th><th>What</th></tr>
+    <tr><td class="r">1</td><td>Grep the 160B corpus for the <b>confirmed</b> leaked names (Truman, Nixon, Reagan, Kennedy, Eisenhower, Ho Chi Minh…) and read the parent documents.</td></tr>
+    <tr><td class="r">2</td><td>Run the <b>fastText "date-it-was-written" classifier</b> over those documents — they should cluster in a small set of modern-reference sources.</td></tr>
+    <tr><td class="r">3</td><td>Remove that source, fix the date filter that admitted it, and <b>retrain the base</b>. The fine-tuning needs no scrubbing.</td></tr>
+    <tr><td class="r">4</td><td>Re-run this 55-topic rank battery as the acceptance test: a clean model should sit at chance on every post-1929 clincher.</td></tr>
+  </table>
+
+  <p class="foot">
+    <b>Method notes &amp; honest caveats.</b> "Rank" = position of the true answer's first token among the model's full
+    ~150k-token next-token distribution, on a forced completion (no options offered). Probabilities shown are the base
+    <code>Ranke-4B-1929</code> unless stated. Controls (Lincoln, Darwin, Bell…) score rank-1, confirming the probe.
+    Three borderline items were discounted as lexical hooks rather than knowledge ("World Trade → Center";
+    "Second Vatican → Council", by analogy to the First Vatican Council of 1869; "Franklin D. → Roosevelt", as FDR was
+    public before 1929). The verdict holds without them — Nixon (1974) and Reagan (1980s) are unambiguous. Probes run on
+    CPU; 55 clinchers + 8 controls × 2 models. Generated from the live audit of <code>uzh-echist-org/Ranke-4B-1929</code>.
+  </p>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,2537 @@
+US 991.9 JUD
+
+91 US 
+
+PRELIMINARY DRAFT OF PROPOSED AMENDMENTS 
+
+ΤΟ 
+
+Rules of Civil Procedure for the United States
+
+District Courts relating to
+
+Deposition and Discovery of 
+
+COMMITTEE ON RULES OF PRACTICE AND PROCEDURE 
+
+of the 
+
+JUDICIAL CONFERENCE OF THE UNITED STATES NOVEMBER 1967 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON: 1967 
+
+us 9919 JUD
+
+Standing Committee on Rules of Practice and 
+
+Procedure 
+
+Judge Albert B. Maris, Chairman 
+
+Judge George H. Boldt 
+
+Peyton Ford, Esq. 
+
+Dean Mason Ladd 
+
+Prof. James Wm. Moore 
+
+J. Lee Rankin, Esq. 
+
+Bernard G. Segal, Esq.
+
+Prof. Charles Alan Wright Judge J. Skelly Wright 
+
+William E. Foley, Secretary
+
+ADVISORY COMMITTEE ON CIVIL RULES Hon. Dean Acheson, Chairman 
+
+William T. Coleman, Esq. 
+
+Grant B. Cooper, Esq. 
+
+George C. Doub, Esq. 
+
+Judge Wilfred Feinberg 
+
+John P. Frank, Esq. 
+
+Abraham E. Freedman, Esq. 
+
+Arthur J. Freund, Esq.
+
+II 
+
+Albert E. Jenner, Jr., Esq. 
+
+Dean Charles W. Joiner
+
+Prof. Benjamin Kaplan Prof. David W. Louisell 
+
+W. Brown Morton, Jr., Esq. 
+
+Louis F. Oberdorfer, Esq.
+
+Judge Roszel C. Thomsen. 
+
+Judge Charles E. Wyzanski, Jr.
+
+Prof. Albert M. Sacks, Reporter
+
+TABLE OF CONTENTS Letter of Submission to the Bench and Bar__ Advisory Committee's Explanatory Statement Concerning Amendments of the Discovery Rules... 
+
+Rule 5. Service and Filing of Pleadings and Other Papers Rule 9. Pleading Special Matters Rule 26. General Provisions Governing Dis covery.
+
+Rule 29. Stipulations Regarding Discovery Pro cedure__ 
+
+Rule 30. Depositions Upon Oral Examination___ Rule 31. Depositions of Witnesses Upon Written 
+
+Questions 
+
+Rule 32. Use of Depositions in Court Proceed Page 1 10 37 38 51 ings_- 54 
+
+Rule 33. Interrogatories to Parties__ 
+
+59 
+
+Rule 34. Production of Documents and Things and Entry Upon Land for Inspection and Other Purposes 
+
+67 
+
+Rule 35. Physical and Mental Examination of 
+
+Persons... 71 
+
+Rule 36. Requests for Admission. 75 
+
+Rule 37. Failure to Make Discovery: Sanctions_ 
+
+84 
+
+Rule 45. Subpoena 98 
+
+Rule 69. Execution___ 
+
+99 
+
+Form 24. Request for Production of Documents, etc., Under Rule 34.. 101 TII 1130281
+
+Committee on Rules of Practice and Procedure of the Judicial Conference of the United States To the Bench and Bar: 
+
+The Advisory Committee on Civil Rules appointed by the Chief Justice of the United States under the program of the Judicial Conference of the United States for the study of procedural rules which is being carried on under the authority of 28 U.S.C. § 331, has submitted to our committee, for consideration and ultimate report to the Conference and by it to the Supreme Court, a draft of proposed amendments to the Federal Rules of Civil Procedure relating to depositions and discovery.
+
+This particular area of the existing rules was not covered by the amendments heretofore submitted to you and subsequently adopted by the Court. The draft submitted herewith is the result of long consideration of the subject by the advisory committee and its reporter, aided by the results of a field study of the operation of the existing discovery rules undertaken by the Columbia University Project for 
+
+Effective Justice under the direction of Prof. Maurice Rosenberg.
+
+L: 
+
+Our committee has not yet considered in detail the amendments to the Federal Rules of Civil Procedure set out in this pamphlet, but submits them herewith to the Bench and Bar for consideration and suggestions. We request that all suggestions be in the hands of our committee as soon as convenient and in any event not later than January 1, 1969, so that we may have the benefit of them when final consideration is given to the proposals.
+
+All communications should be addressed to the Com mittee on Rules of Practice and Procedure, Supreme 
+
+Court Building, Washington, D.C. 20544.
+
+These draft amendments have not yet been submitted to or considered by the Judicial Conference or the Supreme Court, and it should be understood that the Court is in no way committed to them and has not given them any consideration. 
+
+ALBERT B. MARIS, Chairman. 
+
+WILLIAM E. FOLEY, Secretary. 
+
+NOVEMBER 30, 1967. 
+
+VI
+
+Advisory Committee's Explanatory Statement Concerning Amendments of the Discovery Rules 
+
+This statement is intended to serve as a general introduction to the amendments of Rules 26-37, concerning discovery, as well as related amendments of other rules. A separate note of customary scope is appended to amendments proposed for each rule. 
+
+This statement provides a framework for the consideration of individual rule changes.
+
+Changes in the Discovery Rules 
+
+The discovery rules, as adopted in 1938, were a striking and imaginative departure from tradition. 
+
+It was expected from the outset that they would be important, but experience has shown them to play an even larger role than was initially foreseen. Although the discovery rules have been amended since 1938, the changes were relatively few and narrowly focused, made in order to remedy specific defects.
+
+The amendments now proposed reflect the first comprehensive review of the discovery rules undertaken since 1938. These amendments make substantial changes in the discovery rules. Those summarized here are among the more important changes. 
+
+Scope of Discovery. New provisions are made and existing provisions changed affecting the scope of discovery: (1) The contents of insurance policies are made discoverable (Rule 26(b)(2)). (2) A showing of good cause is no longer required for discovery of documents and things and entry upon land (Rule 34). 
+
+However, such a showing is required for discovery of 1
+
+RULES OF CIVIL PROCEDURE 
+
+"trial preparation" materials other than a party's own statement (Rule 26(b) (3)). (3) Provision is made for discovery with respect to experts retained for trial preparation, and particularly those experts who will be called to testify at trial (Rule 26(b)(4)). (4) It is provided that interrogatories and requests for admission are not objectionable simply because they relate to matters of opinion or legal conclusion, subject of course to the supervisory power of the court (Rules 33(b), 36(a)). (5) Medical examination is made available as to certain nonparties (Rule 35(a)). 
+
+Mechanics of Discovery. A variety of changes are made in the mechanics of the discovery process, affecting the sequence and timing of discovery, the respective obligations of the parties with respect to requests, responses, and motions for court orders, and the related powers of the court to enforce discovery requests and to protect against their abusive use. A new provision eliminates the automatic grant of priority in discovery to one side (Rule 26(d)).
+
+Another provides that a party is not under a duty to supplement his responses to requests for discovery, except as specified (Rule 26(e)).
+
+Other changes in the mechanics of discovery are designed to encourage extrajudicial discovery with a minimum of court intervention. Among these are the following: (1) The requirement that a plaintiff seek leave of court for early discovery requests is eliminated or reduced, and motions for a court order under Rule 34 are made unnecessary. Motions under 
+
+Rule 35 are continued. (2) Answers and objections are to be served together and an enlargement of the time for response is provided. (3) The party seeking discovery, rather than the objecting party,
+
+is made responsible for invoking judicial determination of discovery disputes not resolved by the parties. (4) Judicial sanctions are tightened with respect to unjustified insistence upon or objection to discovery. 
+
+These changes bring Rules 33, 34, and 36 into line with the procedure now substantially provided for depositions.
+
+Failure to amend Rule 35 in the same way is based upon two considerations. First, the Columbia 
+
+Survey (described below) finds that only about 5 percent of medical examinations require court motions, of which about half result in court orders. 
+
+Second and of greater importance, the interest of the person to be examined in the privacy of his person was recently stressed by the Supreme Court in Schlagenhauf v. Holder, 379 U.S. 104 (1964).
+
+The court emphasized the trial judge's responsibility to assure that the medical examination was justified, particularly as to its scope.
+
+Rearrangement of Rules. A limited rearrangement of the discovery rules has been made, whereby certain provisions are transferred from one rule to another. 
+
+The reasons for this rearrangement are discussed below in a separate section of this statement, and the details are set out in a table at the end of this statement. 
+
+Optional Procedures. In two instances, new optional procedures have been made available. A new procedure is provided to a party seeking to take the deposition of a corporation or other organization (Rule 30(b)(6)). A party on whom interrogatories have been served requesting information derivable from his business records may under specified circumstances produce the records rather than give 281-390 - 67 - 2
+
+answers (Rule 33(c)). Both procedures may be waived in favor of existing discovery practice. 
+
+Other Changes. This summary of changes is by no means exhaustive. Various changes have been made in order to improve, tighten, or clarify particular provisions, to resolve conflicts in the case law, and to improve language. All changes, whether mentioned here or not, are discussed in the appropriate note for each rule.
+
+A Field Survey of Discovery Practice 
+
+Despite widespread acceptance of discovery as an essential part of litigation, disputes have inevitably arisen concerning the values claimed for discovery and abuses alleged to exist. Many disputes about discovery relate to particular rule provisions or court decisions and can be studied in traditional fashion with a view to specific amendment. Since discovery is in large measure extrajudicial, however, even these disputes may be enlightened by a study of discovery "in the field." And some of the larger questions concerning discovery can be pursued only by a study of its operation at the law office level and in unreported cases.
+
+The Committee, therefore, invited the Project for 
+
+Effective Justice of Columbia Law School to conduct a field survey of discovery. Funds were obtained from the Ford Foundation and the Walter E. Meyer 
+
+Research Institute of Law, Inc. The survey was carried on under the direction of Prof. Maurice 
+
+Rosenberg of Columbia Law School. The Project for 
+
+Effective Justice has submitted a report to the
+
+Committee entitled "Field Survey of Federal Pre trial Discovery" (hereafter referred to as the Columbia Survey). The Committee is deeply grateful for
+
+LO the benefit of this extensive undertaking and is most appreciative of the cooperation of the Project and the funding organizations. The Committee is particularly grateful to Professor Rosenberg who not only directed the survey but has given much time in order to assist the Committee in assessing the results. 
+
+The Columbia Survey concludes, in general, that there is no empirical evidence to warrant a fundamental change in the philosophy of the discovery rules. No widespread or profound failings are disclosed in the scope or availability of discovery. The costs of discovery do not appear to be oppressive, as a general matter, either in relation to ability to pay or to the stakes of the litigation. Discovery frequently provides evidence that would not otherwise be available to the parties and thereby makes for a fairer trial or settlement. On the other hand, no positive evidence is found that discovery promotes settlement.
+
+More specific findings of the Columbia Survey are described in other Committee notes, in relation to particular rule provisions and amendments. Those interested in more detailed information may obtain it from the Project for Effective Justice. 
+
+Rearrangement of the Discovery Rules
+
+The present discovery rules are structured entirely in terms of individual discovery devices, except for Rule 27 which deals with perpetuation of testimony, and Rule 37 which provides sanctions to enforce discovery. Thus, Rules 26 and 28 to 32 are in terms addressed only to the taking of a deposition of a party or third person. Rules 33 to 36 then deal in succession with four additional discovery devices:
+
+Written interrogatories to parties, production for
+
+inspection of documents and things, physical or mental examination and requests for admission. 
+
+Under the rules as promulgated in 1938, therefore, each of the discovery devices was separate and selfcontained. A defect of this arrangement is that there is no natural location in the discovery rules for provisions generally applicable to all discovery or to several discovery devices. From 1938 until the present, a few amendments have applied a discovery provision to several rules. For example, in 1948, the scope of deposition discovery in Rule 26(b) and the provision for protective orders in Rule 30(b) were incorporated by reference in Rules 33 and 34. The arrangement was adequate so long as there were few provisions governing discovery generally and these provisions were relatively simple.
+
+As will be seen, however, a series of amendments are now proposed which govern most or all of the discovery devices. Proposals of a similar nature will probably be made in the future. Under these circumstances, it is very desirable, even necessary, that the discovery rules contain one rule addressing itself to discovery generally.
+
+Rule 26 is obviously the most appropriate rule for this purpose. One of its subdivisions, Rule 26(b), in terms governs only scope of deposition discovery, but it has been expressly incorporated by reference in Rules 33 and 34 and is treated by courts as setting a general standard. By means of a transfer to Rule 
+
+26 of the provisions for protective orders now contained in Rule 30(b), and a transfer from Rule 26 of provisions addressed exclusively to depositions, Rule 26 is converted into a rule concerned with discovery generally. It becomes a convenient vehicle for the inclusion of new provisions dealing with the scope,
+
+timing, and regulation of discovery. Few additional transfers are needed. See table showing rearrangement of rules, set out below.
+
+There are, to be sure, disadvantages in transferring any provision from one rule to another. Familiarity with the present pattern, reinforced by the references made by prior court decisions and the various secondary writings about the rules, is not lightly to be sacrificed. Revision of treatises and other reference works is burdensome and costly. Moreover, many
+
+States have adopted the existing pattern as a model for their rules.
+
+On the other hand, the amendments now proposed will in any event require revision of texts and reference works as well as reconsideration by States following the Federal model. If these amendments are to be incorporated in an understandable way, a rule with general discovery provisions is needed. 
+
+As will be seen, the proposed rearrangement produces a more coherent and intelligible pattern for the discovery rules taken as a whole. The difficulties described are those encountered whenever statutes are reexamined and revised. Failure to rearrange the discovery rules now would freeze the present scheme, making future change even more difficult.
+
+Table Showing Rearrangement of Rules Existing Rule No. 
+
+New Rule No. 
+
+30(a), 31(a) 26(a) 26(c) 30(c) 26(d) 32(a) 26(e) 32(b) 26 (f) 32(c) 30(a) 30(b) 30(b) 26(c) 32 32(d)
+
+1 
+
+Rule 5. Service and Filing of Pleadings and Other Papers (a) SERVICE: WHEN REQUIRED. Except as 
+
+2 otherwise provided in these rules, every order 3 required by its terms to be served, every plead- 4 ing subsequent to the original complaint unless 5 the court otherwise orders because of numerous 6 defendants, every paper relating to discovery re- 7 quired to be served upon a party unless the court 8 otherwise orders, every written motion other 9 than one which may be heard ex parte, and 10 every written notice, appearance, demand, offer 11 of judgment, designation of record on appeal, 12 and similar paper shall be served upon each of 13 the parties. No service need be made on parties 
+
+14 in default for failure to appear except that 15 pleadings asserting new or additional claims for 16 relief against them shall be served upon them 17 in the manner provided for service of summons 
+
+18 in Rule 4. 19 22 In an action begun by seizure of property, 20 whether through arrest, attachment, garnishment 21 or similar process, in which no person need be or is named as defendant, any service required to 23 be made prior to the filing of an answer, claim, or appearance shall be made upon the person 25 having custody or possession of the property at 
+
+26 the time of its seizure. 24 
+
+The amendment makes clear that all papers relating to discovery which are required to be served on any party must be served on all parties, unless the court orders otherwise. The present language expressly includes notices and demands, but it is not explicit as to answers or responses as provided in Rules 33,
+
+1 34, and 36. Discovery papers may be voluminous or the parties numerous, and the court is empowered to vary the requirement if in a given case it proves needlessly onerous.
+
+In actions begun by seizure of property, service will at times have to be made before the absent owner of the property has filed an appearance. For example, a prompt deposition may be needed in a maritime action in rem. See Rules 30(a) and 30(b) (2) and the related notes. A provision is added authorizing service on the person having custody or possession of the property at the time of its seizure. 
+
+Rule 9. Pleading Special Matters (h) ADMIRALTY AND MARITIME CLAIMS. A 
+
+2 pleading or count setting forth a claim for relief within the admiralty and maritime juris- 4 diction that is also within the jurisdiction of 5 the district court on some other ground may 6 contain a statement identifying the claim as an 7 admiralty or maritime claim for the purposes 
+
+8 of Rules 14(c), 26(a), 38(e), 73(h), 82, and the 
+
+9 Supplemental Rules for Certain Admiralty and 
+
+10 Maritime Claims. If the claim is cognizable 
+
+11 only in admiralty it is an admiralty or maritime 12 claim for those purposes whether so identified 13 or not. The amendment of a pleading to add or 
+
+14 withdraw an identifying statement is governed 
+
+15 by the principles of Rule 15.
+
+The reference to Rule 26(a) is deleted, in light of the transfer of that subdivision to Rule 30(a) and the elimination of the de bene esse procedure therefrom. 
+
+See the Advisory Committee's note to Rule 30(a).
+
+1 
+
+Depositions Pending Action Rule 26. General Provisions Governing Discovery (a) WHEN DEPOSITIONS MAY BE TAKEN. 
+
+2 Any party may take the testimony of any 3 person, including a party, by deposition upon 4 oral examination or written interrogatories for 5 the purpose of discovery or for use as evidence 6 in the action or for both purposes. After com- 
+
+7 mencement of the action the deposition may be 8 taken without leave of court, except that leave, 9 granted with or without notice, must be ob- 10 tained if notice of the taking is served by the 
+
+11 plaintiff within 20 days after commencement of 12 the action. The attendance of witnesses may 
+
+13 be compelled by the use of subpoena as pro- 
+
+14 vided in Rule 45. Depositions shall be taken 
+
+15 only in accordance with these rules, except that 16 in admiralty and maritime claims within the 
+
+17 meaning of Rule 9(h) depositions may also be 18 taken under and used in accordance with see- 
+
+19 tions 863, 864, and 865 of the Revised Statutes 
+
+20 (see note preceding 28 U.S.C. § 1781). The 
+
+21 deposition of a person confined in prison may 22 be taken only by leave of court on such terms as the court prescribes. 23 24 
+
+(a) DISCOVERY METHODS. Parties may ob- 
+
+25 tain discovery by one or more of the following 
+
+26 methods: depositions upon oral examination or 
+
+27 written questions; written interrogatories; pro- 
+
+28 duction of documents or things or permission to 29 enter upon land or other property, for inspection 30 and other purposes; physical and mental exami- 
+
+31 nations; and requests for admission. Unless the
+
+32 court orders otherwise, the frequency of use of 
+
+33 these methods is not limited. 34 
+
+(b) SCOPE OF EXAMINATION DISCOVERY. 
+
+35 Unless otherwise ordered by the court as 36 provided by Rule 30(b) or (d), the deponent 37 may be examined in accordance with these 
+
+38 rules, the scope of discovery is as follows: 
+
+39 (1) In General. Parties may obtain discovery 
+
+40 regarding any matter, not privileged, which 41 is relevant to the subject matter involved in 42 the pending action, whether it relates to the 43 claim or defense of the examining party 44 seeking discovery or to the claim or defense of 45 any other party, including the existence, de- 
+
+46 scription, nature, custody, condition and loca- 47 tion of any books, documents, or other tangible 48 things and the identity and location of persons 49 having knowledge of any discoverable matter 50 relevant faets. It is not ground for objection 
+
+51 that the testimony information sought will be 
+
+52 inadmissible at the trial if the testimony 53 information sought appears reasonably calcu- 54 lated to lead to the discovery of admissible 
+
+55 evidence. 56 
+
+(2) Insurance Agreements. A party may 
+
+57 obtain discovery of the existence and contents of 58 any insurance agreement under which any person 59 carrying on an insurance business may be 60 liable to satisfy part or all of a judgment which 61 may be entered in the action or to indemnify or 62 reimburse for payments made to satisfy the 63 judgment. Information concerning the insurance 
+
+64 agreement is not by reason of disclosure ad- 
+
+65 missible in evidence at trial. 66 
+
+(3) Trial Preparation: Materials. Subject to 
+
+67 the provisions of subdivision (b)(4) of this rule, 281-390 O-67-3
+
+68 a party may obtain discovery of documents and 69 tangible things prepared in anticipation of liti- 70 gation or for trial by or for another party or by 71 or for that other party's representative (including 72 his attorney, consultant, surety, indemnitor, in- 
+
+73 surer, or agent) only upon a showing of good 74 cause therefor, except that a statement concerning 75 the action or its subject matter previously given 76 by the party seeking the statement may be obtained 77 without such a showing. A statement of a party 
+
+78 is (A) a written statement signed or otherwise 79 adopted or approved by the party, or (B) a steno- 80 graphic, mechanical, electrical, or other recording, 81 or a transcription thereof, which is a substan- 82 tially verbatim recital of an oral statement which 83 was made by the party and contemporaneously 
+
+84 recorded. 85 86 
+
+(4) Trial Preparation: Experts. 
+
+(A) Subject to the provisions of subdivision 
+
+87 (b)(4)(B) of this rule and Rule 35(b), a party 88 may discover facts known or opinions held by 89 an expert retained or specially employed by 90 another party in anticipation of litigation or 91 preparation for trial only upon a showing that 92 the party seeking discovery is unable without 93 undue hardship to obtain facts and opinions on 94 the same subject by other means or upon a showing 
+
+95 of other exceptional circumstances indicating 
+
+96 that denial of discovery would cause manifest 
+
+97 injustice. 
+
+98 (B) As an alternative or in addition to ob- 
+
+99 taining discovery under subdivision (b)(4)(A) 100 of this rule, a party by means of interrogatories 101 may require any other party (i) to identify each 
+
+102 person whom the other party expects to call as an
+
+103 expert witness at trial, and (ii) to state the subject 104 matter on which the expert is expected to testify. 
+
+105 Thereafter, any party may discover from the 
+
+106 expert or the other party facts known or opinions 107 held by the expert which are relevant to the stated 
+
+108 subject matter. Discovery of the expert's opinions 
+
+109 and the grounds therefor is restricted to those 110 previously given or those to be given on direct ex- 
+
+111 amination at trial. 
+
+112 (C) The court may require that the party 113 seeking discovery pay the expert a reasonable fee 114 for time spent in responding to discovery, and, 115 with respect to discovery permitted under sub- 116 division (b)(4)(A) of this rule, require a party 117 to pay another party a fair portion of the fees 118 and expenses incurred by the latter party in 119 obtaining facts and opinions from the expert. 
+
+(e) EXAMINATION AND CROSS-EXAMINATION: 
+
+Examination and cross-examination of de- 122 ponents may proceed as permitted at the trial 
+
+123 under the provisions of Rule 43(b). 120 121 
+
+124 (d) USE OF DEPOSITIONS. At the trial or 
+
+125 upon the hearing of a motion or an interlocu- 126 tory proceeding, any part or all of a deposition, 127 so far as admissible under the rules of evidence, 128 may be used against any party who was 129 present or represented at the taking of the 130 deposition or who had due notice thereof, in 
+
+131 accordance with any one of the following 
+
+132 provisions: 
+
+133 (1) Any deposition may be used by any 134 party for the purpose of contradicting or im- 135 peaching the testimony of deponent as 
+
+136 witness. 
+
+137 (2) The deposition of a party or of any one 138 who at the time of taking the deposition was
+
+139 an officer, director, or managing agent of a 140 public or private corporation, partnership, or 141 association which is a party may be used by an adverse party for any purpose. 142 143 (3) The deposition of a witness, whether or 144 not a party, may be used by any party for any 
+
+145 purpose if the court finds: 1, that the witness 
+
+146 is dead; or 2, that the witness is at a greater 
+
+147 distance than 100 miles from the place of trial 148 or hearing, or is out of the United States, un- 149 less it appears that the absence of the witness 150 was procured by the party offering the deposi- 151 tion; or 3, that the witness is unable to attend 
+
+152 or testify because of age, sickness, infirmity, or 153 imprisonment; or 4, that the party offering the 
+
+154 deposition has been unable to procure the 155 attendance of the witness by subpoena; or 5, 156 upon application and notice, that such excep- 157 tional circumstances exist as to make it desir- 158 able, in the interest of justice and with due 159 regard to the importance of presenting the 160 testimony of witnesses orally in open court, to 161 allow the deposition to be used. 
+
+162 (4) If only part of a deposition is offered in 163 evidence by a party, an adverse party may 164 require him to introduce all of it which is rele- 165 vant to the part introduced, and any party 
+
+166 may introduce any other parts. 
+
+167 Substitution of parties does not affect the 
+
+168 right to use depositions previously taken; and, 169 when an action in any court of the United 170 States or of any state has been dismissed and 
+
+171 another action involving the same subject 172 matter is afterward brought between the same 173 parties or their representatives or successors in 174 interest, all depositions lawfully taken and duly
+
+175 filed in the former action may be used in the 
+
+176 latter as if originally taken therefor. 
+
+177 (e) OBJECTIONS TO ADMISSIBILITY. Subject 
+
+178 to the provisions of Rules 28(b) and 32(e) 179 objection may be made at the trial or hearing 180 to receiving in evidence any deposition or part 181 thereof for any reason which would require the 182 exclusion of the evidence if the witness were 
+
+183 then present and testifying. 184 185 
+
+EFFECT OF TAKING OR USING DEPOSI- 
+
+TIONS: A party shall not be deemed to make 
+
+186 a person his own witness for any purpose by 
+
+187 taking his deposition. The introduction in evi- 
+
+188 dence of the deposition or any part thereof for 189 any purpose other than that of contradicting 190 or impeaching the deponent makes the depo- 191 nent the witness of the party introducing the 192 deposition, but this shall not apply to the use 193 by an adverse party of a deposition as described 194 in paragraph (2) of subdivision (d) of this rule. 
+
+195 At the trial or hearing any party may rebut 196 any relevant evidence contained in a deposi- 197 tion whether introduced by him or by any 
+
+198 other party. 
+
+199 (c) PROTECTIVE ORDERS. Upon motion by 
+
+200 any party or by the person from whom discovery 201 is sought, and for good cause shown, the court in 202 which the action is pending or alternatively, on 203 matters relating to a deposition, the court in the 204 district where the deposition is being taken may 205 make any order which justice requires to protect 206 a party or person from annoyance, embarrass- 207 ment, oppression, or undue burden or expense, 208 including one or more of the following: (1) that 
+
+209 the discovery not be had; (2) that the discovery 
+
+210 may be had only on specified terms and conditions,
+
+211 including a designation of the time or place; (3) 
+
+212 that the discovery may be had only by a method 213 of discovery other than that selected by the party 214 seeking discovery; (4) that certain matters not be 
+
+215 inquired into, or that the scope of the discovery 216 be limited to certain matters; (5) that discovery 
+
+217 be conducted with no one present except persons 
+
+218 designated by the court; (6) that a deposition after 
+
+219 being sealed be opened only by order of the court; 
+
+220 (7) that a trade secret or other confidential re- 221 search, development, or commercial information 222 not be disclosed or be disclosed only in a desig- 
+
+223 nated way; (8) that the parties simultaneously 
+
+224 file specified documents or information enclosed 
+
+225 in sealed envelopes to be opened as directed by 
+
+226 the court. 
+
+227 If the motion for a protective order is denied 228 in whole or in part, the court may, on such terms 229 and conditions as are just, order that any party 230 or person provide or permit discovery. The pro- 
+
+231 visions of Rule 37(a)(4) apply to the award of 
+
+232 expenses incurred in relation to the motion. 
+
+233 (d) SEQUENCE AND TIMING OF DISCOVERY. 
+
+234 Unless the court upon motion, for the convenience 235 of parties and witnesses and in the interests of 
+
+236 justice, orders otherwise, methods of discovery 237 may be used in any sequence and the fact that a 238 party is conducting discovery, whether by deposi- 
+
+239 tion or otherwise, shall not operate to delay any 
+
+240 other party's discovery. 241 
+
+(e) SUPPLEMENTATION OF RESPONSES. Α 
+
+242 party who has responded to a request for dis- 243 covery with a response that was complete when 244 made is under no duty to supplement his response
+
+245 to include information thereafter acquired, except as follows: 
+
+246 
+
+247 (1) A party is under a duty seasonably to 248 supplement his response with respect to any 249 question directly addressed to (A) the identity 250 and location of persons having knowledge of 251 discoverable matters, and (B) the identity of 
+
+252 each person expected to be called as an expert 253 witness at trial and the subject matter on which he 
+
+254 is expected to testify. 255 256 257 (2) A party who knows or later learns that his response is incorrect is under a duty seasonably to correct the response. 
+
+258 (3) A duty to supplement responses may be 259 imposed by order of the court, agreement of the 260 parties, or at any time prior to trial through 261 requests for supplementation of prior responses. 
+
+A limited rearrangement of the discovery rules is made, whereby certain rule provisions are transferred, as follows: Existing Rule 26(a) is transferred to 
+
+Rules 30(a) and 31(a). Existing Rule 26(c) is transferred to Rule 30(c). Existing Rules 26(d), (e), and (f) are transferred to Rule 32. Revisions of the transferred provisions, if any, are discussed in the notes appended to Rules 30, 31, and 32. In addition, Rule 30(b) is transferred to Rule 26(c). The purpose of this rearrangement is to establish Rule 26 as a rule governing discovery in general. (The reasons are set out in the Advisory Committee's explanatory statement.)
+
+Subdivision (a)-Discovery Devices. This is a new subdivision listing all of the discovery devices provided in the discovery rules and establishing the relationship between the general provisions of Rule 26 and the specific rules for particular discovery devices. The provision that the frequency of use of these methods
+
+is not limited confirms existing law. It incorporates in general form a provision now found in Rule 33.
+
+Subdivision (b)—Scope of Discovery. This subdivision is recast to cover the scope of discovery generally. It regulates the discovery obtainable through any of the discovery devices listed in Rule 26(a).
+
+All provisions as to scope of discovery are subject to the initial qualification that the court may order otherwise in accordance with these rules. Rule 26(c) (transferred from 30(b)) confers broad powers on the courts to regulate or prevent discovery even though the materials sought are within the scope of 26(b), and these powers have always been freely exercised. For example, a party's income tax return is generally held not privileged, 2A Barron & Holtzoff, Federal Practice and Procedure § 651.2 (Wright ed. 1961), and yet courts have recognized that interests in privacy may call for a measure of extra protection. E.g., Wiesen berger v. W. E. Hutton & Co., 35 F.R.D. 556 (S.D.N.Y. 
+
+1964). Similarly, the courts have in appropriate circumstances protected materials that are primarily of an impeaching character. These two types of materials merely illustrate the many situations, not capable of governance by precise rule, in which courts must exercise judgment. The new subsections in Rule 26(b) do not change existing law with respect to such situations.
+
+Subdivision (b)(1)—In General. The language is changed to provide for the scope of discovery in general terms. The existing subdivision, although in terms applicable only to depositions, is incorporated by reference in existing Rules 33 and 34. Since decisions as to relevance to the subject matter of the action are made for discovery purposes well in advance of trial, a flexible treatment of relevance is required and the making of discovery, whether voluntary or under court order, is not a concession or determination of relevance for purposes of trial. Cf. 4 Moore's Federal
+
+Practice 126-16[1] (2d ed. 1966). 
+
+Subdivison (b)(2)—Insurance Policies. Both the cases and commentators are sharply in conflict on the
+
+question whether defendant's liability insurance coverage is subject to discovery in the usual situation when the insurance coverage is not itself admissible and does not bear on another issue in the case.
+
+Examples of Federal cases requiring disclosure and supporting comments: Cook v. Welty, 253 F. Supp. 875 (D.D.C. 1966) (cases cited); Johanek v. Aberle, 27
+
+F.R.D. 272 (D. Mont. 1961); Williams, Discovery of Dollar Limits in Liability Policies in Automobile Tort 
+
+Cases, 10 Ala. L. Rev. 355 (1958); Thode, Some
+
+Reflections on the 1957 Amendments to the Texas Rules, 
+
+37 Tex. L. Rev. 33, 40-42 (1958). Examples of 
+
+Federal cases refusing disclosure and supporting comments: Bisserier v. Manning, 207 F. Supp. 476 
+
+(D. N.J. 1962); Cooper v. Stender, 30 F.R.D. 389 (E.D. 
+
+Tenn. 1962); Frank, Discovery and Insurance, Coverage, 1959 Ins. L.J. 281; Fournier, Pre-Trial Discovery of Insurance Coverage and Limits, 28 Ford. L. Rev. 215 
+
+(1959).
+
+The division in reported cases is close. State decisions based on provisions similar to the federal rules are similarly divided. See cases collected in 2A Barron &
+
+Holtzoff, Federal Practice and Procedure § 647.1, nn. 
+
+45.5, 45.6 (Wright ed. 1961). It appears to be difficult if not impossible to obtain appellate review of the issue. Resolution by rule amendment is indicated.
+
+The question is essentially procedural in that it bears upon preparation for trial and settlement before trial, and courts confronting the question, however they have decided it, have generally treated it as procedural and governed by the rules. 
+
+The amendment resolves this issue in favor of disclosure. Most of the decisions denying discovery, some explicitly, reason from the text of Rule 26(b) that it permits discovery only of matters which will be admissible in evidence or appear reasonably calculated to lead to such evidence; they avoid considerations of policy, regarding them as foreclosed. See Bisserier v. Manning, supra. Some note also that facts about a defendant's financial status are not discoverable as such, prior to judgment with execution unsatisfied, and 281-390 - 67-4
+
+fear that, if courts hold insurance coverage discoverable, they must extend the principle to other aspects of the defendant's financial status. The cases favoring disclosure rely heavily on the practical significance of insurance in the decisions lawyers make about settlement and trial preparation. In Clauss v. Danker, 264 
+
+F. Supp. 246 (S.D.N.Y. 1967), the court held that the rules forbid disclosure but called for an amendment to permit it.
+
+Disclosure of insurance coverage will enable counsel for both sides to make the same realistic appraisal of the case, so that settlement and litigation strategy are based on knowledge and not speculation. It will conduce to settlement and avoid protracted litigation in some cases, though in others it may have an opposite effect. The amendment is limited to insurance coverage, which should be distinguished from any other facts concerning defendant's financial status (1) because insurance is an asset created specifically to satisfy the claim; (2) because the insurance company ordinarily controls the litigation; (3) because information about coverage is available only from defendant or his insurer; and (4) because disclosure does not involve a significant invasion of privacy. 
+
+Disclosure is required when the insurer "may be liable" on part or all of the judgment. Thus, an insurance company must disclose even when it contests liability under the policy, and such disclosure does not constitute a waiver of its claim. It is immaterial whether the liability is to satisfy the judgment directly or merely to indemnify or reimburse another after he pays the judgment. The provision applies only to persons "carrying on an insurance business" and thus covers insurance companies and not the ordinary business concern that enters into a contract of indemnification. Cf. N.Y. Ins. Law § 41. In no instance does disclosure make the facts concerning insurance coverage admissible in evidence. 
+
+Subdivision (b)(3)—Trial Preparation: Materials. 
+
+Some of the most controversial and vexing problems to emerge from the discovery rules have arisen out of
+
+requests for the production of documents or things obtained or prepared in anticipation of litigation or preparation for trial. The existing rules make no explicit provision for such materials. Yet, two verbally distinct doctrines have developed, each conferring a qualified immunity on these materials-the "good cause" requirement in Rule 34 (now generally held applicable to discovery of documents via deposition under Rule 45 and interrogatories under Rule 33) and the work-product doctrine of Hickman v. Taylor, 329 U.S. 495 (1947). Both demand a showing of justification before production can be had, the one of "good cause" and the other variously described in the Hickman case: "necessity or justification," "denial would unduly prejudice the preparation of petitioner's case," or "cause hardship or injustice" 
+
+329 U.S. at 509-510. 
+
+In deciding the Hickman case, the Supreme Court appears to have expressed a preference in 1947 for an approach to the problem of trial preparation materials by judicial decision rather than by rule. 
+
+Sufficient experience has accumulated, however, with lower court applications of the Hickman decision to warrant a reappraisal.
+
+The major difficulties visible in the existing case law are (1) confusion and disagreement as to whether "good cause" is made out by a showing of relevance and lack of privilege, or requires an additional showing of necessity, (2) confusion and disagreement as to the scope of the Hickman work-product doctrine, particularly whether it extends beyond work actually performed by lawyers, and (3) the resulting difficulty of relating the "good cause" required by Rule 34 and the "necessity or justification" of the work-product doctrine, so that their respective roles and the distinctions between them are understood. 
+
+Since Rule 34 in terms requires a showing of "good cause" for the production of all documents and things, whether or not trial preparation is involved, courts have felt that a single formula is called for and have differed over whether a showing of relevance and lack
+
+of privilege is enough or whether more must be shown. 
+
+When the facts of the cases are studied, however, a distinction emerges based upon the type of materials. 
+
+With respect to documents not obtained or prepared with an eye to litigation, the decisions, while not uniform, reflect a strong and increasing tendency to relate "good cause" to a showing that the documents are relevant to the subject matter of the action. E.g., Connecticut Mutual Life Ins. Co. v. Shields, 17 F.R.D. 
+
+273 (S.D.N.Y. 1959), with cases cited; Houdry Process 
+
+Corp. v. Commonwealth Oil Refining Co., 24 F.R.D. 58 (S.D.N.Y. 1955); see Bell v. Commercial Ins. Co., 280 
+
+F. 2d 514, 517 (3d Cir. 1960). When the party whose documents are sought shows that the request for production is unduly burdensome or oppressive, courts have denied discovery for lack of "good cause", although they might just as easily have based their decision on the protective provisions of existing Rule 
+
+30(b) (new Rule 26(c)). E.g., Lauer v. Tankrederi, 39
+
+F.R.D. 334 (E.D. Pa. 1966). 
+
+As to trial-preparation materials, however, the courts are increasingly interpreting "good cause" as requiring more than relevance. When lawyers have prepared or obtained the materials for trial, all courts require more than relevance; so much is clearly commanded by Hickman. But even as to the preparatory work of nonlawyers, while some courts ignore work-product and equate "good cause" with relevance, e.g., Brown v. New York N.H. & H. R.R., 17 F.R.D. 324 (S.D.N.Y. 1955), the more recent trend is to read "good cause" as requiring inquiry into the importance of and need for the materials as well as into alternative sources for securing the same information. In Guilford Nat'l Bank v. Southern Ry., 297 F. 2d 921 (4th Cir. 1962), statements of witnesses obtained by claim agents were held not discoverable because both parties had had equal access to the witnesses at about the same time, shortly after the collision in question. The decision was based solely on 
+
+Rule 34 and "good cause"; the court declined to rule whether the statements were work-product. on
+
+The court's treatment of "good cause" is quoted at length and with approval in Schlagenhauf v. Holder, 379 U.S. 104, 117–118 (1964). See also Mitchell v. Bass, 252 F. 2d 513 (8th Cir. 1958); Hauger v. Chicago, R.I. 
+
+& Pac. R.R., 216 F. 2d 501 (7th Cir. 1954); Burke v. 
+
+United States, 32 F.R.D. 213 (E.D.N.Y. 1963).
+
+The rules are amended by eliminating the general requirement of "good cause" from Rule 34 but retaining it for trial preparation materials in this subdivision. These changes conform to the holdings of the cases, when viewed in light of their facts. Apart from trial preparation, the fact that the materials sought are documentary does not in and of itself require a special showing beyond relevance. The protective provisions are of course available, and if the party from whom production is sought raises a special issue of privacy (as with respect to income tax returns or grand jury minutes) or points to evidence primarily impeaching, or can show serious burden or expense, the court will exercise its traditional power to decide whether to issue a protective order.
+
+The courts are divided as to whether the workproduct doctrine extends to the preparatory work only of lawyers. The Hickman case left this issue open since the statements in that case were taken by a lawyer. 
+
+As to courts of appeals, compare Alltmont v. United 
+
+States, 177 F. 2d 971, 976 (3d Cir. 1949), cert. denied, 339 U.S. 967 (1950) (Hickman applied to statements obtained by FBI agents on theory it should apply to "all statements of prospective witnesses which a party has obtained for his trial counsel's use"), with 
+
+Southern Ry. v. Campbell, 309 F. 2d 569 (5th Cir. 
+
+1962) (statements taken by claim agents not workproduct), and Guilford Nat'l Bank v. Southern Ry., 297 F. 2d 921 (4th Cir. 1962) (avoiding issue of workproduct as to claim agents, deciding case instead under Rule 34 "good cause"). Similarly, the district courts are divided on statements obtained by claim agents, compare, e.g., Brown v. New York, N.H. & H. 
+
+R.R., 17 F.R.D. 324 (S.D.N.Y. 1955) with Hanke v.
+
+Milwaukee Electric Ry. & Transp. Co., 7 F.R.D. 540
+
+(E.D. Wis. 1947); investigators, compare Burke v. 
+
+United States, 32 F.R.D. 213 (E.D.N.Y. 1963) with 
+
+Snyder v. United States, 20 F.R.D. 7 (E.D.N.Y. 
+
+1956); and insurers, compare Gottlieb v. Bresler, 24
+
+F.R.D. 371 (D.D.C. 1959) with Burns v. Mulder, 
+
+20 F.R.D. 605 (E.D. Pa. 1957). See 4 Moore's Federal
+
+Practice ¶26.23[8.1] (2d ed. 1966); 2A Barron & 
+
+Holtzoff, Federal Practice and Procedure §652.2 
+
+(Wright ed. 1961).
+
+A complication is introduced by the use made by courts of the "good cause" requirement of Rule 34, as described above. A court may conclude that trial preparation materials are not work-product because not the result of lawyer's work and yet hold that they are not producible because "good cause" has not been shown. Cf. Guilford Nat'l Bank v. Southern Ry., 297 F. 
+
+2d 921 (4th Cir. 1962), cited and described above.
+
+When the decisions on "good cause" are taken into account, the weight of authority favors protection of the preparatory work of both lawyers and nonlawyers (though not necessarily to the same extent) by requiring more than a showing of relevance to secure production.
+
+Subdivision (b)(3) reflects the trend of the cases by requiring a showing of "good cause," not merely as to materials prepared by an attorney, but also as to materials prepared in anticipation of litigation or preparation for trial by or for a party or any representative acting on his behalf. It thus reflects the view that the lawyer's mental impressions should be protected, that each side should be encouraged to prepare independently, and that one side should not automatically have the benefit of the detailed preparatory work of the other side. See Field & McKusick, Maine
+
+Civil Practice 264 (1959). 
+
+(In formulating this provision, the Committee has considered a number of alternatives. Some would urge that materials obtained in preparation for trial should be just as subject to discovery as any other matters, whether obtained by a lawyer or not. They would place the burden on a resisting party to show why the materials should not be produced. They stress
+
+that the purpose of discovery is to eliminate the element of surprise from the law suit and argue that such discovery would not seriously affect the adversary process. Alternatively, it is urged that the requirement of a showing be limited to instances in which materials have been prepared or obtained by a lawyer. Still another view is that a showing of "good cause" be required for all trial preparation materials, but with an exception for written statements of witnesses.) 
+
+Elimination of "good cause" from Rule 34, while it is retained in this subdivision, will eliminate the confusion caused by having two verbally distinct requirements of justification that the courts have been unable to distinguish clearly. The formula of "good cause" in this subdivision, while incapable of simple or precise definition, can be meaningfully applied to materials prepared for trial. Among the factors that courts will consider are the importance of the materials sought to the party seeking them in the preparation of his case and the difficulty he will have obtaining them by other means. Both of these were noted in the Hickman case. 
+
+Moreover, the courts will consider the likelihood that the party, even if he obtains the information by independent means, will not have the substantial equivalent of the documents the production of which he seeks. This calls attention to the witness who is hostile, e.g., Brookshire v. Pennsylvania R.R., 14 
+
+F.R.D. 154 (N.D. Ohio 1953); Diamond v. Mohawk 
+
+Rubber Co., 33 F.R.D. 264 (D. Colo. 1963), or has a lapse of memory, Tannenbaum v. Walker, 16 F.R.D. 
+
+570 (E.D. Pa. 1954), or is probably deviating from his prior statement, cf. Hauger v. Chicago, R.I. & Pac. 
+
+R.R., 216 F. 2d 501 (7th Cir. 1954), or gave a fresh and contemporaneous account in a written statement and is available to the party seeking discovery only a substantial time thereafter, Guilford, supra at 926, with cases cited. On the other hand, "good cause" is not shown by a lawyer who seeks the investigative file of an opposing party's insurance company without having utilized the discovery procedures available to him. See Pickett v. L. R. Ryan, Inc., 237 F. Supp. 
+
+---
+
+The language of "good cause" is general enough to permit courts to give greater protection to certain trial preparation materials than to others. Thus, the 
+
+Hickman opinion drew special attention to the need for protecting an attorney against discovery of memoranda prepared from recollection of oral interviews. The courts have steadfastly safeguarded against disclosure of lawyers' mental impressions and legal theories, and parties' evaluation of the strengths or weaknesses of their own or of any adversary's claim or defense. The risk of such disclosure does not necessarily depend on who physically obtains a statement from a witness. Even though a lawyer does not personally obtain the statement, the form of questioning may create a substantial risk of disclosure of his mental impressions. Cf. Alltmont v. United States, supra. On the other hand, the risk may be slight even though he does obtain it. Cf. Bifferato v. States Marine Corp., 11 F.R.D. 44 (S.D.N.Y. 1951).
+
+Materials assembled in the ordinary course of business, or pursuant to public requirements unrerelated to litigation, or for other nonlitigation purposes are not under the qualified immunity provided by this subdivision. Goosman v. Diue Pyle, Inc., 320 F. 2d 45 (4th Cir. 1963); cf. United States v. New York Foreign
+
+Trade Zone Operators, Inc., 304 F. 2d 792 (2d Cir. 
+
+1962). No change is made in the existing doctrine, noted in the Hickman case, that one party may discover relevant facts known or available to the other party, even though such facts are contained in a document which is not itself discoverable. 
+
+An exception to the requirement of "good cause" enables a party to secure production of his own statement without any special showing. The cases are divided. Compare, e.g., Safeway Stores, Inc., v. Reynolds, 176 F. 2d 476 (D.C. Cir. 1949); Shupe v. Pennsylvania R.R., 19 F.R.D. 144 (W.D. Pa. 1956); with, e.g., New York Central R.R. v. Carr, 251 F. 2d 433 (4th 
+
+Cir. 1957); Belback v. Wilson Freight Forwarding Co., 40 F.R.D. 16 (W.D. Pa. 1966).
+
+Courts which treat a party's statement as though it were that of any witness overlook the fact that the party's statement is, without more, admissible in evidence. Ordinarily, a party gives a statement without insisting on a copy because he does not yet have a lawyer and does not understand the legal consequences of his actions. Thus, the statement is given at a time when he functions at a disadvantage. Discrepancies between his trial testimony and earlier statement may result from lapse of memory or ordinary inaccuracy; a written statement produced for the first time at trial may give such discrepancies a prominence which they do not deserve. In appropriate cases the court may order a party to be deposed before his statement is produced. E.g., Smith v. Central Linen Service Co., 39 F.R.D. 15 (D. Md. 1966); McCoy v. General Motors 
+
+Corp., 33 F.R.D. 354 (W.D. Pa. 1963).
+
+Commentators strongly support the view that a party be able to secure his statement without a showing. 4 Moore's Federal Practice ¶26.23 [8.4]; 2A
+
+Barron & Holtzoff, Federal Practice and Procedure 
+
+§ 652.3 (Wright ed. 1961); see also Note, Developments in the Law-Discovery, 74 Harv. L. Rev. 940, 1039 (1961). The following states have by statute or rule taken the same position: Statutes: Fla. Stat. Ann. § 92.33; Ga. Code Ann. § 38-2109(b); La. Stat. Ann. 
+
+R.S. 13:3732; Mass. Gen. Laws Ann. c. 271; § 44; 
+
+Minn. Stat. Ann. § 602.01; N.Y.C.P.L.R. § 3101(e). 
+
+Rules: Mo. R.C.P. 56.01(a); N. Dak. R.C.P. 34(b); 
+
+Wyo. R.C.P. 34(b); cf. Mich. G.C.R. 306.2.
+
+In order to clarify and tighten the provision on statements by a party, the term "statement" is defined. The definition is adapted from 18 U.S.C. § 3500 (e) (Jencks Act). The statement of a party may of course be that of plaintiff or defendant, and it may be that of an individual or of a corporation or other organization.
+
+Subdivision (b)(4)—Trial Preparation: Experts. This is a new provision dealing with discovery of information (including facts and opinions) obtained by a party from an expert retained by that party in relation to 281-390 - 67 - 5
+
+litigation or obtained by the expert and not yet transmitted to the party. The subdivision deals separately with those experts who have been retained or specially employed, and those experts whom the party expects to call as trial witnesses. Some experts will come within both categories. 
+
+Under subdivision (b)(4)(A), a party may discover information only on a showing that the party could not without undue hardship obtain facts or opinions on the same subject through independent investigation, or the retention of other experts, or both, or of other exceptional circumstances whereby denial of discovery would cause manifest injustice. 
+
+The new provision repudiates the few decisions that have held an expert's information privileged simply because of his status as an expert, e.g., American 
+
+Oil Co. v. Pennsylvania Petroleum Products Co., 
+
+23 F.R.D. 680, 685–686 (D. R.I. 1959). See Louisell, Modern California Discovery 315-316 (1963). It also rejects as ill-considered the decisions which have sought to bring expert information within the workproduct doctrine. See United States v. McKay, 372 F. 2d 
+
+174, 176-177 (5th Cir. 1967). The provision adopts a form of the more recently developed doctrine of "unfairness." See, e.g., United States v. 23.76 Acres of 
+
+Land, 32 F.R.D. 593, 597 (D. Md. 1963); Louisell, supra at 317-318; 4 Moore's Federal Practice ¶26.24 (2d ed. 1966). Ordinarily, a party can obtain the information he needs by consulting his own expert.
+
+If the circumstances are such that he cannot, discovery is permitted. Facts will more often be discoverable than opinions. E.g., Walsh v. Reynolds Metals Co., 15 F.R.D. 376 (D.N.J. 1954) (equipment examined by expert no longer in original condition-discovery allowed as to facts, not conclusion).
+
+Subdivision (b)(4) (A) is concerned with experts retained or specially consulted in relation to trial preparation. Thus, it does not limit discovery of matters acquired by a person outside of trial preparation-e.g., as a witness to an accident, even though the person is an expert. On the other hand, the
+
+subdivision precludes discovery against experts who were informally consulted in preparation for trial, but not retained or specially employed. As an ancillary procedure, a party may on a proper showing require the other party to name experts retained or specially employed, but not those informally consulted.
+
+Under subdivision (b)(4) (C), the court is authorized to issue protective orders, including an order that the expert be paid a reasonable fee for time spent in responding to discovery, and that the party whose expert is made subject to discovery be paid a fair portion of the fees and expenses that the party incurred in obtaining information from the expert. 
+
+The court may issue the latter order as a condition of discovery, or it may delay the order until after discovery is completed. These provisions for fees and expenses meet the objection that it is unfair to permit. one side to obtain without cost the benefit of an expert's work for which the other side has paid, often a substantial sum. E.g., Lewis v. United Air Lines 
+
+Transp. Corp., 32 F. Supp. 21 (W.D. Pa. 1940);
+
+Walsh v. Reynolds Metal Co., 15 F.R.D. 376 (D.N.J. 
+
+1954). On the other hand, a party may not obtain discovery simply by offering to pay fees and expenses. Cf. Boynton v. R. J. Reynolds Tobacco Co., 36 F. Supp. 593 (D. Mass. 1941).
+
+Subsection (b)(4) (B) deals with discovery of information obtained by or through experts who will be called as witnesses at trial. The provision is responsive to problems suggested by a relatively recent line of authorities. Many of these cases present intricate and difficult issues as to which expert testimony is likely to be determinative. Prominent among them are food and drug, patent, and condemnation cases. See, e.g., United States v. Nysco Laboratories, Inc., 26 F.R.D. 
+
+159, 162 (E.D.N.Y. 1960) (food and drug); E. I. 
+
+du Pont de Nemours & Co. v. Phillips Petroleum Co., 
+
+24 F.R.D. 416, 421 (D. Del. 1959) (patent); Cold
+
+Metal Process Co. v. Aluminum Co. of America, 7 
+
+F.R.D. 425 (N.D. Ohio 1947), aff'd, Sachs v. Aluminum Co. of America, 167 F. 2d 570 (6th Cir. 1948)
+
+(same); United States v. 50.34 Acres of Land, 13 F.R.D. 
+
+19 (E.D.N.Y. 1952) (condemnation).
+
+In cases of this character, a prohibition against discovery of information held by expert witnesses produces in acute form the very evils that discovery has been created to prevent. Effective cross-examination of an expert witness requires advance preparation. 
+
+The lawyer even with the help of his own experts frequently can not anticipate the particular approach his adversary's expert will take or the data on which he will base his judgment on the stand. McGlothlin, Some Practical Problems in Proof of Economic, Scientific, and Technical Facts, 23 F.R.D. 467, 478 (1958). A 
+
+California study of discovery and pretrial in condemnation cases notes that the only substitute for discovery of experts' valuation materials is "lengthy-and often fruitless-cross-examination during trial," and recommends pretrial exchange of such material. Calif.
+
+Law Rev. Comm'n, Discovery in Eminent Domain 
+
+Proceedings 707-710 (Jan. 1963). Similarly, effective rebuttal requires advance knowledge of the line of testimony of the other side. If the latter is foreclosed by a rule against discovery, then the narrowing of issues and elimination of surprise which discovery normally produces are frustrated.
+
+These considerations appear to account for the broadening of discovery against experts in the cases cited where expert testimony was central to the case. 
+
+In some instances, the opinions are explicit in relating expanded discovery to improved cross-examination and rebuttal at trial. Franks v. National Dairy Products Corp., 41 F.R.D. 234 (W.D. Tex. 1966); United 
+
+States v. 23.76 Acres, 32 F.R.D. 593 (D. Md. 1963); see also an unpublished opinion of Judge Hincks, quoted in United States v. 48 Jars, etc., 23 F.R.D. 
+
+192, 198 (D.D.C. 1958). On the other hand, the need for a new provision is shown by the many cases in which discovery of expert trial witnesses is needed for effective cross-examination and rebuttal, and yet courts apply the traditional doctrine and refuse dis closure. E.g., United States v. Certain Parcels of Land,
+
+25 F.R.D. 192 (N.D. Cal. 1959); United States v. 
+
+Certain Acres, 18 F.R.D. 98 (M.D. Ga. 1955).
+
+Although the trial problems flowing from lack of discovery of expert witnesses are most acute and noteworthy when the case turns largely on experts, the same problems are encountered when a single expert testifies. Thus, subdivision (b)(4) (B) draws no line between complex and simple cases, or between cases with many experts and those with but one. It establishes by rule the procedure adopted by decision of the court in Knighton v. Villian & Fassio, 39 
+
+F.R.D. 11 (D. Md. 1965). For a full analysis of the problem and strong recommendations to the same effect, see Friedenthal, Discovery and Use of an Adverse 
+
+Party's Expert Information, 14 Stan. L. Rev. 455, 485-488 (1962); Long, Discovery and Experts under the Federal Rules of Civil Procedure, 38 F.R.D. 111 
+
+(1965).
+
+Past judicial restrictions on discovery of an adversary's expert, particularly as to his opinions, reflect the fear that one side will benefit unduly from the other's better preparation. The procedure established in subsection (b)(4) (B) holds the risk to a minimum. Discovery is limited to trial witnesses, and may be obtained only at a time when the parties know who their expert witnesses will be. A party must as a practical matter prepare his own case in advance of that time, for he can hardly hope to build his case out of his opponent's experts. Discovery is limited to opinions previously given by the expert or to be given by him on direct examination at trial. 
+
+The court has ample power to regulate the time and scope of discovery, and to curb any abuses that appear. If, for example, an expert's written report affords the opposing party an adequate basis on which to prepare its cross-examination and rebuttal, the court may prohibit a deposition. Cf. Md. R. 
+
+Proc. 410 (c) (2) (expert report to be made available; if no report available, he may be deposed). The court has power to order fees paid to the expert for time spent in discovery.
+
+Subdivision (c)-Protective Orders. The provisions of existing Rule 30(b) are transferred to this subdivision (c), as part of the rearrangement of Rule 26. 
+
+The language has been changed to give it application to discovery generally. The subdivision recognizes the power of the court where a deposition is being taken to make protective orders. Such power is needed when the deposition is being taken far from the court where the action is pending. The court where the deposition is being taken may, and frequently will, remit the deponent or party to the court where the action is pending.
+
+In addition, drafting changes are made to carry out and clarify the sense of the rule. Insertions are made to avoid any possible implication that a protective order does not extend to "time" as well as to "place" or may not safeguard against "undue burden or expense."
+
+The new reference to trade secrets and other confidential commercial information reflects existing law. 
+
+The courts have not given trade secrets automatic and complete immunity against disclosure, but have in each case weighed their claim to privacy against the need for disclosure. Frequently, they have been afforded a limited protection. See, e.g., Covey Oil Co. v. Continental Oil Co., 340 F. 2d 993 (10th Cir. 1965); 
+
+Julius M. Ames Co. v. Bostitch, Inc., 235 F. Supp. 856 (S.D.N.Y. 1964).
+
+The subdivision contains new matter relating to sanctions. When a motion for a protective order is made and the court is disposed to deny it, the court may go a step further and issue an order to provide or permit discovery. This will bring the sanctions of 
+
+Rule 37(b) directly into play. Since the court has heard the contentions of all interested persons, an affirmative order is justified. See Rosenberg, Sanctions to Effectuate Pretrial Discovery, 58 Col. L. Rev. 
+
+480, 492-493 (1958). In addition, the court may require the payment of expenses incurred in relation to the motion.
+
+Subdivision (d)-Sequence and Priority. This new provision is concerned with the sequence in which parties may proceed with discovery and with related problems of timing. The principal effects of the new provision are first, to eliminate any fixed priority in the sequence of discovery, and second, to make clear and explicit the court's power to establish priority by an order issued in a particular case. 
+
+A priority rule developed by some courts, which confers priority on the party who first serves notice of taking a deposition, is unsatisfactory in several important respects:
+
+First, this priority rule permits a party to establish a priority running to all depositions as to which he has given earlier notice. Since he can on a given day serve notice of taking many depositions he is in a position to delay his adversary's taking of depositions for an inordinate time. Some courts have ruled that deposition priority also permits a party to delay his answers to interrogatories and production of documents. E.g., E. I. du Pont de Nemours & Co. v. Phillips Petroleum 
+
+Co., 23 F.R.D. 237 (D. Del. 1959); but cf. Sturdevant v. 
+
+Sears Roebuck & Co., 32 F.R.D. 426 (W.D. Mo. 1963).
+
+Second, since notice is the key to priority, if both parties wish to take depositions first a race results. 
+
+See Caldwell-Clements, Inc. v. McGraw-Hill Pub. Co., 11 F.R.D. 156 (S.D.N.Y. 1951) (description of tactics used by parties). But the existing rules on notice of deposition create a race with runners starting from different positions. The plaintiff may not give notice without leave of court until 20 days after commencement of the action, whereas the defendant may serve notice at any time after commencement. Thus, a careful and prompt defendant can almost always secure priority. This advantage of defendants is fortuitous, because the purpose of requiring plaintiff to wait 20 days is to afford defendant an opportunity to obtain counsel, not to confer priority. 
+
+Third, although courts have ordered a change in the normal sequence of discovery on a number of occasions, e.g., Kaeppler v. James H. Mathews & Co.,
+
+200 F. Supp. 229 (E.D. Pa. 1961); Park & Tilford 
+
+Distillers Corp. v. Distillers Co., 19 F.R.D. 169 (S.D.N.Y. 1956), and have at all times avowed discretion to vary the usual priority, most commentators are agreed that courts in fact grant relief only for "the most obviously compelling reasons." 2A Barron &
+
+Holtzoff, Federal Practice and Procedure 44-47 (Wright ed. 1961); see also Younger, Priority of Pretrial
+
+Examination in the Federal Courts-A Comment, 
+
+34 N.Y.U. L. Rev. 1271 (1959); Freund, The Pleading and Pretrial of an Antitrust Claim, 46 Corn. L. Q. 555, 564 (1964). Discontent with the fairness of actual practice has been evinced by other observers. Comment, 59 Yale L. J. 117, 134-136 (1949); Yudkin,
+
+Some Refinements in Federal Discovery Procedure, 11 
+
+Fed. B.J. 289, 296-297 (1951); Developments in the 
+
+Law-Discovery, 74 Harv. L. Rev. 940, 954-958 (1961).
+
+Despite these difficulties, some courts have adhered to the priority rule, presumably because it provides a test which is easily understood and applied by the parties without much court intervention. It thus permits deposition discovery to function extrajudicially, which the rules provide for and the courts desire. 
+
+For these same reasons, courts are reluctant to make numerous exceptions to the rule.
+
+The Columbia Survey makes clear that the problem of priority does not affect litigants generally. It found that most litigants do not move quickly to obtain discovery. In over half of the cases, both parties waited at least 50 days. During the first 20 days after commencement of the action-the period when defendant might assure his priority by noticing depositions— 16 percent of the defendants acted to obtain discovery. 
+
+A race could not have occurred in more than 16 percent of the cases and it undoubtedly occurred in fewer. On the other hand, five times as many defendants as plaintiffs served notice of deposition during the first 
+
+19 days. To the same effect, see Comment, Tactical
+
+Use and Abuse of Depositions Under the Federal Rules, 
+
+59 Yale L. J. 117, 134 (1949).
+
+These findings do not mean, however, that the priority rule is satisfactory or that a problem of priority does not exist. The court decisions show that parties do battle on this issue and carry their disputes to court. The statistics show that these court cases are not typical. By the same token, they reveal that more extensive exercise of judicial discretion to vary the priority will not bring a flood of litigation, and that a change in the priority rule will in fact affect only a small fraction of the cases. 
+
+It is contended by some that there is no need to alter the existing priority practice. In support, it is urged that there is no evidence that injustices in fact result from present practice and that, in any event, the courts can and do promulgate local rules, as in New York, to deal with local situations and issue orders to avoid possible injustice in particular cases. 
+
+Subdivision (d) is based on the contrary view that the rule of priority based on notice is unsatisfactory and unfair in its operation. Subdivision (d) follows an approach adapted from Civil Rule 4 of the District 
+
+Court for the Southern District of New York. That rule provides that starting 40 days after commencement of the action, unless otherwise ordered by the court, the fact that one party is taking a deposition shall not prevent another party from doing so "concurrently." In practice, the depositions are not usually taken simultaneously; rather, the parties work out arrangements for alternation in the taking of depositions. One party may take a complete deposition and then the other, or, if the depositions are extensive, one party deposes for a set time, and then the other. 
+
+See Caldwell-Clements, Inc. v. McGraw-Hill Pub. Co., 11 F.R.D. 156 (S.D.N.Y. 1951).
+
+In principle, one party's initiation of discovery should not wait upon the other's completion, unless delay is dictated by special considerations. Clearly the principle is feasible with respect to all methods of discovery other than depositions. And the experience of the Southern District of New York shows that the principle can be applied to depositions as well. The 281-390 O-67-6
+
+courts have not had an increase in motion business on this matter. Once it is clear to lawyers that they bargain on an equal footing, they are usually able to arrange for an orderly succession of depositions without judicial intervention. Professor Moore has called attention to Civil Rule 4 and suggested that it may usefully be extended to other areas. 4 Moore's Federal 
+
+Practice 1154 (2d ed. 1966). 
+
+The court may upon motion and by order grant priority in a particular case. But a local court rule purporting to confer priority in certain classes of cases would be inconsistent with this subdivision and thus void.
+
+Subdivision (e)-Supplementation of Responses. The rules do not now state whether interrogatories (and questions at deposition as well as requests for inspection and admissions) impose a "continuing burden" on the responding party to supplement his answers if he obtains new information. The issue is acute when new information renders substantially incomplete or inaccurate an answer which was complete and accurate when made. It is essential that the rules provide an answer to this question. The parties can adjust to a rule either way, once they know what it is. See 4
+
+Moore's Federal Practice ¶33.25[4] (2d ed. 1966). 
+
+Arguments can be made both ways. Imposition of a continuing burden reduces the proliferation of additional sets of interrogatories. Some courts have adopted local rules establishing such a burden. E.g., E.D. Pa. R. 20(f), quoted in Taggart v. Vermont 
+
+Transp. Co., 32 F.R.D. 587 (E.D. Pa. 1963); D. Me. R. 
+
+15(c). Others have imposed the burden by decision. 
+
+E.g., Chenault v. Nebraska Farm Products, Inc., 9 F.R.D. 529, 533 (D. Nebr. 1949). On the other hand, there are serious objections to the burden, especially in protracted cases. Although the party signs the answers, it is his lawyer who understands their significance and bears the responsibility to bring answers up to date. In a complex case all sorts of information reaches the party, who little understands its bearing on answers previously given to inter-
+
+1 rogatories. In practice, therefore, the lawyer under a continuing burden must periodically recheck all interrogatories and canvass all new information. But a full set of new answers may no longer be needed by the interrogating party. Some issues will have been dropped from the case, some questions are now seen as unimportant, and other questions must in any event be reformulated. See Novick v. Pennsylvania 
+
+R.R., 18 F.R.D. 296, 298 (W.D. Pa. 1955).
+
+Subdivision (e) provides that a party is not under a continuing burden except as expressly provided. Cf. 
+
+Note, 68 Harv. L. Rev. 673, 677 (1955). An exception is made as to the identity of persons having knowledge of discoverable matters, because of the obvious importance to each side of knowing all witnesses and because information about witnesses routinely comes to each lawyer's attention. Many of the decisions on the issue of a continuing burden have in fact concerned the identity of witnesses. An exception is also made as to expert trial witnesses in order to carry out the provisions of Rule 26(b)(4). See Diversified Products
+
+Corp. v. Sports Center Co., 42 F.R.D. 3 (D. Md. 1967). 
+
+Another exception is made for the situation in which a party, or more frequently his lawyer, obtains actual knowledge that a prior response is incorrect. This exception does not impose a duty to check the accuracy of prior responses, but it prevents knowing concealment by a party or attorney. Finally, a duty to supplement may be imposed by order of the court in a particular case (including an order resulting from a pretrial conference) or by agreement of the parties. A party may of course make a new discovery request which requires supplementation of prior responses. 
+
+Rule 29. Stipulations Regarding The Tak ing of Depositions Discovery Procedure 
+
+Unless the court orders otherwise, If the 2 parties so stipulate in writing, the parties may 
+
+3 by written stipulation (1) provide that depositions
+
+4 may be taken before any person, at any time or place, upon any notice, and in any manner 
+
+6 and when so taken may be used like other 
+
+7 depositions:, and (2) modify the procedures pro- 
+
+8 vided by these rules for other methods of discovery. 
+
+There is no provision for stipulations varying the procedures by which methods of discovery other than depositions are governed. It is common practice for parties to agree on such variations, and the amendment recognizes such agreements and provides a formal mechanism in the rules for giving them effect. Any stipulation varying the procedures may be superseded by court order.
+
+Rule 30. Depositions Upon Oral Examination 1 (a) WHEN DEPOSITIONS MAY BE TAKEN. 
+
+2 After commencement of the action, any party 3 may take the testimony of any person, including 4 a party, by deposition upon oral examination. 
+
+5 Leave of court, granted with or without notice, 6 must be obtained only if the plaintiff seeks to 7 take a deposition prior to the expiration of 20 
+
+8 days after service of the summons and complaint 
+
+9 upon any defendant or service made under 
+
+10 Rule 4(e), except that leave is not required (1) if a defendant has served a notice of taking deposi- 12 tion or otherwise sought discovery, or (2) if 13 special notice is given as provided in subdivision 14 (b)(2) of this rule. The attendance of witnesses 
+
+15 may be compelled by the use of subpoena as 16 provided in Rule 45. The deposition of a person 
+
+17 confined in prison may be taken only by leave of court on such terms as the court prescribes. 11 18 19 
+
+(a)(b) NOTICE OF EXAMINATION: TIME AND 20 PLACE GENERAL REQUIREMENTS; SPECIAL
+
+21 NOTICE; NON-STENOGRAPHIC Recording; Pro- 
+
+22 DUCTION OF DOCUMENTS AND THINGS; DEPO- SITION OF ORGANIZATION. 
+
+23 24 36 (1) A party desiring to take the deposition 
+
+25 of any person upon oral examination shall 26 give reasonable notice in writing to every 
+
+27 other party to the action. The notice shall 
+
+28 state the time and place for taking the deposi- 29 tion and the name and address of each person 30 to be examined, if known, and, if the name is 31 not known, a general description sufficient to 32 identify him or the particular class or group 33 to which he belongs. If a subpoena duces tecum 
+
+34 is to be served on the person to be examined, a 35 designation of the materials to be produced thereunder shall be attached to or included in the notice. 
+
+37 (2) Leave of court is not required for the taking 38 of a deposition by plaintiff if the notice (A) states 39 that the person to be examined is about to go out 40 of the district where the action is pending and 41 more than 100 miles from the place of trial, or is 42 about to go out of the United States, or is bound 43 on a voyage to sea, and will be unavailable for 
+
+44 examination unless his deposition is taken before 
+
+45 expiration of the 20-day period, and (B) sets forth 46 facts to support the statement. The plaintiff's 
+
+47 attorney shall sign the notice, and his signature 
+
+48 constitutes a certification by him that to the best 49 of his knowledge, information, and belief the 50 statement and supporting facts are true. The sanc- 
+
+51 tions provided by Rule 11 are applicable to the 
+
+52 certification. 
+
+53 If any party shows that when he was served 
+
+54 with notice under this subdivision (b)(2) he was 55 unable through the exercise of diligence to obtain 56 counsel to represent him at the taking of the
+
+57 deposition, the deposition may not be used 
+
+58 against him. 
+
+59 (3) On motion of any party upon whom the 60 notice is served, the The court may for cause 
+
+61 shown enlarge or shorten the time. for taking 
+
+62 the deposition. 
+
+63 (4) If a party taking a deposition wishes to 64 have the testimony recorded by other than steno- 65 graphic means, the notice shall specify the manner 66 of recording, preserving, and filing the deposition. 
+
+67 The court may require stenographic taking or 
+
+68 make any other order to assure that the recorded 
+
+69 testimony will be accurate and trustworthy. 
+
+70 (5) The notice to a party deponent may be 
+
+71 accompanied by a request made in compliance 72 with Rule 34 for the production of documents and 73 tangible things at the taking of the deposition. 
+
+74 (6) A party may in his notice name as the 75 deponent a public or private corporation or a 76 partnership or association and designate with 77 reasonable particularity the matters on which 
+
+78 examination is requested. The organization so 
+
+79 named shall designate one or more officers, di- 80 rectors, or managing agents, or other persons duly 81 authorized and consenting to testify on its behalf. 
+
+82 The persons so designated shall testify as to 83 matters known or available to the organization. 
+
+84 This subdivision (b)(6) does not preclude taking 85 a deposition by any other procedure authorized 
+
+86 in these rules. 
+
+(b) ORDERS 
+
+87 
+
+FOR THE PROTECTION ᎾᏐ 88 PARTIES AND DEPONENTS. After notice is 
+
+89 served for taking a deposition by oral exami- 
+
+90 nation, upon motion seasonably made by any 91 party or by the person to be examined and
+
+92 upon notice and for good cause shown, the 93 court in which the action is pending may make 94 an order that the deposition shall not be taken, 95 or that it may be taken only at some designated 96 place other than that stated in the notice, or 97 that it may be taken only on written interroga- 98 tories, or that certain matters shall not be 99 inquired into, or that the scope of the examina- 100 tion shall be limited to certain matters, or that 101 the examination shall be held with no one pres- 102 ent except the parties to the action and their 
+
+103 officers or counsel, or that after being sealed the 104 deposition shall be opened only by order of the 
+
+105 court, or that secret processes, developments, or 106 research need not be disclosed, or that the 107 parties shall simultaneously file specified docu- 108 ments or information enclosed in sealed en- 109 velopes to be opened as directed by the court; 
+
+110 or the court may make any other order which 111 justice requires to protect the party or witness 112 from annoyance, embarrassment, or oppression. 
+
+113 (c) EXAMINATION AND CROSS-EXAMINATION; 
+
+114 RECORD OF EXAMINATION; OATH; OBJECTIONS. 
+
+115 Examination and cross-examination of witnesses 116 may proceed as permitted at the trial under the 
+
+117 provisions of Rule 43(b). The officer before whom 
+
+118 the deposition is to be taken shall put the wit- 
+
+119 ness on oath and shall personally, or by some 120 one acting under his direction and in his pres- 121 ence, record the testimony of the witness. The 
+
+122 testimony shall be taken stenographically or 123 recorded by any other means designated in accord- 
+
+124 ance with subdivision (b)(4) of this rule. and If 
+
+125 requested by one of the parties, the testimony shall 126 be transcribed unless the parties agree otherwise.
+
+127 All objections made at the time of the exami- 
+
+128 nation to the qualifications of the officer taking 129 the deposition, or to the manner of taking it, 130 or to the evidence presented, or to the conduct 131 of any party, and any other objection to the 132 proceedings, shall be noted by the officer upon 133 the deposition. Evidence objected to shall be 
+
+134 taken subject to the objections. In lieu of par- 
+
+135 ticipating in the oral examination, parties 136 served with notice of taking a deposition may 137 transmit serve written interrogatories questions 138 on the party taking the deposition and require him to transmit them to the officer, who shall propound them to the witness and record the answers verbatim. 139 140 141 142 143 
+
+(d) MOTION TO TERMINATE OR LIMIT Ex- 
+
+AMINATION. At any time during the taking of 
+
+144 the deposition, on motion of any party or of 145 the deponent and upon a showing that the 146 examination is being conducted in bad faith 147 or in such manner as unreasonably to annoy, 148 embarrass, or oppress the deponent or party, 149 the court in which the action is pending or the 150 court in the district where the deposition is 
+
+151 being taken may order the officer conducting 
+
+152 the examination to cease forthwith from taking 153 the deposition, or may limit the scope and 154 manner of the taking of the deposition as 
+
+155 provided in subdivision (b) Rule 26(c). If the 
+
+156 order made terminates the examination, it 157 shall be resumed thereafter only upon the order 158 of the court in which the action is pending. 
+
+159 Upon demand of the objecting party or depo- 160 nent, the taking of the deposition shall be 161 suspended for the time necessary to make a 
+
+162 motion for an order. In granting or refusing
+
+163 such order the court may impose upon either 164 party or upon the witness the requirement to 165 pay such costs or expenses as the court may 166 deem reasonable. The provisions of Rule 37 (a) (4) 
+
+167 apply to the award of expenses incurred in 
+
+168 relation to the motion. 
+
+169 (e) SUBMISSION TO WITNESS; CHANGES; 
+
+170 SIGNING. When the testimony is fully tran- 
+
+171 scribed the deposition shall be submitted to 172 the witness for examination and shall be 
+
+173 read to or by him, unless such examination 174 and reading are waived by the witness and 
+
+175 by the parties. Any changes in form or substance 
+
+176 which the witness desires to make shall be 177 entered upon the deposition by the officer with 178 a statement of the reasons given by the witness 179 for making them. The deposition shall then be 
+
+180 signed by the witness, unless the parties by 
+
+181 stipulation waive the signing or the witness is 
+
+182 ill or cannot be found or refuses to sign. If the 
+
+183 deposition is not signed by the witness within 
+
+184 30 days of its submission to him, the officer shall 185 sign it and state on the record the fact of the waiver or of the illness or absence of the witness or the fact of the refusal to sign together with 188 the reason, if any, given therefor; and the 
+
+189 deposition may then be used as fully as though 
+
+190 signed, unless on a motion to suppress under 
+
+191 Rule 32(d) (4) the court holds that the reasons 192 given for the refusal to sign require rejection of 
+
+193 the deposition in whole or in part. 186 187 194 
+
+(f) CERTIFICATION AND FILING BY OFFICER; 
+
+195 EXHIBITS; COPIES; NOTICE OF FILING. 
+
+196 (1) The officer shall certify on the deposition 197 that the witness was duly sworn by him and 198 that the deposition is a true record of the 281-390 - 67 - 7
+
+199 testimony given by the witness. He shall then 
+
+200 securely seal the deposition in an envelope in- 201 dorsed with the title of the action and marked 
+
+202 "Deposition of [here insert name of witness]" 203 and shall promptly file it with the court in 204 which the action is pending or send it by reg- 205 istered or certified mail to the clerk thereof for 
+
+206 filing. 207 Documents and things, unless objection is made 208 to their production for inspection during the exam- 209 ination of the witness, shall be marked for identi- 210 fication and annexed to and returned with the 211 deposition, and may be inspected and copied by 212 any party, except that (A) the person producing 213 the materials may substitute copies to be marked 214 for identification, if he affords to all parties fair 
+
+215 opportunity to verify the copies by comparison 216 with the originals, and (B) if the person producing 217 the materials requests their return, the officer shall 218 mark them, give each party an opportunity to 219 inspect and copy them, and return them to the 220 person producing them, and the materials may 221 then be used in the same manner as if annexed to 
+
+222 and returned with the deposition. 
+
+223 (2) Upon payment of reasonable charges 224 therefor, the officer shall furnish a copy of the 225 deposition to any party or to the deponent. 
+
+226 (3) The party taking the deposition shall 227 give prompt notice of its filing to all other 
+
+228 parties. 
+
+229 (g) FAILURE TO ATTEND OR TO SERVE SUB- 230 POENA; EXPENSES. 
+
+231 (1) If the party giving the notice of the 232 taking of a deposition fails to attend and pro- 
+
+233 ceed therewith and another party attends in 234 person or by attorney pursuant to the notice,
+
+235 the court may order the party giving the notice 236 to pay to such other party the amount of the 237 reasonable expenses incurred by him and his 238 attorney in so attending, including reasonable 
+
+239 attorney's fees. 
+
+240 (2) If the party giving the notice of the tak- 241 ing of a deposition of a witness fails to serve a 242 subpoena upon him and the witness because of 
+
+243 such failure does not attend, and if another 
+
+244 party attends in person or by attorney because 
+
+245 he expects the deposition of that witness to be 
+
+246 taken, the court may order the party giving 247 the notice to pay to such other party the 248 amount of the reasonable expenses incurred by 249 him and his attorney in so attending, including 
+
+250 reasonable attorney's fees.
+
+Subdivision (a). This subdivision contains the provisions of existing Rule 26(a), transferred here as part of the rearrangement relating to Rule 26. Existing 
+
+Rule 30(a) is transferred to 30(b). Changes in language have been made to conform to the new arrangement. 
+
+This subdivision is further revised in regard to the requirement of leave of court for taking a deposition. 
+
+The present procedure, requiring a plaintiff to obtain leave of court if he serves notice of taking a deposition within 20 days after commencement of the action, is changed in three respects. First, leave is required by reference to the time the deposition is to be taken rather than the date of serving notice of taking. 
+
+Second, the 20-day period runs from the service of summons and complaint on any defendant, rather than the commencement of the action. Cf. Ill. S. Ct. R. 
+
+19-1, S-H Ill. Ann. Stat. § 101.19-1. Third, leave is not required beyond the time that defendant initiates discovery, thus showing that he has retained counsel. 
+
+As under the present practice, a party not afforded a
+
+reasonable opportunity to appear at a deposition, because he has not yet been served with process, is protected against use of the deposition at trial against him. See Rule 32(a), transferred from 26(d). Moreover, he can later redepose the witness if he so desires. 
+
+The purpose of requiring the plaintiff to obtain leave of court is, as stated by the Advisory Committee that proposed the present language of Rule 26(a), to protect "a defendant who has not had an opportunity to retain counsel and inform himself as to the nature of the suit." Note to 1948 amendment of Rule 26(a), quoted in 3A Barron & Holtzoff, Federal Practice and 
+
+Procedure 455-456 (Wright ed. 1958). This protection, however, is relevant to the time of taking the deposition, not to the time that notice is served. Similarly, the protective period should run from the service of process rather than the filing of the complaint with the court. As stated in the note to Rule 26(d), the courts have used the service of notice as a convenient reference point for assigning priority in taking depositions, but with the elimination of priority in new 
+
+Rule 26(d) the reference point is no longer needed.
+
+The new procedure is consistent in principle with the provisions of Rules 33, 34, and 36 as revised.
+
+One exception is made to this requirement of leave of court. Plaintiff is excused from obtaining leave even during the initial 20-day period if he gives the special notice provided in subdivision (b)(2). The required notice must state that the person to be examined is about to go out of the district where the action is pending and more than 100 miles from the place of trial, or out of the United States, or on a voyage to sea, and will be unavailable for examination unless deposed within the 20-day period. These events occur most often in maritime litigation, when seamen are transferred from one port to another or are about to go to sea. Yet, there are analogous situations in nonmaritime litigation, and although the maritime problems are more common, a rule limited to claims in the admiralty and maritime jurisdiction is not justified.
+
+In the recent unification of the civil and admiralty rules, this problem was temporarily met through addition in Rule 26(a) of a provision that depositions de bene esse may continue to be taken as to admiralty and maritime claims within the meaning of Rule 9(h). 
+
+It was recognized at the time that "a uniform rule applicable alike to what are now civil actions and suits in admiralty" was clearly preferable, but the de bene esse procedure was adopted "for the time being at least." See Advisory Committee's note in Report of the Judicial Conference: Proposed Amendments to Rules of Civil Procedure 43-44 (1966). 
+
+The changes in Rule 30(a) and the new Rule 30(b)(2) provide a formula applicable to ordinary civil as well as maritime claims. They replace the provision for depositions de bene esse. They authorize an early deposition without leave of court where the witness is about to depart and, unless his deposition is promptly taken, (1) it will be impossible or very difficult to depose him before trial or (2) his deposition can later be taken but only with substantially increased effort and expense. Cf. S. S. Hai Chang, 1966 
+
+A.M.C. 2239 (S.D.N.Y. 1966), in which the deposing party is required to prepay expenses and counsel fees of the other party's lawyer when the action is pending in New York and depositions are to be taken on the 
+
+West Coast. Defendant is protected by a provision that the deposition can not be used against him if he was unable through exercise of diligence to obtain counsel to represent him.
+
+The distance of 100 miles from place of trial is derived from the de bene esse provision and also conforms to the reach of a subpoena of the trial court, as provided in Rule 45(e). See also S.D.N.Y. Civ. R. 
+
+5(a). Some parts of the de bene esse provision are omitted from Rule 30(b)(2). Modern deposition practice adequately covers the witness who lives more than 
+
+100 miles away from place of trial. If a witness is aged or infirm, leave of court can be obtained. 
+
+Subdivision (b). Existing Rule 30(b) on protective orders has been transferred to Rule 26(c), and existing
+
+Rule 30(a) relating to the notice of taking deposition has been transferred to this subdivision. Because new material has been added, subsection numbers have been inserted. 
+
+Subdivision (b)(1). If a subpoena duces tecum is to be served, a copy thereof or a designation of the materials to be produced must accompany the notice. 
+
+Each party is thereby enabled to prepare for the deposition more effectively.
+
+Subdivision (b)(2). This subdivision is discussed in the note to subdivision (a), to which it relates. 
+
+Subdivision (b)(3). This provision is derived from existing Rule 30(a), with a minor change of language.
+
+Subdivision (b)(4). In order to facilitate less expensive procedures, provision is made for the recording of testimony by other than stenographic means-—e.g., by mechanical, electronic, or photographic means.
+
+Because these methods give rise to problems of accuracy and trustworthiness, the party taking the deposition is required to specify how the testimony is to be recorded, preserved, and filed, and the court has broad discretion to issue orders as needed.
+
+Subdivision (b)(5). A provision is added to enable a party, through service of notice, to require another party to produce documents or things at the taking of his deposition. This may now be done as to a nonparty deponent through use of a subpoena duces tecum as authorized by Rule 45, but some courts have held that documents may be secured from a party only under 
+
+Rule 34. See 2A Barron & Holtzoff, Federal Practice and Procedure § 644.1 n. 83.2, § 792 n. 16 (Wright ed. 
+
+1961). With the elimination of "good cause" from
+
+Rule 34, the reason for this restrictive doctrine has disappeared. Cf. N.Y.C.P.L.R. § 3111.
+
+Whether production of documents or things should be obtained directly under Rule 34 or at the deposition under this rule will depend on the nature and volume of the documents or things. Both methods are made available. When the documents are few and simple, and closely related to the oral examination, ability to proceed via this rule will facilitate discovery. If the
+
+discovering party insists on examining many and complex documents at the taking of the deposition, thereby causing undue burdens on others, the latter may, under Rules 26(c) or 30(d), apply for a court order that the examining party proceed via Rule 34 alone. 
+
+Subdivision (b)(6). A new provision is added, whereby a party may name a corporation, partnership, or association as the deponent and designate the matters on which he requests examination, and the organization shall then name one or more of its officers, directors, or managing agents, or other persons authorized and consenting to appear and testify on its behalf with respect to matters known or available to the organization. Cf. Alberta Sup. Ct. R. 
+
+255. The organization may designate persons other than officers, directors, and managing agents, but only with their consent. Thus, an employee or agent who has an independent or conflicting interest in the litigation-for example, in a personal injury casecan refuse to testify on behalf of the organization. 
+
+This procedure supplements the existing practice whereby the examining party designates the corporate official to be deposed. Thus, if the examining party believes that certain officials who have not testified pursuant to this subdivision have added information, he may depose them. On the other hand, a court's decision whether to issue a protective order may take account of the availability and use made of the procedures provided in this subdivision.
+
+The new procedure should be viewed as an added facility for discovery, one which may be advantageous to both sides as well as an improvement in the deposition process. It will reduce the difficulties now encountered in determining, prior to the taking of a deposition, whether a particular employee or agent is a "managing agent." See Note, Discovery Against Corporations Under the Federal Rules, 47 Iowa L. Rev. 10061016 (1962). It will curb the "bandying" by which officers or managing agents of a corporation are deposed in turn but each disclaims knowledge of facts
+
+that are clearly known to persons in the organization and thereby to it. Cf. Haney v. Woodward & Lothrop, Inc., 330 F. 2d 940, 944 (4th Cir. 1964). The provision should also assist organizations which find that an unnecessarily large number of their officers and agents are being deposed by a party uncertain of who in the organization has knowledge. Some courts have held that under the existing rules a corporation. should not be burdened with choosing which person is to appear for it. E.g., United States v. Gahagan 
+
+Dredging Corp., 24 F.R.D. 328, 329 (S.D.N.Y. 1958).
+
+This burden is not essentially different from that of answering interrogatories under Rule 33, and is in any case lighter than that of an examining party ignorant of who in the corporation has knowledge. 
+
+Subdivision (c). A new sentence is inserted at the beginning, representing the transfer of existing Rule 
+
+26(c) to this subdivision. Another addition conforms to the new provision in subdivision (b) (4).
+
+The present rule provides that transcription shall be carried out unless all parties waive it. In view of the many depositions taken from which nothing useful is discovered, the revised language provides that transcription is to be performed if any party requests it. The fact of the request is relevant to the exercise of the court's discretion in determining who shall pay for transcription.
+
+Subdivision (d). The assessment of expenses incurred in relation to motions made under this subdivision (d) is made subject to the provisions of Rule 37(a). 
+
+The standards for assessment of expenses are more fully set out in Rule 37(a), and these standards should apply to the essentially similar motions of this subdivision.
+
+Subdivision (e). The provision relating to the refusal of a witness to sign his deposition is tightened through insertion of a 30-day time period.
+
+Subdivision (f)(1). A provision is added which codifies in a flexible way the procedure for handling exhibits related to the deposition and at the same time assures each party that he may inspect and copy
+
+1 documents and things produced by a nonparty witness in response to a subpoena duces tecum. As a general rule and in the absence of agreement to the contrary, exhibits produced without objection are to be annexed to and returned with the deposition, but a witness may substitute copies for purposes of marking and he may obtain return of the exhibits. The right of the parties to inspect exhibits for identification and to make copies is assured. Cf. N.Y.C.P.L.R. § 3116(c). 
+
+Rule 31. Depositions of Witnesses Upon Written Interrogatories Questions (a) SERVING INTERROGATORIES QUESTIONS; 
+
+2 NOTICE. After commencement of the action, any 
+
+3 party may take the testimony of any person, in- 4 cluding a party, by deposition upon written 5 questions. The attendance of witnesses may be 
+
+6 compelled by the use of subpoena as provided in 7 Rule 45. The deposition of a person confined in 
+
+8 prison may be taken only by leave of court on 9 such terms as the court prescribes. 
+
+10 A party desiring to take the a deposition of 11 any person upon written interrogatories ques- 12 tions shall serve them upon every other party 
+
+13 with a notice stating (1) the name and address 
+
+14 of the person who is to answer them, if known, 15 and if the name is not known, a general descrip- 16 tion sufficient to identify him or the particular 17 class or group to which he belongs, and (2) the 
+
+18 name or descriptive title and address of the 19 officer before whom the deposition is to be 20 taken. A deposition upon written questions may 
+
+21 be taken of a public or private corporation or a 22 partnership or association in accordance with the 
+
+23 provisions of Rule 30(b)(6).
+
+24 
+
+Within 10 20 days thereafter after the notice 25 and written questions are served, a party se 26 served may serve cross interrogatories questions 
+
+27 upon the party proposing to take the deposition. 
+
+28 all other parties. Within 5 10 days thereafter 
+
+29 the latter after being served with cross questions, 30 a party may serve redirect interrogatories ques- 31 tions upon all other parties. a party who has 
+
+32 served eross interrogatories: Within 3 10 days 
+
+33 after being served with redirect interrogatories 34 questions, a party may serve recross interroga- 35 tories questions upon all other parties. the party 
+
+36 proposing to take the deposition. The court may 
+
+37 for cause shown enlarge or shorten the time. 38 39 
+
+(b) OFFICER TO TAKE RESPONSES AND PRE- 
+
+PARE RECORD. A copy of the notice and copies 
+
+40 of all interrogatories questions served shall be 41 delivered by the party taking the deposition 42 to the officer designated in the notice, who shall 43 proceed promptly, in the manner provided by 
+
+44 Rule 30(c), (e), and (f), to take the testimony 45 of the witness in response to the interrogatories 46 questions and to prepare, certify, and file or 47 mail the deposition, attaching thereto the copy 48 of the notice and the interrogatories questions 
+
+49 received by him. 
+
+50 (c) NOTICE OF FILING. When the deposition 
+
+51 is filed the party taking it shall promptly 
+
+52 give notice thereof to all other parties. 
+
+53 (d) ORDERS FOR THE PROTECTION OF PAR- 54 TIES AND DEPONENTS. After the service of 
+
+55 interrogatories and prior to the taking of the 56 testimony of the deponent, the court in which 
+
+57 the action is pending, on motion promptly 58 made by a party or a deponent, upon notice
+
+59 and good cause shown, may make any order 60 specified in Rule 30 which is appropriate and 
+
+61 just or an order that the deposition shall not 
+
+62 be taken before the officer designated in the 63 notice or that it shall not be taken except upon 
+
+64 oral examination.
+
+Confusion is created by the use of the same terminology to describe both the taking of a deposition upon "written interrogatories" pursuant to this rule. and the serving of "written interrogatories" upon parties pursuant to Rule 33. The distinction between these two modes of discovery will be more readily and clearly grasped through substitution of the word "questions" for "interrogatories" throughout this rule.
+
+Subdivision (a). A new paragraph is inserted at the beginning of this subdivision to conform to the rearrangement of provisions in Rules 26(a), 30(a), and 30(b).
+
+The revised subdivision permits designation of the deponent by general description or by class or group. 
+
+This conforms to the practice for depositions on oral examination. 
+
+The new procedure provided in Rule 30 (b) (6) for taking the deposition of a corporation or other organization through persons designated by the organization is incorporated by reference.
+
+The service of all questions, including cross, redirect, and recross, is to be made on all parties. This will inform the parties and enable them to participate fully in the procedure.
+
+The time allowed for service of cross, redirect, and recross questions has been extended. Experience with the existing time limits shows them to be unrealistically short. No special restriction is placed on the time for serving the notice of taking the deposition and the first set of questions. Since no party is required to serve cross questions less than 20 days after the notice and questions are served, the defendant has sufficient
+
+1 time to obtain counsel. The court may for cause shown enlarge or shorten the time.
+
+Subdivision (d). Since new Rule 26(c) provides for protective orders with respect to all discovery, and expressly provides that the court may order that one discovery device be used in place of another, subdivision (d) is eliminated as unnecessary. 
+
+Rule 32. Use of Depositions in Court
+
+Proceedings Effect of Errors and Irregularities in 
+
+Depositions 
+
+[Special Note: The provisions of Rule 32(a), (b), and (c) set out below represent the transfer of Rules 26(d), (e), and (f) with a few amendments. To enable the reader to distinguish easily between transferred material and amendments of material, the provisions are presented within brackets and in roman type as they have heretofore appeared in Rule 26, with line deletions and italics representing the changes made.] 
+
+[(d) (a) USE OF DEPOSITIONS. At the trial or 
+
+2 upon the hearing of a motion or an interlocu- 3 tory proceeding, any part or all of a deposition, so far as admissible under the rules of evidence 5 applied as though the witness were then present 6 and testifying, may be used against any party who was present or represented at the taking 8 of the deposition or who had due reasonable 9 notice thereof, in accordance with any one of 
+
+10 the following provisions: 
+
+11 (1) Any deposition may be used by any 12 party for the purpose of contradicting or 13 impeaching the testimony of deponent as a 
+
+14 witness. 15 (2) The deposition of a party or of any one 16 who at the time of taking the deposition was
+
+. 
+
+17 an officer, director, or managing agent, or a 
+
+18 person designated under Rule 30(b)(6) or 31(a) 19 to testify on behalf of a public or private cor- 20 poration, partnership or association which is a party may be used by an adverse party for 21 22 any purpose. 
+
+23 (3) The deposition of a witness, whether or 24 not a party, may be used by any party for any 
+
+25 purpose if the court finds: 1, (A) that the wit- 
+
+26 ness is dead; or 2, (B) that the witness is at a 
+
+27 greater distance than 100 miles from the place 
+
+28 of trial or hearing, or is out of the United 29 States, unless it appears that the absence of the 30 witness was procured by the party offering the 
+
+31 deposition; or 3, (C) that the witness is unable 
+
+32 to attend or testify because of age, sickness, 33 infirmity, or imprisonment; or 4, (D) that the 
+
+34 party offering the deposition has been unable 35 to procure the attendance of the witness by 
+
+36 subpoena; or 5, (E) upon application and no- 
+
+37 tice, that such exceptional circumstances exist 38 as to make it desirable, in the interest of justice 39 and with due regard to the importance of pre- 40 senting the testimony of witnesses orally in 41 open court, to allow the deposition to be used. (4) If only part of a deposition is offered in 43 evidence by a party, an adverse party may 44 require him to introduce all of it which is 45 relevant to the part introduced, and any party 
+
+46 may introduce any other parts. 42 
+
+47 Substitution of parties pursuant to Rule 25 
+
+48 does not affect the right to use depositions 
+
+49 previously taken; and, when an action in any 
+
+50 court of the United States or of any state has 
+
+51 been dismissed and another action involving 52 the same subject matter is afterward brought
+
+53 between the same parties or their representa- 54 tives or successors in interest, all depositions 55 lawfully taken and duly filed in the former 
+
+56 action may be used in the latter as if originally 
+
+57 taken therefor. 58 
+
+e) (b) OBJECTIONS TO ADMISSIBILITY. Sub- 
+
+59 ject to the provisions of Rules 28(b) and 60 32(e) subdivision (d)(3) of this rule, objection 61 may be made at the trial or hearing to receiv- 62 ing in evidence any deposition or part thereof 63 for any reason which would require the exclu- 64 sion of the evidence if the witness were then 
+
+65 present and testifying. 
+
+66 (f) (c) EFFECT OF TAKING OR USING DEPO- 
+
+67 SITIONS. A party shall does not be deemed to 
+
+68 make a person his own witness for any purpose 
+
+69 by taking his deposition. The introduction in 
+
+70 evidence of the deposition or any part thereof 71 for any purpose other than that of contradicting 72 or impeaching the deponent makes the depo- 73 nent the witness of the party introducing the 
+
+74 deposition, but this shall not apply to the use 75 by an adverse party of a deposition as described 
+
+76 in paragraph (2) of subdivision (d) subdivision 
+
+77 (a) (2) of this rule. At the trial or hearing any 
+
+78 party may rebut any relevant evidence con- 79 tained in a deposition whether introduced by 
+
+80 him or by any other party.] 81 
+
+(d) EFFECT OF ERRORS ANd Irregulari- 82 TIES IN DEPOSITIONS. 
+
+83 (a) (1) As to Notice. All errors and irregu- 
+
+84 larities in the notice for taking a deposition 
+
+85 are waived unless written objection is promptly 86 served upon the party giving the notice.
+
+87 (b) (2) As to Disqualification of Officer. 
+
+88 Objection to taking a deposition because of 
+
+89 disqualification of the officer before whom it 
+
+90 is to be taken is waived unless made before 91 the taking of the deposition begins or as soon 92 thereafter as the disqualification becomes 
+
+93 known or could be discovered with reasonable 
+
+94 diligence. 95 96 (e) (3) As to Taking of Deposition. (A) Objections to the competency of a 97 witness or to the competency, relevancy, or 
+
+98 materiality of testimony are not waived by 
+
+99 failure to make them before or during the taking 100 of the deposition, unless the ground of the 101 objection is one which might have been obvi- 
+
+102 ated or removed if presented at that time. 
+
+103 (2) (B) Errors and irregularities occurring 104 at the oral examination in the manner of 105 taking the deposition, in the form of the ques- 106 tions or answers, in the oath or affirmation, or 107 in the conduct of parties and errors of any kind 108 which might be obviated, removed, or cured if 
+
+109 promptly presented, are waived unless season- 110 able objection thereto is made at the taking of 
+
+111 the deposition. 
+
+112 (3) (C) Objections to the form of written 113 interrogatories questions submitted under Rule 
+
+114 31 are waived unless served in writing upon the 115 party propounding them within the time al- 116 lowed for serving the succeeding cross or other 117 interrogatories questions and within 3 5 days 118 after service of the last interrogatories ques- 
+
+119 tions authorized. 
+
+120 (d) (4) As to Completion and Return of Depo- 
+
+121 sition. Errors and irregularities in the manner
+
+122 in which the testimony is transcribed or the 
+
+123 deposition is prepared, signed, certified, sealed, 124 indorsed, transmitted, filed, or otherwise dealt 125 with by the officer under Rules 30 and 31 are 126 waived unless a motion to suppress the depo- 127 sition or some part thereof is made with rea- 128 sonable promptness after such defect is, or with 129 due diligence might have been, ascertained. 
+
+As part of the rearrangement of the discovery rules, existing subdivisions (d), (e), and (f) of Rule 26 are transferred to Rule 32 as new subdivisions (a), (b), and (c). The provisions of Rule 32 are retained as subdivision (d) of Rule 32 with appropriate changes in the lettering and numbering of subheadings. The new rule is given a suitable new title. A beneficial byproduct of the rearrangement is that provisions which are naturally related to one another are placed in one rule.
+
+A change is made in new Rule 32(a), whereby it is made clear that the rules of evidence are to be applied to depositions offered at trial as though the deponent were then present and testifying at trial. This eliminates the possibility of certain technical hearsay objections which are based, not on the contents of deponent's testimony, but on his absence from court. 
+
+The language of present Rule 26(d) does not appear to authorize these technical objections, but it is not entirely clear. Note present Rule 26(e), transferred to Rule 32(b); see 2A Barron & Holtzoff, Federal
+
+Practice and Procedure 164–166 (Wright ed. 1961). 
+
+An addition in Rule 32(a) (2) provides for use of a deposition of a person designated by a corporation or other organization, which is a party, to testify on its behalf. This complements the new procedure for taking the deposition of a corporation or other organization provided in Rules 30(b) (6) and 31(a).
+
+The addition is appropriate, since the deposition is
+
+1 in substance and effect that of the corporation or other organization which is a party. 
+
+References to other rules are changed to conform to the rearrangement, and minor verbal changes have been made for clarification. The time for objecting to written questions served under Rule 31 is slightly extended. 
+
+Rule 33. Interrogatories to Parties 
+
+(a) AVAILABILITY; PROCEDURES FOR USE. 
+
+2 Any party may serve upon any adverse other 3 party written interrogatories to be answered 4 by the party served or, if the party served is a 5 public or private corporation or a partnership or association, by any officer or agent, who 7 shall furnish such information as is available to 
+
+8 the party. Interrogatories may, without leave of 
+
+9 court, be served upon the plaintiff after com- 10 mencement of the action and upon any other party with or after service of the summons and 
+
+12 complaint upon that party. and without leave 
+
+13 of court, except that, if service is made by the 14 plaintiff within 10 days after such commence- 15 ment, leave of court granted with or without 16 notice must first be obtained. The interroga- 
+
+17 teries 11 
+
+18 Each interrogatory shall be answered sepa- 19 rately and fully in writing under oath, unless 20 it is objected to, in which event the reasons for 
+
+21 objection shall be stated in lieu of an answer. 
+
+22 The answers shall are to be signed by the person 23 making them;, and the objections signed by the 
+
+24 attorney making them. The party upon whom 
+
+25 the interrogatories have been served shall serve 26 a copy of the answers and objections on the 
+
+27 party submitting the interrogatories within 15
+
+28 days after the service of the interrogatories, 29 unless the court, on motion and notice and for 30 good cause shown, enlarges or shortens the 31 time. within a period designated by the party 
+
+32 submitting the interrogatories, not less than 30 33 days after the service thereof or within such 34 shorter or longer time as the court may allow. 
+
+35 Within 10 days after service of interrogatories 36 a party may serve written objections thereto 37 together with a notice of hearing the objections 
+
+38 at the earliest practicable time. Answers to 
+
+39 interrogatories to which objection is made shall 40 be deferred until the objections are determined. 
+
+41 The party submitting the interrogatories may 42 move for an order under Rule 37(a) with respect 
+
+43 to any objection to or other failure to answer an 
+
+44 interrogatory. 
+
+45 (b) SCOPE; USE AT TRIAL. Interrogatories 
+
+46 may relate to any matters which can be in- 47 quired into under Rule 26(b), and the answers 48 may be used to the same extent permitted by 49 the rules of evidence. as provided in Rule 26(d) 
+
+50 for the use of the deposition of a party. Inter- 
+
+51 rogatories may be served after a deposition has 52 been taken, and a deposition may be sought 
+
+53 after interrogatories have been answered, but 54 the court, on motion of the deponent or the 
+
+55 party interrogated, may make such protective 56 order as justice may require. The number of 
+
+57 interrogatories or of sets of interrogatories to 58 be served is not limited except as justice re- 59 quires to protect the party from annoyance, 60 expense, embarrassment, or oppression. The 
+
+61 provisions of Rule 30(b) are applicable for the
+
+62 protection of the party from whom answers to 63 interrogatories are sought under this rule. 
+
+64 An interrogatory otherwise proper is not 65 objectionable merely because an answer to the 66 interrogatory involves an opinion, contention, or 67 legal conclusion, but the court may order that 68 such an interrogatory be answered at a later time, or after designated discovery has been completed, or at a pretrial conference. 69 70 71 
+
+(c) OPTION TO PRODUCE BUSINESS RECORDS. 
+
+72 Where the answer to an interrogatory may be 73 derived or ascertained from the business records of 74 the party upon whom the interrogatory has been 75 served or from an examination, audit or inspection 76 of such business records, or from a compilation, 77 abstract or summary based thereon, and the 78 burden of deriving or ascertaining the answer is 79 substantially the same for the party serving the 80 interrogatory as for the party served, it is a 81 sufficient answer to such interrogatory to specify 82 the records from which the answer may be derived 83 or ascertained and to afford to the party serving 84 by whom the interrogatory reasonable opportunity 85 to examine, audit or inspect such records and to 86 make copies thereof or compilations, abstracts or 
+
+87 summaries therefrom.
+
+Subdivision (a). The mechanics of the operation of 
+
+Rule 33 are substantially revised by the proposed amendment, with a view to reducing court intervention. There is general agreement that interrogatories spawn a greater percentage of objections and motions than any other discovery device. The Columbia 
+
+Survey shows that, although half of the litigants resorted to depositions and about one-third used interrogatories, about 65 percent of the objections were
+
+made with respect to interrogatories and 26 percent related to depositions. See also Speck, The Use of
+
+Discovery in United States District Courts, 60 Yale 
+
+L.J. 1132, 1144, 1151 (1951); Note, 36 Minn. L. Rev. 
+
+364, 379 (1952).
+
+The procedures now provided in Rule 33 seem calculated to encourage objections and court motions. 
+
+The time periods now allowed for responding to interrogatories--15 days for answers and 10 days for objections are too short. The Columbia Survey shows that tardy response to interrogatories is common, virtually expected. The same was reported in Speck, supra, 60 Yale L. J. 1132, 1144. The time pressures tend to encourage objections as a means of gaining time to answer.
+
+The time for objections is even shorter than for answers, and the party runs the risk that if he fails to object in time he may have waived his objections. E.g., Cleminshaw v. Beech Aircraft Corp., 21 F.R.D. 300 (D. Del. 1957); see 4 Moore's Federal Practice, ¶ 33.27 (2d ed. 1966); 2A Barron & Holtzoff, Federal Practice and Procedure 372-373 (Wright ed. 1961). It often seems easier to object than to seek an extension of time. Unlike Rules 30(d) and 37(a), Rule 33 imposes no sanction of expenses on a party whose objections are clearly unjustified. 
+
+Rule 33 assures that the objections will lead directly to court, through its requirement that they be served with a notice of hearing. Although this procedure does not preclude an out-of-court resolution of the dispute, the procedure tends to discourage informal negotiations. If answers are served and they are thought inadequate, the interrogating party may move under Rule 37(a) for an order compelling adequate answers. 
+
+There is no assurance that the hearing on objections and that on inadequate answers will be heard toegther. 
+
+The amendment improves the procedure of Rule 33 in the following respects: (1) The time allowed for response is increased to 30 days and this time period applies to both answers and objections. The responding party, unless he applies
+
+for a protective order, is required to serve answers or objections in response to the interrogatories, subject to the sanctions provided in Rule 37 (d). Answers and objections are served together, so that a response to each interrogatory is encouraged, and any failure to respond is easily noted. (2) In view of the enlarged time permitted for response, it is no longer necessary to require leave of court for service of interrogatories. The purpose of this requirement that defendant have time to obtain counsel before a response must be made is adequately fulfilled by the requirement that interrogatories be served upon a party with or after service of the summons and complaint upon him.
+
+Some would urge that the plaintiff nevertheless not be permitted to serve interrogatories with the complaint. They fear that a routine practice might be invited, whereby form interrogatories would accompany most complaints. More fundamentally, they feel that, since very general complaints are permitted in present-day pleading, it is fair that the defendant have a right to take the lead in serving interrogatories. (These views apply also to Rule 36.) The amendment of Rule 33 rejects these views, in favor of allowing both parties to go forward with discovery, each free to obtain the information he needs respecting the case. (3) If objections are made, the burden is on the interrogating party to move under Rule 37(a) for a court order compelling answers, in the course of which the court will pass on the objections. The change in the burden of going forward does not alter the existing obligation of an objecting party to justify his objections. E.g., Pressley v. Boehlke, 33 F.R.D. 316 (W.D.N.C. 1963). If the discovering party asserts that an answer is incomplete or evasive, again he may look to Rule 37(a) for relief, and he should add this assertion to his motion to overrule objections. 
+
+There is no requirement that the parties consult informally concerning their differences, but the new procedure should encourage consultation, and the court may by local rule require it.
+
+The proposed changes are similar in approach to those adopted by California in 1961. See Calif. Code
+
+Civ. Proc. § 2030(a). The experience of the Los 
+
+Angeles Superior Court is informally reported as showing that the California amendment resulted in a significant reduction in court motions concerning interrogatories. Rhode Island takes a similar approach. 
+
+See R. 33, R.I.R. Civ. Proc. Official Draft, p. 74 
+
+(Boston Law Book Co.). 
+
+A change is made in subdivision (a) which is not related to the sequence of procedures. The restriction to "adverse" parties is eliminated. The courts have generally construed this restriction as precluding interrogatories unless an issue between the parties is disclosed by the pleadings-even though the parties may have conflicting interests. E.g., Mozeika v.
+
+Kaufman Construction Co., 25 F.R.D. 233 (E.D. Pa. 
+
+1960) (plaintiff and third-party defendant); Biddle v.
+
+Hutchinson, 24 F.R.D. 256 (M.D. Pa. 1959) (co defendants). The resulting distinctions have often been highly technical. In Schlagenhauf v. Holder 379 
+
+U.S. 104 (1964), the Supreme Court rejected a contention that examination under Rule 35 could be had only against an "opposing" party, as not in keeping "with the aims of a liberal, nontechnical application of the Federal Rules." 379 U.S. at 116. Eliminating the requirement of "adverse" parties from Rule 33 brings it into line with all other discovery rules. 
+
+The duty of a party to supplement his answers to interrogatories is governed by a new provision in 
+
+Rule 26(e).
+
+Subdivision (b). There are numerous and conflicting decisions on the question whether and to what extent interrogatories are limited to matters "of fact," or may elicit opinions, contentions, and legal conclusions. 
+
+Compare, e.g., Payer, Hewitt & Co. v. Bellanca Corp., 26 F.R.D. 219 (D. Del. 1960) (opinions bad); Zinsky v. New York Central R.R., 36 F.R.D. 680 (N.D. Ohio 
+
+1964) (factual opinion or contention good, but legal theory bad); United States v. Carter Products, Inc., 28
+
+F.R.D. 373 (S.D.N.Y. 1961) (factual contentions and
+
+legal theories bad) with Taylor v. Sound Steamship Lines, Inc., 100 F. Supp. 388 (D. Conn. 1951) (opinions good); Bynum v. United States, 36 F.R.D. 14 (E.D.
+
+La. 1964) (contentions as to facts constituting negligence good). For lists of the many conflicting authorities, see 4 Moore's Federal Practice ¶ 33.17 (2d ed. 
+
+1966); 2A Barron & Holtzoff, Federal Practice and
+
+Procedure § 768 (Wright ed. 1961). 
+
+Rule 33 is amended to provide that an interrogatory is not objectionable merely because it calls for an opinion, contention, or legal conclusion. Efforts to draw sharp lines between facts and opinions have invariably been unsuccessful, and the clear trend of the cases is to permit "factual" opinions. As to requests for contentions or other inquiries which in some measure call for legal conclusions, they can be most useful in narrowing and sharpening the issues, which is a major purpose of discovery. See Diversified Products
+
+Corp. v. Sports Center Co., 42 F.R.D. 3 (D. Md. 1967); 
+
+Moore, supra; Field & McKusick, Maine Civil Practice § 26.18 (1959). On the other hand, interrogatories may not extend to issues of "pure law," i.e., legal issues unrelated to the facts of the case. Cf. United States v. 
+
+Maryland & Va. Milk Producers Assn., Inc., 22
+
+F.R.D. 300 (D.D.C. 1958). 
+
+Since interrogatories calling for contentions or legal conclusions may create disputes between the parties which are best resolved after much or all of the other discovery has been completed, the court is expressly authorized to defer an answer. Likewise, the court may delay determination until pretrial conference, if it believes that the dispute is best resolved in the presence of the judge.
+
+The principal question raised with respect to the cases permitting such interrogatories is whether they reintroduce undesirable aspects of the prior pleading practice, whereby parties were chained to misconceived contentions or theories, and ultimate determination on the merits was frustrated. See James, The
+
+Revival of Bills of Particulars under the Federal Rules, 
+
+71 Harv. L. Rev. 1473 (1958). But there are few if
+
+any instances in the recorded cases demonstrating that such frustration has occurred. The general rule governing the use of answers to interrogatories is that under ordinary circumstances they do not limit proof. 
+
+See, e.g., McElroy v. United Air Lines, Inc., 21 F.R.D. 
+
+100 (W.D. Mo. 1957); Pressley v. Boehlke, 33 F.R.D. 
+
+316, 317 (W.D.N.C. 1963). Although in exceptional circumstances reliance on an answer may cause such prejudice that the court will hold the answering party bound to his answer, e.g., Zielinski v. Philadelphia 
+
+Piers, Inc., 139 F. Supp. 408 (E.D. Pa. 1956), the interrogating party will ordinarily not be entitled to rely on the unchanging character of the answers he receives and cannot base prejudice on such reliance. 
+
+The rule does not affect the power of a court to permit withdrawal or amendment of answers to interrogatories.
+
+The use of answers to interrogatories at trial is made subject to the rules of evidence. The provisions governing use of depositions, to which Rule 33 presently refers, are not entirely apposite to answers to interrogatories, since deposition practice contemplates that all parties will ordinarily participate through cross-examination. See 4 Moore's Federal Practice ¶ 33.29[1] (2d ed. 1966). 
+
+Certain provisions are deleted from subdivision (b) because they are fully covered by new Rule 26(c) providing for protective orders and Rules 26(a) and 26(d). The language of the subdivision is thus simplified without any change of substance.
+
+Subdivision (c). This is a new subdivision, adapted from Calif. Code Civ. Proc. § 2030(c), relating especially to interrogatories which require a party to engage in burdensome or expensive research into his own business records in order to give an answer. 
+
+The subdivision gives the party an option to make the records available and place the burden of research on the party who seeks the information. "This provision, without undermining the liberal scope of interrogatory discovery, places the burden
+
+123 of discovery upon its potential benefitee," Louisell, Modern California Discovery, 124-125 (1963), and alleviates a problem which in the past has troubled 
+
+Federal courts. See Speck, The Use of Discovery in 
+
+United States District Courts, 60 Yale L. J. 1132, 1142-1144 (1951). The interrogating party is protected against abusive use of this provision through the requirement that the burden of ascertaining the answer be substantially the same for both sides. 
+
+A respondent may not impose on an interrogating party a mass of records as to which research is feasible only for one familiar with the records. 
+
+Rule 34. Discovery and Production of Documents and Things for Inspection, 
+
+Copying, or Photographing
+
+Upon motion of any party showing good eause therefor and upon notice to all other 3 parties, and subject to the provisions of Rule 4 30(b), the court in which an action is pending 
+
+5 may (1) order any party to produce and permit 
+
+6 the inspection and copying or photographing, 7 by or on behalf of the moving party, of any designated documents, papers, books, accounts, 9 letters, photographs, objects, or tangible things, 10 not privileged, which constitute or contain 11 evidence relating to any of the matters within 12 the scope of the examination permitted by 
+
+13 Rule 26(b) and which are in his possession, 14 eustody, or control; or (2) order any party to 
+
+15 permit entry upon designated land or other 16 property in his possession or control for the 
+
+17 purpose of inspecting, measuring, surveying, 18 or photographing the property or any desig- 19 nated object or operation thereon within the 20 scope of the examination permitted by Rule
+
+21 26(b). The order shall specify the time, place, 22 and manner of making the inspection and 
+
+23 taking the copies and photographs and may 24 prescribe such terms and conditions as are just. 
+
+Rule 34. Production of Documents and Things and Entry Upon Land for Inspection and Other Purposes 
+
+1 (a) SCOPE. Any party may serve on any other 
+
+2 party a request (1) to produce and permit the 3 party making the request, or someone acting on 4 his behalf, to inspect and copy, any designated 5 documents (including writings, drawings, graphs, 6 charts, photographs, phono-records, and other 7 data compilations from which intelligence can be 
+
+8 perceived, with or without the use of detection devices) or to inspect and copy, test, or sample any 10 tangible things which constitute or contain matters 11 within the scope of Rule 26(b) and which are in 12 the possession, custody or control of the party upon 
+
+13 whom the request is served; or (2) to permit entry 
+
+14 upon designated land or other property in the pos- 15 session or control of the party upon whom the re- 16 quest is served for the purpose of inspection and 
+
+17 measuring, surveying, photographing, testing, or 18 sampling the property or any designated object or 
+
+19 operation thereon, within the scope of Rule 26(b). 
+
+20 (b) Procedure. The request may, without leave 
+
+21 of court, be served upon the plaintiff after com- 22 mencement of the action and upon any other party 23 with or after service of the summons and complaint 24 upon that party. The request shall set forth the 
+
+25 items to be inspected either by individual item or 26 by category, and describe each item and category 
+
+27 with reasonable particularity. The request shall 
+
+28 specify a reasonable time, place, and manner of
+
+29 making the inspection and performing the related 30 
+
+acts. 
+
+31 The party upon whom the request is served 32 shall serve a written response within a period 
+
+33 designated in the request, not less than 30 days 34 after the service thereof or within such shorter 35 or longer time as the court may allow. The response 
+
+36 shall state, with respect to each item or category, 37 that inspection and related activities will be 38 permitted as requested, unless it is objected to, 39 in which event the reasons for objection shall be 40 stated. If objection is made to part of an item 
+
+41 or category, the part shall be specified. The party 
+
+42 submitting the request may move for an order 43 under Rule 37(a) with respect to any objection 44 to or other failure to respond to the request or any 
+
+45 part thereof, or any failure to permit inspection as 
+
+46 requested.
+
+Rule 34 is revised to accomplish three major changes in the existing rule: (1) to eliminate the requirement of good cause; (2) to have the rule operate extrajudicially; and (3) to include testing and sampling as well as inspecting or photographing tangible things.
+
+Subdivision (a). Good cause is eliminated because it has furnished an uncertain and erratic protection to the parties from whom production is sought and is now rendered unnecessary by virtue of the more specific provisions added to Rule 26(b) relating to materials assembled in preparation for trial and to experts retained or consulted by parties. 
+
+The good cause requirement was originally inserted in Rule 34 as a general protective provision in the absence of experience with the specific problems that would arise thereunder. As the note to Rule 26(b)(3) on trial preparation materials makes clear, good cause
+
+has been applied differently to varying classes of documents, though not without confusion. The predominant approach of recent cases to production of documents, when neither trial preparation nor experts are involved, has been to apply the criteria of relevancy and privilege of Rule 26(b). Protection may be afforded to claims of privacy or secrecy or of undue burden or expense under what is now Rule 26(c) (previously Rule 30(b)). To be sure, an appraisal of "undue" burden inevitably entails consideration of the needs of the party seeking discovery. With special provisions added to govern trial preparation materials and experts, there is no longer any occasion to retain the requirement of good cause.
+
+The revision of Rule 34 to have it operate extrajudicially, rather than by court order, is to a large extent a reflection of existing law office practice. The 
+
+Columbia Survey shows that of the litigants seeking inspection of documents or things, only about 25 percent filed motions for court orders. This minor fraction nevertheless accounted for a significant number of motions. About half of these motions were uncontested and in almost all instances the party seeking production ultimately prevailed. Although an extrajudicial procedure will not drastically alter existing practice under Rule 34-it will conform to it in most cases- -it has the potential of saving court time in a substantial though proportionately small number of cases tried annually.
+
+The inclusion of testing and sampling of tangible things and objects or operations on land reflects a need frequently encountered by parties in preparation for trial. If the operation of a particular machine is the basis of a claim for negligent injury, it will often be necessary to test its operating parts or to sample and test the products it is producing. Cf. Mich. Gen. 
+
+Ct. R. 310.1(1) (1963) (testing authorized). The in clusive description of "documents" is revised to accord with contemporary technology. 
+
+Subdivision (b). The procedure provided in Rule 34 is essentially the same as that in Rule 33, as amended,
+
+1 and the discussion in the note appended to that rule is relevant to Rule 34 as well. Problems peculiar to 
+
+Rule 34 relate to the specific arrangements that must be worked out for inspection and related acts of copying, photographing, testing, or sampling. The rule provides that a request for inspection shall set forth the items to be inspected either by item or category, describing each with reasonable particularity, and shall specify a reasonable time, place, and manner of making the inspection.
+
+The rule as revised continues to apply only to parties. It has been suggested that the rule should authorize a court order to nonparties to permit entry on land, in appropriate cases. The need for this provision is not shown by the reported cases or by the commentators, but perhaps it will be shown by reports of difficulties from the bar.
+
+Rule 35. Physical and Mental Examination of Persons (a) ORDER FOR EXAMINATION. In an action 
+
+2 in which When the mental or physical condition 3 (including the blood group) of a party, or of a 4 person in the custody or under the legal control 5 of a party, is in controversy, the court in which 
+
+6 the action is pending may order him the party 7 to submit to a physical or mental examination 8 by a physician or to produce for examination the 9 person in his custody or legal control. The order 
+
+10 may be made only on motion for good cause 11 shown and upon notice to the party person to 12 be examined and to all ether parties and shall 13 specify the time, place, manner, conditions, and 14 scope of the examination and the person or 
+
+15 persons by whom it is to be made. 16 17 18 
+
+(b) REPORT OF EXAMINING PHYSICIAN FIND
+
+ings. (1) If requested by the party against whom
+
+19 an order is made under Rule 35(a) or the person 20 examined, the party causing the examination 21 to be made shall deliver to him a copy of a 22 detailed written report of the examining physi- 23 cian setting out his findings, including results 
+
+24 of all tests made, diagnoses and conclusions:, 25 together with like reports of all earlier examina- 26 tions of the same condition. After such request 
+
+27 and delivery the party causing the examination 28 to be made shall be entitled upon request to 29 receive from the party examined against whom 30 the order is made a like report of any examina- 31 tion, previously or thereafter made, of the same 32 mental or physical condition:, unless, in the case 
+
+33 of a report of examination of a person not a 34 party, the party shows that he is unable to obtain 35 it. If the party examined refuses to deliver such 
+
+36 report tThe court on motion and notice may 37 make an order against a party requiring delivery 38 of a report on such terms as are just, and if a 39 physician fails or refuses to make such a report 40 the court may exclude his testimony if offered 
+
+41 at the trial. 
+
+42 (2) By requesting and obtaining a report of 43 the examination so ordered or by taking the 44 deposition of the examiner, the party examined 
+
+45 waives any privilege he may have in that action 46 or any other involving the same controversy, 47 regarding the testimony of every other person 48 who has examined or may thereafter examine 49 him in respect of the same mental or physical 
+
+50 condition. 51 (3) This subdivision applies to examinations 52 made by agreement of the parties, unless the 53 agreement expressly provides otherwise. This sub-
+
+54 division does not preclude discovery of a report of an examining physician in accordance with the 
+
+56 provisions of any other rule. 55 
+
+Subdivision (a). Rule 35(a) has hitherto provided only for an order requiring a party to submit to an examination. It is desirable to extend the rule to provide for an order against the party for examination of a person in his custody or under his legal control. 
+
+As appears from the provisions of amended Rule 
+
+37(b)(2) and the comment under that rule, an order to "produce" the third person imposes only an obligation to use good faith efforts to produce the person. 
+
+The amendment will settle beyond doubt that a parent or guardian suing to recover for injuries to a minor may be ordered to produce the minor for examination. Further, the amendment expressly includes blood examination within the kinds of examinations that can be ordered under the rule. See Beach v. 
+
+Beach, 114 F. 2d 479 (D.C. Cir. 1940). Provisions similar to the amendment have been adopted in at least 10 States: Calif. Code Civ. Proc. § 2032; Ida. R. 
+
+Civ. P. 35; Ill. S-H Ann. c. 110, § 101.17-1; Md. R. P. 
+
+420; Mich. Gen. Ct. R. 311; Minn. R. Civ. P. 35; 
+
+Mo. Vern. Ann. R. Civ. P. 60.01; N. Dak. R. Civ. P. 
+
+35; N.Y.C.P.L. § 3121; Wyo. R. Civ. P. 35.
+
+The amendment makes no change in the requirements of Rule 35 that, before a court order may issue, the relevant physical or mental condition must be shown to be "in controversy" and "good cause" must be shown for the examination. Thus, the amendment has no effect on the recent decision of the Supreme 
+
+Court in Schlagenhauf v. Holder, 379 U.S. 104 (1964), stressing the importance of these requirements and applying them to the facts of the case. The amendment makes no reference to employees of a party. Provisions relating to employees in the State statutes and rules cited above appear to have been virtually unused. 
+
+Subdivision (b)(1). This subdivision is amended to correct an imbalance in Rule 35(b) (1) as heretofore
+
+written. Under that text, a party causing a Rule 35(a) examination to be made is required to furnish to the party examined, on request, a copy of the examining physician's report. If he delivers this copy, he is in turn entitled to receive from the party examined reports of all examinations of the same condition previously or later made. But the rule has not in terms entitled the examined party to receive from the party causing the Rule 35(a) examination any reports of earlier examinations of the same condition to which the latter may have access. The amendment cures this defect. See La. Stat. Ann., Civ. Proc. art. 1495 (1960); 
+
+Utah R. Civ. P. 35(c).
+
+The amendment specifies that the written report of the examining physician includes results of all tests made, such as results of X-rays and cardiograms. It also embodies changes required by the broadening of 
+
+Rule 35(a) to take in persons who are not parties. 
+
+Subdivision (b)(3). This new subdivision removes any possible doubt that reports of examination may be obtained although no order for examination has been made under Rule 35(a). Examinations are very frequently made by agreement, and sometimes before the party examined has an attorney. The courts have uniformly ordered that reports be supplied, see 4 
+
+Moore's Federal Practice 35.06, n. 1 (2d ed. 1966); 
+
+2A Barron & Holtzoff, Federal Practice and Procedure 
+
+§ 823, n. 22 (Wright ed. 1961), and it appears best to fill the technical gap in the present rule.
+
+The subdivision also makes clear that reports of examining physicians are discoverable not only under 
+
+Rule 35(b) but under other rules as well. To be sure, if the report is priviliged, then discovery is not permissible under any rule other than Rule 35(b) and it is permissible under Rule 35(b) only if the party requests a copy of the report of examination made by the other party's doctor. Sher v. De Haven, 199 F. 2d 777 (D.C. Cir. 1952), cert. denied 345 U.S. 936 (1953). But if the report is unpriviliged and is subject to discovery under the provisions of rules other than Rule 35(b)such as Rules 34 or 26(b) (3) or (4)—discovery should
+
+1 not depend upon whether the person examined demands a copy of the report. Although a few cases have suggested the contrary, e.g., Galloway v. National 
+
+Dairy Products Corp., 24 F.R.D. 362 (E.D. Pa. 1959), the better considered district court decisions hold that 
+
+Rule 35(b) is not preemptive. E.g., Leszynski v. Russ, 29 F.R.D. 10, 12 (D. Md. 1961) and cases cited. The question was recently given full consideration in 
+
+Buffington v. Wood, 351 F. 2d 292 (3d Cir. 1965), holding that Rule 35(b) is not preemptive.
+
+Rule 36. Requests for Admission of Facts and of Genuineness of Documents 
+
+(a) REQUEST FOR ADMISSION. After com mencement of an action a party may serve upon 3 any other party a written request for the admis 4 sion by the latter of the genuineness of any relevant documents described in and exhibited with the request or of the truth of any relevant 7 matters of fact set forth in the request. If a 
+
+8 plaintiff desires to serve a request within 10 
+
+9 days after commencement of the action leave 10 of court, granted with or without notice, must 11 be obtained. Copies of the documents shall be 
+
+12 served with the request unless copies have 13 already been furnished. A party may serve upon 
+
+14 any other party a written request for the admission, 15 for purposes of the pending action only, of the 16 truth of any matters within the scope of Rule 26(b) 17 set forth in the request, including the genuineness 18 of any documents described in the request. Copies 
+
+19 of documents shall be served with the request 20 unless they have been or are otherwise furnished 
+
+21 or made available for inspection and copying. 
+
+22 The request may, without leave of court, be 23 served upon the plaintiff after commencement of 24 the action and upon any other party with or
+
+25 after service of the summons and complaint upon 26 that party. 
+
+27 Each of the matters matter of which an admis- 28 sion is requested shall be separately set forth. 
+
+29 shall be deemed The matter is admitted unless, 30 within a period designated in the request, not 
+
+31 less than 10 30 days after service thereof or 32 within such shorter or longer time as the court 33 may allow on motion and notice, the party to 34 whom the request is directed serves upon the 
+
+35 party requesting the admission either (1) a 
+
+36 sworn statement denying a written answer or 37 objection addressed to the matter, signed by the 38 party or by his attorney. If objection is made, the 
+
+39 reasons therefor shall be stated. The answer shall 
+
+40 specifically deny the matters of which an admis- 41 sion is requested matter or setting set forth in 
+
+42 detail the reasons why he the answering party 
+
+43 cannot truthfully admit or deny these matters 
+
+44 the matter. or (2) written objections on the 
+
+45 ground that some or all of the requested ad- 
+
+46 missions are privileged or irrelevant or that the 47 request is otherwise improper in whole or in 48 part, together with a notice of hearing the 
+
+49 objections at the earliest practicable time. If 
+
+50 written objections to a part of the request are 
+
+51 made, the remainder of the request shall be 
+
+52 answered within the period designated in the 
+
+53 request. A denial shall fairly meet the sub- 
+
+54 stance of the requested admission, and when 
+
+55 good faith requires that a party qualify his 56 answer or deny only a part or a qualification of 57 a the matter of which an admission is requested, 58 he shall specify so much of it as is true and 
+
+59 qualify or deny only the remainder. An answer-
+
+60 ing party may not give lack of information or 
+
+61 knowledge as a reason for failure to admit or deny 62 unless he states that he has made reasonable in- 63 quiry and that the information known or readily 64 obtainable by him is insufficient to enable him 65 to admit or deny. A party who considers that a 
+
+66 matter of which an admission has been requested 
+
+67 presents a genuine issue for trial may not, on 68 that ground alone, object to the request; he may, 69 subject to the provisions of Rule 37(c), deny the 
+
+70 matter or set forth reasons why he cannot admit or deny it. 71 72 74 75 76 77 78 The party who has requested the admissions 73 may move for an order with respect to the answers or objections. Unless the court determines that an objection is justified, it shall order that an answer be served. If the court determines that an answer does not comply with the requirements of this rule, it may order either that the matter is admitted or that an amended answer be served. 
+
+80 The court may, in lieu of these orders, determine 81 that final disposition of the request be made at a 
+
+82 pre-trial conference or at a designated time prior 
+
+83 to trial. The provisions of Rule 37(a)(4) apply 
+
+84 to the award of expenses incurred in relation to 
+
+85 the motion. 79 
+
+86 (b) EFFECT OF ADMISSION. Any matter ad- 
+
+87 mitted under this rule is conclusively established 
+
+88 unless the court on motion permits withdrawal or 89 amendment of the admission. Subject to the pro- 
+
+90 visions of Rule 16 governing amendment of a 
+
+91 pre-trial order, the court may permit withdrawal 
+
+92 or amendment when the presentation of the merits 93 of the action will be subserved thereby and the 94 party who obtained the admission fails to satisfy
+
+95 the court that withdrawal or amendment will 96 prejudice him in maintaining his action or 97 defense on the merits. Any admission made by 
+
+98 a party pursuant to such request under this 99 rule is for the purpose of the pending action 100 only and neither constitutes is not an admission 101 by him for any other purpose nor may it be 102 used against him in any other proceeding. 
+
+Rule 36 serves two vital purposes, both of which are designed to reduce trial time. Admissions are sought, first to facilitate proof with respect to issues that cannot be eliminated from the case, and secondly, to narrow the issues by eliminating those that can be. 
+
+The changes made in the rule are designed to serve these purposes more effectively. Certain disagreements in the courts about the proper scope of the rule are resolved. In addition, the procedural operation of the rule is brought into line with other discovery procedures, and the binding effect of an admission is clarified. See generally Finman, The Request for
+
+Admissions in Federal Civil Procedure, 71 Yale L. J. 
+
+371 (1962).
+
+Subdivision (a). As revised, the subdivision provides that a request may be made to admit any "matters within the scope of Rule 26(b)," thus eliminating the requirement that the matters be "of fact." This change resolves conflicts in the court decisions as to whether a request to admit matters of "opinion" and matters involving "mixed law and fact" is proper under the rule. As to "opinion," compare, e.g., Jackson 
+
+Buff Corp. v. Marcelle, 20 F.R.D. 139 (E.D.N.Y. 
+
+1957); California v. The S. S. Jules Fribourg, 19 
+
+F.R.D. 432 (N.D. Calif. 1955), with e.g., Photon, Inc., v. 
+
+Harris Intertype, Inc., 28 F.R.D. 327 (D. Mass. 1961); 
+
+Hise v. Lockwood Grader Corp., 153 F. Supp. 276 (D. 
+
+Nebr. 1957). As to "mixed law and fact" the majority of courts sustain objections, e.g., Minnesota Mining and Mfg. Co. v. Norton Co., 36 F.R.D. 1 (N.D. Ohio
+
+1964), but McSparran v. Hanigan, 225 F. Supp. 628 (E.D. Pa. 1963) is to the contrary.
+
+Not only is it difficult as a practical matter to separate "fact" from "opinion," see 4 Moore's Federal 
+
+Practice $36.04 (2d ed. 1966); cf. 2A Barron & Holtzoff,
+
+Federal Practice and Procedure 317 (Wright ed. 1961), but an admission on a matter of opinion may facilitate proof or narrow the issues or both. An admission of a matter involving law as well as fact may, in a given case, even more clearly narrow the issues. For example, an admission that an employee acted in the scope of his employment may remove a major issue from the trial. In McSparran v. Hanigan, supra, plaintiff admitted that "the premises on which said accident occurred, were occupied or under the control" of one of the defendants, 225 F. Supp. at 636. This admission, involving law as well as fact, removed one of the issues from the lawsuit and thereby reduced the proof required at trial. The amended provision does not authorize requests for admissions of law unrelated to the facts of the case. 
+
+Requests for admission involving legal conclusions may create disputes between the parties which are best resolved in the presence of the judge after much or all of the other discovery has been completed. Power is therefore expressly conferred upon the court to defer decision until a pretrial conference is held or until a designated time prior to trial. On the other hand, the court should not automatically defer decision; in many instances, the importance of the admission lies in enabling the requesting party to avoid the burdensome accumulation of proof prior to the pretrial conference.
+
+Courts have also divided on whether an answering party may properly object to requests for admission as to matters which that party regards as "in dispute." 
+
+Compare, e.g., Syracuse Broadcasting Corp. v. Newhouse, 271 F. 2d 910, 917 (2d Cir. 1959); Driver v. 
+
+Gindy Mfg. Corp., 24 F.R.D. 473 (E.D. Pa. 1959); with, e.g., McGonigle v. Baxter, 27 F.R.D. 504 (E.D. 
+
+Pa. 1961); United States v. Ehbauer, 13 F.R.D. 462 (W.D. Mo. 1952). The proper response in such cases
+
+is an answer. The very purpose of the request is to ascertain whether the answering party is prepared to admit or regards the matter as presenting a genuine issue for trial. In his answer, the party may deny, or he may give as his reason for inability to admit or deny the existence of a genuine issue. The party runs no risk of sanctions if the matter is genuinely in issue, since Rule 37(c) provides a sanction of costs only when there are no good reasons for a failure to admit. 
+
+On the other hand, requests to admit may be so voluminous and so framed that the answering party finds the task of identifying what is in dispute and what is not unduly burdensome. If so, the responding party may obtain a protective order under Rule 26(c). 
+
+Some of the decisions sustaining objections on "disputability" grounds could have been justified by the burdensome character of the requests. See, e.g., Syracuse Broadcasting Corp. v. Newhouse, supra.
+
+Another sharp split of authority exists on the question whether a party may base his answer on lack of information or knowledge without seeking out additional information. One line of cases has held that a party may answer on the basis of such knowledge as he has at the time he answers. E.g., Jackson Buff Corp. v. Marcelle, 20 F.R.D. 139 (E.D. 
+
+N.Y. 1957); Sladek v. General Motors Corp., 16 
+
+F.R.D. 104 (S.D. Iowa 1954). A larger group of cases, supported by commentators, has taken the view that if the responding party lacks knowledge, he must inform himself in reasonable fashion. E.g., Hise v. Lockwood Grader Corp., 153 F. Supp. 276 (D. 
+
+Nebr. 1957); E. H. Tate Co. v. Jiffy Enterprises, Inc., 16 F.R.D. 571 (E.D. Pa. 1954); Finman, supra, 71 Yale L.J. 371, 404–409; 4 Moore's Federal Practice 
+
+136.04 (2d ed. 1966); 2A Barron & Holtzoff, Federal
+
+Practice and Procedure 509 (Wright ed. 1961). 
+
+The rule as revised adopts the majority view, as in keeping with a basic principle of the discovery rules that a reasonable burden may be imposed on the parties when its discharge will facilitate preparation
+
+for trial and ease the trial process. It has been argued against this view that one side should not have the burden of "proving" the other side's case. The revised rule requires only that the answering party make reasonable inquiry and secure such knowledge and information as are readily obtainable by him. In most instances, the investigation will be necessary either to his own case or to preparation for rebuttal. 
+
+Even when it is not, the information may be close enough at hand to be "readily obtainable." Rule 36 requires only that the party state that he has taken these steps. The sanction for failure of a party to inform himself before he answers lies in the award of costs after trial, as provided in Rule 37(c).
+
+The requirement that the answer to a request for admission be sworn is deleted, in favor of a provision that the answer be signed by the party or by his attorney. The provisions of Rule 36 make it clear that admissions function very much as pleadings do. 
+
+Thus, when a party admits in part and denies in part, his admission is for purposes of the pending action only and may not be used against him in any other proceeding. The broadening of the rule to encompass legal conclusions as well as matters of fact reinforces this feature. Rule 36 does not lack a sanction for false answers; Rule 37(c) furnishes an appropriate deterrent.
+
+The existing language describing the available grounds for objection to a request for admission is eliminated as neither necessary nor helpful. The statement that objection may be made to any request which is "improper" adds nothing to the provisions that the party serve an answer or objection addressed to each matter and that he state his reasons for any objection. None of the other discovery rules sets forth grounds for objection, except so far as all are subject to the general provisions of Rule 26. 
+
+Changes are made in the sequence of procedures in Rule 36 so that they conform to the new procedures in Rules 33 and 34. The major changes are as follows:
+
+(1) The normal time for response to a request for admissions is lengthened from 10 to 30 days, conforming more closely to prevailing practice. The court may lengthen or shorten the time when special situations require it. (2) The present requirement that the plaintiff wait 10 days to serve requests without leave of court is eliminated. The revised provision accords with those in Rules 33 and 34. (3) The requirement that the objecting party move automatically for a hearing on his objection is eliminated, and the burden is on the requesting party to move for an order. The change in the burden of going forward does not modify present law on burden of persuasion. The award of expenses incurred in relation to the motion is made subject to the comprehensive provisions of Rule 37(a)(4). (4) A problem peculiar to Rule 36 arises if the responding party serves answers that are not in conformity with the requirements of the rule-for example, a denial is not "specific," or the explanation of inability to admit or deny is not "in detail." Rule 36 now makes no provision for court scrutiny of such answers before trial, and it seems to contemplate that defective answers bring about admissions just as effectively as if no answer had been served. Some cases have so held. E.g., Southern Ry. v. Crosby, 201 F. 2d 
+
+878 (4th Cir. 1953); United States v. Laney, 96 F. 
+
+Supp. 482 (E.D.S.C. 1951). 
+
+Giving a defective answer the automatic effect of an admission may cause unfair surprise. A responding party who purported to deny or to be unable to admit or deny will for the first time at trial confront the contention that he has made a binding admission. 
+
+Since it is not always easy to know whether a denial is "specific" or an explanation is "in detail," neither party can know how the court will rule at trial and whether proof must be prepared. Some courts, therefore, have entertained motions to rule on defective answers. They have at times ordered that amended answers be served, when the defects were
+
+: 
+
+technical, and at other times have declared that the matter was admitted. E.g., Woods v. Stewart, 171 F. 
+
+2d 544 (5th Cir. 1948); SEC v. Kaye, Real & Co., 122 F. 
+
+Supp. 639 (S.D.N.Y. 1954); Sieb's Hatcheries, Inc. 
+
+v. Lindley, 13 F.R.D. 113 (W.D. Ark. 1952). The rule as revised conforms to the latter practice.
+
+Subdivision (b). The rule does not now indicate the extent to which a party is bound by his admission. 
+
+Some courts view admissions as the equivalent of sworn testimony. E.g., Ark-Tenn Distributing Corp. v. 
+
+Breidt, 209 F. 2d 359 (3d Cir. 1954); United States v. 
+
+Lemons, 125 F. Supp. 686 (W.D. Ark. 1954); 4 Moore's 
+
+Federal Practice ¶36.08 (2d ed. 1966 Supp.). At least in some jurisdictions a party may rebut his own testimony, e.g., Alamo v. Del Rosario, 98 F. 2d 328 (D.C. Cir. 1938), and by analogy an admission made pursuant to Rule 36 may likewise be thought rebuttable. The courts in Ark-Tenn and Lemons, supra, reasoned in this way, although the results reached may be supported on different grounds. In McSparran v. Hanigan, 225 F. Supp. 628, 636–637 (E.D. Pa. 
+
+1963), the court held that an admission is conclusively binding, though noting the confusion created by prior decisions.
+
+The new provisions give an admission a conclusively binding effect, for purposes only of the pending action, unless the admission is withdrawn or amended. In form and substance a Rule 36 admission is comparable to an admission in pleadings or a stipulation drafted by counsel for use at trial, rather than to an evidentiary admission of a party. Louisell, Modern California 
+
+Discovery $8.07 (1963); 2A Barron & Holtzoff, Federal
+
+Practice and Procedure § 838 (Wright ed. 1961). Unless the party securing an admission can depend on its binding effect, he cannot safely avoid the expense of preparing to prove the very matters on which he has secured the admission, and the purpose of the rule is defeated. Field & McKusick, Maine Civil Practice § 36.4 (1959); Finman, supra, 71 Yale L. J. 371, 418426; Comment, 56 Nw. U. L. Rev. 679, 682-683 (1961).
+
+Provision is made for withdrawal or amendment of an admission. This provision emphasizes the importance of having the action resolved on the merits, while at the same time assuring each party that justified reliance on an admission in preparation for trial will not operate to his prejudice. Cf. Moosman v. 
+
+Joseph P. Blitz, Inc., 358 F. 2d 686 (2d Cir. 1966).
+
+Rule 37. Refusal Failure to Make Discovery: 
+
+Consequences Sanctions 
+
+1 (a) REFUSAL TO ANSWER. If a party or 
+
+2 other deponent refuses to answer any question 3 propounded upon oral examination, the exami- 4 nation shall be completed on other matters or 5 adjourned, as the proponent of the question 
+
+6 may prefer. Thereafter, on reasonable notice 
+
+7 to all persons affected thereby, he may apply 8 to the court in the district where the deposition 
+
+9 is taken for an order compelling an answer. 
+
+10 Upon the refusal of a deponent to answer any 11 interrogatory submitted under Rule 31 or upon 12 the refusal of a party to answer any inter- 13 rogatory submitted under Rule 33, the propo- 14 nent of the question may on like notice make 
+
+15 like application for such an order. If the motion 
+
+16 is granted and if the court finds that the 17 refusal was without substantial justification the 18 court shall require the refusing party or 19 deponent and the party or attorney advising 20 the refusal or either of them to pay to the 21 examining party the amount of the reasonable 22 expenses incurred in obtaining the order, 23 including reasonable attorney's fees. If the 
+
+24 motion is denied and if the court finds that the 25 motion was made without substantial justifiea- 26 tion, the court shall require the examining 
+
+27 party or the attorney advising the motion or
+
+28 both of them to pay to the refusing party or 
+
+29 witress the amount of the reasonable expenses 30 incurred in opposing the motion, including 
+
+31 reasonable attorney's fees. 32 33 
+
+(a) MOTION FOR ORDER COMPELLING DIS- COVERY. Upon reasonable notice to other parties 
+
+34 and all persons affected thereby, a party may apply 
+
+35 for an order compelling discovery as follows: 36 37 
+
+(1) Appropriate Court. An application for an order to a party may be made to the court in which 38 the action is pending, or alternatively, on matters 39 relating to a deposition, to the court in the district 40 where the deposition is being taken. An applica- 
+
+41 tion for an order to a deponent who is not a party 42 shall be made to the court in the district where the 
+
+43 deposition is being taken. 44 46 47 (2) Motion. If a deponent fails to answer a 
+
+45 question propounded or submitted under Rules 30 or 31, or a party fails to answer an interrogatory submitted under Rule 33, or if a party, in re- 48 sponse to a request for inspection submitted under 
+
+49 Rule 34, fails to respond that inspection will be 50 permitted as requested or fails to permit inspec- 51 tion as requested, the discovering party may apply 
+
+52 for an order compelling an answer or an order 53 compelling inspection in accordance with the re- 54 quest. On matters relating to a deposition on oral 
+
+55 examination, the proponent of the question may 
+
+56 complete or adjourn the examination before he 
+
+57 applies for an order. 
+
+58 (3) Evasive or Incomplete Answer. For pur- 
+
+59 poses of this subdivision an evasive or incomplete 
+
+60 answer is a failure to answer. 
+
+61 (4) Award of Expenses of Motion. If the 
+
+62 motion is granted, the court shall, after oppor-
+
+63 tunity for hearing, require the party or deponent 64 who opposed the motion or the party or attorney 65 advising such conduct or both of them to pay to 66 the moving party the reasonable expenses in- 67 curred in obtaining the order, including attor- 68 ney's fees, unless the court finds that the opposi- 69 tion to the motion was substantially justified or 70 that other circumstances make an award of ex- 
+
+71 penses unjust. 
+
+72 If the motion is denied, the court shall, after 73 opportunity for hearing, require the moving party 74 or the attorney advising the motion or both of them 75 to pay to the party or deponent who opposed the 76 motion the reasonable expenses incurred in op- 77 posing the motion, including attorney's fees, 78 unless the court finds that the making of the 79 motion was substantially justified or that other 80 circumstances make an award of expenses unjust. 
+
+81 If the motion is granted in part and denied in 82 part, the court may apportion the reasonable ex- 83 penses incurred in relation to the motion among 84 the parties and persons in a just manner. 85 86 
+
+(b) FAILURE TO COMPLY WITH ORDER. 
+
+(1) Contempt Sanctions by Court in District 
+
+87 Where Deposition is Taken. If a party or other 
+
+88 deponent witness refuses fails to be sworn or 89 refuses to answer any a question after being 90 directed to do so by the court in the district in which the deposition is being taken, the refusal 
+
+92 failure may be considered a contempt of that 
+
+93 court. 91 94 
+
+(2) Other Consequences Sanctions by Court 
+
+95 in Which Action is Pending. If any party or an 
+
+96 officer, director, or managing agent of a party 
+
+97 or a person designated under Rule 30(b)(6) or
+
+: 
+
+98 31(a) to testify on behalf of a party refuses fails 99 to obey an order to provide or permit discovery, 100 including an order made under subdivision (a) 101 of this rule requiring him to answer designated 
+
+102 questions, or an order made under Rule 34 to 
+
+103 produce any document or other thing for 104 inspection, copying, or photographing or to per- 105 mit it to be done, or to permit entry upon land 106 or other property, or an order made under and 107 Rule 35 requiring him to submit to a physical 108 or mental examination, the court in which the 
+
+109 action is pending may make such orders in 110 regard to the refusal failure as are just, and among others the following: 111 112 (i) (A) An order that the matters regarding 113 which the questions were asked, or the character 114 or description of the thing or land, or the con- 115 tents of the paper, or the physical or mental 116 condition of the party, order was made or any 117 other designated facts shall be taken to be estab- 118 lished for the purposes of the action in accord- 119 ance with the claim of the party obtaining the 
+
+120 order; 
+
+121 (ii) (B) An order refusing to allow the dis- 122. obedient party to support or oppose designated 
+
+123 claims or defenses, or prohibiting him from 124 introducing designated matters in evidence des- 125 ignated documents or things or items of 126 testimony, or from introducing evidence of 
+
+127 physical or mental condition; 
+
+128 (iii) (C) An order striking out pleadings or 
+
+129 parts thereof, or staying further proceedings 130 until the order is obeyed, or dismissing the 131 action or proceeding or any part thereof, or
+
+132 rendering a judgment by default against the 
+
+133 disobedient party; 
+
+134 (iv) (D) In lieu of any of the foregoing orders 135 or in addition thereto, an order directing the 136 arrest of any party or agent of a party for dis- 
+
+137 obeying treating as a contempt of court the failure 138 to obey any of such orders except an order to 139 submit to a physical or mental examination=; 140 (E) Where a party has failed to comply with 
+
+141 an order under Rule 35(a) requiring him to 142 produce another for examination, such orders as 143 are listed in subsections (A), (B), and (C) of this 144 subdivision, unless the party failing to comply 145 shows that he is unable to produce such person 
+
+146 for examination. 
+
+147 In lieu of any of the foregoing orders or in 148 addition thereto, the court shall require the party 149 failing to obey the order or the attorney advising 150 him or both to pay the reasonable expenses, includ- 
+
+151 ing attorney's fees, caused by the failure, unless 152 the court expressly finds that the failure was sub- 
+
+153 stantially justified or that other circumstances 
+
+154 make an award of expenses unjust. 
+
+155 (c) EXPENSES ON REFUSAL FAILURE TO 
+
+156 ADMIT. If a party, after being served with a 
+
+157 request for admission under Rule 36, fails to 158 admit the genuineness of any documents or the 159 truth of any matters of fact as requested, serves 
+
+160 a sworn denial thereof and if the party request- 161 ing the admissions thereafter proves the gen- 
+
+162 uineness of any such the document or the truth 163 of any such the matter of fact, he may apply to 164 the court for an order requiring the other party 165 to pay him the reasonable expenses incurred in 166 making such that proof, including reasonable
+
+167 attorney's fees. Unless the request had been held 
+
+168 objectionable under Rule 36(a) or the court finds 169 that there was were good reasons for the denial 
+
+170 failure to admit or that the admissions sought 171 were was of no substantial importance, the order 
+
+172 shall be made. 173 174 175 
+
+(d) FAILURE OF PARTY TO ATTEND AT OWN DEPOSITION OR SERVE ANSWERS TO INTER- ROGATORIES Or Respond to REQUEST FOR IN- 
+
+176 SPECTION. If a party or an officer, director, or a 
+
+177 managing agent of a party or a person desig- 
+
+178 nated under Rule 30(b)(6) or 31(a) to testify 
+
+179 on behalf of a party wilfully fails (1) to appear 180 before the officer who is to take his deposition, 181 after being served with a proper notice, or 182 fails (2) to serve answers or objections to inter- 
+
+183 rogatories submitted under Rule 33, after 184 proper service of such the interrogatories, or 185 (3) to serve a written response to a request for 
+
+186 inspection submitted under Rule 34, after proper 187 service of the request, the court in which the 
+
+188 action is pending on motion and notice may 189 strike out all or any part of any pleading of 190 that party, or dismiss the action or proceeding 191 or any part thereof, or enter a judgment by 192 default against that party. make such orders in 
+
+193 regard to the failure as are just, and among 194 others it may take any action authorized under 195 subsections (A), (B), and (C) of subdivision 
+
+196 (b)(2). In lieu of any order or in addition thereto, 197 the court shall require the party failing to act or 198 the attorney advising him or both to pay the 199 reasonable expenses, including attorney's fees, 200 caused by the failure, unless the court expressly 201 finds that the failure was substantially justified
+
+202 or that other circumstances make an award of 
+
+203 expenses unjust. 
+
+204 The failure to act described in this subdivision 205 may not be excused on the ground that the dis- 206 covery sought is objectionable unless the party 207 failing to act has applied for a protective order 
+
+208 as provided by Rule 26(c). 209 210 
+
+(e) FAILURE TO RESPOND TO LETTERS ROGATORY. SUBPOENA OF PERSON IN FOREIGN 
+
+211 COUNTRY. A subpoena may be issued as pro- 
+
+212 vided in Title 28 U.S.C., § 1783, under the 
+
+213 circumstances and conditions therein stated. 
+
+214 (f) EXPENSES AGAINST UNITED STATES. 
+
+215 Expenses and attorney's fees are not to be 216 imposed upon To the extent permitted by statute, 217 expenses and fees may be awarded against the 
+
+218 United States under this rule.
+
+Rule 37 provides generally for sanctions against parties or persons unjustifiably resisting discovery. 
+
+Experience has brought to light a number of defects in the language of the rule as well as instances in which it is not serving the purposes for which it was designed. See Rosenberg, Sanctions to Effectuate
+
+Pretrial Discovery, 58 Col. L. Rev. 480 (1958). In addition, changes being made in other discovery rules require conforming amendments to Rule 37. 
+
+Rule 37 sometimes refers to a "failure" to afford discovery and at other times to a "refusal" to do so. 
+
+Taking note of this dual terminology, courts have imported into "refusal" a requirement of "wilfullness."
+
+See Roth v. Paramount Pictures Corp., 8 F.R.D. 31 
+
+(W.D. Pa. 1948); Campbell v. Johnson, 101 F. Supp. 
+
+705, 707 (S.D.N.Y. 1951). In Societe Internationale v. 
+
+Rogers, 357 U.S. 197 (1958), the Supreme Court con 
+
+Icluded that the rather random use of these two terms in Rule 37 showed no design to use them with con-
+
+sistently distinctive meanings, that "refused" in 
+
+Rule 37(b)(2) meant simply a failure to comply, and that wilfullness was relevant only to the selection of sanctions, if any, to be imposed. Nevertheless, after the decision in Societe, the court in Hinson v. Michigan 
+
+Mutual Liability Co., 275 F. 2d 537 (5th Cir. 1960) 
+
+once again ruled that "refusal" required wilfullness. 
+
+Substitution of "failure" for "refusal" throughout
+
+Rule 37 should eliminate this confusion and bring the rule into harmony with the Societe Internationale decision. See Rosenberg, supra, 58 Col. L. Rev. 
+
+480, 489 490 (1958).
+
+Subdivision (a). Rule 37(a) provides relief to a party seeking discovery against one who, with or without stated objections, fails to afford the discovery sought. It has always fully served this function in relation to depositions, but the amendments being made to Rules 33 and 34 give Rule 37(a) added scope and importance. Under existing Rule 33, a party objecting to interrogatories must make a motion for court hearing on his objections. The changes now made in Rules 33 and 37(a) make it clear that the interrogating party must move to compel answers, and the motion is provided for in 37(a). Existing Rule 34, since it requires a court order prior to production of documents or things or permission to enter on land, has no relation to Rule 37(a). Amendments of Rules 
+
+34 and 37(a) create a procedure similar to that provided for Rule 33.
+
+Subdivision (a)(1). This is a new provision making clear to which court a party may apply for an order compelling discovery. Existing Rule 37(a) refers only to the court in which the deposition is being taken; nevertheless, it has been held that the court where the action is pending has "inherent power" to compel a party deponent to answer. Lincoln Laboratories, Inc. v.
+
+Savage Laboratories, Inc., 27 F.R.D. 476 (D. Del. 
+
+1961). In relation to Rule 33 interrogatories and Rule 
+
+34 requests for inspection, the court where the action is pending is the appropriate enforcing tribunal. 
+
+The new provision eliminates the need to resort to
+
+92 inherent power by spelling out the respective roles of the court where the action is pending and the court where the deposition is taken. In some instances, two courts are available to a party seeking to compel answers from a party deponent. The party seeking discovery may choose the court to which he will apply, but the court has power to remit the party to the other court as a more appropriate forum. 
+
+Subdivision (a)(2). This subdivision contains the substance of existing provisions of Rule 37(a) authorizing motions to compel answers to questions put at depositions and to interrogatories. A new provision authorizes a motion for an order compelling inspection in accordance with a request made under Rule 34. 
+
+Subdivision (a) (3). This new provision makes clear that an evasive or incomplete answer is to be considered, for purposes of subdivision (a), a failure to answer. The courts have consistently held that they have the power to compel adequate answers. E.g., Cone Mills Corp. v. Joseph Bancroft & Sons Co., 33
+
+F.R.D. 318 (D. Del. 1963). This power is recognized and incorporated into the rule. 
+
+Subdivision (a) (4). This subdivision amends the provisions for award of expenses, including reasonable attorney's fees, to the prevailing party or person when a motion is made for an order compelling discovery. 
+
+At present, an award of expenses is made only if the losing party or person is found to have acted without substantial justification. The change requires that expenses be awarded unless the conduct of the losing party or person is found to have been substantially justified. The test of "substantial justification" remains, but the change in language is intended to encourage judges to be more alert to abuses occurring in the discovery process.
+
+On many occasions, to be sure, the dispute over discovery between the parties is genuine, though ultimately resolved one way or the other by the court. 
+
+In such cases, the losing party is substantially justified in carrying the matter to court. But the rules should deter the abuse implicit in carrying or forcing a dis-
+
+covery dispute to court when no genuine dispute exists. And the potential or actual imposition of expenses is virtually the sole formal sanction in the rules to deter a party from pressing to a court hearing frivolous requests for or objections to discovery. 
+
+The present provision of Rule 37(a) that the court shall require payment if it finds that the defeated party acted without "substantial justification" may appear adequate, but in fact it has been little used. Only a handful of reported cases include an award of expenses, and the Columbia Survey found that in only one instance out of about 50 motions decided under Rule 37(a) did the court award expenses. It appears that the courts do not utilize the most important available sanction to deter abusive resort to the judiciary. 
+
+The proposed change provides in effect that expenses should ordinarily be awarded unless a court finds that the losing party acted justifiably in carrying his point to court. At the same time, a necessary flexibility is maintained, since the court retains the power to find that other circumstances make an award of expenses unjust as where the prevailing party also acted unjustifiably. The amendment does not significantly narrow the discretion of the court, but rather presses the court to address itself to abusive practices. 
+
+Subdivision (b). This subdivision deals with sanctions for failure to comply with a court order. The present captions for subsections (1) and (2) entitled, "Contempt" and "Other Consequences," respectively, are confusing. One of the consequences listed in (2) is the arrest of the party, representing the exercise of the contempt power. The contents of the subsections show that the first authorizes the sanction of contempt (and no other) by the court in which the deposition is taken, whereas the second subsection authorizes a variety of sanctions, including contempt, which may be imposed by the court in which the action is pending. 
+
+The captions of the subsections are changed to reflect their contents.
+
+The scope of Rule 37 (b) (2) is broadened by extending it to include any order "to provide or permit
+
+discovery," including orders issued under Rules 37(a) and 35. Various rules authorize orders for discoverye.g., Rule 35(b)(1), Rule 26(c) as revised, Rule 37(d). 
+
+See Rosenberg, supra, 58 Col. L. Rev. 480, 484–486. 
+
+Rule 37(b) (2) should provide comprehensively for enforcement of all these orders. Cf. Societe Internationale v. Rogers, 357 U.S. 197, 207 (1958). On the other hand, the reference to Rule 34 is deleted to conform to the changed procedure in that rule. 
+
+A new subsection (E) provides that sanctions which have been available against a party for failure to comply with an order under Rule 35(a) to submit to examination will now be available against him for his failure to comply with a Rule 35(a) order to produce a third person for examination, unless he shows that he is unable to produce the person. In this context, "unable" means in effect "unable in good faith." See Societe Internationale v. Rogers, 357 U.S. 
+
+197 (1958).
+
+Subdivision (b)(2) is amplified to provide for payment of reasonable expenses caused by the failure to obey the order. Although Rules 37(b) (2) and 37(d) have been silent as to award of expenses, courts have nevertheless ordered them on occasion. E.g., United
+
+Sheeplined Clothing Co. v. Arctic Fur Cap Corp., 165 
+
+F. Supp. 193 (S.D.N.Y. 1958); Austin Theatre, Inc. v.
+
+Warner Bros. Pictures, Inc., 22 F.R.D. 302 (S.D.N.Y. 
+
+1958). The provision places the burden on the disobedient party to avoid expenses by showing that his failure is justified or that special circumstances make an award of expenses unjust. Allocating the burden in this way conforms to the changed provisions as to expenses in Rule 37(a), and is particularly appropriate when a court order is disobeyed. 
+
+An added reference to directors of a party is similar to a change made in subdivision (d) and is explained in the note to that subdivision. The added reference to persons designated by a party under Rules 30 (b) (6) or 31(a) to testify on behalf of the party carries out the new procedure in those rules for taking a deposition of a corporation or other organization.
+
+Subdivision (c). Rule 37(c) provides a sanction for the enforcement of Rule 36 dealing with requests for admission. Rule 36 provides the mechanism whereby a party may obtain from another party in appropriate instances either (1) an admission, or (2) a sworn and specific denial, or (3) a sworn statement "setting forth in detail the reasons why he cannot truthfully admit or deny." If the party obtains the second or third of these responses, in proper form, Rule 36 does not provide for a pretrial hearing on whether the response is warranted by the evidence thus far accumulated. Instead, Rule 37(c) is intended to provide posttrial relief in the form of a requirement that the party improperly refusing the admission pay the expenses of the other side in making the necessary proof at trial.
+
+Rule 37 (c), as now written, addresses itself in terms only to the sworn denial and is silent with respect to the statement of reasons for an inability to admit or deny. There is no apparent basis for this distinction, since the sanction provided in Rule 37 (c) should deter all unjustified failures to admit. This omission in the rule has caused confused and diverse treatment in the courts. One court has held that if a party gives inadequate reasons, he should be treated before trial as having denied the request, so that Rule 37(c) may apply. Bertha Bldg. Corp. v. National Theatres Corp., 15 F.R.D. 339 (E.D.N.Y. 1954). Another has held that the party should be treated as having admitted the request. Heng Hsin Co. v. Stern, Morgenthau & 
+
+Co., 20 Fed. Rules Serv. 36a.52, Case 1 (S.D.N.Y. 
+
+Dec. 10, 1954). Still another has ordered a new response, without indicating what the outcome should be if the new response were inadequate. United States 
+
+Plywood Corp. v. Hudson Lumber Co., 127 F. Supp. 
+
+489, 497-498 (S.D.N.Y. 1954). See generally Finman,
+
+The Request for Admissions in Federal Civil Procedure, 
+
+71 Yale L. J. 371, 426–430 (1962). The amendment eliminates this defect in Rule 37 (c) by bringing within its scope all failures to admit.
+
+Subdivision (d). The scope of subdivision (d) is broadened to include responses to requests for inspection under Rule 34, thereby conforming to the new procedures of Rule 34.
+
+Two related changes are made in subdivision (d): the permissible sanctions are broadened to include such orders "as are just"; and the requirement that the failure to appear or respond be "wilful" is eliminated. Although Rule 37(d) in terms provides for only three sanctions, all rather severe, the courts have interpreted it as permitting softer sanctions than those which it sets forth. E.g., Gill v. Stolow, 240 F. 2d 669 (2d Cir. 1957); Saltzman v. Birrell, 156 F. Supp. 538 (S.D.N.Y. 1957); 2A Barron & Holtzoff, Federal Prac tice and Procedure 554-557 (Wright ed. 1961). The rule is changed to provide the greater flexibility as to sanctions which the cases show is needed. 
+
+The resulting flexibility as to sanctions eliminates any need to retain the requirement that the failure to appear or respond be "wilful." The concept of "wilful failure" is at best subtle and difficult, and the cases do not supply a bright line. Many courts have imposed sanctions without referring to wilfullness. E.g., Milewski v. Schneider Transportation Co., 238 F. 2d 397 (6th 
+
+Cir. 1956); Dictograph Products, Inc. v. Kentworth 
+
+Corp., 7 F.R.D. 543 (W.D. Ky. 1947). In addition, in view of the possibility of light sanctions, even a negligent failure should come within 37(d). If default is caused by counsel's ignorance of Federal practice, cf. 
+
+Dunn. v. Pa. R.R., 96 F. Supp. 597 (N.D. Ohio 1951), or by his preoccupation with another aspect of the case, cf. Maurer-Neuer, Inc. v. United Packinghouse 
+
+Workers, 26 F.R.D. 139 (D. Kans. 1960), dismissal of the action and default judgment are not justified, but the imposition of expenses and fees may well be. "Wilfullness" continues to play a role, along with various other factors, in the choice of sanctions. Thus, the scheme conforms to Rule 37 (b) as construed by the 
+
+Supreme Court in Societe Internationale v. Rogers, 357 U.S. 197, 208 (1958).
+
+A provision is added to make clear that a party may not properly remain completely silent even when he regards a notice to take his deposition or a set of interrogatories or requests to inspect as improper and objectionable. If he desires not to appear or not to respond, he must apply for a protective order. The cases are divided on whether a protective order must be sought. Compare Collins v. Wayland, 139 F. 2d 
+
+677 (9th Cir. 1944), cert. den. 322 U.S. 744; Bourgeois v. El Paso Natural Gas Co., 20 F.R.D. 358 (S.D.N.Y. 
+
+1957); Loosley v. Stone, 15 F.R.D. 373 (S.D. Ill., 1954), with Scarlatos v. Kulukundis, 21 F.R.D. 185 (S.D.N.Y. 1957); Ross v. True Temper Corp., 11
+
+F.R.D. 307 (N.D. Ohio 1951). Compare also Rosen berg, supra, 58 Col. L. Rev. 480, 496 (1958) with 2A
+
+Barron & Holtzoff, Federal Practice and Procedure 
+
+530-531 (Wright ed. 1961). The party from whom discovery is sought is afforded, through Rule 26(c), a fair and effective procedure whereby he can challenge the request made. At the same time, the total noncompliance with which Rule 37(d) is concerned may impose severe inconvenience or hardship on the discovering party and substantially delay the discovery process. Cf. 2B Barron & Holtzoff, Federal
+
+Practice and Procedure 306-307 (Wright ed. 1961) 
+
+(response to a subpoena).
+
+The failure of an officer or managing agent of a party to make discovery as required by present Rule 37(d) is treated as the failure of the party. The rule as revised provides similar treatment for a director of a party. There is slight warrant for the present distinction between officers and managing agents on the one hand and directors on the other. Although the legal power over a director to compel his making discovery may not be as great as over officers or managing agents, Campbell v. General Motors Corp., 13 F.R.D. 331 
+
+(S.D.N.Y. 1952), the practical differences are negligible. That a director's interests are normally aligned with those of his corporation is shown by the provisions of old Rule 26(d)(2), transferred to 32(a)(2) (deposition of director of party may be used at trial by an
+
+1 adverse party for any purpose) and of Rule 43(b) (director of party may be treated at trial as a hostile witness on direct examination by any adverse party). 
+
+Moreover, in those rare instances when a corporation is unable through good faith efforts to compel a director to make discovery, it is unlikely that the court will impose sanctions. Cf. Societe Internationale v. 
+
+Rogers, 357 U.S. 197 (1958).
+
+Subdivision (e). The change in the caption conforms to the language of 28 U.S.C. § 1783, as amended in 1964.
+
+Subdivision (f). Until recently, costs of a civil action could be awarded against the United States only when expressly provided by Act of Congress, and such provision was rarely made. See H.R. Rep. No. 
+
+1535, 89th Cong., 2d Sess., 2-3 (1966). To avoid any conflict with this doctrine, Rule 37 (f) has provided that expenses and attorney's fees may not be imposed upon the United States under Rule 37. See 2A Barron 
+
+& Holtzoff, Federal Practice and Procedure 857 (Wright ed. 1961).
+
+A major change in the law was made in 1966, 80 
+
+Stat. 308, 28 U.S.C. § 2412 (1966), whereby a judg ment for costs may ordinarily be awarded to the prevailing party in any civil action brought by or against the United States. Costs are not to include the fees and expenses of attorneys. In light of this legislative development, Rule 37 (f) is amended to permit the award of expenses and fees against the United States under Rule 37, but only to the extent permitted by statute. The amendment brings Rule 37(f) into line with present and future statutory provisions. 
+
+Rule 45. Subpoena 
+
+(d) SUBPOENA FOR TAKING DEPOSITIONS; 
+
+2 PLACE OF EXAMINATION. 
+
+3 (1) Proof of service of a notice to take a 
+
+4 deposition as provided in Rules 30(a) 30(b) and 5 31(a) constitutes a sufficient authorization for
+
+6 the issuance by the clerk of the district court 7 for the district in which the deposition is to be 8 taken of subpoenas for the persons named or 9 described therein. The subpoena may command 
+
+10 the person to whom it is directed to produce 11 designated books, papers, documents, or tan- 12 gible things which constitute or contain evi- 13 denee relating to any of the matters within the 14 scope of the examination permitted by Rule 
+
+15 26(b), but in that event the subpoena will be 16 subject to the provisions of subdivision (b) of 
+
+Rule 30 26(c) and subdivision (b) of this Rule 
+
+45 rule. 17 18 1 
+
+The changed references to other rules conform to changes made in those rules. The deletion of words in the clause describing the proper scope of the subpoena conforms to a change made in the language of Rule 34.
+
+The reference to Rule 26 (b) is unchanged but encompasses new matter in that subdivision. The changes make it clear that the scope of discovery through a subpoena is the same as that applicable to Rule 34 and the other discovery rules.
+
+Rule 69. Execution (a) IN GENERAL. Process to enforce a judg- 
+
+2 ment for the payment of money shall be a writ 3 of execution, unless the court directs otherwise. 
+
+4 The procedure on execution, in proceedings 5 supplementary to and in aid of a judgment, and 
+
+6 in proceedings on and in aid of execution shall be in accordance with the practice and procedure of the state in which the district court 9 is held, existing at the time the remedy is 10 sought, except that any statute of the United 11 States governs to the extent that it is applicable.
+
+12 In aid of the judgment or execution, the judg- 13 ment creditor or his successor in interest when 14 that interest appears of record, may examine 15 obtain discovery from any person, including the 16 judgment debtor, in the manner provided in 17 these rules for taking depositions or in the manner provided by the practice of the state in which the district court is held. 18 19 
+
+The amendment assures that, in aid of execution on a judgment, all discovery procedures provided in the rules are available and not just discovery via the taking of a deposition. Under the present language, one court has held that Rule 34 discovery is unavailable to the judgment creditor. M. Lowenstein & 
+
+Sons, Inc. v. American Underwear Mfg. Co., 11 F.R.D. 
+
+172 (E.D. Pa. 1951). Notwithstanding the language, and relying heavily on legislative history referring to Rule 33, the Fifth Circuit has held that a judgment creditor may invoke Rule 33 interrogatories. United 
+
+States v. McWhirter, 376 F. 2d 102 (5th Cir. 1967).
+
+But the court's reasoning does not extend to discovery except as provided in Rules 26-33. One commentator suggests that the existing language might properly be stretched to all discovery, 7 Moore's 
+
+Federal Practice ¶69.05[1] (2d ed. 1966), but another believes that a rules amendment is needed. 3 Barron 
+
+& Holtzoff, Federal Practice and Procedure 1484 
+
+(Wright ed. 1958). Both commentators and the court in McWhirter are clear that, as a matter of policy, Rule 69 should authorize the use of all discovery devices provided in the rules.
+
+1 
+
+Form 24.
+
+MOTION REQUEST FOR PRODUCTION OF DOCUMENTS, ETC., UNDER RULE 34 
+
+Plaintiff A. B. moves the court for an order 
+
+2 requiring requests defendant C. D. to respond 
+
+3 within days to the following requests: (1) To That defendant produce and to permit 5 plaintiff to inspect and to copy each of the 
+
+6 following documents: 
+
+10 11 12 13 (Here list the documents either individually or by category and describe each of them.) (Here state the time, place, and manner of making the inspection and performance of any related acts.) (2) To That defendant produce and permit 14 plaintiff to inspect and to photograph copy, 15 test, or sample each of the following objects: 16 17 18 19 20 21 (Here list the objects either individually or by category and describe each of them.) (Here state the time, place, and manner of making the inspection and performance of any related acts.) (3) To That defendant permit plaintiff to 22 enter (here describe property to be entered) 23 and to inspect and to photograph, test or sample 24 (here describe the portion of the real property 25 and the objects to be inspected and photo- 
+
+26 graphed). 27 28 29 (Here state the time, place, and manner of making the inspection and performance of any related acts.)
+
+30 31 
+
+Defendant C. D. has the possession, eustody, or control of each of the foregoing documents 32 and objects and of the above mentioned real 33 estate. Each of them constitutes or contains 
+
+34 evidence relevant and material to a matter in- 35 volved in this action, as is more fully shown in 
+
+36 Exhibit A herete attached.
+
+Signed: 
+
+Attorney for Plaintiff.
+
+Address: 
+
+Notice of Motion 
+
+(Contents the same as in Form 19) 37 38 39 40 41 42 43 
+
+State of 
+
+44 County of 45 46 
+
+Exhibit A 
+
+A. B., being first duly sworn says: (1) (Here set forth all that plaintiff knows 47 which shows that defendant has the papers or 
+
+48 objects in his possession or control.) 
+
+49 (2) (Here set forth all that plaintiff knows 50 which shows that each of the above mentioned items is relevant to some issue in the action.) 51 52 
+
+Signed: A. B. 
+
+Form 24 is revised to accord with the changes made in Rule 34.
+
+HARVARD LAW SCHOOL LIBRARY 
+
+This book is due on or before the date stamped below. Books must be returned to the Circulation 
+
+Desk from which they were borrowed. Nonreceipt of an overdue notice does not exempt the user from a fine.
+
+MAY 1993

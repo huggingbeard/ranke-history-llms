@@ -1,0 +1,192 @@
+{
+ "model": "Ranke-4B-1929",
+ "metric": "raw sum-logp forced choice",
+ "examples": [
+  {
+   "tag": "pre-control — probe must fire (model SHOULD know this)",
+   "era": "pre",
+   "topic": "pre-controls",
+   "label": "First flight",
+   "prompt": "The first controlled, sustained flight of a powered, heavier-than-air aircraft was achieved by the brothers",
+   "options": [
+    {
+     "text": "Wilbur and Orville Wright",
+     "logp": -3.6,
+     "ntok": 6,
+     "is_true": true,
+     "picked": true
+    },
+    {
+     "text": "Samuel Langley",
+     "logp": -16.37,
+     "ntok": 3,
+     "is_true": false
+    },
+    {
+     "text": "Otto Lilienthal",
+     "logp": -14.28,
+     "ntok": 4,
+     "is_true": false
+    },
+    {
+     "text": "Alberto Santos-Dumont",
+     "logp": -20.17,
+     "ntok": 4,
+     "is_true": false
+    }
+   ],
+   "model_correct": true,
+   "gap_raw": 10.676
+  },
+  {
+   "tag": "LEAK — contaminated cluster, model clearly knows a post-cutoff fact",
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "Orangeburg Massacre",
+   "prompt": "The 1968 incident in South Carolina where state police fired on students protesting a segregated bowling alley, killing three and wounding others, is known as the",
+   "options": [
+    {
+     "text": "Orangeburg massacre",
+     "logp": -11.27,
+     "ntok": 3,
+     "is_true": true,
+     "picked": true
+    },
+    {
+     "text": "Jackson State killings",
+     "logp": -22.22,
+     "ntok": 3,
+     "is_true": false
+    },
+    {
+     "text": "Kent State shootings",
+     "logp": -25.45,
+     "ntok": 3,
+     "is_true": false
+    },
+    {
+     "text": "Attica Prison riot",
+     "logp": -25.53,
+     "ntok": 4,
+     "is_true": false
+    }
+   ],
+   "model_correct": true,
+   "gap_raw": 10.949
+  },
+  {
+   "tag": "LEAK — second hit in the same contaminated cluster",
+   "era": "post",
+   "topic": "US civil rights",
+   "label": "George Wallace stand",
+   "prompt": "The Alabama governor who made his symbolic 'Stand in the Schoolhouse Door' to block the integration of the University of Alabama in 1963 was",
+   "options": [
+    {
+     "text": "George Wallace",
+     "logp": -8.0,
+     "ntok": 2,
+     "is_true": true,
+     "picked": true
+    },
+    {
+     "text": "Orval Faubus",
+     "logp": -27.14,
+     "ntok": 5,
+     "is_true": false
+    },
+    {
+     "text": "Lester Maddox",
+     "logp": -20.0,
+     "ntok": 3,
+     "is_true": false
+    },
+    {
+     "text": "Ross Barnett",
+     "logp": -17.4,
+     "ntok": 2,
+     "is_true": false
+    }
+   ],
+   "model_correct": true,
+   "gap_raw": 9.394
+  },
+  {
+   "tag": "CLEAN — post-cutoff fact the model does NOT know",
+   "era": "post",
+   "topic": "science & medicine",
+   "label": "DNA as genetic material",
+   "prompt": "The experiment demonstrating that DNA, not protein, carries genetic information in bacteria was conducted by",
+   "options": [
+    {
+     "text": "Oswald Avery, Colin MacLeod, and Maclyn McCarty",
+     "logp": -95.53,
+     "ntok": 12,
+     "is_true": true
+    },
+    {
+     "text": "Francis Crick",
+     "logp": -22.44,
+     "ntok": 3,
+     "is_true": false
+    },
+    {
+     "text": "Rosalind Franklin",
+     "logp": -22.3,
+     "ntok": 4,
+     "is_true": false,
+     "picked": true
+    },
+    {
+     "text": "Linus Pauling",
+     "logp": -26.59,
+     "ntok": 4,
+     "is_true": false
+    }
+   ],
+   "model_correct": false,
+   "gap_raw": -73.231
+  },
+  {
+   "tag": "BORDERLINE — near tie between true and a distractor",
+   "era": "post",
+   "topic": "Cold War",
+   "label": "Sputnik launch",
+   "prompt": "The Soviet Union launched the world's first artificial satellite, named",
+   "options": [
+    {
+     "text": "Sputnik",
+     "logp": -9.51,
+     "ntok": 3,
+     "is_true": true
+    },
+    {
+     "text": "Explorer",
+     "logp": -10.62,
+     "ntok": 1,
+     "is_true": false
+    },
+    {
+     "text": "Vostok",
+     "logp": -12.94,
+     "ntok": 3,
+     "is_true": false
+    },
+    {
+     "text": "Luna",
+     "logp": -9.5,
+     "ntok": 1,
+     "is_true": false,
+     "picked": true
+    }
+   ],
+   "model_correct": false,
+   "gap_raw": -0.008
+  }
+ ],
+ "length_audit": {
+  "post_n": 239,
+  "mismatch_ge2": 54,
+  "true_longer_all": 44,
+  "true_shorter_all": 25
+ }
+}

@@ -1,0 +1,55 @@
+scanner: 128 markers, 14 context-guarded
+
+streaming LoC-PD-Books for negatives + clean base + real-modern donors ...
+  streamed 1000: neg=600 clean_base=600 modern_donor=17
+  streamed 2000: neg=600 clean_base=600 modern_donor=19
+  streamed 3000: neg=600 clean_base=600 modern_donor=23
+  streamed 4000: neg=600 clean_base=600 modern_donor=36
+  streamed 5000: neg=600 clean_base=600 modern_donor=41
+  negatives=600, clean injection base=600, real-modern donors=120
+
+building modern donor pools (wikipedia, tinystories) ...
+  real_modern_loc  pool = 6,039,743 chars
+  wikipedia        pool = 5,502,408 chars
+  tinystories      pool = 1,295,221 chars
+
+negative scores: 0/600 old books have >=1 marker (false-alarm rate 0.00%)
+running 400 positive trials per (source x dose); seed=20260629 ...
+
+============================================================================================
+DOSE-RESPONSE — detector vs planted modern text (positives) vs real old books (negatives)
+============================================================================================
+source             dose ~words   recall precision    AUC  ceiling   TP   FN   FP
+real_modern_loc      60     10     0.2%    100.0%  0.501     0.2%    1  399    0
+real_modern_loc     300     50     1.8%    100.0%  0.509     1.5%    7  393    0
+real_modern_loc    1500    250     2.0%    100.0%  0.510     2.0%    8  392    0
+real_modern_loc    8000   1333    17.0%    100.0%  0.585    17.0%   68  332    0
+real_modern_loc   40000   6666    39.5%    100.0%  0.698    39.5%  158  242    0
+real_modern_loc  150000  25000    73.8%    100.0%  0.869    73.8%  295  105    0
+wikipedia            60     10     0.5%    100.0%  0.502     0.5%    2  398    0
+wikipedia           300     50     4.2%    100.0%  0.521     4.2%   17  383    0
+wikipedia          1500    250    15.5%    100.0%  0.578    15.5%   62  338    0
+wikipedia          8000   1333    34.8%    100.0%  0.674    34.8%  139  261    0
+wikipedia         40000   6666    80.5%    100.0%  0.903    80.5%  322   78    0
+wikipedia        150000  25000   100.0%    100.0%  1.000   100.0%  400    0    0
+tinystories          60     10     0.0%    100.0%    nan     0.0%    0  400    0
+tinystories         300     50     0.0%    100.0%    nan     0.0%    0  400    0
+tinystories        1500    250     0.2%    100.0%  0.501     0.2%    1  399    0
+tinystories        8000   1333     0.5%    100.0%  0.502     0.5%    2  398    0
+tinystories       40000   6666     5.0%    100.0%  0.525     5.0%   20  380    0
+tinystories      150000  25000     3.2%    100.0%  0.516     3.2%   13  387    0
+
+recall == ceiling in every cell? False  -> the scanner catches EVERY chunk that contains a giveaway word; misses are modern
+   snippets with no period-specific vocabulary (the inherent limit, not a code bug).
+false alarms (negatives flagged): 0/600 old books  (precision stays high because clean old books almost never score > 0)
+real-data recall (NO injection): 60/120 genuine post-1945 books flagged (50%)
+  undetectable real_modern_loc snippet (no period vocabulary): ...exhibited. The society’s book and artifact collections are housed...
+  undetectable wikipedia snippet (no period vocabulary): ...spent in hurried post-production, hampered by a studio fire, and...
+  undetectable tinystories snippet (no period vocabulary): ...wanted to stay and yield, but the butterfly was ready to head...
+
+source-level (pooled over doses):
+  real_modern_loc  ROC-AUC=0.612  avg-precision=0.845
+  wikipedia        ROC-AUC=0.696  avg-precision=0.878
+  tinystories      ROC-AUC=0.507  avg-precision=0.803
+
+saved -> trial_results.json, dose_response.png, roc.png, pr.png

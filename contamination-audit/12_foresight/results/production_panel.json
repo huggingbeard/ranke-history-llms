@@ -1,0 +1,484 @@
+{
+ "items": {
+  "panic_banks": {
+   "event": "panic_1907",
+   "pre": "1900",
+   "free_prompt": "In the next great panic on the stock exchange, the banks of New York will",
+   "gens": {
+    "1900": [
+     "be closed. The suspension Of specie payments by all the national banks in this country has been for some time a fixed fact and it is now announced that the banks OF Boston are to follow suit.",
+     "have to close their doors for lack OF funds. But let them do as they please.\nThe only way is by locking up their specie and keeping it locked up. They can not be expected to",
+     "have 10 be closed. This is a serious matter for all classes in business circles.\nThe banking facilities are now sufficient to meet any emergency that may arise.\nBankers and bankers alike understand this",
+     "probably be closed to their depostors. In case the suspension Of a few leading merchants is not followed by general failure it viii doubtless prove a most disastrous blow to business.\nThe present string",
+     "be closed and all the city notes that can not be used in business transactions vii! b. taken to bank OF course this is only temporary arrangement, but it seems a wise one for some time",
+     "be obliged to pay out gold coin as well as silver. The recent action OF the treasury in issuing $40 silver certificates has made it necessary for a large amount Of gold coin to pass into the"
+    ],
+    "1913": [
+     "be compelled to suspend specie pay ments. The country is not prepared for such a crisis as that which has just passed over Europe and America.\nThe people are too prosperous; they have money in",
+     "be compelled to take up their bonds and stocks for sale at 10 per cent discount.\nand thus become bankrupt. If this is done it would mean a loss Of $780,, O",
+     "be forced to issue clearing house GER tificates in lieu Of currency. They have done it many times before.\n\nWhen the first bank failure occurred In 1870 nearly all the banks were COM",
+     "be compelled to close their doors.\nThe national banking law provides that any bank may go into liquidation at its own pleasure after a certain number OF years. The time limit is now about expired and",
+     "be found in a position where they can make an issue OF bonds. The treasury vaults are full Of silver; and it is estimated that we have 81 per cent more gold than ever before",
+     "have to make good every dollar they loaned 10 their customers during that time. The money lenders are in a position where it is impossible for them TO recede from what has been done and"
+    ],
+    "1929": [
+     "be called upon to pay out $50 900. 600 in gold for clearing house certificates.\nThe amount Of these certificates is now about SIS, ,OOO,O",
+     "be compelled to suspend payments in gold. They cannot do business with silver coin unless they make an extra profit by buying silver at its present premium and reselling it as bullion.\n\nThis means that the",
+     "be asked to loan money on stocks and bonds. But when that time comes there will not only be no lack Of mon ey for legitimate business purposes but it is probable that there will also be a scarcity",
+     "again be called upon to meet their obligations and redeem all outstanding legal tenders in specie. This is not an improbable contingency The gold standard has been adopted by Great Britain aud France, and other nations",
+     "not be able to take care Of their customers. The people in this country can't get money from Europe except through American bankers.\nThe big loan that France and Eng land are going TO make 1",
+     "be compelled to call upon depositors for payment or close their doors. The time has come when we must take action that may prevent the recurrence Of such disaster.\n\nThe banking business is not only a matter"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.833,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    },
+    "1913": {
+     "frac_true": 0.5,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    },
+    "1929": {
+     "frac_true": 0.333,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "panic_prices": {
+   "event": "panic_1907",
+   "pre": "1900",
+   "free_prompt": "When the crash comes to the market, the prices of shares will",
+   "gens": {
+    "1900": [
+     "be advanced. The stockholders are not likely to lose much by it.\nThe price Of stocks is regulated by the demand for them and their value depends upon what they can command at any time.\n\nIf",
+     "be raised. The man who sells 10 per cent share yesterday and makes $396 today, is worth probably only one-half what he was when he sold it.\nThe difference in value",
+     "drop 10 per cent. below what they are now, and this is not all.\n\nThe great railroad deal which has been in progress for some time past will be closed within few days. The",
+     "be advanced. This is an old and well known principle in Wall street.\nII is only when there has been a great demand for new stocks that their values are affected.\n\nThe stock Exchange now has some",
+     "be advanced and their value reduced. In the meantime the price of stock is governed by the general condition of business throughout this country; it follows that any advance in one section of the country would affect all",
+     "be forced down with a vengeance. The fact that all these things are coming on in rapid succession shows what an enormous amount OF capital must be employed to keep up any sort Of business activity.\n\nThere is"
+    ],
+    "1913": [
+     "be lower than they are now. The reason for this is that there has been a great deal Of water injected into the stock and it cannot stand up under the strain.\n\nThe people who have bought these",
+     "be on a parity with what they were before the collapse. The stockholders have had ample notice and there has been no attempt by any one 10 buy or sell for the purpose Of speculation.",
+     "drop like lead.\nThe public are not buying stocks now in large quantities. The fact is that when stocks go down they stay down, and nobody wants them at any price; for people who buy on",
+     "go higher. The public is not in sympathy with lower quotations. A bear raid on a stock like Union Pacific or Steel can only be successful if it has the support Of those who believe that there are",
+     "be lower and they Will go still further down when there is an other decline. There are two forces at work against them today. First there Is the fact that this year we have no war in Europe",
+     "go down and some people who have been holding on through all kinds of bad weather are going to be sorry for it.\n\nIt's a good thing that there is still plenty Of money in America.\nIf"
+    ],
+    "1929": [
+     "be reduced. The stockholders are not going to lose their money.\n\nThe public is going to get its share Of profits from increased business and lower costs.\nBut it must remember that there can never again",
+     "drop. The people who are short of stocks can buy them at less than they cost.\n\nThe stockholders themselves have nothing to lose in an emergency like that; but their creditors would be losers, and",
+     "be as high in a few days or weeks after it has happened. The rise may start before things get into their stride.\nThe big men who make fortunes out OF Wall Street know that they can do",
+     "go up. The price OF stocks is controlled by supply and demand.\nThe only way in which this control can be prevented would he TO prevent the creation OF a surplus supply This has been done I'M",
+     "go down. The decline in stocks during this period has been steady for two months or more and there is no reason why it should not continue\" A few days later Mr.. Fish said: \"The",
+     "be smashed. It's just like a house when it is going down hill.\n\nBut don't worry about that.\nYou can still have your money in your pocket and get all you want for any of"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.333,
+     "frac_false": 0.5,
+     "greedy_code": "FALSE"
+    },
+    "1913": {
+     "frac_true": 0.333,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.167,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "rev_tsar": {
+   "event": "russian_revolution",
+   "pre": "1913",
+   "free_prompt": "If Russia is beaten in a great war, the Tsar will",
+   "gens": {
+    "1900": [
+     "be able to say that he has not been defeated. He may have lost territory and prestige; but if his army had won at Plevna it would still have stood on Russian soil.\n\nThe Russians",
+     "be no more than an ordinary soldier. He is not of that kind Of men who make themselves heard and felt at once as they ought to do on their own soil.\nHe cannot command armies like Marl",
+     "be no less despotic. The power of one man over another is not yet wholly abolished; but it seems to have been so far modified as to enable him to keep what he has got without being",
+     "be at peace with his subjects. And if Russia Is not defeated by her foes she Will have to fight for another century before reaching that goal. If there were no other reason why Great Britain should never",
+     "have to submit his countrymen again TO an arbitrary system of conscription. The Russian army has grown larger and more expensive than any other nation on earth 1t would require six months Of peace at",
+     "have to be sued for damages by the United States and other powers. He must pay an indemnity of five or six hundred millions of dollars as well as large sum TO Germany.\nThe money will go"
+    ],
+    "1913": [
+     "be deposed and his son made Emperor. The present ruler of Rus sia has no children.\n\nThe Russian people are not yet ready for constitutional government.\nThey have been ruled by autocrats who were as",
+     "be deposed. The army and navy have always been regarded as her bulwarks of defence. They can easily crush out all opposition by land or sea; but if they are defeated at home then",
+     "be dethroned. He has already been proclaimed emperor only during temporary suspension of hostilities.\nThe present autocrat and his immediate predecessors are the first who have ever reigned under such conditions.",
+     "be dethroned and his son deposed. But if Japan should win there would still remain to her an other question which might prove troublesome: What are we going to do with Manchuria",
+     "be deposed and his dynasty extinguished.\n\nRussia's defeat would leave her no alternative but to make peace on terms which she could not accept. She might then have some choice as between going under or",
+     "become Emperor of all the Russias and he will be absolute ruler over his country. He cannot change this form OF government by making laws or abolishing institutions which have grown up during centuries.\n\nThe Russian"
+    ],
+    "1929": [
+     "be deposed and his son exiled to Siberia. The Russian people are not yet ready for democracy.\n\nThe German Emperor has been made prisoner by the French at Verdun.\nHe was wounded while",
+     "be deposed and some other dynasty established.\n\nThis was one of the predictions made by DR.. G. Hodge, who arrived from New York on the steamer Noordam, yesterday morning,",
+     "be killed. The Car knows that If he escapes this fate his power would not last many years.\nThe German army does its best to keep up the spirits Of it's people by assuring them victory",
+     "be executed. He would never consent to such an act of injustice as that.\nBut he will have lost his throne and may suffer death at the hands Of his captors.\n\nHe has done no more",
+     "be overthrown and there will be anarchy. This would make possible new revolution against the old regime.\n\nThis may mean another Bolsheviki coup d'etat and perhaps more trouble for Europe than anything",
+     "be forced to abdicate and his power transferred. If he fails, then another revolution may break out that would take him off the throne.\n\nThe people have been stirred up by stories of Russian misery"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.667,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    },
+    "1929": {
+     "frac_true": 0.667,
+     "frac_false": 0.0,
+     "greedy_code": "TRUE"
+    }
+   }
+  },
+  "rev_rulers": {
+   "event": "russian_revolution",
+   "pre": "1913",
+   "free_prompt": "When the revolutionaries take power in Russia, they will",
+   "gens": {
+    "1900": [
+     "be able to make a good deal of trouble for their enemies. The new czar is said TO have been very much afraid Of his father and mother-in-law.\nThe former he has always disliked because",
+     "soon have their revenge. All the Russian newspapers are filled with bitter articles on the conduct of Prince Gortschakoff toward the United States and her citizens.\n\nThe Washington Star says that \"there is",
+     "find a new code of laws necessary to govern their subordinates. There are no courts established by law, but there is an immense mass Of decisions and customs which have grown up from time immemorial",
+     "have a difficult task to keep up their government. There is no army on foot at present; but there are numerous troops of militia called \"sobiesci,\" or military reserves.\nThese men can",
+     "have plenty of work to do.\n\nThe Russian government has decided not TO allow the American Bible Society to carry on it's operations in that country.\nThis decision is caused by a letter from DR.. Newman",
+     "be able to restore order and freedom to that unhappy country. The present condition of affairs there is terrible.\nThe peasantry are starving; the nobility are bankrupts; the army has become disorganized"
+    ],
+    "1913": [
+     "find that there is no such thing as a free press. The censorship has been abolished and all newspapers are now subject to the same regulations which govern them In Germany.\n\nThe Russian government does not permit any",
+     "find the world In a very different state from that which it is at present. There are 100000 miles of railways and telegraph wires; $4,000 ships",
+     "have to deal with serious problem. 1t is no light thing for any country TO be torn by civil strife; and that Russia should be split into two hostile camps within a few years of her",
+     "not be content with anything short of an absolute monarchy. They have no more use for constitutional government than we had when our people began to clamor Tor a representative form OF govern ment.\n\nII is true",
+     "be sure to find a good deal OF money and gold and silver hidden away In all parts Of tho country. They viii make some effort 10 bring out what remains but as this win require",
+     "not be likely to let 1t drop. They are not content with having driven out of office all their opponents and installed a cabinet composed entirely Of persons friendly TO them, but have decided that this"
+    ],
+    "1929": [
+     "have to deal with a situation that is not unlike what has been going on for some time past. The government of the country was placed in the hands Of men who were either too weak or too corrupt",
+     "have to reckon with an army that Is not only superior In numbers TO any force they can put into the field.\nbut which IL equipped and trained for war on lines that make II compare favorably with",
+     "probably make some change In these regulations.\nThe old system of government by an absolute monarch has had its day and the people are not likely to have it again.\n\nThere is no doubt that there was a",
+     "have to deal with two very different classes of people. One is the peasant who wants land and other natural resources; the other is that large class which has been made up almost entirely by Germans-who",
+     "be confronted with a problem as perplexing as that which was encountered by their American forefathers when they wrested indie pendence from England.\n\nThere are more than 100 different nationalities",
+     "not be able to keep it. They have nothing with which to do so and their own people are tired of them.\n\nThe Russian situation is now more complicated than ever before for all these reasons: First"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "flu_form": {
+   "event": "spanish_flu",
+   "pre": "1913",
+   "free_prompt": "The next great pestilence to sweep the whole world will be",
+   "gens": {
+    "1900": [
+     "that of 1892. The cholera is now in Europe, and it has reached India.\nIn England there are about $4,000 cases daily; but this does not",
+     "that of 1860.\nThe number Of deaths from this cause is estimated at half million. The mortality in London during one week was two thousand seven hundred and ninety-four; in Paris,",
+     "that of 1867. The deaths from yellow fever, cholera and other diseases in New York city last year were 254,9S3; while during the first week",
+     "that which will destroy man in a similar manner, and leave no survivor. The plague of 1896 was not so terrible as it would have been had there remained any who were able to",
+     "the cholera. The disease is not SO easily controlled as yellow fever, but it comes more quickly and does far worse work than that of yellow fever or plague.\n1t has been said by a",
+     "from that awful scourge which has so often visited Europe in past ages, and was never known but once among us. It is not a new disease; it may have been brought by commerce into this"
+    ],
+    "1913": [
+     "cholera. 1t is already in India, and it may come here any day.\n\nThere are many people who do not believe that there Is such a thing as Asiatic cholera; but",
+     "cholera. The germs are in every thing that is eaten, drank or worn; and unless proper precautions are taken they will enter our bodies and produce disease.\n\nCholera has already invaded nearly",
+     "cholera. This dread scourge has already invaded our borders and is now raging in Europe.\n\nIn England alone it carried off 100, ,OOO victims last year. The mortality IN",
+     "consumption.\nConsumption is a germ disease. The germs are in every air we breathe, and if they find Judgment anywhere there Is where they get started for life.\n\nWhen they hit it all together",
+     "fire, and it is not at all improbable that there has been some such event in preparation.\nFire sweeps over wide areas Of country. In 1856 a large part of San Francisco was",
+     "a famine, and not war or plague. The earth is full of food; but it cannot feed all who want bread if it does, there will be no more people.\nAnd when man can't"
+    ],
+    "1929": [
+     "cholera. 1t is now in Europe, and it may come here before long.\n\nThere are many reasons why we should prepare for this terrible scourge.\nWe have had two epidemics of",
+     "due in the year 1926, according TO astrologers. The sun then enters Libra.\n\nPersons whose birthdate II Is may expect a quiet but successful year IL they keep their",
+     "a plague of flies. 1t is not necessary for me to enumerate all their ravages, or tell you Of other plaques that are yet in store and coming upon US.\nThey have already",
+     "an epidemic of tuberculosis. This disease is caused by germs, and it's spread can only be prevented when proper measures are taken for its eradication.\n\nA cure has been found and many lives have",
+     "that of cholera. Its coming is as certain rs any future event can possibly he, and there Is no need Of worrying about It.\nLet everybody take care OF himself; then when tho scourge",
+     "cholera, and it is now raging in Europe. All nations have their doctors who know how to treat 1t but there are many simple remedies that can be used at home with almost Ger t"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.667,
+     "greedy_code": "FALSE"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.667,
+     "greedy_code": "FALSE"
+    },
+    "1929": {
+     "frac_true": 0.0,
+     "frac_false": 0.667,
+     "greedy_code": "FALSE"
+    }
+   }
+  },
+  "flu_toll": {
+   "event": "spanish_flu",
+   "pre": "1913",
+   "free_prompt": "If a great epidemic comes upon the world with this war, it will carry off",
+   "gens": {
+    "1900": [
+     "many of our people. The number who die in battle is small compared to those who fall by disease and other causes.\nThe deaths from all diseases during 1862 were only about one hundred",
+     "all classes of people. The rich and poor alike, if not killed outright in battle or drowned in rivers, perish by disease.\nBut when once the infection is started, there are few who escape,",
+     "from two to three millions of people. The death list is frightful. But that does not stop it.\nThe number which it leaves sick and disabled is even greater than before. If we have to",
+     "some Of our people.\n1t is not only on account of the death and suffering caused by disease that we should have an abundant supply OF food. We must be ready to meet all emergencies which may",
+     "many people from these islands and leave our ranks vacant for some time. The number of sick men who will be carried away is not likely to exceed that which has preceded an epidemical plague in other",
+     "thousands of people. The whole human race cannot be expected to remain in existence when so many die from disease.\nA small proportion only can survive and live through all the hardships incident to such an event."
+    ],
+    "1913": [
+     "more than half of all who are in arms on both sides. The number is estimated at 100000 men; and if we add to these those who have died from wounds or",
+     "some of us. Some men are born to die.\nWe can't escape death altogether. We all know that we have been made in such way as not to be able always 20 resist its",
+     "many victims. We have had epidemics of yellow fever and smallpox in our time; we are liable to be visited by cholera or some other disease as dreadful.\nWe know that there is",
+     "all of us\" said Rev. w. A.\nSunday to reporter for The Gate City last evening.\n\nRev. Mr.. Sunday is quoted as having made these words in an address at Chicago recently and",
+     "millions of men in all ranks and professions. If there is any truth In our Christian religion we shall have to give up much of our time on earth.\nThe Lord has not called us into His own",
+     "more men than were killed in all our battles for independence. But we should not despair of humanity's final triumph over death.\nThe greatest danger to us is from within ourselves and that has never been successfully"
+    ],
+    "1929": [
+     "more than 100000 men. The death rate in battle is about one to every five hundred killed.\n\nThe United States has been called on for $4,000 volunteers",
+     "more than half of its population.\n\nThis is not merely guess. We have in America 1903 deaths to every $4,000 people.\nIn England we find over IS per",
+     "more than ten per cent of all its victims. If such an event is pos sible at any time in history, how much greater danger must there be to humanity today? The nations are being drained",
+     "more than half Of our young men.\n\nThe United States has been slow to respond. This country is in an enornous business of making munitions and supplies for all its allies; but we are",
+     "more victims than any other agency that we know of. The people OF Europe were never so healthy and vigorous as they are today.\nThey live on higher plane Of physical life than ever before in history.",
+     "millions. We are all thinking more about saving our lives than we do of saving others.\n\nA great fire has just occurred in Pittsburg and 100 people lost their lives; or rather they"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.167,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.167,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.167,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "infl_mark": {
+   "event": "hyperinflation",
+   "pre": "1913",
+   "free_prompt": "If a defeated nation pays its debts with the printing press, its money will",
+   "gens": {
+    "1900": [
+     "be worth more than it would have been if paid in gold. The United States has now $40 600, 900 of paper currency and is paying out for interest on",
+     "always be worth more than that of its conqueror. The world is full Of newspapers, and they never lose their hold on the public heart when once it has taken them in hand as political power.",
+     "be worth nothing. We shall have to pay for it as we did before.\n\nThe New York Sun tells of man who bought an old horse and took it out into the woods where he had been accustomed",
+     "not be in danger.\n\nAn old lady, who had read the story of Columbus and his egg, exclaimed: \"There is nothing but an egg like him; l wonder he did not take it to",
+     "not be spent in luxuries but only for necessaries of life. The army Of Napoleon was never more expensive than when he fought at Leipsic and Waterloo, or as it stood after the battle",
+     "go out of circulation.\n\nThe people who think that it is only nee essary to pay for paper when there are any more men in the country ready to take the same quantity of paper on their"
+    ],
+    "1913": [
+     "be worth more than that of any other country. The United States is now paying off her national debt at the rate Of $40 100000 year.\nThe total amount outstanding",
+     "be as good as gold. A successful ma ton should pay it's debt in full; and then it may have confidence to borrow more.\n\nThe man who goes into business on borrowed capital is no better",
+     "be as good as gold. The only way in which we can pay our debt TO Mexico is to print their currency on presses run by water power and send them back from this country.-San Jose Mercury",
+     "soon have to be put in circulation at some other way.\n\nA woman can get up an awful fuss over trifiing matter. When her hus.\nband gets into row she is always ready for one",
+     "be better than ours.\n\nIf we are not in earnest about our duty and determination to put down this war. let us at least stop that lying of ours which has made it so hard for those who",
+     "be worth more than that of any other power.\n\nThe United States and England are at war because they cannot agree on what constitutes \"a blockade\" The London Times says it is not to be inferred from"
+    ],
+    "1929": [
+     "be worth more than that of any other country. The United States has been paying off her debt for 20 years and is now at par in every market.\nThe British pound sterling was quoted on",
+     "be worth only half as much as that of an other country which has never suffered defeat. The United States may learn this from the experience Of England.\nThe Englishman can pay his creditors in goods or",
+     "be good for any purpose. If it does not, then there is nothing left but to take from it all that remains of its property and pay in paper or other goods; but if one creditor should",
+     "be worth less than that of an in solvent one. If we were to print our paper currency for every dollar OF debt due US by foreign nations We would make it worthless and cause them to repud",
+     "soon disappear from circulation. There is something more in debt than paper.\nThe man who borrows money to make q payment on his farm or for any other purpose must have some security that he can show",
+     "circulate in other nations and become of value there. If it does not pay them by that method, then it must exchange gold for some kind OF paper currency.\n\nWhen the people Of this country are"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.333,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.333,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "infl_prices": {
+   "event": "hyperinflation",
+   "pre": "1913",
+   "free_prompt": "When a currency collapses utterly, the price of a loaf of bread is reckoned in",
+   "gens": {
+    "1900": [
+     "silver. The farmer who has to pay 10 cents for his wheat and sells it at that figure will have paid so much more than he would if he had bought with gold or paper money.",
+     "dollars and cents, not by pounds avoirdupois. The value which that food will buy at the place where it can be procured to-day does not depend upon its cost there today or",
+     "dollars and cents. A farmer sells his wheat for 100 pounds Of silver; he buys one hundred cents worth of clothing at $50 per cent profit.\nThe farmer then pays 8",
+     "dollars and cents. That means that every man who can pay for his loaf must work ten hours day to get it.\nIf one half of our population would stop working, or if all men would cease",
+     "coin. If it were to fall to that point at which silver would no longer be money, then every dollar Of gold and silver coins could only purchase an equal amount OF food.\nThe prices of commodities",
+     "silver. When an exchange fails to keep pace with commodities it falls out with prices.\nThe price OF wheat or cotton is determined by demand and supply; when there Is no demand for either the price must"
+    ],
+    "1913": [
+     "gold. The same thing happens when money becomes so scarce that it cannot be used for any purpose except to buy food.\nThe value of all other commodities rises proportionately; and this rise affects not only",
+     "paper money. So it was with France when her credit fell below par.\nShe had no legal tender coinage; but she made use Of assignats issued by authority. These notes were received at their",
+     "gold. When it becomes inflated so that no one can make use Of his property for its payment, then 1t Is all as nothing; and yet such a state has often come upon us since",
+     "terms Of dollars. If there are no more dol lars to be had it must 60 up; if any less than before then the other side Of the table has its due share.\n\nSo",
+     "pence; but when confidence revives and money comes back to circulation it goes up again. This illustrates very clearly that there was something wrong at least as much with the currency under Hayes's administration as",
+     "gold; but when money begins to be abundant and rising by leaps and bounds.\nthe prices of all things are measured again In paper. Gold has always been the most stable standard OF value known among men"
+    ],
+    "1929": [
+     "terms Of gold. The value OF money Is measured by its purchasing power.\nThe more it costs to produce an article the less valuable 1t becomes as cur rency medium.\n\nIn this country we",
+     "it; when that collapse ends. its value is gone forever.\n\nIn times OF peace and plenty. men have always had time to think about prices: but they are not thinking now.\nThey know what",
+     "terms Of gold and not in silver. 1t Is possible for an individual to make a living on q wage which will buy only about half as much food as formerly.\nBut it takes twice or",
+     "it as nothing. The people have no more interest in its value than they would in counting their teeth or numbering their finger nails.\nThe only way to cure panic is to put things back upon a solid",
+     "terms Of wheat. The whole economic structure Is upset and men are thrown out OF work. But there will always be some one to buy bread; and it does not mat ter what happens If only enough",
+     "gold. And so long as this remains true prices are not likely to go back into their former relation with one another.\nThere will be little hope for recovery until labor shall get its share; and there"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.667,
+     "greedy_code": "FALSE"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "nazi_republic": {
+   "event": "nazi_seizure",
+   "pre": "1929",
+   "free_prompt": "If the slump deepens and the parties cannot govern, the German republic will",
+   "gens": {
+    "1900": [
+     "be in a position to take care of itself. The present government is not strong enough for that purpose.\n\nThe new president has been elected by an overwhelming majority. He was born at Frankfort on-the",
+     "be in great danger of falling to pieces. If there is a conflict between the emperor's army and his people it may precipitate an open revolt.\nThere are signs now that such trouble as this would",
+     "be divided into three or four great states: Hesse, Wurtemburg, Baden, Bavaria.\nand Saxony. The kingdom of Han over would then probably follow; for it seems",
+     "have to make up its mind whether or not it is going TO allow itself 10 be swallowed by a new empire\" The Emperor William has no desire to rule Germany alone. He would prefer To",
+     "be left without any representative or leader.\n\nThe new president has made a good start. He is very popular in Berlin.\nand his popularity has already manifested itself by numerous speeches at banquets given for him",
+     "be divided up among its thirty-one states, with the result of increasing to an alarming extent their power in Congress. The most extreme men on both sides seem now agreed that it is necessary TO reduce taxes"
+    ],
+    "1913": [
+     "be in a bad way. The people are not yet ready for it's adoption.\n\nThe Germans have been too long accustomed to rule themselves; they do not know how to take their place as citizens of",
+     "be an accomplished fact. The first step toward it's establishment was taken last Wednesday when Count Won Bern stortf formally presented his credentials as ambassador extraordinary to Germany.\n\n1t is believed that this action",
+     "be in great danger. The only way out of this dilemma is for Germany to go to war with France. If she does not do it now there Is grave reason to fear that her people may soon",
+     "become a monarchy. If the republie remains true to it's traditions, which is not improbable, this may come about without revolution.\n\nThe government of the emperor in Prussia has been one OF",
+     "be overthrown. The Germans are not averse to government of their own; they like it better than that given them by others.\n\nA writer in the New York Evening Post declares that there is little",
+     "go down to ruin with a crash. There are signs that such may be its fate.\nThe country is on fire all over from political passion. In many places it has broken out into fierce factional"
+    ],
+    "1929": [
+     "be established. The people are tired of war; they want peace at any price.\n\nThe Germans have been told that if they do not fight for their country it is because they lack patriotism.\nThey know",
+     "be formed out of Germany. And if it does not develop that way then we shall have to get into another war with France.\n\nThe most popular thing in this country today is an excuse for spending money",
+     "be overthrown. There can be no doubt that this is now a part of their programme.\n\nThe government Of President Ebert has not been an unqualified success.\nand it's weakness on international questions",
+     "be formed.\n\nThe German government is now in the hands of a council Of national safety consisting OF representatives from all parts of Germany. This body has taken over control to keep order.\nTo this end it",
+     "be overthrown. We can't have a government by party bosses\" The speaker was Senator Reed of Missouri, chairman Of the senate COM mittee on foreign relations.\n\nThe senator's remarks were made in",
+     "not long survive. If Germany wins we shall have a monarchy like England; if France loses she may adopt an auto cratic government like Russia or Austria.\nThese are serious possibilities.\n\nFor many years there"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.167,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.333,
+     "frac_false": 0.167,
+     "greedy_code": "neither"
+    }
+   }
+  },
+  "nazi_who": {
+   "event": "nazi_seizure",
+   "pre": "1929",
+   "free_prompt": "The man who will rule Germany if the republic fails is",
+   "gens": {
+    "1900": [
+     "not yet born. The German people are too intelligent to be ruled by a demagogue, and they have no faith in any one but their own leaders.\nThey know that it would be impossible for them",
+     "likely to have a difficult problem. He has before him not only the opposition of his party, but also that Of all classes which are interested in order and good government.\nThe Emperor William himself seems to",
+     "likely to win his way into prominence. A German statesman, though a small one in stature and appearance would be formidable rival of Bismarck.\nHe has been known as an independent thinker;",
+     "Prince Bismarck, he says. He is convinced that the only way to accomplish this object is by making himself absolute master of all Prussians alike, and by giving his own opinions such",
+     "likely to be Prince Bismarck. The German people are not very enthusiastic for him, but they do know he Is master of his craft and has a genius which enables him TO keep things in",
+     "Prince Bismarck. The German empire is made up of thirty-four states and one principality, which were under a dual system at first, but now are united into single kingdom by their rulers"
+    ],
+    "1913": [
+     "Count Won Bulow, and he has been in office for twenty years. He was born at Koenigsberg on March 10, 1852.\nHe studied law at Berlin",
+     "a man of middle age, about forty-fve years old. His name Is Prince Bismarck and he lives at Friedrichsruh. The prince has been known to be in good health",
+     "Count Won Buelow, a Prussian nobleman and one Of the most powerful men in Europe. He was born July 10, 1847, being therefore nearly fifty-five",
+     "to be Count Won Bulow, and in a way he has been elected by popular vote. His opponent was Herr Mumm Won Schwarzenstein.\na lawyer of high repute at the German capital",
+     "not to be found in Berlin or any other German town, writes a correspondent of The London Times. There are some men among them who have been trained for years and have served their time under every possible",
+     "now said to be Won Bulow, son of the chancellor.\n\nHe has been appointed to succeed his father as Prussian minister OF foreign affairs and also as imperial chan cellor. He is a very"
+    ],
+    "1929": [
+     "not yet in sight. The German people are still divided into two camps, and it may be that they can never unite on a single leader.\n\nThere has been no such thing as an election since",
+     "Count Ernst Won Hertling, chancellor of Prussia. The German constitution makes him chan cellor and he has been in office since 1908.\n\nHis home life as a child was",
+     "to be a German.\nHe was not brought into prominence by his military achievements. He is in no sense of that sort, but he comes out as candidate because of one thing; and only one thing",
+     "General Won Hin denburg.\n\nFor more than four years he has been supreme in military affairs, not only of his own country but Of all Europe. For months and even for weeks at a time Hind",
+     "the German crown prince. He has been given absolute power and his word Is law.\n\n\nThis man may not be so very differ ent from other princes of royal blood.\n\nBut he is different, nevertheless.",
+     "Count Ernst Won Reventlow, editor of Die Zukunft\" and leading spokesman for Ger many's militaristic party.\n\nIn an article in that newspaper today he said: \"If a coalition government should be"
+    ]
+   },
+   "coded": {
+    "1900": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1913": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    },
+    "1929": {
+     "frac_true": 0.0,
+     "frac_false": 0.0,
+     "greedy_code": "neither"
+    }
+   }
+  }
+ }
+}

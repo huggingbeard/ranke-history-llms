@@ -1,0 +1,99 @@
+{
+ "chance": 7.6923076923076925,
+ "corr_meter_parties": 0.41671128485951336,
+ "meter_when_parties_known": 0.7191111111111111,
+ "meter_when_parties_unknown": 0.3748888888888889,
+ "n_parties_known": 9,
+ "rows": {
+  "Passarowitz": {
+   "meter": 1.0,
+   "p_year": 89.60000000000001,
+   "p_parties": 83.39999999999999
+  },
+  "Aigun": {
+   "meter": 1.0,
+   "p_year": 72.89999999999999,
+   "p_parties": 97.6
+  },
+  "Hubertusburg": {
+   "meter": 1.0,
+   "p_year": 85.8,
+   "p_parties": 98.2
+  },
+  "H\u00fcnk\u00e2r \u0130skelesi": {
+   "meter": 0.998,
+   "p_year": 11.600000000000001,
+   "p_parties": 0.5
+  },
+  "Bucharest": {
+   "meter": 0.997,
+   "p_year": 98.5,
+   "p_parties": 7.8
+  },
+  "Turkmenchay": {
+   "meter": 0.996,
+   "p_year": 26.400000000000002,
+   "p_parties": 93.89999999999999
+  },
+  "K\u00fc\u00e7\u00fck Kaynarca": {
+   "meter": 0.993,
+   "p_year": 18.099999999999998,
+   "p_parties": 0.0
+  },
+  "Jassy": {
+   "meter": 0.989,
+   "p_year": 50.1,
+   "p_parties": 30.599999999999998
+  },
+  "Gulistan": {
+   "meter": 0.981,
+   "p_year": 29.299999999999997,
+   "p_parties": 98.8
+  },
+  "Whampoa": {
+   "meter": 0.406,
+   "p_year": 23.9,
+   "p_parties": 59.0
+  },
+  "N\u00f6teborg": {
+   "meter": 0.318,
+   "p_year": 13.0,
+   "p_parties": 0.0
+  },
+  "Stolbovo": {
+   "meter": 0.098,
+   "p_year": 46.800000000000004,
+   "p_parties": 26.6
+  },
+  "Belgrade": {
+   "meter": 0.029,
+   "p_year": 96.39999999999999,
+   "p_parties": 3.4000000000000004
+  },
+  "Wanghia": {
+   "meter": 0.022,
+   "p_year": 6.5,
+   "p_parties": 19.3
+  },
+  "Andrusovo": {
+   "meter": 0.012,
+   "p_year": 2.7,
+   "p_parties": 1.9
+  },
+  "Zuhab": {
+   "meter": 0.005,
+   "p_year": 6.4,
+   "p_parties": 0.5
+  },
+  "Roskilde": {
+   "meter": 0.002,
+   "p_year": 67.80000000000001,
+   "p_parties": 96.3
+  },
+  "Bj\u00f6rk\u00f6": {
+   "meter": 0.0,
+   "p_year": 22.8,
+   "p_parties": 0.0
+  }
+ }
+}

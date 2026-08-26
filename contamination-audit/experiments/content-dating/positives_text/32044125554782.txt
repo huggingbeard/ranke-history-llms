@@ -1,0 +1,3351 @@
+HARVARD LAW LIBRARY 
+
+KF 3 2044 125 554 782 6456 
+
+.B92x 
+
+1986 
+
+HD LAW BYBERG CORPORATION SOURCE BOOK 
+
+1986
+
+HARVARD LAW LIBRARY
+
+Department of the
+
+Treasury 
+
+Internal 
+
+Statistics of Income Division Byberg, Sandia A General Description of the
+
+Corporation Source Book Revenue Service HARVARD LAW SCHOOL LIBRARY DEPOSITED BY THE UNITED STATES GOVERNMENT AUG 0 4 1986 Source Book Statistics of Income Corporation Income Tax 
+
+Returns 
+
+Department of the Treasury
+
+Internal Revenue Service Statistics of Income Division 
+
+Publication 1053 
+
+HARVARD LAW LIBRARY 
+
+KF 6456 1892x 1986 
+
+Publication 647 (Rev. 6-86) (T 22.35 /2: C 81/2) 22.35/2:
+
+ее 
+
+CONTENTS General description 
+
+Industry statistics and their limitations
+
+Availability of Source Book. 
+
+Ordering Source Book data 
+
+General format 
+
+Format used 1962 only
+
+Comparison of Standard Industrial Classification, 1972 and Enterprise Standard Industrial Classification, 1974 with groupings used for Statistics of Income, 1977.
+
+List of SOI industry classifications 1 2 3 . 9 .19
+
+CORPORATION SOURCE BOOK OF STATISTICS OF INCOME General Description 
+
+The Corporation Source Book of Statistics of Income provides detailed industry data on corporation income tax returns and forms the basis for the annually published report, Statistics of Income, Corporation Income Tax Returns. Beginning with the Source Book for 1942, data are shown for assets, liabilities, income, deductions, tax liability, distribution to stockholders and other financial items by industry groups and by size of total assets. The Source Book was not produced for 1952 and, for 1962, distribution by asset size class was provided only for major industry groups. Prior to the 
+
+Source Book for 1942, limited statistics are available for each year beginning with 1928, but the items are not classified by asset size class. 
+
+For the years prior to 1956, each minor industry has a single page table for "Returns with net income" and one for "Returns with no net income." For 
+
+1956 and thereafter, except 1962, there is a single page table for "Returns with and without net income" (all returns) and one for "Returns with net income." For 1962, the data for "Returns with and without net income," and for "Returns with net income" appear on the same single page table for each minor industry with no distribution by asset size class.
+
+A complete Source Book consists of about 500 pages (depending on the year) with introductory material. The introductory material includes notes which may change from year to year, a page for industry statistics and their limitations, and a complete listing of the industry groups in the book. The book is divided into two sections: "Returns with and without net income" and "Returns with net income." Each section contains statistics for corporations by minor industry, statistics which group minor industries into about 60 major industries, statistics which group major industries into broad categories of 12 industrial divisions, and a U.S. Total (All Industries) page which is the combination of all industrial divisions. These pages are in the following format: 
+
+Financial items are listed down the left side of the page. There are 13 to 16 columns across the page, including a total column and size classes ranging from zero assets to assets of $250,000,000 or more. "Returns with and without net income" or "Returns with net income" is in the upper left corner. The title of the industry is in the upper right corner of the page.
+
+The Source Book is available annually for returns with accounting periods ended July of one year through June of the following year. This span, in effect, defines the income year in such a way that the noncalendar year accounting periods are centered at the calendar year. For example, the 1983 
+
+Source Book includes returns with accounting periods ended July 1983 through June 1984. Approximately thirty-nine percent of the returns and sixty-five percent of the net income (less deficit) were for the accounting period ended 
+
+December 1983. 
+
+*This document was prepared in the Statistics of Income Division by Sandra 
+
+Byberg of the Corporation Returns Analysis Section (Karen Cys, Chief). 
+
+Technical assistance was provided by Janice C.
+
+Washington and David Jordan of the Corporation Returns Analysis Section and Homer Jones of the Corporation Operations Section (Ken Szeflinski, Acting Chief). 
+
+-1-
+
+CORPORATION SOURCE BOOK OF STATISTICS OF INCOME 
+
+The number of items has basically remained the same for over twenty years. However, there have been changes to selected items due to revisions in law. The number of asset size classes has fluctuated from 15 size classes to data currently distributed by 12 size classes. For 1972 and more recent years, some of the data of the asset size classes were combined so as not to show data based on too few sample returns. 
+
+General revisions of the Source Book industry groups were made for 1948, 1958, 1963, 1973, and 1977. These revisions are indicated on pages 425 -450 of 
+
+Statistics of Income --1948, Corporation Income Tax Returns; on pages 191 -193 of the 1958 Corporation Income Tax Returns; on pages 322-340 of the 1963 
+
+Corporation Income Tax Returns; and on pages 182-188 of the 1973 Corporation 
+
+Income Tax Returns. These publications are on file at the Statistics of 
+
+Income Division and may also be on file at your local depository library. 
+
+1977, the latest revision, the industry groups are shown on pages 19 to 26 of this booklet. For
+
+INDUSTRY STATISTICS AND THEIR LIMITATIONS 
+
+Prior to 1951, the Corporation Source Book was based on information compiled from all returns filed. Since then, Corporate Statistics of Income has been derived from a stratified probability sample of corporation income tax returns. For all years, the returns used were selected after revenue processing but before audit examination. Returns of the largest corporations are generally in the sample from year to year. For more detailed information on the sample for a specific tax year, see "Description of the Sample and Limitations of the Data" in the complete report Statistics of Income, Corporation 
+
+Income Tax Returns. 
+
+Year to year comparability of Source Book statistics is affected by consolidations and mergers, as well as by changes in the law, the tax forms, and the industrial classification systems used over the years. Changes in the law and tax forms are described each year in Statistics of Income, Corporation 
+
+Income Tax Returns. 
+
+The industry groupings used for Statistics of Income, Corporation Income Tax Returns, conform with the Enterprise Standard Industrial Classification (ESIC), which classifies companies, rather than their individual establishments.
+
+The structure of the classification follows closely along the lines of the Standard Industrial Classification (SIC), which is designed as a means of classifying establishments. (Both of these publications are issued by the 
+
+Office of Management and Budget.) Some departures from the enterprise classification system are made for Statistics of Income for the finance industries in order to reflect particular provisions of the Internal Revenue Code. A comparison between the Standard Industrial Classification, 1972, the 
+
+Enterprise Standard Industrial Classification, 1974 (the most recent editions of each publication) and the groupings used for Statistics of Income, 1977 is shown on pages 9 to 17. -2-
+
+CORPORATION SOURCE BOOK OF • STATISTICS OF INCOME 
+
+Even though the Statistics of Income classification system is designed to apply to the company rather than the establishment, its application to corporation income tax return statistics has limitations. A return is classified by industry based on the activity accounting for the largest percentage of total receipts. This means that large corporations with diversified activities are included in only one industry even though many of their business operations are unrelated to the industry in which they are classified. Therefore, statistics for an industry may be either understated by amounts reported by corporations whose principal activity lies elsewhere, or overstated by amounts reported by corporations classified in the industry but having substantial operations in other industries. When a company's operations are diversified among related minor industries, the diversification effect may be mitigated somewhat when data for related minor industries are aggregated into the major industries and to a greater degree when related major industries are aggregated into industrial divisions. Major industries and industrial divisions are featured in the published Statistics of Income reports.
+
+Availability of Source Book Under the provisions of Section 6108 of the Internal Revenue Code, the 
+
+Internal Revenue Service may furnish reproductions of the Source Book pages at cost. Each page contains data for an industry group (minor, major, division, or all industries). See pages 5 to 7 for examples of Source Book pages.
+
+Reproductions are available for each year beginning with 1959 in two forms: (1) 35mm microfilm reels, one for each year, containing statistics for every industry; and (2) single-page copies of each industry group for each year. 
+
+Beginning with 1963, complete Source Book sets with data for every industry are available. The complete set is made up of about 500 pages. Beginning with the data for 1965, Source Books are available each year on magnetic tape at the National Archives.
+
+For 1928 through 1958, the Source Book is available for use only at the 
+
+Statistics of Income Division offices of Internal Revenue Service in 
+
+Washington, D.C. Arrangements to use the Source Book for these years should be made by writing to the Director, Statistics of Income Division, at the address listed on page 4. 11 Starting with 1956 and thereafter, (except 1962), each industry will have a page for "Returns with and without net income, and one page for "Returns with net income." For 1962, there is one page which covers both types of returns on an abbreviated table. See page 7 for an example of a 1962 Source 
+
+Prior to 1956, each industry will have one page for "Returns with net income," and one page for "Returns with no net income." 
+
+The prices for Source Book material are as follows: 
+
+Complete Source Book 
+
+(1) 35mm microfilm .$150.00 (1959 .$175.00 (1982 1981) present) 
+
+.$150.00 (1963 1981) $175.00 (1982 - present) 
+
+(3) Individual industry pages 
+
+.$ 1.00 (1959 present) (4) Magnetic tape copy. .See page 4 
+
+---
+
+CORPORATION SOURCE BOOK OF STATISTICS OF INCOME Ordering Source Book Data 
+
+Orders for Source Book materials can be handled most expeditiously if these instructions are followed: 
+
+Address letter: 
+
+Director, Statistics of Income Division D:R:S Internal Revenue Service 
+
+1111 Constitution Avenue, N.W. 
+
+Washington, DC 20224 1962: (1) Specify year and indicate industry code; (2) Determine total cost based on charge of $1.00 for each page requested. Enclose check with order. 
+
+1959 through present (except 1962): (1) Specify year(s) for which data are requested; (2) Indicate industry codes, as determined from listings on pages 
+
+9 to 26; (3) For each industry requested indicate whether you want the sheet for "Returns with and without net income, " "Returns with net income," or both set of sheets for a particular year; (4) Determine total cost based on the charge of $1.00 for each page requested. Enclose check with order. 
+
+Microfilm Reels (35mm): Complete Source Book for a given year is available on microfilm for 1959 to most current year available. Indicate year and determine cost at charge of $150.00 (1963 - 1981), $175.00 (1982 - present) for each year requested. Enclose check with order.
+
+Complete Source Book Sets: Complete Source Book for a given year is available in sets of bound flat-cut sheets for years beginning with 1963 to most current year available. When ordering indicate year and determine cost at charge of $150.00 (1963 - 1981), $175.00 (1982 - present) for each set. Enclose check with order.
+
+Magnetic Tape: Beginning with 1965 data, complete Source Book with accompanying documentation are available for purchase. The current year tabular data can be purchased from Statistics of Income Division for $1,500. 
+
+For prices and further information concerning prior year data tapes contact the MachineReadable Branch (NNSR), National Archives, Washington, DC or phone (202) 523-3267.
+
+Payment: Payment is required prior to shipment of Source Book material. placing order please send check payable to "Accounting Section, Internal
+
+Revenue Service." 
+
+20408 
+
+When 
+
+Additional Information: Requests for additional information, or any inquiries regarding the Source Book should be sent to the Director, Statistics of Income Division, at the address above or you may call Corporation Returns Analysis 
+
+Section on (202) 376-0102. 
+
+- 4….
+
+Page of 2 
+
+1983 CORPORATION SOURCE BOOK OF STATISTICS OF INCOME, INCOME TAX RETURNS OF ACTIVE CORPORATIONS WITH ACCOUNTING PERIODS ENDED JULY 1983 THROUGH JUNE 1984-- BALANCE SHEET, INCOME STATEMENT, AND SELECTED ITEMS, BY MINOR INDUSTRY, BY SIZE OF TOTAL ASSETS (ALL FIGURES ARE ESTIMATES BASED ON SAMPLE--MONEY AMOUNTS AND SIZE OF TOTAL ASSETS ARE IN THOUSANDS OF DOLLARS) AGRICULTURE, FORESTRY, AND FISHING: 
+
+AGRICULTURAL SERVICES (EXCEPT VETERINARIANS), FORESTRY, FISHING, HUNTING, AND TRAPPING MINOR INDUSTRY 0600 RETURNS WITH AND WITHOUT NET INCOME TOTAL 
+
+ZERO 
+
+ASSETS 
+
+1 UNDER 100 100 UNDER 250 250 UNDER 500 
+
+SIZE OF TOTAL ASSETS 
+
+500 1,000
+
+UNDER UNDER 
+
+1,000 5,000 5,000
+
+UNDER 10,000 10,000
+
+UNDER 25,000 25,000
+
+UNDER 50,000
+
+UNDER 100,000 
+
+50,000 100,000
+
+UNDER 250,000 250,000
+
+OR 
+
+MORE 1 NUMBER OF RETURNS. 
+
+2 TOTAL ASSETS. 
+
+25260 8538246 1160 3 
+
+CASH... 
+
+739389 13737 461639 74543 
+
+NOTES AND ACCOUNTS RECEIVABLE. 
+
+1554839 49895 4577 757474 86773 103565 
+
+LESS: ALLOHANCE FOR BAD DEBTS.. 
+
+23218 #316 
+
+INVENTORIES. 
+
+945107 36809 65303 2718 946963 99500 117231 #97 66402 1577 1320 1096159 2514162 141694 227156 218251 487203 91 589894 32684 136336 *4410 142865 12146 292589 #441 64711 60 892936 45272 185782 3284 128390 *10 *352827 #8336 #104812 1138 #44282 12 
+
+926193 
+
+23430 
+
+151765 
+
+1388 
+
+103756 
+
+INVESTMENTS IN GOVT. OBLIGATIONS: 
+
+TOTAL.. 
+
+49973 #2628 *455 *22677 *1604 
+
+OTHER CURRENT ASSETS.. 
+
+299741 10395 31798 19664 
+
+LOANS TO STOCKHOLDERS. 
+
+238628 36131 10 
+
+MORTGAGE AND REAL ESTATE LOANS.. 
+
+53649 *425 11 
+
+OTHER INVESTMENTS... 
+
+642436 *293 12 
+
+DEPRECIABLE ASSETS.. 
+
+6001544 608598 13 
+
+LESS: ACCUMULATED DEPRECIATION. 
+
+3071134 700246 379795 391988 43741 47498 39741 37587 *11533 #1818 #3166 50419 37755 43981 232516 924778 752635 1624128 475294 404148 45679 39968 37354 54698 *5790 17050 *5096 *5306 *19077 94 #2947 133 7127 22516 
+
+68195 
+
+101 
+
+33200 88389 #11989 143894 
+
+346428 412088 #158547 474095 
+
+813279 159688 158615 *72316 216010 
+
+14 
+
+DEPLETABLE ASSETS.. 
+
+264290 *27284 #60 *63552 111 83424 89858 15 16 
+
+LESS: ACCUMULATED DEPLETION.. 
+
+LAND. 
+
+63600 *12797 *33875 71 9428 7430 610650 *5741 36530 61530 95337 243275 76184 17 
+
+INTANGIBLE ASSETS (AMORTIZABLE)... 
+
+39321 6052 6082 10867 18 19 
+
+LESS: ACCUMULATED AMORTIZATION. 
+
+OTHER ASSETS... 
+
+17464 5083 274095 15322 
+
+20 TOTAL LIABILITIES. 
+
+8538246 461639 2191 11450 757474 21 
+
+ACCOUNTS PAYABLE. 
+
+1028811 79808 106082 22 
+
+MORT, NOTES, AND BONDS UNDER 1 YR. 
+
+1542983 97357 184242 
+
+23 OTHER CURRENT LIABILITIES.. 
+
+548223 22676 49050 24 
+
+LOANS FROM STOCKHOLDERS. 
+
+723143 219201 108342 7168 35749 946963 97795 129782 44324 97369 685 299 25015 1096159 89713 239320 39872 110894 132829 7369 1301 68826 2514162 #1641 *479 8252 55300 3645 669 61515 *8831 27923 
+
+927 96 2053 178 #4356 43609 
+
+589894 892936 368482 77208 110724 417497 155068 188912 *352827 *54294 #62658 68147 926193 
+
+44706 
+
+195989 39969 53807 40674 *18439 #701 97229 25 
+
+MORT, NOTES, BONDS, 1 YR OR MORE.. 
+
+2170032 118513 223854 277385 145242 592091 172468 307347 *54327 278805 
+
+26 
+
+OTHER LIABILITIES... 
+
+388256 4914 13066 56586 46214 102824 7655 65385 *16800 74811 
+
+27 
+
+CAPITAL STOCK.. 
+
+762442 82892 91281 98748 93202 209257 35561 80541 *35924 35036 
+
+28 
+
+PAID-IN OR CAPITAL SURPLUS.. 
+
+728577 33728 28259 80066 
+
+29 RETAINED EARNINGS, APPROPRIATED.. 
+
+89256 #677 30 
+
+RETAINED EARNINGS, UNAPPROPRIATED. 
+
+701602 -182315 -29588 31 
+
+LESS: COST OF TREASURY STOCK.. 
+
+145081 
+
+32 TOTAL RECEIPTS.. 
+
+16279389 *15134 67426 1701874 33 
+
+BUSINESS RECEIPTS.. 
+
+15691218 #41932 34 
+
+INTEREST.. 
+
+109128 #613 1669410 6427 74078 176328 *19808 #44239 *12001 75441 253599 310067 -26233 *17114 *11210 *15784 35441 1625875 2037535 2180470 4926115 1580199 2002584 2109691 4724853 7652 6577 13874 32583 65167 81813 *67410 121730 
+
+9531 3000 
+
+40910 *2779 *33600 *48367 5392 211355 
+
+8626 
+
+763254 734500 4891 905580 #793243 804330 #779348 18609 #4714 1278017 
+
+1244370 
+
+13187 
+
+INTEREST ON GOVT. OBLIGATIONS: 
+
+35 
+
+STATE AND LOCAL.. 
+
+4878 #64 #96 *1001 *1060 *1956 701 
+
+NONQUALIFYING INTEREST & DIVIDENDS 
+
+35 
+
+FORMS 1120S. 
+
+13923 #34 37 
+
+RENTS.. 
+
+37384 *2015 *1014 *2845 *1330 *2642 *2912 #2766 2634 *1771 1408 53 1356 5963 13403 *2153 5298 227 1481 38 
+
+ROYALTIES. 
+
+9389 #422 #154 *3360 #38 #5160 65 189 39 40 41 
+
+NET S-T CAP GAIN LESS NET L-T LOSS NET L-T CAP GAIN LESS NET S-T LOSS NET GAIN, NONCAPITAL ASSETS. 
+
+3814 *478 *880 *1882 *125 *449 108263 41503 #2940 #615 *5210 #5115 42 43 44 
+
+DIVIDENDS, DOMESTIC CORPORATIONS.. 
+
+DIVIDENDS, FOREIGN CORPORATIONS... 
+
+OTHER RECEIPTS.. 
+
+12202 *12525 *6453 *749 *1424 *8104 47861 *2283 21965 672 5277 4881 *567 1616 *328 13404 *2869 4799 154 1596 
+
+1631 *207 1698 7013 42 42 247644 
+
+45 TOTAL DEDUCTIONS. 
+
+16358523 46 
+
+COST OF SALES AND OPERATIONS. 
+
+10926419 47 
+
+COMPENSATION OF OFFICERS. 
+
+549038 48 REPAIRS.. 230920 *536 #3296 *18790 11853 90462 1783145 *34898 797223 205663 40542 1421834 14324 16659 36091 83442 14417 1653120 2060453 2124202 4917281 947800 1311583 802299 909890 #786842 39906 #8000 4161 
+
+1230829 
+
+3759663 578592 618,996 *591900 863929 
+
+68926 80478 67982 92736 9479 8959 *3591 10687 
+
+38413 39637 34405 40462 10144 6026 #7782 10212 
+
+49 
+
+BAD DEBTS. 
+
+50128 *67 *5031 *8788 . *926 4512 16117 *919 9893 *1450 2424 
+
+50 
+
+RENT PAID ON BUSINESS PROPERTY. 
+
+193688 *537 45135 31794 35291 21805 28914 5682 11697 #2731 10100 
+
+51 
+
+TAXES PAID.. 
+
+320964 1977 51772 41238 42446 41432 73837 14403 14093 #29060 20706 
+
+52 
+
+INTEREST PAID. 
+
+436852 9162 · 30462 38464 50425 43566 124788 39050 53911 *13301 33723 
+
+53 
+
+CONTRIBUTIONS OR GIFTS. 
+
+2924 27 *100 #266 211 418 54 
+
+AMORTIZATION.. 
+
+2584 #46 #248 #731 314 #348 1185 485 *47 *267 184 69 68 11 419 65 55 
+
+DEPRECIATION. 
+
+637915 #5604 74099 90188 104649 81476 153627 31632 31769 *15430 49441 
+
+56 
+
+DEPLETION. 
+
+8191 #94 
+
+#1172 *7 #484 3964 2470 57 ADVERTISING. 93807 *212 12794 59 
+
+58 PENSION, PROF SH, STOCK, ANNUITY.. 
+
+EMPLOYEE BENEFIT PROGRAMS. 
+
+57712 *147 55584 #134 60 61 
+
+NET LOSS, NONCAPITAL ASSETS....... 
+
+OTHER DEDUCTIONS.. 
+
+10369 2781428 
+
+62 TOTAL RECEIPTS LESS TOTAL DEDUCTS.. 
+
+63 CONST TAXABLE INC FRM REL FRN CORPS. 
+
+64 NET INCOME (LESS DEFICIT), TOTAL... 
+
++5 NET INCOME, TOTAL.. 
+
+-79135 33725 -23036 *10350 *12135 *1225 496366 -81270 20580 *952 4293 2693 3686 #2735 #1125 359553 368225 -27245 -22918 17164 6862 11758 2169 3305 #1852 17113 
+
+*3218 24936 #1807 2580 #2732 6697 
+
+6144 #433 389765 56268 13381 2365 5031 4141 5874 
+
+3162 *112 #1393 182 4 
+
+571058 8833 105625 141498 #118647 196965 
+
+-39045 --4310 *6400 47189 
+
+64 64 
+
+-83948 504349 
+
+66 DEFICIT, TOTAL. 
+
+588298 
+
+67 NET INCOME (LESS DEFICIT), F 11209 48 NET INCOME (LESS DEF), 1120-DISC... 
+
+-83669 -23100 #6466 29565 *-7696 -81270 -27245 46184 40219 127455 -28794 67464 -9286 -23014 55267 70101 93115 -11603 83944 28677 *16649 119891 7774 -39045 127664 *15075 54120 -6266 #6400 46552 37714 *9498 
+
+67485 
+
+43980 3097 20933 -24550 *-7761 -9029 -1598 
+
+69 STATUTORY SPECIAL DEDUCTIONS, TOTAL.. 
+
+84075 70 71 72 
+
+NET OPERATING LOSS DEDUCTION... 
+
+DIVIDENDS RECEIVED DEDUCTION.. 
+
+PUBLIC UTILITY DIV PAID DEDUCTION. 
+
+78024 *2152 #2152 8312 *5786 8312 #5149 9890 *9408 6051 #637 *482 *5215 *4956 *259 35820 *347 14144 607 1800 34433 1387 *172 *176 *12841 600 1303 1800 
+
+73 INCOME SUBJECT TO TAX, TOTAL. 
+
+323748 #4313 13927 18936 43175 58168 80453 #6328 23784 8890 
+
+74 NET L-T CAP GN TAXED AT ALT RATES. 
+
+30925 *6056 #14761 *231 *9279 146 65773 451 
+
+75 INC TAX (BEFORE CRED), TOTAL………. 
+
+102777 #1662 2088 3225 9208 13476 76 
+
+REG AND ALTERNATIVE TAX.... 
+
+100483 #1651 2069 2891 8931 12974 27064 26475 *2598 8987 4045 30424 
+
+#2586 8839 3996 30071 
+
+77 
+
+TAX FRM RECOMP PRIOR YR INV CR... 
+
+2003 *10 *20 #334 #277 376 568 #6 20 40 353 78 
+
+ADDITIONAL TAX FOR TAX PREFS.. 
+
+#291 #127 #21 #6 *128 
+
+79 FOREIGN TAX CREDIT... 
+
+71 
+
+71 
+
+80 U.S. POSSESSIONS TAX CREDIT. 
+
+80 INVESTMENT CREDIT... 
+
+22 JOBS CREDIT.. 
+
+22351 *1315 #971 2 *607 1014 5062 4609 3845 #404 1210 1509 3120 *316 *458 *292 *239 
+
+83 NONCONVENTIONAL SOURCE FUEL CREDIT.. 
+
+84 ALCOHOL FUEL CREDIT.. 
+
+85 RESEARCH ACTIVITIES CREDIT. 
+
+es EMPLOYEE STOCK OWNERSHIP CREDIT. 
+
+#194 247 #45 19 27 95 239 
+
+87 ORPHAN DRUG CREDIT.. 
+
+DISTRIBUTIONS TO STOCKHOLDERS: 
+
+28 CASH AND PROPERTY EXCEPT OWN STOCK 89 CORPORATION'S OWN STOCK.. 
+
+40843 #928 #4798 *108 *297 *7209 
+
+90 INVEST CREDIT: 
+
+COST OF PROPERTY.. 
+
+603838 *2244 82846 
+
+91 INVESTMENT QUALIFIED FOR CREDIT... 
+
+386227 *2094 28582 71791 33285 *1567 127264 60219 #2317 7994 *220 *3172 10 13258 
+
+*370 *450 70361 148868 58453 119397 12306 13442 21942 17887 *20053 *17742 46162 35126 
+
+---
+
+Page of 2 
+
+1963 CORPORATION SOURCE BOOK OF STATISTICS OF INCOME, INCOME TAX RETURNS OF ACTIVE CORPORATIONS HITH ACCOUNTING PERIODS ENDED JULY 1983 THROUGH JUNE 1984-- BALANCE SHEET, INCOME STATEMENT, AND SELECTED ITEMS, BY MINOR INDUSTRY, BY SIZE OF TOTAL ASSETS (ALL FIGURES ARE ESTIMATES BASED ON SAMPLE --MONEY AMOUNTS AND SIZE OF TOTAL ASSETS ARE IN THOUSANDS OF DOLLARS) AGRICULTURE, FORESTRY, AND FISHING: 
+
+AGRICULTURAL SERVICES (EXCEPT VETERINARIANS), FORESTRY, FISHING, HUNTING, AND TRAPPING MINOR INDUSTRY 0600 RETURNS WITH NET INCOME ZERO TOTAL ASSETS 
+
+1 
+
+UNDER 
+
+100 100 UNDER 250 250 
+
+1 NUMBER OF RETURNS. 
+
+11992 #27 
+
+2 TOTAL ASSETS.. 
+
+4604175 
+
+3 CASH.. 529422 6353 200027 37769 2377 UNDER 500 1366 
+
+SIZE OF TOTAL ASSETS 
+
+500 UNDER 1,000
+
+UNDER 
+
+1,000 5,000 5,000
+
+UNDER 10,000 10,000
+
+UNDER 25,000
+
+UNDER 50,000 
+
+25,000 50,000
+
+UNDER 100,000 100,000
+
+UNDER 250,000 250,000
+
+OR MORE 
+
+1074 710 386580 458570 753369 1354626 41284 71635 123904 177380 
+
+NOTES AND ACCOUNTS RECEIVABLE. 
+
+947884 20699 47257 52196 125827 337282 #40 #263824 *18932 *104415 
+
+LESS: ALLOHANCE FOR BAD DEBTS.. 
+
+16614 
+
+INVENTORIES.. 
+
+609540 *76 #17229 39604 #97 #15441 #3531 135075 8117 189630 #302 *35514 35 527407 33010 111518 2766 81116 #6 *195938 5244 *50346 463834 20264 
+
+1 98345 
+
+633 *40756 1092 55176 
+
+78 
+
+INVESTMENTS IN GOVT. OBLIGATIONS: 
+
+TOTAL.. 
+
+41335 
+
+OTHER CURRENT ASSETS.. 
+
+146495 #43 6048 
+
+9 LOANS TO STOCKHOLDERS.. 
+
+122157 *15927 *455 22328 *22530 *16953 1275 15601 21040 27351 *9034 20130 20491 29450 23271 *4493 #5863 10 
+
+MORTGAGE AND REAL ESTATE LOANS. 
+
+25153 *425 #5644 #1818 *3986 *3215 *9883 94 *1949 133 81 22516 23015 
+
+101 
+
+11 
+
+OTHER INVESTMENTS... 
+
+391488 *293 #40370 27070 27172 114980 *8575 66980 8373 97674 
+
+12 
+
+DEPRECIABLE ASSETS. 
+
+3029416 245230 327552 466053 506849 735357 *111093 196898 *147900 292485 
+
+13 
+
+LESS: ACCUMULATED DEPRECIATION. 
+
+1688960 155708 193142 270526 14
+
+DEPLETABLE ASSETS. 
+
+#1363 
+
+15 
+
+LESS: ACCUMULATED DEPLETION………. 
+
+#1138 *337 *212 268182 #60 416966 *68359 83385 #68834 163859 
+
+16 
+
+LAND.. 
+
+296361 *4772 #25457 23102 46909 17 
+
+INTANGIBLE ASSETS (AMORTIZABLE)... 
+
+16678 #780 *295 10284 #611 18 19
+
+LESS: ACCUMULATED AMORTIZATION. 
+
+OTHER ASSETS. 
+
+8956 *628 *185 6880 *250 162550 *7224 7133 
+
+20 TOTAL LIABILITIES. 
+
+4604175 200027 386580 32257 458570 21 
+
+ACCOUNTS PAYABLE 
+
+576440 29680 59219 24139 22 
+
+MORT, NOTES, AND BONDS UNDER 1 YR. 
+
+600975 23803 46728 38430 8435 753369 56284 123797 854 854 105465 1692 356 46719 1354626 219104 198381 111 71 #31397 *19 39904 #8683 10672 
+
+#2694 303 *5 #541 111 *5802 *263824 *64647 *43212 44789 *1845 8345 
+
+527407 *195938 463834 吳靜 ​75448 *23228 24691 
+
+71386 *34994 20244 
+
+23 
+
+OTHER CURRENT LIABILITIES. 
+
+368445 15194 25930 14846 36472 131087 24 
+
+LOANS FROM STOCKHOLDERS.. 
+
+217413 43892 *37166 *33247 46879 53261 25 
+
+MORT, NOTES, BONDS, 1 YR OR MORE.. 
+
+755630 52042 85928 83920 89246 152724 26 
+
+OTHER LIABILITIES. 
+
+212995 *4817 *8627 21183 15301 74557 *28482 *2634 *31539 *4334 30648 334 *15238 70549 
+
+151432 31517 *40127 *13549 68671 
+
+39109 
+
+27 
+
+CAPITAL STOCK.. 
+
+352107 37913 64461 43104 47340 82673 *4329 62490 *1914 7883 28
+
+PAID-IN OR CAPITAL SURPLUS... 
+
+189539 #6684 *2511 *7964 52861 40752 *801 29164 *16808 31995 29 
+
+RETAINED EARNINGS, APPROPRIATED... 
+
+76540 *363 *19808 *35279 *11560 9531 30 
+
+RETAINED EARNINGS, UNAPPROPRIATED. 
+
+1362946 -622 64715 200224 273264 397507 *74538 91690 *55441 206189 
+
+31 
+
+LESS: COST OF TREASURY STOCK. 
+
+108853 *13377 #8706 
+
+32 TOTAL RECEIPTS.. 
+
+10769406 #44016 949216 889337 *8850 932416 1696813 *7882 33 
+
+BUSINESS RECEIPTS. 
+
+10379948 #36161 930400 34 
+
+INTEREST.. 
+
+74408 *432 #5487 859924 5607 910143 4605 1642532 12046 30698 3710103 3558729 24493 *2250 *26232 #543374 654384 *397476 #531973 580534 *392135 *2583 11020 #1623 5361 5497 
+
+952271 鲜​进 ​937418 
+
+6512 
+
+INTEREST ON GOVT. OBLIGATIONS: 
+
+35 
+
+STATE AND LOCAL.. 
+
+4322 *64 #96 *1001 *504 *1956 
+
+701
+
+NONQUALIFYING INTEREST & DIVIDENDS 
+
+36 
+
+FORM 1120 S... 
+
+8980 37 
+
+RENTS. 
+
+16966 *433 *907 *1466 *1104 *1275 *2631 *640 *1485 *1038 *3965 4680 *1751 #27 64 3379 206 895 38 
+
+ROYALTIES.. 
+
+*9165 #422 *3349 *5155 65 173 39 
+
+NET S-T CAP GAIN LESS NET L-T LOSS 
+
+2901 *737 #1882 *282 40 41 42 
+
+NET L-T CAP GAIN LESS NET S-T LOSS NET GAIN, NONCAPITAL ASSETS.. 
+
+DIVIDENDS, DOMESTIC CORPORATIONS.. 
+
+87381 43 44 
+
+DIVIDENDS, FOREIGN CORPORATIONS.. 
+
+OTHER RECEIPTS.. 
+
+45 TOTAL DEDUCTIONS. 
+
+25741 5750 42 *2940 *1267 *615 *2429 *10871 *4006 *203 #1215 *749 #566 *6430 635 *328 42327 *1652 20602 638 451 12466 *1400 1953 126 896 
+
+*522 *5 1557 9 2014 
+
+42 153803 10260799 46 
+
+COST OF SALES AND OPERATIONS. 
+
+7003920 *2949 #7260 #37486 903032 *25430 5802 849118 331874 456392 455537 1093506 47 
+
+COMPENSATION OF OFFICERS. 
+
+406808 *253 146188 50882 57642 57295 12317 27654 60112 *3984 27881 862219 1671869 3581935 *528299 614714 2891446 #410538 477219 71443 #6679 *2674 3170 
+
+*387978 884150 
+
+*247330 614648 
+
+5509 *3139 7777 
+
+48 REPAIRS.. 139216 #346 17901 18550 25669 24612 25415 *7352 2930 7419 9022 
+
+49 
+
+BAD DEBTS. 
+
+26398 *67 *4791 *1048 *668 3429 10121 *576 2491 939 2268 
+
+50 
+
+RENT PAID ON BUSINESS PROPERTY. 
+
+108065 #460 20918 18630 17471 15918 17505 #2772 2784 2559 9049 
+
+51 
+
+TAXES PAID.... 
+
+212069 *554 28812 27696 26531 31851 44747 #10564 7796 *18332 15186 
+
+52 
+
+INTEREST PAID.. 
+
+160142 #1861 . 10211 13574 14556 20766 44435 *12510 25619 *8613 7997 
+
+53 
+
+CONTRIBUTIONS OR GIFTS.. 
+
+54 
+
+AMORTIZATION. 
+
+2705 965 27 *80 #266 211 418 986 -0 *77 #44 #281 *283 55 
+
+DEPRECIATION.. 
+
+310589 *1423 26024 36044 58576 51690 #244 69788 *47 *1 *8639 184 *28 68 419 
+
+13718 56 
+
+DEPLETION... 
+
+*1368 #94 *803 #461 *13848 10 30837. 57 ADVERTISING. 67221 #76 59 
+
+58 PENSION, PROF SH, STOCK, ANNUITY. 
+
+EMPLOYEE BENEFIT PROGRAMS.. 
+
+49625 #93 7469 *8433 13440 10613 5430 8464 *653 2712 *1529 16835 
+
+*860 *3987 #3218 21201 *1721 1830 *2710 42091 *134 *12119 *1266 *2926 4930 6324 *1602 2955 60 61 
+
+NET LOSS, NONCAPITAL ASSETS. 
+
+OTHER DEDUCTIONS... 
+
+4473 1725144 #6669 
+
+62 TOTAL RECEIPTS LESS TOTAL DEDUCTS... 
+
+63 CONST TAXABLE INC FRM REL FRN CORPS. 
+
+508607 *6530 #464 287671 46184 *2735 207691 40219 #357 187193 70197 *232 #617 #61 298290 368394 #64587 84945 128168 *15075 3 68475 39670 4114 5 #77362 *9498 5573 5721 
+
+158810 
+
+68122 
+
+64 64 
+
+64 NET INCOME, TOTAL.. 
+
+504349 *6466 65 
+
+NET INCOME, FORMS 1120, F, L, M... 
+
+406019 #6466 66
+
+NET INCOME, FORM 11209.. 
+
+98331 46184 22240 24722 23945 *15497 40219 70101 53065 *17036 83944 127664 *15075 63384 115325 *6503 37332 *20560 *12339 #8572 37714 *9498 67485 
+
+*9498 67485 
+
+382 67 
+
+NET INCOME, FORM 1120-DISC.. 
+
+68 STATUTORY SPECIAL DEDUCTIONS, TOTAL.. 
+
+82751 70 
+
+69 NET OPERATING LOSS DEDUCTION.. 
+
+DIVIDENDS RECEIVED DEDUCTION. 
+
+#2152 78024 *2152 4727 8312 8312 *5786 *5149 *637 9890 *9408 #481 *5215 34877 *4956 34433 *259 #444 #175 *172 #4 14024 *12841 1183 607 600 1712 1712 71 
+
+PUBLIC UTILITY DIY PAID DEDUCTION. 
+
+72 INCOME SUBJECT TO TAX, TOTAL.. 
+
+323748 #4313 13927 18936 43175 
+
+73 NET L-T CAP GN TAXED AT ALT RATES. 
+
+30925 58168 80453 *6056 *14761 #6328 *231 23784 8890 65773 
+
+*9279 146 451 
+
+74 INC TAX (BEFORE CRED), TOTAL... 
+
+102232 75 
+
+REG AND ALTERNATIVE TAX. 
+
+100483 #1662 *1651 2069 3225 9040 13413 27032 *2592 8985 4045 30171 
+
+2069 2891 8931 12974 26475 #2586 8839 3996 30071 
+
+76 
+
+TAX FRM RECOMP PRIOR YR INV CR.. 
+
+1464 #10 *334 *109 *312 535 #6 77 
+
+ADDITIONAL TAX FOR TAX PREFS.. 
+
+*285 #127 *21 18 *128 40 100 
+
+78 FOREIGN TAX CREDIT... 
+
+71 71 
+
+79 U.S. POSSESSIONS TAX CREDIT. 
+
+80 INVESTMENT CREDIT.. 
+
+81 JOBS CREDIT.. 
+
+22351 *1315 #971 2 #607 1014 5062 4609 3845 #404 1210 1509 3120 
+
+*316 #458 #292 *239 
+
+82 NONCONVENTIONAL SOURCE FUEL CREDIT. 
+
+83 ALCOHOL FUEL CREDIT.. 
+
+84 RESEARCH ACTIVITIES CREDIT. 
+
+*194 *45 
+
+e5 EMPLOYEE STOCK OWNERSHIP CREDIT.. 
+
+247 19 27 95 239 
+
+86 ORPHAN DRUG CREDIT. 
+
+DISTRIBUTIONS TO STOCKHOLDERS: 
+
+87 CASH AND PROPERTY EXCEPT OWN STOCK e8 CORPORATION'S OWN STOCK... 
+
+29358 *297 #7209 *2305 7261 *3150 10 9126 
+
+#194 
+
+89 INVEST CREDIT: 
+
+COST OF PROPERTY... 
+
+90 INVESTMENT QUALIFIED FOR CREDIT. 
+
+*194 353754 *2222 47973 27444 58121 57510 78077 257543 #2094 15918 11193 48058 48283 67969 
+
+*7304 #3896 14267 *19868 11918 *17554 40967 30660 
+
+J40 * Estimate should be used with caution because of the small number of sample returns on which it is based. ** In order to avoid disclosure of information for specific corporations, these data have been combined with data in a lower asset size class.
+
+SOURCE BOOK OF STATISTICS OF INCOME 
+
+Page 1 of 1 
+
+Format used 1962 only
+
+ACTIVE CORPORATION INCOME TAX RETURNS, JULY 1962-JUNE 1963 INCOME STATEMENT SELECTED BALANCE SHEET AND INVESTMENT CREDIT ITEMS BY INDUSTRIAL GROUPS MINOR INDUSTRY 610 
+
+Wholesale and retail trade not allocable 
+
+ITEM (SIZE OF MONEY FIGURES IN THOUSANDS OF DOLLARS) RETURNS WITH AND WITHOUT NET INCOME NUMBER OF RETURNS RETURNS WITH NET INCOME AMOUNT NUMBER OF RETURNS AMOUNT 1 NUMBER OF RETURNS. TOTAL. 
+
+2 FORM 1120-S... 
+
+3 TOTAL COMPILED RECEIPTS. 
+
+11293 1771 7392 1332 
+
+BUSINESS RECEIPTS. 
+
+10727 10579 6848057 6700917 7392 7308 5729039 5608718 
+
+INTEREST ON GOVT. OBLIGATIONS I WHOLLY TAXABLE. • 
+
+• • 124 2057 105 2012 
+
+SUBJECT TO SURTAX ONLY... 
+
+WHOLLY TAX-EXEMPT. 
+
+.... 94 449 67 385 
+
+OTHER INTEREST. 
+
+• • 3250 12993 2577 11202 
+
+RENTS. 
+
+2150 18048 1690 12968 10 
+
+ROYALTIES. 
+
+(3) (3) (3) (3) 11 12 13 
+
+NET S-T CAP GAIN LESS L-T LOSS. 
+
+NET L-T CAP GAIN LESS S-T LOSS. 
+
+NET GAIN NONCAPITAL ASSETS. 
+
+56 978 (3) 
+
+1509 12631 1265 11207 199 896 118 840 14 
+
+DIVIDENDS DOMESTIC CORP. 
+
+824 3213 728 3040 15 
+
+DIVIDENDS FOREIGN CORP 
+
+• • · 18 19 
+
+16 OTHER RECEIPTS. . 
+
+17 TOTAL COMPILED DEDUCTIONS.. 
+
+COST OF SALES AND OPERATIONS. 
+
+COMPENSATION OF OFFICERS. 
+
+• • • 7834 239 95252 3 238 5693 77073 11261 10388 6735449 7371 5566213 5173876 7215 4324813 7957 158001 5888 131761 20 REPAIRS. • · 7121 25832 5197 20440 21 BAD DEBTS • • 5594 20806 4260 15531 ~ ~ ~ ~ ~ ~ ~ 56769 22 23 
+
+RENT PAID ON BUSINESS PROPERTY. 
+
+TAXES PAID.. 
+
+8472 92834 6055 73160 10922 96767 7287 76760 24 
+
+INTEREST PAID 
+
+7430 35149 5263 26826 25 
+
+CONTRIBUTIONS OR GIFTS.... 
+
+4198 1552 3969 1542 26 
+
+AMORTIZATION. 
+
+• • • • ..... 1826 864 1309 27 
+
+DEPRECIATION. . • 
+
+9434 77623 6771 28 
+
+DEPLETION. ......... 
+
+140 846 
+
+541 62197 
+
+29 ADVERTISING. • 
+
+9107 65122 6494 51169 30 31 32 33 
+
+AMTS CONTR UNDER PENSION PLANS. 
+
+AMTS CONTR OTHER BENEFIT PLANS. 
+
+NET LOSS NONCAPITAL ASSETS. 
+
+OTHER DEDUCTIONS...... 
+
+895 10643 844 10133 1674 6156 1377 5164 604 1565 389 383 10853 967813 7349 765246 
+
+34 COMPL NET PR OR LOSS (3 LESS 17). 
+
+35 NET INC OR DEF TOT. (34 LESS 7). 
+
+FORMS 1120-L -M₁ -FI (1) 
+
+11158 112608 7392 162826 11158 112159 7392 162441 36 37 38 39 40 41 
+
+NET INC OR DEF (35 LESS 46).. 
+
+STATUTORY SPECIAL DEDS. TOT. (2) NET OPERATING LOSS DEDUCTION. 
+
+DIVIDENDS RECEIVED DEDUCTION. 
+
+WESTERN HEMISPHERE TRADE DED. 
+
+INCOME SUBJECT TO TAX.. 
+
+9386 98558 6060 145543 1688 11956 1607 11844 1044 9286 1044 9286 677 2670 596 2558 
+
+5256 133646 5256 133646 42 
+
+INCOME TAX.... 
+
+5256 55316 5256 55316 43 44 
+
+LESS INVESTMENT CREDIT. 
+
+TAX AFTER INVESTMENT CREDIT. 
+
+45 COMPILED NET PROFIT LESS INCOME 
+
+2519 1923 2519 1923 4896 53393 4896 53393 
+
+TAX 1120-L-M-F (34 LESS 44) (1) 46 1120-S INC OR DEF (35 LESS 36).. 
+
+DISTRIBUTIONS TO STOCKHOLDERS 1 
+
+11158 59215 7392 109433 1771 13601 1332 16898 
+
+47 CASH & ASSETS EXCEPT OWN STOCK. 
+
+48 CORPORATION'S OWN STOCK.... 
+
+1672 24660 1510 23887 74 6569 39 4514 
+
+49 TOTAL ASSETS. 
+
+10757 2996892 7241 2443568 
+
+50 INVENTORIES.......... 
+
+51 DEPRECIABLE ASSETS.. • • • 
+
+52 LESSI ACCUMULATED DEPRECIATION. 
+
+53 COST PROP. USED FOR INVEST. CR. 
+
+54 INVESTMENT QUALIFIED FOR CREDIT 55 TENTATIVE INVESTMENT CREDIT.. 
+
+56 UNUSED INVESTMENT CREDIT. • • • 
+
+57 FOREIGN TAX CREDIT. 
+
+9533 825481 6773 664393 9376 938813 6703 746149 9139 472389 6566 374181 3608 50804 3110 44326 3156 36365 2760 32321 3157 2377 2760 685 471 289 3 98 2122 216 98 
+
+U. S. TREASURY DEPARTMENT - INTERNAL REVENUE SERVICE 
+
+1222 A
+
+Corporation Returns/1977 • Industrial Classification 
+
+01 Agricultural production-crops 
+
+COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977 Standard Industrial Classification, 1972 
+
+(1) 
+
+AGRICULTURE, FORESTRY, AND FISHING 
+
+02 Agricultural production-livestock
+
+(2) 
+
+AGRICULTURE, FORESTRY, AND FISHING 
+
+01 Agricultural production-crops 
+
+02 Agricultural production-livestock 
+
+07 Agricultural services 
+
+08 Forestry 
+
+09 Fishing, hunting, and trapping
+
+(3) 
+
+AGRICULTURE, FORESTRY, AND FISHING 
+
+0400 Agricultural production. 
+
+0600 Agricultural services (except veterinarians), forestry, fishing, hunting and trapping. 
+
+MINING 
+
+Metal mining. 
+
+1010 Iron ores. 
+
+1070 Copper, lead and zinc, gold and silver ores.
+
+MINING 
+
+10 Metal mining 
+
+07 Agricultural services 
+
+08 Forestry 
+
+09 Fishing, hunting, and trapping
+
+MINING 
+
+10 Metal mining 101 
+
+Iron ores 
+
+102 Copper ores 
+
+103 Lead and zinc ores 104 
+
+Gold and silver ores. 
+
+105 Bauxite and other aluminum ores 
+
+106 Ferroalloy ores, except vanadium 
+
+108 Metal mining services 
+
+109 Miscellaneous metal ores 
+
+11 Anthracite mining. 
+
+12 Bituminous coal and lignite mining 
+
+13 Oil and gas extraction 
+
+131 Crude petroleum and natural gas 
+
+132 Natural gas liquids 
+
+138 Oil and gas field services 
+
+14 Mining and quarrying of nonmetallic minerals, except fuels 141 
+
+Dimension stone 142 Crushed and broken stone, including riprap 
+
+144 Sand and gravel 145 Clay, ceramic, and refractory minerals 
+
+11 Coal mining. 
+
+13 Oil and gas extraction 
+
+133 Crude petroleum (no refining) 
+
+138 Oil and gas field services 
+
+14 Nonmetallic minerals, except fuels 
+
+1098 Other metal mining. 
+
+1150 Coal mining. 
+
+Oil and gas extraction. 
+
+1330 Crude petroleum, natural gas, and natural gas liquids (excludes extraction in integrated petroleum refining and extraction in 2910, below). 
+
+1380 Oil and gas field services. 
+
+Nonmetallic minerals (except fuels). 
+
+1430 Dimension, crushed, and broken stone; sand and gravel. 
+
+147 Chemical and fertilizer mineral mining 
+
+148 Nonmetallic minerals (except fuels) services 149 Miscellaneous nonmetallic minerals, except fuels 
+
+CONSTRUCTION 
+
+15 Building construction-general contractors and operative builders. 
+
+152 General building contractors-residential buildings. 
+
+154 General building contractors-nonresidential buildings. 
+
+153 Operative builders. 
+
+16 Construction other than building construction-general contractors. 
+
+17 Construction-special trade contractors 
+
+171 Plumbing, heating (except electric) and air conditioning. 
+
+173 Electrical work 
+
+172 Painting, paper hanging, and decorating 174 Masonry, stonework, tile setting, and plastering 
+
+175 Carpentering and flooring 
+
+176 Roofing and sheet metal work 
+
+177 Concrete work 
+
+178 Water well drilling. 
+
+179 Miscellaneous special trade contractors 
+
+1498 Other nonmetallic minerals, except fuels.
+
+CONSTRUCTION 
+
+15 General building contractors 
+
+152 Residential building construction 
+
+154 Nonresidential building construction 
+
+153 Operative builders 
+
+16 Heavy construction contractors 
+
+17 Special trade contractors 
+
+171 Plumbing, heating, air conditioning 
+
+173 Electrical work 
+
+172 Painting, paper hanging, decorating 
+
+174 Masonry, stonework, and plastering 
+
+175 Carpentering and flooring. 
+
+176 Roofing and sheet metal work 
+
+177 Concrete work 179 Special trade contractors, not elsewhere classified 
+
+CONSTRUCTION 
+
+General building contractors and operative builders. 
+
+1510 General building contractors. 
+
+1531 Operative builders. 
+
+1600 Heavy construction contractors.
+
+Special trade contractors. 
+
+1711 Plumbing, heating, and air conditioning. 
+
+1731 Electrical work. 
+
+1798 Other special trade contractors and contractors not allocable.
+
+Corporation Returns/1977 • Industrial Classification COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972 
+
+(1) 
+
+(2) 
+
+(3) 
+
+MANUFACTURING 
+
+20 Food and kindred products 
+
+201 Meat products 
+
+202 Dairy products 
+
+203 Canned and preserved fruits and vegetables 
+
+204 Grain mill products 
+
+205 Bakery products 206 Sugar and confectionery products 
+
+208 Beverages 
+
+2082 Malt beverages 2083 Malt 
+
+2084 Wines, brandy, and brandy spirits 
+
+2085 Distilled, rectified, and blended liquors 
+
+2086 Bottled and canned soft drinks and carbonated waters. 
+
+2087 Flavoring extracts and flavoring sirups, not elsewhere classified. 
+
+207 Fats and oils 209 Miscellaneous food preparations and kindred products. 
+
+21 Tobacco manufactures 
+
+22 Textile mill products 221 Broad woven fabric mills, cotton 222 Broad woven fabric mills, man-made fiber and silk 223 Broad woven fabric mills, wool (including dyeing and finishing). 
+
+226 Dyeing and finishing textiles, except wool fabric and knit goods. 
+
+225 Knitting mills 
+
+227 Floor covering mills 
+
+228 Yarn and thread mills 
+
+224 Narrow fabrics and other smallwares mills: cotton, wool, silk, and man-made fiber. 
+
+229 Miscellaneous textile goods 
+
+23 Apparel and other finished products made from fabrics and similar materials. 
+
+231 Men's, youths', and boys' suits, coats, and overcoats 
+
+232 Men's, youths', and boys' furnishings, work clothing, and allied garments. 
+
+233 Women's, misses', and juniors' outerwear 
+
+234 Women's, misses', children's, and infants' undergarments. 
+
+236 Girls', children's, and infants' outerwear 
+
+235 Hats, caps, and millinery 
+
+237 Fur goods 
+
+238 Miscellaneous apparel and accessories 
+
+239 Miscellaneous fabricated textile products 
+
+24 Lumber and wood products, except furniture 
+
+241 Logging camps and logging contractors 
+
+242 Sawmills and planing mills 
+
+243 Millwork, veneer, plywood, and structural wood members 
+
+245 Wood buildings and mobile homes 
+
+244 Wood containers 
+
+249 Miscellaneous wood products MANUFACTURING 
+
+20 Food and kindred products 
+
+201 Meat products 
+
+202 Dairy products 
+
+203 Preserved fruits and vegetables 
+
+204 Grain mill products 
+
+205 Bakery products 206 Sugar and confectionery products 
+
+208 Beverages 
+
+2081 Alcoholic beverages.
+
+MANUFACTURING 
+
+Food and kindred products. 
+
+2010 Meat products. 
+
+2020 Dairy products. 
+
+2030 Preserved fruits and vegetables. 
+
+2040 Grain mill products. 
+
+2050 Bakery products. 
+
+2060 Sugar and confectionery products. 
+
+2081 Malt liquors and malt. 
+
+2088 Alcoholic beverages, except malt liquors and malt. 
+
+2088 Bottled soft drinks and flavorings 
+
+207 Fats and oils 209 Miscellaneous food and kindred products 
+
+21 Tobacco manufactures 
+
+22 Textile mill products 221 Weaving and finishing mills 
+
+225 Knitting mills 
+
+227 Floor covering mills 
+
+228 Yarn and thread mills 229 Textile mill products, not elsewhere classified 
+
+23 Apparel and other textile products. 
+
+231 Men's and boys' suits and coats 
+
+232 Men's and boys' furnishings 
+
+233 Women's and misses' outerwear 
+
+234 Women's and children's undergarments 
+
+236 Children's outerwear 
+
+238 Apparel and accessories, not elsewhere classified 
+
+239 Miscellaneous fabricated textile products 
+
+24 Lumber and wood products 
+
+241 Logging camps and logging contractors 
+
+242 Sawmills and planing mills 
+
+243 Millwork and plywood 245 Wood buildings and mobile homes 
+
+249 Wood products, not elsewhere classified 
+
+2089 Bottled soft drinks, and flavorings. 
+
+2096 Other food and kindred products. 
+
+2100 Tobacco manufactures. 
+
+Textile mill products. 
+
+2228 Weaving mills and textile finishing. 
+
+2250 Knitting mills. 
+
+2298 Other textile mill products. 
+
+Apparel and other textile products. 
+
+2315 Men's and boys' clothing. 
+
+2345 Women's and children's clothing. 
+
+2388 Other apparel and accessories. 
+
+2390 Miscellaneous fabricated textile products; textile products, not elsewhere classified. 
+
+Lumber and wood products. 
+
+2415 Logging, sawmills, and planing mills. 
+
+2430 Millwork, plywood, and related products. 
+
+2498 Other wood products, including wood buildings and mobile homes. 10
+
+Corporation Returns/1977⚫ Industrial Classification COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972 
+
+(1) 
+
+(2) 
+
+(3) 
+
+MANUFACTURING-Continued 
+
+25 Furniture and fixtures 251 
+
+Household furniture 
+
+252 Office furniture 253 Public building and related furniture 
+
+254 Partitions, shelving, lockers, and office and 259 store fixtures.
+
+Miscellaneous furniture and fixtures 
+
+26 Paper and allied products 
+
+261 Pulp mills 262 Paper mills, except building paperboard mills 263 Paperboard mills 266 Building paper and building board mills 264 Converted paper and paperboard products, except containers and boxes. 
+
+265 Paperboard containers and boxes 27 Printing, publishing, and allied industries Newspapers: publishing, publishing and printing 
+
+272 Periodicals: publishing, publishing and printing 271 
+
+273 Books. 
+
+277 Greeting card publishing 
+
+274 Miscellaneous publishing 
+
+275 Commercial printing 
+
+276 Manifold business forms 
+
+278 Blankbooks, looseleaf binders, and bookbinding and related work. 
+
+279 Service industries for the printing trade 
+
+28 Chemicals and allied products 281 Industrial inorganic chemicals 
+
+282 Plastics materials and synthetic resins, synthetic rubber, synthetic and other man-made fibers, except glass. 286 Industrial organic chemicals 283 Drugs 
+
+284 Soaps, detergents, and cleaning preparations, perfumes, cosmetics, and other toilet preparations. 
+
+285 Paints, varnishes, lacquers, enamels, and allied products. 
+
+287 Agricultural chemicals 
+
+289 Miscellaneous chemical products 
+
+29 Petroleum refining and related industries (includes integrated refining and extraction). 
+
+291 Petroleum refining 
+
+295 Paving and roofing materials 299 Miscellaneous products of petroleum and coal 
+
+30 Rubber and miscellaneous plastics products 301 
+
+Tires and inner tubes .... 
+
+302 Rubber and plastics footwear 303 
+
+Reclaimed rubber 
+
+304 Rubber and plastics hose and belting 306 Fabricated rubber products, not elsewhere classified. 
+
+307 Miscellaneous plastics products MANUFACTURING-Continued 
+
+25 Furniture and fixtures 251 
+
+Household furniture 
+
+259 Furniture and fixtures, not elsewhere classified. 
+
+26 Paper and allied products 262 Pulp, paper, and board mills 264 Miscellaneous converted paper products 
+
+265 Paperboard containers and boxes 
+
+27 Printing and publishing 271 272 
+
+Newspapers 
+
+Periodicals 273 Books 274 Greeting cards and publishing, not elsewhere classified. 
+
+275 Commercial printing and business forms 
+
+278 Bookbinding and printing services 28 Chemicals and allied products 281 
+
+Industrial chemicals and synthetics 
+
+283 Drugs 
+
+284 Soap, cleaners, and toilet goods 
+
+285 Paints and allied products 
+
+287 Agricultural chemicals. 
+
+289 Miscellaneous chemical products 
+
+29 Petroleum and coal products 291 Petroleum refining (including integrated) 299 Petroleum and coal products, not elsewhere classified. 
+
+30 Rubber and miscellaneous plastics products 
+
+305 Rubber products 
+
+307 Miscellaneous plastics products 
+
+MANUFACTURING-Continued 
+
+2500 Furniture and fixtures. 
+
+Paper and allied products. 
+
+2625 Pulp, paper, and board mills. 
+
+2699 Other paper products. 
+
+Printing and publishing. 
+
+2710 Newspapers. 
+
+2720 Periodicals. 
+
+2735 Books, greeting cards, and miscellaneous publishing. 
+
+2799 Commercial and other printing and printing trade services. 
+
+Chemicals and allied products. 
+
+2815 Industrial chemicals, plastics materials and synthetics. 
+
+2830 Drugs. 
+
+2840 Soap, cleaners, and toilet goods. 
+
+2850 Paints and allied products. 
+
+2898 Agricultural and other chemical products.
+
+Petroleum (including integrated) and coal products. 
+
+2910 Petroleum refining (including those integrated with extraction). 
+
+2998 Petroleum and coal products, not elsewhere classified. 
+
+Rubber and miscellaneous plastics products. 
+
+3050 Rubber products; plastics footwear, hose and belting. 
+
+3070 Miscellaneous plastics products. 
+
+11
+
+Corporation Returns/1977⚫ Industrial Classification MANUFACTURING-Continued 
+
+Leather and leather products. 
+
+3140 Footwear, except rubber.
+
+COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972 
+
+(1) 
+
+(2) 
+
+(3) 
+
+MANUFACTURING-Continued 
+
+31 Leather and leather products
+
+MANUFACTURING-Continued 
+
+31 Leather and leather products 
+
+314 Footwear, except rubber 
+
+314 Footwear, except rubber 
+
+311 Leather tanning and finishing 
+
+313 Boot and shoe cut stock and findings 
+
+315 Leather gloves and mittens 
+
+316 Luggage 
+
+317 Handbags and other personal leather goods 319 Leather goods, not elsewhere classified 32 Stone, clay, glass, and concrete products 
+
+321 Flat glass 
+
+322 Glass and glassware, pressed or blown 
+
+323 Glass products, made of purchased glass 
+
+324 Cement, hydraulic 327 Concrete, gypsum, and plaster products 
+
+325 Structural clay products 
+
+326 Pottery and related products 
+
+328 Cut stone and stone products 
+
+329 Abrasive, asbestos, and miscellaneous nonmetallic mineral products. 
+
+33 Primary metal industries 331 
+
+Blast furnaces, steel works, and rolling and finishing mills. 
+
+332 Iron and steel foundries 339 Miscellaneous primary metal products 333 Primary smelting and refining of nonferrous metals 334 Secondary smelting and refining of nonferrous metals 335 Rolling, drawing, and extruding of nonferrous metals 
+
+336 Nonferrous foundries (castings) ..... 
+
+34 Fabricated metal products, except machinery and transportation equipment. 
+
+341 Metal cans and shipping containers 
+
+342 Cutlery, hand tools, and general hardware 
+
+345 Screw machine products, and bolts, nuts, screws, rivets, and washers. 
+
+343 Heating equipment, except electric and warm air; and plumbing fixtures. 
+
+344 Fabricated structural metal products 
+
+346 Metal forgings and stampings 
+
+347 Coating, engraving, and allied services 
+
+348 Ordnance and accessories, except vehicles and guided missiles. 
+
+349 Miscellaneous fabricated metal products 
+
+35 Machinery, except electrical 352 Farm and garden machinery and equipment. 
+
+353 Construction, mining, and materials handling machinery and equipment 354 Metalworking, machinery and equipment 
+
+355 Special industry machinery, except metalworking machinery 356 General industrial machinery and equipment 
+
+357 Office, computing, and accounting machines 
+
+358 Refrigeration and service industry machinery 
+
+351 Engines and turbines 
+
+359 Miscellaneous machinery, except electrical 
+
+319 Leather and leather products, not elsewhere classified. 
+
+3198 Leather and leather products, not elsewhere classified. 
+
+32 Stone, clay, and glass products 
+
+321 Glass products 324 [Included in 329 below] 327 Concrete, gypsum and plaster products 325 Structural clay products 
+
+329 Nonmetallic mineral products, not elsewhere classified. 
+
+33 Primary metal industries 331 
+
+Blast furnaces and steel mills 
+
+332 Iron and steel foundries 
+
+335 Nonferrous metals, except foundries 
+
+336 Nonferrous foundries 
+
+34 Fabricated metal products 
+
+341 Metal cans and shipping containers 
+
+342 Cutlery, hand tools, and hardware 
+
+345 Screw machine products, bolts, etc. 
+
+343 Plumbing and heating; except electric 
+
+344 Fabricated structural metal products 
+
+346 Metal forgings and stampings 
+
+347 Metal services, not elsewhere classified 
+
+348 Ordnance and accessories, not elsewhere classified. 
+
+349 Miscellaneous fabricated metal products 
+
+35 Machinery, except electrical 
+
+352 Farm and garden machinery 353 Construction and related machinery 
+
+354 Metalworking machinery 
+
+355 Special industry machinery. 
+
+356 General industrial machinery 
+
+357 Office and computing machines 
+
+358 Refrigeration and service machinery 
+
+351 Engines and turbines 
+
+359 Miscellaneous machinery, except electrical 
+
+Stone, clay, and glass products. 
+
+3225 Glass products. 
+
+3240 Cement, hydraulic. 
+
+3270 Concrete, gypsum, and plaster products. 
+
+3298 Other nonmetallic mineral products. 
+
+Primary metal industries. 
+
+3370 Ferrous metal industries; miscellaneous primary metal products. 
+
+3380 Nonferrous metal industries. 
+
+Fabricated metal products. 
+
+3410 Metal cans and shipping containers. 
+
+3428 Cutlery, hand tools, and hardware; screw machine products, bolts, and similar products. 
+
+3430 Plumbing and heating, except electric and warm air. 
+
+3440 Fabricated structural metal products. 
+
+3460 Metal forgings and stampings. 
+
+3470 Coating, engraving, and allied services. 
+
+3480 Ordnance and accessories, except vehicles and guided missiles. 
+
+3490 Miscellaneous fabricated metal products. 
+
+Machinery, except electrical. 
+
+3520 Farm machinery. 
+
+3530 Construction and related machinery. 
+
+3540 Metalworking machinery. 
+
+3550 Special industry machinery. 
+
+3560 General industrial machinery. 
+
+3570 Office, computing, and accounting machines. 
+
+3598 Engines and turbines, service industry machinery, and other machinery, except electrical. 12
+
+Corporation Returns/1977 • Industrial Classification COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972 
+
+(1) 
+
+(2) 
+
+(3) 
+
+MANUFACTURING-Continued 
+
+36 Electrical and electronic machinery, equipment and supplies. 
+
+363 Household appliances 365 Radio and television receiving equipment, except communication types. 
+
+366 Communication equipment 
+
+367 Electronic components and accessories 
+
+364 Electric lighting and wiring equipment 361 Electric transmission and distribution equipment 362 Electrical industrial apparatus 369 Miscellaneous electrical machinery, equipment, and supplies. 
+
+37 Transportation equipment 
+
+371 Motor vehicles and motor vehicle equipment 
+
+372 Aircraft and parts 376 Guided missiles and space vehicles and parts 
+
+373 Ship and boat building and repairing 
+
+374 Railroad equipment 
+
+375 Motorcycles, bicycles, and parts 379 Miscellaneous transportation equipment 38 Measuring, analyzing, and controlling instruments; photographic, medical, and optical goods; watches and clocks. 
+
+381 Engineering, laboratory, scientific, and research instruments and associated equipment. 
+
+382 Measuring and controlling instruments 
+
+387 Watches, clocks, clockwork operated devices, and parts. 
+
+383 Optical instruments and lenses 
+
+385 Ophthalmic goods 384 Surgical, medical, and dental instruments and supplies 386 Photographic equipment and supplies 
+
+39 Miscellaneous manufacturing industries 
+
+MANUFACTURING-Continued 
+
+36 Electrical and electronic equipment 
+
+363 Household appliances 366 Radio, TV, and communication equipment 
+
+367 Electronic components and accessories 
+
+364 Electric lighting and wiring equipment 369 Electrical machinery, not elsewhere classified 
+
+37 Transportation equipment 371 
+
+Motor vehicles and equipment 
+
+377 Aircraft, guided missiles and parts 
+
+373 Ship and boat building and repairing 379 Transportation equipment, not elsewhere classified. 
+
+38 Instruments and related products
+
+MANUFACTURING-Continued 
+
+Electrical and electronic equipment. 
+
+3630 Household appliances. 
+
+3665 Radio, television, and communication equipment. 
+
+3670 Electronic components and accessories. 
+
+3698 Other electrical equipment. 
+
+3710 Motor vehicles and equipment.
+
+Transportation equipment, except motor vehicles. 
+
+3725 Aircraft, guided missiles and parts. 
+
+3730 Ship and boat building and repairing. 
+
+3798 Other transportation equipment, except motor vehicles. 
+
+Instruments and related products. 
+
+381 Scientific and measuring instruments 
+
+387 Watches, clocks, and watchcases 383 Optical and ophthalmic goods 
+
+384 Medical instruments and supplies 386 Photographic equipment and supplies 
+
+39 Miscellaneous manufacturing industries 
+
+3815 Scientific instruments and measuring devices; watches and clocks. 
+
+3845 Optical, medical, and ophthalmic goods. 
+
+3860 Photographic equipment and supplies. 
+
+3998 Miscellaneous manufacturing and manufacturing not allocable. 
+
+TRANSPORTATION, COMMUNICATION, ELECTRIC, GAS, AND SANITARY SERVICES 
+
+40 Railroad transportation 41 Local and suburban transit and interurban highway passenger transportation. 
+
+42 Motor freight transportation and warehousing 
+
+44 Water transportation 
+
+45 Transportation by air 
+
+46 Pipe lines, except natural gas 47 Transportation services 48 Communication 481 Telephone communication (wire or radio) 482 Telegraph communication (wire or radio) 489 Communication services, not elsewhere classified 483 Radio and television broadcasting 
+
+399 Manufacturing industries, not elsewhere classified
+
+TRANSPORTATION AND PUBLIC UTILITIES 
+
+40 Railroad transportation 
+
+41 Local and interurban passenger transit 
+
+42 Trucking and warehousing 
+
+44 Water transportation 
+
+45 Transportation by air 
+
+46 Pipe lines, except natural gas 47 Transportation services 48 Communication 481 
+
+Telephone communication 
+
+482 Telegraph communication 489 Communication services, not elsewhere classified 483 Radio and television broadcasting 
+
+TRANSPORTATION AND PUBLIC UTILITIES Transportation. 
+
+4000 Railroad transportation. 
+
+4100 Local and interurban passenger transit. 
+
+4200 Trucking and warehousing. 
+
+4400 Water transportation. 
+
+4500 Transportation by air. 
+
+4600 Pipe lines, except natural gas. 
+
+4700 Transportation services, not elsewhere classified. Communication. 
+
+4825 Telephone, telegraph, and other communication services. 
+
+4830 Radio and television broadcasting. 13
+
+Corporation Returns/1977 Industrial Classification COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972 
+
+(1) 
+
+TRANSPORTATION, COMMUNICATION, ELECTRIC, GAS, AND SANITARY SERVICES-Continued 
+
+49 Electric, gas, and sanitary services 
+
+491 Electric services 
+
+492 Gas production and distribution 493 Combination electric and gas, and other utility services 
+
+494 Water supply ... 
+
+495 Sanitary services 
+
+496 Steam supply 
+
+497 Irrigation systems
+
+(2) 
+
+TRANSPORTATION AND PUBLIC UTILITIES-Continued 
+
+49 Electric, gas, and sanitary services 
+
+491 Electric services 
+
+492 Gas production and distribution 
+
+493 Combination utility services 
+
+499 Water, steam and sanitary service
+
+(3) 
+
+TRANSPORTATION AND PUBLIC UTILITIES-Continued 
+
+Electric, gas, and sanitary services. 
+
+4910 Electric services. 
+
+4920 Gas production and distribution. 
+
+4930 Combination utility services. 
+
+4990 Water supply and other sanitary services. 
+
+Wholesale trade 
+
+50 Wholesale trade-durable goods 
+
+514 Groceries and related products 
+
+508 Machinery, equipment, and supplies 
+
+501 Motor vehicles and automotive parts and supplies 
+
+503 Lumber and other construction materials 
+
+505 Metals and minerals, except petroleum 
+
+506 Electrical goods 
+
+507 Hardware, and plumbing and heating equipment and supplies 
+
+502 Furniture and home furnishings 
+
+504 Sporting, recreational, photographic, and hobby goods, toys and supplies. 
+
+509 Miscellaneous durable goods 
+
+51 Wholesale trade-nondurable goods 
+
+511 Paper and paper products 
+
+512 Drugs, drug proprietaries and druggists' sundries 
+
+516 Chemicals and allied products 513 Apparel, piece goods, and notions 
+
+515 Farm-product raw materials 
+
+517 Petroleum and petroleum products 
+
+518 Beer, wine and distilled alcoholic beverages 
+
+519 Miscellaneous nondurable goods Retail trade 
+
+52 Building materials, hardware, garden supply, and mobile home dealers. 
+
+521 Lumber and other building materials dealers 
+
+523 Paint, glass, and wallpaper stores 525 Hardware stores 526 Retail nurseries, lawn and garden supply stores 
+
+527 Mobile home dealers 
+
+53 General merchandise stores 
+
+54 Food stores 
+
+55 Automotive dealers and gasoline service stations 
+
+Motor vehicle dealers (new and used) 94551 
+
+552 Motor vehicle dealers (used only) 
+
+554 Gasoline service stations 
+
+553 Auto and home supply stores 
+
+555 Boat dealers 
+
+556 Recreational and utility trailer dealers 
+
+557 Motorcycle dealers 
+
+559 Automotive dealers, not elsewhere classified 
+
+Wholesale trade 
+
+50 Wholesale trade-durable goods 
+
+514 Groceries and related products 
+
+508 Machinery, equipment, and supplies 
+
+501 Motor vehicles and equipment 
+
+503 Lumber and construction materials 
+
+505 Metals and minerals, except petroleum 
+
+506 Electrical goods 
+
+507 Hardware; plumbing and heating 
+
+509 Durable goods, not elsewhere classified 
+
+51 Wholesale trade-nondurable goods 
+
+511 Paper and paper products 
+
+512 Drugs, proprietaries, and sundries 
+
+513 Apparel, piece goods, and notions 
+
+515 Farm-product raw materials 
+
+517 Petroleum and petroleum products 
+
+518 Beer, wine, and distilled beverages 
+
+519 Nondurable goods, not elsewhere classified (includes 516 Chemicals and allied products).
+
+Retail trade 
+
+52 Building materials and garden supplies 
+
+522 Building materials dealers 525 
+
+Hardware stores 
+
+526 Retail nurseries and garden stores 
+
+527 Mobile home dealers 
+
+53 General merchandise stores 
+
+54 Food stores 
+
+55 Automotive dealers and service stations 
+
+551 New and used car dealers 
+
+554 Gasoline service statons 
+
+553 Auto and home supply stores 
+
+559 Automotive dealers, not elsewhere classified 
+
+WHOLESALE AND RETAIL TRADE 
+
+Wholesale trade. 
+
+5140 Groceries and related products. 
+
+5008 Machinery, equipment, and supplies. 
+
+Miscellaneous wholesale trade. 
+
+5010 Motor vehicles and automotive equipment. 
+
+5030 Lumber and construction materials. 
+
+5050 Metals and minerals, except petroleum and scrap. 
+
+5060 Electrical goods. 
+
+5070 Hardware, plumbing, and heating equipment and supplies. 
+
+5020 Furniture and home furnishings. 
+
+5040 Sporting, recreational, photographic, and hobby goods, toys and supplies. 
+
+5098 Other durable goods. 
+
+5110 Paper and paper products. 
+
+5129 Drugs, drug proprietaries and druggists' sundries. 
+
+5160 Chemicals and allied products. 
+
+5130 Apparel, piece goods, and notions. 
+
+5150 Farm-product raw materials. 
+
+5170 Petroleum and petroleum products. 
+
+5180 Alcoholic beverages. 
+
+5190 Miscellaneous nondurable goods; wholesale trade not allocable. 
+
+Retail trade.
+
+Building materials, garden supplies, and mobile home dealers. 
+
+5220 Building materials dealers. 5251 Hardware stores. 
+
+5265 Garden supplies and mobile home dealers. 
+
+5300 General merchandise stores (excludes nonstore retailers; see 5995). 
+
+5410 Grocery stores. 
+
+5490 Other food stores. 
+
+Automotive dealers and service stations. 
+
+5515 Motor vehicle dealers. 
+
+5541 Gasoline service stations. 
+
+5598 Other automotive dealers (excludes mobile home dealers; see 5265). 14
+
+Corporation Returns/1977⚫ Industrial Classification COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972 
+
+(1) 
+
+(2) 
+
+Retail trade-Continued 
+
+56 Apparel and accessory stores 
+
+57 Furniture, home furnishings, and equipment stores 
+
+58 Eating and drinking places 
+
+59 Miscellaneous retail 
+
+591 Drug stores and proprietary stores 
+
+592 Liquor stores 
+
+.... 
+
+596 Nonstore retailers 594 Jewelry stores 
+
+598 Fuel and ice dealers 
+
+593 Used merchandise stores 594 Miscellaneous shopping goods stores (excludes 594 jewelry stores, above). 
+
+599 Retail stores, not elsewhere classified 
+
+FINANCE, INSURANCE, AND REAL ESTATE 
+
+60 Banking 
+
+603 Mutual savings banks 
+
+601 Federal Reserve Banks 
+
+602 Commercial and stock savings banks 
+
+604 Trust companies not engaged in deposit banking 
+
+605 Establishments perf, functions closely related to banking 
+
+61 Credit agencies other than banks 
+
+612 Savings and loans associations 
+
+614 Personal credit institutions 615 Business credit institutions 
+
+616 Mortgage bankers and brokers 611 
+
+Rediscount and financing institutions for credit agencies other than banks. 613 Agricultural credit institutions 
+
+62 Security and commodity brokers, dealers, exchanges, and services. 
+
+621 Security brokers, dealers, and flotation companies 
+
+622 Commodity contracts brokers and dealers 
+
+623 Security and commodity exchanges 
+
+628 Services allied with the exchange of securities or commodities. 
+
+63 Insurance 
+
+631 
+
+Life insurance 
+
+632 Accident and health insurance and medical service plans. 
+
+633 Fire, marine, and casualty insurance 
+
+635 Surety insurance 
+
+636 Title insurance 
+
+637 Pension, health, and welfare funds 639 641 
+
+Insurance carriers, not elsewhere classified 
+
+Insurance agents, brokers, and service 
+
+56 Apparel and accessory stores 
+
+57 Furniture and home furnishings stores 
+
+58 Eating and drinking places 
+
+59 Miscellaneous retail 
+
+591 Drug stores and proprietary stores 
+
+592 Liquor stores 
+
+.... 
+
+596 Nonstore retailers 597 Jewelry stores 
+
+598 Fuel and ice dealers 
+
+599 Retail stores, not elsewhere classified 
+
+FINANCE, INSURANCE, AND REAL ESTATE 60 Banking 
+
+603 Mutual savings banks 
+
+601 Federal Reserve Banks 
+
+602 Commercial and stock savings banks 
+
+609 Banking, not elsewhere classified 
+
+61 Credit agencies other than banks 
+
+612 Savings and loan associations 
+
+617 Personal and business credit agencies 
+
+616 Mortgage bankers and brokers 
+
+619 Credit agencies, not elsewhere classified 
+
+62 Security, commodity brokers and services 
+
+624 Brokers, dealers, and exchanges 
+
+628 Security and commodity services 
+
+63 Insurance carriers 631 
+
+Life insurance 
+
+632 Medical service and health insurance 
+
+633 Fire, marine and casualty insurance 639 [Included in 639, below] 
+
+Insurance carriers, not elsewhere classified. 
+
+64 Insurance agents, brokers and service 
+
+WHOLESALE AND RETAIL TRADE-Continued Retail trade-Continued 
+
+5600 Apparel and accessory stores. 
+
+5700 Furniture and home furnishings stores. 
+
+5800 Eating and drinking places.
+
+Miscellaneous retail stores. 
+
+5912 Drug stores and proprietary stores. 
+
+5921 Liquor stores. 
+
+5995 Other retail stores. 
+
+5997 Wholesale and retail trade not allocable. 
+
+FINANCE, INSURANCE, AND REAL ESTATE Banking. 
+
+6030 Mutual savings banks. 
+
+6060 Bank holding companies. 
+
+6090 Banks, except mutual savings banks and bank holding companies. 
+
+Credit agencies other than banks. 
+
+6120 Savings and loan associations. 
+
+6140 Personal credit institutions. 
+
+6150 Business credit institutions. 
+
+6199 Other credit agencies; finance not allocable. 
+
+Security, commodity brokers and services. 
+
+6210 Security brokers, dealers and flotation companies. 
+
+6299 Commodity contracts brokers and dealers; security and commodity exchanges; and allied services. 
+
+Insurance. 
+
+6355 Life insurance (as defined in Internal Revenue Code section 801. Excludes predominantly cancellable accident and health companies). 
+
+6356 Mutual insurance, except life or marine and certain fire or flood insurance companies (as defined in Internal 
+
+Revenue Code section 821. Includes predominantly cancellable mutual accident and health companies). 
+
+6359 Other insurance companies (as defined in Internal 
+
+Revenue Code section 831. Consists of mutual fire or flood insurance companies operating on basis of perpetual policies or premium deposits, mutual marine insurance companies, and other insurance companies except life or mutual). 
+
+6411 Insurance agents, brokers, and service. 15
+
+Corporation Returns/1977 • Industrial Classification 
+
+(3) 
+
+COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972   
+
+(1) (2) 
+
+FINANCE, INSURANCE, AND REAL ESTATE-Continued 
+
+65 Real estate 6512 Operators of nonresidential buildings 6513 Operators of apartment buildings 6514 Operators of dwellings other than apartment buildings. 
+
+6515 Operators of residential mobile home sites 6519 Lessors of real property, not elsewhere classified 
+
+6517 Lessors of railroad property 
+
+655 Subdividers and developers 
+
+653 Real estate agents and managers 
+
+654 Title abstract offices 
+
+661 Combinations of real estate, insurance, loans, law offices. 
+
+67 Holding and other investment offices 
+
+672 Investment offices
+
+FINANCE, INSURANCE, AND REAL ESTATE-Continued 
+
+65 Real estate 
+
+651 Real estate operators and lessors 6519 Real property lessors, not elsewhere classified 
+
+655 Subdividers and developers 
+
+653 Real estate agents and managers 
+
+654 Title abstract companies 
+
+... 
+
+66 Combined real estate, insurance, etc. 
+
+67 Holding and other investment companies 
+
+672 Investment companies 679 Holding companies and miscellaneous investing 
+
+72 Personal services 73 Business services 
+
+731 Advertising 
+
+732 Credit reporting and collection
+
+FINANCE, INSURANCE, AND REAL ESTATE-Continued 
+
+Real estate. 
+
+6511 Real estate operators (except developers) and lessors of buildings. 
+
+6516 Lessors of mining, oil, and similar property. 
+
+6518 Lessors of railroad property and of real property not elsewhere classified. 
+
+6550 Subdividers and developers (excludes operative builders in 1531, above). 
+
+6530 Condominium mgmt and coop housing associations. 
+
+6599 Other real estate. 
+
+Holding and other investment companies. 
+
+6742 Regulated investment companies (Internal Revenue 
+
+Code section 851). 
+
+6743 Real estate investment trusts (Internal Revenue 
+
+Code section 856). 
+
+6744 Small business investment companies (Small 
+
+Business Investment Act of 1958). 
+
+6749 Holding and other investment companies not elsewhere classified. 
+
+6749 Holding and other investment companies not elsewhere classified.
+
+SERVICES 
+
+7000 Hotels and other lodging places. 
+
+7200 Personal services. 
+
+Business services. 
+
+7310 Advertising. 
+
+671 Holding offices 
+
+673 Trusts 
+
+679 Miscellaneous investing
+
+SERVICES 
+
+70 Hotels, rooming houses, camps, and other lodging places 
+
+72 Personal services 73 Business services 
+
+731 Advertising 
+
+732 Consumer credit reporting agencies, mercantile reporting agencies, and adjustment and collection agencies. 
+
+733 Mailing, reproduction, commercial art and photography, and stenographic services. 
+
+734 Services to dwellings and other buildings 737 Computer and data processing services 
+
+735 News syndicates 736 Personnel supply services 739 Miscellaneous business services 
+
+75 Automotive repair, services, and garages 
+
+76 Miscellaneous repair services 
+
+781 Motion picture production and allied services 782 Motion picture distribution and allied services 783 Motion picture theaters 
+
+79 Amusement and recreation services, except motion pictures.
+
+SERVICES 
+
+70 Hotels and other lodging places 
+
+733 Mailing, reproduction, stenographic 
+
+734 Services to buildings 737 Computer and data processing services 
+
+739 Miscellaneous business services 
+
+75 Automotive repair, services, and garages 
+
+76 Miscellaneous repair services 
+
+784 Motion pictures, except theaters 783 Motion picture theaters 79 Amusement and recreation services 
+
+7389 Business services, except advertising. 
+
+Auto repair; miscellaneous repair services. 
+
+7500 Auto repair and services. 
+
+7600 Miscellaneous repair services. 
+
+Amusement and recreational services. 
+
+7812 Motion picture production, distribution, and services. 7830 Motion picture theaters. 
+
+7900 Amusement and recreation services, except motion pictures. 16
+
+Corporation Returns/1977 • Industrial Classification COMPARISON OF STANDARD INDUSTRIAL AND ENTERPRISE STANDARD INDUSTRIAL CLASSIFICATIONS WITH GROUPINGS USED FOR STATISTICS OF INCOME, 1977-Continued Standard Industrial Classification, 1972 SERVICES-Continued 
+
+80 Health services 
+
+801 Offices of physicians (1) 803 Offices of osteopathic physicians 
+
+802 Offices of dentists 
+
+804 Offices of other health practitioners 
+
+805 Nursing and personal care facilities 806 Hospitals 807 Medical and dental laboratories 
+
+808 Outpatient care facilities 809 Health and allied services, not elsewhere classified. 
+
+81 Legal services 
+
+83 Social services 84 Museums, art galleries, botanical and zoological gardens. 
+
+89 Miscellaneous services 
+
+ SERVICES-Continued 
+
+80 Health services (2) 
+
+801 Offices of physicians and osteopaths 
+
+802 Offices of dentists 
+
+804 Offices of health practitioners, not elsewhere classified. 
+
+805 Nursing and personal care facilities 
+
+806 Hospitals. 
+
+807 Medical and dental laboratories 809 Health and allied services, not elsewhere classified. 
+
+81 Legal services 82 Educational services 83 Social services 
+
+89 Miscellaneous services 
+
+ SERVICES-Continued 
+
+Other services. (3) 8015 Offices of physicians, including osteopathic physicians. 
+
+8021 Offices of dentists. 
+
+8040 Offices of other health practitioners. 
+
+8050 Nursing and personal care facilities. 
+
+8060 Hospitals. 
+
+8071 Medical laboratories. 
+
+8099 Other medical services. 
+
+8111 Legal services. 
+
+8200 Educational services. 
+
+8300 Social services. 
+
+8600 Membership organizations. 
+
+8911 Architectural and engineering services. 
+
+8930 Accounting, auditing and bookkeeping. 
+
+8980 Miscellaneous services (including veterinarians). 
+
+9000 NATURE OF BUSINESS NOT ALLOCABLE. 
+
+17
+
+Division industry code Major industry code Minor industry code 
+
+Industry description 
+
+10 01 0400 0600 20 220 02 1010 1070 1098 gs 03 1150 04 1330 1380 05 1430 1498 30 06 1510 1531 888 07 1600 08 1711 1731 1798 40 
+
+U.S. Total 
+
+Agricultural, forestry, and fishing 1/ 
+
+Agricultural production 
+
+Agricultural services (except veterinarians), forestry, fishing, hunting, and trapping Mining 
+
+Metal mining 
+
+Iron ores 
+
+Copper, lead and zinc, gold and silver ores 
+
+Other metal mining 
+
+Coal mining 1/ 
+
+Oil and gas extraction 
+
+Crude petroleum, natural gas, and natural gas liquids 
+
+Oil and gas field services 
+
+Nonmetallic minerals, except fuels 
+
+Dimension, crushed, and broken stone; sand and gravel 
+
+Other nonmetallic minerals, except fuels 
+
+Construction 
+
+General building contractors and operative builders 
+
+General building contractors
+
+Operative builders 
+
+Heavy construction contractors 1/
+
+Special trade contractors 
+
+Plumbing, heating, and air conditioning 
+
+Electrical work 
+
+Other special trade contractors and contractors not allocable Manufacturing 
+
+Food and kindred products 
+
+Meat products 
+
+Dairy products 
+
+Preserved fruits and vegetables 
+
+Grain mill products 
+
+Bakery products
+
+Sugar and confectionery products Malt liquors and malt 60 09 2010 2020 2030 2040 2050 2060 2081 2088 2089 ings 2096 Other food and kindred products Alcoholic beverages, except malt liquors and malt 
+
+Bottled soft drinks, and flavor- 19
+
+Textile mill products
+
+Weaving mills and textile finish.. ing 
+
+Division industry Major industry Minor industry code code code 
+
+Industry description 
+
+020 10 2100 
+
+Tobacco manufactures 1/ 11 2228 2250 2298 12 2315 2345 2388 2390 13 2415 2430 2498 14 2500 15 2625 2699 16 2710 2720 2735 2799 17 2815 2830 2840 2850 2898 18 2910 2998 19 3050 
+
+Knitting mills 
+
+Other textile mill products 
+
+Apparel and other textile products 
+
+Men's and boys' clothing 
+
+Women's and children's clothing 
+
+Other apparel and accessories
+
+Miscellaneous fabricated textile products; textile products not elsewhere classified 
+
+Lumber and wood products 
+
+Logging, sawmills, and planning mills 
+
+Millwork, plywood, and related products Other wood products, including wood buildings and mobile homes 
+
+Furniture and fixtures 1/
+
+Paper and allied products Pulp, paper, and board mills. 
+
+Other paper products 
+
+Printing and publishing
+
+Newspapers 
+
+Periodicals 
+
+Books, greeting cards, and miscellaneous publishing Commercial and other printing and printing trade services 
+
+Chemical and allied products
+
+Industrial chemicals, plastics materials and synthetics
+
+Drugs 
+
+Soap, cleaners, and toilet goods 
+
+Paints and allied products
+
+Agricultural and other chemical products Petroleum (including integrated) and coal products
+
+Petroleum refining (including) integrated) 
+
+Petroleum and coal products, not elsewhere classified 
+
+Rubber and miscellaneous plastics products 
+
+Rubber products; plastic footwear, hose and belting 20
+
+Division industry Major industry Minor industry code code code 3070 20 3140 3198 21 3225 3240 3270 3298 22 3370 3380 23 3410 3428 3430 3440 3460 3470 3480 3490 24 3520 3530 3540 3550 3560 3570 3598 25 3630 3665 3670 
+
+Industry description Miscellaneous plastics products 
+
+Leather and leather products 
+
+Footwear, except rubber 
+
+Leather and leather products, not elsewhere classified 
+
+Stone, clay, and glass products
+
+Glass products 
+
+Cement, hydraulic 
+
+Concrete, gypsum, and plaster products 
+
+Other nonmetallic mineral products 
+
+Primary metal industries 
+
+Ferrous metal industries; miscellaneous primary metal products 
+
+Nonferrous metal industries 
+
+Fabricated metal products 
+
+Metal cans and shipping containers 
+
+Cutlery, hand tools, and hardware; screw machine products, bolts, and similar products 
+
+Plumbing and heating, except electric and warm air 
+
+Fabricated structural metal products 
+
+Metal forgings and stampings 
+
+Coating, engraving, and allied services 
+
+Ordnance and accessories, except vehicles and guided missiles
+
+Miscellaneous fabricated metal products 
+
+Machinery, except electrical 
+
+Farm machinery 
+
+Construction and related machinery 
+
+Metalworking machinery 
+
+Special industry machinery 
+
+General industry machinery 
+
+Office, computing; and accounting machines 
+
+Other machinery, except electrical 
+
+Electrical and electronic equipment 
+
+Household appliances
+
+Radio, television, and communication equipment 
+
+Electronic components and accessories 21
+
+Division industry code Major industry code Minor industry code 
+
+Industry description 
+
+3698 206 3710 27 3725 3730 3798 28 3815 3845 3860 29 3998 50 300 4000 4100 4200 4400 4500 4600 4700 31 4825 4830 32 32 4910 4920 4930 4990 
+
+Other electrical equipment 
+
+Motor vehicles and equipment 1/ 
+
+Transportation equipment, except motor vehicles 
+
+Aircraft, guided missiles and parts 
+
+Ship and boat building and repairing 
+
+Other transportation equipment, except motor vehicles 
+
+Instruments and related products 
+
+Scientific instruments and measuring devices; watches and clocks 
+
+Optical, medical, and ophthalmic goods 
+
+Photographic equipment and supplies 
+
+Miscellaneous manufacturing and manufacturing not allocable 
+
+Transportation and public utilities
+
+Transportation 
+
+Railroad transportation 
+
+Local and interurban passenger transit 
+
+Trucking and warehousing 
+
+Water transportation 
+
+Transportation by air 
+
+Pipe lines, except natural gas 
+
+Transportation services, not elsewhere classified
+
+Communication 
+
+Telephone, telegraph, and other communication services Radio and television broadcasting 
+
+Electric, gas, and sanitary services 
+
+Electric services 
+
+Gas production and distribution
+
+Combination utility services 
+
+Water supply and other sanitary services 
+
+Wholesale and retail trade
+
+Wholesale trade 
+
+Groceries and related products 1/ 
+
+Machinery, equipment, and supplies 1/ 
+
+Miscellaneous wholesale trade
+
+Motor vehicles and automotive 059 60 61 33 5004 34 5008 35 5010 22
+
+Division industry code Major industry code Minor industry code 5020 5030 5040 5050 5060 5070 5098 5110 5129 5130 5150 5160 5170 5180 5190 62 36 5220 5251 5265 37 5300 38 5410 5490 39 5515 5541 5598 40 5600 41 5700 42 5800 43 5912 5921 5995 63 44 5997 
+
+Industry description equipment
+
+Furniture and home furnishings 
+
+Lumber and construction materials Sporting, recreational, photographic, and hobby goods, toys and supplies 
+
+Metals and minerals, except petroleum and scrap
+
+Electrical goods 
+
+Hardware, plumbing, and heating equipment and supplies
+
+Other durable goods 
+
+Paper and paper products 
+
+Drugs, drug proprietaries, and druggists' sundries
+
+Apparel, piece goods, and notions Farm-product raw materials Chemicals and allied products 
+
+Petroleum and petroleum products 
+
+Alcoholic beverages
+
+Miscellaneous nondurable goods; wholesale trade not allocable 
+
+Retail trade
+
+Building materials, garden supplies, and mobile home dealers 
+
+Building materials dealers
+
+Hardware stores 
+
+Garden supplies and mobile home dealers 
+
+General merchandise stores 1/ 
+
+Food stores 
+
+Grocery stores 4/ 
+
+Other food stores 4/ 
+
+Automotive dealers and service stations 
+
+Motor vehicle dealers 
+
+Gasoline service stations 
+
+Other automotive dealers 
+
+Apparel and accessory stores 1/
+
+Furniture and home furnishings stores 1/ 
+
+Eating and drinking places 1/
+
+Miscellaneous retail stores 
+
+Drug stores and proprietary stores 
+
+Liquor stores 
+
+Other retail stores 
+
+Wholesale and retail trade not allocable 1/ 23
+
+Division industry code Major industry code Minor industry codo 
+
+Industry description 
+
+70 45 6030 6060 6090 46 6120 6140 6150 6199 47 6210 6299 48 6355 6352 6353 6354 6356 6359 49 6411 50 6511 6516 6518 6530 6550 6599 51 6742 6743 6744 
+
+Finance, insurance, and real estate
+
+Banking 
+
+Mutual savings bank. 
+
+Bank holding companies 2/ 
+
+Banks, except mutual savings banks and bank holding companies Credit agencies other than banks 
+
+Savings and loan associations 
+
+Personal credit institutions 
+
+Business credit institutions 
+
+Other credit agencies; finance not allocable 
+
+Security, commodity brokers and services 
+
+Security brokers, dealers, and flotation companies 
+
+Commodity contracts brokers and dealers; security and commodity exchanges; and allied services Insurance 
+
+Life insurance 
+
+Life insurance, stock companies
+
+Life insurance, mutual companies 
+
+Other life insurance companies
+
+Mutual insurance, except life or marine and certain fire or flood insurance companies 
+
+Other insurance companies 
+
+Insurance agents, brokers, and service 1/ 
+
+Real estate 
+
+Real estate operators and lessors of buildings Lessors of mining, oil, and similar property 
+
+Lessors of railroad property, and of real property not elsewhere classified Condominium management and cooperative housing associations 3/ 
+
+Subdividers and developers 
+
+Other real estate 
+
+Holding and other investment companies, except bank holding companies 
+
+Regulated investment companies 
+
+Real estate investment trusts 
+
+Small business investment companies ts 24
+
+Division industry code Major industry code Minor industry code 
+
+Industry description 
+
+6749 80 90 23535 7000 7200 54 7310 7389 55 7500 7600 56 7812 7830 7900 57 8015 58 
+
+Footnotes on following page. 8021 8040 8050 8060 8071 8099 8111 8200 8300 8600 8911 8930 8980 9000 25 
+
+Other holding and investment companies, except bank holding companies Services 
+
+Hotels and other lodging places 1/ 
+
+Personal services 1/
+
+Business services 
+
+Advertising 
+
+Business services, except adver tising 
+
+Auto repair; miscellaneous repair services 
+
+Auto repair and services
+
+Miscellaneous repair services 
+
+Amusement and recreation services Motion picture production, distribution, and services
+
+Motion picture theaters Amusement and recreation services, except motion pictures 
+
+Other services 
+
+Offices of physicians, including osteopathic physicians 
+
+Offices of dentists 
+
+Offices of other health practitioners 4/ 
+
+Nursing and personal care facilities Hospitals 4/ 
+
+Medical laboratories 
+
+Other medical services 
+
+Legal services
+
+Educational services Social services 4/ 
+
+Membership organizations 4/ 
+
+Architectural and engineering services 4/ 
+
+Accounting, auditing, and bookkeeping services 4/ 
+
+Miscellaneous services 
+
+(including veterinarians), not elsewhere classified
+
+Nature of business not allocable 1/
+
+CORPORATION SOURCE BOOK OF STATISTICS OF INCOME FOOTNOTES 1/ After the 1977 Source Book the following note applies: 
+
+When data is the same for minor and major industries only the major industry is shown. When data is the same for minor, major, and industrial division industries, only the industrial division is shown. 
+
+2/ This minor industry was not shown separately prior to the 1974 Corporation 
+
+Source Book of Statistics of Income. 
+
+3/ This minor industry was not shown separately prior to the 1975 Corporation 
+
+Source Book of Statistics of Income. 
+
+4/ This minor industry was not shown separately prior to the 1977 Corporation 
+
+Source Book of Statistics of Income. 
+
+1 
+
+8496 031 26
+
+WAR 
+
+MAK 1988 MAR 0 2 1988 DEMCO 38-297 
+
+DATE DUE CIRCULATE

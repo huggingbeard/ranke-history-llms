@@ -1,0 +1,24 @@
+  streamed 5000: modern=41 old=4959
+  streamed 10000: modern=156 old=9844
+
+modern=250  old=12000
+
+policy                                   RECALL (modern)  over-removal (old)
+vocabulary only (>=1 word)                         44.0%                0.1%
+vocab OR >= 1 post-1945 year(s)                    98.4%               18.2%
+vocab OR >= 2 post-1945 year(s)                    94.4%                6.2%
+vocab OR >= 3 post-1945 year(s)                    91.6%                3.7%
+vocab OR >= 4 post-1945 year(s)                    88.0%                2.7%
+
+confidence score = (#vocab words)+(#post-1945 years):  ROC-AUC = 0.975
+threshold T (flag if score>=T)        RECALL  over-removal
+  score >= 1                               98.4%         18.2%
+  score >= 2                               94.4%          6.1%
+  score >= 3                               91.2%          3.6%
+  score >= 4                               87.6%          2.6%
+  score >= 5                               85.2%          2.2%
+  score >= 6                               82.8%          1.9%
+  score >= 8                               73.2%          1.6%
+  score >= 10                              65.2%          1.2%
+
+saved -> confidence_score.png, confidence_raw.json
