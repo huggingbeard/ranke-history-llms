@@ -1,0 +1,9 @@
+# DeepSeek-V4-Pro plan review, round 8
+2026-09-29T00:13:04.441480
+meta: {"finish_reason": "stop", "provider": "Relace", "cost": 0.05523175, "usage": {"prompt_tokens": 4765, "completion_tokens": 15304, "total_tokens": 20069, "cost": 0.05523175, "is_byok": false, "prompt_tokens_details": {"cached_tokens": 0, "cache_write_tokens": 0, "audio_tokens": 0, "video_tokens": 0}, "cost_details": {"upstream_inference_cost": 0.05523175, "upstream_inference_prompt_cost": 0.00166775, "upstream_inference_completions_cost": 0.053564}, "completion_tokens_details": {"reasoning_tokens": 15323, "image_tokens": 0, "audio_tokens": 0}}}
+
+**MUST-FIX**
+1. **Slope sub‑criterion is undefined.** The decision rule says “slope if SFT‑3000 beats SFT‑1000 by ≥ 5/100, in ≥ 4 of 6 reasoning groups, and wins more prompts than it loses” but never states which score (substance? overall?), what a prompt‑level “win” means, or what the six reasoning groups are. Without these definitions the slope claim cannot be evaluated and the rule is inoperable. **Fix:** either fully specify the metric, win condition, and group labels (e.g., from the frozen eval file) or drop the slope sub‑criterion and report the dose‑response descriptively.
+2. **Primary effect rule lacks a statistical significance threshold for substance.** The rule “effect if any trained condition beats base on substance” does not require the improvement to be statistically significant; a trivially higher mean could be called an effect. The plan already computes paired permutation tests, so a pre‑specified threshold is needed to keep the conclusion rigorous. **Fix:** add a criterion such as a one‑sided paired permutation test p < 0.05 on the substance score (or a pre‑registered rule that the bootstrap 95% CI of the difference excludes zero).
+
+**VERDICT: REVISE** 1,2

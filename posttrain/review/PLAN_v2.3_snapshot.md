@@ -1,0 +1,82 @@
+# Talkie x Ranke-1929 post-training — PLAN v2 (period models write and judge; SFT dose curve)
+
+Version: v2.3 · Date: 2026-09-28 23:40 Europe/Zurich · Plan ID: `talkie-ranke-mutual-0928`
+History: v2.0 23:20 first draft · v2.1 23:25 JV changes (eval judges, Codex job) · v2.2 23:33 DeepSeek-V4-Pro round-1 fixes, A100 (copy: `review\PLAN_v2.2_snapshot.md`) · v2.3 23:40 JV drops the preference (DPO) round; section 4 rewritten to match (DeepSeek round-2 must-fix).
+Author: Claude Opus 5.5 (taking over from Codex). Supersedes `PLAN.md` (v1, kept unchanged).
+Files used:
+- `G:\detritus\ranke1929_talkie_sft_20260928\PLAN.md`, `STATUS.md`, `MODEL_LOCK.json`
+- `G:\detritus\ranke1929_talkie_sft_20260928\scripts\generate_talkie_pairs.py`, `validate_talkie_pairs.py`, `train_ranke_lora.py`, `judge_blind_outputs.py`
+- `G:\detritus\ranke1929_talkie_sft_20260928\eval\frozen_eval_84.jsonl` (SHA-256 156eb18d…6277), `eval\JUDGE_PROMPT.md`
+- `G:\detritus\ranke_period_qa_scale_20260928\data\history_passages_v1.jsonl` (2,077 passages, SHA-256 803d7139…ba04; latest publication 1906)
+- Talkie source: `C:\Users\hvoth\AppData\Local\Temp\talkie-upstream\src\talkie\model.py`, `generate.py`
+- Reviews: `review\deepseek_v4pro_round1.md`, `review\deepseek_v4pro_round2.md`
+
+## CHECKED (what exists, so nothing is rebuilt)
+- STATUS.md 23:05: "No full Talkie generation has started yet." One Talkie record was ever produced (A100 test, 235.5 s, failed format; fix = assistant prefix `<question>`, never re-tested).
+- Base Ranke answers to all 84 frozen prompts exist: `experiments\base84_20260928_172133\eval\blind_output_matrix.jsonl`. Surface stats: 74/84 hit the token ceiling, 72/84 repeat, 29/84 invent a new `Question:` turn.
+- v1 used a modern selector (`select_talkie_with_luna.py`). v2 removes it.
+- Talkie `forward()` has no key/value cache; each new token recomputes the whole sequence. `_stream_raw` does one prompt at a time. This explains ~4 minutes per record.
+- The SFT script `train_ranke_lora.py` is sound (answer-only loss, LoRA r8 q/v, 4-bit base). Reused unchanged.
+- Codex's cluster job `6510f2b9ee` / Slurm `6657946`: CANCELLED, 0 s used. Codex heartbeat `continue-ranke-period-qa-experiment`: PAUSED. No Talkie job in the cluster queue (checked 23:24).
+
+## Hard rule (JV)
+No modern model creates, edits, selects, filters or ranks any training text. Only the period models do: **Talkie-1930-13B-IT** writes; **Ranke-4B-1929 v2** judges. Modern models only grade saved final answers.
+
+## 1. Construct
+Does SFT of Ranke-1929 on period-written, passage-grounded question-and-answer data make Ranke answer historical and political questions better (correct, reasoned, direct, complete, period-fitting), and does more data help more?
+
+## 2. Mechanism
+**Stage A — Talkie writes.** Locked prompt, revision `8033675b…`, 6 question forms, v1 sampling (temperature 0.55, top_p 0.90, top_k 40, max 512 new tokens, per-record seed), assistant prefix `<question>`. Two candidates per passage (up to 4,154). A new batched decoder with a key/value cache runs Talkie's exact weights and layer maths; only the cache is new. Every raw completion is saved.
+
+**Stage B — Ranke judges Talkie.** First the v1 mechanical rules (tags, 90–220 words, copy overlap, protected eval terms, duplicate questions) plus: reject a question whose word-set overlap (Jaccard) with any of the 84 eval prompts exceeds 0.5. Then Ranke-1929 base computes for each record:
+- *grounding gain* = mean per-token log-probability of the answer given (passage + question) minus the same given (question only). High = the answer uses the passage. Near zero or negative = filler or content not in the passage, which is the main route for 1913–1929 facts.
+- *fluency* = mean per-token log-probability of the answer given the question only.
+Rule, fixed now: keep records with grounding gain above the 20th percentile and fluency above the 5th percentile. The 20th percentile is a light cut chosen to keep enough data for a 3,000 dose; the report shows the gain distribution and records near the cut. Ranke outputs numbers only.
+
+**Stage C — SFT dose curve.** One seeded order (seed 1929) of accepted records; nested sets of 300 / 1,000 / 3,000 (if fewer than 3,000 are accepted, the top dose = all accepted, stated). Three LoRA adapters with the unchanged v1 script and settings (r8, α16, q/v, lr 2e-4, 3 epochs, max length 1,024, micro-batch 1, grad-accum 8, seed 1929).
+
+(The preference/DPO round of v2.0–v2.2 is dropped by JV, 23:35: the Talkie-as-judge risk is too high for one night; SFT-only is simpler to read.)
+
+## 3. Threats to validity
+1. *Talkie leaks 1913–1929 facts.* Grounding gain penalizes content the pre-1913 passage does not support; eval scores period_fit separately. Not fully closed; reported.
+2. *Gain rewards copying.* Copy-overlap rule first; report gain against copy overlap.
+3. *Gain rewards surface word overlap, not truth.* Test V3 below uses corrupted answers on the same topic; plus an inspection page of 40 accepted / 40 rejected records for JV. The inspection checks the filter only; no record is changed or picked by hand or by a modern model.
+4. *Gains are format learning (shorter, cleaner answers), not history.* Substance reported separately from directness/fluency; length and completion rates; paired per-prompt comparison.
+5. *Train-eval overlap.* Protected terms + Jaccard rule; low-overlap and transfer items reported separately.
+6. *Different decoding between conditions.* All four conditions, base included (regenerated), use one script, one decoding setting, one machine. Old base matrix kept as a cross-check.
+7. *Judge bias.* Replies anonymized and shuffled per item; two modern judge families; agreement reported.
+8. *Dose confounded with number of updates.* Stated as a dose curve, not a token-matched estimate.
+9. *Power.* 84 prompts give limited power; paired permutation tests and bootstrap intervals, stated plainly.
+
+## 4. Validation tests (pass/fail, run before scaling)
+- **V1 cached decoder.** 8 prompts of varied length (about 200 to 1,500 tokens), batched together with left padding. Greedy 64 tokens with the cache must equal the original uncached `forward()` on ≥ 7/8 prompts; last-step logits max abs difference < 0.5 (bf16). Fail → uncached batched decoding within the time limit, or stop.
+- **V2 Talkie format.** 16 records; pass if ≥ 12/16 parse into question + answer. All 16 saved and read.
+- **V3 Ranke grounding judge (deciding test).** Corrupted answers: one middle sentence of a Talkie answer replaced by a sentence from an answer about a different passage. Pass if the intact answer has higher gain in ≥ 80% of 300 pairs. Reported, not deciding: true passage vs random passage (expect ≥ 90%). Fail → stop before training and report; no fallback to a modern filter.
+- **V4 yield pilot.** 200 records through every filter. If the projected accepted count is below 3,000, generate a third candidate per passage (next form in the fixed rotation) after the first two for all passages are done.
+- **V5 end-to-end dry run.** 32 records through write → judge → train (1 epoch) → answer → save; loss falls; adapter reloads and generates.
+- **Time limit.** If Talkie writing is not done 3 hours after the pod starts, it stops; order of work: candidates 1–2 for all passages first, third candidates last. Report states any cut.
+
+## 5. Evaluation (modern models only here)
+Four conditions answer all 84 frozen prompts: base, SFT-300, SFT-1000, SFT-3000. Wrapper as in training (`Question: …\nAnswer:`), greedy, per-item `max_new_tokens` from the frozen file; answers cut at a new `Question:` line (recorded).
+Judges (JV, 23:22): **DeepSeek-V4 Flash** via OpenRouter and **Claude Sonnet** (on-plan subagents, no metered Anthropic API), both with the unchanged `eval\JUDGE_PROMPT.md`, blind, replies shuffled per item.
+Report per condition: means with bootstrap 95% intervals, paired permutation tests, per-prompt wins/losses vs base, dose slope, history substance on the 36 history prompts, period fluency on all 84, Russo-Japanese-War/Angell slice, length and completion rates, judge agreement, full answer examples.
+Decision rule (v1): effect if any trained condition beats base on substance without more anachronism; slope if SFT-3000 beats SFT-1000 by ≥ 5/100, in ≥ 4 of 6 reasoning groups, and wins more prompts than it loses.
+
+## 6. Compute and cost
+- Cluster queue held every Talkie job PENDING (Priority) for hours today. So: **one RunPod A100 80 GB** (JV 23:26: cheaper; 80 GB holds Talkie at 26.6 GB plus cache, and Ranke 4B). ~$1.2–2.5/hour; expected 5–7 hours → **~$8–18; hard cap $40**.
+- Pod deletes itself after 9 hours (on-pod timer), plus a local watchdog. Teardown triple-check: (1) terminate response, (2) API pod list empty, (3) list still empty 5 minutes later.
+- DeepSeek-V4-Pro plan review ~$0.10. DeepSeek-V4 Flash judging < $1. Sonnet judging on-plan.
+
+## 7. Saved per-item evidence
+One JSONL row per item with inputs, raw output, scores, model revision, seed, hashes; resume support: `talkie_raw.jsonl`, `mechanical.jsonl`, `ranke_grounding.jsonl`, `sft_300/1000/3000.jsonl`, `eval_matrix.jsonl`, `judge_sonnet/*.json`, `judge_deepseek_flash/*.json`. All copied to `G:\detritus\ranke1929_talkie_sft_20260928\runs\v2_<timestamp>\` and hash-checked before teardown.
+
+## 8. What I will NOT do
+No modern model sees training text before evaluation. No change to the frozen eval, judge prompt, source corpus, Talkie prompt, Ranke base revision, or v1 SFT settings. No DPO. Nothing called final before JV review.
+
+## Heavy steps
+1. OpenRouter: DeepSeek-V4-Pro plan review until VERDICT: SHIP; DeepSeek-V4 Flash eval judging.
+2. RunPod: one A100 80 GB pod for Stages A–C and eval answers; then terminate.
+3. Training: SFT rehearsal + 3 SFT runs on the pod.
+4. Cluster: none.
+
+Approved by JV 2026-09-28 23:22 (`GATE-APPROVE talkie-ranke-mutual-0928`) with the judge changes; DPO dropped by JV 23:35.

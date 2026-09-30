@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "decisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {"type": "string"},
+          "accept": {"type": "boolean"},
+          "quality": {"type": "string", "enum": ["strong", "usable", "reject"]},
+          "source_grounded": {"type": "string", "enum": ["yes", "no", "uncertain"]},
+          "answer_relevance": {"type": "string", "enum": ["direct", "partial", "off"]},
+          "self_contained": {"type": "string", "enum": ["yes", "no"]},
+          "period_style": {"type": "string", "enum": ["strong", "acceptable", "weak"]},
+          "anachronism": {"type": "string", "enum": ["none", "suspected", "clear"]},
+          "reasoning_present": {"type": "string", "enum": ["yes", "no"]},
+          "rejection_reason": {
+            "type": "string",
+            "enum": ["none", "unsupported", "irrelevant", "not_self_contained", "weak_style", "anachronistic", "malformed", "other"]
+          }
+        },
+        "required": ["id", "accept", "quality", "source_grounded", "answer_relevance", "self_contained", "period_style", "anachronism", "reasoning_present", "rejection_reason"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["decisions"],
+  "additionalProperties": false
+}

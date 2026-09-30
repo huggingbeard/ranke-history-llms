@@ -1,0 +1,1 @@
+This is round 6. Round-5 must-fix (incremental off-pod backup) is added in section 7: 10-minute sync loop plus a copy after each stage, final hash check. List only remaining MUST-FIX items that would make the result invalid or the run fail; otherwise VERDICT: SHIP.

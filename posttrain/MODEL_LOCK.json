@@ -1,0 +1,24 @@
+{
+  "writer": {
+    "model": "talkie-lm/talkie-1930-13b-it",
+    "revision": "8033675be6360ae0127fa75f941c12d52064f1dc",
+    "role": "writes complete training questions and answers"
+  },
+  "student": {
+    "model": "uzh-echist-org/Ranke-4B-1929_v2",
+    "revision": "fb4cede16ed59e1249ebeba2b4e5b9ec2a560642"
+  },
+  "source_data": {
+    "path": "G:\\detritus\\ranke_period_qa_scale_20260928\\data\\history_passages_v1.jsonl",
+    "sha256": "803d71395ad53355f61e04e249def5a1e2798c4e48d83a05d9af49d4a909ba04",
+    "rows": 2077,
+    "latest_publication_year": 1906
+  },
+  "evaluation": {
+    "path": "G:\\detritus\\ranke_period_qa_scale_20260928\\eval\\history_reasoning_v1.jsonl",
+    "sha256": "670cbad797319345632e7f3bdaec3ff620941fb49fca3ac35c9303abf5bef568",
+    "rows": 36,
+    "sealed": true
+  },
+  "training_words_rule": "Only Talkie output may supply generated question or answer words. A modern selector may accept or reject a whole record but may not edit it."
+}
