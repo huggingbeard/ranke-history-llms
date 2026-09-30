@@ -1,0 +1,24 @@
+{
+  "created_utc": "2026-09-28T14:06:41.556677+00:00",
+  "status": "frozen_before_any_Ranke-1929_SFT",
+  "transformation": "namespace IDs and concatenate only; prompt and criteria text unchanged",
+  "sources": [
+    {
+      "suite": "history_reasoning_36",
+      "path": "G:\\detritus\\ranke_period_qa_scale_20260928\\eval\\history_reasoning_v1.jsonl",
+      "rows": 36,
+      "sha256": "670cbad797319345632e7f3bdaec3ff620941fb49fca3ac35c9303abf5bef568"
+    },
+    {
+      "suite": "period_chat_48",
+      "path": "G:\\detritus\\period_qa_eval_frozen_v2_20260927\\battery.jsonl",
+      "rows": 48,
+      "sha256": "76ee7d6b7697fe511217341490aa33be9351985ac6498447160f68cef5e144fa"
+    }
+  ],
+  "output": {
+    "path": "G:\\detritus\\ranke1929_talkie_sft_20260928\\eval\\frozen_eval_84.jsonl",
+    "rows": 84,
+    "sha256": "156eb18d5796a2db123b40ad641b30cb74c4763964077f2c1bca5e8c75796277"
+  }
+}
