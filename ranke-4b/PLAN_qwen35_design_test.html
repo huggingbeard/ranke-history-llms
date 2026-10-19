@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Qwen3.5 design test plan</title>
+  <style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">body{max-width:980px;margin:2em auto;padding:0 16px;font:16px/1.5 Georgia,serif;color:#1a1a1a;background:#fff}
+h1{font-size:1.6em}h2{border-bottom:1px solid #ccc;padding-bottom:.2em;margin-top:1.6em}
+table{border-collapse:collapse;margin:.8em 0;font:14px/1.35 Arial,sans-serif}th,td{border:1px solid #bbb;padding:4px 8px;vertical-align:top}th{background:#f0f0f0}
+code{font-size:.85em;background:#f5f5f5;padding:0 3px}img{max-width:100%;border:1px solid #ddd}
+</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Qwen3.5 design test plan</h1>
+</header>
+<h1 id="plan-does-the-qwen35-design-give-a-better-ranke-model-a-small-test-before-any-full-run">Plan:
+does the Qwen3.5 design give a better Ranke model? A small test before
+any full run</h1>
+<p><strong>Version 1.0, 2026-10-19.</strong> Claude, for JV. Status:
+PLAN, nothing run. Every number marked [ASSUMED] or [TBD] needs
+checking. <strong>Files used:</strong></p>
+<ul>
+<li><code>C:\Users\hvoth\Documents\GitHub\ranke-history-llms\ranke-4b\prerelease_notes.md</code>
+(how Ranke-4B was trained);</li>
+<li>the Qwen3.5 design files on Hugging Face
+(<code>Qwen/Qwen3.5-0.8B-Base/config.json</code>,
+<code>Qwen/Qwen3.5-35B-A3B/config.json</code>);</li>
+<li>the Ranke-4B design file on the UZH cluster
+(<code>/scratch/ukrenk/hf-models/Ranke-4B-1913@99fd739…/config.json</code>).</li>
+</ul>
+<h2 id="1-why-now">1. Why now</h2>
+<ul>
+<li><strong>Ranke-4B was sized for 80 billion training tokens.</strong>
+It is &quot;Chinchilla-optimal&quot;: about 20 tokens per parameter
+(<code>prerelease_notes.md</code>, line 4). It uses the dense Qwen3
+design: one network, and every part works on every token.</li>
+<li><strong>We now have up to 600 billion tokens</strong> [TBD: before
+or after cleaning]. That much text could train a much larger model, or a
+mixture-of-experts model.
+<ul>
+<li>A mixture-of-experts model has many sub-networks (&quot;experts&quot;) and
+uses only a few per token. It has more capacity at the same cost per
+token.</li>
+</ul></li>
+<li><strong>The newer Qwen3.5 design</strong> changes three things at
+once:
+<ul>
+<li>most layers use &quot;linear attention&quot;, which is cheaper for long
+texts;</li>
+<li>the vocabulary is larger (248,320 tokens against 151,936);</li>
+<li>its large versions are mixtures of experts.</li>
+</ul></li>
+<li><strong>Before anyone pays for a full run</strong> (about
+3,000–4,000 CHF on the UZH cluster, or the same 10,000+ card-hours at
+Jülich [ASSUMED]), a small run must show that the new design actually
+helps on Ranke&#39;s old text.</li>
+</ul>
+<h2 id="2-the-question-and-how-we-decide">2. The question, and how we
+decide</h2>
+<p><strong>Question:</strong> at the same training compute, on the same
+pre-1900 text, does a Qwen3.5 design predict held-out old text better
+than today&#39;s Qwen3 design?</p>
+<p><strong>Pass mark, fixed before any run:</strong></p>
+<ol type="1">
+<li><strong>Main measure: bits per byte on held-out pre-1900
+text.</strong>
+<ul>
+<li>Bits per byte = how many bits the model needs, on average, to
+predict each byte of text it has not seen.</li>
+<li>Lower is better.</li>
+<li>I use bytes, not tokens, because the two designs use different
+vocabularies, so their per-token losses cannot be compared.</li>
+</ul></li>
+<li><strong>A design &quot;wins&quot; if its bits per byte are at least 2%
+lower</strong> than the Qwen3 design&#39;s, at equal training compute. It
+must also be no worse on the year tests (step 5).</li>
+<li><strong>Mixture of experts &quot;wins&quot;</strong> if it is at least 3%
+lower at equal compute per token, and its training speed per card is at
+most 30% lower.</li>
+<li><strong>Anything smaller is a tie.</strong> On a tie we keep the
+current design, because switching has costs (section 6).</li>
+</ol>
+<h2 id="3-the-models-all-trained-from-scratch-only-the-designs-are-reused-never-qwens-weights">3.
+The models (all trained from scratch; only the designs are reused, never
+Qwen&#39;s weights)</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Model</th>
+<th>Design</th>
+<th>Size</th>
+<th>Vocabulary</th>
+<th>What it tests</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>A</strong> (reference)</td>
+<td>Qwen3, dense, standard attention (today&#39;s Ranke design)</td>
+<td>~0.6B (Qwen3-0.6B shape)</td>
+<td>Qwen3, 151,936</td>
+<td>baseline</td>
+</tr>
+<tr class="even">
+<td><strong>B</strong></td>
+<td>Qwen3.5, dense: 18 of 24 layers linear attention</td>
+<td>~0.8B (Qwen3.5-0.8B shape)</td>
+<td>Qwen3.5, 248,320</td>
+<td>new design + new vocabulary</td>
+</tr>
+<tr class="odd">
+<td><strong>B′</strong></td>
+<td>same as B</td>
+<td>~0.8B</td>
+<td><strong>Qwen3</strong> vocabulary</td>
+<td>separates &quot;design&quot; from &quot;vocabulary&quot;</td>
+</tr>
+<tr class="even">
+<td><strong>C</strong></td>
+<td>Qwen3.5 mixture of experts, scaled down by us</td>
+<td>~1B in total, ~0.3B used per token [ASSUMED shape: 24 layers, 32
+experts, 4 per token]</td>
+<td>Qwen3.5</td>
+<td>mixture of experts</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>B against B′</strong> tells us how much of any gain comes
+from the vocabulary alone.</li>
+<li><strong>Model A and model B differ in size.</strong> The 0.8B partly
+reflects the larger vocabulary table. So all comparisons are at
+<strong>equal training compute</strong> (≈ 6 × parameters used per token
+× tokens), not equal size. I also report bits per byte against compute
+as a curve, from saved checkpoints.</li>
+</ul>
+<h2 id="4-data-and-training-settings-copied-from-ranke-4b-wherever-possible">4.
+Data and training settings (copied from Ranke-4B wherever possible)</h2>
+<ul>
+<li><strong>Text:</strong> a fixed sample of the pre-1900 Ranke training
+text.
+<ul>
+<li>Quick version: <strong>4 billion tokens</strong> per model.</li>
+<li>Fuller version: <strong>16 billion tokens</strong> (Chinchilla
+amount for about 0.8B).</li>
+<li>The same documents in the same order for every model, each cut with
+its own vocabulary.</li>
+</ul></li>
+<li><strong>Held-out set:</strong> 50 million tokens of pre-1900 text
+never used in training (a separate set of whole documents).</li>
+<li><strong>Settings as in <code>prerelease_notes.md</code> line
+61:</strong>
+<ul>
+<li>AdamW;</li>
+<li>warm-up then stable then decay learning rate (500 warm-up steps,
+decay over the last 20%);</li>
+<li>4,096-token pieces;</li>
+<li>about 2 million tokens per step.</li>
+</ul></li>
+<li><strong>Peak learning rate:</strong> a short sweep at 3 values per
+design on 0.5 billion tokens. Each design gets its best rate; a fixed
+rate could favour one design by accident.</li>
+<li><strong>Seeds:</strong> one seed each in the quick version. The
+fuller version uses 2 seeds for A and the winner, to see run-to-run
+noise.</li>
+</ul>
+<h2 id="5-evaluation-all-local-or-on-the-same-cluster-no-paid-calls">5.
+Evaluation (all local or on the same cluster; no paid calls)</h2>
+<ol type="1">
+<li><strong>Bits per byte</strong> on the 50-million-token held-out set
+(main measure).</li>
+<li><strong>Bits per byte by text type:</strong> books, newspapers,
+non-English text (French, German, Spanish). The larger vocabulary may
+help mainly the non-English part.</li>
+<li><strong>The existing Ranke year tests</strong>
+(<code>ranke-decontamination\model-audit\july\</code>, the date tests).
+<ul>
+<li>At 0.6–1B parameters and 4 billion tokens, these may be too hard for
+every model. They then serve only as a check that the new design is &quot;not
+worse&quot;.</li>
+</ul></li>
+<li><strong>Training speed:</strong> tokens per second per card for each
+design. It sets the cost of a full run.</li>
+</ol>
+<h2 id="6-what-switching-would-cost-decided-only-if-a-design-wins">6.
+What switching would cost (decided only if a design wins)</h2>
+<ul>
+<li>Retraining the whole Ranke family: the 1900 base model and each
+cutoff model (1913, 1929, 1933, 1939, 1946).</li>
+<li>New models are not comparable one-to-one with the current Ranke-4B.
+The old and new families need the same tests side by side.</li>
+<li>Training code: the Ranke training code is a fork of torchtitan.
+Whether it already has the Qwen3.5 layers (linear attention, mixture of
+experts) is [TBD]; check this first (step 1 of section 7).</li>
+</ul>
+<h2 id="7-steps">7. Steps</h2>
+<table>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Step</th>
+<th>Where</th>
+<th>Pass mark / stop rule</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>10-step test of designs A, B, C on one card</td>
+<td>Jülich or UZH</td>
+<td>all train without error; loss falls (fallback below)</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Build the 4-billion-token sample + 50-million-token held-out set;
+cut it with both vocabularies; save hashes</td>
+<td>where the corpus lives (CSCS/Jülich)</td>
+<td>same documents for all; hashes recorded</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Learning-rate sweep, 3 rates × 4 models × 0.5B tokens</td>
+<td>1 card each</td>
+<td>pick the best rate per model by held-out bits per byte</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><strong>Quick run:</strong> A, B, B′, C × 4B tokens; checkpoint
+every 0.5B tokens</td>
+<td>1–4 cards per model</td>
+<td>finish; bits-per-byte curve saved per checkpoint</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Evaluation (section 5) + report against the pass mark (section
+2)</td>
+<td>1 card</td>
+<td><strong>STOP here</strong> unless a design wins by the pre-set
+margin</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Fuller run (16B tokens, 2 seeds for A and the winner) only if step 5
+shows a win</td>
+<td>Jülich (preferred)</td>
+<td>win holds at 4× the data</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Fallback for step 1:</strong> if the Ranke torchtitan fork
+lacks the Qwen3.5 layers, train all four models with Hugging Face
+transformers + FSDP instead. Model A is then re-trained there too, so
+all four share one code base.</p>
+<h2 id="8-cost-and-time-assumed-from-ranke-4bs-measured-speed-and-standard-compute-rules">8.
+Cost and time [ASSUMED from Ranke-4B&#39;s measured speed and standard
+compute rules]</h2>
+<ul>
+<li><strong>Compute per quick model:</strong> 6 × 0.6–0.8B × 4B tokens ≈
+1.5–1.9 × 10¹⁹ operations.</li>
+<li><strong>Card time:</strong>
+<ul>
+<li>H200 at 40% of its peak speed: about <strong>11–14 card-hours per
+model</strong>.</li>
+<li>Mixture of experts and linear attention often run at 25–30% of peak,
+so up to about 20 card-hours.</li>
+</ul></li>
+<li><strong>Quick version</strong> (4 models + sweep + checks): about
+<strong>70–90 card-hours</strong>.
+<ul>
+<li>UZH cluster, H200 at 0.305 CHF per hour: <strong>about 25
+CHF</strong>.</li>
+<li>Jülich GH200: similar card-hours, under Guohui&#39;s allocation [TBD:
+which allocation, and whether it has room].</li>
+</ul></li>
+<li><strong>Fuller version:</strong> about 4 times the quick version,
+about 300–350 card-hours (about 100 CHF on the UZH cluster).</li>
+<li><strong>Wall time:</strong> the quick version takes 1–2 days on 4
+cards, plus queue time.</li>
+</ul>
+<h2 id="9-where-to-run-it">9. Where to run it</h2>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>Jülich (via Guohui)</th>
+<th>UZH cluster (our login ukrenk)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cards</td>
+<td>GH200, like CSCS Alps where Ranke-4B was trained</td>
+<td>H200 and A100</td>
+</tr>
+<tr class="even">
+<td>Training code</td>
+<td>the Ranke torchtitan fork, if it runs there [TBD]</td>
+<td>must be set up; follow
+<code>ranke-edition-dating\validation\cost_test\CLUSTER_VLLM_RUNBOOK.md</code>
+(login-node check first)</td>
+</tr>
+<tr class="odd">
+<td>Data</td>
+<td>close to the corpus if Guohui has a copy [TBD]</td>
+<td>needs a copy of the 4B-token sample (≈ 16 GB per vocabulary
+[ASSUMED])</td>
+</tr>
+<tr class="even">
+<td>Who runs it</td>
+<td>Guohui</td>
+<td>Claude, under JV&#39;s approval</td>
+</tr>
+<tr class="odd">
+<td>Best for</td>
+<td>the fuller version (step 6)</td>
+<td>the quick version (steps 1–5), if the data can be copied</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recommendation:</strong></p>
+<ul>
+<li>Quick version on the UZH cluster, if Guohui can send the
+4-billion-token pre-1900 sample. It is cheap (about 25 CHF), and we
+control the queue.</li>
+<li>Fuller version at Jülich with the Ranke code, only if the quick
+version shows a win.</li>
+</ul>
+<h2 id="10-open-facts-needed-before-step-1">10. Open facts needed before
+step 1</h2>
+<ol type="1">
+<li>Is &quot;600 billion tokens&quot; counted before or after cleaning and
+de-duplication? How many tokens exist before 1900?</li>
+<li>Where is the Ranke training code (torchtitan fork), and who can run
+it at Jülich? Does it support Qwen3.5 layers?</li>
+<li>Can Guohui provide the 4-billion-token pre-1900 sample and the
+50-million-token held-out set?</li>
+<li>Which Jülich allocation would pay, and does it have room for about
+100 card-hours?</li>
+</ol>
+</body>
+</html>
