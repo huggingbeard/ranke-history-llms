@@ -43,6 +43,8 @@ ap.add_argument("--val-every", type=int, default=25)
 ap.add_argument("--data-offset", type=int, default=0, help="debug: step s reads the sequences of step s + offset")
 ap.add_argument("--experts-impl", default="grouped_mm", choices=["grouped_mm", "eager", "batched_mm"],
                 help="Hugging Face expert routine; grouped_mm (default) is the fused kernel")
+ap.add_argument("--shuffle-seed", type=int, default=-1, help="-1 = book order (v1); >=0 = fixed random order of 4096-token sequences")
+ap.add_argument("--tb", action="store_true", help="also write TensorBoard event files to <out>/tb")
 ap.add_argument("--nan-debug", action="store_true", help="debug: after each micro-batch, record the first weights with non-finite gradients")
 a = ap.parse_args()
 
@@ -51,7 +53,30 @@ rank, world = dist.get_rank(), dist.get_world_size()
 torch.cuda.set_device(int(os.environ.get("LOCAL_RANK", 0)))
 dev = torch.device("cuda")
 os.makedirs(a.out, exist_ok=True)
-log = lambda name, rec: rank == 0 and open(os.path.join(a.out, name), "a").write(json.dumps(rec) + "\n")
+tb = None
+if a.tb and rank == 0:
+    from torch.utils.tensorboard import SummaryWriter
+    tb = SummaryWriter(os.path.join(a.out, "tb"))
+
+
+def log(name, rec):
+    """Append one JSON line (the replayable record) and, with --tb, mirror numbers to TensorBoard (rank 0 only)."""
+    if rank != 0:
+        return
+    open(os.path.join(a.out, name), "a").write(json.dumps(rec) + "\n")
+    if tb is None or "step" not in rec:
+        return
+    group = name.split(".")[0]
+    for k, v in rec.items():
+        if k in ("step", "time"):
+            continue
+        if isinstance(v, (int, float)) and not isinstance(v, bool) and math.isfinite(v):
+            tb.add_scalar(f"{group}/{k}", v, rec["step"])
+        elif isinstance(v, list) and v and all(isinstance(x, (int, float)) for x in v):
+            tb.add_scalar(f"{group}/{k}_worst_layer", max(v) if k.startswith("max") else min(v), rec["step"])
+            for i, x in enumerate(v):
+                tb.add_scalar(f"{group}/{k}_by_layer/layer{i:02d}", x, rec["step"])
+    tb.flush()
 
 cfg = OlmoeConfig(vocab_size=151936, hidden_size=2048, intermediate_size=1024, num_hidden_layers=a.layers,
                   num_attention_heads=16, num_key_value_heads=16, num_experts=64, num_experts_per_tok=8,
@@ -73,7 +98,9 @@ lr_at = lambda s: a.lr * min(1.0, (s + 1) / a.warmup)
 
 train = np.load(os.path.join(a.data, "train_tokens.npy"), mmap_mode="r")
 val = np.load(os.path.join(a.data, "val_tokens.npy"), mmap_mode="r")
-assert train.size >= a.steps * a.global_bs * a.seq, "not enough training tokens"
+n_seq = train.size // a.seq
+assert n_seq >= (a.steps + a.data_offset) * a.global_bs, "not enough training tokens"
+order = np.random.default_rng(a.shuffle_seed).permutation(n_seq) if a.shuffle_seed >= 0 else np.arange(n_seq)
 per_rank = a.global_bs // world
 accum = per_rank // a.micro_bs
 assert per_rank * world == a.global_bs and accum * a.micro_bs == per_rank
@@ -126,7 +153,7 @@ for step in range(start, a.steps):
     counts = None
     for m in range(accum):
         first = (step + a.data_offset) * a.global_bs + rank * per_rank + m * a.micro_bs
-        x = batch(train, range(first, first + a.micro_bs))
+        x = batch(train, order[first:first + a.micro_bs])
         out = model(input_ids=x, labels=x)
         z = z_loss(out.router_logits)
         lm = out.loss - cfg.router_aux_loss_coef * out.aux_loss   # HF adds coef * aux to the loss

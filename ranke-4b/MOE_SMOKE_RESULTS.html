@@ -175,7 +175,8 @@
 <header id="title-block-header">
 <h1 class="title">OLMoE Smoke Results</h1>
 </header>
-<p><strong>Version 1.0, 2026-10-20 18:05.</strong> Claude, for JV. Plan:
+<p><strong>Version 1.1, 2026-10-20 20:05</strong> (v1.0 18:05; v1.1 adds
+the 300-step follow-up run, job 7379835). Claude, for JV. Plan:
 <code>C:\Users\hvoth\.claude\plans\olmoe-smoke-20261020.md</code>
 (approved 2026-10-20 15:09).</p>
 <p><strong>Files used:</strong></p>
@@ -396,5 +397,142 @@ recipe. A real run should use the OLMoE training code (OLMo-core) or
 torchtitan’s mixture-of-experts support. Both match the original
 recipe.</li>
 </ul>
+<h2
+id="follow-up-a-longer-warm-up-fixes-the-balance-job-7379835-jv-approved-1805">Follow-up:
+a longer warm-up fixes the balance (job 7379835, JV approved 18:05)</h2>
+<p><strong>What changed from job 7379027:</strong></p>
+<ul>
+<li>300 steps instead of 100.</li>
+<li>Warm-up 200 steps instead of 20.</li>
+<li>A bigger snapshot: <code>data_v3</code> has 286 books and 42.2M
+tokens. The 14 validation books are the same, with an identical
+checksum.</li>
+<li>The training sequences come in a fixed random order (seed 0) instead
+of book order.</li>
+<li>Everything else is the same: the model, the per-layer balance loss,
+no padding token, and 2 H200 cards. Job script:
+<code>moe_warmup_test.sbatch</code>.</li>
+</ul>
+<p>The pass marks were set before the run. They are checked at the last
+step, 299.</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Check</th>
+<th>Pass mark</th>
+<th>Result</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>No invalid numbers (NaN)</td>
+<td>none</td>
+<td>0 in 300 steps</td>
+<td>pass</td>
+</tr>
+<tr class="even">
+<td>Loss falls</td>
+<td>yes</td>
+<td>validation loss 12.35 → 4.87</td>
+<td>pass</td>
+</tr>
+<tr class="odd">
+<td>Busiest expert, every layer</td>
+<td>≤ 3× fair share</td>
+<td>worst layer 1.86×</td>
+<td><strong>pass</strong></td>
+</tr>
+<tr class="even">
+<td>Least busy expert, every layer</td>
+<td>≥ 0.1× fair share</td>
+<td>least busy 0.200×</td>
+<td><strong>pass</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Balance over time.</strong> 1× = fair share.</p>
+<table>
+<thead>
+<tr class="header">
+<th>step</th>
+<th>50</th>
+<th>100</th>
+<th>150</th>
+<th>200</th>
+<th>250</th>
+<th>299</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>busiest expert, worst layer</td>
+<td>6.9</td>
+<td>3.7</td>
+<td>2.8</td>
+<td>2.5</td>
+<td>2.3</td>
+<td>1.9</td>
+</tr>
+<tr class="even">
+<td>least busy expert, any layer</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.04</td>
+<td>0.07</td>
+<td>0.09</td>
+<td>0.20</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Validation loss at the same step, compared with the 100-step
+run:</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>step</th>
+<th>50</th>
+<th>100</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>100-step run (job 7379027)</td>
+<td>6.98</td>
+<td>6.27</td>
+</tr>
+<tr class="even">
+<td>this run</td>
+<td>6.88</td>
+<td>6.08</td>
+</tr>
+</tbody>
+</table>
+<p>The curve also falls smoothly now, step by step: 12.35, 8.33, 6.88,
+6.51, 6.08, 5.80, 5.62, 5.48, 5.35, 5.16, 5.05, 4.94, 4.87. The 100-step
+run went up and down.</p>
+<p><strong>Run details:</strong></p>
+<ul>
+<li>Speed: about 15,500 tokens per second per card.</li>
+<li>Time: 1,406 s on 2 cards, which is 0.78 card-hours, about 0.25
+CHF.</li>
+<li>Metrics, SHA-256 verified:
+<code>G:\detritus\ranke-moe-smoke\runs\7379835\</code>.</li>
+<li>The TensorBoard files are in <code>7379835_warmup_A\tb\</code>.</li>
+</ul>
+<p><strong>Conclusion.</strong> The collapse at the random start is a
+warm-up problem. With a 200-step warm-up and the per-layer balance loss,
+all 16 layers reach the balance marks. The OLMoE design therefore trains
+on UZH H200 cards when it uses these two settings and no padding
+token.</p>
+<p>These settings are recorded as needed for any Ranke
+mixture-of-experts run. This is a 300-step engineering test, not
+evidence about model quality.</p>
 </body>
 </html>

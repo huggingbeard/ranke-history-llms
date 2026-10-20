@@ -2,7 +2,7 @@
 title: "OLMoE smoke test on UZH H200 cards — results"
 ---
 
-**Version 1.0, 2026-10-20 18:05.** Claude, for JV. Plan: `C:\Users\hvoth\.claude\plans\olmoe-smoke-20261020.md` (approved 2026-10-20 15:09).
+**Version 1.1, 2026-10-20 20:05** (v1.0 18:05; v1.1 adds the 300-step follow-up run, job 7379835). Claude, for JV. Plan: `C:\Users\hvoth\.claude\plans\olmoe-smoke-20261020.md` (approved 2026-10-20 15:09).
 
 **Files used:**
 
@@ -75,3 +75,49 @@ The design:
   - the 20-step warm-up to the full learning rate (OLMoE warms up over about 2,500 steps);
   - the starting weights of the Hugging Face copy.
 - The Hugging Face model code is made for running and fine-tuning trained models. Twice its defaults differed from the OLMoE training recipe. A real run should use the OLMoE training code (OLMo-core) or torchtitan's mixture-of-experts support. Both match the original recipe.
+
+## Follow-up: a longer warm-up fixes the balance (job 7379835, JV approved 18:05)
+
+**What changed from job 7379027:**
+
+- 300 steps instead of 100.
+- Warm-up 200 steps instead of 20.
+- A bigger snapshot: `data_v3` has 286 books and 42.2M tokens. The 14 validation books are the same, with an identical checksum.
+- The training sequences come in a fixed random order (seed 0) instead of book order.
+- Everything else is the same: the model, the per-layer balance loss, no padding token, and 2 H200 cards. Job script: `moe_warmup_test.sbatch`.
+
+The pass marks were set before the run. They are checked at the last step, 299.
+
+| Check | Pass mark | Result | Verdict |
+|---|---|---|---|
+| No invalid numbers (NaN) | none | 0 in 300 steps | pass |
+| Loss falls | yes | validation loss 12.35 → 4.87 | pass |
+| Busiest expert, every layer | ≤ 3× fair share | worst layer 1.86× | **pass** |
+| Least busy expert, every layer | ≥ 0.1× fair share | least busy 0.200× | **pass** |
+
+**Balance over time.** 1× = fair share.
+
+| step | 50 | 100 | 150 | 200 | 250 | 299 |
+|---|---|---|---|---|---|---|
+| busiest expert, worst layer | 6.9 | 3.7 | 2.8 | 2.5 | 2.3 | 1.9 |
+| least busy expert, any layer | 0.0 | 0.0 | 0.04 | 0.07 | 0.09 | 0.20 |
+
+**Validation loss at the same step, compared with the 100-step run:**
+
+| step | 50 | 100 |
+|---|---|---|
+| 100-step run (job 7379027) | 6.98 | 6.27 |
+| this run | 6.88 | 6.08 |
+
+The curve also falls smoothly now, step by step: 12.35, 8.33, 6.88, 6.51, 6.08, 5.80, 5.62, 5.48, 5.35, 5.16, 5.05, 4.94, 4.87. The 100-step run went up and down.
+
+**Run details:**
+
+- Speed: about 15,500 tokens per second per card.
+- Time: 1,406 s on 2 cards, which is 0.78 card-hours, about 0.25 CHF.
+- Metrics, SHA-256 verified: `G:\detritus\ranke-moe-smoke\runs\7379835\`.
+- The TensorBoard files are in `7379835_warmup_A\tb\`.
+
+**Conclusion.** The collapse at the random start is a warm-up problem. With a 200-step warm-up and the per-layer balance loss, all 16 layers reach the balance marks. The OLMoE design therefore trains on UZH H200 cards when it uses these two settings and no padding token.
+
+These settings are recorded as needed for any Ranke mixture-of-experts run. This is a 300-step engineering test, not evidence about model quality.
