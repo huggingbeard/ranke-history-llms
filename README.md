@@ -6,9 +6,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ranke.jpg">
-  <img alt="University of Zurich logo" src="assets/ranke.jpg" width="360">
-
+  <img alt="" src="assets/ranke.jpg" width="360">
 </picture>
 
 # History LLMs
