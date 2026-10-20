@@ -3,9 +3,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/logos/uzh-logo-white.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/logos/uzh-logo-dark.svg">
   <img alt="University of Zurich logo" src="assets/logos/uzh-logo-dark.svg" width="180"> 
-</picture> # History LLMs
+</picture> 
 
-
+# History LLMs
 
 <table>
   <tr>
