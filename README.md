@@ -5,6 +5,10 @@
   <img alt="University of Zurich logo" src="assets/logos/uzh-logo-dark.svg" width="180">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ranke.jpg">
+</picture>
+
 # History LLMs
 
 <table>
