@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>OLMoE Smoke Results</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">OLMoE Smoke Results</h1>
+</header>
+<p><strong>Version 1.0, 2026-10-20 18:05.</strong> Claude, for JV. Plan:
+<code>C:\Users\hvoth\.claude\plans\olmoe-smoke-20261020.md</code>
+(approved 2026-10-20 15:09).</p>
+<p><strong>Files used:</strong></p>
+<ul>
+<li>Code: <code>ranke-history-llms/ranke-4b/moe_smoke_train.py</code>,
+<code>moe_smoke.sbatch</code>, and the check scripts
+<code>moe_router_diag.py</code>, <code>moe_grad_check.py</code> and
+<code>moe_*_check.sbatch</code>.</li>
+<li>Data snapshot: <code>/scratch/ukrenk/moe_smoke_20261020/data</code>.
+It holds 118 training books (18.8M tokens) and 14 validation books
+(1.08M tokens); checksums are in <code>manifest.json</code>.</li>
+<li>Metrics, copied and checked with SHA-256:
+<code>G:\detritus\ranke-moe-smoke\runs\&lt;job&gt;\</code>.</li>
+<li>Checkpoint (82 GB):
+<code>/scratch/ukrenk/moe_smoke_20261020/runs/7379027_full_A/ckpt_step50</code>.
+It stays on the cluster.</li>
+</ul>
+<h2 id="question">Question</h2>
+<p>Can we train a mixture-of-experts version of Ranke (the OLMoE-1B-7B
+design) from a random start on UZH H200 cards? The test checks four
+things: training, saving, restarting, and keeping the experts in
+balance.</p>
+<p>The design:</p>
+<ul>
+<li>16 layers and 64 experts per layer;</li>
+<li>8 experts used per token;</li>
+<li>6.9B parameters in total, about 1.3B used per token.</li>
+</ul>
+<h2 id="result-of-the-final-run-job-7379027-2-h200-cards">Result of the
+final run (job 7379027, 2 H200 cards)</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Check</th>
+<th>Pass mark</th>
+<th>Result</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>No invalid numbers (NaN)</td>
+<td>none</td>
+<td>none in 150 steps</td>
+<td>pass</td>
+</tr>
+<tr class="even">
+<td>Loss falls</td>
+<td>yes</td>
+<td>validation loss 12.35 → 6.27 (step 0 → 100)</td>
+<td>pass</td>
+</tr>
+<tr class="odd">
+<td>Restart from save repeats the losses</td>
+<td>within 1%</td>
+<td>largest gap 0.71% over steps 50–99</td>
+<td>pass</td>
+</tr>
+<tr class="even">
+<td>Save works</td>
+<td>—</td>
+<td>82 GB in 43 s; reload about 1 min</td>
+<td>pass</td>
+</tr>
+<tr class="odd">
+<td>Expert balance after step 50</td>
+<td>no expert above 3× or below 0.1× its fair share</td>
+<td>worst layer 4.5×; median layer 3.8× at step 99; some experts get no
+tokens</td>
+<td><strong>fail</strong></td>
+</tr>
+<tr class="even">
+<td>Speed</td>
+<td>record</td>
+<td>15,800 tokens per second per card; 4.2 s per step; peak memory 73.5
+of 141 GB</td>
+<td>recorded</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Expert balance over time.</strong> 1× = fair share; 8× = all
+tokens go to the same 8 experts.</p>
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>step</th>
+<th>0</th>
+<th>10</th>
+<th>20</th>
+<th>30</th>
+<th>40</th>
+<th>50</th>
+<th>60</th>
+<th>70</th>
+<th>80</th>
+<th>90</th>
+<th>99</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>worst layer</td>
+<td>7.5</td>
+<td>8.0</td>
+<td>8.0</td>
+<td>8.0</td>
+<td>7.1</td>
+<td>7.1</td>
+<td>7.1</td>
+<td>6.0</td>
+<td>4.8</td>
+<td>7.2</td>
+<td>4.5</td>
+</tr>
+<tr class="even">
+<td>median layer</td>
+<td>5.8</td>
+<td>8.0</td>
+<td>8.0</td>
+<td>8.0</td>
+<td>6.0</td>
+<td>5.5</td>
+<td>5.9</td>
+<td>3.7</td>
+<td>3.8</td>
+<td>3.5</td>
+<td>3.8</td>
+</tr>
+</tbody>
+</table>
+<h2 id="what-went-wrong-on-the-way-and-the-fixes">What went wrong on the
+way, and the fixes</h2>
+<ol type="1">
+<li><strong>The experts collapse at the random start.</strong>
+<ul>
+<li>At step 0, most of the router signal is the same for every token. In
+layer 1, the shared part is 0.99 of a total spread of 1.06 (job
+7377638).</li>
+<li>So all tokens pick the same few experts.</li>
+</ul></li>
+<li><strong>The Hugging Face balance penalty could not see
+this.</strong>
+<ul>
+<li>It pools the tokens of all layers before it measures balance.</li>
+<li>MegaBlocks, the original OLMoE training library, pairs each layer’s
+counts with its own scores and averages over layers. We checked both
+source codes.</li>
+<li>Fix: <code>--balance-loss=per-layer</code> (JV approved,
+17:16).</li>
+<li>A gradient test confirmed that the penalty reaches the router
+weights (job 7378135).</li>
+<li>With the fix, balance starts to recover from about step 40.</li>
+</ul></li>
+<li><strong>Invalid numbers (NaN) at step 26 in every run.</strong>
+<ul>
+<li>Jobs 7377866, 7378053, 7378135 and 7378554 all failed this way.</li>
+<li>Cause: the OLMoE configuration treats token 1 as “padding” by
+default. In the Qwen vocabulary, token 1 is the quote mark
+<code>"</code>. Its embedding was fixed at zero.</li>
+<li>The NaN started in layer 0 and the embedding, in micro-batch 7 of
+step 26.</li>
+<li>Ruled out:
+<ul>
+<li>the validation pass (job 7378135);</li>
+<li>the step-26 text on its own (job 7378335);</li>
+<li>the fused expert kernel: the plain loop gave the same losses and the
+same NaN (job 7378554).</li>
+</ul></li>
+<li>Fix: <code>pad_token_id=None</code>. After the fix, the run passed
+step 26 (job 7378909) and completed all 150 steps (job 7379027).</li>
+</ul></li>
+<li><strong>The validation loss goes up and down</strong> (6.98 → 7.22 →
+6.27). The training text is read in book order, not shuffled. A real run
+must shuffle across books.</li>
+</ol>
+<h2 id="cost">Cost</h2>
+<ul>
+<li>All 9 jobs: 1.21 card-hours on H200 cards.</li>
+<li>About 0.38 CHF in total: cards 0.33, cores 0.01, memory 0.04.</li>
+<li>The cap was 1.5 CHF.</li>
+</ul>
+<h2 id="what-this-means-for-ranke">What this means for Ranke</h2>
+<ul>
+<li>Training, saving and restarting a 6.9B mixture-of-experts model on
+UZH H200 cards <strong>works</strong>.</li>
+<li>Expert balance <strong>does not reach the pass mark in 100
+steps</strong>. The per-layer penalty pulls the experts apart, but
+slowly.</li>
+<li>Two possible reasons, both untested:
+<ul>
+<li>the 20-step warm-up to the full learning rate (OLMoE warms up over
+about 2,500 steps);</li>
+<li>the starting weights of the Hugging Face copy.</li>
+</ul></li>
+<li>The Hugging Face model code is made for running and fine-tuning
+trained models. Twice its defaults differed from the OLMoE training
+recipe. A real run should use the OLMoE training code (OLMo-core) or
+torchtitan’s mixture-of-experts support. Both match the original
+recipe.</li>
+</ul>
+</body>
+</html>
