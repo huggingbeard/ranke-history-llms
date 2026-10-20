@@ -6,7 +6,7 @@
 </picture>
 
 <picture>
-  <img alt="" src="assets/ranke.jpg" width="360">
+  <img alt="" src="assets/figures/ranke.jpg" width="360">
 </picture>
 
 # History LLMs
