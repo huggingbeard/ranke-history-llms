@@ -5,10 +5,6 @@
   <img alt="University of Zurich logo" src="assets/logos/uzh-logo-dark.svg" width="180">
 </picture>
 
-<picture>
-  <img alt="" src="assets/figures/ranke.jpg" width="360">
-</picture>
-
 # History LLMs
 
 <table>
@@ -30,6 +26,9 @@
 
 Contact: [[history-llms@econ.uzh.ch](mailto:history-llms@econ.uzh.ch)] 
 
+<picture>
+  <img alt="" src="assets/figures/ranke.jpg" width="360">
+</picture>
 
 We thank Diego Rojas @Z.ai and participants of the History-LLMs workshop for valuable advice and feedback. We gratefully acknowledge research credits provided by [Lambda AI](https://lambda.ai/).
 
