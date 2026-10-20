@@ -27,7 +27,7 @@
 Contact: [[history-llms@econ.uzh.ch](mailto:history-llms@econ.uzh.ch)] 
 
 <picture>
-  <img alt="" src="assets/figures/ranke.jpg" width="480">
+  <img alt="" src="assets/figures/ranke2.jpg" width="500">
 </picture>
 
 We thank Diego Rojas @Z.ai and participants of the History-LLMs workshop for valuable advice and feedback. We gratefully acknowledge research credits provided by [Lambda AI](https://lambda.ai/).
