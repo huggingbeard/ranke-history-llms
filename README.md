@@ -7,16 +7,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ranke.jpg">
+  <img alt="University of Zurich logo" src="assets/ranke.jpg" width="360">
+
 </picture>
 
 # History LLMs
 
 <table>
   <tr>
-    <td align="center">
-      <strong>Daniel Göttlich</strong><br/>
-      <sub>University of Zurich</sub><br/>
-    </td>
     <td align="center">
       <strong>Dominik Loibner</strong><br/>
       <sub>University of Zurich</sub>
