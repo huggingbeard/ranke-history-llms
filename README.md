@@ -10,12 +10,12 @@
 <table>
   <tr>
     <td align="center">
-      <strong>Dominik Loibner</strong><br/>
-      <sub>University of Zurich</sub>
+      <strong>Guohui Jiang</strong><br/>
+      <sub>University of Cologne</sub>
     </td>
     <td align="center">
-      <strong>Guohui Jiang</strong><br/>
-      <sub>Cologne University</sub>
+      <strong>Dominik Loibner</strong><br/>
+      <sub>University of Zurich</sub>
     </td>
     <td align="center">
       <strong>Hans-Joachim Voth</strong><br/>
@@ -182,9 +182,9 @@ Please cite the project as follows:
 
 ```bibtex
 @techreport{goettlichetal2025,
-  author      = {G{\"o}ttlich, Daniel and Loibner, Dominik and Jiang, Guohui and Voth, Hans-Joachim},
+  author      = {G{\"o}ttlich, Daniel and Jiang, Guohui and Loibner, Dominik and Voth, Hans-Joachim},
   title       = {History LLMs},
-  institution = {University of Zurich and Cologne University},
+  institution = {University of Zurich and University of Cologne},
   year        = {2025},
   url         = {https://github.com/DGoettlich/history-llms},
 }
