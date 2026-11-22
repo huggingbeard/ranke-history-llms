@@ -48,6 +48,12 @@ pointer. Re-download any model with `tools/download_weights.py` (needs the HF to
 
 **Complete:** every model published on the HF org is stored locally, across G: and the C: cache.
 
+## Internal test models (not on the HF org)
+
+| Model | Type | Cutoff | Size | Where the real weights are |
+|---|---|---|---|---|
+| Ranke-MoE-4B-1900 (2026-11-22; 4.19B total, 1.02B per token; card: `MODEL_CARD_Ranke-MoE-4B-1900.md`) | MoE base | 1900 | 8.38 GB | `G:\detritus\ranke-moe-4b\hf_ext86_step41160` (SHA-256 of the weights in the card) |
+
 ## Not yet released (announced cutoffs)
 
 The prerelease notes announce cutoffs **1933, 1939, 1946**. As of 2026-09-07 these are
